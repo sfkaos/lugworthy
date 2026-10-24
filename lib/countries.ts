@@ -10,7 +10,12 @@ export const COUNTRY_NAMES: Record<string, string> = {
   TR: "Turkey", AE: "United Arab Emirates", BH: "Bahrain", KW: "Kuwait", LB: "Lebanon",
   IL: "Israel", IN: "India", CN: "China", HK: "Hong Kong", TW: "Taiwan", JP: "Japan",
   SG: "Singapore", MY: "Malaysia", ID: "Indonesia", TH: "Thailand", PH: "Philippines",
-  AU: "Australia", NZ: "New Zealand",
+  AU: "Australia", NZ: "New Zealand", PT: "Portugal", RU: "Russia", UA: "Ukraine",
+  RO: "Romania", LT: "Lithuania", LV: "Latvia", EE: "Estonia", RS: "Serbia", BY: "Belarus",
+  LU: "Luxembourg", MC: "Monaco", LI: "Liechtenstein", CY: "Cyprus", MT: "Malta", KR: "South Korea",
+  VN: "Vietnam", PK: "Pakistan", BD: "Bangladesh", LK: "Sri Lanka", NP: "Nepal", MO: "Macau",
+  QA: "Qatar", SA: "Saudi Arabia", EG: "Egypt", ZA: "South Africa", GH: "Ghana", NG: "Nigeria",
+  KE: "Kenya", PE: "Peru", UY: "Uruguay", KZ: "Kazakhstan", GE: "Georgia", AM: "Armenia",
 };
 
 const ALIASES: [RegExp, string][] = [
@@ -20,6 +25,7 @@ const ALIASES: [RegExp, string][] = [
   [/^uae\b|^united arab emirates/i, "AE"],
   [/^hong kong/i, "HK"],
   [/^czech/i, "CZ"],
+  [/^(great britain)\b/i, "GB"],
 ];
 
 /** "USA (Dallas, TX)" -> "US"; "Unknown" or ambiguous mixes -> null. */

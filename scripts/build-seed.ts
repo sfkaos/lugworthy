@@ -47,13 +47,12 @@ interface RawProduct {
 
 const IMPORTED_AT = "2026-10-24T00:00:00Z";
 
-// Big mass-market or haute-horlogerie houses that ended up in the outreach list.
-// Doc 01 non-goal: "non-micro luxury brands". Kept as hidden so an editor can flip them.
+// Brands owned by a watch group or mass-market maker. The directory lists independent brands only
+// (doc 01), so these stay hidden; an editor can flip them if ownership changes.
 const HIDDEN = new Set(
   [
-    "Bulova", "Citizen", "Fossil", "Timex", "G-SHOCK", "Oris", "Frederique Constant", "Alpina",
-    "Maurice Lacroix", "Festina Swiss Made", "Titan", "Accutron", "Tutima", "H. Moser & Cie.",
-    "MB&F", "Laurent Ferrier", "Bremont", "Junghans", "Locman", "D1 Milano", "Shinola",
+    "Bulova", "Citizen", "Fossil", "Timex", "G-SHOCK", "Frederique Constant", "Alpina",
+    "Maurice Lacroix", "Festina Swiss Made", "Titan", "Accutron",
   ].map((s) => s.toLowerCase()),
 );
 
@@ -191,6 +190,130 @@ for (const r of new Set([...b2ByDomain.values(), ...b2ByName.values()])) {
   if (usedB2.has(r)) continue;
   addBrand({ name: r.name, domain: cleanDomain(r.website), countryRaw: r.country, siteOk: true, source: "new-brands-batch-2", b2: r });
 }
+
+// ---------- Directory sources (Coroa microbrand guide, Watch Police) ----------
+//
+// data/raw/directories.json holds brand-level facts read from the two public directories.
+// Brands already in the sheets get missing fields filled in; new independent brands are added.
+
+interface CoroaRow {
+  coroaSlug: string; name: string; ourSlug?: string; country?: string; city?: string; website?: string;
+  founded?: number; movement?: string; caliberFamilies?: string[]; calibers?: string[];
+  caseSizeMm?: [number, number]; styles?: string[]; avgPriceUsd?: number; checked?: string; detail?: boolean;
+}
+interface WpRow { name: string; slug: string; country: string | null; founded: number | null; watchCount: number }
+const dirs = JSON.parse(fs.readFileSync(path.join(root, "data/raw/directories.json"), "utf8")) as {
+  coroa: { source: string; brands: CoroaRow[] };
+  watchpolice: { source: string; brands: WpRow[] };
+};
+
+// Group-owned or state-owned, so not independent.
+const EXCLUDE: Record<string, string> = {
+  "beijing-watch-factory": "state-owned", seagull: "state-owned movement maker", edox: "owned by Citychamp Watch & Jewellery",
+  "thomas-earnshaw": "part of a multi-brand fashion watch group", perrelet: "owned by Festina Group",
+};
+// Added as drafts for an editor to check: marketplace or homage sellers, fashion-led labels,
+// ownership unclear, or almost no data.
+const REVIEW: Record<string, string> = Object.fromEntries([
+  ...["addiesdive", "baltany", "berny", "boderry", "burei", "cronos", "feice", "lobinni", "militado", "pagani-design", "phorcydes", "san-martin", "steeldive", "tandorio", "watchdives", "thorn", "tactical-frog", "sugess-watches", "milifortic", "proxima", "padigam", "bobwellson"].map((s) => [s, "marketplace or homage seller"]),
+  ...["filippo-loreti-watches", "nordgreen", "triwa", "detomaso", "zeppelin", "mulco", "gaga-milano", "bomberg", "rockwell-time", "torgoen", "trintec", "tokyo-flash", "the-electricianz", "gevril", "jacob-jensen", "vescari"].map((s) => [s, "fashion or lifestyle label"]),
+  ...["jacques-du-manoir", "welly-merck", "mondia-swiss", "mathey-tissot", "lip", "swiss-watch-company", "juvenia", "cyma", "kienzle-1822", "waltham"].map((s) => [s, "ownership unclear"]),
+  ...["alto", "triton", "auctor-watches", "dominatore-del-mare"].map((s) => [s, "too little data to verify"]),
+]);
+
+// Watch Police brands that aren't in the sheets or Coroa and look independent. Added as drafts
+// because Watch Police gives no website to check against.
+const WP_ADD = new Set([
+  "aggregate-watches", "alexandre-meerson", "aquinus", "ardra-labs", "avra-watch-company", "ballast", "black-badger",
+  "blanchet", "borgvardt", "ca-watch-co", "cased-in-time", "chronologia", "convoy-co", "curtis-and-co", "cw-t", "dagaz",
+  "david-lane-design", "dejager-watches", "dominique-renaud", "fifty-four", "freedom-to-exist", "giorgio-piola", "grone",
+  "hassler-instruments", "ifl-watches", "k-grun-sohne", "karlskrona", "leman-watch-co", "les-rhabilleurs",
+  "mancheront", "marteau-co", "matthew-and-son-watches", "md-watches-studio", "meccaniche-veloci", "medeor-watches",
+  "miki-eleta", "charles-henri-meylan", "alpha-flag", "apeks", "inf4ntry", "icon", "keris", "enclave", "n3w5", "nh-watch-co",
+]);
+
+const COROA_STYLE: Record<string, string> = { chronograph: "chronograph", dive: "dive", dress: "dress", field: "field", gmt: "GMT", pilot: "pilot" };
+
+function factsFrom(c: CoroaRow) {
+  if (!c.movement && !c.caliberFamilies && !c.caseSizeMm && !c.avgPriceUsd) return null;
+  return {
+    movement: c.movement ?? null,
+    caliberFamilies: c.caliberFamilies ?? [],
+    calibers: [...new Set(c.calibers ?? [])].slice(0, 12),
+    caseSizeMm: c.caseSizeMm ?? null,
+    typicalPriceUsd: c.avgPriceUsd ? c.avgPriceUsd * 100 : null,
+    source: `${dirs.coroa.source}brand/${c.coroaSlug}/`,
+    checkedAt: c.checked ?? null,
+  };
+}
+
+function classFor(c: CoroaRow) {
+  const fam = c.caliberFamilies ?? [];
+  if ((c.avgPriceUsd ?? 0) >= 10000 || (fam.length && fam.every((f) => f === "in-house calibre"))) return "independent" as const;
+  return LEGACY.has(c.name.toLowerCase()) || (c.founded != null && c.founded < 1980) ? ("legacy_micro" as const) : ("microbrand" as const);
+}
+
+const directoryLog: { name: string; slug: string; action: string; reason: string }[] = [];
+
+for (const c of dirs.coroa.brands) {
+  const facts = factsFrom(c);
+  const styles = (c.styles ?? []).map((s) => COROA_STYLE[s]).filter(Boolean);
+  if (c.ourSlug) {
+    const b = brands.get(c.ourSlug);
+    if (!b) continue;
+    b.sources.push("coroa");
+    b.city ??= c.city ?? null;
+    if (!b.country && c.country) { b.country = c.country; b.countryLabel = null; }
+    b.websiteUrl ??= c.website ?? null;
+    b.founded ??= c.founded ?? null;
+    b.facts ??= facts;
+    if (!b.styleTags.length) b.styleTags = styles;
+    if (!b.priceBand && c.avgPriceUsd) b.priceBand = bandFor(c.avgPriceUsd * 100);
+    continue;
+  }
+  const slug = slugify(c.name);
+  if (EXCLUDE[c.coroaSlug]) {
+    directoryLog.push({ name: c.name, slug, action: "excluded", reason: EXCLUDE[c.coroaSlug] });
+    continue;
+  }
+  if (brands.has(slug)) continue;
+  const review = REVIEW[c.coroaSlug];
+  const status = review || !c.website ? "draft" : "published";
+  brands.set(slug, {
+    slug, name: c.name, websiteUrl: c.website ?? null, platform: null,
+    country: c.country ?? null, countryLabel: null, city: c.city ?? null, story: null,
+    styleTags: styles, priceMin: null, priceMax: null, priceBand: c.avgPriceUsd ? bandFor(c.avgPriceUsd * 100) : null,
+    currency: "USD", instagram: null, brandClass: classFor(c), enPuntoExhibitor: false, status,
+    claimStatus: "unclaimed", imageLicenseStatus: "none", colorPrimary: null, colorSecondary: null,
+    shipsTo: [], affiliate: null, lastSyncedAt: null, sources: ["coroa"], founded: c.founded ?? null, facts,
+  });
+  directoryLog.push({ name: c.name, slug, action: status === "published" ? "added" : "added as draft", reason: review ?? (c.website ? "" : "no website found yet") });
+}
+
+const brandByKey = new Map<string, Brand>();
+for (const b of brands.values()) brandByKey.set(keyName(b.name), b);
+for (const w of dirs.watchpolice.brands) {
+  const b = brandByKey.get(keyName(w.name));
+  if (b) {
+    if (!b.sources.includes("watchpolice")) b.sources.push("watchpolice");
+    b.founded ??= w.founded;
+    continue;
+  }
+  if (!WP_ADD.has(w.slug)) continue;
+  const slug = slugify(w.name);
+  if (brands.has(slug)) continue;
+  // Watch Police labels many brands "America" regardless of origin, so only clear country names are used.
+  const country = w.country && w.country !== "America" ? toIso2(w.country) : null;
+  brands.set(slug, {
+    slug, name: w.name, websiteUrl: null, platform: null, country, countryLabel: null, city: null, story: null,
+    styleTags: [], priceMin: null, priceMax: null, priceBand: null, currency: "USD", instagram: null,
+    brandClass: "microbrand", enPuntoExhibitor: false, status: "draft", claimStatus: "unclaimed",
+    imageLicenseStatus: "none", colorPrimary: null, colorSecondary: null, shipsTo: [], affiliate: null,
+    lastSyncedAt: null, sources: ["watchpolice"], founded: w.founded, facts: null,
+  });
+  directoryLog.push({ name: w.name, slug, action: "added as draft", reason: "Watch Police only; no website yet" });
+}
+fs.writeFileSync(path.join(root, "data/seed/directory-log.json"), JSON.stringify(directoryLog, null, 1));
 
 // ---------- Models ----------
 

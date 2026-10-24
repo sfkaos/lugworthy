@@ -7,10 +7,11 @@ license (a to-scale case outline is drawn instead), and no money figures.
 
 ## What's in it
 
-- **600 published brands** from the two brand spreadsheets ("Brand outreach status – all brands" and
-  "New independent watch brands", batch 2). Each has a hub page, country, city, style tags, a price
-  band and, for 347 of them, a short story. 21 mass-market and luxury houses are hidden, and 10
-  brands are drafts because their website couldn't be verified.
+- **1,263 published independent brands.** About 610 come from the two brand spreadsheets ("Brand
+  outreach status – all brands" and "New independent watch brands", batch 2), and about 650 more
+  from the Coroa microbrand guide. Each has a hub page with country, city and style tags, and most
+  have founding year, movement type, movement makers, calibers, case-size range and a typical price.
+  11 group-owned brands are hidden, and 141 brands are drafts for an editor to check (see below).
 - **78 models (204 variants) across 12 brands**, mapped from the brands' public Shopify product
   feeds. They show as "imported, not confirmed" until an editor or the brand reviews them.
 - Faceted browse at `/watches` with diameter, lug-to-lug, thickness, water resistance, price,
@@ -42,6 +43,12 @@ BASE_URL=http://localhost:3000 node tests/e2e/acceptance.mjs   # acceptance chec
 
 - `data/raw/sheets.json` is a snapshot of the spreadsheet columns used, with the private columns
   removed. `data/raw/shopify-sample.json` holds the product feeds.
+- `data/raw/directories.json` is a snapshot of brand-level facts from the Coroa microbrand guide
+  (all 1,314 brands, detail pages for 706) and the Watch Police brand index (A to N). The seed fills
+  missing fields for brands already in the sheets and adds new independent brands. Group-owned
+  brands are excluded, and marketplace, fashion-led or unclear brands are added as drafts
+  (`EXCLUDE`, `REVIEW` and `WP_ADD` in `scripts/build-seed.ts`). Each build writes
+  `data/seed/directory-log.json` listing what was added or excluded and why.
 - `npm run seed:build` regenerates `data/seed/brands.json` and `models.json`.
 - `npm run ingest -- <domain>` pulls a brand's Shopify feed politely, respecting robots.txt with a
   2 s delay. It needs outbound network access, for example a scheduled job on Vercel.
@@ -61,6 +68,8 @@ BASE_URL=http://localhost:3000 node tests/e2e/acceptance.mjs   # acceptance chec
 
 ## Known gaps and assumptions
 
+- Directory facts are brand-level and unconfirmed. Brand pages label them with the source and
+  check date. Watch Police's country column is unreliable, so it's only used when nothing else is.
 - Models exist for only 12 brands so far. Spec extraction from product descriptions is automatic
   and unreviewed, so some values will be wrong until checked.
 - Store currencies for Farer (GBP), Unimatic and Serica (EUR) are assumed. FX rates in

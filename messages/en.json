@@ -99,18 +99,127 @@
     "wrAtLeast": "{m} m+"
   },
   "enum": {
-    "mov": { "automatic": "Automatic", "hand_wound": "Hand-wound", "quartz": "Quartz", "mecaquartz": "Meca-quartz", "solar": "Solar", "kinetic": "Kinetic", "spring_drive": "Spring Drive", "smart_hybrid": "Smart hybrid" },
-    "style": { "diver": "Diver", "field": "Field", "pilot": "Pilot", "gmt": "GMT", "chronograph": "Chronograph", "dress": "Dress", "racing": "Racing", "skin_diver": "Skin diver", "integrated_bracelet": "Integrated bracelet", "tool": "Tool", "digital": "Digital", "other": "Other" },
-    "dial": { "black": "Black", "white": "White", "silver": "Silver", "grey": "Grey", "blue": "Blue", "green": "Green", "red": "Red", "orange": "Orange", "yellow": "Yellow", "brown": "Brown", "cream": "Cream", "salmon": "Salmon", "purple": "Purple", "pink": "Pink", "teal": "Teal", "multi": "Multicolor", "skeleton": "Skeleton" },
-    "strap": { "bracelet": "Bracelet", "rubber": "Rubber", "fkm": "FKM", "silicone": "Silicone", "leather": "Leather", "nato": "NATO / single-pass", "canvas": "Canvas", "mesh": "Mesh", "sailcloth": "Sailcloth", "other": "Other" },
-    "avail": { "in_stock": "In stock", "preorder": "Preorder", "crowdfunding": "Crowdfunding", "sold_out": "Sold out" },
-    "crystal": { "sapphire": "Sapphire", "mineral": "Mineral", "hesalite_acrylic": "Acrylic / Hesalite", "other": "Other" },
-    "crystalShape": { "flat": "flat", "domed": "domed", "double_domed": "double-domed", "box": "box" },
-    "mat": { "steel_316l": "316L steel", "steel_904l": "904L steel", "titanium_gr2": "Titanium", "titanium_gr5": "Grade 5 titanium", "bronze": "Bronze", "brass": "Brass", "ceramic": "Ceramic", "carbon": "Carbon", "aluminium": "Aluminium", "gold": "Gold", "silver": "Silver", "other": "Other" },
-    "comp": { "date": "Date", "day_date": "Day-date", "gmt": "GMT", "world_time": "World time", "chronograph": "Chronograph", "flyback": "Flyback", "moonphase": "Moonphase", "power_reserve": "Power reserve", "small_seconds": "Small seconds", "alarm": "Alarm", "annual_calendar": "Annual calendar", "regulator": "Regulator" },
-    "status": { "in_production": "In production", "preorder": "Preorder", "crowdfunding": "Crowdfunding", "discontinued": "Discontinued", "sold_out": "Sold out", "announced": "Announced" },
-    "band": { "budget": "Under $300", "affordable": "$300–700", "mid": "$700–1,500", "upper_mid": "$1,500–3,000", "high": "$3,000+" },
-    "provenance": { "imported": "Imported from the brand’s store, not yet confirmed", "brand": "Confirmed by the brand", "editor": "Checked by a Lugworthy editor" }
+    "mov": {
+      "automatic": "Automatic",
+      "hand_wound": "Hand-wound",
+      "quartz": "Quartz",
+      "mecaquartz": "Meca-quartz",
+      "solar": "Solar",
+      "kinetic": "Kinetic",
+      "spring_drive": "Spring Drive",
+      "smart_hybrid": "Smart hybrid"
+    },
+    "style": {
+      "diver": "Diver",
+      "field": "Field",
+      "pilot": "Pilot",
+      "gmt": "GMT",
+      "chronograph": "Chronograph",
+      "dress": "Dress",
+      "racing": "Racing",
+      "skin_diver": "Skin diver",
+      "integrated_bracelet": "Integrated bracelet",
+      "tool": "Tool",
+      "digital": "Digital",
+      "other": "Other"
+    },
+    "dial": {
+      "black": "Black",
+      "white": "White",
+      "silver": "Silver",
+      "grey": "Grey",
+      "blue": "Blue",
+      "green": "Green",
+      "red": "Red",
+      "orange": "Orange",
+      "yellow": "Yellow",
+      "brown": "Brown",
+      "cream": "Cream",
+      "salmon": "Salmon",
+      "purple": "Purple",
+      "pink": "Pink",
+      "teal": "Teal",
+      "multi": "Multicolor",
+      "skeleton": "Skeleton"
+    },
+    "strap": {
+      "bracelet": "Bracelet",
+      "rubber": "Rubber",
+      "fkm": "FKM",
+      "silicone": "Silicone",
+      "leather": "Leather",
+      "nato": "NATO / single-pass",
+      "canvas": "Canvas",
+      "mesh": "Mesh",
+      "sailcloth": "Sailcloth",
+      "other": "Other"
+    },
+    "avail": {
+      "in_stock": "In stock",
+      "preorder": "Preorder",
+      "crowdfunding": "Crowdfunding",
+      "sold_out": "Sold out"
+    },
+    "crystal": {
+      "sapphire": "Sapphire",
+      "mineral": "Mineral",
+      "hesalite_acrylic": "Acrylic / Hesalite",
+      "other": "Other"
+    },
+    "crystalShape": {
+      "flat": "flat",
+      "domed": "domed",
+      "double_domed": "double-domed",
+      "box": "box"
+    },
+    "mat": {
+      "steel_316l": "316L steel",
+      "steel_904l": "904L steel",
+      "titanium_gr2": "Titanium",
+      "titanium_gr5": "Grade 5 titanium",
+      "bronze": "Bronze",
+      "brass": "Brass",
+      "ceramic": "Ceramic",
+      "carbon": "Carbon",
+      "aluminium": "Aluminium",
+      "gold": "Gold",
+      "silver": "Silver",
+      "other": "Other"
+    },
+    "comp": {
+      "date": "Date",
+      "day_date": "Day-date",
+      "gmt": "GMT",
+      "world_time": "World time",
+      "chronograph": "Chronograph",
+      "flyback": "Flyback",
+      "moonphase": "Moonphase",
+      "power_reserve": "Power reserve",
+      "small_seconds": "Small seconds",
+      "alarm": "Alarm",
+      "annual_calendar": "Annual calendar",
+      "regulator": "Regulator"
+    },
+    "status": {
+      "in_production": "In production",
+      "preorder": "Preorder",
+      "crowdfunding": "Crowdfunding",
+      "discontinued": "Discontinued",
+      "sold_out": "Sold out",
+      "announced": "Announced"
+    },
+    "band": {
+      "budget": "Under $300",
+      "affordable": "$300–700",
+      "mid": "$700–1,500",
+      "upper_mid": "$1,500–3,000",
+      "high": "$3,000+"
+    },
+    "provenance": {
+      "imported": "Imported from the brand’s store, not yet confirmed",
+      "brand": "Confirmed by the brand",
+      "editor": "Checked by a Lugworthy editor"
+    }
   },
   "card": {
     "from": "From {price}",
@@ -153,7 +262,16 @@
     "tags": "Known for",
     "priceRange": "Price range",
     "country": "Country",
-    "lastSync": "Catalog synced {date}"
+    "lastSync": "Catalog synced {date}",
+    "atAGlance": "At a glance",
+    "founded": "Founded",
+    "movement": "Movement",
+    "caliberFamilies": "Movement makers",
+    "calibers": "Calibers used",
+    "caseSizes": "Case sizes",
+    "typicalPrice": "Typical price",
+    "factsSource": "From the {source}, checked {date}. Not yet confirmed by the brand.",
+    "factsSourceNoDate": "From the {source}. Not yet confirmed by the brand."
   },
   "model": {
     "buy": "Buy at {brand} ↗",
@@ -176,7 +294,14 @@
     "fits": "Lugs stay on wrists from about {min} in (lug-to-lug rule of thumb)"
   },
   "spec": {
-    "group": { "case": "Case", "movement": "Movement", "crystal": "Crystal and bezel", "water": "Water resistance", "dial": "Dial and lume", "strap": "Strap" },
+    "group": {
+      "case": "Case",
+      "movement": "Movement",
+      "crystal": "Crystal and bezel",
+      "water": "Water resistance",
+      "dial": "Dial and lume",
+      "strap": "Strap"
+    },
     "caseDiameterMm": "Diameter",
     "lugToLugMm": "Lug-to-lug",
     "thicknessMm": "Thickness",

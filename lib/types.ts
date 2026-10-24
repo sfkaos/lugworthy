@@ -78,6 +78,19 @@ export interface Brand {
   affiliate: { network: string; urlTemplate: string } | null;
   lastSyncedAt: string | null;
   sources: string[]; // which spreadsheet(s) the row came from
+  founded?: number | null;
+  /** Brand-level facts from public watch directories, used until the brand's own catalog is imported. */
+  facts?: BrandFacts | null;
+}
+
+export interface BrandFacts {
+  movement: string | null; // "automatic only", "quartz and mechanical", ...
+  caliberFamilies: string[]; // "Miyota/Citizen", "Sellita", "in-house calibre", ...
+  calibers: string[];
+  caseSizeMm: [number, number] | null;
+  typicalPriceUsd: number | null; // minor units; the directory's average listed price
+  source: string; // directory URL
+  checkedAt: string | null;
 }
 
 export interface Specs {

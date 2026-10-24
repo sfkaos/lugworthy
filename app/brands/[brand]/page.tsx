@@ -58,6 +58,17 @@ export default async function BrandPage({ params, searchParams }: { params: P; s
       ].filter(([, v]) => v)
     : [];
 
+  const f = brand.facts;
+  const sizes = f?.caseSizeMm ? (f.caseSizeMm[0] === f.caseSizeMm[1] ? mm(f.caseSizeMm[0]) : `${mm(f.caseSizeMm[0])} – ${mm(f.caseSizeMm[1])}`) : null;
+  const glance = [
+    [t("brand.founded"), brand.founded ? String(brand.founded) : null],
+    [t("brand.movement"), f?.movement ? f.movement.charAt(0).toUpperCase() + f.movement.slice(1) : null],
+    [t("brand.caliberFamilies"), f?.caliberFamilies.length ? f.caliberFamilies.join(", ") : null],
+    [t("brand.calibers"), f?.calibers.length ? f.calibers.join(", ") : null],
+    [t("brand.caseSizes"), sizes],
+    [t("brand.typicalPrice"), f?.typicalPriceUsd ? `≈ ${money(f.typicalPriceUsd)}` : null],
+  ].filter(([, v]) => v);
+
   return (
     <div style={brandThemeStyle(brand)}>
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd([
@@ -138,6 +149,23 @@ export default async function BrandPage({ params, searchParams }: { params: P; s
                   <div key={k as string} className="contents"><dt className="text-muted">{k}</dt><dd>{v}</dd></div>
                 ))}
               </dl>
+            </section>
+          )}
+          {glance.length > 0 && (
+            <section className="card p-4">
+              <h2 className="mb-2 font-semibold">{t("brand.atAGlance")}</h2>
+              <dl className="tabular grid grid-cols-[auto_1fr] gap-x-3 gap-y-1 text-sm">
+                {glance.map(([k, v]) => (
+                  <div key={k as string} className="contents"><dt className="text-muted">{k}</dt><dd>{v}</dd></div>
+                ))}
+              </dl>
+              {f && (
+                <p className="mt-2 text-xs text-muted">
+                  <a className="link" href={f.source} rel="noopener" target="_blank">
+                    {f.checkedAt ? t("brand.factsSource", { source: "Coroa microbrand guide", date: f.checkedAt }) : t("brand.factsSourceNoDate", { source: "Coroa microbrand guide" })}
+                  </a>
+                </p>
+              )}
             </section>
           )}
           <section className="card p-4">
