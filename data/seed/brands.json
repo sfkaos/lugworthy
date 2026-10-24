@@ -49755,13 +49755,15 @@
  {
   "slug": "rbaptiste",
   "name": "RBaptiste",
-  "websiteUrl": null,
+  "websiteUrl": "https://rbaptiste.com",
   "platform": null,
   "country": "BE",
   "countryLabel": null,
-  "city": null,
+  "city": "Verviers",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress"
+  ],
   "priceMin": null,
   "priceMax": null,
   "priceBand": null,
@@ -49769,7 +49771,7 @@
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -49791,7 +49793,7 @@
    ],
    "typicalPriceUsd": null,
    "source": "https://coroawatches.com/microbrands/en/brand/rbaptiste/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -61472,16 +61474,18 @@
  {
   "slug": "vescari",
   "name": "Vescari",
-  "websiteUrl": null,
+  "websiteUrl": "https://vescari.com",
   "platform": null,
   "country": "NL",
   "countryLabel": null,
   "city": null,
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "budget",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
@@ -61497,18 +61501,24 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2016,
   "facts": {
-   "movement": "quartz",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "quartz only",
+   "caliberFamilies": [
+    "Seiko/TMI",
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Seiko VK63",
+    "Seiko VK64"
+   ],
    "caseSizeMm": [
     40,
     40
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 22000,
    "source": "https://coroawatches.com/microbrands/en/brand/vescari/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -61743,21 +61753,24 @@
  {
   "slug": "viis",
   "name": "VIIS",
-  "websiteUrl": null,
+  "websiteUrl": "https://viiswatch.com",
   "platform": null,
   "country": "AT",
   "countryLabel": null,
-  "city": null,
+  "city": "Graz",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "GMT",
+   "pilot"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "mid",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -61768,18 +61781,22 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2024,
   "facts": {
-   "movement": "automatic",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "automatic only",
+   "caliberFamilies": [
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Miyota 9075"
+   ],
    "caseSizeMm": [
     42,
     42
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 71000,
    "source": "https://coroawatches.com/microbrands/en/brand/viis/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -61831,21 +61848,23 @@
  {
   "slug": "vincent-deprez",
   "name": "Vincent Deprez",
-  "websiteUrl": null,
+  "websiteUrl": "https://vincentdeprez.watch",
   "platform": null,
   "country": "CH",
   "countryLabel": null,
-  "city": null,
+  "city": "Geneva",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "high",
   "currency": "USD",
   "instagram": null,
-  "brandClass": "microbrand",
+  "brandClass": "independent",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -61856,38 +61875,44 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2022,
   "facts": {
    "movement": "mechanical",
-   "caliberFamilies": [],
+   "caliberFamilies": [
+    "in-house calibre"
+   ],
    "calibers": [],
    "caseSizeMm": [
     39,
     39
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 11000000,
    "source": "https://coroawatches.com/microbrands/en/brand/vincent-deprez/",
-   "checkedAt": null
+   "checkedAt": "Oct 22, 2026"
   }
  },
  {
   "slug": "viqueria",
   "name": "Viqueria",
-  "websiteUrl": null,
+  "websiteUrl": "https://viqueriawatches.com",
   "platform": null,
   "country": "IT",
   "countryLabel": null,
-  "city": null,
+  "city": "Voghera",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dive",
+   "dress",
+   "GMT"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -61898,18 +61923,28 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2017,
   "facts": {
    "movement": "automatic and hand-wound",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Seiko/TMI",
+    "Sellita",
+    "Chinese",
+    "Russian",
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Miyota 8215",
+    "Seiko NH34",
+    "Sellita SW200"
+   ],
    "caseSizeMm": [
     38,
     43.5
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 38000,
    "source": "https://coroawatches.com/microbrands/en/brand/viqueria/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -61991,21 +62026,21 @@
  {
   "slug": "visser",
   "name": "Visser",
-  "websiteUrl": null,
+  "websiteUrl": "https://visserwatch.com",
   "platform": null,
   "country": "US",
   "countryLabel": null,
-  "city": null,
+  "city": "Seymour",
   "story": null,
   "styleTags": [],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "mid",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62016,18 +62051,22 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2016,
   "facts": {
    "movement": "mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Miyota 9015"
+   ],
    "caseSizeMm": [
     42,
     42
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 140000,
    "source": "https://coroawatches.com/microbrands/en/brand/visser/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -62080,13 +62119,16 @@
  {
   "slug": "vittorino",
   "name": "Vittorino",
-  "websiteUrl": null,
+  "websiteUrl": "https://vittorinowatches.com",
   "platform": null,
   "country": "BR",
   "countryLabel": null,
   "city": null,
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph",
+   "dress"
+  ],
   "priceMin": null,
   "priceMax": null,
   "priceBand": null,
@@ -62094,7 +62136,7 @@
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62108,35 +62150,42 @@
   "founded": null,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Miyota/Citizen",
+    "Seiko/TMI"
+   ],
+   "calibers": [
+    "Seiko VK64"
+   ],
    "caseSizeMm": [
     40,
     40
    ],
    "typicalPriceUsd": null,
    "source": "https://coroawatches.com/microbrands/en/brand/vittorino/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
   "slug": "void-watches",
   "name": "Void Watches",
-  "websiteUrl": null,
+  "websiteUrl": "https://voidwatches.com",
   "platform": null,
   "country": "SE",
   "countryLabel": null,
-  "city": null,
+  "city": "Stockholm",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "budget",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62147,18 +62196,29 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2008,
   "facts": {
-   "movement": "quartz",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "quartz only",
+   "caliberFamilies": [
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Miyota 8215",
+    "Miyota 2035",
+    "Miyota 2115",
+    "Miyota 2005",
+    "Miyota GM10",
+    "Miyota GM12",
+    "Miyota 6L76",
+    "Miyota 2025"
+   ],
    "caseSizeMm": [
     38,
     38
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 24000,
    "source": "https://coroawatches.com/microbrands/en/brand/void-watches/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
@@ -62197,21 +62257,25 @@
  {
   "slug": "von-vogel",
   "name": "Von Vogel",
-  "websiteUrl": null,
+  "websiteUrl": "https://vonvogel-design.com",
   "platform": null,
   "country": "DK",
   "countryLabel": null,
-  "city": null,
+  "city": "Viborg",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dive",
+   "dress",
+   "pilot"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "budget",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62222,8 +62286,16 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
-  "facts": null
+  "founded": 2019,
+  "facts": {
+   "movement": null,
+   "caliberFamilies": [],
+   "calibers": [],
+   "caseSizeMm": null,
+   "typicalPriceUsd": 27000,
+   "source": "https://coroawatches.com/microbrands/en/brand/von-vogel/",
+   "checkedAt": "Oct 17, 2026"
+  }
  },
  {
   "slug": "vortic-watch-company",
@@ -62314,21 +62386,23 @@
  {
   "slug": "votum",
   "name": "Votum",
-  "websiteUrl": null,
+  "websiteUrl": "https://votumwatches.com",
   "platform": null,
   "country": "CH",
   "countryLabel": null,
-  "city": null,
+  "city": "Nidau",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
-  "brandClass": "microbrand",
+  "brandClass": "legacy_micro",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62339,18 +62413,22 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 1962,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "ETA"
+   ],
+   "calibers": [
+    "ETA 6498"
+   ],
    "caseSizeMm": [
     29,
     42
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 65000,
    "source": "https://coroawatches.com/microbrands/en/brand/votum/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -62446,21 +62524,26 @@
  {
   "slug": "vratislavia-conceptum",
   "name": "Vratislavia Conceptum",
-  "websiteUrl": null,
+  "websiteUrl": "https://vratislavia-watches.com",
   "platform": null,
   "country": "PL",
   "countryLabel": null,
-  "city": null,
+  "city": "Wroclaw",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph",
+   "dress",
+   "field",
+   "pilot"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62471,18 +62554,23 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2012,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Miyota 9015",
+    "Miyota 9039"
+   ],
    "caseSizeMm": [
     40,
     41
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 49000,
    "source": "https://coroawatches.com/microbrands/en/brand/vratislavia-conceptum/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -62531,21 +62619,21 @@
  {
   "slug": "vultura",
   "name": "Vultura",
-  "websiteUrl": null,
+  "websiteUrl": "https://vultura.net/",
   "platform": null,
   "country": "FR",
   "countryLabel": null,
-  "city": null,
+  "city": "Le Mesnil-le-Roi",
   "story": null,
   "styleTags": [],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "budget",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62556,18 +62644,18 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2023,
   "facts": {
-   "movement": "quartz",
+   "movement": "quartz only",
    "caliberFamilies": [],
    "calibers": [],
    "caseSizeMm": [
     26,
     26
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 28000,
    "source": "https://coroawatches.com/microbrands/en/brand/vultura/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
@@ -62692,7 +62780,7 @@
  {
   "slug": "waltham",
   "name": "Waltham",
-  "websiteUrl": null,
+  "websiteUrl": "https://waltham.ch",
   "platform": null,
   "country": "CH",
   "countryLabel": null,
@@ -62701,10 +62789,10 @@
   "styleTags": [],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "high",
   "currency": "USD",
   "instagram": null,
-  "brandClass": "microbrand",
+  "brandClass": "legacy_micro",
   "enPuntoExhibitor": false,
   "status": "draft",
   "claimStatus": "unclaimed",
@@ -62717,18 +62805,22 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 1850,
   "facts": {
    "movement": "automatic",
    "caliberFamilies": [],
-   "calibers": [],
+   "calibers": [
+    "Soprod C115",
+    "Sellita SW200",
+    "Soprod M100"
+   ],
    "caseSizeMm": [
     43,
     43
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 450000,
    "source": "https://coroawatches.com/microbrands/en/brand/waltham/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
@@ -62777,16 +62869,23 @@
  {
   "slug": "watchdives",
   "name": "Watchdives",
-  "websiteUrl": null,
+  "websiteUrl": "https://watchdives.com",
   "platform": null,
   "country": "CN",
   "countryLabel": null,
-  "city": null,
+  "city": "Shenzhen",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dive",
+   "field",
+   "dress",
+   "chronograph",
+   "GMT",
+   "pilot"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "budget",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
@@ -62802,35 +62901,46 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2019,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Chinese",
+    "Seiko/TMI",
+    "Miyota/Citizen",
+    "ETA",
+    "Sellita"
+   ],
+   "calibers": [
+    "Seiko NH35",
+    "PT5000",
+    "VH31",
+    "VK63"
+   ],
    "caseSizeMm": null,
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 19000,
    "source": "https://coroawatches.com/microbrands/en/brand/watchdives/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
   "slug": "watchly",
   "name": "Watchly",
-  "websiteUrl": null,
+  "websiteUrl": "https://watchly.com",
   "platform": null,
   "country": "CA",
   "countryLabel": null,
-  "city": null,
+  "city": "Toronto",
   "story": null,
   "styleTags": [],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "budget",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62850,29 +62960,31 @@
     40,
     40
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 3600,
    "source": "https://coroawatches.com/microbrands/en/brand/watchly/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
   "slug": "wayforth",
   "name": "Wayforth",
-  "websiteUrl": null,
+  "websiteUrl": "https://wayforthwatches.com",
   "platform": null,
   "country": "CA",
   "countryLabel": null,
-  "city": null,
+  "city": "Toronto",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -62883,18 +62995,22 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2021,
   "facts": {
-   "movement": "quartz",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "quartz only",
+   "caliberFamilies": [
+    "Seiko/TMI"
+   ],
+   "calibers": [
+    "Seiko VK64"
+   ],
    "caseSizeMm": [
     41,
     41
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 38000,
    "source": "https://coroawatches.com/microbrands/en/brand/wayforth/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -62947,13 +63063,17 @@
  {
   "slug": "welly-merck",
   "name": "Welly Merck",
-  "websiteUrl": null,
+  "websiteUrl": "https://wellymerck.com",
   "platform": null,
   "country": "CH",
   "countryLabel": null,
-  "city": null,
+  "city": "Lausanne",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph",
+   "dive",
+   "GMT"
+  ],
   "priceMin": null,
   "priceMax": null,
   "priceBand": null,
@@ -62972,18 +63092,35 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2015,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Miyota/Citizen",
+    "Seiko/TMI",
+    "Chinese"
+   ],
+   "calibers": [
+    "Seiko NH35",
+    "Miyota 8215",
+    "Miyota 9132",
+    "Miyota 6T27",
+    "Sea-Gull ST1651",
+    "Sea-Gull ST1652",
+    "Sea-Gull ST1612",
+    "Sea-Gull ST2510",
+    "7590A",
+    "7550A",
+    "Seiko VH31",
+    "Seiko VD53"
+   ],
    "caseSizeMm": [
     36,
     44
    ],
    "typicalPriceUsd": null,
    "source": "https://coroawatches.com/microbrands/en/brand/welly-merck/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -63036,21 +63173,21 @@
  {
   "slug": "werenbach",
   "name": "Werenbach",
-  "websiteUrl": null,
+  "websiteUrl": "https://werenbach.ch",
   "platform": null,
   "country": "CH",
   "countryLabel": null,
-  "city": null,
+  "city": "Zurich",
   "story": null,
   "styleTags": [],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "mid",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -63064,15 +63201,19 @@
   "founded": null,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Miyota GM10"
+   ],
    "caseSizeMm": [
     38,
     42
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 130000,
    "source": "https://coroawatches.com/microbrands/en/brand/werenbach/",
-   "checkedAt": null
+   "checkedAt": "Oct 21, 2026"
   }
  },
  {
@@ -63215,7 +63356,7 @@
  {
   "slug": "wilbur",
   "name": "WILBUR",
-  "websiteUrl": null,
+  "websiteUrl": "https://wilburco.com",
   "platform": null,
   "country": "US",
   "countryLabel": null,
@@ -63224,12 +63365,12 @@
   "styleTags": [],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "high",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -63242,16 +63383,21 @@
   ],
   "founded": null,
   "facts": {
-   "movement": "automatic",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "automatic only",
+   "caliberFamilies": [
+    "Sellita",
+    "in-house calibre"
+   ],
+   "calibers": [
+    "Sellita SW200-1 (modified)"
+   ],
    "caseSizeMm": [
     41,
     49
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 480000,
    "source": "https://coroawatches.com/microbrands/en/brand/wilbur/",
-   "checkedAt": null
+   "checkedAt": "Oct 21, 2026"
   }
  },
  {
@@ -63286,21 +63432,24 @@
  {
   "slug": "wilk-watchworks",
   "name": "Wilk WatchWorks",
-  "websiteUrl": null,
+  "websiteUrl": "https://wilkwatchworks.com",
   "platform": null,
   "country": "CA",
   "countryLabel": null,
-  "city": null,
+  "city": "Toronto",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "field",
+   "pilot"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -63311,18 +63460,27 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2010,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "other Swiss",
+    "ETA"
+   ],
+   "calibers": [
+    "ETA 2824",
+    "STP STP6-15",
+    "STP STP1-11",
+    "Hangzhou 2824",
+    "ETA 6497"
+   ],
    "caseSizeMm": [
     36,
     45
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 65000,
    "source": "https://coroawatches.com/microbrands/en/brand/wilk-watchworks/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
@@ -63371,21 +63529,24 @@
  {
   "slug": "winfield-watch-company",
   "name": "Winfield Watch Company",
-  "websiteUrl": null,
+  "websiteUrl": "https://winfieldwatch.com",
   "platform": null,
   "country": "US",
   "countryLabel": null,
-  "city": null,
+  "city": "Baltimore",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph",
+   "GMT"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -63396,18 +63557,26 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2019,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Miyota/Citizen",
+    "other Swiss"
+   ],
+   "calibers": [
+    "Miyota 9015",
+    "Miyota 9075",
+    "La Joux-Perret G100",
+    "Seiko VK63"
+   ],
    "caseSizeMm": [
     42,
     44
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 68000,
    "source": "https://coroawatches.com/microbrands/en/brand/winfield-watch-company/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
@@ -63621,21 +63790,24 @@
  {
   "slug": "wolfpoint",
   "name": "Wolfpoint",
-  "websiteUrl": null,
+  "websiteUrl": "https://thewolfpoint.com",
   "platform": null,
   "country": "US",
   "countryLabel": null,
-  "city": null,
+  "city": "Chicago",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress",
+   "field"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "budget",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -63646,38 +63818,45 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2018,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Miyota/Citizen",
+    "Sellita"
+   ],
+   "calibers": [
+    "Sellita SW200"
+   ],
    "caseSizeMm": [
     28,
     45
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 27000,
    "source": "https://coroawatches.com/microbrands/en/brand/wolfpoint/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
   "slug": "wolkov",
   "name": "Wolkov",
-  "websiteUrl": null,
+  "websiteUrl": "https://wolkov.design",
   "platform": null,
   "country": "CN",
   "countryLabel": null,
-  "city": null,
+  "city": "Shanghai",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "upper_mid",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -63688,38 +63867,46 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2018,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Sellita",
+    "Chinese"
+   ],
+   "calibers": [
+    "Sellita SW200"
+   ],
    "caseSizeMm": [
     45,
     45
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 150000,
    "source": "https://coroawatches.com/microbrands/en/brand/wolkov/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
   "slug": "wolter",
   "name": "Wolter",
-  "websiteUrl": null,
+  "websiteUrl": "https://wolterwatch.com",
   "platform": null,
   "country": "US",
   "countryLabel": null,
-  "city": null,
+  "city": "Nashville",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress",
+   "chronograph"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "mid",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -63732,36 +63919,42 @@
   ],
   "founded": null,
   "facts": {
-   "movement": "automatic",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "automatic only",
+   "caliberFamilies": [
+    "Sellita"
+   ],
+   "calibers": [
+    "SW200"
+   ],
    "caseSizeMm": [
     40,
     40
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 110000,
    "source": "https://coroawatches.com/microbrands/en/brand/wolter/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
   "slug": "worden-watch-studio",
   "name": "Worden Watch Studio",
-  "websiteUrl": null,
+  "websiteUrl": "https://wordenwatch.com",
   "platform": null,
   "country": "CA",
   "countryLabel": null,
-  "city": null,
+  "city": "Guelph",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "mid",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -63772,18 +63965,23 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2023,
   "facts": {
-   "movement": "quartz",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "quartz only",
+   "caliberFamilies": [
+    "Seiko/TMI",
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Seiko VH31"
+   ],
    "caseSizeMm": [
     34,
     34
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 88000,
    "source": "https://coroawatches.com/microbrands/en/brand/worden-watch-studio/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -64107,21 +64305,23 @@
  {
   "slug": "xrby",
   "name": "XRby",
-  "websiteUrl": null,
+  "websiteUrl": "https://xrby.art",
   "platform": null,
   "country": "FR",
   "countryLabel": null,
-  "city": null,
+  "city": "Thise",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "high",
   "currency": "USD",
   "instagram": null,
-  "brandClass": "microbrand",
+  "brandClass": "independent",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64132,18 +64332,22 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2020,
   "facts": {
-   "movement": "automatic",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "automatic only",
+   "caliberFamilies": [
+    "other Swiss"
+   ],
+   "calibers": [
+    "Schwarz-Etienne ASE 200.00"
+   ],
    "caseSizeMm": [
     40,
     41
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 2100000,
    "source": "https://coroawatches.com/microbrands/en/brand/xrby/",
-   "checkedAt": null
+   "checkedAt": "Oct 21, 2026"
   }
  },
  {
@@ -64192,21 +64396,24 @@
  {
   "slug": "yonger-bresson",
   "name": "Yonger Bresson",
-  "websiteUrl": null,
+  "websiteUrl": "https://yongerbresson.com",
   "platform": null,
   "country": "FR",
   "countryLabel": null,
-  "city": null,
+  "city": "Morteau",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress",
+   "chronograph"
+  ],
   "priceMin": null,
   "priceMax": null,
   "priceBand": null,
   "currency": "USD",
   "instagram": null,
-  "brandClass": "microbrand",
+  "brandClass": "legacy_micro",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64217,18 +64424,25 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 1975,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Seiko/TMI",
+    "other Swiss",
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "Miyota 2035",
+    "Ronda 1064"
+   ],
    "caseSizeMm": [
     39,
     42
    ],
    "typicalPriceUsd": null,
    "source": "https://coroawatches.com/microbrands/en/brand/yonger-bresson/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -64323,11 +64537,11 @@
  {
   "slug": "zannetti",
   "name": "Zannetti",
-  "websiteUrl": null,
+  "websiteUrl": "https://zannetti.com",
   "platform": null,
   "country": "IT",
   "countryLabel": null,
-  "city": null,
+  "city": "Rome",
   "story": null,
   "styleTags": [],
   "priceMin": null,
@@ -64337,7 +64551,7 @@
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64348,38 +64562,44 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 1982,
   "facts": {
    "movement": "automatic and hand-wound",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "ETA"
+   ],
+   "calibers": [
+    "Valjoux 7750"
+   ],
    "caseSizeMm": [
     33,
     51
    ],
    "typicalPriceUsd": null,
    "source": "https://coroawatches.com/microbrands/en/brand/zannetti/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
   "slug": "zbioland",
   "name": "Zbioland",
-  "websiteUrl": null,
+  "websiteUrl": "https://zbioland.com",
   "platform": null,
   "country": "HK",
   "countryLabel": null,
-  "city": null,
+  "city": "Hong Kong",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "GMT"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "high",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64390,18 +64610,24 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2021,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Sellita",
+    "Miyota/Citizen",
+    "in-house calibre"
+   ],
+   "calibers": [
+    "Miyota 9015"
+   ],
    "caseSizeMm": [
     42,
     46
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 320000,
    "source": "https://coroawatches.com/microbrands/en/brand/zbioland/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
@@ -64577,21 +64803,25 @@
  {
   "slug": "zeno-watch-basel",
   "name": "Zeno-Watch Basel",
-  "websiteUrl": null,
+  "websiteUrl": "https://zeno-watch.ch",
   "platform": null,
   "country": "CH",
   "countryLabel": null,
-  "city": null,
+  "city": "Basel",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "pilot",
+   "GMT",
+   "chronograph"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "mid",
   "currency": "USD",
   "instagram": null,
-  "brandClass": "microbrand",
+  "brandClass": "legacy_micro",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64602,15 +64832,32 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 1868,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "ETA",
+    "Russian",
+    "Sellita"
+   ],
+   "calibers": [
+    "ETA 2824",
+    "Valjoux 7750",
+    "Valjoux 7751",
+    "Valjoux 7753",
+    "ETA 2836",
+    "ETA 2893",
+    "ETA 2834",
+    "ETA 2895",
+    "ETA 2892",
+    "ETA 2424",
+    "ETA 2846",
+    "ETA 2671"
+   ],
    "caseSizeMm": null,
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 99000,
    "source": "https://coroawatches.com/microbrands/en/brand/zeno-watch-basel/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
@@ -64662,21 +64909,24 @@
  {
   "slug": "zenton",
   "name": "Zenton",
-  "websiteUrl": null,
+  "websiteUrl": "https://zentonwatches.com",
   "platform": null,
   "country": "HK",
   "countryLabel": null,
-  "city": null,
+  "city": "Hong Kong",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dive",
+   "chronograph"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64687,33 +64937,44 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2010,
   "facts": {
-   "movement": "automatic",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "automatic only",
+   "caliberFamilies": [
+    "ETA",
+    "Seiko/TMI"
+   ],
+   "calibers": [
+    "ETA 2824",
+    "Seiko NH35",
+    "Valjoux 7750"
+   ],
    "caseSizeMm": [
     40,
     45
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 65000,
    "source": "https://coroawatches.com/microbrands/en/brand/zenton/",
-   "checkedAt": null
+   "checkedAt": "Oct 17, 2026"
   }
  },
  {
   "slug": "zeppelin",
   "name": "Zeppelin",
-  "websiteUrl": null,
+  "websiteUrl": "https://pointtec.de/zeppelin/de/",
   "platform": null,
   "country": "DE",
   "countryLabel": null,
-  "city": null,
+  "city": "Ismaning",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph",
+   "GMT",
+   "pilot"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
@@ -64729,15 +64990,19 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2002,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
+   "caliberFamilies": [
+    "Miyota/Citizen",
+    "ETA",
+    "other Swiss"
+   ],
    "calibers": [],
    "caseSizeMm": null,
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 38000,
    "source": "https://coroawatches.com/microbrands/en/brand/zeppelin/",
-   "checkedAt": null
+   "checkedAt": "Oct 19, 2026"
   }
  },
  {
@@ -64832,21 +65097,24 @@
  {
   "slug": "zinvo",
   "name": "Zinvo",
-  "websiteUrl": null,
+  "websiteUrl": "https://zinvo.us/",
   "platform": null,
   "country": "US",
   "countryLabel": null,
-  "city": null,
+  "city": "Los Angeles",
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "chronograph",
+   "GMT"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64857,30 +65125,39 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2014,
   "facts": {
-   "movement": "automatic",
-   "caliberFamilies": [],
-   "calibers": [],
+   "movement": "automatic only",
+   "caliberFamilies": [
+    "Miyota/Citizen",
+    "Seiko/TMI"
+   ],
+   "calibers": [
+    "Seiko NH35 (automatic)",
+    "Seiko VX32 (quartz)"
+   ],
    "caseSizeMm": [
     42,
     44
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 43000,
    "source": "https://coroawatches.com/microbrands/en/brand/zinvo/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {
   "slug": "zltd",
   "name": "ZLTD",
-  "websiteUrl": null,
+  "websiteUrl": "https://zltdwatches.com",
   "platform": null,
   "country": "CA",
   "countryLabel": null,
   "city": null,
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dress",
+   "GMT"
+  ],
   "priceMin": null,
   "priceMax": null,
   "priceBand": null,
@@ -64888,7 +65165,7 @@
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64902,32 +65179,43 @@
   "founded": null,
   "facts": {
    "movement": "automatic and hand-wound",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "Sellita",
+    "ETA",
+    "in-house calibre"
+   ],
+   "calibers": [
+    "Sellita SW330 (modified)",
+    "RD210 (modified Sellita SW210)",
+    "RD01 (modified ETA 6498)"
+   ],
    "caseSizeMm": null,
    "typicalPriceUsd": null,
    "source": "https://coroawatches.com/microbrands/en/brand/zltd/",
-   "checkedAt": null
+   "checkedAt": "Oct 21, 2026"
   }
  },
  {
   "slug": "zoretto",
   "name": "Zoretto",
-  "websiteUrl": null,
+  "websiteUrl": "https://zoretto-watches.com",
   "platform": null,
   "country": "HK",
   "countryLabel": null,
   "city": null,
   "story": null,
-  "styleTags": [],
+  "styleTags": [
+   "dive",
+   "GMT"
+  ],
   "priceMin": null,
   "priceMax": null,
-  "priceBand": null,
+  "priceBand": "affordable",
   "currency": "USD",
   "instagram": null,
   "brandClass": "microbrand",
   "enPuntoExhibitor": false,
-  "status": "draft",
+  "status": "published",
   "claimStatus": "unclaimed",
   "imageLicenseStatus": "none",
   "colorPrimary": null,
@@ -64938,18 +65226,23 @@
   "sources": [
    "coroa"
   ],
-  "founded": null,
+  "founded": 2014,
   "facts": {
    "movement": "quartz and mechanical",
-   "caliberFamilies": [],
-   "calibers": [],
+   "caliberFamilies": [
+    "ETA",
+    "Miyota/Citizen"
+   ],
+   "calibers": [
+    "ETA 2824"
+   ],
    "caseSizeMm": [
     38,
     43
    ],
-   "typicalPriceUsd": null,
+   "typicalPriceUsd": 60000,
    "source": "https://coroawatches.com/microbrands/en/brand/zoretto/",
-   "checkedAt": null
+   "checkedAt": "Oct 16, 2026"
   }
  },
  {

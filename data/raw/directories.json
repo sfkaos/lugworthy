@@ -18798,12 +18798,18 @@
 "coroaSlug": "rbaptiste",
 "name": "RBaptiste",
 "country": "BE",
+"city": "Verviers",
+"website": "https://rbaptiste.com",
 "movement": "automatic and hand-wound",
 "caseSizeMm": [
 34.0,
 40.0
 ],
-"detail": false
+"styles": [
+"dress"
+],
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "rebellion",
@@ -23460,12 +23466,27 @@
 "coroaSlug": "vescari",
 "name": "Vescari",
 "country": "NL",
-"movement": "quartz",
+"website": "https://vescari.com",
+"founded": 2016,
+"movement": "quartz only",
+"caliberFamilies": [
+"Seiko/TMI",
+"Miyota/Citizen"
+],
+"calibers": [
+"Seiko VK63",
+"Seiko VK64"
+],
 "caseSizeMm": [
 40.0,
 40.0
 ],
-"detail": false
+"styles": [
+"chronograph"
+],
+"avgPriceUsd": 220,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "vesuviate-watches",
@@ -23561,12 +23582,27 @@
 "coroaSlug": "viis",
 "name": "VIIS",
 "country": "AT",
-"movement": "automatic",
+"city": "Graz",
+"website": "https://viiswatch.com",
+"founded": 2024,
+"movement": "automatic only",
+"caliberFamilies": [
+"Miyota/Citizen"
+],
+"calibers": [
+"Miyota 9075"
+],
 "caseSizeMm": [
 42.0,
 42.0
 ],
-"detail": false
+"styles": [
+"gmt",
+"pilot"
+],
+"avgPriceUsd": 710,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "vincent-calabrese",
@@ -23591,23 +23627,56 @@
 "coroaSlug": "vincent-deprez",
 "name": "Vincent Deprez",
 "country": "CH",
+"city": "Geneva",
+"website": "https://vincentdeprez.watch",
+"founded": 2022,
 "movement": "mechanical",
+"caliberFamilies": [
+"in-house calibre"
+],
 "caseSizeMm": [
 39.0,
 39.0
 ],
-"detail": false
+"styles": [
+"dress"
+],
+"avgPriceUsd": 110000,
+"checked": "Oct 22, 2026",
+"detail": true
 },
 {
 "coroaSlug": "viqueria",
 "name": "Viqueria",
 "country": "IT",
+"city": "Voghera",
+"website": "https://viqueriawatches.com",
+"founded": 2017,
 "movement": "automatic and hand-wound",
+"caliberFamilies": [
+"Seiko/TMI",
+"Sellita",
+"Chinese",
+"Russian",
+"Miyota/Citizen"
+],
+"calibers": [
+"Miyota 8215",
+"Seiko NH34",
+"Sellita SW200"
+],
 "caseSizeMm": [
 38.0,
 43.5
 ],
-"detail": false
+"styles": [
+"dive",
+"dress",
+"gmt"
+],
+"avgPriceUsd": 380,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "visitor-watch-co",
@@ -23625,12 +23694,23 @@
 "coroaSlug": "visser",
 "name": "Visser",
 "country": "US",
+"city": "Seymour",
+"website": "https://visserwatch.com",
+"founded": 2016,
 "movement": "mechanical",
+"caliberFamilies": [
+"Miyota/Citizen"
+],
+"calibers": [
+"Miyota 9015"
+],
 "caseSizeMm": [
 42.0,
 42.0
 ],
-"detail": false
+"avgPriceUsd": 1400,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "vitreum",
@@ -23648,29 +23728,73 @@
 "coroaSlug": "vittorino",
 "name": "Vittorino",
 "country": "BR",
+"website": "https://vittorinowatches.com",
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Miyota/Citizen",
+"Seiko/TMI"
+],
+"calibers": [
+"Seiko VK64"
+],
 "caseSizeMm": [
 40.0,
 40.0
 ],
-"detail": false
+"styles": [
+"chronograph",
+"dress"
+],
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "void-watches",
 "name": "Void Watches",
 "country": "SE",
-"movement": "quartz",
+"city": "Stockholm",
+"website": "https://voidwatches.com",
+"founded": 2008,
+"movement": "quartz only",
+"caliberFamilies": [
+"Miyota/Citizen"
+],
+"calibers": [
+"Miyota 8215",
+"Miyota 2035",
+"Miyota 2115",
+"Miyota 2005",
+"Miyota GM10",
+"Miyota GM12",
+"Miyota 6L76",
+"Miyota 2025"
+],
 "caseSizeMm": [
 38.0,
 38.0
 ],
-"detail": false
+"styles": [
+"dress"
+],
+"avgPriceUsd": 240,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "von-vogel",
 "name": "Von Vogel",
 "country": "DK",
-"detail": false
+"city": "Viborg",
+"website": "https://vonvogel-design.com",
+"founded": 2019,
+"styles": [
+"dive",
+"dress",
+"pilot"
+],
+"avgPriceUsd": 270,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "vortic-watch-company",
@@ -23700,12 +23824,26 @@
 "coroaSlug": "votum",
 "name": "Votum",
 "country": "CH",
+"city": "Nidau",
+"website": "https://votumwatches.com",
+"founded": 1962,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"ETA"
+],
+"calibers": [
+"ETA 6498"
+],
 "caseSizeMm": [
 29.0,
 42.0
 ],
-"detail": false
+"styles": [
+"chronograph"
+],
+"avgPriceUsd": 650,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "voxel",
@@ -23735,12 +23873,30 @@
 "coroaSlug": "vratislavia-conceptum",
 "name": "Vratislavia Conceptum",
 "country": "PL",
+"city": "Wroclaw",
+"website": "https://vratislavia-watches.com",
+"founded": 2012,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Miyota/Citizen"
+],
+"calibers": [
+"Miyota 9015",
+"Miyota 9039"
+],
 "caseSizeMm": [
 40.0,
 41.0
 ],
-"detail": false
+"styles": [
+"chronograph",
+"dress",
+"field",
+"pilot"
+],
+"avgPriceUsd": 490,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "vulcain",
@@ -23758,12 +23914,17 @@
 "coroaSlug": "vultura",
 "name": "Vultura",
 "country": "FR",
-"movement": "quartz",
+"city": "Le Mesnil-le-Roi",
+"website": "https://vultura.net/",
+"founded": 2023,
+"movement": "quartz only",
 "caseSizeMm": [
 26.0,
 26.0
 ],
-"detail": false
+"avgPriceUsd": 280,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "waldor-and-co",
@@ -23781,12 +23942,21 @@
 "coroaSlug": "waltham",
 "name": "Waltham",
 "country": "CH",
+"website": "https://waltham.ch",
+"founded": 1850,
 "movement": "automatic",
+"calibers": [
+"Soprod C115",
+"Sellita SW200",
+"Soprod M100"
+],
 "caseSizeMm": [
 43.0,
 43.0
 ],
-"detail": false
+"avgPriceUsd": 4500,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "wancher-watch",
@@ -23804,29 +23974,73 @@
 "coroaSlug": "watchdives",
 "name": "Watchdives",
 "country": "CN",
+"city": "Shenzhen",
+"website": "https://watchdives.com",
+"founded": 2019,
 "movement": "quartz and mechanical",
-"detail": false
+"caliberFamilies": [
+"Chinese",
+"Seiko/TMI",
+"Miyota/Citizen",
+"ETA",
+"Sellita"
+],
+"calibers": [
+"Seiko NH35",
+"PT5000",
+"VH31",
+"VK63"
+],
+"styles": [
+"dive",
+"field",
+"dress",
+"chronograph",
+"gmt",
+"pilot"
+],
+"avgPriceUsd": 190,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "watchly",
 "name": "Watchly",
 "country": "CA",
+"city": "Toronto",
+"website": "https://watchly.com",
 "caseSizeMm": [
 40.0,
 40.0
 ],
-"detail": false
+"avgPriceUsd": 36,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "wayforth",
 "name": "Wayforth",
 "country": "CA",
-"movement": "quartz",
+"city": "Toronto",
+"website": "https://wayforthwatches.com",
+"founded": 2021,
+"movement": "quartz only",
+"caliberFamilies": [
+"Seiko/TMI"
+],
+"calibers": [
+"Seiko VK64"
+],
 "caseSizeMm": [
 41.0,
 41.0
 ],
-"detail": false
+"styles": [
+"chronograph"
+],
+"avgPriceUsd": 380,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "weiss-watch-company",
@@ -23844,12 +24058,41 @@
 "coroaSlug": "welly-merck",
 "name": "Welly Merck",
 "country": "CH",
+"city": "Lausanne",
+"website": "https://wellymerck.com",
+"founded": 2015,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Miyota/Citizen",
+"Seiko/TMI",
+"Chinese"
+],
+"calibers": [
+"Seiko NH35",
+"Miyota 8215",
+"Miyota 9132",
+"Miyota 6T27",
+"Sea-Gull ST1651",
+"Sea-Gull ST1652",
+"Sea-Gull ST1612",
+"Sea-Gull ST2510",
+"7590A",
+"7550A",
+"Seiko VH31",
+"Seiko VD53",
+"Seiko VK64"
+],
 "caseSizeMm": [
 36.0,
 44.0
 ],
-"detail": false
+"styles": [
+"chronograph",
+"dive",
+"gmt"
+],
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "welsbro",
@@ -23867,12 +24110,22 @@
 "coroaSlug": "werenbach",
 "name": "Werenbach",
 "country": "CH",
+"city": "Zurich",
+"website": "https://werenbach.ch",
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Miyota/Citizen"
+],
+"calibers": [
+"Miyota GM10"
+],
 "caseSizeMm": [
 38.0,
 42.0
 ],
-"detail": false
+"avgPriceUsd": 1300,
+"checked": "Oct 21, 2026",
+"detail": true
 },
 {
 "coroaSlug": "wessex-watches",
@@ -23914,23 +24167,53 @@
 "coroaSlug": "wilbur",
 "name": "WILBUR",
 "country": "US",
-"movement": "automatic",
+"website": "https://wilburco.com",
+"movement": "automatic only",
+"caliberFamilies": [
+"Sellita",
+"in-house calibre"
+],
+"calibers": [
+"Sellita SW200-1 (modified)"
+],
 "caseSizeMm": [
 41.0,
 49.0
 ],
-"detail": false
+"avgPriceUsd": 4800,
+"checked": "Oct 21, 2026",
+"detail": true
 },
 {
 "coroaSlug": "wilk-watchworks",
 "name": "Wilk WatchWorks",
 "country": "CA",
+"city": "Toronto",
+"website": "https://wilkwatchworks.com",
+"founded": 2010,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"other Swiss",
+"ETA"
+],
+"calibers": [
+"ETA 2824",
+"STP STP6-15",
+"STP STP1-11",
+"Hangzhou 2824",
+"ETA 6497"
+],
 "caseSizeMm": [
 36.0,
 45.0
 ],
-"detail": false
+"styles": [
+"field",
+"pilot"
+],
+"avgPriceUsd": 650,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "william-wood-watches",
@@ -23948,12 +24231,31 @@
 "coroaSlug": "winfield-watch-company",
 "name": "Winfield Watch Company",
 "country": "US",
+"city": "Baltimore",
+"website": "https://winfieldwatch.com",
+"founded": 2019,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Miyota/Citizen",
+"other Swiss"
+],
+"calibers": [
+"Miyota 9015",
+"Miyota 9075",
+"La Joux-Perret G100",
+"Seiko VK63"
+],
 "caseSizeMm": [
 42.0,
 44.0
 ],
-"detail": false
+"styles": [
+"chronograph",
+"gmt"
+],
+"avgPriceUsd": 680,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "winnerl",
@@ -24016,45 +24318,105 @@
 "coroaSlug": "wolfpoint",
 "name": "Wolfpoint",
 "country": "US",
+"city": "Chicago",
+"website": "https://thewolfpoint.com",
+"founded": 2018,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Miyota/Citizen",
+"Sellita"
+],
+"calibers": [
+"Sellita SW200"
+],
 "caseSizeMm": [
 28.0,
 45.0
 ],
-"detail": false
+"styles": [
+"dress",
+"field"
+],
+"avgPriceUsd": 270,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "wolkov",
 "name": "Wolkov",
 "country": "CN",
+"city": "Shanghai",
+"website": "https://wolkov.design",
+"founded": 2018,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Sellita",
+"Chinese"
+],
+"calibers": [
+"Sellita SW200"
+],
 "caseSizeMm": [
 45.0,
 45.0
 ],
-"detail": false
+"styles": [
+"dress"
+],
+"avgPriceUsd": 1500,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "wolter",
 "name": "Wolter",
 "country": "US",
-"movement": "automatic",
+"city": "Nashville",
+"website": "https://wolterwatch.com",
+"movement": "automatic only",
+"caliberFamilies": [
+"Sellita"
+],
+"calibers": [
+"SW200"
+],
 "caseSizeMm": [
 40.0,
 40.0
 ],
-"detail": false
+"styles": [
+"dress",
+"chronograph"
+],
+"avgPriceUsd": 1100,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "worden-watch-studio",
 "name": "Worden Watch Studio",
 "country": "CA",
-"movement": "quartz",
+"city": "Guelph",
+"website": "https://wordenwatch.com",
+"founded": 2023,
+"movement": "quartz only",
+"caliberFamilies": [
+"Seiko/TMI",
+"Miyota/Citizen"
+],
+"calibers": [
+"Seiko VH31"
+],
 "caseSizeMm": [
 34.0,
 34.0
 ],
-"detail": false
+"styles": [
+"dress"
+],
+"avgPriceUsd": 880,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "wren",
@@ -24154,12 +24516,26 @@
 "coroaSlug": "xrby",
 "name": "XRby",
 "country": "FR",
-"movement": "automatic",
+"city": "Thise",
+"website": "https://xrby.art",
+"founded": 2020,
+"movement": "automatic only",
+"caliberFamilies": [
+"other Swiss"
+],
+"calibers": [
+"Schwarz-Etienne ASE 200.00"
+],
 "caseSizeMm": [
 40.0,
 41.0
 ],
-"detail": false
+"styles": [
+"dress"
+],
+"avgPriceUsd": 21000,
+"checked": "Oct 21, 2026",
+"detail": true
 },
 {
 "coroaSlug": "yema",
@@ -24177,12 +24553,29 @@
 "coroaSlug": "yonger-bresson",
 "name": "Yonger Bresson",
 "country": "FR",
+"city": "Morteau",
+"website": "https://yongerbresson.com",
+"founded": 1975,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Seiko/TMI",
+"other Swiss",
+"Miyota/Citizen"
+],
+"calibers": [
+"Miyota 2035",
+"Ronda 1064"
+],
 "caseSizeMm": [
 39.0,
 42.0
 ],
-"detail": false
+"styles": [
+"dress",
+"chronograph"
+],
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "york-and-front-watch-co",
@@ -24212,23 +24605,49 @@
 "coroaSlug": "zannetti",
 "name": "Zannetti",
 "country": "IT",
+"city": "Rome",
+"website": "https://zannetti.com",
+"founded": 1982,
 "movement": "automatic and hand-wound",
+"caliberFamilies": [
+"ETA"
+],
+"calibers": [
+"Valjoux 7750"
+],
 "caseSizeMm": [
 33.0,
 51.0
 ],
-"detail": false
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "zbioland",
 "name": "Zbioland",
 "country": "HK",
+"city": "Hong Kong",
+"website": "https://zbioland.com",
+"founded": 2021,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"Sellita",
+"Miyota/Citizen",
+"in-house calibre"
+],
+"calibers": [
+"Miyota 9015"
+],
 "caseSizeMm": [
 42.0,
 46.0
 ],
-"detail": false
+"styles": [
+"gmt"
+],
+"avgPriceUsd": 3200,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "zeitwinkel",
@@ -24277,8 +24696,56 @@
 "coroaSlug": "zeno-watch-basel",
 "name": "Zeno-Watch Basel",
 "country": "CH",
+"city": "Basel",
+"website": "https://zeno-watch.ch",
+"founded": 1868,
 "movement": "quartz and mechanical",
-"detail": false
+"caliberFamilies": [
+"ETA",
+"Russian",
+"Sellita"
+],
+"calibers": [
+"ETA 2824",
+"Valjoux 7750",
+"Valjoux 7751",
+"Valjoux 7753",
+"ETA 2836",
+"ETA 2893",
+"ETA 2834",
+"ETA 2895",
+"ETA 2892",
+"ETA 2424",
+"ETA 2846",
+"ETA 2671",
+"ETA 2685",
+"ETA A07.111",
+"Soprod 7750RM",
+"Soprod 9055",
+"Dubois Dépraz 2020",
+"Sellita SW200",
+"Technotime TT651",
+"ETA 6497",
+"ETA 6498",
+"Soprod 7001",
+"Peseux 7001",
+"Poljot 2612.1",
+"Ronda 515",
+"Ronda 5030.D",
+"Ronda 5040.B",
+"Ronda 8040",
+"Ronda 7003",
+"ETA 251.265",
+"AS5206"
+],
+"styles": [
+"pilot",
+"gmt",
+"chronograph"
+],
+"avgPriceUsd": 990,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "zentier-watches",
@@ -24296,19 +24763,52 @@
 "coroaSlug": "zenton",
 "name": "Zenton",
 "country": "HK",
-"movement": "automatic",
+"city": "Hong Kong",
+"website": "https://zentonwatches.com",
+"founded": 2010,
+"movement": "automatic only",
+"caliberFamilies": [
+"ETA",
+"Seiko/TMI"
+],
+"calibers": [
+"ETA 2824",
+"Seiko NH35",
+"Valjoux 7750"
+],
 "caseSizeMm": [
 40.0,
 45.0
 ],
-"detail": false
+"styles": [
+"dive",
+"chronograph"
+],
+"avgPriceUsd": 650,
+"checked": "Oct 17, 2026",
+"detail": true
 },
 {
 "coroaSlug": "zeppelin",
 "name": "Zeppelin",
 "country": "DE",
+"city": "Ismaning",
+"website": "https://pointtec.de/zeppelin/de/",
+"founded": 2002,
 "movement": "quartz and mechanical",
-"detail": false
+"caliberFamilies": [
+"Miyota/Citizen",
+"ETA",
+"other Swiss"
+],
+"styles": [
+"chronograph",
+"gmt",
+"pilot"
+],
+"avgPriceUsd": 380,
+"checked": "Oct 19, 2026",
+"detail": true
 },
 {
 "coroaSlug": "zero-west",
@@ -24338,30 +24838,78 @@
 "coroaSlug": "zinvo",
 "name": "Zinvo",
 "country": "US",
-"movement": "automatic",
+"city": "Los Angeles",
+"website": "https://zinvo.us/",
+"founded": 2014,
+"movement": "automatic only",
+"caliberFamilies": [
+"Miyota/Citizen",
+"Seiko/TMI"
+],
+"calibers": [
+"Seiko NH35 (automatic)",
+"Seiko VX32 (quartz)"
+],
 "caseSizeMm": [
 42.0,
 44.0
 ],
-"detail": false
+"styles": [
+"chronograph",
+"gmt"
+],
+"avgPriceUsd": 430,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "zltd",
 "name": "ZLTD",
 "country": "CA",
+"website": "https://zltdwatches.com",
 "movement": "automatic and hand-wound",
-"detail": false
+"caliberFamilies": [
+"Sellita",
+"ETA",
+"in-house calibre"
+],
+"calibers": [
+"Sellita SW330 (modified)",
+"RD210 (modified Sellita SW210)",
+"RD01 (modified ETA 6498)"
+],
+"styles": [
+"dress",
+"gmt"
+],
+"checked": "Oct 21, 2026",
+"detail": true
 },
 {
 "coroaSlug": "zoretto",
 "name": "Zoretto",
 "country": "HK",
+"website": "https://zoretto-watches.com",
+"founded": 2014,
 "movement": "quartz and mechanical",
+"caliberFamilies": [
+"ETA",
+"Miyota/Citizen"
+],
+"calibers": [
+"ETA 2824"
+],
 "caseSizeMm": [
 38.0,
 43.0
 ],
-"detail": false
+"styles": [
+"dive",
+"gmt"
+],
+"avgPriceUsd": 600,
+"checked": "Oct 16, 2026",
+"detail": true
 },
 {
 "coroaSlug": "zrc-1904",

@@ -7,11 +7,11 @@ license (a to-scale case outline is drawn instead), and no money figures.
 
 ## What's in it
 
-- **1,263 published independent brands.** About 610 come from the two brand spreadsheets ("Brand
-  outreach status – all brands" and "New independent watch brands", batch 2), and about 650 more
+- **1,293 published independent brands.** About 610 come from the two brand spreadsheets ("Brand
+  outreach status – all brands" and "New independent watch brands", batch 2), and about 680 more
   from the Coroa microbrand guide. Each has a hub page with country, city and style tags, and most
   have founding year, movement type, movement makers, calibers, case-size range and a typical price.
-  11 group-owned brands are hidden, and 141 brands are drafts for an editor to check (see below).
+  11 group-owned brands are hidden, and 111 brands are drafts for an editor to check (see below).
 - **78 models (204 variants) across 12 brands**, mapped from the brands' public Shopify product
   feeds. They show as "imported, not confirmed" until an editor or the brand reviews them.
 - Faceted browse at `/watches` with diameter, lug-to-lug, thickness, water resistance, price,
@@ -44,7 +44,7 @@ BASE_URL=http://localhost:3000 node tests/e2e/acceptance.mjs   # acceptance chec
 - `data/raw/sheets.json` is a snapshot of the spreadsheet columns used, with the private columns
   removed. `data/raw/shopify-sample.json` holds the product feeds.
 - `data/raw/directories.json` is a snapshot of brand-level facts from the Coroa microbrand guide
-  (all 1,314 brands, detail pages for 706) and the Watch Police brand index (A to N). The seed fills
+  (all 1,314 brands, detail pages for 741) and the Watch Police brand index (A to N). The seed fills
   missing fields for brands already in the sheets and adds new independent brands. Group-owned
   brands are excluded, and marketplace, fashion-led or unclear brands are added as drafts
   (`EXCLUDE`, `REVIEW` and `WP_ADD` in `scripts/build-seed.ts`). Each build writes
