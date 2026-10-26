@@ -13,6 +13,10 @@ services:
         value: "22"
       - key: NODE_OPTIONS
         value: --max-old-space-size=256
+      # Fewer glibc malloc arenas: image resizing otherwise fragments native memory
+      # (a local test went from ~500 MB to ~340 MB peak).
+      - key: MALLOC_ARENA_MAX
+        value: "2"
       - key: CRAWL_CONCURRENCY
         value: "2"
       # First full crawl with photo storage started this day; reruns skip brands done since then.
@@ -44,6 +48,10 @@ services:
         value: "22"
       - key: NODE_OPTIONS
         value: --max-old-space-size=256
+      # Fewer glibc malloc arenas: image resizing otherwise fragments native memory
+      # (a local test went from ~500 MB to ~340 MB peak).
+      - key: MALLOC_ARENA_MAX
+        value: "2"
       - key: CRAWL_CONCURRENCY
         value: "2"
       - key: DATABASE_URL
