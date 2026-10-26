@@ -10,12 +10,13 @@ import * as schema from "../db/schema";
 import type { Db } from "../lib/db/client";
 import { readSiteCatalogs } from "../lib/db/read";
 import { writeCatalogIndex } from "../lib/crawl/index-file";
+import { withSsl } from "../lib/db/ssl";
 
 const url = process.env.DATABASE_URL?.trim() || process.env.POSTGRES_URL?.trim();
 if (!url) throw new Error("DATABASE_URL is not set");
 const outDir = path.resolve(process.env.CATALOG_DIR ?? "data/catalog");
 fs.mkdirSync(outDir, { recursive: true });
-const client = postgres(url, { max: 1, prepare: false });
+const client = postgres(withSsl(url), { max: 1, prepare: false });
 const db = drizzle(client, { schema }) as unknown as Db;
 
 (async () => {
