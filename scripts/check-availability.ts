@@ -18,7 +18,7 @@ const ids = arg("ids")?.split(",").map((s) => s.trim().toUpperCase());
 const all = args.includes("--all");
 const concurrency = Number(arg("concurrency") ?? 8);
 
-const outDir = path.resolve(__dirname, "../data/catalog");
+const outDir = process.env.CATALOG_DIR ? path.resolve(process.env.CATALOG_DIR) : path.resolve(__dirname, "../data/catalog");
 const files = fs.readdirSync(outDir).filter((f) => /^BRD-\d+\.json$/.test(f)).filter((f) => !ids || ids.includes(f.replace(".json", "")));
 
 const changes: string[] = [];

@@ -26,7 +26,7 @@ const store = imageStoreFromEnv();
 const imagesOnly = args.includes("--images-only"); // re-mirror images from existing catalogs, no crawl
 
 const root = path.resolve(__dirname, "..");
-const outDir = path.join(root, "data/catalog");
+const outDir = process.env.CATALOG_DIR ? path.resolve(process.env.CATALOG_DIR) : path.join(root, "data/catalog");
 fs.mkdirSync(outDir, { recursive: true });
 
 const master = JSON.parse(fs.readFileSync(path.join(root, "data/raw/master.json"), "utf8")) as { columns: string[]; rows: string[][] };
