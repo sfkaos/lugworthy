@@ -3,7 +3,8 @@
 #   scripts/render-job.sh crawl        monthly full crawl (all brands, collections, watches, images)
 #   scripts/render-job.sh availability weekly sold-out re-check
 set -euo pipefail
-export CATALOG_DIR="${CATALOG_DIR:-/tmp/catalog}"
+# Catalog files go on disk in the project folder, not /tmp, which may be held in memory.
+export CATALOG_DIR="${CATALOG_DIR:-$PWD/.catalog-run}"
 # Run each step as one node process: going through npm and the tsx CLI adds about
 # 200 MB of extra processes, which matters on a 512 MB instance.
 run() { node --import tsx "scripts/$1.ts" "${@:2}"; }
