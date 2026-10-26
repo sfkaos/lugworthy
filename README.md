@@ -25,7 +25,7 @@ license (a to-scale case outline is drawn instead), and no money figures.
 - Hubs by style, country and caliber, plus the brands index, the for-brands claim form, takedown,
   image policy, privacy, En Punto, sitemap and robots.
 
-Brand data is read live from the master sheet (see "Data and the brands API"). Only the public
+Brand data is synced from the master sheet into Postgres (see "Data and the brands API"). Only the public
 columns (A–L) are used. The private outreach columns (R–AN: emails, founders, status, replies,
 notes) are never requested or copied into the repo, and the tests fail if an email ends up in
 published data or the API.
@@ -36,81 +36,100 @@ published data or the API.
 npm install
 npm run dev            # http://localhost:3000
 npm run build && npm start
-npm test               # unit tests (normalizers, filters, Shopify mapping, privacy)
+npm test               # unit tests, incl. sync and API on an in-memory Postgres
 npm run lint           # type check
 BASE_URL=http://localhost:3000 node tests/e2e/acceptance.mjs   # acceptance checks (Playwright)
 ```
 
 ## Data and the brands API
 
-Brand data comes from the **"Brand master list (source of truth)"** Google Sheet, Brands tab. The
-site and the API both read it live through `getCatalog()` in `lib/data.ts`, so they always agree.
+The master Google Sheet is the source of truth, but nothing reads it at request time. A sync job
+copies it into Postgres, and the site and the API read only the database.
 
 ```
-Google Sheet (Brands!A1:L) --Sheets API, service account--> lib/brands/source.ts (cached 10 min, tag "brands")
-   |                                                              |
-   └── data/raw/master.json (snapshot, used when the sheet       lib/brands/build.ts (publish rules, directory facts)
-       can't be reached or no credentials are set)                |
-                                                     lib/data.ts getCatalog() --> pages and /api/v1/brands
+Google Sheet "Brand master list", Brands!A1:L ─┐
+                                                ├─ sync job (/api/cron/sync, daily on Vercel Cron,
+data/catalog/*.json (brand-site crawler) ───────┘   or `npm run db:sync`)  ──>  Postgres (Neon)
+                                                                                    │
+                                    site pages + /api/v1 (via getCatalog() in lib/data.ts) <─┘
 ```
 
-- **Only columns A–L are ever requested.** The private outreach columns (R–AN: emails, founders,
-  status, replies, notes) never leave Google. The live read also checks the header row and falls
-  back to the snapshot if the columns were moved, or if fewer than 100 brand rows come back.
-- **Publishing rule:** a brand is public on Lugworthy when Ownership is "Independent", Lugworthy fit
-  is "Yes", and it has a working website. "No" fit or group-owned brands are hidden; the rest are
-  drafts.
-- **Freshness:** sheet edits show up within 10 minutes (`BRANDS_REVALIDATE_SECONDS`), with no
-  rebuild. Visit `/api/v1/brands/refresh?secret=<BRANDS_REFRESH_SECRET>` to make them live now.
-- Models (`data/seed/models.json`) are linked to brands by BRD ID, so renaming a brand in the sheet
-  keeps its models.
+- **Only columns A–L are ever read from the sheet.** The private outreach columns (R–AN: emails,
+  founders, status, replies, notes) never leave Google and never reach the database. The sync
+  checks the header row and refuses to run if the columns moved or fewer than 100 rows come back.
+- **Sync rules** (`lib/sync/sheet.ts`): brands are upserted on their permanent BRD ID, so renames
+  keep their history and models. Rows removed from the sheet are hidden, not deleted. Fields the
+  site manages later (claim status, image license, En Punto, colours) are never overwritten. Each
+  run is logged in the `data_syncs` table.
+- **Publishing rule** (`lib/brands/build.ts`): public on Lugworthy when Ownership is "Independent",
+  Lugworthy fit is "Yes", and the brand has a working website.
+- **Brand-site catalog** (`lib/sync/catalog.ts`): the crawler's `data/catalog/index.json` and
+  `data/catalog/BRD-####.json` files are imported into `brand_crawls`, `site_watches` and
+  `site_watch_images`. Each import replaces that brand's watches with the latest crawl.
+- **Freshness:** Vercel Cron runs the sync daily (the Hobby plan's limit). Run it any time from
+  `https://<site>/api/cron/sync?secret=<CRON_SECRET>`; changes show within about a minute.
+- Without `DATABASE_URL` (local dev, tests), the site runs on the checked-in snapshot
+  (`data/raw/master.json`) and the local `data/catalog` files.
+
+### Tables
+
+| Table | What's in it |
+|---|---|
+| `brands` | One row per master-list brand. `brand_code` is the BRD ID; plus name, website, country, city, Instagram, description, style tags, price band, ownership, Lugworthy fit, site check, directory facts, publish status |
+| `brand_crawls` | Latest crawl of each brand's own site: status, platform, crawl time, brand image (URL, kind, source page, size, optional Blob copy), attribution, image rights |
+| `site_watches` | Watches found on the brand's site: `BRD-####/<slug>` ID, name, product URL, price, currency, availability, key specs, crawl time |
+| `site_watch_images` | Each watch's images in site order (URL, size, optional Blob copy) |
+| `data_syncs` | Log of sync runs |
+
+The rest of `db/schema.ts` is the full model from doc 06, ready for models, variants, claims and
+so on. Migrations live in `db/migrations` (`npm run db:generate` after a schema change) and are
+applied automatically before each build.
 
 ### API
+
+Every request needs `Authorization: Bearer <BRANDS_API_TOKEN>`. The token is read-only.
 
 | Endpoint | What it returns |
 |---|---|
 | `GET /api/v1/brands` | Published brands. Query: `q`, `country` (ISO-2, comma-separated), `style`, `price` (`budget`, `affordable`, `mid`, `upper_mid`, `high`), `class`, `hasModels=true`, `hasImages=true`, `page`, `limit` (max 200) |
-| `GET /api/v1/brands/BRD-0348` | One brand by BRD ID or slug |
-| `?audience=all` | Every brand in the master list, plus ownership, fit and site check. Needs `Authorization: Bearer <BRANDS_API_KEY>`. Meant for En Punto and internal tools |
+| `GET /api/v1/brands/BRD-0348` | One brand by BRD ID or slug, with its brand image |
 | `GET /api/v1/brands/BRD-0348/watches` | Watches found on the brand's own website: name, product URL, image URLs, price, key specs, plus crawl date and attribution |
+| `?audience=all` | Every brand in the master list, plus ownership, fit and site check (for En Punto) |
 | `GET /api/v1` | Endpoint index |
 
-Brand and watch images come from the catalog crawler, which writes `data/catalog/index.json` and
-one `data/catalog/BRD-####.json` per brand (format in `lib/brands/media.ts`). Images are hotlinked
-from the brand's site with attribution. Following the image policy, the public API shows them only
-for brands that granted the image license; `IMAGES_PUBLIC=logos` also shows brand logos for
-everyone, and `IMAGES_PUBLIC=all` shows everything. `audience=all` always includes them.
-
 Responses look like `{ data, meta: { total, page, limit, pages, audience, source, syncedAt } }`.
-`source` is `sheet` for a live read or `snapshot` for the fallback. Public responses allow any
-origin (CORS) and are cached at the edge for 5 minutes.
+`source` is `database`, or `snapshot` when no database is connected.
 
-### Connecting the sheet (one time, free)
+Images are hotlinked from the brand's site with attribution. Following the image policy, the
+default audience sees them only for brands that granted the image license; `IMAGES_PUBLIC=logos`
+also shows brand logos, and `IMAGES_PUBLIC=all` shows everything. `audience=all` always includes them.
 
-1. In Google Cloud Console, create a project, enable the **Google Sheets API**, and create a
-   **service account**. Add a JSON key and download it.
-2. Share the master sheet with the service account's email (`...@...iam.gserviceaccount.com`)
-   as **Viewer**.
-3. In Vercel, Project Settings → Environment Variables, add `GOOGLE_SERVICE_ACCOUNT_JSON` (paste
-   the key file contents), `BRANDS_REFRESH_SECRET` and, when En Punto needs it, `BRANDS_API_KEY`.
-   Redeploy.
+### Setup on Vercel (all free tiers)
 
-A Viewer service account can technically read the whole sheet, but the code only asks for A–L.
+1. **Database:** in the Vercel project, Storage → Create → **Neon** (Marketplace), Free plan,
+   connected to the lugworthy project. This sets `DATABASE_URL`.
+2. **Sheet access:** in Google Cloud Console, create a project, enable the Google Sheets API,
+   create a service account and download a JSON key. Share the master sheet with the service
+   account's email as **Viewer**.
+3. **Environment variables** (Project Settings → Environment Variables):
+   `GOOGLE_SERVICE_ACCOUNT_JSON` (paste the key file), `CRON_SECRET` (any long random string),
+   `BRANDS_API_TOKEN` (any long random string; share it with whoever calls the API).
+4. **Redeploy**, then open `/api/cron/sync?secret=<CRON_SECRET>` once to fill the database.
+
+A Viewer service account could technically read the whole sheet, but the code only asks for A–L.
 For stricter isolation, put an `IMPORTRANGE` of columns A–L in a separate sheet, share only that
 one, and set `BRANDS_SHEET_ID` to it.
 
 ### Other data
 
-- `data/raw/master.json` is the fallback snapshot of columns A–L. `npm run seed:build` rebuilds
-  `data/seed/*.json` from it with the same rules as the live site. Refresh it now and then so the
-  fallback stays close to the sheet; never include R–AN.
+- `data/raw/master.json` is the local snapshot of columns A–L, used when no database is
+  connected and by `npm run db:sync -- --snapshot`. `npm run seed:build` rebuilds
+  `data/seed/*.json` from it with the same rules. Never include R–AN.
 - `data/raw/directories.json` holds brand-level facts from the Coroa microbrand guide (1,314
   brands) and the Watch Police index. They fill fields the master list doesn't have but never add
   brands. `data/raw/shopify-sample.json` holds the product feeds.
 - `npm run ingest -- <domain>` pulls a brand's Shopify feed politely, respecting robots.txt with a
   2 s delay. It needs outbound network access, for example a scheduled job on Vercel.
-- `db/schema.ts` is the full Postgres schema from doc 06. `npm run db:generate` and
-  `npm run db:seed` load the seed into Postgres. No database is needed today.
 
 ## Environment variables (all optional)
 
@@ -118,13 +137,12 @@ one, and set `BRANDS_SHEET_ID` to it.
 |---|---|
 | `NEXT_PUBLIC_SITE_URL` | Canonical URL for the sitemap, JSON-LD and OG tags |
 | `RESEND_API_KEY`, `RESEND_AUDIENCE_ID` | Newsletter signups. Without them, signups are logged with a hashed email |
-| `GOOGLE_SERVICE_ACCOUNT_JSON` | Service account key for reading the master sheet live (raw JSON or base64). Or set `GOOGLE_SERVICE_ACCOUNT_EMAIL` + `GOOGLE_PRIVATE_KEY`. Without it, the snapshot is used |
-| `BRANDS_SHEET_ID` | Sheet to read. Defaults to the master list |
-| `BRANDS_REVALIDATE_SECONDS` | How long a sheet read is cached. Default 600 |
-| `BRANDS_REFRESH_SECRET` | Secret for `/api/v1/brands/refresh` |
-| `BRANDS_API_KEY` | Unlocks `audience=all` on the brands API (En Punto) |
-| `IMAGES_PUBLIC` | `logos` or `all` to show brand-site images publicly before a brand grants the image license |
-| `DATABASE_URL` | Postgres for `db:seed` |
+| `DATABASE_URL` | Postgres (set by the Neon integration). Without it the site uses the snapshot |
+| `GOOGLE_SERVICE_ACCOUNT_JSON` | Service account key the sync uses to read the sheet (raw JSON or base64). Or `GOOGLE_SERVICE_ACCOUNT_EMAIL` + `GOOGLE_PRIVATE_KEY` |
+| `CRON_SECRET` | Protects `/api/cron/sync`. Vercel Cron sends it automatically |
+| `BRANDS_API_TOKEN` | Read-only bearer token for `/api/v1`. The API is off until it's set |
+| `BRANDS_SHEET_ID` | Sheet to sync. Defaults to the master list |
+| `IMAGES_PUBLIC` | `logos` or `all` to show brand-site images before a brand grants the image license |
 | `INGEST_CONTACT_EMAIL` | Contact address in the ingest user agent |
 | `NEXT_PUBLIC_EN_PUNTO_URL`, `NEXT_PUBLIC_EXHIBIT_URL` | En Punto links |
 

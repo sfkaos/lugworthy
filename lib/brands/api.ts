@@ -2,7 +2,8 @@
 //
 // Two audiences:
 //   "lugworthy" (default, public): published brands only, i.e. Independent + Lugworthy fit "Yes".
-//   "all" (needs BRANDS_API_KEY): every brand in the master list, for En Punto and internal tools.
+//   "all": every brand in the master list, for En Punto and internal tools.
+// Every request needs the read-only bearer token (see authorize()).
 // Both return only fields built from the sheet's public columns A-L (plus directory facts).
 
 import { timingSafeEqual } from "node:crypto";
@@ -193,20 +194,29 @@ export function apiWatches(b: Brand, detail: BrandCatalog | null, audience: Audi
   };
 }
 
-/** "all" is allowed only with a matching BRANDS_API_KEY (Authorization: Bearer <key> or x-api-key). */
-export function audienceFor(req: Request, requested: string | null, env: Record<string, string | undefined> = process.env): Audience | "forbidden" {
-  if (requested !== "all") return "lugworthy";
-  const key = env.BRANDS_API_KEY;
-  if (!key) return "forbidden";
+/**
+ * Every /api/v1 request needs the read-only bearer token in BRANDS_API_TOKEN
+ * (Authorization: Bearer <token>). The token only reads public brand data; it can't change anything.
+ * The default audience is Lugworthy's published brands; audience=all adds every master-list brand.
+ */
+export function authorize(req: Request, requested: string | null, env: Record<string, string | undefined> = process.env): Audience | "unauthorized" | "not_configured" {
+  const token = env.BRANDS_API_TOKEN?.trim();
+  if (!token) return "not_configured";
   const auth = req.headers.get("authorization");
-  const given = auth?.startsWith("Bearer ") ? auth.slice(7) : req.headers.get("x-api-key");
-  if (!given) return "forbidden";
-  const a = Buffer.from(given), b = Buffer.from(key);
-  return a.length === b.length && timingSafeEqual(a, b) ? "all" : "forbidden";
+  const given = auth?.startsWith("Bearer ") ? auth.slice(7).trim() : null;
+  if (!given) return "unauthorized";
+  const a = Buffer.from(given), b = Buffer.from(token);
+  if (a.length !== b.length || !timingSafeEqual(a, b)) return "unauthorized";
+  return requested === "all" ? "all" : "lugworthy";
 }
 
-export function apiHeaders(audience: Audience): HeadersInit {
-  return audience === "lugworthy"
-    ? { "cache-control": "public, s-maxage=300, stale-while-revalidate=600", "access-control-allow-origin": "*" }
-    : { "cache-control": "private, no-store" };
+export function authError(result: "unauthorized" | "not_configured") {
+  return result === "not_configured"
+    ? { body: { error: "The API is not enabled yet (BRANDS_API_TOKEN is not set)" }, status: 503 }
+    : { body: { error: "Send Authorization: Bearer <token>" }, status: 401 };
+}
+
+export function apiHeaders(): HeadersInit {
+  // Token-gated, so never cached by shared caches.
+  return { "cache-control": "private, max-age=60", vary: "authorization" };
 }

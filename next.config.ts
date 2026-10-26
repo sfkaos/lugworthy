@@ -5,8 +5,8 @@ const withNextIntl = createNextIntlPlugin("./i18n/request.ts");
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
-  // The crawler's per-brand catalog files are read from disk at request time.
-  outputFileTracingIncludes: { "/api/v1/**": ["./data/catalog/**/*.json"], "/brands/**": ["./data/catalog/**/*.json"], "/**": ["./data/catalog/index.json"] },
+  // The sync job imports the crawler's catalog files into the database, so ship them with it.
+  outputFileTracingIncludes: { "/api/cron/sync": ["./data/catalog/**/*.json"] },
 };
 
 export default withNextIntl(nextConfig);

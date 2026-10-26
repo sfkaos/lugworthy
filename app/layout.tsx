@@ -18,8 +18,8 @@ export async function generateMetadata(): Promise<Metadata> {
   };
 }
 
-// Brand data comes live from the master sheet; pages re-render at most every 10 minutes.
-// Keep in step with BRANDS_REVALIDATE_SECONDS. /api/v1/brands/refresh forces it sooner.
+// Brand data comes from the database; pages re-render at most every 10 minutes.
+// The sync job (/api/cron/sync) revalidates everything right after it runs.
 export const revalidate = 600;
 
 export const viewport: Viewport = {

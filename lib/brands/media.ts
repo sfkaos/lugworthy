@@ -13,8 +13,8 @@
 //   }
 //
 // Images are hotlinked from the brand's site; only the URL and attribution are stored.
-// Files are read from disk at request time (see outputFileTracingIncludes in next.config.ts),
-// so a crawler commit + deploy updates the API without touching code.
+// The sync job imports these files into Postgres (lib/sync/catalog.ts); the site and API read the
+// database. Without a database (local dev) the files are read directly.
 
 import fs from "node:fs/promises";
 import path from "node:path";

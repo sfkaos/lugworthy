@@ -1,8 +1,7 @@
 import { describe, expect, it } from "vitest";
-import { Catalog } from "@/lib/data";
-import { snapshotRows } from "@/lib/brands/source";
+import { snapshotCatalog } from "@/lib/data";
 
-const catalog = new Catalog(snapshotRows());
+const catalog = snapshotCatalog();
 const publishedBrands = () => catalog.publishedBrands();
 const publishedModels = () => catalog.publishedModels();
 import { browse, parseFilters, textScore, toSearchParams } from "@/lib/filters";

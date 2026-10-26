@@ -1,13 +1,14 @@
 import { createVerify, generateKeyPairSync } from "node:crypto";
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { audienceFor, findBrand, parseBrandQuery, queryBrands } from "@/lib/brands/api";
+import { authorize, findBrand, parseBrandQuery, queryBrands } from "@/lib/brands/api";
 import { statusFor } from "@/lib/brands/build";
 import { PUBLIC_COLUMNS, PUBLIC_RANGE } from "@/lib/brands/columns";
 import { fetchPublicRows, resetTokenCacheForTests, serviceAccountFromEnv, signedAssertion } from "@/lib/brands/sheet";
-import { loadMasterRows, snapshotRows } from "@/lib/brands/source";
-import { Catalog } from "@/lib/data";
+import { buildBrands } from "@/lib/brands/build";
+import { snapshotRows } from "@/lib/brands/source";
+import { Catalog, snapshotCatalog } from "@/lib/data";
 
-const catalog = new Catalog(snapshotRows());
+const catalog = snapshotCatalog();
 const q = (s: string) => parseBrandQuery(new URLSearchParams(s));
 
 describe("publishing rule", () => {
@@ -82,32 +83,35 @@ describe("privacy", () => {
   });
 });
 
-describe("API keys", () => {
+describe("API token", () => {
   const req = (h: Record<string, string> = {}) => new Request("https://x.test/api/v1/brands", { headers: h });
-  it("defaults to the public audience", () => {
-    expect(audienceFor(req(), null, {})).toBe("lugworthy");
+  const env = { BRANDS_API_TOKEN: "secret" };
+  it("is off until a token is configured", () => {
+    expect(authorize(req({ authorization: "Bearer secret" }), null, {})).toBe("not_configured");
   });
-  it("needs the right key for audience=all", () => {
-    expect(audienceFor(req(), "all", {})).toBe("forbidden");
-    expect(audienceFor(req({ authorization: "Bearer nope" }), "all", { BRANDS_API_KEY: "secret" })).toBe("forbidden");
-    expect(audienceFor(req({ authorization: "Bearer secret" }), "all", { BRANDS_API_KEY: "secret" })).toBe("all");
-    expect(audienceFor(req({ "x-api-key": "secret" }), "all", { BRANDS_API_KEY: "secret" })).toBe("all");
+  it("needs the bearer token on every request", () => {
+    expect(authorize(req(), null, env)).toBe("unauthorized");
+    expect(authorize(req({ authorization: "Bearer nope" }), null, env)).toBe("unauthorized");
+    expect(authorize(req({ authorization: "secret" }), null, env)).toBe("unauthorized");
+    expect(authorize(req({ authorization: "Bearer secret" }), null, env)).toBe("lugworthy");
+    expect(authorize(req({ authorization: "Bearer secret" }), "all", env)).toBe("all");
   });
 });
 
 describe("catalog", () => {
   it("keeps a brand's models when the brand is renamed in the sheet", () => {
     const rows = snapshotRows().rows.map((r) => (r[0] === "BRD-0348" ? [r[0], "Lorier Watches NYC", ...r.slice(2)] : r));
-    const c = new Catalog({ rows, source: "sheet", syncedAt: new Date().toISOString() });
+    const c = new Catalog({ brands: buildBrands(rows), source: "database", syncedAt: null });
     const b = c.brandById("BRD-0348")!;
     expect(b.slug).toBe("lorier-watches-nyc");
     expect(c.modelsForBrand(b.slug).length).toBeGreaterThan(0);
     expect(c.modelsForBrand(b.slug)[0].brand?.name).toBe("Lorier Watches NYC");
   });
-  it("falls back to the snapshot without Google credentials", async () => {
-    const r = await loadMasterRows();
-    expect(r.source).toBe("snapshot");
-    expect(r.rows.length).toBe(1437);
+  it("uses the snapshot without a database", async () => {
+    const { getCatalog } = await import("@/lib/data");
+    const c = await getCatalog();
+    expect(c.source).toBe("snapshot");
+    expect(c.brands.length).toBe(1437);
   });
 });
 
@@ -176,7 +180,7 @@ describe("brand and watch images", async () => {
     watches: [{ id: "BRD-0348/falcon", name: "Falcon", url: "https://lorierwatches.com/products/falcon", image: { url: "https://cdn/x.jpg", width: 1, height: 1 }, images: [{ url: "https://cdn/x.jpg", width: 1, height: 1 }], priceMinor: 59900, currency: "USD", available: true, specs: { caseDiameterMm: 39 } }],
   }));
   const index = await loadCatalogIndex(dir);
-  const c = new Catalog(snapshotRows(), undefined, index);
+  const c = snapshotCatalog(index);
   const lorier = c.brandById("BRD-0348")!;
 
   it("reads the crawler's files and ignores missing ones", async () => {

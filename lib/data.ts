@@ -1,13 +1,15 @@
-// Read-side repository. Brands come live from the master sheet (lib/brands/source.ts) and models
-// from the imported catalog (data/seed/models.json). Pages and the /api/v1 routes both read
-// through getCatalog(), so the site and the API always agree.
+// Read-side repository. Brands come from the database, which the sync job fills from the master
+// sheet (lib/sync). Models come from the imported catalog (data/seed/models.json). Pages and the
+// /api/v1 routes both read through getCatalog(), so the site and the API always agree.
+// Without DATABASE_URL (local dev, tests) the checked-in snapshot and data/catalog files are used.
 
 import { cache } from "react";
 import modelsJson from "@/data/seed/models.json";
 import { bandFor, buildBrands } from "./brands/build";
-import { loadCatalogIndex, type CatalogIndex, type CatalogIndexRow } from "./brands/media";
-import type { MasterRows } from "./brands/source";
-import { loadMasterRows } from "./brands/source";
+import { loadBrandCatalog, loadCatalogIndex, type BrandCatalog, type CatalogIndex, type CatalogIndexRow } from "./brands/media";
+import { snapshotRows } from "./brands/source";
+import { getDb } from "./db/client";
+import { readBrandCatalog, readCatalog } from "./db/read";
 import { minPriceUsd } from "./model-utils";
 import type { Brand, Model } from "./types";
 
@@ -18,17 +20,22 @@ export { isAvailable, minPriceUsd, modelId } from "./model-utils";
 export class Catalog {
   readonly brands: Brand[];
   readonly models: Model[];
-  readonly source: MasterRows["source"];
-  readonly syncedAt: string;
+  readonly source: "database" | "snapshot";
+  readonly syncedAt: string | null;
   private readonly bySlug: Map<string, Brand>;
   private readonly byId: Map<string, Brand>;
   private readonly media: Map<string, CatalogIndexRow>;
 
-  constructor(rows: MasterRows, models: Model[] = seedModels, media?: CatalogIndex) {
+  constructor(
+    data: { brands: Brand[]; source: "database" | "snapshot"; syncedAt: string | null },
+    models: Model[] = seedModels,
+    media?: CatalogIndex,
+  ) {
     this.media = new Map((media?.brands ?? []).map((r) => [r.brandId, r]));
-    this.source = rows.source;
-    this.syncedAt = rows.syncedAt;
-    this.brands = buildBrands(rows.rows);
+    this.source = data.source;
+    this.syncedAt = data.syncedAt;
+    // Copies, because the price fields below are adjusted per catalog.
+    this.brands = data.brands.map((b) => ({ ...b }));
     this.byId = new Map(this.brands.map((b) => [b.brandId!, b]));
     // Models are tied to the brand's permanent ID, so a renamed brand keeps its models.
     this.models = [];
@@ -127,13 +134,53 @@ export class Catalog {
   }
 }
 
-// Building the catalog is cheap (about 1,400 rows) but done once per request at most.
-let memo: { key: string; catalog: Catalog } | null = null;
+/** The snapshot catalog: the master-list rows checked into the repo. */
+export function snapshotCatalog(media?: CatalogIndex): Catalog {
+  const rows = snapshotRows();
+  return new Catalog({ brands: buildBrands(rows.rows), source: "snapshot", syncedAt: rows.syncedAt }, undefined, media);
+}
 
-/** The current catalog. Rows are cached by lib/brands/source.ts; this just avoids rebuilding per call. */
+// Each server instance keeps the catalog for a minute. Pages are also cached (ISR) and the sync
+// job revalidates them, so a sync shows up within about a minute.
+const TTL_MS = 60_000;
+let memo: { at: number; catalog: Catalog } | null = null;
+
+async function loadCatalog(): Promise<Catalog> {
+  const db = getDb();
+  if (!db) return snapshotCatalog(await loadCatalogIndex());
+  try {
+    const snap = await readCatalog(db);
+    if (!snap.brands.length) {
+      console.error("[catalog] database has no brands yet (run the sync); using the snapshot");
+      return snapshotCatalog(await loadCatalogIndex());
+    }
+    return new Catalog({ brands: snap.brands, source: "database", syncedAt: snap.syncedAt }, undefined, snap.index);
+  } catch (e) {
+    console.error("[catalog] database read failed; using the snapshot:", (e as Error).message);
+    return snapshotCatalog(await loadCatalogIndex());
+  }
+}
+
+/** The current catalog, shared by the site and the API. */
 export const getCatalog = cache(async (): Promise<Catalog> => {
-  const [rows, media] = await Promise.all([loadMasterRows(), loadCatalogIndex()]);
-  const key = `${rows.source}:${rows.syncedAt}:${rows.rows.length}:${media.generatedAt}`;
-  if (memo?.key !== key) memo = { key, catalog: new Catalog(rows, undefined, media) };
+  if (!memo || Date.now() - memo.at > TTL_MS) memo = { at: Date.now(), catalog: await loadCatalog() };
   return memo.catalog;
 });
+
+/** One brand's crawled watches and images. */
+export async function getBrandSiteCatalog(code: string): Promise<BrandCatalog | null> {
+  const db = getDb();
+  if (db) {
+    try {
+      return await readBrandCatalog(db, code);
+    } catch (e) {
+      console.error("[catalog] database read failed:", (e as Error).message);
+    }
+  }
+  return loadBrandCatalog(code);
+}
+
+/** Forget the in-memory catalog (after a sync on this instance). */
+export function clearCatalogMemo() {
+  memo = null;
+}
