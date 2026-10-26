@@ -1,11 +1,12 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { findVariant } from "@/lib/data";
+import { getCatalog } from "@/lib/data";
 
 // Outbound redirect (doc 13): log the click, then 302 to the brand with affiliate params
 // when configured, otherwise UTM. The log line is the outbound_clicks row until Postgres is wired.
 export async function GET(req: NextRequest, { params }: { params: Promise<{ variant: string }> }) {
+  const catalog = await getCatalog();
   const id = decodeURIComponent((await params).variant);
-  const hit = findVariant(id);
+  const hit = catalog.findVariant(id);
   if (!hit || !hit.variant.url) return NextResponse.redirect(new URL("/watches", req.url), 302);
   const { brand, model, variant } = hit;
   const dest = variant.url!;

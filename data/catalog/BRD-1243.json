@@ -1,0 +1,1414 @@
+{
+ "brandId": "BRD-1243",
+ "brandName": "Radial",
+ "website": "https://radial-watch.com",
+ "crawledAt": "2026-10-26T01:05:34.041Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://radial-watch.com/cdn/shop/files/Radial-Logo-Noir.png?v=1711625098",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://radial-watch.com/en"
+ },
+ "attribution": "Images © Radial, from radial-watch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1243/amaus-bravo",
+   "name": "ATMAUS Bravo",
+   "url": "https://radial-watch.com/products/amaus-bravo",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08360_Original.jpg?v=1781898610",
+    "width": 4000,
+    "height": 5333
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08360_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08363_Original.jpg?v=1781898609",
+     "width": 4000,
+     "height": 5334
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08357_Original.jpg?v=1781898609",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08408_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08398_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08426_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5334
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08312-4_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5334
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08313-4_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08407_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08366_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08365_Original.jpg?v=1781898609",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08405_Original.jpg?v=1781898610",
+     "width": 4000,
+     "height": 5333
+    }
+   ],
+   "priceMinor": 74900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Inspirée des historiques cadrans Type B utilisés pour la navigation aérienne, l'ATMAUS Bravo met l'accent sur la précision et la lisibilité. Son affichage caractéristique, avec une échelle de minutes dominante, reprend l'esprit des instruments de navigation tout en l'adaptant à une montre contemporaine. Dotée d'un boîtier de 39 mm, d'une nouvelle lunette signature avec stries sur les points cardinaux et du calibre suisse Sellita SW200-1 sans date, l'ATMAUS Bravo est conçue et assemblée en France. Disponible avec cadran Noir Grainé, Bleu Orage ou Tuxedo.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur du cadran",
+     "values": [
+      "Bleu orage",
+      "Noir grainé",
+      "Tuxedo"
+     ]
+    },
+    {
+     "name": "Type de bracelet",
+     "values": [
+      "Acier",
+      "Synthétique Noir",
+      "Toile Noire",
+      "Synthétique Beige",
+      "Synthétique Bleu",
+      "Toile Bleue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bleu orage / Acier",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Acier"
+     ]
+    },
+    {
+     "title": "Bleu orage / Synthétique Noir",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Synthétique Noir"
+     ]
+    },
+    {
+     "title": "Bleu orage / Toile Noire",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Toile Noire"
+     ]
+    },
+    {
+     "title": "Bleu orage / Synthétique Beige",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Synthétique Beige"
+     ]
+    },
+    {
+     "title": "Bleu orage / Synthétique Bleu",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Synthétique Bleu"
+     ]
+    },
+    {
+     "title": "Bleu orage / Toile Bleue",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Toile Bleue"
+     ]
+    },
+    {
+     "title": "Noir grainé / Acier",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Noir grainé",
+      "Acier"
+     ]
+    },
+    {
+     "title": "Noir grainé / Synthétique Noir",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Noir grainé",
+      "Synthétique Noir"
+     ]
+    },
+    {
+     "title": "Noir grainé / Toile Noire",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Noir grainé",
+      "Toile Noire"
+     ]
+    },
+    {
+     "title": "Tuxedo / Acier",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tuxedo",
+      "Acier"
+     ]
+    },
+    {
+     "title": "Tuxedo / Synthétique Noir",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tuxedo",
+      "Synthétique Noir"
+     ]
+    },
+    {
+     "title": "Tuxedo / Toile Noire",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tuxedo",
+      "Toile Noire"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 11.7,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "TOUT EST DANS LES DÉTAILS Diamètre": "39 mm",
+    "Corne à corne": "46 mm",
+    "Épaisseur": "11,7 mm (dont verre saphir dôme)",
+    "Poids": "60 g (hors bracelet)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "eb0e9808f6c41e2e"
+  },
+  {
+   "id": "BRD-1243/atmaus-alpha",
+   "name": "ATMAUS Alpha",
+   "url": "https://radial-watch.com/products/atmaus-alpha",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08362_Original2.jpg?v=1781898316",
+    "width": 4000,
+    "height": 5333
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08362_Original2.jpg?v=1781898316",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08350-3_Original2.jpg?v=1781898316",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08311-3_Original2.jpg?v=1781898317",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08317-3_Original2.jpg?v=1781898316",
+     "width": 4000,
+     "height": 5334
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08425_Original2.jpg?v=1781898318",
+     "width": 4000,
+     "height": 5334
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08317-4_Original2.jpg?v=1781898317",
+     "width": 4000,
+     "height": 5334
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08402_Original.jpg?v=1781898319",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08361_Original2.jpg?v=1781898316",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/7d7290f3-7493-415d-ac62-0210551671822.jpg?v=1781898316",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08396_Original2.jpg?v=1781898316",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08317-5_Original2.jpg?v=1781898317",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-vinz.ovtk-C1-A7C084476.jpg?v=1781898316",
+     "width": 4000,
+     "height": 5334
+    }
+   ],
+   "priceMinor": 74900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Inspirée des historiques cadrans Type A utilisés pour la navigation aérienne, l'ATMAUS Alpha privilégie une lecture claire et immédiate. Cette nouvelle interprétation conserve l'esprit instrumental cher à Radial tout en adoptant des proportions contemporaines adaptées au quotidien. Dotée d'un boîtier de 39 mm, d'une nouvelle lunette signature avec stries sur les points cardinaux et du calibre suisse Sellita SW200-1 sans date, l'ATMAUS Alpha est conçue et assemblée en France. Disponible avec cadran Noir ou Bleu Orage.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur du cadran",
+     "values": [
+      "Noir émaillé",
+      "Bleu orage"
+     ]
+    },
+    {
+     "name": "Type de bracelet",
+     "values": [
+      "Acier",
+      "Synthétique Noir",
+      "Toile Noire",
+      "Toile Orange"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Noir émaillé / Acier",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Noir émaillé",
+      "Acier"
+     ]
+    },
+    {
+     "title": "Noir émaillé / Synthétique Noir",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Noir émaillé",
+      "Synthétique Noir"
+     ]
+    },
+    {
+     "title": "Noir émaillé / Toile Noire",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Noir émaillé",
+      "Toile Noire"
+     ]
+    },
+    {
+     "title": "Noir émaillé / Toile Orange",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Noir émaillé",
+      "Toile Orange"
+     ]
+    },
+    {
+     "title": "Bleu orage / Acier",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Acier"
+     ]
+    },
+    {
+     "title": "Bleu orage / Synthétique Noir",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Synthétique Noir"
+     ]
+    },
+    {
+     "title": "Bleu orage / Toile Noire",
+     "sku": null,
+     "priceMinor": 74900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu orage",
+      "Toile Noire"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 11.7,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "TOUT EST DANS LES DÉTAILS Diamètre": "39 mm",
+    "Corne à corne": "46 mm",
+    "Épaisseur": "11,7 mm (dont verre saphir dôme)",
+    "Poids": "60 g (hors bracelet)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "11a81d1e8fe3883d"
+  },
+  {
+   "id": "BRD-1243/bracelets-toile-atmaus",
+   "name": "Bracelets toile ATMAUS",
+   "url": "https://radial-watch.com/products/bracelets-toile-atmaus",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08327_Original_f2440dc6-517e-4392-88b8-98367c8acb3f.jpg?v=1781902403",
+    "width": 4000,
+    "height": 5333
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08327_Original_f2440dc6-517e-4392-88b8-98367c8acb3f.jpg?v=1781902403",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08329_Original_27f636a1-d041-4a14-96c7-917de43b85fd.jpg?v=1781902402",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08323_Original_8daa0174-94d1-4b6a-a51e-6eb0991298d6.jpg?v=1781902402",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08328_Original_6fe6b4fa-3911-4257-8894-9f7b00aa9e07.jpg?v=1781902402",
+     "width": 4000,
+     "height": 5333
+    }
+   ],
+   "priceMinor": 4000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Conçu pour accompagner votre montre ATMAUS au quotidien, ce bracelet en toile allie légèreté, confort et robustesse. Sa conception textile offre un excellent maintien au poignet tout en conservant une grande souplesse d'utilisation. Inspiré de l'univers militaire et aéronautique, il apporte à votre montre un style affirmé et décontracté. Résistant, léger et agréable à porter, il convient aussi bien à un usage quotidien qu'aux activités de plein air. Caractéristiques : • Largeur : 20 mm • Bracelet en toile résistante • Boucle ardillon en acier inoxydable • Compatible avec les montres ATMAUS • Léger et confortable • Facile d'entretien Disponible en plusieurs coloris.",
+   "productType": null,
+   "tags": [
+    "20mm",
+    "aviation",
+    "bracelet",
+    "bracelet montre",
+    "nylon",
+    "textile",
+    "toile"
+   ],
+   "options": [
+    {
+     "name": "Couleur",
+     "values": [
+      "Noir",
+      "Bleu",
+      "Orange"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Noir",
+     "sku": null,
+     "priceMinor": 4000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Noir"
+     ]
+    },
+    {
+     "title": "Bleu",
+     "sku": null,
+     "priceMinor": 4000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu"
+     ]
+    },
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 4000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 11.7,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "TOUT EST DANS LES DÉTAILS Diamètre": "39 mm",
+    "Corne à corne": "46 mm",
+    "Épaisseur": "11,7 mm (dont verre saphir dôme)",
+    "Poids": "60 g (hors bracelet)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "599b10997dc1c9ee"
+  },
+  {
+   "id": "BRD-1243/bracelet-synthetique-impermeable-atmaus",
+   "name": "Bracelet synthétique imperméable ATMAUS",
+   "url": "https://radial-watch.com/products/bracelet-synthetique-impermeable-atmaus",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08322_Original.jpg?v=1781901385",
+    "width": 4000,
+    "height": 5333
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08322_Original.jpg?v=1781901385",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08323_Original.jpg?v=1781901384",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08324_Original.jpg?v=1781901386",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08325_Original.jpg?v=1781901384",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08326_Original.jpg?v=1781901386",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08327_Original.jpg?v=1781901384",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08330_Original.jpg?v=1781901384",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08329_Original.jpg?v=1781901384",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.ovtk-A7C08328_Original.jpg?v=1781901387",
+     "width": 4000,
+     "height": 5333
+    }
+   ],
+   "priceMinor": 4000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Conçu pour accompagner votre montre ATMAUS au quotidien, ce bracelet allie confort, résistance et polyvalence. Son revêtement synthétique imperméable résiste aux contraintes d'une utilisation intensive tout en offrant un excellent confort au poignet. Sa face intérieure présente une finition aspect cuir pour un confort optimal au poignet. Inspiré de l'univers militaire et aéronautique, il apporte à votre montre un style à la fois sportif et élégant. Caractéristiques : • Largeur : 20 mm • Revêtement synthétique imperméable • Face intérieure aspect cuir • Boucle ardillon en acier inoxydable • Compatible avec les montres ATMAUS • Résistant à l'eau et facile d'entretien Disponible en plusieurs coloris.",
+   "productType": null,
+   "tags": [
+    "20mm",
+    "bracelet",
+    "imperméable",
+    "synthétique"
+   ],
+   "options": [
+    {
+     "name": "Couleur",
+     "values": [
+      "Bleu",
+      "Noir",
+      "Beige",
+      "Blanc"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bleu",
+     "sku": null,
+     "priceMinor": 4000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu"
+     ]
+    },
+    {
+     "title": "Noir",
+     "sku": null,
+     "priceMinor": 4000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Noir"
+     ]
+    },
+    {
+     "title": "Beige",
+     "sku": null,
+     "priceMinor": 4000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Beige"
+     ]
+    },
+    {
+     "title": "Blanc",
+     "sku": null,
+     "priceMinor": 4000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blanc"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 11.7,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "TOUT EST DANS LES DÉTAILS Diamètre": "39 mm",
+    "Corne à corne": "46 mm",
+    "Épaisseur": "11,7 mm (dont verre saphir dôme)",
+    "Poids": "60 g (hors bracelet)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "062482eea0d46f6f"
+  },
+  {
+   "id": "BRD-1243/bracelet-acier-316-l-3-maillons",
+   "name": "Bracelet acier 316 L 3 maillons",
+   "url": "https://radial-watch.com/products/bracelet-acier-316-l-3-maillons",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_3_psd_png.png?v=1746776881",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_3_psd_png.png?v=1746776881",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3330_2.jpg?v=1746776881",
+     "width": 2927,
+     "height": 2807
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3336.jpg?v=1746776881",
+     "width": 4000,
+     "height": 5000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/DSC00822.jpg?v=1746776881",
+     "width": 3987,
+     "height": 5981
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/DSC00581.jpg?v=1746776881",
+     "width": 4000,
+     "height": 6000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/DSC00900.jpg?v=1746776881",
+     "width": 4000,
+     "height": 6000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/DSC00901.jpg?v=1746776881",
+     "width": 4000,
+     "height": 6000
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Bracelet en Acier 316L 3 maillons à boucle déployante. Ce bracelet est doté de deux micro réglages. La boucle est signée du nom de la marque.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 11.7,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "TOUT EST DANS LES DÉTAILS Diamètre": "39 mm",
+    "Corne à corne": "46 mm",
+    "Épaisseur": "11,7 mm (dont verre saphir dôme)",
+    "Poids": "60 g (hors bracelet)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "6591e6466563a894"
+  },
+  {
+   "id": "BRD-1243/bracelet-silicone",
+   "name": "Bracelet FKM - Caoutchouc vulcanisé",
+   "url": "https://radial-watch.com/products/bracelet-silicone",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_14.psd.png?v=1746290901",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_14.psd.png?v=1746290901",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_8.psd.png?v=1746290901",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_10.psd.png?v=1746290901",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_11.psd.png?v=1746290901",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_13.psd.png?v=1746290880",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137_7.psd.png?v=1746290781",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/DSC00807.jpg?v=1746291122",
+     "width": 2944,
+     "height": 4416
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/DSC00923.jpg?v=1746291122",
+     "width": 4000,
+     "height": 6000
+    }
+   ],
+   "priceMinor": 4500,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Ce bracelet FKM en caoutchouc vulcanisé est fabriqué à partir d'un matériau dont la structure et les propriétés sont modifiées par un procédé de vulcanisation. Celui-ci consiste à chauffer le caoutchouc en y ajoutant du soufre, ce qui le rend plus solide et performant. Résultat ? Un bracelet à la fois plus souple, confortable et durable. Grâce à sa conception haute performance, ce bracelet possède une structure antidérapante interne qui assure une prise optimale. Il est également résistant à l’eau, à la sueur et aux variations de température. Son confort incomparable fait de lui un accessoire idéal pour un usage quotidien ou lors d'activités intenses.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur",
+     "values": [
+      "Noir",
+      "Bleu",
+      "Vert"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Noir",
+     "sku": "50",
+     "priceMinor": 4500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Noir"
+     ]
+    },
+    {
+     "title": "Bleu",
+     "sku": "51",
+     "priceMinor": 4500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu"
+     ]
+    },
+    {
+     "title": "Vert",
+     "sku": "52",
+     "priceMinor": 4500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Vert"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "02713dc0f509fdf1"
+  },
+  {
+   "id": "BRD-1243/bracelets-cuir",
+   "name": "Bracelets cuir",
+   "url": "https://radial-watch.com/products/bracelets-cuir",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137.psd_f749d9bb-c967-42d0-87b3-aba0bad86f78.png?v=1746289701",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137.psd_f749d9bb-c967-42d0-87b3-aba0bad86f78.png?v=1746289701",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137.psd_44878e9d-7dcb-41f4-8935-ee0237e6627f.png?v=1746289701",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137.psd_417c8c43-2570-4747-962d-54fbd60f44bf.png?v=1746289701",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3137.psd_d010c190-a01c-45be-8ce7-e3b496cd9e4f.png?v=1746289701",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 3500,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Bracelets en cuir de vachette français avec tannage végétal. Facile à placer et à retirer grâce aux attaches rapides. Disponible en deux couleurs: marron ou noir Le cuir de vachette avec tannage végétal est un cuir fabriqué à partir de la peau de vache, traité avec des extraits de plantes (comme le chêne ou l’acacia) pour le rendre durable et résistant. Ce procédé naturel est écologique, respecte l'environnement et donne au cuir une belle patine avec le temps. Il est souple, confortable et se bonifie au fil des années.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur",
+     "values": [
+      "Noir",
+      "Marron"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Noir",
+     "sku": null,
+     "priceMinor": 3500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Noir"
+     ]
+    },
+    {
+     "title": "Marron",
+     "sku": null,
+     "priceMinor": 3500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Marron"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Disponible en deux couleurs": "marron ou noir"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "c1a362e681040539"
+  },
+  {
+   "id": "BRD-1243/atmaus-003-blue-stratosphere",
+   "name": "ATMAUS Classique",
+   "url": "https://radial-watch.com/products/atmaus-003-blue-stratosphere",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_7039.jpg?v=1748150600",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_7039.jpg?v=1748150600",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_bleu_metal.png?v=1748150600",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_7611.jpg?v=1748150975",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_7371.jpg?v=1748150975",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/DSC00819.jpg?v=1759951991",
+     "width": 3987,
+     "height": 5981
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.watchographer-A7C02587_Original.jpg?v=1759951991",
+     "width": 2336,
+     "height": 2920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.watchographer-DSCF0374_Original.jpg?v=1759951991",
+     "width": 2379,
+     "height": 2973
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_bleu_noir.png?v=1759951991",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_bleu_bleu.png?v=1759951991",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_bleu_cuir_noir.png?v=1759951991",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_bleu_marron.png?v=1759951991",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Notre montre d'aviation, conçue et assemblée en France est animée par le robuste calibre suisse automatique Sellita SW200-1 . Elle incarne l’alliance parfaite entre technique et élégance sophistiquée. Avec un design épuré et des matériaux d’exception, elle se positionne comme l’accessoire ultime des voyageurs aériens exigeants . Son cadran au design original s'inspire de celui d'une boussole ou d'un instrument de bord , alliant esthétisme et fonctionnalité dans un esprit d'aventure et de précision.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Bracelet caoutchouc FKM noir",
+      "Bracelet caoutchouc FKM bleu",
+      "Bracelet Cuir noir",
+      "Bracelet Cuir marron",
+      "Bracelet Acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet caoutchouc FKM noir",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet caoutchouc FKM noir"
+     ]
+    },
+    {
+     "title": "Bracelet caoutchouc FKM bleu",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet caoutchouc FKM bleu"
+     ]
+    },
+    {
+     "title": "Bracelet Cuir noir",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet Cuir noir"
+     ]
+    },
+    {
+     "title": "Bracelet Cuir marron",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet Cuir marron"
+     ]
+    },
+    {
+     "title": "Bracelet Acier",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Bracelet Acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 11.7,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Two-part bezel": "grooved and polished forming a single piece",
+    "TOUT EST DANS LES DÉTAILS Diamètre": "39 mm",
+    "Corne à corne": "46 mm",
+    "Épaisseur": "11,7 mm (dont verre saphir dôme)",
+    "Poids": "60 g (hors bracelet)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "b5a332a0cbbd821f"
+  },
+  {
+   "id": "BRD-1243/atmaus-002-deep-black",
+   "name": "ATMAUS Classique",
+   "url": "https://radial-watch.com/products/atmaus-002-deep-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_7085.jpg?v=1748150609",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_7085.jpg?v=1748150609",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_noir_metal.png?v=1748150609",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_7371.jpg?v=1748150975",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_7611.jpg?v=1748150975",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/ExportLR-28102024-DSCF0103-Avec_accentuation-Bruit_Original_2.jpg?v=1746876850",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.watchographer-A7C02572-3_Original.jpg?v=1756726823",
+     "width": 4450,
+     "height": 5563
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/vinz.watchographer-A7C02578-4_Original.jpg?v=1756726822",
+     "width": 3486,
+     "height": 3486
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/IMG_3336.jpg?v=1746776881",
+     "width": 4000,
+     "height": 5000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_noir_noir.png?v=1726075654",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_noir_vert.png?v=1726075654",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_noir_bleu.png?v=1726075653",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0828/9540/5396/files/Radial_Watch_noir_cuir_noir.png?v=1726075653",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Notre montre d'aviation, conçue et assemblée en France est animée par le robuste calibre suisse automatique Sellita SW200-1 . Elle incarne l’alliance parfaite entre technique et élégance sophistiquée. Avec un design épuré et des matériaux d’exception, elle se positionne comme l’accessoire ultime des voyageurs aériens exigeants . Son cadran au design original s'inspire de celui d'une boussole ou d'un instrument de bord , alliant esthétisme et fonctionnalité dans un esprit d'aventure et de précision.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelets",
+     "values": [
+      "Bracelet caoutchouc FKM noir",
+      "Bracelet caoutchouc FKM vert",
+      "Bracelet caoutchouc FKM bleu",
+      "Bracelet Cuir noir",
+      "Bracelet Cuir marron",
+      "Bracelet Acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet caoutchouc FKM noir",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet caoutchouc FKM noir"
+     ]
+    },
+    {
+     "title": "Bracelet caoutchouc FKM vert",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet caoutchouc FKM vert"
+     ]
+    },
+    {
+     "title": "Bracelet caoutchouc FKM bleu",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet caoutchouc FKM bleu"
+     ]
+    },
+    {
+     "title": "Bracelet Cuir noir",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet Cuir noir"
+     ]
+    },
+    {
+     "title": "Bracelet Cuir marron",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet Cuir marron"
+     ]
+    },
+    {
+     "title": "Bracelet Acier",
+     "sku": null,
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet Acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 11.7,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Two-part bezel": "grooved and polished forming a single piece",
+    "TOUT EST DANS LES DÉTAILS Diamètre": "39 mm",
+    "Corne à corne": "46 mm",
+    "Épaisseur": "11,7 mm (dont verre saphir dôme)",
+    "Poids": "60 g (hors bracelet)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "e082f8d71d8c250e"
+  }
+ ]
+}

@@ -263,6 +263,7 @@
     "priceRange": "Price range",
     "country": "Country",
     "lastSync": "Catalog synced {date}",
+    "fromSite": "From the brand’s website, checked {date} · {soldOut, plural, =0 {none sold out} other {# sold out}}",
     "atAGlance": "At a glance",
     "founded": "Founded",
     "movement": "Movement",
@@ -291,7 +292,21 @@
     "similar": "Similar watches",
     "importedNote": "Specs below were imported from {brand}’s store on {date} and haven’t been confirmed yet. Hover a value to see where it came from.",
     "limited": "Limited edition",
-    "fits": "Lugs stay on wrists from about {min} in (lug-to-lug rule of thumb)"
+    "fits": "Lugs stay on wrists from about {min} in (lug-to-lug rule of thumb)",
+    "siteNote": "Details and photos come from {brand}’s website, last checked {date}. Specs were read automatically and may contain mistakes.",
+    "availability": "Availability",
+    "checked": "Last checked {date}",
+    "history": "Stock history",
+    "about": "From {brand}",
+    "options": "Options",
+    "allSpecs": "Every spec {brand} lists",
+    "viewOnSite": "View on {brand}’s site ↗",
+    "avail": {
+      "in_stock": "In stock",
+      "sold_out": "Sold out",
+      "preorder": "Preorder",
+      "unknown": "Unknown"
+    }
   },
   "spec": {
     "group": {

@@ -1,22 +1,21 @@
 import Link from "next/link";
 import { useTranslations } from "next-intl";
-import { brandOf, isAvailable, minPriceUsd, modelId } from "@/lib/data";
+import { brandInfo, isAvailable, minPriceUsd, modelId } from "@/lib/model-utils";
 import { metres, mm, money } from "@/lib/format";
 import type { Model } from "@/lib/types";
-import { CaseOutline } from "./CaseOutline";
+import { WatchPhoto } from "./WatchPhoto";
 import { CompareButton } from "./CompareButton";
 
 export function ModelCard({ model, showBrand = true }: { model: Model; showBrand?: boolean }) {
   const t = useTranslations();
-  const brand = brandOf(model);
-  const href = `/brands/${brand.slug}/${model.slug}`;
+  const href = `/brands/${model.brandSlug}/${model.slug}`;
   const s = model.specs;
   const facts = [mm(s.caseDiameterMm), s.lugToLugMm ? `${mm(s.lugToLugMm)} L2L` : null, metres(s.waterResistanceM), s.caliber ?? (s.movementType ? t(`enum.mov.${s.movementType}`) : null)].filter(Boolean);
   const available = isAvailable(model);
   return (
     <article className="card group relative flex w-full flex-col overflow-hidden">
-      <div className="relative flex aspect-[4/3] items-center justify-center bg-surface-2 text-muted">
-        <CaseOutline diameter={s.caseDiameterMm} lugToLug={s.lugToLugMm} lugWidth={s.lugWidthMm} className="h-4/5 w-4/5" />
+      <div className={`relative flex aspect-[4/3] items-center justify-center text-muted ${model.images?.length ? "bg-white p-2" : "bg-surface-2"}`}>
+        <WatchPhoto model={model} />
         <div className="absolute left-2 top-2 flex flex-wrap gap-1">
           {model.status === "preorder" && <span className="rounded bg-surface px-1.5 py-0.5 text-xs font-semibold">{t("enum.status.preorder")}</span>}
           {model.limitedEdition && <span className="rounded bg-surface px-1.5 py-0.5 text-xs font-semibold">{t("model.limited")}</span>}
@@ -24,7 +23,7 @@ export function ModelCard({ model, showBrand = true }: { model: Model; showBrand
         </div>
       </div>
       <div className="flex flex-1 flex-col gap-1 p-3">
-        {showBrand && <p className="eyebrow">{brand.name}</p>}
+        {showBrand && <p className="eyebrow">{brandInfo(model).name}</p>}
         <h3 className="font-semibold leading-snug">
           <Link href={href} className="after:absolute after:inset-0">
             {model.name}
