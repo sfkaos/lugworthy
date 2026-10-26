@@ -16,7 +16,7 @@ services:
       - key: IMAGE_STORE
         value: r2
       - key: R2_ACCOUNT_ID
-        sync: false
+        value: 97bc558321827cf111c152f6dbb392af
       - key: R2_ACCESS_KEY_ID
         sync: false
       - key: R2_SECRET_ACCESS_KEY
@@ -24,7 +24,7 @@ services:
       - key: R2_BUCKET
         value: lugworthy-images
       - key: R2_PUBLIC_BASE_URL
-        sync: false
+        value: https://pub-5c3b8e4ae8704fe8aaa927cc25720be5.r2.dev
   - type: cron
     name: lugworthy-availability
     runtime: node
@@ -40,7 +40,7 @@ services:
       - key: IMAGE_STORE
         value: r2
       - key: R2_ACCOUNT_ID
-        sync: false
+        value: 97bc558321827cf111c152f6dbb392af
       - key: R2_ACCESS_KEY_ID
         sync: false
       - key: R2_SECRET_ACCESS_KEY
@@ -48,4 +48,4 @@ services:
       - key: R2_BUCKET
         value: lugworthy-images
       - key: R2_PUBLIC_BASE_URL
-        sync: false
+        value: https://pub-5c3b8e4ae8704fe8aaa927cc25720be5.r2.dev
