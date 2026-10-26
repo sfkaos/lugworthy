@@ -2,6 +2,8 @@
 //   npm run crawl                       # every Independent, Lugworthy-fit brand with a website
 //   npm run crawl -- --ids BRD-0001,BRD-0004
 //   npm run crawl -- --limit 20 --max-age-days 7
+//   npm run crawl -- --skip-since 2026-11-01   # resume: skip brands crawled since then
+//   npm run crawl -- --save-each        # also save each brand to the database as soon as it is crawled
 // Brands come from data/raw/master.json (snapshot of the master sheet, public columns only).
 // Output: data/catalog/BRD-####.json per brand + data/catalog/index.json.
 // Re-runnable: brands crawled within --max-age-days are skipped, and a failed
@@ -12,6 +14,12 @@ import { crawlBrand, mergeWithPrevious, type BrandCatalog, type BrandInput } fro
 import type { ImageRef } from "../lib/crawl/html";
 import { imageStoreFromEnv, mirrorImage } from "../lib/crawl/store";
 import { writeCatalogIndex } from "../lib/crawl/index-file";
+import { drizzle } from "drizzle-orm/postgres-js";
+import postgres from "postgres";
+import * as schema from "../db/schema";
+import type { Db } from "../lib/db/client";
+import { withSsl } from "../lib/db/ssl";
+import { importBrandCatalogs } from "../lib/sync/catalog";
 
 const args = process.argv.slice(2);
 const arg = (name: string) => {
@@ -22,9 +30,20 @@ const ids = arg("ids")?.split(",").map((s) => s.trim().toUpperCase()).filter(Boo
 const limit = Number(arg("limit") ?? Infinity);
 const concurrency = Number(arg("concurrency") ?? 6);
 const maxAgeDays = Number(arg("max-age-days") ?? 0);
+const skipSince = arg("skip-since"); // ISO date: skip brands already crawled at or after it
 const store = imageStoreFromEnv();
 let storeErrors = 0;
 const imagesOnly = args.includes("--images-only"); // re-mirror images from existing catalogs, no crawl
+// With --save-each, a run that stops early (time limit, crash) keeps every brand it finished,
+// and a rerun with --max-age-days skips them.
+const saveEach = args.includes("--save-each") ? openDb() : null;
+
+function openDb() {
+  const url = process.env.DATABASE_URL?.trim() || process.env.POSTGRES_URL?.trim();
+  if (!url) throw new Error("--save-each needs DATABASE_URL");
+  const client = postgres(withSsl(url), { max: 1, prepare: false });
+  return { client, db: drizzle(client, { schema }) as unknown as Db };
+}
 
 const root = path.resolve(__dirname, "..");
 const outDir = process.env.CATALOG_DIR ? path.resolve(process.env.CATALOG_DIR) : path.join(root, "data/catalog");
@@ -44,8 +63,9 @@ const readPrev = (id: string): BrandCatalog | null => {
   try { return JSON.parse(fs.readFileSync(fileFor(id), "utf8")); } catch { return null; }
 };
 
-if (maxAgeDays > 0) {
-  const cutoff = Date.now() - maxAgeDays * 86_400_000;
+if (maxAgeDays > 0 || skipSince) {
+  const cutoff = skipSince ? Date.parse(skipSince) : Date.now() - maxAgeDays * 86_400_000;
+  if (Number.isNaN(cutoff)) throw new Error(`bad --skip-since ${skipSince}`);
   brands = brands.filter((b) => {
     const prev = readPrev(b.brandId);
     return !prev || Date.parse(prev.crawledAt) < cutoff;
@@ -70,6 +90,10 @@ async function one(b: BrandInput) {
   else cat = mergeWithPrevious(cat, prev);
   if (store) await mirrorAll(cat, prev);
   fs.writeFileSync(fileFor(b.brandId), JSON.stringify(cat, null, 1) + "\n");
+  if (saveEach) {
+    try { await importBrandCatalogs(saveEach.db, [cat as unknown as Parameters<typeof importBrandCatalogs>[1][number]]); }
+    catch (e) { console.error(`${b.brandId} database save failed: ${String((e as Error).message).slice(0, 200)}`); }
+  }
   const withImg = cat.watches.filter((w) => w.image).length;
   console.log(`${b.brandId} ${b.name.padEnd(28).slice(0, 28)} ${cat.status.padEnd(17)} ${String(cat.platform ?? "-").padEnd(11)} logo:${cat.brandImage ? cat.brandImage.kind : "none"} watches:${cat.watches.length} (img ${withImg}, sold out ${cat.watches.filter((w) => w.soldOut).length}, specs ${cat.watches.filter((w) => Object.keys(w.specsRaw ?? {}).length).length}) ${((Date.now() - t0) / 1000).toFixed(0)}s`);
 }
@@ -126,4 +150,4 @@ function writeIndex() {
     while (queue.length) await one(queue.shift()!);
   }));
   writeIndex();
-})();
+})().finally(() => saveEach?.client.end());

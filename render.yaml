@@ -15,6 +15,9 @@ services:
         value: --max-old-space-size=280
       - key: CRAWL_CONCURRENCY
         value: "4"
+      # First full crawl with photo storage started this day; reruns skip brands done since then.
+      - key: CRAWL_SKIP_SINCE
+        value: "2026-10-26T16:00:00Z"
       - key: DATABASE_URL
         sync: false
       - key: IMAGE_STORE
