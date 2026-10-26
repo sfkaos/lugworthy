@@ -5,6 +5,7 @@ import { drizzle } from "drizzle-orm/postgres-js";
 import type { PgDatabase, PgQueryResultHKT } from "drizzle-orm/pg-core";
 import postgres from "postgres";
 import * as schema from "@/db/schema";
+import { withSsl } from "./ssl";
 
 export type Db = PgDatabase<PgQueryResultHKT, typeof schema>;
 
@@ -19,7 +20,7 @@ export function getDb(): Db | null {
   if (!url) return null;
   if (cached?.url !== url) {
     // Small pool: serverless functions each hold their own. prepare:false suits Neon's pooler.
-    const client = postgres(url, { max: 3, prepare: false, idle_timeout: 20 });
+    const client = postgres(withSsl(url), { max: 3, prepare: false, idle_timeout: 20 });
     cached = { url, db: drizzle(client, { schema }) as unknown as Db };
   }
   return cached.db;

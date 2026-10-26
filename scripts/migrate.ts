@@ -5,6 +5,7 @@
 import { drizzle } from "drizzle-orm/postgres-js";
 import { migrate } from "drizzle-orm/postgres-js/migrator";
 import postgres from "postgres";
+import { withSsl } from "../lib/db/ssl";
 
 /** Postgres classes 08 (connection) and 53 (insufficient resources, e.g. Neon's quota), or a network error. */
 export function isUnreachable(e: unknown): boolean {
@@ -21,7 +22,7 @@ async function main() {
     console.log("[migrate] no DATABASE_URL, skipping");
     return;
   }
-  const client = postgres(url, { max: 1, prepare: false, connect_timeout: 15, onnotice: () => {} });
+  const client = postgres(withSsl(url), { max: 1, prepare: false, connect_timeout: 15, onnotice: () => {} });
   try {
     await migrate(drizzle(client), { migrationsFolder: "db/migrations" });
     console.log("[migrate] database is up to date");
