@@ -31,7 +31,7 @@ export default async function CountryHub({ params }: { params: P }) {
   return (
     <Hub path={`/countries/${iso.toLowerCase()}`} title={t("hub.countryTitle", { country: name })} intro={t("hub.countryIntro", { country: name })} models={models} browseHref={models.length ? `/watches?country=${iso}` : undefined} browseLabel={t("hub.browseAll")}>
       <ul className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
-        {brands.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={catalog.modelsForBrand(b.slug).length} /></li>)}
+        {brands.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={catalog.modelsForBrand(b.slug).length} logo={catalog.logoFor(b)} /></li>)}
       </ul>
     </Hub>
   );

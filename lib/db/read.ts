@@ -91,20 +91,22 @@ export async function readCatalog(db: Db): Promise<DbSnapshot> {
   };
 }
 
-/** One brand's crawl, watches and images, in the crawler's file format. */
-export async function readBrandCatalog(db: Db, code: string): Promise<BrandCatalog | null> {
-  const [row] = await db
+/** Crawls, watches and images in the crawler's file format: all brands, or only `code`. */
+export async function readSiteCatalogs(db: Db, code?: string): Promise<BrandCatalog[]> {
+  const rows = await db
     .select({ brand: s.brands, crawl: s.brandCrawls })
     .from(s.brandCrawls)
     .innerJoin(s.brands, eq(s.brands.id, s.brandCrawls.brandId))
-    .where(eq(s.brands.brandCode, code.toUpperCase()));
-  if (!row) return null;
-  const watches = await db.select().from(s.siteWatches).where(eq(s.siteWatches.brandId, row.brand.id)).orderBy(asc(s.siteWatches.position));
-  const images = watches.length
-    ? await db.select().from(s.siteWatchImages).where(inArray(s.siteWatchImages.watchId, watches.map((w) => w.id))).orderBy(asc(s.siteWatchImages.position))
+    .where(code ? eq(s.brands.brandCode, code.toUpperCase()) : undefined);
+  if (!rows.length) return [];
+  const brandIds = rows.map((r) => r.brand.id);
+  const watches = await db.select().from(s.siteWatches).where(inArray(s.siteWatches.brandId, brandIds)).orderBy(asc(s.siteWatches.position));
+  const watchIds = watches.map((w) => w.id);
+  const images = watchIds.length
+    ? await db.select().from(s.siteWatchImages).where(inArray(s.siteWatchImages.watchId, watchIds)).orderBy(asc(s.siteWatchImages.position))
     : [];
-  const events = watches.length
-    ? await db.select().from(s.siteWatchAvailabilityEvents).where(inArray(s.siteWatchAvailabilityEvents.watchId, watches.map((w) => w.id))).orderBy(asc(s.siteWatchAvailabilityEvents.at))
+  const events = watchIds.length
+    ? await db.select().from(s.siteWatchAvailabilityEvents).where(inArray(s.siteWatchAvailabilityEvents.brandId, brandIds)).orderBy(asc(s.siteWatchAvailabilityEvents.at))
     : [];
   const historyFor = new Map<string, { at: string; availability: Availability }[]>();
   for (const e of events) {
@@ -118,10 +120,23 @@ export async function readBrandCatalog(db: Db, code: string): Promise<BrandCatal
     list.push({ url: im.url, storedUrl: im.storedUrl, width: im.width, height: im.height });
     imagesFor.set(im.watchId, list);
   }
-  const c = row.crawl;
-  return {
-    brandId: row.brand.brandCode!,
-    brandName: row.brand.name,
+  const watchesFor = new Map<string, CatalogWatch[]>();
+  for (const w of watches) {
+    const imgs = imagesFor.get(w.id) ?? [];
+    const list = watchesFor.get(w.brandId) ?? [];
+    list.push({
+      id: w.id, name: w.name, url: w.url, image: imgs[0] ?? null, images: imgs, priceMinor: w.priceMinor,
+      currency: w.currency, available: w.available, specs: w.specs, hash: w.hash ?? undefined,
+      availability: (w.availability as Availability | null) ?? null, soldOut: w.soldOut,
+      availabilityCheckedAt: w.availabilityCheckedAt?.toISOString() ?? null, availabilityHistory: historyFor.get(w.id) ?? [],
+      description: w.description, productType: w.productType, tags: w.tags, options: w.options,
+      variants: w.variants as NonNullable<CatalogWatch["variants"]>, specsRaw: w.specsRaw,
+    });
+    watchesFor.set(w.brandId, list);
+  }
+  return rows.map(({ brand, crawl: c }) => ({
+    brandId: brand.brandCode!,
+    brandName: brand.name,
     website: c.website,
     crawledAt: c.crawledAt.toISOString(),
     status: c.status as BrandCatalog["status"],
@@ -131,16 +146,11 @@ export async function readBrandCatalog(db: Db, code: string): Promise<BrandCatal
       : null,
     attribution: c.attribution,
     imageRights: c.imageRights,
-    watches: watches.map((w) => {
-      const imgs = imagesFor.get(w.id) ?? [];
-      return {
-        id: w.id, name: w.name, url: w.url, image: imgs[0] ?? null, images: imgs, priceMinor: w.priceMinor,
-        currency: w.currency, available: w.available, specs: w.specs, hash: w.hash ?? undefined,
-        availability: (w.availability as Availability | null) ?? null, soldOut: w.soldOut,
-        availabilityCheckedAt: w.availabilityCheckedAt?.toISOString() ?? null, availabilityHistory: historyFor.get(w.id) ?? [],
-        description: w.description, productType: w.productType, tags: w.tags, options: w.options,
-        variants: w.variants as NonNullable<CatalogWatch["variants"]>, specsRaw: w.specsRaw,
-      };
-    }),
-  };
+    watches: watchesFor.get(brand.id) ?? [],
+  }));
+}
+
+/** One brand's crawl, watches and images, in the crawler's file format. */
+export async function readBrandCatalog(db: Db, code: string): Promise<BrandCatalog | null> {
+  return (await readSiteCatalogs(db, code))[0] ?? null;
 }

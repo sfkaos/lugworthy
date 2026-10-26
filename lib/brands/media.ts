@@ -104,6 +104,12 @@ export async function loadBrandCatalog(brandId: string, dir = DIR): Promise<Bran
   return readJson<BrandCatalog>(path.join(dir, `${brandId}.json`));
 }
 
+export async function loadAllBrandCatalogs(dir = DIR): Promise<BrandCatalog[]> {
+  const index = await loadCatalogIndex(dir);
+  const files = await Promise.all(index.brands.map((r) => loadBrandCatalog(r.brandId, dir)));
+  return files.filter((f): f is BrandCatalog => f !== null);
+}
+
 /**
  * Whether a brand's collected images may be shown to this audience.
  * Internal (audience=all) always sees them. Public visibility follows the image policy:

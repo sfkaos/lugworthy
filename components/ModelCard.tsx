@@ -3,7 +3,7 @@ import { useTranslations } from "next-intl";
 import { brandInfo, isAvailable, minPriceUsd, modelId } from "@/lib/model-utils";
 import { metres, mm, money } from "@/lib/format";
 import type { Model } from "@/lib/types";
-import { CaseOutline } from "./CaseOutline";
+import { WatchPhoto } from "./WatchPhoto";
 import { CompareButton } from "./CompareButton";
 
 export function ModelCard({ model, showBrand = true }: { model: Model; showBrand?: boolean }) {
@@ -14,8 +14,8 @@ export function ModelCard({ model, showBrand = true }: { model: Model; showBrand
   const available = isAvailable(model);
   return (
     <article className="card group relative flex w-full flex-col overflow-hidden">
-      <div className="relative flex aspect-[4/3] items-center justify-center bg-surface-2 text-muted">
-        <CaseOutline diameter={s.caseDiameterMm} lugToLug={s.lugToLugMm} lugWidth={s.lugWidthMm} className="h-4/5 w-4/5" />
+      <div className={`relative flex aspect-[4/3] items-center justify-center text-muted ${model.images?.length ? "bg-white p-2" : "bg-surface-2"}`}>
+        <WatchPhoto model={model} />
         <div className="absolute left-2 top-2 flex flex-wrap gap-1">
           {model.status === "preorder" && <span className="rounded bg-surface px-1.5 py-0.5 text-xs font-semibold">{t("enum.status.preorder")}</span>}
           {model.limitedEdition && <span className="rounded bg-surface px-1.5 py-0.5 text-xs font-semibold">{t("model.limited")}</span>}

@@ -154,4 +154,16 @@ export interface Model {
   variants: Variant[];
   importedAt: string;
   reviewed: boolean; // false until an editor approves the imported record
+  /** "site" when the model comes from the crawl of the brand's own website. */
+  origin?: "seed" | "site";
+  /** Photos from the brand's site. Empty when not crawled or while images are hidden. */
+  images?: { url: string; width: number | null; height: number | null }[];
+  imageCredit?: string | null;
+  soldOut?: boolean | null;
+  availabilityCheckedAt?: string | null;
+  availabilityHistory?: { at: string; availability: string }[];
+  description?: string | null;
+  options?: { name: string; values: string[] }[];
+  /** Every spec line on the brand's page, as written. */
+  specsRaw?: Record<string, string>;
 }

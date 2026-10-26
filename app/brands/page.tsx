@@ -97,7 +97,7 @@ export default async function BrandsPage({ searchParams }: { searchParams: SP })
       <p className="tabular mt-6 text-sm text-muted" aria-live="polite">{t("brands.count", { count: list.length })}</p>
       {shown.length ? (
         <ul className="mt-3 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {shown.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={counts.get(b.slug) ?? 0} /></li>)}
+          {shown.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={counts.get(b.slug) ?? 0} logo={catalog.logoFor(b)} /></li>)}
         </ul>
       ) : (
         <p className="card mt-3 p-6 text-muted">{t("brands.empty")}</p>

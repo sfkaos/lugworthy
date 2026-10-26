@@ -1,0 +1,711 @@
+{
+ "brandId": "BRD-1027",
+ "brandName": "Jurmo",
+ "website": "https://jurmowatches.com",
+ "crawledAt": "2026-10-26T01:05:34.041Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://jurmowatches.com/cdn/shop/files/JURMO_FILES_1.jpg?v=1761831008",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://jurmowatches.com/"
+ },
+ "attribution": "Images © Jurmo, from jurmowatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1027/sisu-d-blue",
+   "name": "SISU D",
+   "url": "https://jurmowatches.com/products/sisu-d-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/BCAE7A70-DABF-4D2E-B429-0A761A4ED6E3.jpg?v=1761844802",
+    "width": 1024,
+    "height": 1024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/BCAE7A70-DABF-4D2E-B429-0A761A4ED6E3.jpg?v=1761844802",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/B72A55FB-F6FB-4C21-AB2C-7CF34E9A83E2.jpg?v=1761844802",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "priceMinor": 474200,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Limited to 30 pieces Delivered with 2 rubber straps Technical specifications MOVEMENT Skeletonized ETA 6497 with blue coating Hand-wound 18 000 bpm/2.5hz 17 jewels 50-55h power reserve CASE Brushed stainless steel Diameter 42 mm Height 11 mm Lug width 20 mm 14 - facet stainless steel bezel with brushed finishing Engraved caseback with sapphire crystal Water resistance 100 m DIAL White Skeletonized Applied hour markers with Super- LumiNova Handmade brushed steel hands with Super- LumiNova PRICE 41 890 NOK (VAT 25%) 4 144 € (VAT 25,5%)",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 11,
+    "waterResistanceM": 100,
+    "caliber": "ETA 6497",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "in_stock"
+    }
+   ],
+   "hash": "77d7b7a0055e8579"
+  },
+  {
+   "id": "BRD-1027/ss",
+   "name": "1912",
+   "url": "https://jurmowatches.com/products/ss",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/IMG_6633.jpg?v=1740501490",
+    "width": 2736,
+    "height": 3568
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/IMG_6633.jpg?v=1740501490",
+     "width": 2736,
+     "height": 3568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/IMG_6632.jpg?v=1740501626",
+     "width": 2736,
+     "height": 3568
+    }
+   ],
+   "priceMinor": 309000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A timepiece made with love for the Bourse Club members only! Will be delivered with 3 straps: Black, Brown, White * Case: 37mm, stainless steel. * Movement: ETA 2892 with a pointer date and moonphase module * 42h power reserve. * Diameters: 37mm * Height: 10.7mm * Lug width: 18mm * Caseback engraved, transparent sapphire glass * Dial: Two parts, salmon color, printed in black * Hands: 100% hand made, from steel. Flame blued. * Crown: Classic, engraved with Jurmo logo",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": 10.7,
+    "waterResistanceM": null,
+    "caliber": "ETA 2892",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Will be delivered with 3 straps": "Black, Brown, White"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "sold_out"
+    }
+   ],
+   "hash": "95281c1d8860133c"
+  },
+  {
+   "id": "BRD-1027/karu-season-1",
+   "name": "Karu - Seasons Winter",
+   "url": "https://jurmowatches.com/products/karu-season-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu5.jpg?v=1720359219",
+    "width": 945,
+    "height": 945
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu5.jpg?v=1720359219",
+     "width": 945,
+     "height": 945
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu6.jpg?v=1720359187",
+     "width": 885,
+     "height": 885
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/Karu_specs_3.jpg?v=1720359134",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu4_1.jpg?v=1720359149",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "priceMinor": null,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Karu - true rarity in Finnish watchmaking Delivered with a metal bracelet or handmade leather strap Technical specifications MOVEMENT ETA 2892 Automatic, self-winding 28 800 bpm 21 jewels 42h power reserve CASE Brushed and polished stainless steel Diameter 32 mm Height 8 mm Lug width 16 mm Engraved caseback with sapphire crystal Water-resistance 50 m DIAL Mother of pearl with applied polished hour markers Polished steel hands , hour and minute hands with Super- LumiNova PRICE",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Steel bracelet",
+      "Leather"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Steel bracelet",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Steel bracelet"
+     ]
+    },
+    {
+     "title": "Leather",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Leather"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 32,
+    "lugWidthMm": 16,
+    "lugToLugMm": null,
+    "thicknessMm": 8,
+    "waterResistanceM": 50,
+    "caliber": "ETA 2892",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Karu": "true rarity in Finnish watchmaking"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "sold_out"
+    }
+   ],
+   "hash": "b9fd4f61e2e19bb3"
+  },
+  {
+   "id": "BRD-1027/karu-seasons-summer",
+   "name": "Karu - Seasons Summer",
+   "url": "https://jurmowatches.com/products/karu-seasons-summer",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/Karu_Seasons_Summer.jpg?v=1720360996",
+    "width": 1000,
+    "height": 1000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/Karu_Seasons_Summer.jpg?v=1720360996",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu4_1_ef099673-4f8e-4a49-902e-2ed38d257eef.jpg?v=1720358657",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "priceMinor": null,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Karu - true rarity in Finnish watchmaking Delivered with a metal bracelet or handmade leather strap Technical specifications MOVEMENT ETA 2892 Automatic, self-winding 28 800 bpm 21 jewels 42h power reserve CASE Brushed and polished stainless steel Diameter 32 mm Height 8 mm Lug width 16 mm Engraved caseback with sapphire crystal Water-resistance 50 m DIAL Blue Sunburst with diamond hour markers Polished steel hands , hour and minute hands with Super- LumiNova PRICE",
+   "productType": "Watches",
+   "tags": [
+    "KARU",
+    "WATCHES"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Steel bracelet",
+      "Leather"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Steel bracelet",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Steel bracelet"
+     ]
+    },
+    {
+     "title": "Leather",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Leather"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 32,
+    "lugWidthMm": 16,
+    "lugToLugMm": null,
+    "thicknessMm": 8,
+    "waterResistanceM": 50,
+    "caliber": "ETA 2892",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "sold_out"
+    }
+   ],
+   "hash": "8be7897c90f3be00"
+  },
+  {
+   "id": "BRD-1027/r0-siro",
+   "name": "R0 Siro - Blue",
+   "url": "https://jurmowatches.com/products/r0-siro",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_siro_1.jpg?v=1720016771",
+    "width": 1024,
+    "height": 1024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_siro_1.jpg?v=1720016771",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_siro_lahi.jpg?v=1720020281",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "priceMinor": null,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Slimmer version of our original R0 with hand-wound movement Delivered with metal bracelet or 2 straps Technical specifications MOVEMENT Top-grade ETA 7750 chronograph with a flyback module Manual-wound 29 jewels 48h power reserve CASE Brushed and polished stainless steel Diameter 38 mm Height 11 mm Lug width 18 mm Engraved caseback with sapphire crystal Water resistance 50 m DIAL Blue Sunburst Hour markers printed with Super- LumiNova W hite sub-dials Polished hour and minute steel hands, black sub - dial hands, red chronograph hand PRICE",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Steel bracelet",
+      "Leather & Canvas"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Steel bracelet",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Steel bracelet"
+     ]
+    },
+    {
+     "title": "Leather & Canvas",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Leather & Canvas"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": 11,
+    "waterResistanceM": 50,
+    "caliber": "Valjoux 7750",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "sold_out"
+    }
+   ],
+   "hash": "5df0df20cd5653cd"
+  },
+  {
+   "id": "BRD-1027/r0-copper",
+   "name": "R0 - Copper",
+   "url": "https://jurmowatches.com/products/r0-copper",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_copper.jpg?v=1720017040",
+    "width": 1024,
+    "height": 1024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_copper.jpg?v=1720017040",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_copper_lahi.jpg?v=1720018347",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_copper_lahi_2.jpg?v=1720018347",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_copper_lahi_3.jpg?v=1720018347",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/R0_copper_lahi_1.jpg?v=1720018347",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "priceMinor": null,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "R0 Copper - Our interpretation of a vintage time measuring device, combining the spirit of driving classic racing vehicles with timing performance of its Zero-Start function Delivered with metal bracelet or 2 straps Technical specifications MOVEMENT Top-grade ETA 7750 chronograph with a flyback module Automatic, self-winding 29 jewels 48h power reserve Rotor with ceramic bearing CASE Brushed and polished stainless steel Diameter 38 mm Height 14 mm Lug width 18 mm Water resistance 50 m Engraved caseback with sapphire crystal DIAL Copper Sunburst Hour markers printed with Super - LumiNova Lowered black sub-dials with circular pattern Polished hour and minute steel hands, red sub- dial and chronograph hand s PRICE",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Steel bracelet",
+      "Leather & Canvas"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Steel bracelet",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Steel bracelet"
+     ]
+    },
+    {
+     "title": "Leather & Canvas",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Leather & Canvas"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": 14,
+    "waterResistanceM": 50,
+    "caliber": "Valjoux 7750",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "sold_out"
+    }
+   ],
+   "hash": "2d43f8185c754b7c"
+  },
+  {
+   "id": "BRD-1027/sea-blue-karu",
+   "name": "Karu - Sea Blue",
+   "url": "https://jurmowatches.com/products/sea-blue-karu",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu10.jpg?v=1661511916",
+    "width": 1024,
+    "height": 1024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu10.jpg?v=1661511916",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu11.jpg?v=1661511935",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu12.jpg?v=1661511969",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/Karu_sivu.jpg?v=1720358174",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/Karu_specs_2_1.jpg?v=1720358175",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu4_1_47e977ff-3cc6-451a-a0ef-2829d0ab1eeb.jpg?v=1720358218",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "priceMinor": null,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Karu - true rarity in Finnish watchmaking Delivered with a metal bracelet or handmade leather strap Technical specifications MOVEMENT ETA 2892 Automatic, self-winding 28 800 bpm 21 jewels 42h power reserve CASE Brushed and polished stainless steel Diameter 32 mm Height 8 mm Lug width 16 mm Engraved caseback with sapphire crystal Water-resistance 50 m DIAL Matte blue with applied polished hour markers Polished steel hands , hour and minute hands with Super- LumiNova PRICE",
+   "productType": "Watches",
+   "tags": [
+    "KARU",
+    "WATCHES"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Leather",
+      "Steel bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Leather",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Leather"
+     ]
+    },
+    {
+     "title": "Steel bracelet",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Steel bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 32,
+    "lugWidthMm": 16,
+    "lugToLugMm": null,
+    "thicknessMm": 8,
+    "waterResistanceM": 50,
+    "caliber": "ETA 2892",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "sold_out"
+    }
+   ],
+   "hash": "ca95d8bc938c4440"
+  },
+  {
+   "id": "BRD-1027/karu-gray-strap-1",
+   "name": "Karu - Stone Red",
+   "url": "https://jurmowatches.com/products/karu-gray-strap-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/Karu_collection_1.jpg?v=1720358592",
+    "width": 1024,
+    "height": 1024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/Karu_collection_1.jpg?v=1720358592",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu1.jpg?v=1720358657",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu2.jpg?v=1720358657",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu3.jpg?v=1720358657",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/files/Karu_specs_1.jpg?v=1720358637",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0345/1417/4092/products/Karu4_1_ef099673-4f8e-4a49-902e-2ed38d257eef.jpg?v=1720358657",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "priceMinor": null,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Karu - true rarity in Finnish watchmaking Delivered with a metal bracelet or handmade leather strap Technical specifications MOVEMENT ETA 2892 Automatic, self-winding 28 800 bpm 21 jewels 42h power reserve CASE Brushed and polished stainless steel Diameter 32 mm Height 8 mm Lug width 16 mm Engraved caseback with sapphire crystal Water-resistance 50 m DIAL Matte red/orange with applied polished hour markers Polished steel hands , hour and minute hands with Super- LumiNova PRICE",
+   "productType": "Watches",
+   "tags": [
+    "KARU",
+    "WATCHES"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Steel bracelet",
+      "Leather"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Steel bracelet",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Steel bracelet"
+     ]
+    },
+    {
+     "title": "Leather",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Leather"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 32,
+    "lugWidthMm": 16,
+    "lugToLugMm": null,
+    "thicknessMm": 8,
+    "waterResistanceM": 50,
+    "caliber": "ETA 2892",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-10-26T01:05:34.041Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-10-26T01:02:29.316Z",
+     "availability": "sold_out"
+    }
+   ],
+   "hash": "8ed4bccbef5c6e4f"
+  }
+ ]
+}

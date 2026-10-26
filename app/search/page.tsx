@@ -49,7 +49,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
         <section className="mt-6">
           <h2 className="mb-3 text-xl font-semibold">{t("search.brands")}</h2>
           <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            {brands.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={catalog.modelsForBrand(b.slug).length} /></li>)}
+            {brands.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={catalog.modelsForBrand(b.slug).length} logo={catalog.logoFor(b)} /></li>)}
           </ul>
         </section>
       )}

@@ -10,7 +10,9 @@ import { timingSafeEqual } from "node:crypto";
 import { countryName } from "@/lib/countries";
 import { SITE_URL } from "@/lib/site";
 import type { Catalog } from "@/lib/data";
-import type { Brand, BrandClass, BrandFacts, PriceBand } from "@/lib/types";
+import { browse, parseFilters } from "@/lib/filters";
+import { minPriceUsd } from "@/lib/model-utils";
+import type { Brand, BrandClass, BrandFacts, Model, PriceBand } from "@/lib/types";
 import { imagesVisible, type BrandCatalog, type CatalogIndexRow, type CatalogWatch } from "./media";
 
 export type Audience = "lugworthy" | "all";
@@ -226,4 +228,46 @@ export function authError(result: "unauthorized" | "not_configured") {
 export function apiHeaders(): HeadersInit {
   // Token-gated, so never cached by shared caches.
   return { "cache-control": "private, max-age=60", vary: "authorization" };
+}
+
+/** A watch as listed on Lugworthy (crawled from the brand's site, or an older sample import). */
+export function apiWatchFromModel(m: Model, brand: Brand, showImages: boolean) {
+  return {
+    id: `${brand.brandId}/${m.slug}`,
+    brandId: brand.brandId,
+    brandName: brand.name,
+    name: m.name,
+    url: `${SITE_URL}/brands/${brand.slug}/${m.slug}`,
+    sourceUrl: m.sourceUrl,
+    status: m.status,
+    soldOut: m.soldOut ?? !m.variants.some((v) => v.available),
+    availabilityCheckedAt: m.availabilityCheckedAt ?? null,
+    priceFromUsd: Math.round(minPriceUsd(m) / 100),
+    styles: m.styles,
+    specs: m.specs,
+    image: showImages ? m.images?.[0] ?? null : null,
+    imageCount: showImages ? m.images?.length ?? 0 : 0,
+  };
+}
+
+/** GET /watches: browse every published watch with the site's own filters (lib/filters.ts). */
+export function queryWatches(catalog: Catalog, sp: URLSearchParams) {
+  const params = Object.fromEntries(sp.entries());
+  const page = Math.max(1, Number(params.page) || 1);
+  const limit = Math.min(MAX_LIMIT, Math.max(1, Number(params.limit) || 50));
+  let models = catalog.publishedModels();
+  if (params.brand) {
+    const b = /^brd-\d+$/i.test(params.brand) ? catalog.brandById(params.brand) : catalog.getBrand(params.brand);
+    models = b ? models.filter((m) => m.brandSlug === b.slug) : [];
+  }
+  if (params.soldOut === "true" || params.soldOut === "false") {
+    const want = params.soldOut === "true";
+    models = models.filter((m) => (m.soldOut ?? !m.variants.some((v) => v.available)) === want);
+  }
+  const result = browse(models, parseFilters(params));
+  const items = result.items.slice((page - 1) * limit, page * limit).map((m) => {
+    const b = catalog.brandOf(m);
+    return apiWatchFromModel(m, b, imagesVisible(b, "lugworthy", "watch"));
+  });
+  return { data: items, meta: { total: result.total, page, limit, pages: Math.max(1, Math.ceil(result.total / limit)) } };
 }
