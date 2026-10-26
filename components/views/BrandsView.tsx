@@ -34,7 +34,8 @@ export async function BrandsView({ search: sp }: { search: BrandsSearch }) {
         ))}
       </nav>
 
-      <Form className="mt-4 flex flex-wrap items-end gap-3" action="/brands">
+      {/* Keyed by the filters so Back/Forward resets the controls to the results shown. */}
+      <Form key={JSON.stringify([sp.letter, sp.country, sp.band, sp.tag, sp.specs])} className="mt-4 flex flex-wrap items-end gap-3" action="/brands">
         {sp.letter && <input type="hidden" name="letter" value={sp.letter} />}
         <label className="flex flex-col gap-1 text-sm">
           <span className="font-semibold">{t("brands.country")}</span>

@@ -63,7 +63,7 @@ export async function WatchesView({ search }: { search: WatchesSearch }) {
           <h1 className="text-3xl font-semibold">{t("browse.title")}</h1>
           <p className="tabular mt-1 text-muted" aria-live="polite">{t("browse.count", { count: r.total })}</p>
         </div>
-        <Form action="/watches" role="search" className="flex w-full max-w-md gap-2">
+        <Form key={toSearchParams({ ...f, page: undefined }).toString()} action="/watches" role="search" className="flex w-full max-w-md gap-2">
           {Object.entries(Object.fromEntries(toSearchParams({ ...f, q: undefined, page: undefined }))).map(([k, v]) => (
             <input key={k} type="hidden" name={k} value={v} />
           ))}
