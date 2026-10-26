@@ -85,7 +85,12 @@ describe("catalog import", () => {
       id: `BRD-0348/${slug}`, name: slug, url: `https://lorierwatches.com/products/${slug}`,
       image: { url: `https://cdn/${slug}-0.jpg`, width: 800, height: 800 },
       images: Array.from({ length: n }, (_, i) => ({ url: `https://cdn/${slug}-${i}.jpg`, width: 800, height: 800 })),
-      priceMinor: 59900, currency: "USD", available: true, specs: { caseDiameterMm: 39 }, hash: "h",
+      priceMinor: 59900, currency: "USD", available: slug !== "hydra", specs: { caseDiameterMm: 39 }, hash: "h",
+      availability: slug === "hydra" ? "sold_out" : "in_stock", soldOut: slug === "hydra", availabilityCheckedAt: crawledAt,
+      availabilityHistory: slug === "hydra" ? [{ at: "2026-10-01T00:00:00.000Z", availability: "in_stock" }, { at: crawledAt, availability: "sold_out" }] : [],
+      description: "A dive watch.", productType: "Watch", tags: ["dive"], options: [{ name: "Strap", values: ["Steel", "Rubber"] }],
+      variants: [{ title: "Steel", sku: "F-1", priceMinor: 59900, compareAtMinor: null, available: true, options: ["Steel"] }],
+      specsRaw: { "Water resistance": "200m" },
     });
     file("BRD-0348", {
       brandName: "Lorier", website: "https://lorierwatches.com", attribution: "Images © Lorier, from lorierwatches.com",
@@ -111,5 +116,30 @@ describe("catalog import", () => {
     expect(apiWatches(lorier, detail, "all").data[0].images).toHaveLength(3);
     expect(apiWatches(lorier, detail, "lugworthy").data[0].images).toHaveLength(0);
     expect(queryBrands(c, parseBrandQuery(new URLSearchParams("hasImages=true")), "all").total).toBe(1);
+
+    // Detail fields and sold-out tracking.
+    const falcon = detail!.watches[0], hydra = detail!.watches[1];
+    expect(falcon.specsRaw).toEqual({ "Water resistance": "200m" });
+    expect(falcon.options?.[0].values).toEqual(["Steel", "Rubber"]);
+    expect(falcon.variants?.[0].sku).toBe("F-1");
+    expect(hydra.soldOut).toBe(true);
+    expect(hydra.availabilityHistory?.map((e) => e.availability)).toEqual(["in_stock", "sold_out"]);
+    expect(c.mediaFor("BRD-0348")?.soldOutCount).toBe(1);
+    expect(apiWatches(lorier, detail, "all", true).data.map((w) => w.name)).toEqual(["hydra"]);
+  }, 60_000);
+
+  it("keeps availability history when watches are replaced", async () => {
+    const dir = mkdtempSync(join(tmpdir(), "catalog-"));
+    const crawledAt = "2026-11-02T12:00:00.000Z";
+    writeFileSync(join(dir, "index.json"), JSON.stringify({ generatedAt: crawledAt, brands: [{ brandId: "BRD-0348", status: "ok", brandImageUrl: null, watchCount: 1, crawledAt }] }));
+    writeFileSync(join(dir, "BRD-0348.json"), JSON.stringify({
+      brandId: "BRD-0348", brandName: "Lorier", website: "https://lorierwatches.com", crawledAt, status: "ok", platform: "shopify",
+      brandImage: null, attribution: null, imageRights: "unknown",
+      watches: [{ id: "BRD-0348/hydra", name: "hydra", url: "https://x/hydra", image: null, images: [], priceMinor: null, currency: null, available: true, specs: {},
+        availability: "in_stock", soldOut: false, availabilityCheckedAt: crawledAt, availabilityHistory: [{ at: crawledAt, availability: "in_stock" }] }],
+    }));
+    await importCatalogDir(db, dir);
+    const detail = await readBrandCatalog(db, "BRD-0348");
+    expect(detail!.watches[0].availabilityHistory?.map((e) => e.availability)).toEqual(["in_stock", "sold_out", "in_stock"]);
   }, 60_000);
 });

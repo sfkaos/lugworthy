@@ -8,8 +8,10 @@
 //     platform: "shopify" | "woocommerce" | "html" | null,
 //     brandImage: { url, kind: "logo" | "og_image" | "hero" | "icon", sourcePage, width, height } | null,
 //     attribution: "Images © <Brand>, from <domain>", imageRights: "unknown",
-//     watches: [{ id: "BRD-0001/<slug>", name, url, image, images: [{ url, width, height }],
-//                 priceMinor, currency, available, specs: { caseDiameterMm, ... }, hash }]
+//     watches: [{ id: "BRD-0001/<slug>", name, url, image, images: [{ url, storedUrl, width, height }],
+//                 priceMinor, currency, available, specs: { caseDiameterMm, ... }, hash,
+//                 availability, soldOut, availabilityCheckedAt, availabilityHistory: [{ at, availability }],
+//                 description, productType, tags, options, variants, specsRaw }]
 //   }
 //
 // Images are hotlinked from the brand's site; only the URL and attribution are stored.
@@ -22,9 +24,12 @@ import type { Brand } from "@/lib/types";
 
 export interface CatalogImage {
   url: string;
+  storedUrl?: string | null; // our copy in file storage; null until mirrored
   width: number | null;
   height: number | null;
 }
+
+export type Availability = "in_stock" | "sold_out" | "preorder" | "unknown";
 
 export interface CatalogWatch {
   id: string;
@@ -37,6 +42,16 @@ export interface CatalogWatch {
   available: boolean | null;
   specs: Record<string, string | number | null>;
   hash?: string;
+  availability?: Availability | null;
+  soldOut?: boolean | null;
+  availabilityCheckedAt?: string | null;
+  availabilityHistory?: { at: string; availability: Availability }[];
+  description?: string | null;
+  productType?: string | null;
+  tags?: string[];
+  options?: { name: string; values: string[] }[];
+  variants?: { title: string; sku: string | null; priceMinor: number | null; compareAtMinor: number | null; available: boolean | null; options: string[] }[];
+  specsRaw?: Record<string, string>;
 }
 
 export interface BrandCatalog {
@@ -44,7 +59,7 @@ export interface BrandCatalog {
   brandName: string;
   website: string | null;
   crawledAt: string;
-  status: "ok" | "no_website" | "robots_disallowed" | "unreachable" | "no_catalog_found";
+  status: "ok" | "no_website" | "robots_disallowed" | "unreachable" | "no_catalog_found" | "blocked_by_site";
   platform: string | null;
   brandImage: (CatalogImage & { kind: string; sourcePage: string | null }) | null;
   attribution: string | null;
@@ -56,7 +71,10 @@ export interface CatalogIndexRow {
   brandId: string;
   status: BrandCatalog["status"];
   brandImageUrl: string | null;
+  brandImageStoredUrl?: string | null;
   watchCount: number;
+  soldOutCount?: number;
+  availabilityCheckedAt?: string | null;
   crawledAt: string;
 }
 

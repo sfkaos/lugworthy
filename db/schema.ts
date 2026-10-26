@@ -110,7 +110,7 @@ export const brandCrawls = pgTable("brand_crawls", {
   brandId: uuid("brand_id").primaryKey().references(() => brands.id, { onDelete: "cascade" }),
   website: text("website"),
   crawledAt: timestamp("crawled_at", { withTimezone: true }).notNull(),
-  status: text("status").notNull(), // ok | no_website | robots_disallowed | unreachable | no_catalog_found
+  status: text("status").notNull(), // ok | no_website | robots_disallowed | unreachable | no_catalog_found | blocked_by_site
   platform: text("platform"), // shopify | woocommerce | html
   brandImageUrl: text("brand_image_url"),
   brandImageStoredUrl: text("brand_image_stored_url"), // copy in Vercel Blob, when mirrored
@@ -136,7 +136,28 @@ export const siteWatches = pgTable("site_watches", {
   hash: text("hash"),
   position: integer("position").notNull().default(0),
   crawledAt: timestamp("crawled_at", { withTimezone: true }).notNull(),
+  // Sold-out tracking (weekly re-check) and everything else on the watch's page.
+  availability: text("availability"), // in_stock | sold_out | preorder | unknown
+  soldOut: boolean("sold_out"),
+  availabilityCheckedAt: timestamp("availability_checked_at", { withTimezone: true }),
+  description: text("description"),
+  productType: text("product_type"),
+  tags: jsonb("tags").$type<string[]>().notNull().default([]),
+  options: jsonb("options").$type<{ name: string; values: string[] }[]>().notNull().default([]),
+  variants: jsonb("variants").$type<Record<string, unknown>[]>().notNull().default([]),
+  specsRaw: jsonb("specs_raw").$type<Record<string, string>>().notNull().default({}),
 }, (t) => [index("site_watches_brand").on(t.brandId)]);
+
+/**
+ * Availability changes per watch, oldest first. Not tied to site_watches by a foreign key, so the
+ * history survives each re-import that replaces a brand's watches.
+ */
+export const siteWatchAvailabilityEvents = pgTable("site_watch_availability_events", {
+  watchId: text("watch_id").notNull(),
+  brandId: uuid("brand_id").notNull().references(() => brands.id, { onDelete: "cascade" }),
+  at: timestamp("at", { withTimezone: true }).notNull(),
+  availability: text("availability").notNull(),
+}, (t) => [primaryKey({ columns: [t.watchId, t.at] }), index("site_watch_availability_brand").on(t.brandId)]);
 
 /** Images for a watch, in the brand site's order. Position 0 is the main image. */
 export const siteWatchImages = pgTable("site_watch_images", {

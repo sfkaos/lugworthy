@@ -2,7 +2,7 @@
 
 import { asc, desc, eq, inArray, isNotNull, sql } from "drizzle-orm";
 import * as s from "@/db/schema";
-import type { BrandCatalog, CatalogIndex } from "@/lib/brands/media";
+import type { Availability, BrandCatalog, CatalogImage, CatalogIndex, CatalogWatch } from "@/lib/brands/media";
 import type { Brand, BrandFacts } from "@/lib/types";
 import type { Db } from "./client";
 
@@ -60,6 +60,8 @@ export async function readCatalog(db: Db): Promise<DbSnapshot> {
       stored: s.brandCrawls.brandImageStoredUrl,
       crawledAt: s.brandCrawls.crawledAt,
       watchCount: sql<number>`(select count(*)::int from ${s.siteWatches} where ${s.siteWatches.brandId} = ${s.brandCrawls.brandId})`,
+      soldOutCount: sql<number>`(select count(*)::int from ${s.siteWatches} where ${s.siteWatches.brandId} = ${s.brandCrawls.brandId} and ${s.siteWatches.soldOut})`,
+      checkedAt: sql<string | null>`(select max(${s.siteWatches.availabilityCheckedAt}) from ${s.siteWatches} where ${s.siteWatches.brandId} = ${s.brandCrawls.brandId})`,
     })
     .from(s.brandCrawls)
     .innerJoin(s.brands, eq(s.brands.id, s.brandCrawls.brandId));
@@ -77,8 +79,11 @@ export async function readCatalog(db: Db): Promise<DbSnapshot> {
       brands: crawls.map((c) => ({
         brandId: c.code!,
         status: c.status as CatalogIndex["brands"][number]["status"],
-        brandImageUrl: c.stored ?? c.url,
+        brandImageUrl: c.url,
+        brandImageStoredUrl: c.stored,
         watchCount: Number(c.watchCount),
+        soldOutCount: Number(c.soldOutCount),
+        availabilityCheckedAt: c.checkedAt ? new Date(c.checkedAt).toISOString() : null,
         crawledAt: c.crawledAt.toISOString(),
       })),
     },
@@ -98,10 +103,19 @@ export async function readBrandCatalog(db: Db, code: string): Promise<BrandCatal
   const images = watches.length
     ? await db.select().from(s.siteWatchImages).where(inArray(s.siteWatchImages.watchId, watches.map((w) => w.id))).orderBy(asc(s.siteWatchImages.position))
     : [];
-  const imagesFor = new Map<string, { url: string; width: number | null; height: number | null }[]>();
+  const events = watches.length
+    ? await db.select().from(s.siteWatchAvailabilityEvents).where(inArray(s.siteWatchAvailabilityEvents.watchId, watches.map((w) => w.id))).orderBy(asc(s.siteWatchAvailabilityEvents.at))
+    : [];
+  const historyFor = new Map<string, { at: string; availability: Availability }[]>();
+  for (const e of events) {
+    const list = historyFor.get(e.watchId) ?? [];
+    list.push({ at: e.at.toISOString(), availability: e.availability as Availability });
+    historyFor.set(e.watchId, list);
+  }
+  const imagesFor = new Map<string, CatalogImage[]>();
   for (const im of images) {
     const list = imagesFor.get(im.watchId) ?? [];
-    list.push({ url: im.storedUrl ?? im.url, width: im.width, height: im.height });
+    list.push({ url: im.url, storedUrl: im.storedUrl, width: im.width, height: im.height });
     imagesFor.set(im.watchId, list);
   }
   const c = row.crawl;
@@ -113,7 +127,7 @@ export async function readBrandCatalog(db: Db, code: string): Promise<BrandCatal
     status: c.status as BrandCatalog["status"],
     platform: c.platform,
     brandImage: c.brandImageUrl
-      ? { url: c.brandImageStoredUrl ?? c.brandImageUrl, kind: c.brandImageKind ?? "logo", sourcePage: c.brandImageSourcePage, width: c.brandImageWidth, height: c.brandImageHeight }
+      ? { url: c.brandImageUrl, storedUrl: c.brandImageStoredUrl, kind: c.brandImageKind ?? "logo", sourcePage: c.brandImageSourcePage, width: c.brandImageWidth, height: c.brandImageHeight }
       : null,
     attribution: c.attribution,
     imageRights: c.imageRights,
@@ -122,6 +136,10 @@ export async function readBrandCatalog(db: Db, code: string): Promise<BrandCatal
       return {
         id: w.id, name: w.name, url: w.url, image: imgs[0] ?? null, images: imgs, priceMinor: w.priceMinor,
         currency: w.currency, available: w.available, specs: w.specs, hash: w.hash ?? undefined,
+        availability: (w.availability as Availability | null) ?? null, soldOut: w.soldOut,
+        availabilityCheckedAt: w.availabilityCheckedAt?.toISOString() ?? null, availabilityHistory: historyFor.get(w.id) ?? [],
+        description: w.description, productType: w.productType, tags: w.tags, options: w.options,
+        variants: w.variants as NonNullable<CatalogWatch["variants"]>, specsRaw: w.specsRaw,
       };
     }),
   };

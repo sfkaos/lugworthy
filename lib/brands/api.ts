@@ -35,9 +35,11 @@ export interface ApiBrand {
   modelCount: number;
   url: string | null; // Lugworthy page, when published
   /** Logo or hero image taken from the brand's own website. Null until crawled, or while brand images are hidden (see imagesVisible). */
-  image: { url: string; kind?: string; sourcePage?: string | null; width?: number | null; height?: number | null } | null;
+  image: { url: string; storedUrl?: string | null; kind?: string; sourcePage?: string | null; width?: number | null; height?: number | null } | null;
   /** Watches found on the brand's own website by the catalog crawler. */
   watchCount: number;
+  soldOutCount: number;
+  availabilityCheckedAt: string | null;
   catalogCrawledAt: string | null;
   imagesShown: boolean;
 }
@@ -53,7 +55,7 @@ const dollars = (minor: number | null | undefined) => (minor == null ? null : Ma
 
 export function toApiBrand(b: Brand, modelCount: number, audience: Audience, media: CatalogIndexRow | null = null, detail: BrandCatalog | null = null): ApiBrand | ApiBrandInternal {
   const show = imagesVisible(b, audience, "brand");
-  const image = detail?.brandImage ?? (media?.brandImageUrl ? { url: media.brandImageUrl } : null);
+  const image = detail?.brandImage ?? (media?.brandImageUrl ? { url: media.brandImageUrl, storedUrl: media.brandImageStoredUrl ?? null } : null);
   const base: ApiBrand = {
     id: b.brandId!,
     slug: b.slug,
@@ -75,6 +77,8 @@ export function toApiBrand(b: Brand, modelCount: number, audience: Audience, med
     url: b.status === "published" ? `${SITE_URL}/brands/${b.slug}` : null,
     image: show ? image : null,
     watchCount: detail?.watches.length ?? media?.watchCount ?? 0,
+    soldOutCount: detail ? detail.watches.filter((w) => w.soldOut).length : media?.soldOutCount ?? 0,
+    availabilityCheckedAt: media?.availabilityCheckedAt ?? null,
     catalogCrawledAt: detail?.crawledAt ?? media?.crawledAt ?? null,
     imagesShown: show && !!image,
   };
@@ -178,9 +182,11 @@ export function findBrand(catalog: Catalog, idOrSlug: string, audience: Audience
 }
 
 /** Watches from the brand's own site. Image URLs are dropped while images are hidden for this audience. */
-export function apiWatches(b: Brand, detail: BrandCatalog | null, audience: Audience) {
+export function apiWatches(b: Brand, detail: BrandCatalog | null, audience: Audience, soldOut?: boolean) {
   const show = imagesVisible(b, audience, "watch");
-  const watches: CatalogWatch[] = (detail?.watches ?? []).map((w) => (show ? w : { ...w, image: null, images: [] }));
+  const watches: CatalogWatch[] = (detail?.watches ?? [])
+    .filter((w) => soldOut === undefined || !!w.soldOut === soldOut)
+    .map((w) => (show ? w : { ...w, image: null, images: [] }));
   return {
     data: watches,
     meta: {
@@ -188,6 +194,7 @@ export function apiWatches(b: Brand, detail: BrandCatalog | null, audience: Audi
       total: watches.length,
       crawledAt: detail?.crawledAt ?? null,
       crawlStatus: detail?.status ?? null,
+      soldOut: watches.filter((w) => w.soldOut).length,
       attribution: detail?.attribution ?? null,
       imagesShown: show,
     },
