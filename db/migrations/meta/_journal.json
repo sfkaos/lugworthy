@@ -22,6 +22,13 @@
       "when": 1792984508860,
       "tag": "0002_site_collections",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793050020361,
+      "tag": "0003_site_read_model",
+      "breakpoints": true
     }
   ]
 }

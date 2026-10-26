@@ -3,42 +3,19 @@ import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { BrandCard } from "@/components/BrandCard";
 import { countryName } from "@/lib/countries";
-import { getCatalog } from "@/lib/data";
-import type { Brand } from "@/lib/types";
+import { brandDirectory, type BrandsSearch } from "@/lib/site-data";
 
-export type BrandsSearch = { letter?: string; country?: string; band?: string; tag?: string; specs?: string; page?: string };
+export type { BrandsSearch };
 const PER_PAGE = 60;
 const BANDS = ["budget", "affordable", "mid", "upper_mid", "high"] as const;
 
-const letterOf = (b: Brand) => {
-  const c = b.name.normalize("NFKD").replace(/[̀-ͯ]/g, "").charAt(0).toUpperCase();
-  return /[A-Z]/.test(c) ? c : "#";
-};
-
 /** The brand directory. /brands renders it unfiltered (cached); /browse/brands renders filtered views. */
 export async function BrandsView({ search: sp }: { search: BrandsSearch }) {
-  const catalog = await getCatalog();
   const t = await getTranslations();
-  const all = catalog.publishedBrands();
-  const counts = new Map(all.map((b) => [b.slug, catalog.modelsForBrand(b.slug).length]));
-  const countries = [...new Set(all.map((b) => b.country).filter((c): c is string => !!c))].sort((a, b) => countryName(a).localeCompare(countryName(b)));
-  const tagCounts = new Map<string, number>();
-  for (const b of all) for (const tag of b.styleTags) tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
-  const tags = [...tagCounts.entries()].filter(([, n]) => n >= 4).sort((a, b) => b[1] - a[1]).map(([tag]) => tag);
-
-  let list = all;
-  if (sp.letter) list = list.filter((b) => letterOf(b) === sp.letter);
-  if (sp.country) list = list.filter((b) => b.country === sp.country!.toUpperCase());
-  if (sp.band) list = list.filter((b) => b.priceBand === sp.band);
-  if (sp.tag) list = list.filter((b) => b.styleTags.includes(sp.tag!));
-  if (sp.specs) list = list.filter((b) => (counts.get(b.slug) ?? 0) > 0);
-  // Brands with synced specs first, then A–Z.
-  list = [...list].sort((a, b) => Number((counts.get(b.slug) ?? 0) > 0) - Number((counts.get(a.slug) ?? 0) > 0) || a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
-
-  const pages = Math.max(1, Math.ceil(list.length / PER_PAGE));
-  const page = Math.min(Math.max(Number(sp.page ?? 1) || 1, 1), pages);
-  const shown = list.slice((page - 1) * PER_PAGE, page * PER_PAGE);
-  const letters = [...new Set(all.map(letterOf))].sort();
+  // Only this page's 60 brands, plus the filter options, come from the database.
+  const d = await brandDirectory(sp, PER_PAGE);
+  const { letters, tags, page, pages, shown } = d;
+  const countries = [...d.countries].sort((a, b) => countryName(a).localeCompare(countryName(b)));
   const qs = (patch: Record<string, string | undefined>) => {
     const next = new URLSearchParams(Object.entries({ ...sp, page: undefined, ...patch }).filter(([, v]) => v) as [string, string][]);
     const s = next.toString();
@@ -48,7 +25,7 @@ export async function BrandsView({ search: sp }: { search: BrandsSearch }) {
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
       <h1 className="text-3xl font-semibold">{t("brands.title")}</h1>
-      <p className="mt-1 text-muted">{t("brands.intro", { count: all.length })}</p>
+      <p className="mt-1 text-muted">{t("brands.intro", { count: d.brandCount })}</p>
 
       <nav aria-label="A–Z" className="mt-5 flex flex-wrap gap-1">
         <Link href={qs({ letter: undefined })} className="chip h-8 min-h-8 px-2.5 text-sm" aria-current={!sp.letter ? "page" : undefined}>{t("brands.all")}</Link>
@@ -89,10 +66,10 @@ export async function BrandsView({ search: sp }: { search: BrandsSearch }) {
       </Form>
 
       <div>
-      <p className="tabular mt-6 text-sm text-muted" aria-live="polite">{t("brands.count", { count: list.length })}</p>
+      <p className="tabular mt-6 text-sm text-muted" aria-live="polite">{t("brands.count", { count: d.total })}</p>
       {shown.length ? (
         <ul className="mt-3 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {shown.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={counts.get(b.slug) ?? 0} logo={catalog.logoFor(b)} /></li>)}
+          {shown.map((b) => <li key={b.brand.slug}><BrandCard brand={b.brand} modelCount={b.modelCount} logo={b.logo} /></li>)}
         </ul>
       ) : (
         <p className="card mt-3 p-6 text-muted">{t("brands.empty")}</p>

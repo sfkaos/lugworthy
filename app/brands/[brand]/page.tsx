@@ -6,7 +6,7 @@ import { BrandLogo } from "@/components/BrandLogo";
 import { ModelCard } from "@/components/ModelCard";
 import { StyleFilteredGrid } from "@/components/StyleFilteredGrid";
 import { countryName } from "@/lib/countries";
-import { getCatalog, minPriceUsd } from "@/lib/data";
+import { brandPage, brandSlugs } from "@/lib/site-data";
 import { metres, mm, money, shortDate } from "@/lib/format";
 import { EXHIBIT_URL, SITE_URL, jsonLd } from "@/lib/site";
 import { brandThemeStyle } from "@/lib/theme";
@@ -14,12 +14,11 @@ import { brandThemeStyle } from "@/lib/theme";
 type P = Promise<{ brand: string }>;
 
 export async function generateStaticParams() {
-  const catalog = await getCatalog();
-  return catalog.publishedBrands().map((b) => ({ brand: b.slug }));
+  return (await brandSlugs()).map((brand) => ({ brand }));
 }
 
 export async function generateMetadata({ params }: { params: P }): Promise<Metadata> {
-  const b = (await getCatalog()).getBrand((await params).brand);
+  const b = (await brandPage((await params).brand))?.brand;
   if (!b) return {};
   const where = [b.city, b.country ? countryName(b.country) : null].filter(Boolean).join(", ");
   return {
@@ -39,15 +38,15 @@ function range(vals: (number | null)[], fmt: (v: number) => string | null) {
 // Cached (ISR). The ?style= chips filter in the browser, so the page never needs the query string.
 export default async function BrandPage({ params }: { params: P }) {
   const { brand: slug } = await params;
-  const catalog = await getCatalog();
-  const brand = catalog.getBrand(slug);
-  if (!brand) notFound();
+  // This brand and its watch cards only.
+  const data = await brandPage(slug);
+  if (!data) notFound();
+  const { brand, models, logo } = data;
   const t = await getTranslations();
-  const models = catalog.modelsForBrand(slug);
   const styles = [...new Set(models.flatMap((m) => m.styles))].filter((s) => s !== "other");
   const place = [brand.city, brand.country ? countryName(brand.country) : brand.countryLabel].filter(Boolean).join(", ");
-  const priceMin = models.length ? Math.min(...models.map(minPriceUsd)) : brand.priceMin;
-  const priceMax = models.length ? Math.max(...models.flatMap((m) => m.variants.map((v) => v.priceUsd))) : brand.priceMax;
+  // With watches listed, these are already the live lowest and highest variant prices.
+  const { priceMin, priceMax } = brand;
   const site = brand.websiteUrl ? `${brand.websiteUrl}${brand.websiteUrl.includes("?") ? "&" : "?"}utm_source=lugworthy&utm_medium=directory` : null;
 
   const summary = models.length
@@ -88,7 +87,7 @@ export default async function BrandPage({ params }: { params: P }) {
             <Link className="link" href="/brands">{t("nav.brands")}</Link> <span aria-hidden>/</span> {brand.name}
           </nav>
           <div className="flex flex-wrap items-center gap-4">
-            <BrandLogo name={brand.name} url={catalog.logoFor(brand)} size="lg" />
+            <BrandLogo name={brand.name} url={logo} size="lg" />
             <div>
               <h1 className="font-serif text-4xl font-semibold tracking-tight">{brand.name}</h1>
               <p className="mt-1 opacity-80">

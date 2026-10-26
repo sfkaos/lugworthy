@@ -476,3 +476,88 @@ export const auditLog = pgTable("audit_log", {
   diff: jsonb("diff"),
   ts: timestamp("ts", { withTimezone: true }).notNull().defaultNow(),
 });
+
+// ---------- Read model for the site (lib/catalog/index-build.ts writes it, lib/site-data.ts reads it) ----------
+// One row per published brand and per published watch, holding exactly what pages list, filter and
+// sort on, so each page asks the database for only the rows and fields it shows. Rebuilt per brand
+// whenever that brand's sheet row or crawl changes. Image visibility is decided when reading, from
+// image_license and the site's IMAGES_PUBLIC setting.
+
+export const catalogBrands = pgTable("catalog_brands", {
+  slug: text("slug").primaryKey(),
+  brandCode: text("brand_code").notNull().unique(),
+  name: text("name").notNull(),
+  ord: integer("ord").notNull(), // A–Z position
+  letter: text("letter").notNull(), // A–Z index letter, or "#"
+  country: text("country"),
+  city: text("city"),
+  priceBand: text("price_band"),
+  styleTags: text("style_tags").array().notNull().default(sql`'{}'`),
+  words: text("words").array().notNull().default(sql`'{}'`), // search words: name, city, style tags
+  imageLicense: text("image_license").notNull(),
+  logoUrl: text("logo_url"),
+  hasStory: boolean("has_story").notNull().default(false),
+  modelCount: integer("model_count").notNull().default(0),
+  photoCount: integer("photo_count").notNull().default(0),
+  data: jsonb("data").$type<unknown>().notNull(), // Brand
+  inputsHash: text("inputs_hash").notNull(),
+  refreshedAt: timestamp("refreshed_at", { withTimezone: true }).notNull().defaultNow(),
+}, (t) => [index("catalog_brands_ord").on(t.ord)]);
+
+export const catalogWatches = pgTable("catalog_watches", {
+  id: text("id").primaryKey(), // brandSlug~modelSlug
+  brandSlug: text("brand_slug").notNull(),
+  brandCode: text("brand_code").notNull(),
+  slug: text("slug").notNull(),
+  ord: integer("ord").notNull(), // position in the brand's catalog
+  origin: text("origin").notNull(), // seed | site
+  name: text("name").notNull(),
+  imageLicense: text("image_license").notNull(),
+  hasImage: boolean("has_image").notNull(),
+  inStock: boolean("in_stock").notNull(), // availability is not sold_out
+  importedAt: timestamp("imported_at", { withTimezone: true }),
+  minPrice: integer("min_price").notNull(), // USD minor units
+  dia: doublePrecision("dia"),
+  l2l: doublePrecision("l2l"),
+  thk: doublePrecision("thk"),
+  wr: integer("wr"),
+  movement: text("movement"),
+  caliber: text("caliber"),
+  styles: text("styles").array().notNull().default(sql`'{}'`),
+  // Facet values, as lib/filters.ts reads them off a model.
+  fMov: text("f_mov").array().notNull().default(sql`'{}'`),
+  fStyle: text("f_style").array().notNull().default(sql`'{}'`),
+  fDial: text("f_dial").array().notNull().default(sql`'{}'`),
+  fStrap: text("f_strap").array().notNull().default(sql`'{}'`),
+  fAvail: text("f_avail").array().notNull().default(sql`'{}'`),
+  fCal: text("f_cal").array().notNull().default(sql`'{}'`),
+  fCrystal: text("f_crystal").array().notNull().default(sql`'{}'`),
+  fMat: text("f_mat").array().notNull().default(sql`'{}'`),
+  fLug: text("f_lug").array().notNull().default(sql`'{}'`),
+  fComp: text("f_comp").array().notNull().default(sql`'{}'`),
+  fCountry: text("f_country").array().notNull().default(sql`'{}'`),
+  // Text search, weight 5 (name) down to 1: words for exact and typo matches, raw text for substrings.
+  w5: text("w5").array().notNull().default(sql`'{}'`),
+  w4: text("w4").array().notNull().default(sql`'{}'`),
+  w3: text("w3").array().notNull().default(sql`'{}'`),
+  w2: text("w2").array().notNull().default(sql`'{}'`),
+  w1: text("w1").array().notNull().default(sql`'{}'`),
+  r5: text("r5").notNull().default(""),
+  r4: text("r4").notNull().default(""),
+  r3: text("r3").notNull().default(""),
+  r2: text("r2").notNull().default(""),
+  r1: text("r1").notNull().default(""),
+  variantIds: text("variant_ids").array().notNull().default(sql`'{}'`),
+  card: jsonb("card").$type<unknown>().notNull(), // Model, trimmed to what a card shows
+  detail: jsonb("detail").$type<unknown>().notNull(), // Model, everything the watch page shows
+}, (t) => [
+  index("catalog_watches_brand").on(t.brandSlug, t.ord),
+  index("catalog_watches_code").on(t.brandCode),
+  index("catalog_watches_variants").using("gin", t.variantIds),
+]);
+
+/** Small key/value table; holds the read model's format version. */
+export const catalogMeta = pgTable("catalog_meta", {
+  key: text("key").primaryKey(),
+  value: text("value").notNull(),
+});

@@ -1,12 +1,11 @@
 import type { Metadata } from "next";
 import { StaticPage } from "@/components/StaticPage";
-import { getCatalog } from "@/lib/data";
+import { siteStats } from "@/lib/site-data";
 
 export const metadata: Metadata = { title: "About" };
 
 export default async function About() {
-  const catalog = await getCatalog();
-  const s = catalog.brandStats();
+  const s = await siteStats();
   return (
     <StaticPage title="About Lugworthy">
       <p>Lugworthy is a directory of independent and microbrand watches. The name is a nod to lug-to-lug, the number that decides whether a watch actually fits your wrist.</p>

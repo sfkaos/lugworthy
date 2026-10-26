@@ -36,6 +36,8 @@ export class Catalog {
     models: Model[] = seedModels,
     media?: CatalogIndex,
     siteCatalogs: BrandCatalog[] = [],
+    /** Keep every crawled photo whatever the image settings (the site read model decides per request). */
+    opts: { allImages?: boolean } = {},
   ) {
     this.media = new Map((media?.brands ?? []).map((r) => [r.brandId, r]));
     this.source = data.source;
@@ -49,7 +51,7 @@ export class Catalog {
     for (const c of siteCatalogs) {
       const b = this.byId.get(c.brandId.toUpperCase());
       if (!b) continue;
-      const list = siteModelsFor(c, b, imagesVisible(b, "lugworthy", "watch"));
+      const list = siteModelsFor(c, b, opts.allImages || imagesVisible(b, "lugworthy", "watch"));
       if (!list.length) continue;
       crawled.add(b.brandId!);
       for (const m of list) this.models.push({ ...m, brand: { name: b.name, country: b.country, styleTags: b.styleTags } });

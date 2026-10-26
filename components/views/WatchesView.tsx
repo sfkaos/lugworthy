@@ -4,32 +4,30 @@ import { getTranslations } from "next-intl/server";
 import { FilterRail, type Bounds } from "@/components/FilterRail";
 import { ModelGrid } from "@/components/ModelCard";
 import { SortSelect } from "@/components/SortSelect";
-import { getCatalog, minPriceUsd } from "@/lib/data";
-import { browse, MULTI_FACETS, parseFilters, toSearchParams, type Filters } from "@/lib/filters";
+import { MULTI_FACETS, parseFilters, toSearchParams, type Filters } from "@/lib/filters";
 import { facetLabels } from "@/lib/labels";
+import { browseBounds, browseWatches } from "@/lib/site-data";
 
 export type WatchesSearch = Record<string, string | string[] | undefined>;
 
-function bounds(values: number[], step: number, unit: string, pad = 0): Bounds {
-  const v = values.filter((x) => Number.isFinite(x));
-  if (!v.length) return { min: 0, max: 1, step, unit };
-  return { min: Math.floor(Math.min(...v) / step) * step - pad, max: Math.ceil(Math.max(...v) / step) * step + pad, step, unit };
+function bounds([lo, hi]: [number | null, number | null], step: number, unit: string): Bounds {
+  if (lo == null || hi == null) return { min: 0, max: 1, step, unit };
+  return { min: Math.floor(lo / step) * step, max: Math.ceil(hi / step) * step, step, unit };
 }
 
 /** The watch browser. /watches renders it unfiltered (cached); /browse/watches renders filtered views. */
 export async function WatchesView({ search }: { search: WatchesSearch }) {
-  const catalog = await getCatalog();
   const t = await getTranslations();
   const f = parseFilters(search);
-  const all = catalog.publishedModels();
-  const r = browse(all, f);
+  // One page of results plus counts, all worked out in the database.
+  const [r, range] = await Promise.all([browseWatches(f), browseBounds()]);
   const labels = await facetLabels(r.counts);
 
   const b = {
-    price: bounds(all.map((m) => minPriceUsd(m) / 100), 50, ""),
-    dia: bounds(all.map((m) => m.specs.caseDiameterMm ?? NaN), 0.5, "mm"),
-    l2l: bounds(all.map((m) => m.specs.lugToLugMm ?? NaN), 0.5, "mm"),
-    thk: bounds(all.map((m) => m.specs.thicknessMm ?? m.specs.thicknessInclCrystalMm ?? NaN), 0.5, "mm"),
+    price: bounds(range.price, 50, ""),
+    dia: bounds(range.dia, 0.5, "mm"),
+    l2l: bounds(range.l2l, 0.5, "mm"),
+    thk: bounds(range.thk, 0.5, "mm"),
   };
 
   // Active chips with a link that removes each one.
@@ -117,7 +115,7 @@ export async function WatchesView({ search }: { search: WatchesSearch }) {
               {r.page < r.pages && <Link className="btn" href={pageHref(r.page + 1)}>{t("browse.next")}</Link>}
             </nav>
           )}
-          <p className="mt-8 text-sm text-muted">{t("browse.coverage", { models: all.length })}</p>
+          <p className="mt-8 text-sm text-muted">{t("browse.coverage", { models: range.models })}</p>
         </div>
       </div>
     </div>

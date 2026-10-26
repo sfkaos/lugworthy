@@ -8,6 +8,7 @@ import { withSsl } from "../lib/db/ssl";
 import * as schema from "../db/schema";
 import { fetchSheetRows, snapshotRows } from "../lib/brands/source";
 import type { Db } from "../lib/db/client";
+import { refreshBrands } from "../lib/catalog/index-build";
 import { importCatalogDir } from "../lib/sync/catalog";
 import { recordSync, syncBrandsFromRows } from "../lib/sync/sheet";
 
@@ -21,6 +22,7 @@ const db = drizzle(client, { schema }) as unknown as Db;
   if (!args.has("--catalog-only")) {
     const rows = args.has("--snapshot") ? snapshotRows() : await fetchSheetRows();
     console.log("sheet:", await recordSync(db, "sheet", () => syncBrandsFromRows(db, rows)));
+    console.log("read model:", await refreshBrands(db, undefined, { ifChanged: true }));
   }
   console.log("catalog:", await recordSync(db, "catalog", () => importCatalogDir(db, process.env.CATALOG_DIR || undefined)));
 })().finally(() => client.end());

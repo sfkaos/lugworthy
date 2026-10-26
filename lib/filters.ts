@@ -122,7 +122,7 @@ export function availability(m: Model): string {
 
 export const caliberFacet = (m: Model) => (m.specs.caliber ? m.specs.caliber.toLowerCase().replace(/[^a-z0-9]+/g, "_") : null);
 
-const ACCESSORS: Record<string, (m: Model) => string[]> = {
+export const ACCESSORS: Record<string, (m: Model) => string[]> = {
   mov: (m) => (m.specs.movementType ? [m.specs.movementType] : []),
   style: (m) => m.styles,
   dial: (m) => (m.specs.dialColor ? [m.specs.dialColor] : []),
@@ -152,7 +152,7 @@ const SYNONYMS: Record<string, string> = {
   chrono: "chronograph", pilot: "pilot", flieger: "pilot", gmts: "gmt", sapphire: "sapphire",
 };
 
-function editDistanceLe1(a: string, b: string): boolean {
+export function editDistanceLe1(a: string, b: string): boolean {
   if (a === b) return true;
   if (Math.abs(a.length - b.length) > 1) return false;
   let i = 0, j = 0, edits = 0;
@@ -167,7 +167,8 @@ function editDistanceLe1(a: string, b: string): boolean {
   return edits + (a.length - i) + (b.length - j) <= 1;
 }
 
-function haystack(m: Model): { field: string; weight: number }[] {
+/** Text fields a watch is found by, weight 5 (name) down to 1. */
+export function haystack(m: Model): { field: string; weight: number }[] {
   const b = brandInfo(m);
   return [
     { field: m.name, weight: 5 },
@@ -206,6 +207,25 @@ export function textScore(m: Model, q: string): number {
     score += best;
   }
   return score;
+}
+
+const WORD_CHARS = "abcdefghijklmnopqrstuvwxyz0123456789_.";
+
+/**
+ * Every string within one edit (insert, delete, substitute, swap neighbours) of a query token, so
+ * the database can find one-typo matches with a plain array overlap. Same rule as editDistanceLe1.
+ */
+export function typoVariants(t: string): string[] {
+  const out = new Set<string>([t]);
+  for (let i = 0; i <= t.length; i++) {
+    for (const c of WORD_CHARS) out.add(t.slice(0, i) + c + t.slice(i));
+    if (i < t.length) {
+      out.add(t.slice(0, i) + t.slice(i + 1));
+      for (const c of WORD_CHARS) out.add(t.slice(0, i) + c + t.slice(i + 1));
+      if (i + 1 < t.length) out.add(t.slice(0, i) + t[i + 1] + t[i] + t.slice(i + 2));
+    }
+  }
+  return [...out];
 }
 
 // ---------- Apply ----------

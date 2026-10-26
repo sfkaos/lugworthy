@@ -111,9 +111,10 @@ The API routes themselves always read the database.
 Responses look like `{ data, meta: { total, page, limit, pages, audience, source, syncedAt } }`.
 `source` is `database`, or `snapshot` when no database is connected.
 
-Images are hotlinked from the brand's site with attribution. Following the image policy, the
-default audience sees them only for brands that granted the image license; `IMAGES_PUBLIC=logos`
-also shows brand logos, and `IMAGES_PUBLIC=all` shows everything. `audience=all` always includes them.
+Images come from the brand's site with attribution (the stored copy when the crawler saved one).
+By default every brand's logo and watch photos are shown, except brands that revoked the image
+license. `IMAGES_PUBLIC=logos` shows only logos until a brand grants the license, and
+`IMAGES_PUBLIC=none` shows nothing until then. `audience=all` always includes them.
 
 ### Setup on Vercel (all free tiers)
 
@@ -158,7 +159,7 @@ one, and set `BRANDS_SHEET_ID` to it.
 | `LUGWORTHY_API_MAX_WATCHES` | Above this many watches (default 3000) pages read the database instead of pulling the whole catalog through the API |
 | `CATALOG_TTL_SECONDS` | How long each server keeps the catalog in memory (default 600). Builds load it once per worker |
 | `BRANDS_SHEET_ID` | Sheet to sync. Defaults to the master list |
-| `IMAGES_PUBLIC` | `logos` or `all` to show brand-site images before a brand grants the image license |
+| `IMAGES_PUBLIC` | Unset or `all` shows brand-site images (default). `logos` or `none` hides photos (or everything) until a brand grants the image license |
 | `INGEST_CONTACT_EMAIL` | Contact address in the ingest user agent |
 | `NEXT_PUBLIC_EN_PUNTO_URL`, `NEXT_PUBLIC_EXHIBIT_URL` | En Punto links |
 

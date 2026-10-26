@@ -2,6 +2,7 @@
 // data/catalog/index.json and data/catalog/BRD-####.json (format in lib/brands/media.ts).
 // This replaces each crawled brand's watches and images with the latest crawl.
 
+import { refreshBrand, reorderBrands } from "@/lib/catalog/index-build";
 import { eq, inArray } from "drizzle-orm";
 import * as s from "@/db/schema";
 import { loadBrandCatalog, loadCatalogIndex, type BrandCatalog } from "@/lib/brands/media";
@@ -75,11 +76,14 @@ export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[]): Pro
       for (let i = 0; i < links.length; i += CHUNK) await tx.insert(s.siteWatchCollections).values(links.slice(i, i + CHUNK)).onConflictDoNothing();
       for (let i = 0; i < events.length; i += CHUNK) await tx.insert(s.siteWatchAvailabilityEvents).values(events.slice(i, i + CHUNK)).onConflictDoNothing();
     });
+    // Keep the site's read model in step with this brand's new crawl.
+    await refreshBrand(db, c.brandId);
     result.brands++;
     result.watches += watches.length;
     result.images += images.length;
     result.collections = (result.collections ?? 0) + collections.length;
   }
+  if (result.brands) await reorderBrands(db);
   return result;
 }
 

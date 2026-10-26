@@ -5,6 +5,9 @@
 import { drizzle } from "drizzle-orm/postgres-js";
 import { migrate } from "drizzle-orm/postgres-js/migrator";
 import postgres from "postgres";
+import * as schema from "../db/schema";
+import { ensureReadModel } from "../lib/catalog/index-build";
+import type { Db } from "../lib/db/client";
 import { withSsl } from "../lib/db/ssl";
 
 /** Postgres classes 08 (connection) and 53 (insufficient resources, e.g. Neon's quota), or a network error. */
@@ -26,6 +29,10 @@ async function main() {
   try {
     await migrate(drizzle(client), { migrationsFolder: "db/migrations" });
     console.log("[migrate] database is up to date");
+    // The site reads catalog_brands/catalog_watches; build them on first deploy or after a format change.
+    const t0 = Date.now();
+    const r = await ensureReadModel(drizzle(client, { schema }) as unknown as Db);
+    console.log(r.rebuilt ? `[migrate] read model rebuilt: ${r.brands} brands in ${((Date.now() - t0) / 1000).toFixed(0)}s` : "[migrate] read model is current");
   } catch (e) {
     if (!isUnreachable(e)) throw e;
     const err = e as Error & { cause?: Error };

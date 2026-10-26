@@ -4,6 +4,7 @@ import { NextResponse, type NextRequest } from "next/server";
 import { BRANDS_TAG, fetchSheetRows } from "@/lib/brands/source";
 import { clearCatalogMemo } from "@/lib/data";
 import { getDb } from "@/lib/db/client";
+import { refreshBrands } from "@/lib/catalog/index-build";
 import { importCatalogDir } from "@/lib/sync/catalog";
 import { recordSync, syncBrandsFromRows } from "@/lib/sync/sheet";
 
@@ -28,11 +29,13 @@ export async function GET(req: NextRequest) {
   if (!db) return NextResponse.json({ error: "DATABASE_URL is not set" }, { status: 503 });
   try {
     const sheet = await recordSync(db, "sheet", async () => syncBrandsFromRows(db, await fetchSheetRows()));
+    // Brands whose sheet row changed get their read-model rows rebuilt.
+    const readModel = await refreshBrands(db, undefined, { ifChanged: true });
     const catalog = req.nextUrl.searchParams.get("catalog") === "skip" ? null : await recordSync(db, "catalog", () => importCatalogDir(db));
     clearCatalogMemo();
     revalidateTag(BRANDS_TAG);
     revalidatePath("/", "layout");
-    return NextResponse.json({ ok: true, sheet, catalog }, { headers: { "cache-control": "no-store" } });
+    return NextResponse.json({ ok: true, sheet, readModel, catalog }, { headers: { "cache-control": "no-store" } });
   } catch (e) {
     console.error("[sync] failed:", e);
     return NextResponse.json({ ok: false, error: (e as Error).message }, { status: 500 });

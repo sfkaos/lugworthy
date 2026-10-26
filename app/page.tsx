@@ -2,31 +2,16 @@ import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { BrandCard } from "@/components/BrandCard";
 import { ModelGrid } from "@/components/ModelCard";
-import { getCatalog } from "@/lib/data";
-import { availability } from "@/lib/filters";
+import { homeData } from "@/lib/site-data";
 import { SITE_URL, jsonLd } from "@/lib/site";
 
 const STYLE_TILES = ["diver", "field", "gmt", "chronograph", "dress", "pilot"] as const;
 
 export default async function Home() {
-  const catalog = await getCatalog();
+  // Only what this page shows: counts, 12 new watches, one featured brand with 3 watches, 8 brands.
+  const { stats, newReleases, featured: featuredRow, featuredModels, newBrands } = await homeData();
   const t = await getTranslations();
-  const stats = catalog.brandStats();
-  // Watches with photos lead, so the home page shows real watches when we have them.
-  const all = catalog.publishedModels();
-  const models = [...all.filter((m) => m.images?.length), ...all.filter((m) => !m.images?.length)];
-  // One fresh model per brand first, so the row isn't a single catalog.
-  const seen = new Set<string>();
-  const fresh = models.filter((m) => availability(m) !== "sold_out").filter((m) => (seen.has(m.brandSlug) ? false : (seen.add(m.brandSlug), true)));
-  const newReleases = [...fresh, ...models.filter((m) => !fresh.includes(m))].slice(0, 12);
-
-  const brands = catalog.publishedBrands();
-  const withPhotos = brands
-    .map((b) => ({ b, n: catalog.modelsForBrand(b.slug).filter((m) => m.images?.length).length }))
-    .sort((x, y) => y.n - x.n);
-  const featured = withPhotos[0]?.n ? withPhotos[0].b : brands.find((b) => b.slug === "oak-and-oscar") ?? brands[0];
-  const featuredModels = [...catalog.modelsForBrand(featured.slug)].sort((a, b) => Number(!!b.images?.length) - Number(!!a.images?.length)).slice(0, 3);
-  const newBrands = [...brands.filter((b) => catalog.logoFor(b)), ...brands.filter((b) => !catalog.logoFor(b) && b.story)].slice(0, 8);
+  const featured = featuredRow?.brand ?? null;
 
   const chips: [string, string][] = [
     ["/watches?price=-500", t("chips.under500")],
@@ -105,7 +90,7 @@ export default async function Home() {
         </div>
         <ul className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {newBrands.map((b) => (
-            <li key={b.slug}><BrandCard brand={b} modelCount={catalog.modelsForBrand(b.slug).length} logo={catalog.logoFor(b)} /></li>
+            <li key={b.brand.slug}><BrandCard brand={b.brand} modelCount={b.modelCount} logo={b.logo} /></li>
           ))}
         </ul>
       </section>

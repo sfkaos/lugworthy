@@ -1,14 +1,13 @@
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { ClaimForm } from "@/components/ClaimForm";
-import { getCatalog } from "@/lib/data";
+import { brandNames } from "@/lib/site-data";
 
 export const metadata: Metadata = { title: "For brands", alternates: { canonical: "/for-brands" } };
 
 export default async function ForBrands() {
-  const catalog = await getCatalog();
   const t = await getTranslations("forBrands");
-  const brands = catalog.publishedBrands().map((b) => ({ slug: b.slug, name: b.name }));
+  const brands = await brandNames();
   return (
     <div className="mx-auto grid max-w-6xl gap-10 px-4 py-10 md:grid-cols-[1.3fr_1fr]">
       <div>

@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import { StaticPage } from "@/components/StaticPage";
+import { imagesMode } from "@/lib/brands/media";
 
 export const metadata: Metadata = { title: "Image policy" };
 
 export const dynamic = "force-static";
 
 export default function ImagePolicy() {
-  const mode = process.env.IMAGES_PUBLIC?.trim().toLowerCase();
+  const mode = imagesMode();
   if (mode === "all" || mode === "logos") {
     return (
       <StaticPage title="Image policy">

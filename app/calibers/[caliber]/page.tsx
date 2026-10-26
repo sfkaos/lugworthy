@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { Hub } from "@/components/Hub";
-import { getCatalog } from "@/lib/data";
+import { caliberHub, calibersInUse as caliberNames } from "@/lib/site-data";
 import { caliberFacet } from "@/lib/filters";
 import { CALIBERS, caliberKey, caliberSlug } from "@/lib/ingest/normalize";
 import { hours } from "@/lib/format";
@@ -10,9 +10,8 @@ import { hours } from "@/lib/format";
 type P = Promise<{ caliber: string }>;
 
 async function calibersInUse() {
-  const catalog = await getCatalog();
   const map = new Map<string, string>();
-  for (const m of catalog.publishedModels()) if (m.specs.caliber) map.set(caliberSlug(m.specs.caliber), m.specs.caliber);
+  for (const c of (await caliberNames()).sort()) map.set(caliberSlug(c), c);
   return map;
 }
 
@@ -29,9 +28,8 @@ export default async function CaliberHub({ params }: { params: P }) {
   const slug = (await params).caliber;
   const name = (await calibersInUse()).get(slug);
   if (!name) notFound();
-  const catalog = await getCatalog();
   const t = await getTranslations();
-  const models = catalog.publishedModels().filter((m) => m.specs.caliber === name);
+  const models = await caliberHub(name);
   const info = CALIBERS[caliberKey(name) ?? ""];
   const facts = info
     ? [["Maker", info.maker], ["Type", t(`enum.mov.${info.type}`)], ["Power reserve", hours(info.powerReserveH ?? null)], ["Beat rate", info.frequencyBph ? `${info.frequencyBph.toLocaleString("en-US")} bph` : null], ["Hacking", info.hacking == null ? null : info.hacking ? "Yes" : "No"], ["Hand-winding", info.handWinding == null ? null : info.handWinding ? "Yes" : "No"]].filter(([, v]) => v)
