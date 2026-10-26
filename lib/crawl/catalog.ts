@@ -318,7 +318,7 @@ async function tryWoo(origin: string): Promise<DraftWatch[] | null> {
 
 // ---------- Generic HTML (sitemap + JSON-LD) ----------
 
-const PRODUCT_PATH = /\/(products?|shop|store|watch(es)?|timepieces?|collections\/[^/]+\/products|montres?|uhren|relojes|orologi|item|p)\/[^/?#]+\/?$/i;
+const PRODUCT_PATH = /\/(products?|produits?|produkte?|productos?|prodotti|prodotto|produtos?|artikel|shop|store|boutique|tienda|negozio|watch(es)?|timepieces?|collections\/[^/]+\/products|montres?|uhren|relojes|orologi|item|p)\/[^/?#]+\/?$/i;
 // Brands without a shop often have one page per model: /watches/the-carter, /collections/architect.
 const MODEL_PATH = /\/(watches|watch|collections?|models?|timepieces?|montres?|uhren|relojes|orologi|series)\/[^/?#]+\/?$/i;
 const SKIP_PATH = /\/(cart|account|login|blog|news|journal|pages?|policies|search|tag|category|categories|collections?\/?$)/i;
