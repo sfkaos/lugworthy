@@ -39,6 +39,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
     .map((m) => ({ m, s: textScore(m, q) }))
     .filter((x) => x.s > 0)
     .sort((a, b) => b.s - a.s)
+    .slice(0, 60)
     .map((x) => x.m);
 
   return (

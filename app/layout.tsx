@@ -1,10 +1,9 @@
 import type { Metadata, Viewport } from "next";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
-import { CompareTray, type TrayItem } from "@/components/CompareTray";
+import { CompareTray } from "@/components/CompareTray";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
-import { getCatalog, modelId } from "@/lib/data";
 import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
@@ -30,11 +29,7 @@ export const viewport: Viewport = {
 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
-  const catalog = await getCatalog();
   const messages = await getMessages();
-  // Small lookup so the compare tray can name what's in it without a fetch.
-  const index: Record<string, TrayItem> = {};
-  for (const m of catalog.publishedModels()) index[modelId(m)] = { id: modelId(m), name: m.name, brand: catalog.brandOf(m).name };
   return (
     <html lang="en">
       <body>
@@ -42,7 +37,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
           <Header />
           <main id="main">{children}</main>
           <Footer />
-          <CompareTray index={index} />
+          <CompareTray />
         </NextIntlClientProvider>
       </body>
     </html>

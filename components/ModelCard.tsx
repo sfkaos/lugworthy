@@ -33,7 +33,7 @@ export function ModelCard({ model, showBrand = true }: { model: Model; showBrand
         <div className="mt-auto flex items-center justify-between pt-2">
           <span className="tabular font-semibold">{t("card.from", { price: money(minPriceUsd(model)) })}</span>
           <span className="relative z-10">
-            <CompareButton id={modelId(model)} />
+            <CompareButton id={modelId(model)} label={{ name: model.name, brand: brandInfo(model).name }} />
           </span>
         </div>
       </div>

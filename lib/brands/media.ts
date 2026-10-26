@@ -52,6 +52,16 @@ export interface CatalogWatch {
   options?: { name: string; values: string[] }[];
   variants?: { title: string; sku: string | null; priceMinor: number | null; compareAtMinor: number | null; available: boolean | null; options: string[] }[];
   specsRaw?: Record<string, string>;
+  /** Collections this watch is listed in on the brand's site (may be empty). */
+  collectionIds?: string[];
+}
+
+export interface CatalogCollection {
+  id: string; // BRD-0001/<slug>
+  name: string;
+  url: string | null;
+  description: string | null;
+  image: CatalogImage | null;
 }
 
 export interface BrandCatalog {
@@ -65,6 +75,7 @@ export interface BrandCatalog {
   attribution: string | null;
   imageRights: string;
   watches: CatalogWatch[];
+  collections?: CatalogCollection[];
 }
 
 export interface CatalogIndexRow {

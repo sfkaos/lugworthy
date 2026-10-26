@@ -3,6 +3,9 @@ import { ModelGrid } from "./ModelCard";
 import { SITE_URL, jsonLd } from "@/lib/site";
 import type { Model } from "@/lib/types";
 
+/** Hubs show a first page; the browse link opens the full, paginated list. */
+const HUB_LIMIT = 48;
+
 export function Hub({ title, intro, models, browseHref, browseLabel, children, path }: {
   title: string; intro: string; models: Model[]; browseHref?: string; browseLabel?: string; children?: React.ReactNode; path: string;
 }) {
@@ -16,7 +19,7 @@ export function Hub({ title, intro, models, browseHref, browseLabel, children, p
       <p className="mt-2 max-w-2xl text-lg text-muted">{intro}</p>
       {browseHref && <Link className="btn mt-4" href={browseHref}>{browseLabel}</Link>}
       {children}
-      {models.length > 0 && <div className="mt-8"><ModelGrid models={models} /></div>}
+      {models.length > 0 && <div className="mt-8"><ModelGrid models={models.slice(0, HUB_LIMIT)} /></div>}
     </div>
   );
 }

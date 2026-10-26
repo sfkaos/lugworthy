@@ -187,10 +187,13 @@ export function findBrand(catalog: Catalog, idOrSlug: string, audience: Audience
 }
 
 /** Watches from the brand's own site. Image URLs are dropped while images are hidden for this audience. */
-export function apiWatches(b: Brand, detail: BrandCatalog | null, audience: Audience, soldOut?: boolean) {
+export function apiWatches(b: Brand, detail: BrandCatalog | null, audience: Audience, soldOut?: boolean, collection?: string) {
   const show = imagesVisible(b, audience, "watch");
+  const colId = collection ? (collection.includes("/") ? collection : `${b.brandId}/${collection}`).toLowerCase() : null;
   const watches: CatalogWatch[] = (detail?.watches ?? [])
     .filter((w) => soldOut === undefined || !!w.soldOut === soldOut)
+    .filter((w) => !colId || (w.collectionIds ?? []).some((id) => id.toLowerCase() === colId))
+    .map((w) => ({ ...w, collectionIds: w.collectionIds ?? [] }))
     .map((w) => (show ? w : { ...w, image: null, images: [] }));
   return {
     data: watches,
@@ -201,6 +204,27 @@ export function apiWatches(b: Brand, detail: BrandCatalog | null, audience: Audi
       crawlStatus: detail?.status ?? null,
       soldOut: watches.filter((w) => w.soldOut).length,
       attribution: detail?.attribution ?? null,
+      imagesShown: show,
+    },
+  };
+}
+
+/** The brand's collections (series, model families) with how many crawled watches each holds. */
+export function apiCollections(b: Brand, detail: BrandCatalog | null, audience: Audience) {
+  const show = imagesVisible(b, audience, "watch");
+  const watches = detail?.watches ?? [];
+  const data = (detail?.collections ?? []).map((c) => ({
+    ...c,
+    image: show ? c.image : null,
+    watchCount: watches.filter((w) => (w.collectionIds ?? []).includes(c.id)).length,
+  }));
+  return {
+    data,
+    meta: {
+      brandId: b.brandId,
+      total: data.length,
+      watchesWithoutCollection: watches.filter((w) => !(w.collectionIds ?? []).length).length,
+      crawledAt: detail?.crawledAt ?? null,
       imagesShown: show,
     },
   };

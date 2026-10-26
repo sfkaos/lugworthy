@@ -1,0 +1,70 @@
+# Render Blueprint: the brand-site crawler runs here (long jobs); the site and API stay on Vercel.
+# Secrets are marked sync:false, so Render asks for them when the Blueprint is created.
+services:
+  - type: cron
+    name: lugworthy-crawl
+    runtime: node
+    plan: starter
+    schedule: "0 6 1-3 * *" # monthly on the 1st at 06:00 UTC; the 2nd and 3rd resume a run that hit the 12-hour limit (or do nothing)
+    buildCommand: npm ci --include=dev
+    startCommand: scripts/render-job.sh crawl
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_OPTIONS
+        value: --max-old-space-size=256
+      # Fewer glibc malloc arenas: image resizing otherwise fragments native memory
+      # (a local test went from ~500 MB to ~340 MB peak).
+      - key: MALLOC_ARENA_MAX
+        value: "2"
+      - key: CRAWL_CONCURRENCY
+        value: "2"
+      # First full crawl with photo storage started this day; reruns skip brands done since then.
+      - key: CRAWL_SKIP_SINCE
+        value: "2026-10-26T16:00:00Z"
+      - key: DATABASE_URL
+        sync: false
+      - key: IMAGE_STORE
+        value: r2
+      - key: R2_ACCOUNT_ID
+        value: 97bc558321827cf111c152f6dbb392af
+      - key: R2_ACCESS_KEY_ID
+        sync: false
+      - key: R2_SECRET_ACCESS_KEY
+        sync: false
+      - key: R2_BUCKET
+        value: lugworthy-images
+      - key: R2_PUBLIC_BASE_URL
+        value: https://pub-5c3b8e4ae8704fe8aaa927cc25720be5.r2.dev
+  - type: cron
+    name: lugworthy-availability
+    runtime: node
+    plan: starter
+    schedule: "0 7 * * 1" # Mondays 07:00 UTC
+    buildCommand: npm ci --include=dev
+    startCommand: scripts/render-job.sh availability
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_OPTIONS
+        value: --max-old-space-size=256
+      # Fewer glibc malloc arenas: image resizing otherwise fragments native memory
+      # (a local test went from ~500 MB to ~340 MB peak).
+      - key: MALLOC_ARENA_MAX
+        value: "2"
+      - key: CRAWL_CONCURRENCY
+        value: "2"
+      - key: DATABASE_URL
+        sync: false
+      - key: IMAGE_STORE
+        value: r2
+      - key: R2_ACCOUNT_ID
+        value: 97bc558321827cf111c152f6dbb392af
+      - key: R2_ACCESS_KEY_ID
+        sync: false
+      - key: R2_SECRET_ACCESS_KEY
+        sync: false
+      - key: R2_BUCKET
+        value: lugworthy-images
+      - key: R2_PUBLIC_BASE_URL
+        value: https://pub-5c3b8e4ae8704fe8aaa927cc25720be5.r2.dev

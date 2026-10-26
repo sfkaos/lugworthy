@@ -12,7 +12,10 @@
     "ingest": "tsx scripts/ingest.ts",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "tsx scripts/migrate.ts",
-    "db:sync": "tsx scripts/sync.ts"
+    "db:sync": "tsx scripts/sync.ts",
+    "crawl": "tsx scripts/crawl-catalog.ts",
+    "catalog:export": "tsx scripts/export-catalog.ts",
+    "check:availability": "tsx scripts/check-availability.ts"
   },
   "dependencies": {
     "drizzle-orm": "0.44.7",
@@ -29,7 +32,11 @@
     "@types/node": "22.20.5",
     "@types/react": "19.1.17",
     "@types/react-dom": "19.1.11",
+    "@vercel/blob": "^1.1.1",
+    "aws4fetch": "^1.0.20",
+    "cheerio": "^1.0.0",
     "drizzle-kit": "0.31.11",
+    "sharp": "^0.34.4",
     "tailwindcss": "4.1.18",
     "typescript": "5.9.3",
     "vitest": "3.2.7"
