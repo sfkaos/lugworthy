@@ -44,17 +44,39 @@ export async function politeGet(url: string, accept = "text/html,application/xht
       return politeGet(url, accept, attempt + 1);
     }
     const contentType = res.headers.get("content-type") ?? "";
-    // Text is capped at 5 MB so a giant page can't stall the run; images up to 25 MB.
-    const buf = await res.arrayBuffer();
-    if (buf.byteLength > 25_000_000) return { ok: false, status: 413, url, contentType, text: "too large", bytes: Buffer.alloc(0) };
-    const text = /^image\/(?!svg)/i.test(contentType) ? "" : new TextDecoder().decode(buf.byteLength > 5_000_000 ? buf.slice(0, 5_000_000) : buf);
+    // Images are capped at 25 MB and everything else at 5 MB, checked while reading,
+    // so a video or a giant file can't use up the crawler's memory.
+    const isImage = /^image\//i.test(contentType);
+    const cap = isImage ? 25_000_000 : 5_000_000;
+    const buf = await readCapped(res, cap);
+    if (process.env.CRAWL_DEBUG) console.error(`[get] ${res.status} ${buf ? buf.byteLength : "too-large"} ${contentType.split(";")[0]} ${url}`);
+    if (!buf) return { ok: false, status: 413, url, contentType, text: "too large", bytes: Buffer.alloc(0) };
+    const text = isImage && !/svg/i.test(contentType) ? "" : buf.toString("utf8");
     const challenged = !!res.headers.get("sg-captcha") || res.headers.get("cf-mitigated") === "challenge"
       || (res.status === 202 && text.length < 2000 && /captcha|challenge/i.test(text))
       || (res.status === 403 && /cf-chl|challenge-platform|captcha/i.test(text.slice(0, 5000)));
-    return { ok: res.ok && !challenged, status: res.status, url: res.url || url, contentType, text, bytes: Buffer.from(buf), challenged };
+    return { ok: res.ok && !challenged, status: res.status, url: res.url || url, contentType, text, bytes: buf, challenged };
   } catch (e) {
     return { ok: false, status: 0, url, contentType: "", text: String((e as Error).message ?? e), bytes: Buffer.alloc(0) };
   }
+}
+
+/** Reads a response body, giving up (null) once it passes `cap` bytes. */
+async function readCapped(res: Response, cap: number): Promise<Buffer | null> {
+  const declared = Number(res.headers.get("content-length"));
+  if (declared > cap) { await res.body?.cancel().catch(() => {}); return null; }
+  if (!res.body) return Buffer.alloc(0);
+  const chunks: Uint8Array[] = [];
+  let size = 0;
+  const reader = res.body.getReader();
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    size += value.byteLength;
+    if (size > cap) { await reader.cancel().catch(() => {}); return null; }
+    chunks.push(value);
+  }
+  return Buffer.concat(chunks, size);
 }
 
 // ---------- robots.txt ----------

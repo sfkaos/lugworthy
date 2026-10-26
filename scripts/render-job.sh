@@ -16,7 +16,7 @@ case "${1:-crawl}" in
   crawl)
     since="$(date -u +%Y-%m-01)"
     if [[ -n "${CRAWL_SKIP_SINCE:-}" && "$CRAWL_SKIP_SINCE" > "$since" ]]; then since="$CRAWL_SKIP_SINCE"; fi
-    run crawl-catalog --concurrency "${CRAWL_CONCURRENCY:-3}" --save-each --skip-since "$since" ;;
+    run crawl-catalog --concurrency "${CRAWL_CONCURRENCY:-2}" --save-each --skip-since "$since" ;;
   availability) run check-availability ;;
   *) echo "unknown job $1" >&2; exit 2 ;;
 esac
