@@ -63,7 +63,7 @@ async function one(b: BrandInput) {
   }
   const prev = readPrev(b.brandId);
   // Keep the last good data when a site is temporarily down.
-  if (prev && prev.status === "ok" && (cat.status === "unreachable" || (cat.status === "no_catalog_found" && prev.watches.length))) {
+  if (prev && prev.status === "ok" && (cat.status === "unreachable" || cat.status === "blocked_by_site" || (cat.status === "no_catalog_found" && prev.watches.length))) {
     cat = { ...prev, note: `Last attempt ${cat.crawledAt}: ${cat.status}${cat.note ? ` (${cat.note})` : ""}; showing data from ${prev.crawledAt}` };
   }
   else cat = mergeWithPrevious(cat, prev);

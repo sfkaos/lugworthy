@@ -78,8 +78,12 @@ async function checkBrand(file: string) {
   const bulk = cat.platform === "shopify" ? await bulkShopify(cat) : cat.platform === "woocommerce" ? await bulkWoo(cat) : null;
   if (bulk) {
     for (const w of cat.watches) {
-      const a = bulk.get(w.url);
-      if (a) { apply(w, a, cat.brandName); checked++; }
+      let a = bulk.get(w.url);
+      if (!a) continue;
+      // Storefront APIs can't tell pre-order from in stock; keep a pre-order the detail page reported.
+      if (a === "in_stock" && w.availability === "preorder") a = "preorder";
+      apply(w, a, cat.brandName);
+      checked++;
     }
   } else {
     for (const w of targets) {

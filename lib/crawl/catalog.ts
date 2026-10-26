@@ -245,9 +245,10 @@ async function tryShopify(origin: string, currencyHint: string | null): Promise<
   if (!Array.isArray(body.products)) return null;
   const all: ShopifyProduct[] = [...body.products];
   for (let page = 2; page < 20 && body.products?.length === 250; page++) {
+    // A failed later page means a partial list; fail the crawl so the previous catalog is kept.
     const r = await allowedGet(`${origin}/products.json?limit=250&page=${page}`, "application/json");
-    if (!r?.ok) break;
-    try { body = JSON.parse(r.text); } catch { break; }
+    if (!r?.ok) throw new Error(`products.json page ${page} failed (${r?.status ?? "robots"})`);
+    try { body = JSON.parse(r.text); } catch { throw new Error(`products.json page ${page} was not JSON`); }
     all.push(...(body.products ?? []));
   }
   return all.map((p) => mapShopifyProduct(p, origin, currencyHint)).filter((w): w is DraftWatch => !!w).slice(0, MAX_WATCHES);
@@ -307,9 +308,9 @@ async function tryWoo(origin: string): Promise<DraftWatch[] | null> {
   const all = [...list];
   for (let page = 2; page < 10 && list.length === 100; page++) {
     const r = await allowedGet(`${origin}/wp-json/wc/store/v1/products?per_page=100&page=${page}`, "application/json");
-    if (!r?.ok) break;
-    try { list = JSON.parse(r.text); } catch { break; }
-    if (!Array.isArray(list)) break;
+    if (!r?.ok) throw new Error(`Store API page ${page} failed (${r?.status ?? "robots"})`);
+    try { list = JSON.parse(r.text); } catch { throw new Error(`Store API page ${page} was not JSON`); }
+    if (!Array.isArray(list)) throw new Error(`Store API page ${page} was not a list`);
     all.push(...list);
   }
   return all.map(mapWooProduct).filter((w): w is DraftWatch => !!w).slice(0, MAX_WATCHES);
