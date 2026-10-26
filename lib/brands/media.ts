@@ -122,10 +122,18 @@ export async function loadAllBrandCatalogs(dir = DIR): Promise<BrandCatalog[]> {
 }
 
 /**
- * Whether a brand's collected images may be shown to this audience.
- * Internal (audience=all) always sees them. Public visibility follows the image policy:
- * only brands that granted the image license, unless IMAGES_PUBLIC is "all" (every image) or
- * "logos" (brand images for everyone, watch photos only once licensed).
+ * What the public sees of images collected from brand sites, from IMAGES_PUBLIC:
+ * "all" (default: every logo and watch photo we have), "logos" (logos; watch photos once the
+ * brand grants the image license) or "none" (only brands that granted the license).
+ */
+export function imagesMode(env: Record<string, string | undefined> = process.env): "all" | "logos" | "none" {
+  const v = env.IMAGES_PUBLIC?.trim().toLowerCase();
+  return v === "logos" || v === "none" ? v : "all";
+}
+
+/**
+ * Whether a brand's collected images may be shown to this audience. Internal (audience=all)
+ * always sees them; a brand that revoked the license never shows them publicly.
  */
 export function imagesVisible(
   brand: Pick<Brand, "imageLicenseStatus">,
@@ -136,6 +144,6 @@ export function imagesVisible(
   if (audience === "all") return true;
   if (brand.imageLicenseStatus === "revoked") return false;
   if (brand.imageLicenseStatus === "granted") return true;
-  const mode = env.IMAGES_PUBLIC?.trim().toLowerCase();
+  const mode = imagesMode(env);
   return mode === "all" || (mode === "logos" && kind === "brand");
 }

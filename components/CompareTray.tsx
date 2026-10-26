@@ -26,7 +26,7 @@ export function CompareTray() {
               <span className="truncate">
                 <span className="text-muted">{it.brand}</span> {it.name}
               </span>
-              <button type="button" onClick={() => c.remove(it.id)} aria-label={`${t("remove")} ${it.name}`} className="text-muted hover:text-ink">
+              <button type="button" onClick={() => c.remove(it.id)} aria-label={`${t("remove")} ${it.name}`} className="-mr-1 inline-flex h-6 w-6 items-center justify-center rounded-full text-muted hover:bg-surface-2 hover:text-ink">
                 ×
               </button>
             </li>
@@ -35,9 +35,16 @@ export function CompareTray() {
         <button type="button" className="btn btn-sm" onClick={c.clear}>
           {t("clear")}
         </button>
-        <Link className="btn btn-sm btn-primary" href={`/compare?ids=${items.map((i) => i.id).join(",")}`} aria-disabled={items.length < 2}>
-          {t("open")}
-        </Link>
+        {items.length < 2 ? (
+          // A comparison needs two watches; a dead link here used to open an empty page.
+          <button type="button" className="btn btn-sm btn-primary" disabled title={t("needTwo")}>
+            {t("open")}
+          </button>
+        ) : (
+          <Link className="btn btn-sm btn-primary" href={`/compare?ids=${items.map((i) => i.id).join(",")}`}>
+            {t("open")}
+          </Link>
+        )}
       </div>
     </div>
   );

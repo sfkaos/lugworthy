@@ -1,8 +1,9 @@
 "use client";
 
-import { usePathname, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { useTranslations } from "next-intl";
-import { useEffect, useId, useState, useTransition } from "react";
+import { useEffect, useId, useOptimistic, useState, useTransition } from "react";
+import { startNavProgress } from "./NavProgress";
 import type { FacetCounts, Filters, Range } from "@/lib/filters";
 import { WR_STEPS, formatRange } from "@/lib/filters";
 
@@ -26,11 +27,12 @@ const SWATCH: Record<string, string> = {
   purple: "#6d4c9c", pink: "#e9a3c0", teal: "#1f8a8a", multi: "conic-gradient(#2856a6,#e8c33a,#a3212a,#2e6b45,#2856a6)", skeleton: "repeating-linear-gradient(45deg,#888 0 2px,transparent 2px 5px)",
 };
 
-export function FilterRail({ filters, counts, wrCounts, bounds, labels, total }: Props) {
+export function FilterRail({ filters: current, counts, wrCounts, bounds, labels, total }: Props) {
   const t = useTranslations();
   const router = useRouter();
-  const pathname = usePathname();
   const [pending, start] = useTransition();
+  // Ticks and chips change on click; the counts and results follow when the server answers.
+  const [filters, setFilters] = useOptimistic(current);
   const [open, setOpen] = useState(false);
 
   function push(next: Filters) {
@@ -44,7 +46,11 @@ export function FilterRail({ filters, counts, wrCounts, bounds, labels, total }:
       } else sp.set(k, Array.isArray(v) ? v.join(",") : String(v));
     }
     const qs = sp.toString();
-    start(() => router.push(qs ? `${pathname}?${qs}` : pathname, { scroll: false }));
+    startNavProgress();
+    start(() => {
+      setFilters(next);
+      router.push(qs ? `/watches?${qs}` : "/watches", { scroll: false });
+    });
   }
 
   const toggle = (facet: keyof Filters, value: string) => {
@@ -75,8 +81,7 @@ export function FilterRail({ filters, counts, wrCounts, bounds, labels, total }:
                 aria-checked={active}
                 disabled={step > 0 && n === 0 && !active}
                 onClick={() => push({ ...filters, wr: step || undefined })}
-                className="chip tabular text-sm disabled:opacity-40"
-                style={active ? { borderColor: "var(--text)", fontWeight: 600 } : undefined}
+                className="chip tabular text-sm"
               >
                 {step ? t("facet.wrAtLeast", { m: step }) : t("browse.any")}
                 {n != null && <span className="text-muted">{n}</span>}

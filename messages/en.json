@@ -226,7 +226,7 @@
     "compare": "Compare",
     "comparing": "In compare",
     "soldOut": "Sold out",
-    "noImage": "Photos appear once {brand} approves image use"
+    "noImage": "No photo of this watch yet"
   },
   "compare": {
     "title": "Compare",
@@ -235,6 +235,7 @@
     "clear": "Clear",
     "remove": "Remove",
     "full": "Compare holds up to 4 watches.",
+    "needTwo": "Add one more watch to compare",
     "onlyDiff": "Only differences",
     "empty": "Pick two to four watches to line them up.",
     "emptyCta": "Browse watches",

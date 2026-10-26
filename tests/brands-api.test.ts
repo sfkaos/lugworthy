@@ -8,6 +8,9 @@ import { buildBrands } from "@/lib/brands/build";
 import { snapshotRows } from "@/lib/brands/source";
 import { Catalog, snapshotCatalog } from "@/lib/data";
 
+// These tests check the "keep images back until licensed" setting.
+process.env.IMAGES_PUBLIC = "none";
+
 const catalog = snapshotCatalog();
 const q = (s: string) => parseBrandQuery(new URLSearchParams(s));
 
@@ -190,8 +193,11 @@ describe("brand and watch images", async () => {
   });
   it("follows the image policy for the public audience", () => {
     const none = { imageLicenseStatus: "none" as const };
-    expect(imagesVisible(none, "lugworthy", "watch", {})).toBe(false);
-    expect(imagesVisible(none, "lugworthy", "brand", {})).toBe(false);
+    // Shown by default; IMAGES_PUBLIC=none keeps them back until the brand grants the license.
+    expect(imagesVisible(none, "lugworthy", "watch", {})).toBe(true);
+    expect(imagesVisible(none, "lugworthy", "brand", {})).toBe(true);
+    expect(imagesVisible(none, "lugworthy", "watch", { IMAGES_PUBLIC: "none" })).toBe(false);
+    expect(imagesVisible(none, "lugworthy", "brand", { IMAGES_PUBLIC: "none" })).toBe(false);
     expect(imagesVisible({ imageLicenseStatus: "granted" }, "lugworthy", "watch", {})).toBe(true);
     expect(imagesVisible(none, "lugworthy", "watch", { IMAGES_PUBLIC: "all" })).toBe(true);
     expect(imagesVisible(none, "lugworthy", "brand", { IMAGES_PUBLIC: "logos" })).toBe(true);

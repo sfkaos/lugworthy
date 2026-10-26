@@ -16,6 +16,9 @@ import { readBrandCatalog, readCatalog } from "@/lib/db/read";
 import { importCatalogDir } from "@/lib/sync/catalog";
 import { recordSync, syncBrandsFromRows } from "@/lib/sync/sheet";
 
+// These tests check the "keep images back until licensed" setting.
+process.env.IMAGES_PUBLIC = "none";
+
 let db: Db;
 const rows = snapshotRows();
 

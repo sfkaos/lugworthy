@@ -5,13 +5,16 @@ import { queryWatches } from "@/lib/brands/api";
 import { snapshotCatalog } from "@/lib/data";
 import { middleware } from "@/middleware";
 
+// These tests check the "keep images back until licensed" setting.
+process.env.IMAGES_PUBLIC = "none";
+
 describe("watches crawled from brand sites", async () => {
   const site = await loadAllBrandCatalogs();
   const index = await loadCatalogIndex();
   const hidden = snapshotCatalog(index, site);
   process.env.IMAGES_PUBLIC = "all";
   const shown = snapshotCatalog(index, site);
-  delete process.env.IMAGES_PUBLIC;
+  process.env.IMAGES_PUBLIC = "none";
 
   it("turns crawled watches into site models and drops straps, pens and clocks", () => {
     const models = shown.models.filter((m) => m.origin === "site");
@@ -25,7 +28,7 @@ describe("watches crawled from brand sites", async () => {
     const dryden = shown.publishedBrands().find((b) => b.slug === "dryden")!;
     process.env.IMAGES_PUBLIC = "all";
     expect(shown.logoFor(dryden)).toMatch(/^https:/);
-    delete process.env.IMAGES_PUBLIC;
+    process.env.IMAGES_PUBLIC = "none";
     expect(hidden.logoFor(dryden)).toBeNull();
   });
   it("marks sold-out watches", () => {
@@ -36,7 +39,7 @@ describe("watches crawled from brand sites", async () => {
   it("serves them through GET /watches with the site's filters", () => {
     process.env.IMAGES_PUBLIC = "all";
     const r = queryWatches(shown, new URLSearchParams("brand=BRD-0191&soldOut=false&limit=200"));
-    delete process.env.IMAGES_PUBLIC;
+    process.env.IMAGES_PUBLIC = "none";
     expect(r.meta.total).toBeGreaterThan(0);
     expect(r.data.every((w) => w.brandId === "BRD-0191" && !w.soldOut)).toBe(true);
     expect(r.data[0].image?.url).toMatch(/^https:/);

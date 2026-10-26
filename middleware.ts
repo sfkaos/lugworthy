@@ -35,7 +35,21 @@ export function middleware(req: NextRequest) {
     for (const [k, v] of Object.entries(CORS)) res.headers.set(k, v);
     return res;
   }
+  // /watches and /brands are cached pages. A query string (filters, sort, page, search) needs a
+  // render on request, so it goes to /browse/…; the address bar keeps the original URL.
+  if ((path === "/watches" || path === "/brands") && hasRealQuery(req.nextUrl.searchParams)) {
+    const url = req.nextUrl.clone();
+    url.pathname = `/browse${path}`;
+    return NextResponse.rewrite(url);
+  }
   return NextResponse.next();
+}
+
+// Campaign tags don't change the page, so those visits still get the cached one.
+const IGNORED_PARAMS = /^(utm_\w+|fbclid|gclid|msclkid|ref|_rsc)$/;
+function hasRealQuery(sp: URLSearchParams): boolean {
+  for (const k of sp.keys()) if (!IGNORED_PARAMS.test(k)) return true;
+  return false;
 }
 
 export const config = {

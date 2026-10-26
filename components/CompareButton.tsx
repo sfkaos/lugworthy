@@ -23,8 +23,8 @@ export function CompareButton({ id, label: trayLabel, variant = "card" }: { id: 
         onClick={onClick}
         aria-pressed={active}
         className={variant === "page" ? "btn" : "btn btn-sm"}
-        style={active ? { borderColor: "var(--text)" } : undefined}
       >
+        {active && <span aria-hidden>✓</span>}
         {label}
       </button>
       {warn && (

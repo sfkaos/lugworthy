@@ -7,7 +7,8 @@ import { ModelGrid } from "@/components/ModelCard";
 import { ModelGallery } from "@/components/ModelGallery";
 import { ModelPurchase } from "@/components/ModelPurchase";
 import { SpecTable, specRows } from "@/components/SpecTable";
-import { getCatalog, getModelDetail, modelId } from "@/lib/data";
+import { modelId } from "@/lib/model-utils";
+import { modelPage, seedModelParams } from "@/lib/site-data";
 import { mm, shortDate, wristFit } from "@/lib/format";
 import { SITE_URL, jsonLd } from "@/lib/site";
 import { brandThemeStyle } from "@/lib/theme";
@@ -15,17 +16,15 @@ import { brandThemeStyle } from "@/lib/theme";
 type P = Promise<{ brand: string; model: string }>;
 
 export async function generateStaticParams() {
-  const catalog = await getCatalog();
   // Hand-curated models are built ahead; the many thousands crawled from brand sites render on first visit.
-  return catalog.publishedModels().filter((m) => m.origin === "seed").map((m) => ({ brand: m.brandSlug, model: m.slug }));
+  return seedModelParams();
 }
 
 export async function generateMetadata({ params }: { params: P }): Promise<Metadata> {
   const { brand, model } = await params;
-  const catalog = await getCatalog();
-  const m = catalog.getModel(brand, model);
-  const b = catalog.getBrand(brand);
-  if (!m || !b) return {};
+  const data = await modelPage(brand, model);
+  if (!data) return {};
+  const { model: m, brand: b } = data;
   const s = m.specs;
   const bits = [mm(s.caseDiameterMm), s.caliber, s.waterResistanceM ? `${s.waterResistanceM} m` : null].filter(Boolean).join(", ");
   return {
@@ -36,18 +35,15 @@ export async function generateMetadata({ params }: { params: P }): Promise<Metad
   };
 }
 
-export default async function ModelPage({ params, searchParams }: { params: P; searchParams: Promise<{ v?: string }> }) {
+// Cached (ISR). The picked variant (?v=) is applied in the browser by ModelPurchase.
+export default async function ModelPage({ params }: { params: P }) {
   const { brand: bSlug, model: mSlug } = await params;
-  const { v } = await searchParams;
-  const catalog = await getCatalog();
-  const model = await getModelDetail(bSlug, mSlug);
-  const brand = catalog.getBrand(bSlug);
-  if (!model || !brand) notFound();
+  // This watch, its brand, four more from the brand and four similar ones; nothing else.
+  const data = await modelPage(bSlug, mSlug);
+  if (!data) notFound();
+  const { model, brand, more, similar } = data;
   const t = await getTranslations();
   const s = model.specs;
-  const initial = Math.min(Math.max(Number(v ?? 0) || 0, 0), model.variants.length - 1);
-  const more = catalog.modelsForBrand(brand.slug).filter((m) => m.slug !== model.slug).slice(0, 4);
-  const similar = catalog.similarModels(model);
   const fit = wristFit(s.lugToLugMm);
   const history = model.availabilityHistory ?? [];
   const rawSpecs = Object.entries(model.specsRaw ?? {}).filter(([k, v]) => k.trim() && v.trim() && k !== v && v.length < 300);
@@ -111,7 +107,7 @@ export default async function ModelPage({ params, searchParams }: { params: P; s
               </p>
               {fit && <p className="mt-2 text-sm text-muted">{t("model.fits", fit)}</p>}
             </div>
-            <ModelPurchase variants={model.variants} initialIndex={initial} brandName={brand.name} compareId={modelId(model)} modelName={model.name} status={model.status} />
+            <ModelPurchase variants={model.variants} brandName={brand.name} compareId={modelId(model)} modelName={model.name} status={model.status} />
             {model.origin === "site" && (
               <div className="flex flex-col gap-3 text-sm">
                 {model.availabilityCheckedAt && (

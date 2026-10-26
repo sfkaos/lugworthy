@@ -4,6 +4,8 @@ import { getMessages, getTranslations } from "next-intl/server";
 import { CompareTray } from "@/components/CompareTray";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
+import { NavProgress } from "@/components/NavProgress";
+import { Suspense } from "react";
 import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
@@ -34,6 +36,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
     <html lang="en">
       <body>
         <NextIntlClientProvider messages={messages} locale="en">
+          <Suspense fallback={null}>
+            <NavProgress />
+          </Suspense>
           <Header />
           <main id="main">{children}</main>
           <Footer />

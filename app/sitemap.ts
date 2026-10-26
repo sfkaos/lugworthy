@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getCatalog } from "@/lib/data";
+import { calibersInUse, countryCodes, sitemapEntries } from "@/lib/site-data";
 import { caliberSlug } from "@/lib/ingest/normalize";
 import { SITE_URL } from "@/lib/site";
 
@@ -8,18 +8,16 @@ import { SITE_URL } from "@/lib/site";
 export const revalidate = 600;
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const catalog = await getCatalog();
-  const brands = catalog.publishedBrands();
-  const models = catalog.publishedModels();
+  const [{ brands, models }, countries, calibers] = await Promise.all([sitemapEntries(), countryCodes(), calibersInUse()]);
   const hubs = [
     ...["diver", "field", "pilot", "gmt", "chronograph", "dress", "racing", "skin_diver", "integrated_bracelet", "tool"].map((s) => `/styles/${s}`),
-    ...[...new Set(brands.map((b) => b.country).filter(Boolean))].map((c) => `/countries/${c!.toLowerCase()}`),
-    ...[...new Set(models.map((m) => m.specs.caliber).filter(Boolean))].map((c) => `/calibers/${caliberSlug(c!)}`),
+    ...countries.map((c) => `/countries/${c.toLowerCase()}`),
+    ...[...new Set(calibers.map(caliberSlug))].map((c) => `/calibers/${c}`),
   ];
   return [
     ...["", "/watches", "/brands", "/for-brands", "/en-punto", "/videos", "/editorial"].map((p) => ({ url: `${SITE_URL}${p}` })),
-    ...brands.map((b) => ({ url: `${SITE_URL}/brands/${b.slug}`, lastModified: b.lastSyncedAt ?? undefined })),
-    ...models.map((m) => ({ url: `${SITE_URL}/brands/${m.brandSlug}/${m.slug}`, lastModified: m.importedAt })),
+    ...brands.map((b) => ({ url: `${SITE_URL}/brands/${b.slug}`, lastModified: b.at ?? undefined })),
+    ...models.map((m) => ({ url: `${SITE_URL}/brands/${m.brand}/${m.slug}`, lastModified: m.at ?? undefined })),
     ...hubs.map((h) => ({ url: `${SITE_URL}${h}` })),
   ];
 }
