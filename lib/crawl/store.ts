@@ -20,7 +20,10 @@ export interface ImageStore {
 export function imageStoreFromEnv(): ImageStore | null {
   const kind = process.env.IMAGE_STORE;
   if (kind === "r2") {
-    const { R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET, R2_PUBLIC_BASE_URL } = process.env;
+    // Trimmed: a pasted key with a trailing newline makes an invalid Authorization header.
+    const env = (k: string) => process.env[k]?.trim() || undefined;
+    const [R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET, R2_PUBLIC_BASE_URL] =
+      ["R2_ACCOUNT_ID", "R2_ACCESS_KEY_ID", "R2_SECRET_ACCESS_KEY", "R2_BUCKET", "R2_PUBLIC_BASE_URL"].map(env);
     if (!R2_ACCOUNT_ID || !R2_ACCESS_KEY_ID || !R2_SECRET_ACCESS_KEY || !R2_BUCKET || !R2_PUBLIC_BASE_URL) throw new Error("IMAGE_STORE=r2 needs R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET, R2_PUBLIC_BASE_URL");
     let client: import("aws4fetch").AwsClient | null = null;
     return {
@@ -80,11 +83,12 @@ export async function mirrorImage(store: ImageStore, sourceUrl: string, keyBase:
     if (!/<svg[\s>]/i.test(r.text) || /<script/i.test(r.text)) return null;
     return { storedUrl: await store.put(`${key}.svg`, bytes, "image/svg+xml"), width: null, height: null };
   }
+  let data: Buffer, info: { width: number; height: number };
   try {
     const img = sharp(bytes, { animated: false, limitInputPixels: 80_000_000 }).rotate().resize({ width: maxPx, height: maxPx, fit: "inside", withoutEnlargement: true });
-    const { data, info } = await img.webp({ quality: 80 }).toBuffer({ resolveWithObject: true });
-    return { storedUrl: await store.put(`${key}.webp`, data, "image/webp"), width: info.width, height: info.height };
+    ({ data, info } = await img.webp({ quality: 80 }).toBuffer({ resolveWithObject: true }));
   } catch {
-    return null;
+    return null; // not a readable image
   }
+  return { storedUrl: await store.put(`${key}.webp`, data, "image/webp"), width: info.width, height: info.height };
 }

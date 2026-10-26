@@ -23,6 +23,7 @@ const limit = Number(arg("limit") ?? Infinity);
 const concurrency = Number(arg("concurrency") ?? 6);
 const maxAgeDays = Number(arg("max-age-days") ?? 0);
 const store = imageStoreFromEnv();
+let storeErrors = 0;
 const imagesOnly = args.includes("--images-only"); // re-mirror images from existing catalogs, no crawl
 
 const root = path.resolve(__dirname, "..");
@@ -83,7 +84,14 @@ async function mirrorAll(cat: BrandCatalog, prev: BrandCatalog | null) {
   const fill = async (img: ImageRef, keyBase: string) => {
     const hit = known.get(img.url);
     if (hit) { img.storedUrl = hit; return; }
-    const m = await mirrorImage(store, img.url, keyBase);
+    let m: Awaited<ReturnType<typeof mirrorImage>> = null;
+    try {
+      m = await mirrorImage(store, img.url, keyBase);
+    } catch (e) {
+      // Storage errors (bad key, outage) must not stop the crawl; the photo stays a link until next run.
+      storeErrors++;
+      if (storeErrors <= 3 || storeErrors % 500 === 0) console.error(`image store error #${storeErrors}: ${String((e as Error).message).slice(0, 200)}`);
+    }
     img.storedUrl = m?.storedUrl ?? null;
     if (m?.width) { img.width = m.width; img.height = m.height; }
   };
