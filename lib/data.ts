@@ -183,7 +183,7 @@ async function loadDbCatalog(): Promise<Catalog> {
       console.error("[catalog] database has no brands yet (run the sync); using the snapshot");
       return localCatalog();
     }
-    const site = await readSiteCatalogs(db);
+    const site = await readSiteCatalogs(db, undefined, { lite: true });
     return new Catalog({ brands: snap.brands, source: "database", syncedAt: snap.syncedAt }, undefined, snap.index, site);
   } catch (e) {
     console.error("[catalog] database read failed; using the snapshot:", (e as Error).message);

@@ -11,6 +11,10 @@ services:
     envVars:
       - key: NODE_VERSION
         value: "22"
+      - key: NODE_OPTIONS
+        value: --max-old-space-size=420
+      - key: CRAWL_CONCURRENCY
+        value: "8"
       - key: DATABASE_URL
         sync: false
       - key: IMAGE_STORE
@@ -35,6 +39,10 @@ services:
     envVars:
       - key: NODE_VERSION
         value: "22"
+      - key: NODE_OPTIONS
+        value: --max-old-space-size=420
+      - key: CRAWL_CONCURRENCY
+        value: "8"
       - key: DATABASE_URL
         sync: false
       - key: IMAGE_STORE

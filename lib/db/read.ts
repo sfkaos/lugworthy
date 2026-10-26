@@ -1,6 +1,6 @@
 // Database -> the shapes the site and API use (Brand, CatalogIndex, BrandCatalog).
 
-import { asc, desc, eq, inArray, isNotNull, sql } from "drizzle-orm";
+import { and, asc, desc, eq, inArray, isNotNull, lt, sql } from "drizzle-orm";
 import * as s from "@/db/schema";
 import type { Availability, BrandCatalog, CatalogCollection, CatalogImage, CatalogIndex, CatalogWatch } from "@/lib/brands/media";
 import type { Brand, BrandFacts } from "@/lib/types";
@@ -92,7 +92,11 @@ export async function readCatalog(db: Db): Promise<DbSnapshot> {
 }
 
 /** Crawls, watches and images in the crawler's file format: all brands, or only `code`. */
-export async function readSiteCatalogs(db: Db, code?: string): Promise<BrandCatalog[]> {
+/**
+ * `lite` is for the site-wide catalog that every page loads: at most 4 images per watch and no
+ * sold-out history, so tens of thousands of watches stay cheap. Brand detail reads use the full form.
+ */
+export async function readSiteCatalogs(db: Db, code?: string, opts: { lite?: boolean } = {}): Promise<BrandCatalog[]> {
   const rows = await db
     .select({ brand: s.brands, crawl: s.brandCrawls })
     .from(s.brandCrawls)
@@ -102,15 +106,27 @@ export async function readSiteCatalogs(db: Db, code?: string): Promise<BrandCata
   const brandIds = rows.map((r) => r.brand.id);
   const watches = await db.select().from(s.siteWatches).where(inArray(s.siteWatches.brandId, brandIds)).orderBy(asc(s.siteWatches.position));
   const watchIds = watches.map((w) => w.id);
+  // Joined on brand rather than listing every watch id, which can exceed Postgres' parameter limit.
   const images = watchIds.length
-    ? await db.select().from(s.siteWatchImages).where(inArray(s.siteWatchImages.watchId, watchIds)).orderBy(asc(s.siteWatchImages.position))
+    ? (await db
+        .select({ img: s.siteWatchImages })
+        .from(s.siteWatchImages)
+        .innerJoin(s.siteWatches, eq(s.siteWatches.id, s.siteWatchImages.watchId))
+        .where(opts.lite
+          ? and(inArray(s.siteWatches.brandId, brandIds), lt(s.siteWatchImages.position, 4))
+          : inArray(s.siteWatches.brandId, brandIds))
+        .orderBy(asc(s.siteWatchImages.position))).map((r) => r.img)
     : [];
-  const events = watchIds.length
+  const events = watchIds.length && !opts.lite
     ? await db.select().from(s.siteWatchAvailabilityEvents).where(inArray(s.siteWatchAvailabilityEvents.brandId, brandIds)).orderBy(asc(s.siteWatchAvailabilityEvents.at))
     : [];
   const cols = await db.select().from(s.siteCollections).where(inArray(s.siteCollections.brandId, brandIds)).orderBy(asc(s.siteCollections.position));
   const links = cols.length
-    ? await db.select().from(s.siteWatchCollections).where(inArray(s.siteWatchCollections.collectionId, cols.map((c) => c.id)))
+    ? (await db
+        .select({ l: s.siteWatchCollections })
+        .from(s.siteWatchCollections)
+        .innerJoin(s.siteCollections, eq(s.siteCollections.id, s.siteWatchCollections.collectionId))
+        .where(inArray(s.siteCollections.brandId, brandIds))).map((r) => r.l)
     : [];
   const collectionIdsFor = new Map<string, string[]>();
   for (const l of links) collectionIdsFor.set(l.watchId, [...(collectionIdsFor.get(l.watchId) ?? []), l.collectionId]);
