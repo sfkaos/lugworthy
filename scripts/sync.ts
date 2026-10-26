@@ -21,5 +21,5 @@ const db = drizzle(client, { schema }) as unknown as Db;
     const rows = args.has("--snapshot") ? snapshotRows() : await fetchSheetRows();
     console.log("sheet:", await recordSync(db, "sheet", () => syncBrandsFromRows(db, rows)));
   }
-  console.log("catalog:", await recordSync(db, "catalog", () => importCatalogDir(db)));
+  console.log("catalog:", await recordSync(db, "catalog", () => importCatalogDir(db, process.env.CATALOG_DIR || undefined)));
 })().finally(() => client.end());
