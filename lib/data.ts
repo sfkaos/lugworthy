@@ -101,16 +101,40 @@ export class Catalog {
     return this.byId.get(id.toUpperCase());
   }
 
+  // Built once per catalog: with tens of thousands of crawled watches, rescanning the list on every
+  // call made pages like /brands (one call per brand) take seconds.
+  private published?: Model[];
+  private byBrand?: Map<string, Model[]>;
+  private byKey?: Map<string, Model>;
+  private byVariant?: Map<string, Model>;
+
+  /** Treat the result as read-only; it's shared. */
   publishedModels(): Model[] {
-    return this.models.filter((m) => m.published && this.bySlug.get(m.brandSlug)?.status === "published");
+    this.published ??= this.models.filter((m) => m.published && this.bySlug.get(m.brandSlug)?.status === "published");
+    return this.published;
   }
 
   modelsForBrand(slug: string): Model[] {
-    return this.publishedModels().filter((m) => m.brandSlug === slug);
+    if (!this.byBrand) {
+      this.byBrand = new Map();
+      for (const m of this.publishedModels()) {
+        const list = this.byBrand.get(m.brandSlug);
+        if (list) list.push(m);
+        else this.byBrand.set(m.brandSlug, [m]);
+      }
+    }
+    return this.byBrand.get(slug) ?? [];
   }
 
   getModel(brandSlug: string, modelSlug: string): Model | undefined {
-    return this.publishedModels().find((m) => m.brandSlug === brandSlug && m.slug === modelSlug);
+    if (!this.byKey) {
+      this.byKey = new Map();
+      for (const m of this.publishedModels()) {
+        const k = `${m.brandSlug}/${m.slug}`;
+        if (!this.byKey.has(k)) this.byKey.set(k, m);
+      }
+    }
+    return this.byKey.get(`${brandSlug}/${modelSlug}`);
   }
 
   getModelById(id: string): Model | undefined {
@@ -119,11 +143,13 @@ export class Catalog {
   }
 
   findVariant(variantId: string) {
-    for (const m of this.publishedModels()) {
-      const v = m.variants.find((x) => x.id === variantId);
-      if (v) return { model: m, variant: v, brand: this.bySlug.get(m.brandSlug)! };
+    if (!this.byVariant) {
+      this.byVariant = new Map();
+      for (const m of this.publishedModels()) for (const v of m.variants) if (!this.byVariant.has(v.id)) this.byVariant.set(v.id, m);
     }
-    return undefined;
+    const model = this.byVariant.get(variantId);
+    const variant = model?.variants.find((x) => x.id === variantId);
+    return model && variant ? { model, variant, brand: this.bySlug.get(model.brandSlug)! } : undefined;
   }
 
   brandOf(m: Model): Brand {
