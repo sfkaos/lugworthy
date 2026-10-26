@@ -7,6 +7,7 @@ import { createHash } from "node:crypto";
 import {
   caliberName, extractSpecsFromText, slugify, toCaseMaterial, toCrystal, toDialColor, toHours, toMinorUnits, toMovementType, toStrapType,
 } from "../ingest/normalize";
+import { finishCollections, listingLinks, normUrl, parseListing, shopifyCollections, wooCollections, type Collection, type CollectionDraft, type WooCategoryRef } from "./collections";
 import { type Availability, extractDetail, schemaAvailability } from "./detail";
 import { allowedGet, getRobots, politeGet, robotsAllowsPath, type FetchResult } from "./fetch";
 import { absUrl, findBrandImage, htmlText, jsonLd, ldImageUrl, ldTypes, load, type BrandImage, type ImageRef } from "./html";
@@ -61,6 +62,8 @@ export interface Watch {
   specs: WatchSpecs;
   /** Every "label: value" spec found on the detail page, as written by the brand. */
   specsRaw: Record<string, string>;
+  /** Collections this watch is listed in on the brand's site; empty when it belongs to none. */
+  collectionIds: string[];
   hash: string;
 }
 
@@ -75,15 +78,17 @@ export interface BrandCatalog {
   attribution: string | null;
   imageRights: "unknown";
   watches: Watch[];
+  collections: Collection[];
   note?: string;
 }
 
 export interface BrandInput { brandId: string; name: string; website: string }
 
-type DraftWatch = Omit<Watch, "id" | "hash" | "availabilityHistory" | "availabilityCheckedAt" | "soldOut" | "available">;
+type DraftWatch = Omit<Watch, "id" | "hash" | "availabilityHistory" | "availabilityCheckedAt" | "soldOut" | "available" | "collectionIds">;
 
 const MAX_WATCHES = Number(process.env.CRAWL_MAX_WATCHES ?? 400);
-const MAX_HTML_PAGES = Number(process.env.CRAWL_MAX_PAGES ?? 60);
+const MAX_HTML_PAGES = Number(process.env.CRAWL_MAX_PAGES ?? 150);
+const MAX_LISTING_PAGES = Number(process.env.CRAWL_MAX_LISTINGS ?? 20);
 const MAX_DETAIL_PAGES = Number(process.env.CRAWL_MAX_DETAIL_PAGES ?? 250);
 
 // ---------- watch vs. accessory ----------
@@ -167,6 +172,7 @@ function finishWatch(brandId: string, w: DraftWatch, seen: Set<string>, checkedA
     available: soldOut == null ? null : !soldOut,
     availabilityCheckedAt: checkedAt,
     availabilityHistory: [{ at: checkedAt, availability: w.availability }],
+    collectionIds: [],
     hash: hashOf({ ...body, images: body.images.map((i) => i.url) }),
   };
 }
@@ -260,7 +266,7 @@ interface WooProduct {
   id: number; name: string; slug: string; permalink: string; description?: string; short_description?: string; is_in_stock?: boolean; is_purchasable?: boolean;
   images?: { src: string }[];
   prices?: { price: string; regular_price?: string; sale_price?: string; currency_code: string; currency_minor_unit: number };
-  categories?: { name: string }[]; tags?: { name: string }[]; type?: string; sku?: string;
+  categories?: WooCategoryRef[]; tags?: { name: string }[]; type?: string; sku?: string;
   attributes?: { name: string; terms?: { name: string }[] }[];
   variations?: { id: number; attributes: { name: string; value: string }[] }[];
 }
@@ -299,7 +305,7 @@ export function mapWooProduct(p: WooProduct): DraftWatch | null {
   };
 }
 
-async function tryWoo(origin: string): Promise<DraftWatch[] | null> {
+async function tryWoo(origin: string): Promise<{ drafts: DraftWatch[]; raw: WooProduct[] } | null> {
   const first = await allowedGet(`${origin}/wp-json/wc/store/v1/products?per_page=100&page=1`, "application/json");
   if (!first || !first.ok || !first.contentType.includes("json")) return null;
   let list: WooProduct[];
@@ -313,12 +319,12 @@ async function tryWoo(origin: string): Promise<DraftWatch[] | null> {
     if (!Array.isArray(list)) throw new Error(`Store API page ${page} was not a list`);
     all.push(...list);
   }
-  return all.map(mapWooProduct).filter((w): w is DraftWatch => !!w).slice(0, MAX_WATCHES);
+  return { drafts: all.map(mapWooProduct).filter((w): w is DraftWatch => !!w).slice(0, MAX_WATCHES), raw: all };
 }
 
 // ---------- Generic HTML (sitemap + JSON-LD) ----------
 
-const PRODUCT_PATH = /\/(products?|produits?|produkte?|productos?|prodotti|prodotto|produtos?|artikel|shop|store|boutique|tienda|negozio|watch(es)?|timepieces?|collections\/[^/]+\/products|montres?|uhren|relojes|orologi|item|p)\/[^/?#]+\/?$/i;
+const PRODUCT_PATH = /\/(products?|produits?|produkte?|productos?|prodotti|prodotto|produtos?|artikel|shop|store|boutique|tienda|negozio|watch(es)?|timepieces?|collections\/[^/]+\/products|montres?|uhren|relojes|orologi|item|p|product-page)\/[^/?#]+\/?$|\/\d+-[a-z0-9-]+\.html$/i;
 // Brands without a shop often have one page per model: /watches/the-carter, /collections/architect.
 const MODEL_PATH = /\/(watches|watch|collections?|models?|timepieces?|montres?|uhren|relojes|orologi|series)\/[^/?#]+\/?$/i;
 const SKIP_PATH = /\/(cart|account|login|blog|news|journal|pages?|policies|search|tag|category|categories|collections?\/?$)/i;
@@ -419,7 +425,7 @@ export function parseProductPage(html: string, pageUrl: string, brandName: strin
   };
 }
 
-async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand: BrandInput): Promise<DraftWatch[]> {
+async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand: BrandInput): Promise<{ drafts: DraftWatch[]; collections: CollectionDraft[] }> {
   const robots = await getRobots(origin);
   const host = new URL(origin).host.replace(/^www\./, "");
   const mapUrls = await sitemapUrls(origin, robots.sitemaps);
@@ -428,10 +434,32 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
   // Prefer English pages when a site lists every locale.
   const foreign = (u: string) => Number(/\/(fr|de|es|it|ja|zh|nl|pt|ko)(-[a-z]{2})?\//i.test(u));
   const homeDom = load(homeHtml);
+
+  // Collection / category listing pages: each is a collection, and its links lead to watches.
+  const listings = [...new Set([...listingLinks(homeDom, homeUrl), ...mapUrls.filter(sameHost).filter((u) => /\/(collections?|categor|product-category|kollektion|collezion|coleccion|series)\//i.test(u))])]
+    .sort((a, b) => foreign(a) - foreign(b))
+    .slice(0, MAX_LISTING_PAGES);
+  const collections: CollectionDraft[] = [];
+  const fromListings: string[] = [];
+  const linksByListing = new Map<CollectionDraft, string[]>();
+  for (const u of listings) {
+    const r = await allowedGet(u);
+    if (!r?.ok || !/html/i.test(r.contentType)) continue;
+    const { draft, links } = parseListing(r.text, r.url, brand.name, PRODUCT_PATH);
+    collections.push(draft);
+    linksByListing.set(draft, links);
+    fromListings.push(...links);
+  }
+
   const seenNames = new Set<string>();
   const out: DraftWatch[] = [];
+  const tried = new Set<string>();
   const run = async (urls: string[], allowModel: boolean) => {
-    for (const u of [...new Set(urls)].sort((a, b) => foreign(a) - foreign(b)).slice(0, MAX_HTML_PAGES)) {
+    for (const u of [...new Set(urls)].sort((a, b) => foreign(a) - foreign(b))) {
+      if (tried.size >= MAX_HTML_PAGES) break;
+      const k = normUrl(u);
+      if (tried.has(k)) continue;
+      tried.add(k);
       const r = await allowedGet(u);
       if (!r?.ok || !/html/i.test(r.contentType)) continue;
       const p = parseProductPage(r.text, r.url, brand.name, allowModel);
@@ -439,15 +467,20 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
       const key = p.name.toLowerCase();
       if (seenNames.has(key)) continue;
       seenNames.add(key);
+      // Listing links point at the requested URL; keep both forms for collection matching.
+      if (normUrl(r.url) !== k) for (const links of linksByListing.values()) if (links.some((l) => normUrl(l) === k)) links.push(r.url);
       out.push(p);
     }
   };
-  await run([...mapUrls.filter(sameHost).filter(pick(PRODUCT_PATH)), ...productUrlsFromHome(homeDom, homeUrl)], false);
+  const productLinks = [...mapUrls.filter(sameHost).filter(pick(PRODUCT_PATH)), ...productUrlsFromHome(homeDom, homeUrl)];
+  // Listing links that look like products first, then the rest (image links can also be banners).
+  await run([...productLinks, ...fromListings.filter(pick(PRODUCT_PATH)), ...fromListings], false);
   if (!out.length) {
     // No shop pages: fall back to one page per model.
-    await run([...productUrlsFromHome(homeDom, homeUrl, MODEL_PATH), ...mapUrls.filter(sameHost).filter(pick(MODEL_PATH))], true);
+    await run([...productUrlsFromHome(homeDom, homeUrl, MODEL_PATH), ...mapUrls.filter(sameHost).filter(pick(MODEL_PATH)), ...fromListings], true);
   }
-  return out;
+  for (const [draft, links] of linksByListing) for (const l of links) draft.memberUrls.add(normUrl(l));
+  return { drafts: out, collections };
 }
 
 // ---------- entry point ----------
@@ -482,6 +515,7 @@ export async function crawlBrand(brand: BrandInput): Promise<BrandCatalog> {
     attribution: null,
     imageRights: "unknown",
     watches: [],
+    collections: [],
   };
   let origin = brand.website ? normalizeSite(brand.website) : null;
   if (!origin) return base;
@@ -501,16 +535,24 @@ export async function crawlBrand(brand: BrandInput): Promise<BrandCatalog> {
 
   let platform: BrandCatalog["platform"] = null;
   let drafts: DraftWatch[] | null = null;
+  let collectionDrafts: CollectionDraft[] = [];
   const isShopify = /cdn\.shopify\.com|Shopify\.shop|shopify-section/i.test(home.text);
   const isWoo = /woocommerce|wp-content\/plugins\/woocommerce/i.test(home.text);
 
   if (isShopify || !isWoo) {
     drafts = await tryShopify(origin, shopifyCurrency(home.text, $));
-    if (drafts) platform = "shopify";
+    if (drafts) {
+      platform = "shopify";
+      if (drafts.length) collectionDrafts = await shopifyCollections(origin);
+    }
   }
   if (!drafts && isWoo) {
-    drafts = await tryWoo(origin);
-    if (drafts) platform = "woocommerce";
+    const woo = await tryWoo(origin);
+    if (woo) {
+      platform = "woocommerce";
+      drafts = woo.drafts;
+      if (drafts.length) collectionDrafts = await wooCollections(origin, woo.raw);
+    }
   }
   if (drafts?.length) {
     // Storefront APIs give the list; the detail pages add the full spec sheet.
@@ -519,11 +561,12 @@ export async function crawlBrand(brand: BrandInput): Promise<BrandCatalog> {
     drafts = enriched;
   } else {
     const html = await tryHtml(origin, home.text, home.url, brand);
-    if (html.length || !drafts) { drafts = html; platform = platform ?? "html"; }
+    if (html.drafts.length || !drafts) { drafts = html.drafts; collectionDrafts = html.collections; platform = platform ?? "html"; }
   }
 
   const seen = new Set<string>();
   const watches = drafts.map((d) => finishWatch(brand.brandId, d, seen, checkedAt)).filter((w): w is Watch => !!w);
+  const collections = finishCollections(brand.brandId, collectionDrafts, watches);
   return {
     ...base,
     website: origin,
@@ -532,6 +575,7 @@ export async function crawlBrand(brand: BrandInput): Promise<BrandCatalog> {
     brandImage,
     attribution: `Images © ${brand.name}, from ${domain}`,
     watches,
+    collections,
   };
 }
 

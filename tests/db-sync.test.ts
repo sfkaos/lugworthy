@@ -8,7 +8,7 @@ import { drizzle } from "drizzle-orm/pglite";
 import { migrate } from "drizzle-orm/pglite/migrator";
 import { beforeAll, describe, expect, it } from "vitest";
 import * as s from "@/db/schema";
-import { findBrand, queryBrands, parseBrandQuery, apiWatches } from "@/lib/brands/api";
+import { findBrand, queryBrands, parseBrandQuery, apiWatches, apiCollections } from "@/lib/brands/api";
 import { snapshotRows } from "@/lib/brands/source";
 import { Catalog, snapshotCatalog } from "@/lib/data";
 import type { Db } from "@/lib/db/client";
@@ -95,11 +95,12 @@ describe("catalog import", () => {
     file("BRD-0348", {
       brandName: "Lorier", website: "https://lorierwatches.com", attribution: "Images © Lorier, from lorierwatches.com",
       brandImage: { url: "https://lorierwatches.com/logo.png", kind: "logo", sourcePage: "https://lorierwatches.com/", width: 400, height: 100 },
-      watches: [watch("falcon", 3), watch("hydra", 1)],
+      collections: [{ id: "BRD-0348/divers", name: "Divers", url: "https://lorierwatches.com/collections/divers", description: null, image: null }],
+      watches: [{ ...watch("falcon", 3), collectionIds: ["BRD-0348/divers"] }, watch("hydra", 1)],
     });
 
     const r = await importCatalogDir(db, dir);
-    expect(r).toEqual({ brands: 1, watches: 2, images: 4, skipped: ["BRD-9999"] });
+    expect(r).toEqual({ brands: 1, watches: 2, images: 4, collections: 1, skipped: ["BRD-9999"] });
     // A second import replaces, not duplicates.
     expect((await importCatalogDir(db, dir)).images).toBe(4);
 
@@ -126,6 +127,15 @@ describe("catalog import", () => {
     expect(hydra.availabilityHistory?.map((e) => e.availability)).toEqual(["in_stock", "sold_out"]);
     expect(c.mediaFor("BRD-0348")?.soldOutCount).toBe(1);
     expect(apiWatches(lorier, detail, "all", true).data.map((w) => w.name)).toEqual(["hydra"]);
+
+    // Collections: optional membership.
+    expect(detail!.collections?.map((x) => x.name)).toEqual(["Divers"]);
+    expect(falcon.collectionIds).toEqual(["BRD-0348/divers"]);
+    expect(hydra.collectionIds).toEqual([]);
+    expect(apiWatches(lorier, detail, "all", undefined, "divers").data.map((w) => w.name)).toEqual(["falcon"]);
+    const cols = apiCollections(lorier, detail, "all");
+    expect(cols.data[0].watchCount).toBe(1);
+    expect(cols.meta.watchesWithoutCollection).toBe(1);
   }, 60_000);
 
   it("keeps availability history when watches are replaced", async () => {

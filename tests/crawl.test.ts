@@ -1,3 +1,4 @@
+import { finishCollections, keepCollection, normUrl, parseListing } from "../lib/crawl/collections";
 import { describe, expect, it } from "vitest";
 import { looksLikeWatch, mapShopifyProduct, mergeWithPrevious, specsFrom, stripSiteSuffix, type BrandCatalog } from "../lib/crawl/catalog";
 import { extractDetail, extractSpecPairs } from "../lib/crawl/detail";
@@ -93,5 +94,36 @@ describe("helpers", () => {
     expect(mergeWithPrevious(cur, prev).watches[0].availabilityHistory).toEqual([
       { at: "2026-10-01", availability: "sold_out" }, { at: "2026-10-08", availability: "in_stock" },
     ]);
+  });
+});
+
+describe("collections", () => {
+  it("drops catch-all groupings", () => {
+    expect(keepCollection("all", "All")).toBe(false);
+    expect(keepCollection("straps", "Straps")).toBe(false);
+    expect(keepCollection("hydra-series", "Hydra Series")).toBe(true);
+  });
+
+  it("reads a listing page as a collection with its product links", () => {
+    const html = `<html><head><title>Divers | Brand</title><meta name="description" content="Our dive watches"></head><body>
+      <h1>Divers</h1><a href="/products/falcon"><img src="a.jpg"></a><a href="/products/hydra">Hydra</a><a href="/blog/x"><img src="b.jpg"></a></body></html>`;
+    const { draft, links } = parseListing(html, "https://brand.com/collections/divers", "Brand", /\/products\//);
+    expect(draft.name).toBe("Divers");
+    expect(draft.description).toBe("Our dive watches");
+    expect(links.sort()).toEqual(["https://brand.com/products/falcon", "https://brand.com/products/hydra"]);
+  });
+
+  it("keeps only collections with crawled watches; a watch may have none or several", () => {
+    const watches = [
+      { id: "BRD-0001/a", url: "https://brand.com/products/a", collectionIds: [] as string[] },
+      { id: "BRD-0001/b", url: "https://www.brand.com/products/b?variant=1", collectionIds: [] as string[] },
+      { id: "BRD-0001/c", url: "https://brand.com/products/c", collectionIds: [] as string[] },
+    ];
+    const d = (slug: string, urls: string[]) => ({ slug, name: slug, url: null, description: null, image: null, memberUrls: new Set(urls.map(normUrl)) });
+    const cols = finishCollections("BRD-0001", [d("divers", ["https://brand.com/products/a", "https://brand.com/products/b"]), d("field", ["https://brand.com/products/a"]), d("empty", ["https://brand.com/products/zzz"])], watches);
+    expect(cols.map((c) => c.id)).toEqual(["BRD-0001/divers", "BRD-0001/field"]);
+    expect(watches[0].collectionIds).toEqual(["BRD-0001/divers", "BRD-0001/field"]);
+    expect(watches[1].collectionIds).toEqual(["BRD-0001/divers"]);
+    expect(watches[2].collectionIds).toEqual([]);
   });
 });

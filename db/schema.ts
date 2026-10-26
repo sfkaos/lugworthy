@@ -169,6 +169,25 @@ export const siteWatchImages = pgTable("site_watch_images", {
   height: integer("height"),
 }, (t) => [primaryKey({ columns: [t.watchId, t.position] })]);
 
+/** Collections (model families, series, categories) found on a brand's own website. id is "BRD-0001/<slug>". */
+export const siteCollections = pgTable("site_collections", {
+  id: text("id").primaryKey(),
+  brandId: uuid("brand_id").notNull().references(() => brands.id, { onDelete: "cascade" }),
+  name: text("name").notNull(),
+  url: text("url"),
+  description: text("description"),
+  imageUrl: text("image_url"),
+  imageStoredUrl: text("image_stored_url"),
+  position: integer("position").notNull().default(0),
+  crawledAt: timestamp("crawled_at", { withTimezone: true }).notNull(),
+}, (t) => [index("site_collections_brand").on(t.brandId)]);
+
+/** Which collections a watch belongs to. Optional: a watch can belong to none, one or several. */
+export const siteWatchCollections = pgTable("site_watch_collections", {
+  watchId: text("watch_id").notNull().references(() => siteWatches.id, { onDelete: "cascade" }),
+  collectionId: text("collection_id").notNull().references(() => siteCollections.id, { onDelete: "cascade" }),
+}, (t) => [primaryKey({ columns: [t.watchId, t.collectionId] }), index("site_watch_collections_collection").on(t.collectionId)]);
+
 /** One row per sync run (sheet or catalog), for troubleshooting. */
 export const dataSyncs = pgTable("data_syncs", {
   id: id(),

@@ -2,7 +2,7 @@
 
 import { asc, desc, eq, inArray, isNotNull, sql } from "drizzle-orm";
 import * as s from "@/db/schema";
-import type { Availability, BrandCatalog, CatalogImage, CatalogIndex, CatalogWatch } from "@/lib/brands/media";
+import type { Availability, BrandCatalog, CatalogCollection, CatalogImage, CatalogIndex, CatalogWatch } from "@/lib/brands/media";
 import type { Brand, BrandFacts } from "@/lib/types";
 import type { Db } from "./client";
 
@@ -108,6 +108,18 @@ export async function readSiteCatalogs(db: Db, code?: string): Promise<BrandCata
   const events = watchIds.length
     ? await db.select().from(s.siteWatchAvailabilityEvents).where(inArray(s.siteWatchAvailabilityEvents.brandId, brandIds)).orderBy(asc(s.siteWatchAvailabilityEvents.at))
     : [];
+  const cols = await db.select().from(s.siteCollections).where(inArray(s.siteCollections.brandId, brandIds)).orderBy(asc(s.siteCollections.position));
+  const links = cols.length
+    ? await db.select().from(s.siteWatchCollections).where(inArray(s.siteWatchCollections.collectionId, cols.map((c) => c.id)))
+    : [];
+  const collectionIdsFor = new Map<string, string[]>();
+  for (const l of links) collectionIdsFor.set(l.watchId, [...(collectionIdsFor.get(l.watchId) ?? []), l.collectionId]);
+  const collectionsFor = new Map<string, CatalogCollection[]>();
+  for (const c of cols) {
+    const list = collectionsFor.get(c.brandId) ?? [];
+    list.push({ id: c.id, name: c.name, url: c.url, description: c.description, image: c.imageUrl ? { url: c.imageUrl, storedUrl: c.imageStoredUrl, width: null, height: null } : null });
+    collectionsFor.set(c.brandId, list);
+  }
   const historyFor = new Map<string, { at: string; availability: Availability }[]>();
   for (const e of events) {
     const list = historyFor.get(e.watchId) ?? [];
@@ -131,6 +143,7 @@ export async function readSiteCatalogs(db: Db, code?: string): Promise<BrandCata
       availabilityCheckedAt: w.availabilityCheckedAt?.toISOString() ?? null, availabilityHistory: historyFor.get(w.id) ?? [],
       description: w.description, productType: w.productType, tags: w.tags, options: w.options,
       variants: w.variants as NonNullable<CatalogWatch["variants"]>, specsRaw: w.specsRaw,
+      collectionIds: collectionIdsFor.get(w.id) ?? [],
     });
     watchesFor.set(w.brandId, list);
   }
@@ -146,6 +159,7 @@ export async function readSiteCatalogs(db: Db, code?: string): Promise<BrandCata
       : null,
     attribution: c.attribution,
     imageRights: c.imageRights,
+    collections: collectionsFor.get(brand.id) ?? [],
     watches: watchesFor.get(brand.id) ?? [],
   }));
 }

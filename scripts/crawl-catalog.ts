@@ -59,7 +59,7 @@ async function one(b: BrandInput) {
   try {
     cat = await crawlBrand(b);
   } catch (e) {
-    cat = { brandId: b.brandId, brandName: b.name, website: b.website || null, crawledAt: new Date().toISOString(), status: "unreachable", platform: null, brandImage: null, attribution: null, imageRights: "unknown", watches: [], note: String((e as Error).message).slice(0, 200) };
+    cat = { brandId: b.brandId, brandName: b.name, website: b.website || null, crawledAt: new Date().toISOString(), status: "unreachable", platform: null, brandImage: null, attribution: null, imageRights: "unknown", collections: [], watches: [], note: String((e as Error).message).slice(0, 200) };
   }
   const prev = readPrev(b.brandId);
   // Keep the last good data when a site is temporarily down.
