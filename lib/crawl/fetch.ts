@@ -2,7 +2,7 @@
 // respected (longest-match Allow/Disallow), one request at a time per host with
 // a minimum gap, back-off on 429/503, and a hard timeout.
 
-export const UA = `LugworthyBot/0.2 (+https://lugworthy.vercel.app/for-brands; ${process.env.INGEST_CONTACT_EMAIL ?? "hello@lugworthy.com"})`;
+export const UA = `LugworthyBot/0.2 (+https://lugworthy.com/for-brands; ${process.env.INGEST_CONTACT_EMAIL ?? "hello@lugworthy.com"})`;
 
 const MIN_GAP_MS = Number(process.env.CRAWL_GAP_MS ?? 1500);
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
