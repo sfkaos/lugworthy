@@ -36,16 +36,15 @@ export async function generateMetadata({ params }: { params: P }): Promise<Metad
   };
 }
 
-export default async function ModelPage({ params, searchParams }: { params: P; searchParams: Promise<{ v?: string }> }) {
+// Cached (ISR). The picked variant (?v=) is applied in the browser by ModelPurchase.
+export default async function ModelPage({ params }: { params: P }) {
   const { brand: bSlug, model: mSlug } = await params;
-  const { v } = await searchParams;
   const catalog = await getCatalog();
   const model = await getModelDetail(bSlug, mSlug);
   const brand = catalog.getBrand(bSlug);
   if (!model || !brand) notFound();
   const t = await getTranslations();
   const s = model.specs;
-  const initial = Math.min(Math.max(Number(v ?? 0) || 0, 0), model.variants.length - 1);
   const more = catalog.modelsForBrand(brand.slug).filter((m) => m.slug !== model.slug).slice(0, 4);
   const similar = catalog.similarModels(model);
   const fit = wristFit(s.lugToLugMm);
@@ -111,7 +110,7 @@ export default async function ModelPage({ params, searchParams }: { params: P; s
               </p>
               {fit && <p className="mt-2 text-sm text-muted">{t("model.fits", fit)}</p>}
             </div>
-            <ModelPurchase variants={model.variants} initialIndex={initial} brandName={brand.name} compareId={modelId(model)} modelName={model.name} status={model.status} />
+            <ModelPurchase variants={model.variants} brandName={brand.name} compareId={modelId(model)} modelName={model.name} status={model.status} />
             {model.origin === "site" && (
               <div className="flex flex-col gap-3 text-sm">
                 {model.availabilityCheckedAt && (

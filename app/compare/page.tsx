@@ -68,7 +68,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
     <div className="mx-auto max-w-7xl px-4 py-8">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
         <h1 className="text-3xl font-semibold">{t("compare.title")}</h1>
-        <Link href={toggleHref} className="chip" role="switch" aria-checked={onlyDiff} style={onlyDiff ? { borderColor: "var(--text)", fontWeight: 600 } : undefined}>
+        <Link href={toggleHref} className="chip" role="switch" aria-checked={onlyDiff}>
           <span aria-hidden className="inline-block h-3 w-3 rounded-sm border border-ink" style={{ background: onlyDiff ? "var(--text)" : "transparent" }} />
           {t("compare.onlyDiff")}
         </Link>

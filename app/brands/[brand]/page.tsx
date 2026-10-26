@@ -3,7 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { BrandLogo } from "@/components/BrandLogo";
-import { ModelGrid } from "@/components/ModelCard";
+import { ModelCard } from "@/components/ModelCard";
+import { StyleFilteredGrid } from "@/components/StyleFilteredGrid";
 import { countryName } from "@/lib/countries";
 import { getCatalog, minPriceUsd } from "@/lib/data";
 import { metres, mm, money, shortDate } from "@/lib/format";
@@ -35,16 +36,15 @@ function range(vals: (number | null)[], fmt: (v: number) => string | null) {
   return lo === hi ? fmt(lo) : `${fmt(lo)} – ${fmt(hi)}`;
 }
 
-export default async function BrandPage({ params, searchParams }: { params: P; searchParams: Promise<{ style?: string }> }) {
+// Cached (ISR). The ?style= chips filter in the browser, so the page never needs the query string.
+export default async function BrandPage({ params }: { params: P }) {
   const { brand: slug } = await params;
-  const { style } = await searchParams;
   const catalog = await getCatalog();
   const brand = catalog.getBrand(slug);
   if (!brand) notFound();
   const t = await getTranslations();
   const models = catalog.modelsForBrand(slug);
   const styles = [...new Set(models.flatMap((m) => m.styles))].filter((s) => s !== "other");
-  const shown = style ? models.filter((m) => m.styles.includes(style as never)) : models;
   const place = [brand.city, brand.country ? countryName(brand.country) : brand.countryLabel].filter(Boolean).join(", ");
   const priceMin = models.length ? Math.min(...models.map(minPriceUsd)) : brand.priceMin;
   const priceMax = models.length ? Math.max(...models.flatMap((m) => m.variants.map((v) => v.priceUsd))) : brand.priceMax;
@@ -129,15 +129,13 @@ export default async function BrandPage({ params, searchParams }: { params: P; s
                 </p>
               )}
             </div>
-            {styles.length > 1 && (
-              <nav aria-label="Collections" className="mb-4 flex flex-wrap gap-2">
-                <Link scroll={false} href={`/brands/${slug}`} className="chip" aria-current={!style ? "page" : undefined} style={!style ? { borderColor: "var(--text)", fontWeight: 600 } : undefined}>{t("brand.filterAll")}</Link>
-                {styles.map((s) => (
-                  <Link scroll={false} key={s} href={`/brands/${slug}?style=${s}`} className="chip" aria-current={style === s ? "page" : undefined} style={style === s ? { borderColor: "var(--text)", fontWeight: 600 } : undefined}>{t(`enum.style.${s}`)}</Link>
-                ))}
-              </nav>
-            )}
-            {shown.length ? <ModelGrid models={shown} showBrand={false} /> : <p className="card p-6 text-muted">{t("brand.noModels", { brand: brand.name })}</p>}
+              <StyleFilteredGrid
+                basePath={`/brands/${slug}`}
+                allLabel={t("brand.filterAll")}
+                styles={styles.map((s) => ({ value: s, label: t(`enum.style.${s}`) }))}
+                items={models.map((m) => ({ key: m.slug, styles: m.styles, node: <ModelCard model={m} showBrand={false} /> }))}
+                empty={<p className="card p-6 text-muted">{t("brand.noModels", { brand: brand.name })}</p>}
+              />
           </section>
 
           <section className="mt-10" aria-labelledby="videos-h">

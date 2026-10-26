@@ -1,6 +1,8 @@
+import Form from "next/form";
 import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { Logo } from "./Logo";
+import { NavLinks } from "./NavLinks";
 
 export function Header() {
   const t = useTranslations("nav");
@@ -21,17 +23,13 @@ export function Header() {
         <Link href="/" aria-label="Lugworthy home" className="shrink-0">
           <Logo />
         </Link>
-        <nav aria-label="Main" className="order-3 -mx-1 flex w-full gap-1 overflow-x-auto md:order-none md:w-auto">
-          {links.map(([href, label]) => (
-            <Link key={href} href={href} className="whitespace-nowrap rounded-md px-2 py-1.5 text-sm font-medium text-muted hover:bg-surface-2 hover:text-ink">
-              {label}
-            </Link>
-          ))}
+        <nav aria-label="Main" className="order-3 -mx-1 flex w-full gap-0.5 overflow-x-auto md:order-none md:w-auto">
+          <NavLinks links={links} />
         </nav>
-        <form action="/search" role="search" className="ml-auto flex min-w-0 flex-1 md:max-w-xs">
+        <Form action="/search" role="search" className="ml-auto flex min-w-0 flex-1 md:max-w-xs">
           <label htmlFor="site-search" className="sr-only">{t("search")}</label>
           <input id="site-search" name="q" type="search" placeholder={t("searchPlaceholder")} className="input h-9 min-h-9 text-sm" />
-        </form>
+        </Form>
       </div>
     </header>
   );

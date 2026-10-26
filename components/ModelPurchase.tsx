@@ -1,14 +1,13 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { money } from "@/lib/format";
 import type { Variant } from "@/lib/types";
 import { CompareButton } from "./CompareButton";
 
 interface Props {
   variants: Variant[];
-  initialIndex: number;
   brandName: string;
   compareId: string;
   modelName?: string;
@@ -16,12 +15,24 @@ interface Props {
 }
 
 /** Variant picker + price + stock + buy (FR-4). Updates ?v= with replaceState, no reload. */
-export function ModelPurchase({ variants, initialIndex, brandName, compareId, modelName, status }: Props) {
+export function ModelPurchase({ variants, brandName, compareId, modelName, status }: Props) {
   const t = useTranslations();
-  const [idx, setIdx] = useState(initialIndex);
+  // The page is cached without the query string, so ?v= is read here once the page is in the browser.
+  const [idx, setIdx] = useState(0);
   const v = variants[idx] ?? variants[0];
+  const urlRead = useRef(false);
 
   useEffect(() => {
+    const n = Number(new URLSearchParams(window.location.search).get("v"));
+    if (Number.isInteger(n) && n > 0 && n < variants.length) setIdx(n);
+  }, [variants.length]);
+
+  useEffect(() => {
+    // Don't rewrite the URL before ?v= has been read.
+    if (!urlRead.current) {
+      urlRead.current = true;
+      return;
+    }
     const url = new URL(window.location.href);
     if (idx === 0) url.searchParams.delete("v");
     else url.searchParams.set("v", String(idx));
@@ -61,7 +72,7 @@ export function ModelPurchase({ variants, initialIndex, brandName, compareId, mo
             {variants.map((x, i) => (
               <label
                 key={x.id}
-                className="flex cursor-pointer items-center justify-between gap-3 rounded-md border px-3 py-2 text-sm"
+                className="flex cursor-pointer items-center justify-between gap-3 rounded-md border px-3 py-2 text-sm transition-colors hover:bg-surface-2"
                 style={{ borderColor: i === idx ? "var(--text)" : "var(--border)" }}
               >
                 <span className="flex items-center gap-2">

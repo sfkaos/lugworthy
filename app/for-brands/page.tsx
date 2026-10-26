@@ -5,10 +5,9 @@ import { getCatalog } from "@/lib/data";
 
 export const metadata: Metadata = { title: "For brands", alternates: { canonical: "/for-brands" } };
 
-export default async function ForBrands({ searchParams }: { searchParams: Promise<{ brand?: string }> }) {
+export default async function ForBrands() {
   const catalog = await getCatalog();
   const t = await getTranslations("forBrands");
-  const { brand } = await searchParams;
   const brands = catalog.publishedBrands().map((b) => ({ slug: b.slug, name: b.name }));
   return (
     <div className="mx-auto grid max-w-6xl gap-10 px-4 py-10 md:grid-cols-[1.3fr_1fr]">
@@ -28,7 +27,7 @@ export default async function ForBrands({ searchParams }: { searchParams: Promis
       <section className="card h-fit p-5" aria-labelledby="claim-h">
         <h2 id="claim-h" className="text-xl font-semibold">{t("formTitle")}</h2>
         <p className="mb-4 mt-1 text-sm text-muted">{t("formNote")}</p>
-        <ClaimForm brands={brands} initial={brand} />
+        <ClaimForm brands={brands} />
       </section>
     </div>
   );
