@@ -4,24 +4,26 @@ import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { CaseOutline } from "@/components/CaseOutline";
 import { ModelGrid } from "@/components/ModelCard";
+import { ModelGallery } from "@/components/ModelGallery";
 import { ModelPurchase } from "@/components/ModelPurchase";
 import { SpecTable, specRows } from "@/components/SpecTable";
-import { getBrand, getModel, modelId, modelsForBrand, publishedModels, similarModels } from "@/lib/data";
+import { getCatalog, modelId } from "@/lib/data";
 import { mm, shortDate, wristFit } from "@/lib/format";
 import { SITE_URL, jsonLd } from "@/lib/site";
 import { brandThemeStyle } from "@/lib/theme";
 
 type P = Promise<{ brand: string; model: string }>;
 
-export function generateStaticParams() {
-  return publishedModels().map((m) => ({ brand: m.brandSlug, model: m.slug }));
+export async function generateStaticParams() {
+  const catalog = await getCatalog();
+  return catalog.publishedModels().map((m) => ({ brand: m.brandSlug, model: m.slug }));
 }
-export const dynamicParams = false;
 
 export async function generateMetadata({ params }: { params: P }): Promise<Metadata> {
   const { brand, model } = await params;
-  const m = getModel(brand, model);
-  const b = getBrand(brand);
+  const catalog = await getCatalog();
+  const m = catalog.getModel(brand, model);
+  const b = catalog.getBrand(brand);
   if (!m || !b) return {};
   const s = m.specs;
   const bits = [mm(s.caseDiameterMm), s.caliber, s.waterResistanceM ? `${s.waterResistanceM} m` : null].filter(Boolean).join(", ");
@@ -36,15 +38,18 @@ export async function generateMetadata({ params }: { params: P }): Promise<Metad
 export default async function ModelPage({ params, searchParams }: { params: P; searchParams: Promise<{ v?: string }> }) {
   const { brand: bSlug, model: mSlug } = await params;
   const { v } = await searchParams;
-  const model = getModel(bSlug, mSlug);
-  const brand = getBrand(bSlug);
+  const catalog = await getCatalog();
+  const model = catalog.getModel(bSlug, mSlug);
+  const brand = catalog.getBrand(bSlug);
   if (!model || !brand) notFound();
   const t = await getTranslations();
   const s = model.specs;
   const initial = Math.min(Math.max(Number(v ?? 0) || 0, 0), model.variants.length - 1);
-  const more = modelsForBrand(brand.slug).filter((m) => m.slug !== model.slug).slice(0, 4);
-  const similar = similarModels(model);
+  const more = catalog.modelsForBrand(brand.slug).filter((m) => m.slug !== model.slug).slice(0, 4);
+  const similar = catalog.similarModels(model);
   const fit = wristFit(s.lugToLugMm);
+  const history = model.availabilityHistory ?? [];
+  const rawSpecs = Object.entries(model.specsRaw ?? {}).filter(([k, v]) => k.trim() && v.trim() && k !== v && v.length < 300);
   const url = `${SITE_URL}/brands/${brand.slug}/${model.slug}`;
 
   const props = specRows(model, t).flatMap((g) => g.rows).filter((r) => r.value).map((r) => ({ "@type": "PropertyValue", name: t(`spec.${r.key}`), value: r.value }));
@@ -55,6 +60,8 @@ export default async function ModelPage({ params, searchParams }: { params: P; s
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd([
         {
           "@context": "https://schema.org", "@type": "Product", name: `${brand.name} ${model.name}`, url,
+          image: model.images?.length ? model.images.slice(0, 5).map((i) => i.url) : undefined,
+          description: model.description ?? undefined,
           brand: { "@type": "Brand", name: brand.name }, sku: model.variants[0]?.sku ?? undefined,
           additionalProperty: props,
           offers: {
@@ -77,7 +84,10 @@ export default async function ModelPage({ params, searchParams }: { params: P; s
         </nav>
 
         <div className="grid gap-8 lg:grid-cols-[1.1fr_1fr]">
-          {/* Gallery placeholder: no brand images until the brand grants a license (doc 08). */}
+          {/* Photos from the brand's site when shown; otherwise the to-scale outline (doc 08). */}
+          {model.images?.length ? (
+            <ModelGallery images={model.images} name={`${brand.name} ${model.name}`} credit={model.imageCredit ?? null} />
+          ) : (
           <figure className="card flex flex-col items-center justify-center gap-3 bg-surface-2 p-6 text-muted">
             <CaseOutline diameter={s.caseDiameterMm} lugToLug={s.lugToLugMm} lugWidth={s.lugWidthMm} className="aspect-square w-full max-w-md" />
             <figcaption className="text-center text-sm">
@@ -86,6 +96,7 @@ export default async function ModelPage({ params, searchParams }: { params: P; s
               <span className="text-xs">{t("card.noImage", { brand: brand.name })}</span>
             </figcaption>
           </figure>
+          )}
 
           <div className="flex flex-col gap-5">
             <div>
@@ -100,15 +111,55 @@ export default async function ModelPage({ params, searchParams }: { params: P; s
               {fit && <p className="mt-2 text-sm text-muted">{t("model.fits", fit)}</p>}
             </div>
             <ModelPurchase variants={model.variants} initialIndex={initial} brandName={brand.name} compareId={modelId(model)} status={model.status} />
+            {model.origin === "site" && (
+              <div className="flex flex-col gap-3 text-sm">
+                {model.availabilityCheckedAt && (
+                  <p className="text-muted">
+                    {t("model.checked", { date: shortDate(model.availabilityCheckedAt) })}
+                    {history.length > 1 && (
+                      <> · {t("model.history")}: {history.map((h) => `${t(`model.avail.${h.availability}` as never)} (${shortDate(h.at)})`).join(" → ")}</>
+                    )}
+                  </p>
+                )}
+                {model.options?.filter((o) => o.values.length > 1).map((o) => (
+                  <p key={o.name}><span className="font-semibold">{o.name}:</span> {o.values.join(", ")}</p>
+                ))}
+                {model.sourceUrl && <a className="link self-start" href={model.sourceUrl} rel="noopener" target="_blank">{t("model.viewOnSite", { brand: brand.name })}</a>}
+              </div>
+            )}
           </div>
         </div>
+
+        {model.description && (
+          <section className="mt-12 max-w-prose" aria-labelledby="about-h">
+            <h2 id="about-h" className="mb-2 text-2xl font-semibold">{t("model.about", { brand: brand.name })}</h2>
+            <p className="whitespace-pre-line leading-relaxed">{model.description}</p>
+          </section>
+        )}
 
         <section className="mt-12" aria-labelledby="specs-h">
           <h2 id="specs-h" className="mb-1 text-2xl font-semibold">{t("model.specs")}</h2>
           {!model.reviewed && (
-            <p className="mb-4 max-w-3xl text-sm text-muted">{t("model.importedNote", { brand: brand.name, date: shortDate(model.importedAt) })}</p>
+            <p className="mb-4 max-w-3xl text-sm text-muted">
+              {model.origin === "site"
+                ? t("model.siteNote", { brand: brand.name, date: shortDate(model.importedAt) })
+                : t("model.importedNote", { brand: brand.name, date: shortDate(model.importedAt) })}
+            </p>
           )}
           <SpecTable model={model} />
+          {rawSpecs.length > 0 && (
+            <details className="mt-6 max-w-3xl">
+              <summary className="cursor-pointer font-semibold">{t("model.allSpecs", { brand: brand.name })}</summary>
+              <dl className="mt-3 grid grid-cols-[minmax(8rem,auto)_1fr] gap-x-4 gap-y-1.5 text-sm">
+                {rawSpecs.map(([k, v]) => (
+                  <div key={k} className="contents">
+                    <dt className="text-muted">{k}</dt>
+                    <dd>{v}</dd>
+                  </div>
+                ))}
+              </dl>
+            </details>
+          )}
         </section>
 
         <section className="mt-12" aria-labelledby="vid-h">

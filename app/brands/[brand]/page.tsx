@@ -2,22 +2,23 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
+import { BrandLogo } from "@/components/BrandLogo";
 import { ModelGrid } from "@/components/ModelCard";
 import { countryName } from "@/lib/countries";
-import { getBrand, minPriceUsd, modelsForBrand, publishedBrands } from "@/lib/data";
+import { getCatalog, minPriceUsd } from "@/lib/data";
 import { metres, mm, money, shortDate } from "@/lib/format";
 import { EXHIBIT_URL, SITE_URL, jsonLd } from "@/lib/site";
 import { brandThemeStyle } from "@/lib/theme";
 
 type P = Promise<{ brand: string }>;
 
-export function generateStaticParams() {
-  return publishedBrands().map((b) => ({ brand: b.slug }));
+export async function generateStaticParams() {
+  const catalog = await getCatalog();
+  return catalog.publishedBrands().map((b) => ({ brand: b.slug }));
 }
-export const dynamicParams = false;
 
 export async function generateMetadata({ params }: { params: P }): Promise<Metadata> {
-  const b = getBrand((await params).brand);
+  const b = (await getCatalog()).getBrand((await params).brand);
   if (!b) return {};
   const where = [b.city, b.country ? countryName(b.country) : null].filter(Boolean).join(", ");
   return {
@@ -37,10 +38,11 @@ function range(vals: (number | null)[], fmt: (v: number) => string | null) {
 export default async function BrandPage({ params, searchParams }: { params: P; searchParams: Promise<{ style?: string }> }) {
   const { brand: slug } = await params;
   const { style } = await searchParams;
-  const brand = getBrand(slug);
+  const catalog = await getCatalog();
+  const brand = catalog.getBrand(slug);
   if (!brand) notFound();
   const t = await getTranslations();
-  const models = modelsForBrand(slug);
+  const models = catalog.modelsForBrand(slug);
   const styles = [...new Set(models.flatMap((m) => m.styles))].filter((s) => s !== "other");
   const shown = style ? models.filter((m) => m.styles.includes(style as never)) : models;
   const place = [brand.city, brand.country ? countryName(brand.country) : brand.countryLabel].filter(Boolean).join(", ");
@@ -86,9 +88,7 @@ export default async function BrandPage({ params, searchParams }: { params: P; s
             <Link className="link" href="/brands">{t("nav.brands")}</Link> <span aria-hidden>/</span> {brand.name}
           </nav>
           <div className="flex flex-wrap items-center gap-4">
-            <span aria-hidden className="flex h-16 w-16 items-center justify-center rounded-lg border border-line-strong bg-surface font-serif text-3xl text-ink">
-              {brand.name.charAt(0).toUpperCase()}
-            </span>
+            <BrandLogo name={brand.name} url={catalog.logoFor(brand)} size="lg" />
             <div>
               <h1 className="font-serif text-4xl font-semibold tracking-tight">{brand.name}</h1>
               <p className="mt-1 opacity-80">
@@ -121,7 +121,13 @@ export default async function BrandPage({ params, searchParams }: { params: P; s
           <section aria-labelledby="models-h">
             <div className="mb-3 flex flex-wrap items-baseline justify-between gap-2">
               <h2 id="models-h" className="text-xl font-semibold">{t("brand.models")} <span className="tabular text-base font-normal text-muted">({models.length})</span></h2>
-              {brand.lastSyncedAt && <p className="text-xs text-muted">{t("brand.lastSync", { date: shortDate(brand.lastSyncedAt) })}</p>}
+              {brand.lastSyncedAt && (
+                <p className="text-xs text-muted">
+                  {models.some((m) => m.origin === "site")
+                    ? t("brand.fromSite", { date: shortDate(brand.lastSyncedAt), soldOut: models.filter((m) => !m.variants.some((v) => v.available)).length })
+                    : t("brand.lastSync", { date: shortDate(brand.lastSyncedAt) })}
+                </p>
+              )}
             </div>
             {styles.length > 1 && (
               <nav aria-label="Collections" className="mb-4 flex flex-wrap gap-2">

@@ -1,10 +1,11 @@
-// Postgres schema (doc 06) for Drizzle. The app reads the JSON seed today
-// (lib/data.ts); point those functions at these tables once DATABASE_URL is set.
+// Postgres schema (doc 06) for Drizzle. Brands are filled from the master Google Sheet by the
+// sync job (lib/sync/sheet.ts) and read by the site and /api/v1 (lib/db/read.ts). The catalog
+// crawler's results land in brand_crawls, site_watches and site_watch_images.
 // Prices are minor units. Localized text is jsonb { en, es? }.
 
 import { sql } from "drizzle-orm";
 import {
-  boolean, date, doublePrecision, integer, jsonb, numeric, pgEnum, pgTable, text, timestamp, uniqueIndex, uuid, index,
+  boolean, date, doublePrecision, integer, jsonb, numeric, pgEnum, pgTable, primaryKey, text, timestamp, uniqueIndex, uuid, index,
 } from "drizzle-orm/pg-core";
 
 type L10n = { en: string; es?: string };
@@ -56,6 +57,8 @@ export const reviewState = pgEnum("review_state", ["pending", "approved", "rejec
 
 export const brands = pgTable("brands", {
   id: id(), ...stamps,
+  // Permanent master-list ID (BRD-####). The sync job upserts on it.
+  brandCode: text("brand_code").unique(),
   slug: text("slug").notNull().unique(),
   name: text("name").notNull(),
   legalName: text("legal_name"),
@@ -88,6 +91,93 @@ export const brands = pgTable("brands", {
   affiliateProgram: jsonb("affiliate_program").$type<{ network: string; param?: string; url_template: string }>(),
   shipsTo: text("ships_to").array().notNull().default(sql`'{}'`),
   lastSyncedAt: timestamp("last_synced_at", { withTimezone: true }),
+  // From the master sheet's public columns (A-L) and the directory facts.
+  countryLabel: text("country_label"),
+  priceBand: text("price_band"),
+  ownership: text("ownership"),
+  lugworthyFit: text("lugworthy_fit"),
+  siteCheck: text("site_check"),
+  facts: jsonb("facts").$type<Record<string, unknown>>(),
+  sources: text("sources").array().notNull().default(sql`'{}'`),
+  inSheet: boolean("in_sheet").notNull().default(true), // false once a row disappears from the sheet
+  sheetSyncedAt: timestamp("sheet_synced_at", { withTimezone: true }),
+});
+
+// ---------- Brand-site catalog (written by the crawler import, lib/sync/catalog.ts) ----------
+
+/** One row per brand: the latest crawl of the brand's own website and its brand image (logo/hero). */
+export const brandCrawls = pgTable("brand_crawls", {
+  brandId: uuid("brand_id").primaryKey().references(() => brands.id, { onDelete: "cascade" }),
+  website: text("website"),
+  crawledAt: timestamp("crawled_at", { withTimezone: true }).notNull(),
+  status: text("status").notNull(), // ok | no_website | robots_disallowed | unreachable | no_catalog_found | blocked_by_site
+  platform: text("platform"), // shopify | woocommerce | html
+  brandImageUrl: text("brand_image_url"),
+  brandImageStoredUrl: text("brand_image_stored_url"), // copy in Vercel Blob, when mirrored
+  brandImageKind: text("brand_image_kind"), // logo | og_image | hero | icon
+  brandImageSourcePage: text("brand_image_source_page"),
+  brandImageWidth: integer("brand_image_width"),
+  brandImageHeight: integer("brand_image_height"),
+  attribution: text("attribution"),
+  imageRights: text("image_rights").notNull().default("unknown"),
+  importedAt: timestamp("imported_at", { withTimezone: true }).notNull().defaultNow(),
+});
+
+/** Watches found on a brand's own website. id is "BRD-0001/<slug>". */
+export const siteWatches = pgTable("site_watches", {
+  id: text("id").primaryKey(),
+  brandId: uuid("brand_id").notNull().references(() => brands.id, { onDelete: "cascade" }),
+  name: text("name").notNull(),
+  url: text("url").notNull(),
+  priceMinor: integer("price_minor"),
+  currency: text("currency"),
+  available: boolean("available"),
+  specs: jsonb("specs").$type<Record<string, string | number | null>>().notNull().default({}),
+  hash: text("hash"),
+  position: integer("position").notNull().default(0),
+  crawledAt: timestamp("crawled_at", { withTimezone: true }).notNull(),
+  // Sold-out tracking (weekly re-check) and everything else on the watch's page.
+  availability: text("availability"), // in_stock | sold_out | preorder | unknown
+  soldOut: boolean("sold_out"),
+  availabilityCheckedAt: timestamp("availability_checked_at", { withTimezone: true }),
+  description: text("description"),
+  productType: text("product_type"),
+  tags: jsonb("tags").$type<string[]>().notNull().default([]),
+  options: jsonb("options").$type<{ name: string; values: string[] }[]>().notNull().default([]),
+  variants: jsonb("variants").$type<Record<string, unknown>[]>().notNull().default([]),
+  specsRaw: jsonb("specs_raw").$type<Record<string, string>>().notNull().default({}),
+}, (t) => [index("site_watches_brand").on(t.brandId)]);
+
+/**
+ * Availability changes per watch, oldest first. Not tied to site_watches by a foreign key, so the
+ * history survives each re-import that replaces a brand's watches.
+ */
+export const siteWatchAvailabilityEvents = pgTable("site_watch_availability_events", {
+  watchId: text("watch_id").notNull(),
+  brandId: uuid("brand_id").notNull().references(() => brands.id, { onDelete: "cascade" }),
+  at: timestamp("at", { withTimezone: true }).notNull(),
+  availability: text("availability").notNull(),
+}, (t) => [primaryKey({ columns: [t.watchId, t.at] }), index("site_watch_availability_brand").on(t.brandId)]);
+
+/** Images for a watch, in the brand site's order. Position 0 is the main image. */
+export const siteWatchImages = pgTable("site_watch_images", {
+  watchId: text("watch_id").notNull().references(() => siteWatches.id, { onDelete: "cascade" }),
+  position: integer("position").notNull(),
+  url: text("url").notNull(),
+  storedUrl: text("stored_url"), // copy in Vercel Blob, when mirrored
+  width: integer("width"),
+  height: integer("height"),
+}, (t) => [primaryKey({ columns: [t.watchId, t.position] })]);
+
+/** One row per sync run (sheet or catalog), for troubleshooting. */
+export const dataSyncs = pgTable("data_syncs", {
+  id: id(),
+  kind: text("kind").notNull(), // sheet | catalog
+  startedAt: timestamp("started_at", { withTimezone: true }).notNull().defaultNow(),
+  finishedAt: timestamp("finished_at", { withTimezone: true }),
+  status: text("status").notNull(), // running | ok | error
+  counts: jsonb("counts"),
+  error: text("error"),
 });
 
 export const collections = pgTable("collections", {

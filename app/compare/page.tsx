@@ -4,7 +4,7 @@ import { getTranslations } from "next-intl/server";
 import { outlinePath } from "@/components/CaseOutline";
 import { CompareFromTray, RemoveFromCompare } from "@/components/CompareFromTray";
 import { specRows } from "@/components/SpecTable";
-import { brandOf, getModelById, minPriceUsd, modelId } from "@/lib/data";
+import { getCatalog, minPriceUsd, modelId } from "@/lib/data";
 import { money } from "@/lib/format";
 import type { Model } from "@/lib/types";
 
@@ -34,10 +34,11 @@ function Overlay({ models }: { models: Model[] }) {
 }
 
 export default async function ComparePage({ searchParams }: { searchParams: Promise<{ ids?: string; diff?: string }> }) {
+  const catalog = await getCatalog();
   const t = await getTranslations();
   const sp = await searchParams;
   const ids = (sp.ids ?? "").split(",").filter(Boolean).slice(0, 4);
-  const models = ids.map(getModelById).filter((m): m is Model => !!m);
+  const models = ids.map((id) => catalog.getModelById(id)).filter((m): m is Model => !!m);
   const onlyDiff = sp.diff === "1";
 
   if (models.length === 0) {
@@ -55,7 +56,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
     rows: g.rows.map((r, ri) => ({ key: r.key, values: rowsPer.map((mr) => mr[gi].rows[ri].value) })),
   }));
   const extra = [
-    { key: "brand", values: models.map((m) => brandOf(m).name) },
+    { key: "brand", values: models.map((m) => catalog.brandOf(m).name) },
     { key: "price", values: models.map((m) => money(minPriceUsd(m))) },
     { key: "styles", values: models.map((m) => m.styles.filter((s) => s !== "other").map((s) => t(`enum.style.${s}`)).join(", ") || null) },
   ];
@@ -79,7 +80,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
             <tr>
               <th className="w-40 border-b border-line p-2 text-left align-bottom" scope="col"><span className="sr-only">Spec</span></th>
               {models.map((m, i) => {
-                const b = brandOf(m);
+                const b = catalog.brandOf(m);
                 return (
                   <th key={modelId(m)} scope="col" className="border-b border-line p-2 text-left align-bottom font-normal">
                     <span aria-hidden className="mb-1 block h-1 w-8 rounded" style={{ background: COLORS[i] }} />

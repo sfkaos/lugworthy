@@ -50,7 +50,17 @@ await check("AC-2 variant change updates price and URL without reload", async ()
   assert(await page.evaluate(() => window.__marker === 1), "page reloaded");
 });
 
-await check("AC-3 unlicensed brand pages show no brand images", async () => {
+// Run with IMAGES_PUBLIC=all when the server shows brand-site photos (the image policy setting).
+if (process.env.IMAGES_PUBLIC === "all") await check("Brand-site photos show with credit, outlines where missing", async () => {
+  await page.goto(`${BASE}/brands/dryden`);
+  assert((await page.locator("article img").count()) > 0, "no watch photos on /brands/dryden");
+  const href = await page.locator('article a[href^="/brands/dryden/"]').first().getAttribute("href");
+  await page.goto(`${BASE}${href}`);
+  assert(await page.getByText(/Images © Dryden/).count(), "no image credit on the watch page");
+  await page.goto(`${BASE}/brands/zelos-watches/helmsman-ss-carbon`);
+  assert((await page.locator("figure svg").count()) > 0, "no outline for a watch without photos");
+});
+else await check("AC-3 unlicensed brand pages show no brand images", async () => {
   for (const url of ["/brands/zelos-watches", "/brands/zelos-watches/helmsman-ss-carbon", "/"]) {
     await page.goto(`${BASE}${url}`);
     const imgs = await page.locator("img").count();

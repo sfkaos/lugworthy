@@ -1,14 +1,15 @@
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { ClaimForm } from "@/components/ClaimForm";
-import { publishedBrands } from "@/lib/data";
+import { getCatalog } from "@/lib/data";
 
 export const metadata: Metadata = { title: "For brands", alternates: { canonical: "/for-brands" } };
 
 export default async function ForBrands({ searchParams }: { searchParams: Promise<{ brand?: string }> }) {
+  const catalog = await getCatalog();
   const t = await getTranslations("forBrands");
   const { brand } = await searchParams;
-  const brands = publishedBrands().map((b) => ({ slug: b.slug, name: b.name }));
+  const brands = catalog.publishedBrands().map((b) => ({ slug: b.slug, name: b.name }));
   return (
     <div className="mx-auto grid max-w-6xl gap-10 px-4 py-10 md:grid-cols-[1.3fr_1fr]">
       <div>

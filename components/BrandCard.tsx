@@ -2,15 +2,14 @@ import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { countryName } from "@/lib/countries";
 import type { Brand } from "@/lib/types";
+import { BrandLogo } from "./BrandLogo";
 
-export function BrandCard({ brand, modelCount }: { brand: Brand; modelCount: number }) {
+export function BrandCard({ brand, modelCount, logo = null }: { brand: Brand; modelCount: number; logo?: string | null }) {
   const t = useTranslations();
   return (
     <article className="card relative flex h-full flex-col gap-2 p-4">
       <div className="flex items-start gap-3">
-        <span aria-hidden className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md border border-line bg-surface-2 font-serif text-lg">
-          {brand.name.replace(/^the\s+/i, "").charAt(0).toUpperCase()}
-        </span>
+        <BrandLogo name={brand.name} url={logo} />
         <div className="min-w-0">
           <h3 className="font-semibold leading-snug">
             <Link href={`/brands/${brand.slug}`} className="after:absolute after:inset-0">
