@@ -56,3 +56,23 @@ describe("api.lugworthy.com", () => {
     expect(call("https://lugworthy.com/brands/lorier").headers.get("x-middleware-rewrite")).toBeNull();
   });
 });
+
+describe("crawled watch names and URLs", async () => {
+  const { decodeEntities, watchSlug } = await import("@/lib/catalog/site-models");
+  it("decodes HTML entities in shop titles", () => {
+    expect(decodeEntities("Worldmaster Prestige &#8220;Krzysztof&#8221; &amp; Co &#x2013; Blue")).toBe("Worldmaster Prestige “Krzysztof” & Co – Blue");
+  });
+  it("turns percent-encoded handles into short stable slugs", () => {
+    const s = watchSlug("e4-b8-8a-e4-b8-8b-e5-9d-a1-e6-96-b9-e5-bd-a2-e6-b0-b4-e6-b3-a5-e9-8c-b6-e6-b9-96");
+    expect(s).toMatch(/^watch-[0-9a-f]{8}$/);
+    expect(watchSlug("e4-b8-8a-e4-b8-8b-e5-9d-a1-e6-96-b9-e5-bd-a2-e6-b0-b4-e6-b3-a5-e9-8c-b6-e6-b9-96")).toBe(s);
+    expect(watchSlug("4d-horse-golden")).toBe("4d-horse-golden");
+  });
+  it("drops upgrade and trade-in listings", async () => {
+    const { snapshotCatalog } = await import("@/lib/data");
+    const c = snapshotCatalog(await loadCatalogIndex(), await loadAllBrandCatalogs());
+    expect(c.models.some((m) => /回娘家/.test(m.name))).toBe(false);
+    expect(c.models.some((m) => /&#\d+;|&amp;/.test(m.name))).toBe(false);
+    expect(c.models.filter((m) => m.origin === "site").every((m) => !/e[0-9a-f]-[0-9a-f]{2}-[0-9a-f]{2}/.test(m.slug))).toBe(true);
+  });
+});
