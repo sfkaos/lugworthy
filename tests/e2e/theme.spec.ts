@@ -10,13 +10,15 @@ const contrast = (a: number[], b: number[]) => {
   const [hi, lo] = [lum(a), lum(b)].sort((x, y) => y - x);
   return (hi + 0.05) / (lo + 0.05);
 };
-const colors = (page: Page) =>
-  page.evaluate(() => {
+const colors = async (page: Page) => {
+  await page.locator("main h1").first().waitFor();
+  return page.evaluate(() => {
     const rgb = (s: string) => (s.match(/[\d.]+/g) ?? []).slice(0, 3).map(Number);
     const body = getComputedStyle(document.body);
     const h1 = getComputedStyle(document.querySelector("main h1")!);
     return { bg: rgb(body.backgroundColor), text: rgb(body.color), h1: rgb(h1.color), scheme: getComputedStyle(document.documentElement).colorScheme };
   });
+};
 
 for (const scheme of ["light", "dark"] as const) {
   test.describe(`${scheme} mode`, () => {

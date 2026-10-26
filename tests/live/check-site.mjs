@@ -186,9 +186,30 @@ console.log(`Pages: ${pages.size}. Internal links found: ${links.size}. Images f
 await pool([...links.entries()], ([k, l]) => checkLink(k, l), "links");
 if (CHECK_IMAGES) await pool([...images.entries()], ([u, i]) => checkImage(u, i), "images");
 
+// Retry anything that timed out or failed with a server error, one at a time, so a passing load
+// spike isn't reported as a broken link. What works on retry is reported as "intermittent".
+const retryable = (x) => !!x.error && !x.error.startsWith("buy link") || x.status >= 500;
+const toRetry = [...[...pages].filter(([, p]) => retryable(p)).map(([k, p]) => ["page", k, p]), ...[...links].filter(([, l]) => retryable(l)).map(([k, l]) => ["link", k, l])];
+if (toRetry.length) console.log(`Retrying ${toRetry.length} failures one at a time`);
+for (const [kind, key, x] of toRetry) {
+  const before = x.error ?? `HTTP ${x.status}`;
+  const fresh = {};
+  if (kind === "page") {
+    pages.delete(key);
+    await checkPage(key);
+    Object.assign(fresh, pages.get(key));
+  } else {
+    fresh.foundOn = x.foundOn;
+    await checkLink(key, fresh);
+  }
+  if (!fresh.error && fresh.status < 400) Object.assign(x, fresh, { error: undefined, intermittent: before });
+  if (kind === "page") pages.set(key, x);
+}
+
 // ---- Report
 const isBad = (x) => !!x.error || !x.status || (x.status >= 400);
 const brokenPages = [...pages].filter(([, p]) => isBad(p));
+const intermittent = [...[...pages].filter(([, p]) => p.intermittent), ...[...links].filter(([k, l]) => l.intermittent && !pages.has(k))];
 const brokenLinks = [...links].filter(([, l]) => isBad(l));
 const brokenImages = CHECK_IMAGES ? [...images].filter(([, i]) => isBad(i)) : [];
 const timed = [...pages].filter(([, p]) => p.ms != null).sort((a, b) => b[1].ms - a[1].ms);
@@ -214,6 +235,7 @@ const summary = {
   brokenLinks: brokenLinks.length,
   brokenImages: brokenImages.length,
   slowPages: slow.length,
+  intermittent: intermittent.length,
   timing: { medianMs: pct(0.5), p95Ms: pct(0.95), maxMs: timed[0]?.[1].ms ?? 0, slowThresholdMs: SLOW_MS },
 };
 const fmtSet = (s) => [...s].join(", ");
@@ -231,6 +253,7 @@ const md = [
   `| Broken links | ${summary.brokenLinks} |`,
   `| Broken images | ${summary.brokenImages} |`,
   `| Pages slower than ${SLOW_MS} ms | ${summary.slowPages} |`,
+  `| Failed once, worked on retry | ${summary.intermittent} |`,
   `| Response time median / p95 / max | ${summary.timing.medianMs} / ${summary.timing.p95Ms} / ${summary.timing.maxMs} ms |`,
   ``,
   `## Response time by page type`,
@@ -244,6 +267,9 @@ const md = [
   ``,
   `## Broken links`,
   ...(brokenLinks.length ? brokenLinks.slice(0, 200).map(([k, l]) => `- ${k}: ${l.error ?? l.status} (on ${fmtSet(l.foundOn)})`) : ["None."]),
+  ``,
+  `## Failed once, worked on retry`,
+  ...(intermittent.length ? intermittent.slice(0, 200).map(([k, x]) => `- ${k}: first try ${x.intermittent}`) : ["None."]),
   ``,
   `## Broken images`,
   ...(brokenImages.length ? brokenImages.slice(0, 200).map(([u, i]) => `- ${u}: ${i.error ?? i.status} (on ${fmtSet(i.foundOn)})`) : ["None."]),
@@ -259,4 +285,4 @@ await writeFile(`${OUT}/site-check.json`, JSON.stringify({ summary, byType: kind
 await writeFile(`${OUT}/site-check.md`, md);
 console.log(md.split("## Broken pages")[0]);
 console.log(`Report: ${OUT}/site-check.md`);
-process.exit(summary.brokenPages || summary.brokenLinks || summary.brokenImages || summary.slowPages ? 1 : 0);
+process.exit(summary.brokenPages || summary.brokenLinks || summary.brokenImages || summary.slowPages || summary.intermittent ? 1 : 0);

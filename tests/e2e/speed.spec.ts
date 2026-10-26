@@ -12,7 +12,6 @@ const MAX = {
 
 const PAGES = ["/", "/watches", "/brands", "/search?q=diver", "/styles/diver", "/compare", "/about", "BRAND", "WATCH"];
 
-test.describe.configure({ mode: "serial" });
 
 for (const path of PAGES) {
   const label = path === "BRAND" ? "a brand page" : path === "WATCH" ? "a watch page" : path;
