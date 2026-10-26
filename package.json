@@ -15,7 +15,10 @@
     "db:sync": "tsx scripts/sync.ts",
     "crawl": "tsx scripts/crawl-catalog.ts",
     "catalog:export": "tsx scripts/export-catalog.ts",
-    "check:availability": "tsx scripts/check-availability.ts"
+    "check:availability": "tsx scripts/check-availability.ts",
+    "test:e2e": "playwright test",
+    "test:site": "node tests/live/check-site.mjs",
+    "test:all": "vitest run && playwright test && node tests/live/check-site.mjs"
   },
   "dependencies": {
     "drizzle-orm": "0.44.7",
@@ -28,6 +31,7 @@
   },
   "devDependencies": {
     "@electric-sql/pglite": "^0.3.14",
+    "@playwright/test": "1.63.0",
     "@tailwindcss/postcss": "4.1.18",
     "@types/node": "22.20.5",
     "@types/react": "19.1.17",

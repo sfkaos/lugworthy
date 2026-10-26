@@ -38,8 +38,32 @@ npm run dev            # http://localhost:3000
 npm run build && npm start
 npm test               # unit tests, incl. sync and API on an in-memory Postgres
 npm run lint           # type check
-BASE_URL=http://localhost:3000 node tests/e2e/acceptance.mjs   # acceptance checks (Playwright)
+npm run test:e2e       # browser + API tests against https://lugworthy.com (Playwright)
+npm run test:site      # every page, link and image on the live site, with timings
 ```
+
+## Tests
+
+Nothing in the test suite writes data: no form is submitted and the API is only read.
+
+| Command | What it checks |
+|---|---|
+| `npm test` | Unit tests (vitest): filters, sync, crawler, API queries, formatting, theming, and that no email reaches published data |
+| `npm run test:e2e` | Browser tests (Playwright) on desktop and a phone-size screen: every page type loads without errors, filters, search, sorting, paging, brand and watch pages, buy links, compare tray, light and dark mode contrast, no sideways scrolling on phones, every image loads and watch cards have photos, load-time limits, and the API (auth, CORS, paging, filters, no private fields) |
+| `npm run test:site` | Opens every page in the sitemap and every internal page they link to, checks every internal link, `/out/` buy link and image, and times each page. Writes `test-results/site-check.md` |
+
+Options:
+
+- `BASE_URL=http://localhost:3000` points either suite at another server.
+- `BRANDS_API_TOKEN=...` turns on the signed-in API tests (they skip without it).
+- Load-time limits for `test:e2e`: `MAX_TTFB_MS` (default 1000), `MAX_DCL_MS` (2500), `MAX_LOAD_MS` (4000),
+  `MAX_COLD_MS` (5000, a fresh render that skips the CDN). `MIN_PHOTO_SHARE` (0.9) is the share of
+  watch cards that must show a photo.
+- `test:site` takes `--limit 500`, `--concurrency 4`, `--slow-ms 3000` and `--images false`.
+
+`.github/workflows/test.yml` runs the unit tests on every push and pull request, the browser tests
+against lugworthy.com daily, and the full site check on Mondays (or from "Run workflow"). Add
+`BRANDS_API_TOKEN` as a repository secret to include the signed-in API tests.
 
 ## Data and the brands API
 

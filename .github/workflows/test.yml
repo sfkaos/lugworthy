@@ -1,0 +1,68 @@
+name: Tests
+
+# Unit tests and type check on every push and pull request.
+# Browser tests against the live site daily, and the full link/image/speed check weekly.
+# Everything here only reads from the site; nothing is submitted or written.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 9 * * *" # daily 09:00 UTC: browser tests against lugworthy.com
+  workflow_dispatch:
+    inputs:
+      base_url:
+        description: "Site to test"
+        default: "https://lugworthy.com"
+      full_site_check:
+        description: "Also crawl every page, link and image"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  unit:
+    if: github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npm run lint
+      - run: npm test
+
+  live:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      BASE_URL: ${{ inputs.base_url || 'https://lugworthy.com' }}
+      BRANDS_API_TOKEN: ${{ secrets.BRANDS_API_TOKEN }}
+      CI: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - name: Browser and API tests
+        run: npm run test:e2e
+      - name: Full site check (every page, link and image)
+        # Mondays, or when asked for.
+        if: always()
+        run: |
+          if [ "${{ inputs.full_site_check }}" = "true" ] || [ "$(date -u +%u)" = "1" ]; then npm run test:site; else echo "Skipped (runs on Mondays)"; fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: test-results
+          path: test-results/
+          retention-days: 14
