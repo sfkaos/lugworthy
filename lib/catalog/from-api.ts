@@ -21,7 +21,7 @@ export function apiSourceFromEnv(env: Record<string, string | undefined> = proce
 }
 
 type Fetch = typeof fetch;
-interface Page<T> { data: T[]; meta: { pages: number; syncedAt?: string | null } }
+interface Page<T> { data: T[]; meta: { pages: number; total?: number; syncedAt?: string | null } }
 
 async function getPage<T>(src: ApiSource, path: string, page: number, f: Fetch): Promise<Page<T>> {
   const url = `${src.baseUrl}${path}${path.includes("?") ? "&" : "?"}detail=full&limit=${PAGE}&page=${page}`;
@@ -34,8 +34,20 @@ async function getPage<T>(src: ApiSource, path: string, page: number, f: Fetch):
   return (await res.json()) as Page<T>;
 }
 
-async function getAll<T>(src: ApiSource, path: string, f: Fetch) {
+/**
+ * Loading the whole catalog through the API only works while it's small: every watch in full
+ * detail is ~5 KB, and Next's fetch cache skips responses over 2 MB. Past this many watches the
+ * site reads the database directly instead (LUGWORTHY_API_MAX_WATCHES overrides).
+ */
+export function maxApiWatches(env: Record<string, string | undefined> = process.env) {
+  const n = Number(env.LUGWORTHY_API_MAX_WATCHES);
+  return Number.isFinite(n) && n > 0 ? n : 3000;
+}
+
+async function getAll<T>(src: ApiSource, path: string, f: Fetch, max = Infinity) {
   const first = await getPage<T>(src, path, 1, f);
+  const total = first.meta.total ?? first.meta.pages * PAGE;
+  if (total > max) throw new Error(`${total} items at ${path} is more than the ${max} the site loads through the API`);
   const rest = await Promise.all(Array.from({ length: first.meta.pages - 1 }, (_, i) => getPage<T>(src, path, i + 2, f)));
   return { data: [first, ...rest].flatMap((p) => p.data), syncedAt: first.meta.syncedAt ?? null };
 }
@@ -123,7 +135,7 @@ function mediaFromApi(brands: ApiBrandFull[]): CatalogIndex {
 
 /** Everything the site needs: every published brand and watch. ~15 requests at 200 per page. */
 export async function fetchCatalogParts(src: ApiSource, f: Fetch = fetch) {
-  const [brands, watches] = await Promise.all([getAll<ApiBrandFull>(src, "/brands", f), getAll<ApiWatchFull>(src, "/watches?sort=none", f)]);
+  const [brands, watches] = await Promise.all([getAll<ApiBrandFull>(src, "/brands", f), getAll<ApiWatchFull>(src, "/watches?sort=none", f, maxApiWatches())]);
   if (!brands.data.length) throw new Error("the API returned no brands");
   return {
     brands: brands.data.map(brandFromApi),
