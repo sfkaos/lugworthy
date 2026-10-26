@@ -42,13 +42,17 @@ const norm = (href, from) => {
   }
 };
 
-async function timedFetch(url, opts = {}) {
+/** Fetches and reads the whole body (or stops reading with skipBody) under one timeout; ms covers both. */
+async function timedFetch(url, opts = {}, { skipBody = false } = {}) {
   const ctl = new AbortController();
   const timer = setTimeout(() => ctl.abort(), TIMEOUT_MS);
   const t0 = performance.now();
   try {
     const res = await fetch(url, { redirect: "manual", ...opts, signal: ctl.signal, headers: { "user-agent": "lugworthy-site-check/1.0", ...(opts.headers ?? {}) } });
-    return { res, ms: Math.round(performance.now() - t0) };
+    let body = "";
+    if (skipBody) await res.body?.cancel().catch(() => {});
+    else body = await res.text();
+    return { res, body, ms: Math.round(performance.now() - t0) };
   } finally {
     clearTimeout(timer);
   }
@@ -92,17 +96,17 @@ async function checkPage(path) {
   const entry = {};
   pages.set(path, entry);
   try {
-    let { res, ms } = await timedFetch(new URL(path, BASE));
+    let { res, body, ms } = await timedFetch(new URL(path, BASE));
     // Follow a same-site redirect once (e.g. trailing slash).
     if (res.status >= 300 && res.status < 400 && res.headers.get("location")) {
       const to = norm(res.headers.get("location"), path);
       entry.redirect = to?.href;
-      if (to && to.host === BASE.host) ({ res, ms } = await timedFetch(to));
+      if (to && to.host === BASE.host) ({ res, body, ms } = await timedFetch(to));
     }
     entry.status = res.status;
     entry.ms = ms;
     entry.cache = res.headers.get("x-vercel-cache") ?? undefined;
-    const html = await res.text();
+    const html = body;
     entry.bytes = html.length;
     if (res.ok && (res.headers.get("content-type") ?? "").includes("text/html")) extract(html, path);
   } catch (e) {
@@ -121,9 +125,10 @@ async function checkLink(key, l) {
     l.status = res.status;
     if (key.startsWith("/out/")) {
       const loc = res.headers.get("location") ?? "";
-      if (!(res.status >= 300 && res.status < 400 && /^https?:\/\//.test(loc))) l.error = `buy link does not redirect to a brand site (location: ${loc || "none"})`;
+      const to = norm(loc, key);
+      // /out/ falls back to a same-site page (e.g. /watches) when the variant has no brand URL.
+      if (!(res.status >= 300 && res.status < 400 && to && /^https?:$/.test(to.protocol) && to.host !== BASE.host)) l.error = `buy link does not redirect to a brand site (location: ${loc || "none"})`;
     }
-    await res.arrayBuffer().catch(() => {});
   } catch (e) {
     l.error = e.name === "AbortError" ? `timeout after ${TIMEOUT_MS} ms` : e.cause?.code ?? e.message;
   }
@@ -131,10 +136,9 @@ async function checkLink(key, l) {
 
 async function checkImage(url, i) {
   try {
-    let { res } = await timedFetch(url, { redirect: "follow" });
+    const { res } = await timedFetch(url, { redirect: "follow" }, { skipBody: true });
     i.status = res.status;
     i.type = res.headers.get("content-type") ?? "";
-    await res.body?.cancel().catch(() => {});
     if (res.ok && !i.type.startsWith("image/")) i.error = `not an image (${i.type})`;
   } catch (e) {
     i.error = e.name === "AbortError" ? `timeout after ${TIMEOUT_MS} ms` : e.cause?.code ?? e.message;

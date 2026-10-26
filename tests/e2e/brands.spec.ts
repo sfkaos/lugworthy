@@ -1,5 +1,5 @@
 import { expect, test } from "@playwright/test";
-import { firstBrandWithWatches, firstWatchHref, toNumber } from "./helpers";
+import { BASE_URL, firstBrandWithWatches, firstWatchHref, toNumber } from "./helpers";
 
 test("brands index lists 60 brands a page and says how many there are", async ({ page }) => {
   await page.goto("/brands");
@@ -66,5 +66,6 @@ test("outbound buy link redirects to the brand with UTM tags", async ({ page, re
   expect(res.status()).toBe(302);
   const loc = res.headers()["location"] ?? "";
   expect(loc).toMatch(/^https?:\/\//);
+  expect(new URL(loc).host, "buy link fell back to a Lugworthy page").not.toBe(new URL(BASE_URL).host);
   expect(loc).toContain("utm_source=lugworthy");
 });
