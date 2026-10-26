@@ -11,6 +11,10 @@ import path from "node:path";
 import sharp from "sharp";
 import { politeGet } from "./fetch";
 
+// The Render job has 512 MB in total; keep libvips from caching or using several threads.
+sharp.cache(false);
+sharp.concurrency(1);
+
 export interface ImageStore {
   name: string;
   /** Uploads bytes under key and returns the public URL. */

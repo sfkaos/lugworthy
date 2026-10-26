@@ -12,9 +12,9 @@ services:
       - key: NODE_VERSION
         value: "22"
       - key: NODE_OPTIONS
-        value: --max-old-space-size=420
+        value: --max-old-space-size=280
       - key: CRAWL_CONCURRENCY
-        value: "8"
+        value: "4"
       - key: DATABASE_URL
         sync: false
       - key: IMAGE_STORE
@@ -40,9 +40,9 @@ services:
       - key: NODE_VERSION
         value: "22"
       - key: NODE_OPTIONS
-        value: --max-old-space-size=420
+        value: --max-old-space-size=280
       - key: CRAWL_CONCURRENCY
-        value: "8"
+        value: "4"
       - key: DATABASE_URL
         sync: false
       - key: IMAGE_STORE
