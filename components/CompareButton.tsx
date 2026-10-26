@@ -2,15 +2,15 @@
 
 import { useTranslations } from "next-intl";
 import { useState } from "react";
-import { useCompare } from "./compare-store";
+import { useCompare, type CompareLabel } from "./compare-store";
 
-export function CompareButton({ id, variant = "card" }: { id: string; variant?: "card" | "page" }) {
+export function CompareButton({ id, label: trayLabel, variant = "card" }: { id: string; label?: CompareLabel; variant?: "card" | "page" }) {
   const t = useTranslations();
   const c = useCompare();
   const [warn, setWarn] = useState(false);
   const active = c.has(id);
   const onClick = () => {
-    const ok = c.toggle(id);
+    const ok = c.toggle(id, trayLabel);
     setWarn(!ok);
     if (!ok) setTimeout(() => setWarn(false), 2500);
   };

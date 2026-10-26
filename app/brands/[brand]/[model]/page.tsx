@@ -16,7 +16,8 @@ type P = Promise<{ brand: string; model: string }>;
 
 export async function generateStaticParams() {
   const catalog = await getCatalog();
-  return catalog.publishedModels().map((m) => ({ brand: m.brandSlug, model: m.slug }));
+  // Hand-curated models are built ahead; the many thousands crawled from brand sites render on first visit.
+  return catalog.publishedModels().filter((m) => m.origin === "seed").map((m) => ({ brand: m.brandSlug, model: m.slug }));
 }
 
 export async function generateMetadata({ params }: { params: P }): Promise<Metadata> {
@@ -110,7 +111,7 @@ export default async function ModelPage({ params, searchParams }: { params: P; s
               </p>
               {fit && <p className="mt-2 text-sm text-muted">{t("model.fits", fit)}</p>}
             </div>
-            <ModelPurchase variants={model.variants} initialIndex={initial} brandName={brand.name} compareId={modelId(model)} status={model.status} />
+            <ModelPurchase variants={model.variants} initialIndex={initial} brandName={brand.name} compareId={modelId(model)} modelName={model.name} status={model.status} />
             {model.origin === "site" && (
               <div className="flex flex-col gap-3 text-sm">
                 {model.availabilityCheckedAt && (

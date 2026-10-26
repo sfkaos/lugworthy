@@ -4,6 +4,8 @@
 import { useSyncExternalStore } from "react";
 
 const KEY = "lw.compare";
+const LABELS = "lw.compare.labels";
+export interface CompareLabel { name: string; brand: string }
 export const MAX_COMPARE = 4;
 const listeners = new Set<() => void>();
 let cache: string[] | null = null;
@@ -46,14 +48,38 @@ function subscribe(l: () => void) {
   };
 }
 
+/** Names for the tray, saved when a watch is added (the catalog is too big to ship to every page). */
+export function compareLabel(id: string): CompareLabel | null {
+  try {
+    const all = JSON.parse(window.localStorage.getItem(LABELS) ?? "{}") as Record<string, CompareLabel>;
+    return all[id] ?? null;
+  } catch {
+    return null;
+  }
+}
+
+function saveLabel(id: string, label: CompareLabel) {
+  try {
+    const all = JSON.parse(window.localStorage.getItem(LABELS) ?? "{}") as Record<string, CompareLabel>;
+    all[id] = label;
+    // Keep only labels for watches still in the tray, plus this one.
+    const keep = new Set([...read(), id]);
+    for (const k of Object.keys(all)) if (!keep.has(k)) delete all[k];
+    window.localStorage.setItem(LABELS, JSON.stringify(all));
+  } catch {
+    /* private mode */
+  }
+}
+
 export function useCompare() {
   const ids = useSyncExternalStore(subscribe, read, () => EMPTY);
   return {
     ids,
     has: (id: string) => ids.includes(id),
     full: ids.length >= MAX_COMPARE,
-    toggle: (id: string) => {
+    toggle: (id: string, label?: CompareLabel) => {
       const cur = read();
+      if (label && !cur.includes(id)) saveLabel(id, label);
       if (cur.includes(id)) write(cur.filter((x) => x !== id));
       else if (cur.length < MAX_COMPARE) write([...cur, id]);
       else return false;

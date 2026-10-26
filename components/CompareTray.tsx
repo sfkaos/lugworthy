@@ -2,15 +2,19 @@
 
 import Link from "next/link";
 import { useTranslations } from "next-intl";
-import { useCompare } from "./compare-store";
+import { compareLabel, useCompare } from "./compare-store";
 
 export interface TrayItem { id: string; name: string; brand: string }
 
-/** Sticky tray. Names come from a small index the layout passes in. */
-export function CompareTray({ index }: { index: Record<string, TrayItem> }) {
+/** Sticky tray. Names were saved when each watch was added; older entries fall back to the id. */
+export function CompareTray() {
   const t = useTranslations("compare");
   const c = useCompare();
-  const items = c.ids.map((id) => index[id]).filter(Boolean);
+  const items: TrayItem[] = c.ids.map((id) => {
+    const l = compareLabel(id);
+    const [brand = "", model = id] = id.split("~");
+    return { id, name: l?.name ?? model.replace(/-/g, " "), brand: l?.brand ?? brand.replace(/-/g, " ") };
+  });
   if (!items.length) return null;
   return (
     <div className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-surface/95 backdrop-blur" role="region" aria-label={t("title")}>

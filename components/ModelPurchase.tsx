@@ -11,11 +11,12 @@ interface Props {
   initialIndex: number;
   brandName: string;
   compareId: string;
+  modelName?: string;
   status: string;
 }
 
 /** Variant picker + price + stock + buy (FR-4). Updates ?v= with replaceState, no reload. */
-export function ModelPurchase({ variants, initialIndex, brandName, compareId, status }: Props) {
+export function ModelPurchase({ variants, initialIndex, brandName, compareId, modelName, status }: Props) {
   const t = useTranslations();
   const [idx, setIdx] = useState(initialIndex);
   const v = variants[idx] ?? variants[0];
@@ -79,7 +80,7 @@ export function ModelPurchase({ variants, initialIndex, brandName, compareId, st
         <a className="btn btn-brand h-11 px-5" href={`/out/${encodeURIComponent(v.id)}?from=model`} rel="sponsored noopener" target="_blank">
           {t("model.buy", { brand: brandName })}
         </a>
-        <CompareButton id={compareId} variant="page" />
+        <CompareButton id={compareId} label={modelName ? { name: modelName, brand: brandName } : undefined} variant="page" />
       </div>
     </div>
   );
