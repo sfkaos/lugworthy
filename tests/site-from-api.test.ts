@@ -72,3 +72,13 @@ describe("lugworthy.com built from the API", async () => {
   });
 });
 void NextRequest;
+
+describe("API catalog size guard", () => {
+  it("refuses to pull a huge catalog through the API, so the site reads the database", async () => {
+    const f = (async (u: string) => {
+      const big = u.includes("/watches");
+      return new Response(JSON.stringify({ data: [], meta: { pages: big ? 120 : 1, total: big ? 23_500 : 1 } }), { status: 200 });
+    }) as unknown as typeof fetch;
+    await expect(fetchCatalogParts({ baseUrl: "https://api.lugworthy.com", token: "t" }, f)).rejects.toThrow(/more than the 3000/);
+  });
+});
