@@ -156,6 +156,7 @@ one, and set `BRANDS_SHEET_ID` to it.
 | `BRANDS_API_TOKEN` | Read-only bearer token for `/api/v1`. The API is off until it's set |
 | `LUGWORTHY_API_URL` | Where the site's pages get their data (e.g. `https://api.lugworthy.com`). Needs `BRANDS_API_TOKEN`. Without it pages read the database |
 | `LUGWORTHY_API_MAX_WATCHES` | Above this many watches (default 3000) pages read the database instead of pulling the whole catalog through the API |
+| `CATALOG_TTL_SECONDS` | How long each server keeps the catalog in memory (default 600). Builds load it once per worker |
 | `BRANDS_SHEET_ID` | Sheet to sync. Defaults to the master list |
 | `IMAGES_PUBLIC` | `logos` or `all` to show brand-site images before a brand grants the image license |
 | `INGEST_CONTACT_EMAIL` | Contact address in the ingest user agent |

@@ -168,11 +168,27 @@ async function localCatalog(): Promise<Catalog> {
   return snapshotCatalog(await loadCatalogIndex(), await loadAllBrandCatalogs());
 }
 
-// Each server instance keeps the catalog for a minute. Pages are also cached (ISR) and the sync
-// job revalidates them, so a sync shows up within about a minute.
-const TTL_MS = 60_000;
-let dbMemo: { at: number; catalog: Catalog } | null = null;
-let siteMemo: { at: number; catalog: Catalog } | null = null;
+// Each server instance keeps the catalog in memory. Loading it reads every brand and crawled
+// watch, so it's done rarely: once per worker during `next build`, and every CATALOG_TTL_SECONDS
+// (default 10 minutes) at runtime. The sync job clears it on its instance and revalidates pages.
+// Concurrent requests share one load.
+function ttlMs(): number {
+  if (process.env.NEXT_PHASE === "phase-production-build") return Infinity;
+  const s = Number(process.env.CATALOG_TTL_SECONDS);
+  return (Number.isFinite(s) && s > 0 ? s : 600) * 1000;
+}
+type Memo = { at: number; catalog: Promise<Catalog> } | null;
+let dbMemo: Memo = null;
+let siteMemo: Memo = null;
+
+function remember(memo: Memo, load: () => Promise<Catalog>, set: (m: Memo) => void): Promise<Catalog> {
+  if (memo && Date.now() - memo.at <= ttlMs()) return memo.catalog;
+  const next = { at: Date.now(), catalog: load() };
+  set(next);
+  // A failed load is not kept.
+  next.catalog.catch(() => set(null));
+  return next.catalog;
+}
 
 async function loadDbCatalog(): Promise<Catalog> {
   const db = getDb();
@@ -193,8 +209,7 @@ async function loadDbCatalog(): Promise<Catalog> {
 
 /** The database catalog. The API routes read this (never the API itself). */
 export const getDbCatalog = cache(async (): Promise<Catalog> => {
-  if (!dbMemo || Date.now() - dbMemo.at > TTL_MS) dbMemo = { at: Date.now(), catalog: await loadDbCatalog() };
-  return dbMemo.catalog;
+  return remember(dbMemo, loadDbCatalog, (m) => (dbMemo = m));
 });
 
 async function loadSiteCatalog(): Promise<Catalog> {
@@ -211,8 +226,7 @@ async function loadSiteCatalog(): Promise<Catalog> {
 
 /** The catalog the site's pages read: from the API when LUGWORTHY_API_URL is set, else the database. */
 export const getCatalog = cache(async (): Promise<Catalog> => {
-  if (!siteMemo || Date.now() - siteMemo.at > TTL_MS) siteMemo = { at: Date.now(), catalog: await loadSiteCatalog() };
-  return siteMemo.catalog;
+  return remember(siteMemo, loadSiteCatalog, (m) => (siteMemo = m));
 });
 
 /** One brand's crawled watches and images. */
