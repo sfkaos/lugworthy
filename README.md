@@ -94,8 +94,19 @@ Every request needs `Authorization: Bearer <BRANDS_API_TOKEN>`. The token is rea
 | `GET /api/v1/brands` | Published brands. Query: `q`, `country` (ISO-2, comma-separated), `style`, `price` (`budget`, `affordable`, `mid`, `upper_mid`, `high`), `class`, `hasModels=true`, `hasImages=true`, `page`, `limit` (max 200) |
 | `GET /api/v1/brands/BRD-0348` | One brand by BRD ID or slug, with its brand image |
 | `GET /api/v1/brands/BRD-0348/watches` | Watches found on the brand's own website: name, product URL, image URLs, price, key specs, plus crawl date and attribution |
+| `GET /api/v1/watches` | Every published watch with the same filters as `/watches` on the site (`q`, `brand`, `soldOut`, `dia`, `mov`, `price`, `sort`, …), `page`, `limit` (max 200). `sort=none` keeps catalog order |
+| `?detail=full` | On `/brands` and `/watches`: every field the site's pages use (variants, all photos, stock history, options, raw specs, claim status, colors) |
 | `?audience=all` | Every brand in the master list, plus ownership, fit and site check (for En Punto) |
 | `GET /api/v1` | Endpoint index |
+
+The same API is served at `https://api.lugworthy.com/brands`, `/watches`, … (`middleware.ts`). Add
+`api.lugworthy.com` under the Vercel project's Domains and a DNS record `CNAME api → cname.vercel-dns.com`.
+
+**The site runs on the API.** With `LUGWORTHY_API_URL` set (e.g. `https://api.lugworthy.com`), every
+page (browse, brand collections, watch pages, compare, search, outbound links) is built from
+`/brands?detail=full` and `/watches?detail=full` (`lib/catalog/from-api.ts`), cached for a minute and
+refreshed by the sync. If the API can't be reached, pages read the database directly and log it.
+The API routes themselves always read the database.
 
 Responses look like `{ data, meta: { total, page, limit, pages, audience, source, syncedAt } }`.
 `source` is `database`, or `snapshot` when no database is connected.
@@ -114,7 +125,9 @@ also shows brand logos, and `IMAGES_PUBLIC=all` shows everything. `audience=all`
 3. **Environment variables** (Project Settings → Environment Variables):
    `GOOGLE_SERVICE_ACCOUNT_JSON` (paste the key file), `CRON_SECRET` (any long random string),
    `BRANDS_API_TOKEN` (any long random string; share it with whoever calls the API).
-4. **Redeploy**, then open `/api/cron/sync?secret=<CRON_SECRET>` once to fill the database.
+4. **API subdomain:** add `api.lugworthy.com` under Domains, add the CNAME at the DNS host, and set
+   `LUGWORTHY_API_URL=https://api.lugworthy.com` so the site reads from it.
+5. **Redeploy**, then open `/api/cron/sync?secret=<CRON_SECRET>` once to fill the database.
 
 A Viewer service account could technically read the whole sheet, but the code only asks for A–L.
 For stricter isolation, put an `IMPORTRANGE` of columns A–L in a separate sheet, share only that
@@ -141,6 +154,7 @@ one, and set `BRANDS_SHEET_ID` to it.
 | `GOOGLE_SERVICE_ACCOUNT_JSON` | Service account key the sync uses to read the sheet (raw JSON or base64). Or `GOOGLE_SERVICE_ACCOUNT_EMAIL` + `GOOGLE_PRIVATE_KEY` |
 | `CRON_SECRET` | Protects `/api/cron/sync`. Vercel Cron sends it automatically |
 | `BRANDS_API_TOKEN` | Read-only bearer token for `/api/v1`. The API is off until it's set |
+| `LUGWORTHY_API_URL` | Where the site's pages get their data (e.g. `https://api.lugworthy.com`). Needs `BRANDS_API_TOKEN`. Without it pages read the database |
 | `BRANDS_SHEET_ID` | Sheet to sync. Defaults to the master list |
 | `IMAGES_PUBLIC` | `logos` or `all` to show brand-site images before a brand grants the image license |
 | `INGEST_CONTACT_EMAIL` | Contact address in the ingest user agent |

@@ -126,7 +126,7 @@ function haystack(b: Brand): string {
   return fold([b.name, b.city, b.country ? countryName(b.country) : b.countryLabel, b.story, ...b.styleTags, b.websiteUrl].filter(Boolean).join(" "));
 }
 
-export function queryBrands(catalog: Catalog, query: BrandQuery, audience: Audience) {
+export function queryBrands(catalog: Catalog, query: BrandQuery, audience: Audience, full = false) {
   const counts = new Map<string, number>();
   for (const m of catalog.publishedModels()) counts.set(m.brandSlug, (counts.get(m.brandSlug) ?? 0) + 1);
 
@@ -167,7 +167,10 @@ export function queryBrands(catalog: Catalog, query: BrandQuery, audience: Audie
 
   const total = list.length;
   const start = (query.page - 1) * query.limit;
-  const data = list.slice(start, start + query.limit).map((b) => toApiBrand(b, counts.get(b.slug) ?? 0, audience, catalog.mediaFor(b.brandId)));
+  const data = list.slice(start, start + query.limit).map((b) => {
+    const base = toApiBrand(b, counts.get(b.slug) ?? 0, audience, catalog.mediaFor(b.brandId));
+    return full ? apiBrandFull(b, base) : base;
+  });
   return { data, total, page: query.page, limit: query.limit, pages: Math.max(1, Math.ceil(total / query.limit)) };
 }
 
@@ -252,6 +255,7 @@ export function apiWatchFromModel(m: Model, brand: Brand, showImages: boolean) {
 
 /** GET /watches: browse every published watch with the site's own filters (lib/filters.ts). */
 export function queryWatches(catalog: Catalog, sp: URLSearchParams) {
+  const full = sp.get("detail") === "full";
   const params = Object.fromEntries(sp.entries());
   const page = Math.max(1, Number(params.page) || 1);
   const limit = Math.min(MAX_LIMIT, Math.max(1, Number(params.limit) || 50));
@@ -264,10 +268,62 @@ export function queryWatches(catalog: Catalog, sp: URLSearchParams) {
     const want = params.soldOut === "true";
     models = models.filter((m) => (m.soldOut ?? !m.variants.some((v) => v.available)) === want);
   }
-  const result = browse(models, parseFilters(params));
-  const items = result.items.slice((page - 1) * limit, page * limit).map((m) => {
+  const result = browse(models, { ...parseFilters(params), page: undefined });
+  // sort=none keeps catalog order (brand collections in the brand's own order); lugworthy.com uses it.
+  const matched = new Set(result.all);
+  const ordered = params.sort === "none" ? models.filter((m) => matched.has(m)) : result.all;
+  const items = ordered.slice((page - 1) * limit, page * limit).map((m) => {
     const b = catalog.brandOf(m);
-    return apiWatchFromModel(m, b, imagesVisible(b, "lugworthy", "watch"));
+    const show = imagesVisible(b, "lugworthy", "watch");
+    return full ? apiWatchFull(m, b, show) : apiWatchFromModel(m, b, show);
   });
   return { data: items, meta: { total: result.total, page, limit, pages: Math.max(1, Math.ceil(result.total / limit)) } };
 }
+
+// ---- Full detail (detail=full) -------------------------------------------------------------
+// Everything lugworthy.com needs to draw its pages, so the site can run on this API alone
+// (lib/catalog/from-api.ts). Still public data only: built from the sheet's public columns,
+// the brand's own site and Lugworthy's editorial fields.
+
+/** Extra brand fields for detail=full. */
+export function apiBrandFull(b: Brand, base: ApiBrand) {
+  return {
+    ...base,
+    countryLabel: b.countryLabel,
+    platform: b.platform,
+    priceMin: b.priceMin,
+    priceMax: b.priceMax,
+    currency: b.currency,
+    claimStatus: b.claimStatus,
+    imageLicenseStatus: b.imageLicenseStatus,
+    colorPrimary: b.colorPrimary,
+    colorSecondary: b.colorSecondary,
+    shipsTo: b.shipsTo,
+    affiliate: b.affiliate,
+    lastSyncedAt: b.lastSyncedAt,
+  };
+}
+export type ApiBrandFull = ReturnType<typeof apiBrandFull>;
+
+/** A watch with every field the site's watch, compare and brand pages use. */
+export function apiWatchFull(m: Model, brand: Brand, showImages: boolean) {
+  return {
+    ...apiWatchFromModel(m, brand, showImages),
+    slug: m.slug,
+    brandSlug: brand.slug,
+    reference: m.reference,
+    limitedEdition: m.limitedEdition,
+    origin: m.origin ?? "seed",
+    importedAt: m.importedAt,
+    reviewed: m.reviewed,
+    specSources: m.specSources,
+    variants: m.variants,
+    images: showImages ? m.images ?? [] : [],
+    imageCredit: showImages ? m.imageCredit ?? null : null,
+    availabilityHistory: m.availabilityHistory ?? [],
+    description: m.description ?? null,
+    options: m.options ?? [],
+    specsRaw: m.specsRaw ?? {},
+  };
+}
+export type ApiWatchFull = ReturnType<typeof apiWatchFull>;

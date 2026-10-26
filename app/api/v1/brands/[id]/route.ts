@@ -1,6 +1,6 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { apiHeaders, authError, authorize, findBrand, resolveBrand } from "@/lib/brands/api";
-import { getBrandSiteCatalog, getCatalog } from "@/lib/data";
+import { getBrandSiteCatalog, getDbCatalog } from "@/lib/data";
 
 // GET /api/v1/brands/BRD-0001 (or a slug, e.g. /api/v1/brands/lorier)
 export async function GET(req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
@@ -10,7 +10,7 @@ export async function GET(req: NextRequest, { params }: { params: Promise<{ id: 
     return NextResponse.json(e.body, { status: e.status });
   }
   const { id } = await params;
-  const catalog = await getCatalog();
+  const catalog = await getDbCatalog();
   const b = resolveBrand(catalog, decodeURIComponent(id), audience);
   const brand = b ? findBrand(catalog, b.brandId!, audience, await getBrandSiteCatalog(b.brandId!)) : null;
   if (!brand) return NextResponse.json({ error: "Brand not found" }, { status: 404, headers: apiHeaders() });

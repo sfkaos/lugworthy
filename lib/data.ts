@@ -1,12 +1,16 @@
-// Read-side repository. Brands come from the database, which the sync job fills from the master
-// sheet (lib/sync). Models come from the imported catalog (data/seed/models.json). Pages and the
-// /api/v1 routes both read through getCatalog(), so the site and the API always agree.
+// Read-side repository.
+//   getDbCatalog(): the database, which the sync job fills from the master sheet and the brand-site
+//     crawl (lib/sync). The /api/v1 routes read this.
+//   getCatalog(): what the site's pages read. With LUGWORTHY_API_URL set it comes from the API
+//     (api.lugworthy.com), so the site runs on the same API other services use. Without it, or if
+//     the API can't be reached, it reads the database directly.
 // Without DATABASE_URL (local dev, tests) the checked-in snapshot and data/catalog files are used.
 
 import { cache } from "react";
 import modelsJson from "@/data/seed/models.json";
 import { bandFor, buildBrands } from "./brands/build";
 import { imagesVisible, loadAllBrandCatalogs, loadBrandCatalog, loadCatalogIndex, type BrandCatalog, type CatalogIndex, type CatalogIndexRow } from "./brands/media";
+import { apiSourceFromEnv, fetchCatalogParts } from "./catalog/from-api";
 import { siteModelsFor } from "./catalog/site-models";
 import { snapshotRows } from "./brands/source";
 import { getDb } from "./db/client";
@@ -21,14 +25,14 @@ export { isAvailable, minPriceUsd, modelId } from "./model-utils";
 export class Catalog {
   readonly brands: Brand[];
   readonly models: Model[];
-  readonly source: "database" | "snapshot";
+  readonly source: "api" | "database" | "snapshot";
   readonly syncedAt: string | null;
   private readonly bySlug: Map<string, Brand>;
   private readonly byId: Map<string, Brand>;
   private readonly media: Map<string, CatalogIndexRow>;
 
   constructor(
-    data: { brands: Brand[]; source: "database" | "snapshot"; syncedAt: string | null },
+    data: { brands: Brand[]; source: "api" | "database" | "snapshot"; syncedAt: string | null },
     models: Model[] = seedModels,
     media?: CatalogIndex,
     siteCatalogs: BrandCatalog[] = [],
@@ -54,7 +58,7 @@ export class Catalog {
     for (const m of models) {
       const b = (m.brandId && this.byId.get(m.brandId)) || this.brands.find((x) => x.slug === m.brandSlug);
       if (!b || crawled.has(b.brandId!)) continue;
-      this.models.push({ ...m, origin: "seed", brandSlug: b.slug, brandId: b.brandId, brand: { name: b.name, country: b.country, styleTags: b.styleTags } });
+      this.models.push({ ...m, origin: m.origin ?? "seed", brandSlug: b.slug, brandId: b.brandId, brand: { name: b.name, country: b.country, styleTags: b.styleTags } });
     }
     // Brands with imported models: live variant prices beat the sheet estimate.
     for (const b of this.brands) {
@@ -167,9 +171,10 @@ async function localCatalog(): Promise<Catalog> {
 // Each server instance keeps the catalog for a minute. Pages are also cached (ISR) and the sync
 // job revalidates them, so a sync shows up within about a minute.
 const TTL_MS = 60_000;
-let memo: { at: number; catalog: Catalog } | null = null;
+let dbMemo: { at: number; catalog: Catalog } | null = null;
+let siteMemo: { at: number; catalog: Catalog } | null = null;
 
-async function loadCatalog(): Promise<Catalog> {
+async function loadDbCatalog(): Promise<Catalog> {
   const db = getDb();
   if (!db) return localCatalog();
   try {
@@ -186,10 +191,28 @@ async function loadCatalog(): Promise<Catalog> {
   }
 }
 
-/** The current catalog, shared by the site and the API. */
+/** The database catalog. The API routes read this (never the API itself). */
+export const getDbCatalog = cache(async (): Promise<Catalog> => {
+  if (!dbMemo || Date.now() - dbMemo.at > TTL_MS) dbMemo = { at: Date.now(), catalog: await loadDbCatalog() };
+  return dbMemo.catalog;
+});
+
+async function loadSiteCatalog(): Promise<Catalog> {
+  const src = apiSourceFromEnv();
+  if (!src) return getDbCatalog();
+  try {
+    const parts = await fetchCatalogParts(src);
+    return new Catalog({ brands: parts.brands, source: "api", syncedAt: parts.syncedAt }, parts.models, parts.media);
+  } catch (e) {
+    console.error(`[catalog] API ${src.baseUrl} failed; reading the database instead:`, (e as Error).message);
+    return getDbCatalog();
+  }
+}
+
+/** The catalog the site's pages read: from the API when LUGWORTHY_API_URL is set, else the database. */
 export const getCatalog = cache(async (): Promise<Catalog> => {
-  if (!memo || Date.now() - memo.at > TTL_MS) memo = { at: Date.now(), catalog: await loadCatalog() };
-  return memo.catalog;
+  if (!siteMemo || Date.now() - siteMemo.at > TTL_MS) siteMemo = { at: Date.now(), catalog: await loadSiteCatalog() };
+  return siteMemo.catalog;
 });
 
 /** One brand's crawled watches and images. */
@@ -205,7 +228,8 @@ export async function getBrandSiteCatalog(code: string): Promise<BrandCatalog | 
   return loadBrandCatalog(code);
 }
 
-/** Forget the in-memory catalog (after a sync on this instance). */
+/** Forget the in-memory catalogs (after a sync on this instance). */
 export function clearCatalogMemo() {
-  memo = null;
+  dbMemo = null;
+  siteMemo = null;
 }

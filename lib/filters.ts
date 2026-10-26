@@ -232,6 +232,8 @@ export interface FacetCounts {
 export interface BrowseResult {
   total: number;
   items: Model[];
+  /** Every match in sorted order, before paging (the API pages these itself). */
+  all: Model[];
   page: number;
   pages: number;
   counts: FacetCounts;
@@ -292,6 +294,7 @@ export function browse(models: Model[], f: Filters): BrowseResult {
   return {
     total: sorted.length,
     items: sorted.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE),
+    all: sorted,
     page,
     pages,
     counts,

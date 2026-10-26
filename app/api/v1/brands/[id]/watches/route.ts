@@ -1,6 +1,6 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { apiHeaders, apiWatches, authError, authorize, resolveBrand } from "@/lib/brands/api";
-import { getBrandSiteCatalog, getCatalog } from "@/lib/data";
+import { getBrandSiteCatalog, getDbCatalog } from "@/lib/data";
 
 // GET /api/v1/brands/BRD-0001/watches[?soldOut=true|false]: every watch found on the brand's own
 // website, with images, variants, full specs and sold-out history.
@@ -11,7 +11,7 @@ export async function GET(req: NextRequest, { params }: { params: Promise<{ id: 
     return NextResponse.json(e.body, { status: e.status });
   }
   const { id } = await params;
-  const b = resolveBrand(await getCatalog(), decodeURIComponent(id), audience);
+  const b = resolveBrand(await getDbCatalog(), decodeURIComponent(id), audience);
   if (!b) return NextResponse.json({ error: "Brand not found" }, { status: 404, headers: apiHeaders() });
   const so = req.nextUrl.searchParams.get("soldOut");
   const soldOut = so === "true" ? true : so === "false" ? false : undefined;
