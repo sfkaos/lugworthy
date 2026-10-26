@@ -7,11 +7,12 @@ license (a to-scale case outline is drawn instead), and no money figures.
 
 ## What's in it
 
-- **1,293 published independent brands.** About 610 come from the two brand spreadsheets ("Brand
-  outreach status – all brands" and "New independent watch brands", batch 2), and about 680 more
-  from the Coroa microbrand guide. Each has a hub page with country, city and style tags, and most
-  have founding year, movement type, movement makers, calibers, case-size range and a typical price.
-  11 group-owned brands are hidden, and 111 brands are drafts for an editor to check (see below).
+- **1,274 published independent brands** from the "Brand master list (source of truth)" Google Sheet
+  (1,437 brands with permanent BRD IDs). Each has a hub page with country, city, description and
+  style tags, and most also show founding year, movement type, movement makers, calibers, case-size
+  range and a typical price from the Coroa microbrand guide. The 11 group-owned brands are hidden.
+  152 brands are drafts: 4 marked "Needs review", 133 with no website yet, and 15 whose site check
+  failed.
 - **78 models (204 variants) across 12 brands**, mapped from the brands' public Shopify product
   feeds. They show as "imported, not confirmed" until an editor or the brand reviews them.
 - Faceted browse at `/watches` with diameter, lug-to-lug, thickness, water resistance, price,
@@ -24,9 +25,9 @@ license (a to-scale case outline is drawn instead), and no money figures.
 - Hubs by style, country and caliber, plus the brands index, the for-brands claim form, takedown,
   image policy, privacy, En Punto, sitemap and robots.
 
-Only public-safe columns from the sheets are used: name, website, country, description, Instagram
-and site check. Contact emails, outreach status, notes and founder details are never copied into
-the site, and `tests/normalize.test.ts` fails if an email ends up in published data.
+Only the public columns (A–L) of the master list are used. The private outreach columns (R–AN:
+emails, founders, status, replies, notes) are never copied into the repo, and
+`tests/normalize.test.ts` fails if an email ends up in published data.
 
 ## Run it
 
@@ -41,14 +42,11 @@ BASE_URL=http://localhost:3000 node tests/e2e/acceptance.mjs   # acceptance chec
 
 ## Data
 
-- `data/raw/sheets.json` is a snapshot of the spreadsheet columns used, with the private columns
-  removed. `data/raw/shopify-sample.json` holds the product feeds.
-- `data/raw/directories.json` is a snapshot of brand-level facts from the Coroa microbrand guide
-  (all 1,314 brands, detail pages for 741) and the Watch Police brand index (A to N). The seed fills
-  missing fields for brands already in the sheets and adds new independent brands. Group-owned
-  brands are excluded, and marketplace, fashion-led or unclear brands are added as drafts
-  (`EXCLUDE`, `REVIEW` and `WP_ADD` in `scripts/build-seed.ts`). Each build writes
-  `data/seed/directory-log.json` listing what was added or excluded and why.
+- `data/raw/master.json` is a snapshot of the master list's Brands tab, columns A–L. Only rows with
+  Lugworthy fit "Yes" are published. To re-sync, export those columns again; never include R–AN.
+- `data/raw/directories.json` holds brand-level facts from the Coroa microbrand guide (1,314
+  brands) and the Watch Police index. They fill fields the master list doesn't have but never add
+  brands. `data/raw/shopify-sample.json` holds the product feeds.
 - `npm run seed:build` regenerates `data/seed/brands.json` and `models.json`.
 - `npm run ingest -- <domain>` pulls a brand's Shopify feed politely, respecting robots.txt with a
   2 s delay. It needs outbound network access, for example a scheduled job on Vercel.

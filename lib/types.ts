@@ -54,6 +54,7 @@ export type BrandClass = "microbrand" | "legacy_micro" | "independent";
 
 export interface Brand {
   slug: string;
+  brandId?: string; // permanent ID from the master list, e.g. BRD-0001
   name: string;
   websiteUrl: string | null;
   platform: "shopify" | "woocommerce" | "bigcommerce" | "squarespace" | "other" | null;
