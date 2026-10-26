@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { Hub } from "@/components/Hub";
-import { publishedModels } from "@/lib/data";
+import { getCatalog } from "@/lib/data";
 import { availability } from "@/lib/filters";
 
 const STYLES = ["diver", "field", "pilot", "gmt", "chronograph", "dress", "racing", "skin_diver", "integrated_bracelet", "tool"];
@@ -18,10 +18,11 @@ export async function generateMetadata({ params }: { params: P }): Promise<Metad
 }
 
 export default async function StyleHub({ params }: { params: P }) {
+  const catalog = await getCatalog();
   const { style } = await params;
   if (!STYLES.includes(style)) notFound();
   const t = await getTranslations();
   const label = t(`enum.style.${style}`);
-  const models = publishedModels().filter((m) => m.styles.includes(style as never)).sort((a, b) => Number(availability(b) !== "sold_out") - Number(availability(a) !== "sold_out"));
+  const models = catalog.publishedModels().filter((m) => m.styles.includes(style as never)).sort((a, b) => Number(availability(b) !== "sold_out") - Number(availability(a) !== "sold_out"));
   return <Hub path={`/styles/${style}`} title={t("hub.styleTitle", { style: label })} intro={t("hub.styleIntro", { style: label.toLowerCase() })} models={models} browseHref={`/watches?style=${style}`} browseLabel={t("hub.browseAll")} />;
 }

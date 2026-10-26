@@ -4,7 +4,7 @@ import { getTranslations } from "next-intl/server";
 import { FilterRail, type Bounds } from "@/components/FilterRail";
 import { ModelGrid } from "@/components/ModelCard";
 import { SortSelect } from "@/components/SortSelect";
-import { minPriceUsd, publishedModels } from "@/lib/data";
+import { getCatalog, minPriceUsd } from "@/lib/data";
 import { activeCount, browse, MULTI_FACETS, parseFilters, toSearchParams, type Filters } from "@/lib/filters";
 import { facetLabels } from "@/lib/labels";
 
@@ -24,9 +24,10 @@ function bounds(values: number[], step: number, unit: string, pad = 0): Bounds {
 }
 
 export default async function WatchesPage({ searchParams }: { searchParams: SP }) {
+  const catalog = await getCatalog();
   const t = await getTranslations();
   const f = parseFilters(await searchParams);
-  const all = publishedModels();
+  const all = catalog.publishedModels();
   const r = browse(all, f);
   const labels = await facetLabels(r.counts);
 

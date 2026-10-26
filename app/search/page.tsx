@@ -3,12 +3,13 @@ import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { BrandCard } from "@/components/BrandCard";
 import { ModelGrid } from "@/components/ModelCard";
-import { modelsForBrand, publishedBrands, publishedModels } from "@/lib/data";
+import { getCatalog } from "@/lib/data";
 import { textScore, tokenize } from "@/lib/filters";
 
 export const metadata: Metadata = { title: "Search", robots: { index: false, follow: true } };
 
 export default async function SearchPage({ searchParams }: { searchParams: Promise<{ q?: string }> }) {
+  const catalog = await getCatalog();
   const t = await getTranslations();
   const q = ((await searchParams).q ?? "").trim();
   if (!q) {
@@ -20,7 +21,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
     );
   }
   const tokens = tokenize(q);
-  const brands = publishedBrands()
+  const brands = catalog.publishedBrands()
     .map((b) => {
       const hay = tokenize(`${b.name} ${b.city ?? ""} ${b.styleTags.join(" ")}`);
       const name = b.name.toLowerCase();
@@ -34,7 +35,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
     .sort((a, b) => b.score - a.score)
     .slice(0, 12)
     .map((x) => x.b);
-  const models = publishedModels()
+  const models = catalog.publishedModels()
     .map((m) => ({ m, s: textScore(m, q) }))
     .filter((x) => x.s > 0)
     .sort((a, b) => b.s - a.s)
@@ -48,7 +49,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
         <section className="mt-6">
           <h2 className="mb-3 text-xl font-semibold">{t("search.brands")}</h2>
           <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            {brands.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={modelsForBrand(b.slug).length} /></li>)}
+            {brands.map((b) => <li key={b.slug}><BrandCard brand={b} modelCount={catalog.modelsForBrand(b.slug).length} /></li>)}
           </ul>
         </section>
       )}

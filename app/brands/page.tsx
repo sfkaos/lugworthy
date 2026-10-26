@@ -3,7 +3,7 @@ import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { BrandCard } from "@/components/BrandCard";
 import { countryName } from "@/lib/countries";
-import { modelsForBrand, publishedBrands } from "@/lib/data";
+import { getCatalog } from "@/lib/data";
 import type { Brand } from "@/lib/types";
 
 type SP = Promise<{ letter?: string; country?: string; band?: string; tag?: string; specs?: string; page?: string }>;
@@ -22,10 +22,11 @@ const letterOf = (b: Brand) => {
 };
 
 export default async function BrandsPage({ searchParams }: { searchParams: SP }) {
+  const catalog = await getCatalog();
   const t = await getTranslations();
   const sp = await searchParams;
-  const all = publishedBrands();
-  const counts = new Map(all.map((b) => [b.slug, modelsForBrand(b.slug).length]));
+  const all = catalog.publishedBrands();
+  const counts = new Map(all.map((b) => [b.slug, catalog.modelsForBrand(b.slug).length]));
   const countries = [...new Set(all.map((b) => b.country).filter((c): c is string => !!c))].sort((a, b) => countryName(a).localeCompare(countryName(b)));
   const tagCounts = new Map<string, number>();
   for (const b of all) for (const tag of b.styleTags) tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);

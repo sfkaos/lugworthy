@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useTranslations } from "next-intl";
-import { brandOf, isAvailable, minPriceUsd, modelId } from "@/lib/data";
+import { brandInfo, isAvailable, minPriceUsd, modelId } from "@/lib/model-utils";
 import { metres, mm, money } from "@/lib/format";
 import type { Model } from "@/lib/types";
 import { CaseOutline } from "./CaseOutline";
@@ -8,8 +8,7 @@ import { CompareButton } from "./CompareButton";
 
 export function ModelCard({ model, showBrand = true }: { model: Model; showBrand?: boolean }) {
   const t = useTranslations();
-  const brand = brandOf(model);
-  const href = `/brands/${brand.slug}/${model.slug}`;
+  const href = `/brands/${model.brandSlug}/${model.slug}`;
   const s = model.specs;
   const facts = [mm(s.caseDiameterMm), s.lugToLugMm ? `${mm(s.lugToLugMm)} L2L` : null, metres(s.waterResistanceM), s.caliber ?? (s.movementType ? t(`enum.mov.${s.movementType}`) : null)].filter(Boolean);
   const available = isAvailable(model);
@@ -24,7 +23,7 @@ export function ModelCard({ model, showBrand = true }: { model: Model; showBrand
         </div>
       </div>
       <div className="flex flex-1 flex-col gap-1 p-3">
-        {showBrand && <p className="eyebrow">{brand.name}</p>}
+        {showBrand && <p className="eyebrow">{brandInfo(model).name}</p>}
         <h3 className="font-semibold leading-snug">
           <Link href={href} className="after:absolute after:inset-0">
             {model.name}

@@ -3,7 +3,7 @@
 // collapsed to the model's minimum.
 
 import { countryName } from "./countries";
-import { brandOf, isAvailable, minPriceUsd } from "./data";
+import { brandInfo, isAvailable, minPriceUsd } from "./model-utils";
 import type { Model } from "./types";
 
 export type Range = { min?: number; max?: number };
@@ -133,7 +133,7 @@ const ACCESSORS: Record<string, (m: Model) => string[]> = {
   mat: (m) => (m.specs.caseMaterial ? [m.specs.caseMaterial] : []),
   lug: (m) => (m.specs.lugWidthMm ? [String(m.specs.lugWidthMm)] : []),
   comp: (m) => m.specs.complications,
-  country: (m) => (brandOf(m).country ? [brandOf(m).country!] : []),
+  country: (m) => (brandInfo(m).country ? [brandInfo(m).country!] : []),
 };
 
 export const MULTI_FACETS = Object.keys(ACCESSORS) as (keyof typeof ACCESSORS)[];
@@ -168,7 +168,7 @@ function editDistanceLe1(a: string, b: string): boolean {
 }
 
 function haystack(m: Model): { field: string; weight: number }[] {
-  const b = brandOf(m);
+  const b = brandInfo(m);
   return [
     { field: m.name, weight: 5 },
     { field: b.name, weight: 4 },

@@ -2,35 +2,36 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { Hub } from "@/components/Hub";
-import { publishedModels } from "@/lib/data";
+import { getCatalog } from "@/lib/data";
 import { caliberFacet } from "@/lib/filters";
 import { CALIBERS, caliberKey, caliberSlug } from "@/lib/ingest/normalize";
 import { hours } from "@/lib/format";
 
 type P = Promise<{ caliber: string }>;
 
-function calibersInUse() {
+async function calibersInUse() {
+  const catalog = await getCatalog();
   const map = new Map<string, string>();
-  for (const m of publishedModels()) if (m.specs.caliber) map.set(caliberSlug(m.specs.caliber), m.specs.caliber);
+  for (const m of catalog.publishedModels()) if (m.specs.caliber) map.set(caliberSlug(m.specs.caliber), m.specs.caliber);
   return map;
 }
 
-export function generateStaticParams() { return [...calibersInUse().keys()].map((caliber) => ({ caliber })); }
-export const dynamicParams = false;
+export async function generateStaticParams() { return [...(await calibersInUse()).keys()].map((caliber) => ({ caliber })); }
 
 export async function generateMetadata({ params }: { params: P }): Promise<Metadata> {
   const t = await getTranslations();
   const slug = (await params).caliber;
-  const name = calibersInUse().get(slug) ?? slug;
+  const name = (await calibersInUse()).get(slug) ?? slug;
   return { title: t("hub.caliberTitle", { caliber: name }), alternates: { canonical: `/calibers/${slug}` } };
 }
 
 export default async function CaliberHub({ params }: { params: P }) {
   const slug = (await params).caliber;
-  const name = calibersInUse().get(slug);
+  const name = (await calibersInUse()).get(slug);
   if (!name) notFound();
+  const catalog = await getCatalog();
   const t = await getTranslations();
-  const models = publishedModels().filter((m) => m.specs.caliber === name);
+  const models = catalog.publishedModels().filter((m) => m.specs.caliber === name);
   const info = CALIBERS[caliberKey(name) ?? ""];
   const facts = info
     ? [["Maker", info.maker], ["Type", t(`enum.mov.${info.type}`)], ["Power reserve", hours(info.powerReserveH ?? null)], ["Beat rate", info.frequencyBph ? `${info.frequencyBph.toLocaleString("en-US")} bph` : null], ["Hacking", info.hacking == null ? null : info.hacking ? "Yes" : "No"], ["Hand-winding", info.handWinding == null ? null : info.handWinding ? "Yes" : "No"]].filter(([, v]) => v)

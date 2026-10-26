@@ -4,20 +4,20 @@ import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { ModelGrid } from "@/components/ModelCard";
 import { countryName } from "@/lib/countries";
-import { getBrand, minPriceUsd, modelsForBrand, publishedBrands } from "@/lib/data";
+import { getCatalog, minPriceUsd } from "@/lib/data";
 import { metres, mm, money, shortDate } from "@/lib/format";
 import { EXHIBIT_URL, SITE_URL, jsonLd } from "@/lib/site";
 import { brandThemeStyle } from "@/lib/theme";
 
 type P = Promise<{ brand: string }>;
 
-export function generateStaticParams() {
-  return publishedBrands().map((b) => ({ brand: b.slug }));
+export async function generateStaticParams() {
+  const catalog = await getCatalog();
+  return catalog.publishedBrands().map((b) => ({ brand: b.slug }));
 }
-export const dynamicParams = false;
 
 export async function generateMetadata({ params }: { params: P }): Promise<Metadata> {
-  const b = getBrand((await params).brand);
+  const b = (await getCatalog()).getBrand((await params).brand);
   if (!b) return {};
   const where = [b.city, b.country ? countryName(b.country) : null].filter(Boolean).join(", ");
   return {
@@ -37,10 +37,11 @@ function range(vals: (number | null)[], fmt: (v: number) => string | null) {
 export default async function BrandPage({ params, searchParams }: { params: P; searchParams: Promise<{ style?: string }> }) {
   const { brand: slug } = await params;
   const { style } = await searchParams;
-  const brand = getBrand(slug);
+  const catalog = await getCatalog();
+  const brand = catalog.getBrand(slug);
   if (!brand) notFound();
   const t = await getTranslations();
-  const models = modelsForBrand(slug);
+  const models = catalog.modelsForBrand(slug);
   const styles = [...new Set(models.flatMap((m) => m.styles))].filter((s) => s !== "other");
   const shown = style ? models.filter((m) => m.styles.includes(style as never)) : models;
   const place = [brand.city, brand.country ? countryName(brand.country) : brand.countryLabel].filter(Boolean).join(", ");

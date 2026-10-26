@@ -82,6 +82,11 @@ export interface Brand {
   founded?: number | null;
   /** Brand-level facts from public watch directories, used until the brand's own catalog is imported. */
   facts?: BrandFacts | null;
+  /** Straight from the master list: "Independent", "Group-owned" or "Needs review". */
+  ownership?: string | null;
+  /** Master list "Lugworthy fit": "Yes", "No" or "Review". */
+  lugworthyFit?: string | null;
+  siteCheck?: string | null;
 }
 
 export interface BrandFacts {
@@ -133,6 +138,10 @@ export interface Variant {
 export interface Model {
   slug: string;
   brandSlug: string;
+  /** Permanent master-list ID of the brand. Models follow it if the brand's name (and slug) changes. */
+  brandId?: string;
+  /** Filled in when the catalog loads, so cards and filters can show the brand without another lookup. */
+  brand?: { name: string; country: string | null; styleTags: string[] };
   name: string;
   reference: string | null;
   status: ModelStatus;

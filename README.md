@@ -25,9 +25,10 @@ license (a to-scale case outline is drawn instead), and no money figures.
 - Hubs by style, country and caliber, plus the brands index, the for-brands claim form, takedown,
   image policy, privacy, En Punto, sitemap and robots.
 
-Only the public columns (A–L) of the master list are used. The private outreach columns (R–AN:
-emails, founders, status, replies, notes) are never copied into the repo, and
-`tests/normalize.test.ts` fails if an email ends up in published data.
+Brand data is read live from the master sheet (see "Data and the brands API"). Only the public
+columns (A–L) are used. The private outreach columns (R–AN: emails, founders, status, replies,
+notes) are never requested or copied into the repo, and the tests fail if an email ends up in
+published data or the API.
 
 ## Run it
 
@@ -40,19 +41,69 @@ npm run lint           # type check
 BASE_URL=http://localhost:3000 node tests/e2e/acceptance.mjs   # acceptance checks (Playwright)
 ```
 
-## Data
+## Data and the brands API
 
-- `data/raw/master.json` is a snapshot of the master list's Brands tab, columns A–L. Only rows with
-  Lugworthy fit "Yes" are published. To re-sync, export those columns again; never include R–AN.
+Brand data comes from the **"Brand master list (source of truth)"** Google Sheet, Brands tab. The
+site and the API both read it live through `getCatalog()` in `lib/data.ts`, so they always agree.
+
+```
+Google Sheet (Brands!A1:L) --Sheets API, service account--> lib/brands/source.ts (cached 10 min, tag "brands")
+   |                                                              |
+   └── data/raw/master.json (snapshot, used when the sheet       lib/brands/build.ts (publish rules, directory facts)
+       can't be reached or no credentials are set)                |
+                                                     lib/data.ts getCatalog() --> pages and /api/v1/brands
+```
+
+- **Only columns A–L are ever requested.** The private outreach columns (R–AN: emails, founders,
+  status, replies, notes) never leave Google. The live read also checks the header row and falls
+  back to the snapshot if the columns were moved, or if fewer than 100 brand rows come back.
+- **Publishing rule:** a brand is public on Lugworthy when Ownership is "Independent", Lugworthy fit
+  is "Yes", and it has a working website. "No" fit or group-owned brands are hidden; the rest are
+  drafts.
+- **Freshness:** sheet edits show up within 10 minutes (`BRANDS_REVALIDATE_SECONDS`), with no
+  rebuild. Visit `/api/v1/brands/refresh?secret=<BRANDS_REFRESH_SECRET>` to make them live now.
+- Models (`data/seed/models.json`) are linked to brands by BRD ID, so renaming a brand in the sheet
+  keeps its models.
+
+### API
+
+| Endpoint | What it returns |
+|---|---|
+| `GET /api/v1/brands` | Published brands. Query: `q`, `country` (ISO-2, comma-separated), `style`, `price` (`budget`, `affordable`, `mid`, `upper_mid`, `high`), `class`, `hasModels=true`, `page`, `limit` (max 200) |
+| `GET /api/v1/brands/BRD-0348` | One brand by BRD ID or slug |
+| `?audience=all` | Every brand in the master list, plus ownership, fit and site check. Needs `Authorization: Bearer <BRANDS_API_KEY>`. Meant for En Punto and internal tools |
+| `GET /api/v1` | Endpoint index |
+
+Responses look like `{ data, meta: { total, page, limit, pages, audience, source, syncedAt } }`.
+`source` is `sheet` for a live read or `snapshot` for the fallback. Public responses allow any
+origin (CORS) and are cached at the edge for 5 minutes.
+
+### Connecting the sheet (one time, free)
+
+1. In Google Cloud Console, create a project, enable the **Google Sheets API**, and create a
+   **service account**. Add a JSON key and download it.
+2. Share the master sheet with the service account's email (`...@...iam.gserviceaccount.com`)
+   as **Viewer**.
+3. In Vercel, Project Settings → Environment Variables, add `GOOGLE_SERVICE_ACCOUNT_JSON` (paste
+   the key file contents), `BRANDS_REFRESH_SECRET` and, when En Punto needs it, `BRANDS_API_KEY`.
+   Redeploy.
+
+A Viewer service account can technically read the whole sheet, but the code only asks for A–L.
+For stricter isolation, put an `IMPORTRANGE` of columns A–L in a separate sheet, share only that
+one, and set `BRANDS_SHEET_ID` to it.
+
+### Other data
+
+- `data/raw/master.json` is the fallback snapshot of columns A–L. `npm run seed:build` rebuilds
+  `data/seed/*.json` from it with the same rules as the live site. Refresh it now and then so the
+  fallback stays close to the sheet; never include R–AN.
 - `data/raw/directories.json` holds brand-level facts from the Coroa microbrand guide (1,314
   brands) and the Watch Police index. They fill fields the master list doesn't have but never add
   brands. `data/raw/shopify-sample.json` holds the product feeds.
-- `npm run seed:build` regenerates `data/seed/brands.json` and `models.json`.
 - `npm run ingest -- <domain>` pulls a brand's Shopify feed politely, respecting robots.txt with a
   2 s delay. It needs outbound network access, for example a scheduled job on Vercel.
 - `db/schema.ts` is the full Postgres schema from doc 06. `npm run db:generate` and
-  `npm run db:seed` load the seed into Postgres. The pages still read the JSON seed through
-  `lib/data.ts`, which is the one place to change when you move to the database.
+  `npm run db:seed` load the seed into Postgres. No database is needed today.
 
 ## Environment variables (all optional)
 
@@ -60,6 +111,11 @@ BASE_URL=http://localhost:3000 node tests/e2e/acceptance.mjs   # acceptance chec
 |---|---|
 | `NEXT_PUBLIC_SITE_URL` | Canonical URL for the sitemap, JSON-LD and OG tags |
 | `RESEND_API_KEY`, `RESEND_AUDIENCE_ID` | Newsletter signups. Without them, signups are logged with a hashed email |
+| `GOOGLE_SERVICE_ACCOUNT_JSON` | Service account key for reading the master sheet live (raw JSON or base64). Or set `GOOGLE_SERVICE_ACCOUNT_EMAIL` + `GOOGLE_PRIVATE_KEY`. Without it, the snapshot is used |
+| `BRANDS_SHEET_ID` | Sheet to read. Defaults to the master list |
+| `BRANDS_REVALIDATE_SECONDS` | How long a sheet read is cached. Default 600 |
+| `BRANDS_REFRESH_SECRET` | Secret for `/api/v1/brands/refresh` |
+| `BRANDS_API_KEY` | Unlocks `audience=all` on the brands API (En Punto) |
 | `DATABASE_URL` | Postgres for `db:seed` |
 | `INGEST_CONTACT_EMAIL` | Contact address in the ingest user agent |
 | `NEXT_PUBLIC_EN_PUNTO_URL`, `NEXT_PUBLIC_EXHIBIT_URL` | En Punto links |

@@ -6,22 +6,23 @@ import { CaseOutline } from "@/components/CaseOutline";
 import { ModelGrid } from "@/components/ModelCard";
 import { ModelPurchase } from "@/components/ModelPurchase";
 import { SpecTable, specRows } from "@/components/SpecTable";
-import { getBrand, getModel, modelId, modelsForBrand, publishedModels, similarModels } from "@/lib/data";
+import { getCatalog, modelId } from "@/lib/data";
 import { mm, shortDate, wristFit } from "@/lib/format";
 import { SITE_URL, jsonLd } from "@/lib/site";
 import { brandThemeStyle } from "@/lib/theme";
 
 type P = Promise<{ brand: string; model: string }>;
 
-export function generateStaticParams() {
-  return publishedModels().map((m) => ({ brand: m.brandSlug, model: m.slug }));
+export async function generateStaticParams() {
+  const catalog = await getCatalog();
+  return catalog.publishedModels().map((m) => ({ brand: m.brandSlug, model: m.slug }));
 }
-export const dynamicParams = false;
 
 export async function generateMetadata({ params }: { params: P }): Promise<Metadata> {
   const { brand, model } = await params;
-  const m = getModel(brand, model);
-  const b = getBrand(brand);
+  const catalog = await getCatalog();
+  const m = catalog.getModel(brand, model);
+  const b = catalog.getBrand(brand);
   if (!m || !b) return {};
   const s = m.specs;
   const bits = [mm(s.caseDiameterMm), s.caliber, s.waterResistanceM ? `${s.waterResistanceM} m` : null].filter(Boolean).join(", ");
@@ -36,14 +37,15 @@ export async function generateMetadata({ params }: { params: P }): Promise<Metad
 export default async function ModelPage({ params, searchParams }: { params: P; searchParams: Promise<{ v?: string }> }) {
   const { brand: bSlug, model: mSlug } = await params;
   const { v } = await searchParams;
-  const model = getModel(bSlug, mSlug);
-  const brand = getBrand(bSlug);
+  const catalog = await getCatalog();
+  const model = catalog.getModel(bSlug, mSlug);
+  const brand = catalog.getBrand(bSlug);
   if (!model || !brand) notFound();
   const t = await getTranslations();
   const s = model.specs;
   const initial = Math.min(Math.max(Number(v ?? 0) || 0, 0), model.variants.length - 1);
-  const more = modelsForBrand(brand.slug).filter((m) => m.slug !== model.slug).slice(0, 4);
-  const similar = similarModels(model);
+  const more = catalog.modelsForBrand(brand.slug).filter((m) => m.slug !== model.slug).slice(0, 4);
+  const similar = catalog.similarModels(model);
   const fit = wristFit(s.lugToLugMm);
   const url = `${SITE_URL}/brands/${brand.slug}/${model.slug}`;
 

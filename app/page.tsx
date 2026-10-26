@@ -2,24 +2,25 @@ import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { BrandCard } from "@/components/BrandCard";
 import { ModelGrid } from "@/components/ModelCard";
-import { brandStats, modelsForBrand, publishedBrands, publishedModels } from "@/lib/data";
+import { getCatalog } from "@/lib/data";
 import { availability } from "@/lib/filters";
 import { SITE_URL, jsonLd } from "@/lib/site";
 
 const STYLE_TILES = ["diver", "field", "gmt", "chronograph", "dress", "pilot"] as const;
 
 export default async function Home() {
+  const catalog = await getCatalog();
   const t = await getTranslations();
-  const stats = brandStats();
-  const models = publishedModels();
+  const stats = catalog.brandStats();
+  const models = catalog.publishedModels();
   // One fresh model per brand first, so the row isn't a single catalog.
   const seen = new Set<string>();
   const fresh = models.filter((m) => availability(m) !== "sold_out").filter((m) => (seen.has(m.brandSlug) ? false : (seen.add(m.brandSlug), true)));
   const newReleases = [...fresh, ...models.filter((m) => !fresh.includes(m))].slice(0, 12);
 
-  const brands = publishedBrands();
+  const brands = catalog.publishedBrands();
   const featured = brands.find((b) => b.slug === "oak-and-oscar") ?? brands[0];
-  const featuredModels = modelsForBrand(featured.slug).slice(0, 3);
+  const featuredModels = catalog.modelsForBrand(featured.slug).slice(0, 3);
   const newBrands = brands.filter((b) => b.story && b.sources.includes("all-brands")).slice(-8);
 
   const chips: [string, string][] = [
@@ -99,7 +100,7 @@ export default async function Home() {
         </div>
         <ul className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {newBrands.map((b) => (
-            <li key={b.slug}><BrandCard brand={b} modelCount={modelsForBrand(b.slug).length} /></li>
+            <li key={b.slug}><BrandCard brand={b} modelCount={catalog.modelsForBrand(b.slug).length} /></li>
           ))}
         </ul>
       </section>
