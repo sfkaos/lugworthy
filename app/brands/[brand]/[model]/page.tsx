@@ -7,7 +7,7 @@ import { ModelGrid } from "@/components/ModelCard";
 import { ModelGallery } from "@/components/ModelGallery";
 import { ModelPurchase } from "@/components/ModelPurchase";
 import { SpecTable, specRows } from "@/components/SpecTable";
-import { getCatalog, modelId } from "@/lib/data";
+import { getCatalog, getModelDetail, modelId } from "@/lib/data";
 import { mm, shortDate, wristFit } from "@/lib/format";
 import { SITE_URL, jsonLd } from "@/lib/site";
 import { brandThemeStyle } from "@/lib/theme";
@@ -40,7 +40,7 @@ export default async function ModelPage({ params, searchParams }: { params: P; s
   const { brand: bSlug, model: mSlug } = await params;
   const { v } = await searchParams;
   const catalog = await getCatalog();
-  const model = catalog.getModel(bSlug, mSlug);
+  const model = await getModelDetail(bSlug, mSlug);
   const brand = catalog.getBrand(bSlug);
   if (!model || !brand) notFound();
   const t = await getTranslations();

@@ -247,3 +247,22 @@ export function clearCatalogMemo() {
   dbMemo = null;
   siteMemo = null;
 }
+
+/**
+ * One watch with everything its page shows. The site-wide catalog keeps only a few photos per
+ * crawled watch and no stock history, so the watch page reads that brand's full crawl here.
+ */
+export const getModelDetail = cache(async (brandSlug: string, modelSlug: string): Promise<Model | undefined> => {
+  const catalog = await getCatalog();
+  const m = catalog.getModel(brandSlug, modelSlug);
+  const b = catalog.getBrand(brandSlug);
+  if (!m || !b || m.origin !== "site" || !b.brandId) return m;
+  try {
+    const full = await getBrandSiteCatalog(b.brandId);
+    const detail = full && siteModelsFor(full, b, imagesVisible(b, "lugworthy", "watch")).find((x) => x.slug === m.slug);
+    return detail ? { ...m, ...detail, brandSlug: m.brandSlug, brandId: m.brandId, brand: m.brand } : m;
+  } catch (e) {
+    console.error("[catalog] watch detail read failed:", (e as Error).message);
+    return m;
+  }
+});
