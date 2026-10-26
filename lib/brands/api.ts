@@ -10,6 +10,7 @@ import { countryName } from "@/lib/countries";
 import { SITE_URL } from "@/lib/site";
 import type { Catalog } from "@/lib/data";
 import type { Brand, BrandClass, BrandFacts, PriceBand } from "@/lib/types";
+import { imagesVisible, type BrandCatalog, type CatalogIndexRow, type CatalogWatch } from "./media";
 
 export type Audience = "lugworthy" | "all";
 
@@ -32,6 +33,12 @@ export interface ApiBrand {
   facts: (Omit<BrandFacts, "typicalPriceUsd"> & { typicalPriceUsd: number | null }) | null;
   modelCount: number;
   url: string | null; // Lugworthy page, when published
+  /** Logo or hero image taken from the brand's own website. Null until crawled, or while brand images are hidden (see imagesVisible). */
+  image: { url: string; kind?: string; sourcePage?: string | null; width?: number | null; height?: number | null } | null;
+  /** Watches found on the brand's own website by the catalog crawler. */
+  watchCount: number;
+  catalogCrawledAt: string | null;
+  imagesShown: boolean;
 }
 
 export interface ApiBrandInternal extends ApiBrand {
@@ -43,7 +50,9 @@ export interface ApiBrandInternal extends ApiBrand {
 
 const dollars = (minor: number | null | undefined) => (minor == null ? null : Math.round(minor / 100));
 
-export function toApiBrand(b: Brand, modelCount: number, audience: Audience): ApiBrand | ApiBrandInternal {
+export function toApiBrand(b: Brand, modelCount: number, audience: Audience, media: CatalogIndexRow | null = null, detail: BrandCatalog | null = null): ApiBrand | ApiBrandInternal {
+  const show = imagesVisible(b, audience, "brand");
+  const image = detail?.brandImage ?? (media?.brandImageUrl ? { url: media.brandImageUrl } : null);
   const base: ApiBrand = {
     id: b.brandId!,
     slug: b.slug,
@@ -63,6 +72,10 @@ export function toApiBrand(b: Brand, modelCount: number, audience: Audience): Ap
     facts: b.facts ? { ...b.facts, typicalPriceUsd: dollars(b.facts.typicalPriceUsd) } : null,
     modelCount,
     url: b.status === "published" ? `${SITE_URL}/brands/${b.slug}` : null,
+    image: show ? image : null,
+    watchCount: detail?.watches.length ?? media?.watchCount ?? 0,
+    catalogCrawledAt: detail?.crawledAt ?? media?.crawledAt ?? null,
+    imagesShown: show && !!image,
   };
   if (audience === "lugworthy") return base;
   return { ...base, ownership: b.ownership ?? null, lugworthyFit: b.lugworthyFit ?? null, siteCheck: b.siteCheck ?? null, lugworthyStatus: b.status };
@@ -75,6 +88,7 @@ export interface BrandQuery {
   priceBand?: string; // comma-separated PriceBand values
   brandClass?: string;
   hasModels?: boolean;
+  hasImages?: boolean;
   ownership?: string; // audience "all" only
   page: number;
   limit: number;
@@ -92,6 +106,7 @@ export function parseBrandQuery(sp: URLSearchParams): BrandQuery {
     priceBand: str("price") ?? str("priceBand"),
     brandClass: str("class"),
     hasModels: sp.get("hasModels") === "true" ? true : undefined,
+    hasImages: sp.get("hasImages") === "true" ? true : undefined,
     ownership: str("ownership"),
     page: Math.max(1, int(sp.get("page"), 1)),
     limit: Math.min(MAX_LIMIT, Math.max(1, int(sp.get("limit"), 50))),
@@ -121,6 +136,7 @@ export function queryBrands(catalog: Catalog, query: BrandQuery, audience: Audie
     const s = fold(query.style);
     list = list.filter((b) => b.styleTags.some((t) => fold(t).includes(s)));
   }
+  if (query.hasImages) list = list.filter((b) => !!catalog.mediaFor(b.brandId)?.brandImageUrl && imagesVisible(b, audience, "brand"));
   if (query.hasModels) list = list.filter((b) => (counts.get(b.slug) ?? 0) > 0);
   if (audience === "all" && query.ownership) {
     const o = fold(query.ownership);
@@ -144,15 +160,37 @@ export function queryBrands(catalog: Catalog, query: BrandQuery, audience: Audie
 
   const total = list.length;
   const start = (query.page - 1) * query.limit;
-  const data = list.slice(start, start + query.limit).map((b) => toApiBrand(b, counts.get(b.slug) ?? 0, audience));
+  const data = list.slice(start, start + query.limit).map((b) => toApiBrand(b, counts.get(b.slug) ?? 0, audience, catalog.mediaFor(b.brandId)));
   return { data, total, page: query.page, limit: query.limit, pages: Math.max(1, Math.ceil(total / query.limit)) };
 }
 
-/** Finds a brand by BRD ID or slug, hiding unpublished ones from the public audience. */
-export function findBrand(catalog: Catalog, idOrSlug: string, audience: Audience) {
+/** Resolves a BRD ID or slug, hiding unpublished brands from the public audience. */
+export function resolveBrand(catalog: Catalog, idOrSlug: string, audience: Audience): Brand | null {
   const b = /^brd-\d+$/i.test(idOrSlug) ? catalog.brandById(idOrSlug) : catalog.brands.find((x) => x.slug === idOrSlug.toLowerCase());
   if (!b || (audience === "lugworthy" && b.status !== "published")) return null;
-  return toApiBrand(b, catalog.modelsForBrand(b.slug).length, audience);
+  return b;
+}
+
+export function findBrand(catalog: Catalog, idOrSlug: string, audience: Audience, detail: BrandCatalog | null = null) {
+  const b = resolveBrand(catalog, idOrSlug, audience);
+  return b ? toApiBrand(b, catalog.modelsForBrand(b.slug).length, audience, catalog.mediaFor(b.brandId), detail) : null;
+}
+
+/** Watches from the brand's own site. Image URLs are dropped while images are hidden for this audience. */
+export function apiWatches(b: Brand, detail: BrandCatalog | null, audience: Audience) {
+  const show = imagesVisible(b, audience, "watch");
+  const watches: CatalogWatch[] = (detail?.watches ?? []).map((w) => (show ? w : { ...w, image: null, images: [] }));
+  return {
+    data: watches,
+    meta: {
+      brandId: b.brandId,
+      total: watches.length,
+      crawledAt: detail?.crawledAt ?? null,
+      crawlStatus: detail?.status ?? null,
+      attribution: detail?.attribution ?? null,
+      imagesShown: show,
+    },
+  };
 }
 
 /** "all" is allowed only with a matching BRANDS_API_KEY (Authorization: Bearer <key> or x-api-key). */

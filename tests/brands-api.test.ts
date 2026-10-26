@@ -158,3 +158,60 @@ describe("Google Sheets client", () => {
     await expect(fetchPublicRows(sa, "s", fake as unknown as typeof fetch)).rejects.toThrow(/columns changed/);
   });
 });
+
+describe("brand and watch images", async () => {
+  const { mkdtempSync, writeFileSync } = await import("node:fs");
+  const { tmpdir } = await import("node:os");
+  const { join } = await import("node:path");
+  const { loadBrandCatalog, loadCatalogIndex, imagesVisible } = await import("@/lib/brands/media");
+  const { apiWatches } = await import("@/lib/brands/api");
+
+  const dir = mkdtempSync(join(tmpdir(), "catalog-"));
+  const crawledAt = "2026-10-26T12:00:00Z";
+  writeFileSync(join(dir, "index.json"), JSON.stringify({ generatedAt: crawledAt, brands: [{ brandId: "BRD-0348", status: "ok", brandImageUrl: "https://lorierwatches.com/logo.png", watchCount: 1, crawledAt }] }));
+  writeFileSync(join(dir, "BRD-0348.json"), JSON.stringify({
+    brandId: "BRD-0348", brandName: "Lorier", website: "https://lorierwatches.com", crawledAt, status: "ok", platform: "shopify",
+    brandImage: { url: "https://lorierwatches.com/logo.png", kind: "logo", sourcePage: "https://lorierwatches.com/", width: 400, height: 100 },
+    attribution: "Images © Lorier, from lorierwatches.com", imageRights: "unknown",
+    watches: [{ id: "BRD-0348/falcon", name: "Falcon", url: "https://lorierwatches.com/products/falcon", image: { url: "https://cdn/x.jpg", width: 1, height: 1 }, images: [{ url: "https://cdn/x.jpg", width: 1, height: 1 }], priceMinor: 59900, currency: "USD", available: true, specs: { caseDiameterMm: 39 } }],
+  }));
+  const index = await loadCatalogIndex(dir);
+  const c = new Catalog(snapshotRows(), undefined, index);
+  const lorier = c.brandById("BRD-0348")!;
+
+  it("reads the crawler's files and ignores missing ones", async () => {
+    expect(index.brands).toHaveLength(1);
+    expect(await loadBrandCatalog("BRD-0001", dir)).toBeNull();
+    expect(await loadBrandCatalog("../etc/passwd", dir)).toBeNull();
+  });
+  it("follows the image policy for the public audience", () => {
+    const none = { imageLicenseStatus: "none" as const };
+    expect(imagesVisible(none, "lugworthy", "watch", {})).toBe(false);
+    expect(imagesVisible(none, "lugworthy", "brand", {})).toBe(false);
+    expect(imagesVisible({ imageLicenseStatus: "granted" }, "lugworthy", "watch", {})).toBe(true);
+    expect(imagesVisible(none, "lugworthy", "watch", { IMAGES_PUBLIC: "all" })).toBe(true);
+    expect(imagesVisible(none, "lugworthy", "brand", { IMAGES_PUBLIC: "logos" })).toBe(true);
+    expect(imagesVisible(none, "lugworthy", "watch", { IMAGES_PUBLIC: "logos" })).toBe(false);
+    expect(imagesVisible({ imageLicenseStatus: "revoked" }, "lugworthy", "brand", { IMAGES_PUBLIC: "all" })).toBe(false);
+    expect(imagesVisible(none, "all", "watch", {})).toBe(true);
+  });
+  it("adds image, watch count and crawl date to brands", async () => {
+    const detail = await loadBrandCatalog("BRD-0348", dir);
+    const pub = findBrand(c, "BRD-0348", "lugworthy", detail)!;
+    expect(pub.watchCount).toBe(1);
+    expect(pub.catalogCrawledAt).toBe(crawledAt);
+    expect(pub.image).toBeNull(); // no license yet
+    const internal = findBrand(c, "BRD-0348", "all", detail)!;
+    expect(internal.image?.url).toBe("https://lorierwatches.com/logo.png");
+    const list = queryBrands(c, q("q=lorier"), "all");
+    expect(list.data[0].image?.url).toBe("https://lorierwatches.com/logo.png");
+  });
+  it("lists watches, dropping image URLs while images are hidden", async () => {
+    const detail = await loadBrandCatalog("BRD-0348", dir);
+    expect(apiWatches(lorier, detail, "all").data[0].images).toHaveLength(1);
+    const pub = apiWatches(lorier, detail, "lugworthy");
+    expect(pub.data[0].name).toBe("Falcon");
+    expect(pub.data[0].images).toHaveLength(0);
+    expect(pub.meta.attribution).toContain("Lorier");
+  });
+});

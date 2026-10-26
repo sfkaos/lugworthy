@@ -69,10 +69,17 @@ Google Sheet (Brands!A1:L) --Sheets API, service account--> lib/brands/source.ts
 
 | Endpoint | What it returns |
 |---|---|
-| `GET /api/v1/brands` | Published brands. Query: `q`, `country` (ISO-2, comma-separated), `style`, `price` (`budget`, `affordable`, `mid`, `upper_mid`, `high`), `class`, `hasModels=true`, `page`, `limit` (max 200) |
+| `GET /api/v1/brands` | Published brands. Query: `q`, `country` (ISO-2, comma-separated), `style`, `price` (`budget`, `affordable`, `mid`, `upper_mid`, `high`), `class`, `hasModels=true`, `hasImages=true`, `page`, `limit` (max 200) |
 | `GET /api/v1/brands/BRD-0348` | One brand by BRD ID or slug |
 | `?audience=all` | Every brand in the master list, plus ownership, fit and site check. Needs `Authorization: Bearer <BRANDS_API_KEY>`. Meant for En Punto and internal tools |
+| `GET /api/v1/brands/BRD-0348/watches` | Watches found on the brand's own website: name, product URL, image URLs, price, key specs, plus crawl date and attribution |
 | `GET /api/v1` | Endpoint index |
+
+Brand and watch images come from the catalog crawler, which writes `data/catalog/index.json` and
+one `data/catalog/BRD-####.json` per brand (format in `lib/brands/media.ts`). Images are hotlinked
+from the brand's site with attribution. Following the image policy, the public API shows them only
+for brands that granted the image license; `IMAGES_PUBLIC=logos` also shows brand logos for
+everyone, and `IMAGES_PUBLIC=all` shows everything. `audience=all` always includes them.
 
 Responses look like `{ data, meta: { total, page, limit, pages, audience, source, syncedAt } }`.
 `source` is `sheet` for a live read or `snapshot` for the fallback. Public responses allow any
@@ -116,6 +123,7 @@ one, and set `BRANDS_SHEET_ID` to it.
 | `BRANDS_REVALIDATE_SECONDS` | How long a sheet read is cached. Default 600 |
 | `BRANDS_REFRESH_SECRET` | Secret for `/api/v1/brands/refresh` |
 | `BRANDS_API_KEY` | Unlocks `audience=all` on the brands API (En Punto) |
+| `IMAGES_PUBLIC` | `logos` or `all` to show brand-site images publicly before a brand grants the image license |
 | `DATABASE_URL` | Postgres for `db:seed` |
 | `INGEST_CONTACT_EMAIL` | Contact address in the ingest user agent |
 | `NEXT_PUBLIC_EN_PUNTO_URL`, `NEXT_PUBLIC_EXHIBIT_URL` | En Punto links |

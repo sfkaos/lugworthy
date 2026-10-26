@@ -5,6 +5,7 @@
 import { cache } from "react";
 import modelsJson from "@/data/seed/models.json";
 import { bandFor, buildBrands } from "./brands/build";
+import { loadCatalogIndex, type CatalogIndex, type CatalogIndexRow } from "./brands/media";
 import type { MasterRows } from "./brands/source";
 import { loadMasterRows } from "./brands/source";
 import { minPriceUsd } from "./model-utils";
@@ -21,8 +22,10 @@ export class Catalog {
   readonly syncedAt: string;
   private readonly bySlug: Map<string, Brand>;
   private readonly byId: Map<string, Brand>;
+  private readonly media: Map<string, CatalogIndexRow>;
 
-  constructor(rows: MasterRows, models: Model[] = seedModels) {
+  constructor(rows: MasterRows, models: Model[] = seedModels, media?: CatalogIndex) {
+    this.media = new Map((media?.brands ?? []).map((r) => [r.brandId, r]));
     this.source = rows.source;
     this.syncedAt = rows.syncedAt;
     this.brands = buildBrands(rows.rows);
@@ -45,6 +48,11 @@ export class Catalog {
       b.priceBand = bandFor(b.priceMin);
     }
     this.bySlug = new Map(this.brands.map((b) => [b.slug, b]));
+  }
+
+  /** Crawl summary for the brand's own site (brand image, watch count), if crawled. Callers check imagesVisible(). */
+  mediaFor(brandId: string | undefined): CatalogIndexRow | null {
+    return (brandId && this.media.get(brandId)) || null;
   }
 
   /** Brands visible to the public (doc 08: draft and hidden stay private). */
@@ -124,8 +132,8 @@ let memo: { key: string; catalog: Catalog } | null = null;
 
 /** The current catalog. Rows are cached by lib/brands/source.ts; this just avoids rebuilding per call. */
 export const getCatalog = cache(async (): Promise<Catalog> => {
-  const rows = await loadMasterRows();
-  const key = `${rows.source}:${rows.syncedAt}:${rows.rows.length}`;
-  if (memo?.key !== key) memo = { key, catalog: new Catalog(rows) };
+  const [rows, media] = await Promise.all([loadMasterRows(), loadCatalogIndex()]);
+  const key = `${rows.source}:${rows.syncedAt}:${rows.rows.length}:${media.generatedAt}`;
+  if (memo?.key !== key) memo = { key, catalog: new Catalog(rows, undefined, media) };
   return memo.catalog;
 });
