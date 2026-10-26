@@ -24,7 +24,7 @@ export interface Collection {
 const MAX_COLLECTIONS = Number(process.env.CRAWL_MAX_COLLECTIONS ?? 60);
 
 /** Marketing or catch-all groupings that aren't real collections. */
-const NOT_A_COLLECTION = /^(all|all-?products|all-?watches|shop-?all|frontpage|home|homepage|featured|best-?sell(ers?|ing)|new|new-?arrivals?|new-?in|latest|sale|on-?sale|clearance|outlet|gift(s|-?cards?|-?ideas)?|accessor(y|ies)|straps?|bands?|bracelets?|merch(andise)?|apparel|spare-?parts?|services?|uncategori[sz]ed|watches|shop|products?|collections?|catalog(ue)?|search|pre-?owned|archive|in-?stock|available-?now|coming-?soon)$/i;
+const NOT_A_COLLECTION = /^(all|all-?products|all-?watches|shop-?all|frontpage|home|homepage|featured|best-?sell(ers?|ing)|new|new-?arrivals?|new-?in|latest|sale|on-?sale|clearance|outlet|gift(s|-?cards?|-?ideas)?|accessor(y|ies)|straps?|bands?|bracelets?|merch(andise)?|apparel|spare-?parts?|services?|uncategori[sz]ed|watches|shop|products?|collections?|catalog(ue)?|search|pre-?owned|archive|in-?stock|available(-?(now|watches|products))?|current-?(watches|collection)|all-?(timepieces|models)|coming-?soon|best-?sellers?)$/i;
 
 export const normUrl = (u: string) => {
   try {

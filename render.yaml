@@ -1,0 +1,51 @@
+# Render Blueprint: the brand-site crawler runs here (long jobs); the site and API stay on Vercel.
+# Secrets are marked sync:false, so Render asks for them when the Blueprint is created.
+services:
+  - type: cron
+    name: lugworthy-crawl
+    runtime: node
+    plan: starter
+    schedule: "0 6 1 * *" # monthly, 1st at 06:00 UTC
+    buildCommand: npm ci --include=dev
+    startCommand: scripts/render-job.sh crawl
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: DATABASE_URL
+        sync: false
+      - key: IMAGE_STORE
+        value: r2
+      - key: R2_ACCOUNT_ID
+        sync: false
+      - key: R2_ACCESS_KEY_ID
+        sync: false
+      - key: R2_SECRET_ACCESS_KEY
+        sync: false
+      - key: R2_BUCKET
+        value: lugworthy-images
+      - key: R2_PUBLIC_BASE_URL
+        sync: false
+  - type: cron
+    name: lugworthy-availability
+    runtime: node
+    plan: starter
+    schedule: "0 7 * * 1" # Mondays 07:00 UTC
+    buildCommand: npm ci --include=dev
+    startCommand: scripts/render-job.sh availability
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: DATABASE_URL
+        sync: false
+      - key: IMAGE_STORE
+        value: r2
+      - key: R2_ACCOUNT_ID
+        sync: false
+      - key: R2_ACCESS_KEY_ID
+        sync: false
+      - key: R2_SECRET_ACCESS_KEY
+        sync: false
+      - key: R2_BUCKET
+        value: lugworthy-images
+      - key: R2_PUBLIC_BASE_URL
+        sync: false
