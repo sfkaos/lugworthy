@@ -536,6 +536,8 @@ export const catalogWatches = pgTable("catalog_watches", {
   fLug: text("f_lug").array().notNull().default(sql`'{}'`),
   fComp: text("f_comp").array().notNull().default(sql`'{}'`),
   fCountry: text("f_country").array().notNull().default(sql`'{}'`),
+  /** Every facet value above as "facet:value", so facet counts need one unnest per watch. */
+  tags: text("tags").array().notNull().default(sql`'{}'`),
   // Text search, weight 5 (name) down to 1: words for exact and typo matches, raw text for substrings.
   w5: text("w5").array().notNull().default(sql`'{}'`),
   w4: text("w4").array().notNull().default(sql`'{}'`),

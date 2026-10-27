@@ -8,12 +8,12 @@ import * as s from "@/db/schema";
 import { Catalog } from "@/lib/data";
 import type { Db } from "@/lib/db/client";
 import { readBrandCatalog, rowToBrand } from "@/lib/db/read";
-import { ACCESSORS, availability, haystack, tokenize } from "@/lib/filters";
+import { ACCESSORS, MULTI_FACETS, availability, haystack, tokenize } from "@/lib/filters";
 import { isAvailable, minPriceUsd } from "@/lib/model-utils";
 import type { Brand, Model } from "@/lib/types";
 
 /** Bump when the row format changes; the build then rebuilds every brand (scripts/migrate.ts). */
-export const READ_MODEL_VERSION = "1";
+export const READ_MODEL_VERSION = "2";
 
 const CHUNK = 200;
 
@@ -66,6 +66,7 @@ export function watchRow(m: Model, brand: Brand, ord: number, imageLicense: stri
     fMov: ACCESSORS.mov(m), fStyle: ACCESSORS.style(m), fDial: ACCESSORS.dial(m), fStrap: ACCESSORS.strap(m),
     fAvail: ACCESSORS.avail(m), fCal: ACCESSORS.cal(m), fCrystal: ACCESSORS.crystal(m), fMat: ACCESSORS.mat(m),
     fLug: ACCESSORS.lug(m), fComp: ACCESSORS.comp(m), fCountry: ACCESSORS.country(m),
+    tags: [...new Set(MULTI_FACETS.flatMap((k) => ACCESSORS[k](m).map((v) => `${k}:${v}`)))],
     w5: h5.w, w4: h4.w, w3: h3.w, w2: h2.w, w1: h1.w,
     r5: h5.r, r4: h4.r, r3: h3.r, r2: h2.r, r1: h1.r,
     variantIds: m.variants.map((v) => v.id),
