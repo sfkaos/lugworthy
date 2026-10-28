@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { Cormorant_Garamond, Inter } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
 import { CompareTray } from "@/components/CompareTray";
@@ -8,6 +9,11 @@ import { NavProgress } from "@/components/NavProgress";
 import { Suspense } from "react";
 import { SITE_URL } from "@/lib/site";
 import "./globals.css";
+
+// Type system from the UI/UX Pro Max "luxury" pairing: Cormorant for display, Inter for
+// specs and body (clear tabular figures). Self-hosted by next/font, so no layout shift.
+const display = Cormorant_Garamond({ subsets: ["latin", "latin-ext"], weight: ["500", "600", "700"], variable: "--font-display", display: "swap" });
+const body = Inter({ subsets: ["latin", "latin-ext"], variable: "--font-body", display: "swap" });
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations("site");
@@ -25,15 +31,15 @@ export const revalidate = 600;
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fbfaf8" },
-    { media: "(prefers-color-scheme: dark)", color: "#111113" },
+    { media: "(prefers-color-scheme: light)", color: "#fafaf9" },
+    { media: "(prefers-color-scheme: dark)", color: "#0c0a09" },
   ],
 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
   const messages = await getMessages();
   return (
-    <html lang="en">
+    <html lang="en" className={`${display.variable} ${body.variable}`}>
       <body>
         <NextIntlClientProvider messages={messages} locale="en">
           <Suspense fallback={null}>

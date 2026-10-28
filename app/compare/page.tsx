@@ -47,7 +47,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
   if (models.length === 0) {
     return (
       <div className="mx-auto max-w-3xl px-4 py-10">
-        <h1 className="mb-4 text-3xl font-semibold">{t("compare.title")}</h1>
+        <h1 className="mb-4 text-4xl md:text-5xl">{t("compare.title")}</h1>
         <CompareFromTray />
       </div>
     );
@@ -70,7 +70,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-        <h1 className="text-3xl font-semibold">{t("compare.title")}</h1>
+        <h1 className="text-4xl md:text-5xl">{t("compare.title")}</h1>
         <Link href={toggleHref} className="chip" role="switch" aria-checked={onlyDiff}>
           <span aria-hidden className="inline-block h-3 w-3 rounded-sm border border-ink" style={{ background: onlyDiff ? "var(--text)" : "transparent" }} />
           {t("compare.onlyDiff")}

@@ -98,7 +98,7 @@ export default async function ModelPage({ params }: { params: P }) {
           <div className="flex flex-col gap-5">
             <div>
               <p className="eyebrow"><Link href={`/brands/${brand.slug}`}>{brand.name}</Link></p>
-              <h1 className="mt-1 font-serif text-3xl font-semibold tracking-tight md:text-4xl">{model.name}</h1>
+              <h1 className="mt-1 text-4xl md:text-5xl">{model.name}</h1>
               <p className="mt-2 flex flex-wrap gap-1.5">
                 {model.styles.filter((x) => x !== "other").map((x) => (
                   <Link key={x} href={`/styles/${x}`} className="chip text-sm">{t(`enum.style.${x}`)}</Link>
@@ -129,13 +129,13 @@ export default async function ModelPage({ params }: { params: P }) {
 
         {model.description && (
           <section className="mt-12 max-w-prose" aria-labelledby="about-h">
-            <h2 id="about-h" className="mb-2 text-2xl font-semibold">{t("model.about", { brand: brand.name })}</h2>
+            <h2 id="about-h" className="mb-2 text-3xl">{t("model.about", { brand: brand.name })}</h2>
             <p className="whitespace-pre-line leading-relaxed">{model.description}</p>
           </section>
         )}
 
         <section className="mt-12" aria-labelledby="specs-h">
-          <h2 id="specs-h" className="mb-1 text-2xl font-semibold">{t("model.specs")}</h2>
+          <h2 id="specs-h" className="mb-1 text-3xl">{t("model.specs")}</h2>
           {!model.reviewed && (
             <p className="mb-4 max-w-3xl text-sm text-muted">
               {model.origin === "site"
@@ -160,19 +160,19 @@ export default async function ModelPage({ params }: { params: P }) {
         </section>
 
         <section className="mt-12" aria-labelledby="vid-h">
-          <h2 id="vid-h" className="mb-2 text-2xl font-semibold">{t("model.videos")}</h2>
+          <h2 id="vid-h" className="mb-2 text-3xl">{t("model.videos")}</h2>
           <p className="text-muted">{t("model.noVideos")}</p>
         </section>
 
         {more.length > 0 && (
           <section className="mt-12">
-            <h2 className="mb-4 text-2xl font-semibold">{t("model.moreFrom", { brand: brand.name })}</h2>
+            <h2 className="mb-4 text-3xl">{t("model.moreFrom", { brand: brand.name })}</h2>
             <ModelGrid models={more} showBrand={false} />
           </section>
         )}
         {similar.length > 0 && (
           <section className="mt-12">
-            <h2 className="mb-4 text-2xl font-semibold">{t("model.similar")}</h2>
+            <h2 className="mb-4 text-3xl">{t("model.similar")}</h2>
             <ModelGrid models={similar} />
           </section>
         )}

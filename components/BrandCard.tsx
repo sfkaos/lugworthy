@@ -7,7 +7,7 @@ import { BrandLogo } from "./BrandLogo";
 export function BrandCard({ brand, modelCount, logo = null }: { brand: Brand; modelCount: number; logo?: string | null }) {
   const t = useTranslations();
   return (
-    <article className="card relative flex h-full flex-col gap-2 p-4">
+    <article className="card card-link relative flex h-full flex-col gap-2 p-4">
       <div className="flex items-start gap-3">
         <BrandLogo name={brand.name} url={logo} />
         <div className="min-w-0">
