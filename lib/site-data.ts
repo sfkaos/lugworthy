@@ -6,6 +6,7 @@
 // Postgres (PGlite) filled from the checked-in snapshot.
 
 import { and, asc, desc, eq, gt, inArray, ne, sql, type SQL, type SQLWrapper } from "drizzle-orm";
+import { unstable_cache } from "next/cache";
 import { cache } from "react";
 import * as s from "@/db/schema";
 import { imagesMode, imagesVisible } from "@/lib/brands/media";
@@ -15,6 +16,19 @@ import type { Brand, Model, Variant } from "@/lib/types";
 
 const W = s.catalogWatches;
 const B = s.catalogBrands;
+
+// ---------- Shared cache ----------
+// Filtered and searched views render on request. Their results are kept in Next's data cache for
+// ten minutes, shared by every server, and dropped when the sync runs (revalidateTag(BRANDS_TAG)),
+// so a filter combination anyone opened recently loads without touching the database.
+// Outside a Next server (tests, scripts) the queries run directly.
+/** Same value as BRANDS_TAG in lib/brands/source.ts (not imported: that module bundles the sheet snapshot). */
+const BRANDS_TAG = "brands";
+
+function shared<A extends unknown[], R>(name: string, load: (...args: A) => Promise<R>): (...args: A) => Promise<R> {
+  if (!process.env.NEXT_RUNTIME) return load;
+  return unstable_cache(load, ["site-data", name], { revalidate: 600, tags: [BRANDS_TAG] });
+}
 
 // ---------- Connection ----------
 
@@ -138,7 +152,7 @@ export async function homeData() {
 
 export type BrandsSearch = { letter?: string; country?: string; band?: string; tag?: string; specs?: string; page?: string };
 
-export async function brandDirectory(sp: BrandsSearch, perPage: number) {
+async function loadBrandDirectory(sp: BrandsSearch, perPage: number) {
   const db = await siteDb();
   const conds: SQL[] = [];
   if (sp.letter) conds.push(eq(B.letter, sp.letter));
@@ -330,6 +344,22 @@ async function tokenScores(q: string): Promise<SQL[]> {
   });
 }
 
+/** Keeps a value for ten minutes per server (the pages' cache time), so repeat requests skip the query. */
+function memo<T>(load: () => Promise<T>, ttlMs = 600_000): () => Promise<T> {
+  let hit: { at: number; v: Promise<T> } | null = null;
+  return () => {
+    if (!hit || Date.now() - hit.at > ttlMs) {
+      const v = load();
+      hit = { at: Date.now(), v };
+      v.catch(() => (hit = null));
+    }
+    return hit.v;
+  };
+}
+
+/** Every facet value in the catalog, as "facet:value" tags. */
+const facetUniverse = memo(async () => (await rows<{ t: string }>(sql`select distinct unnest(tags) as t from catalog_watches`)).map((r) => r.t));
+
 const RANGE_COLS = { price: sql`(${W.minPrice}::float / 100)`, dia: sql`${W.dia}`, l2l: sql`${W.l2l}`, thk: sql`${W.thk}` };
 const FACET_COLS: Record<string, SQLWrapper> = {
   mov: W.fMov, style: W.fStyle, dial: W.fDial, strap: W.fStrap, avail: W.fAvail, cal: W.fCal,
@@ -371,11 +401,9 @@ export interface BrowsePage {
  * water-resistance counts. A text query is scored once per watch, then everything else reads
  * those matches.
  */
-export async function browseWatches(f: Filters): Promise<BrowsePage> {
+async function loadBrowseWatches(f: Filters): Promise<BrowsePage> {
   const scores = f.q ? await tokenScores(f.q) : [];
   const conds = filterConds(f);
-  const except = (key: string) => all(conds.filter((c) => c.key !== key).map((c) => c.cond));
-  const where = all(conds.map((c) => c.cond));
   const page = f.page ?? 1;
 
   const sort = f.sort ?? (f.q ? "relevance" : "newest");
@@ -389,54 +417,66 @@ export async function browseWatches(f: Filters): Promise<BrowsePage> {
     newest: sql`${W.inStock} desc`,
   }[sort];
 
-  // The text matches, scored once. Named catalog_watches so the filter SQL reads it unchanged.
-  const matches = scores.length
-    ? sql`(select id, brand_slug, ord, in_stock, min_price, dia, l2l, thk, wr,
-             f_mov, f_style, f_dial, f_strap, f_avail, f_cal, f_crystal, f_mat, f_lug, f_comp, f_country, score
-           from (select catalog_watches.*, (${sql.join(scores, sql` + `)}) as score,
-                        ${all(scores.map((sc) => sql`${sc} > 0`))} as hit
-                 from catalog_watches) scored where hit)`
-    : sql`(select id, brand_slug, ord, in_stock, min_price, dia, l2l, thk, wr,
-             f_mov, f_style, f_dial, f_strap, f_avail, f_cal, f_crystal, f_mat, f_lug, f_comp, f_country, 0 as score
-           from catalog_watches)`;
-  const facetParts = MULTI_FACETS.map((k) => sql`
-    select ${k} as facet, v, (count(*) filter (where ${except(k)}))::int as n
-    from m as catalog_watches, unnest(${FACET_COLS[k]}) v group by v`);
-  // Every value a facet has anywhere in the catalog is listed (count 0 = shown disabled).
-  const allValues = MULTI_FACETS.map((k) => sql`select ${k} as facet, v, 0 as n from catalog_watches, unnest(${FACET_COLS[k]}) v group by v`);
-  const wrCols = WR_STEPS.map((st) => sql`'${sql.raw(String(st))}', (count(*) filter (where coalesce(${W.wr}, 0) >= ${st}))::int`);
+  // One pass over the table. Each watch gets the number of active filters it fails and, when it
+  // fails exactly one, which. A facet's counts leave that facet's own filter out, so a watch counts
+  // toward facet k when it fails nothing, or fails only k. Watches failing two or more are dropped
+  // before anything is unnested, and a text query is scored once per watch.
+  const keyed = conds.map((c) => ({ key: c.key, fail: sql`not coalesce(${c.cond}, false)` }));
+  const misses = keyed.length ? sql.join(keyed.map((c) => sql`(case when ${c.fail} then 1 else 0 end)`), sql` + `) : sql`0`;
+  const missKey = keyed.length ? sql`(case ${sql.join(keyed.map((c) => sql`when ${c.fail} then ${c.key}`), sql` `)} end)` : sql`null::text`;
+  const textHit = scores.length ? all(scores.map((sc) => sql`${sc} > 0`)) : sql`true`;
+  const score = scores.length ? sql`(${sql.join(scores, sql` + `)})` : sql`0`;
+  const counts = (key: string) => sql`(misses = 0 or miss_key = ${key})`;
+  const wrCols = WR_STEPS.map((st) => sql`'${sql.raw(String(st))}', (count(*) filter (where ${counts("wr")} and coalesce(wr, 0) >= ${st}))::int`);
 
-  const [r] = await rows<{ total: number; facets: { facet: string; v: string; n: number }[] | null; wr: Record<string, number>; items: { card: Model; license: string }[] | null }>(sql`
-    with m as ${scores.length ? sql`materialized` : sql`not materialized`} ${matches},
-    hits as (select * from m as catalog_watches where ${where}),
-    total as (select count(*)::int as n from hits)
+  const [r] = await rows<{ total: number; facets: { t: string; n: number }[] | null; wr: Record<string, number>; items: { card: Model; license: string }[] | null }>(sql`
+    with m as materialized (
+      select * from (
+        select catalog_watches.id, catalog_watches.ord, in_stock, min_price, dia, thk, wr, tags,
+          catalog_brands.ord as brand_ord,
+          ${misses} as misses, ${missKey} as miss_key, ${score} as score
+        from catalog_watches join catalog_brands on catalog_brands.slug = catalog_watches.brand_slug
+        where ${textHit}
+      ) x where misses <= 1
+    ),
+    total as (select count(*)::int as n from m where misses = 0)
     select
       (select n from total) as total,
       (select json_agg(x) from (
-        select facet, v, sum(n)::int as n from (${sql.join([...allValues, ...facetParts], sql` union all `)}) f group by facet, v
+        select t, count(*)::int as n from (
+          select t, split_part(t, ':', 1) as facet, misses, miss_key from m, unnest(m.tags) t
+        ) u where misses = 0 or miss_key = facet
+        group by t
       ) x) as facets,
-      (select json_build_object(${sql.join(wrCols, sql`, `)}) from m as catalog_watches where ${except("wr")}) as wr,
-      (select json_agg(json_build_object('card', card, 'license', image_license)) from (
-        select cw.card, cw.image_license
-        from hits as catalog_watches
-        join catalog_watches as cw on cw.id = catalog_watches.id
-        join catalog_brands on catalog_brands.slug = catalog_watches.brand_slug
-        order by ${order}, catalog_brands.ord asc, catalog_watches.ord asc
-        limit ${PAGE_SIZE}
-        offset (select (least(${page}, greatest(1, ceil(n / ${PAGE_SIZE}::float)::int)) - 1) * ${PAGE_SIZE} from total)
-      ) i) as items`);
+      (select json_build_object(${sql.join(wrCols, sql`, `)}) from m) as wr,
+      (select json_agg(json_build_object('card', cw.card, 'license', cw.image_license) order by p.rn)
+        from (
+          select id, row_number() over (order by ${order}, brand_ord asc, catalog_watches.ord asc) as rn
+          from m as catalog_watches where misses = 0
+        ) p
+        join catalog_watches as cw on cw.id = p.id
+        where p.rn > (select (least(${page}, greatest(1, ceil(n / ${PAGE_SIZE}::float)::int)) - 1) * ${PAGE_SIZE} from total)
+          and p.rn <= (select least(${page}, greatest(1, ceil(n / ${PAGE_SIZE}::float)::int)) * ${PAGE_SIZE} from total)
+      ) as items`);
 
   const total = Number(r.total);
   const pages = Math.max(1, Math.ceil(total / PAGE_SIZE));
-  const counts: FacetCounts = Object.fromEntries(MULTI_FACETS.map((k) => [k, {} as Record<string, number>]));
-  for (const x of r.facets ?? []) counts[x.facet][x.v] = Number(x.n);
+  // Every value a facet has anywhere in the catalog is listed (count 0 = shown disabled).
+  const facetCounts: FacetCounts = Object.fromEntries(MULTI_FACETS.map((k) => [k, {} as Record<string, number>]));
+  const put = (tag: string, n: number) => {
+    const i = tag.indexOf(":");
+    facetCounts[tag.slice(0, i)][tag.slice(i + 1)] = n;
+  };
+  for (const t of await facetUniverse()) put(t, 0);
+  for (const x of r.facets ?? []) put(x.t, Number(x.n));
   const wrCounts = Object.fromEntries(WR_STEPS.map((st) => [st, Number(r.wr?.[String(st)] ?? 0)]));
   const items = (r.items ?? []).map((x) => hydrate(x.card, x.license));
-  return { total, items, page: Math.min(page, pages), pages, counts, wrCounts };
+  return { total, items, page: Math.min(page, pages), pages, counts: facetCounts, wrCounts };
 }
 
 /** Lowest and highest values for the Watches page's range sliders, and the watch count. */
-export const browseBounds = cache(async () => {
+export const browseBounds = cache(async () => loadBounds());
+const loadBounds = shared("browseBounds", async () => {
   const [r] = await rows<Record<string, number | null>>(sql`
     select min(min_price) as p0, max(min_price) as p1, min(dia) as d0, max(dia) as d1, min(l2l) as l0, max(l2l) as l1,
            min(thk) as t0, max(thk) as t1, count(*)::int as n
@@ -452,7 +492,7 @@ export const browseBounds = cache(async () => {
 });
 
 /** The search page: up to 12 brands and 60 watches. */
-export async function searchSite(q: string): Promise<{ brands: BrandSummary[]; models: Model[] }> {
+async function loadSearch(q: string): Promise<{ brands: BrandSummary[]; models: Model[] }> {
   const db = await siteDb();
   const tokens = tokenize(q);
   const lower = q.toLowerCase();
@@ -480,3 +520,10 @@ export async function searchSite(q: string): Promise<{ brands: BrandSummary[]; m
   ]);
   return { brands: brands.map(toBrand), models: models.map((m) => hydrate(m.card, m.license)) };
 }
+
+/** One page of the brand directory, plus the filter options. */
+export const brandDirectory = shared("brandDirectory", loadBrandDirectory);
+/** The Watches page: one page of results, facet counts and water-resistance counts. */
+export const browseWatches = shared("browseWatches", loadBrowseWatches);
+/** The search page: up to 12 brands and 60 watches. */
+export const searchSite = shared("searchSite", loadSearch);
