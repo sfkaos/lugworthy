@@ -3,7 +3,7 @@
 // so it runs inside the crawler's small Render job as well as the Vercel sync.
 
 import { createHash } from "node:crypto";
-import { asc, eq, inArray, isNotNull, sql } from "drizzle-orm";
+import { and, asc, eq, inArray, isNotNull, sql } from "drizzle-orm";
 import * as s from "@/db/schema";
 import { Catalog } from "@/lib/data";
 import type { Db } from "@/lib/db/client";
@@ -171,11 +171,35 @@ export async function refreshBrands(db: Db, codes?: string[], opts: { ifChanged?
   return { checked: list.length, rebuilt };
 }
 
-/** Builds the read model when it is missing or its format changed (run at deploy, scripts/migrate.ts). */
-export async function ensureReadModel(db: Db): Promise<{ rebuilt: boolean; brands?: number }> {
+/** How long a rebuild may hold the lease before another process may take over (a crashed build). */
+const LEASE_MS = 30 * 60_000;
+
+/**
+ * Builds the read model when it is missing or its format changed (run at deploy, scripts/migrate.ts).
+ * Only one process rebuilds at a time: the first takes a lease row in catalog_meta and the others
+ * skip. Two rebuilds at once (the Vercel build and a Render job) ran the small database out of memory.
+ */
+export async function ensureReadModel(db: Db): Promise<{ rebuilt: boolean; brands?: number; busy?: boolean }> {
   const [v] = await db.select().from(s.catalogMeta).where(eq(s.catalogMeta.key, "version"));
   if (v?.value === READ_MODEL_VERSION) return { rebuilt: false };
-  const r = await refreshBrands(db);
-  await db.insert(s.catalogMeta).values({ key: "version", value: READ_MODEL_VERSION }).onConflictDoUpdate({ target: s.catalogMeta.key, set: { value: READ_MODEL_VERSION } });
-  return { rebuilt: true, brands: r.rebuilt };
+  const now = Date.now();
+  const token = `${now}:${Math.random().toString(36).slice(2)}`;
+  // Take the lease if nobody holds it or the holder's lease expired; otherwise leave the rebuild to them.
+  const taken = await db
+    .insert(s.catalogMeta)
+    .values({ key: "rebuild_lease", value: token })
+    .onConflictDoUpdate({
+      target: s.catalogMeta.key,
+      set: { value: token },
+      setWhere: sql`split_part(${s.catalogMeta.value}, ':', 1)::bigint < ${now - LEASE_MS}`,
+    })
+    .returning({ value: s.catalogMeta.value });
+  if (taken[0]?.value !== token) return { rebuilt: false, busy: true };
+  try {
+    const r = await refreshBrands(db);
+    await db.insert(s.catalogMeta).values({ key: "version", value: READ_MODEL_VERSION }).onConflictDoUpdate({ target: s.catalogMeta.key, set: { value: READ_MODEL_VERSION } });
+    return { rebuilt: true, brands: r.rebuilt };
+  } finally {
+    await db.delete(s.catalogMeta).where(and(eq(s.catalogMeta.key, "rebuild_lease"), eq(s.catalogMeta.value, token)));
+  }
 }

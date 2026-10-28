@@ -8,7 +8,7 @@ export CATALOG_DIR="${CATALOG_DIR:-$PWD/.catalog-run}"
 # Run each step as one node process: going through npm and the tsx CLI adds about
 # 200 MB of extra processes, which matters on a 512 MB instance.
 run() { node --import tsx "scripts/$1.ts" "${@:2}"; }
-run migrate
+run migrate --skip-read-model
 run export-catalog
 case "${1:-crawl}" in
   # Each brand is saved as soon as it is crawled, and brands already crawled this month

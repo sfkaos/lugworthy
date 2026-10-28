@@ -30,9 +30,16 @@ async function main() {
     await migrate(drizzle(client), { migrationsFolder: "db/migrations" });
     console.log("[migrate] database is up to date");
     // The site reads catalog_brands/catalog_watches; build them on first deploy or after a format change.
+    // The Render jobs pass --skip-read-model: the Vercel build does it, and the crawl import
+    // refreshes each brand it saves anyway.
+    if (process.argv.includes("--skip-read-model")) return;
     const t0 = Date.now();
     const r = await ensureReadModel(drizzle(client, { schema }) as unknown as Db);
-    console.log(r.rebuilt ? `[migrate] read model rebuilt: ${r.brands} brands in ${((Date.now() - t0) / 1000).toFixed(0)}s` : "[migrate] read model is current");
+    console.log(
+      r.rebuilt ? `[migrate] read model rebuilt: ${r.brands} brands in ${((Date.now() - t0) / 1000).toFixed(0)}s`
+      : r.busy ? "[migrate] another process is rebuilding the read model; skipping"
+      : "[migrate] read model is current",
+    );
   } catch (e) {
     if (!isUnreachable(e)) throw e;
     const err = e as Error & { cause?: Error };
