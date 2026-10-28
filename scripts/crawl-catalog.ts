@@ -71,11 +71,30 @@ if (maxAgeDays > 0 || skipSince) {
     return !prev || Date.parse(prev.crawledAt) < cutoff;
   });
 }
+// A brand that was being crawled when the process crashed is noted in this file. After two
+// crashes it is skipped for this run, so one bad site can't stop the whole crawl.
+const inflightFile = path.join(outDir, ".inflight.log");
+const crashCounts = new Map<string, number>();
+try {
+  for (const line of fs.readFileSync(inflightFile, "utf8").split("\n")) {
+    const [kind, id] = line.split(" ");
+    if (kind === "start") crashCounts.set(id, (crashCounts.get(id) ?? 0) + 1);
+    if (kind === "done") crashCounts.delete(id);
+  }
+} catch { /* no earlier attempt */ }
+if (crashCounts.size) console.error(`In progress when the last attempt stopped: ${[...crashCounts].map(([id, n]) => `${id} (x${n})`).join(", ")}`);
+const poisoned = [...crashCounts].filter(([, n]) => n >= 2).map(([id]) => id);
+if (poisoned.length) {
+  console.error(`Skipping brands that were in progress during 2 crashes: ${poisoned.join(", ")}`);
+  brands = brands.filter((b) => !poisoned.includes(b.brandId));
+}
+const mark = (kind: "start" | "done", id: string) => fs.appendFileSync(inflightFile, `${kind} ${id}\n`);
 brands = brands.slice(0, limit);
 console.log(`Crawling ${brands.length} brands, ${concurrency} at a time`);
 
 async function one(b: BrandInput) {
   const t0 = Date.now();
+  mark("start", b.brandId);
   let cat: BrandCatalog;
   try {
     cat = await crawlBrand(b);
@@ -94,8 +113,9 @@ async function one(b: BrandInput) {
     try { await importBrandCatalogs(saveEach.db, [cat as unknown as Parameters<typeof importBrandCatalogs>[1][number]]); }
     catch (e) { console.error(`${b.brandId} database save failed: ${String((e as Error).message).slice(0, 200)}`); }
   }
+  mark("done", b.brandId);
   const withImg = cat.watches.filter((w) => w.image).length;
-  console.log(`${b.brandId} ${b.name.padEnd(28).slice(0, 28)} ${cat.status.padEnd(17)} ${String(cat.platform ?? "-").padEnd(11)} logo:${cat.brandImage ? cat.brandImage.kind : "none"} watches:${cat.watches.length} (img ${withImg}, sold out ${cat.watches.filter((w) => w.soldOut).length}, specs ${cat.watches.filter((w) => Object.keys(w.specsRaw ?? {}).length).length}) ${((Date.now() - t0) / 1000).toFixed(0)}s`);
+  console.log(`${b.brandId} ${b.name.padEnd(28).slice(0, 28)} ${cat.status.padEnd(17)} ${String(cat.platform ?? "-").padEnd(11)} logo:${cat.brandImage ? cat.brandImage.kind : "none"} watches:${cat.watches.length} (img ${withImg}, sold out ${cat.watches.filter((w) => w.soldOut).length}, specs ${cat.watches.filter((w) => Object.keys(w.specsRaw ?? {}).length).length}) ${((Date.now() - t0) / 1000).toFixed(0)}s heap ${Math.round(process.memoryUsage().heapUsed / 1e6)}MB`);
 }
 
 /** Stores the logo and each watch's main photo; reuses earlier copies when the source URL is unchanged. */
