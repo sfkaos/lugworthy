@@ -19,6 +19,9 @@ export function isUnreachable(e: unknown): boolean {
   return false;
 }
 
+/** Longer than the 30-minute lease, so a crashed holder's lease expires and this process takes over. */
+const READ_MODEL_WAIT_MS = 35 * 60_000;
+
 async function main() {
   const url = process.env.DATABASE_URL?.trim() || process.env.POSTGRES_URL?.trim();
   if (!url) {
@@ -30,8 +33,20 @@ async function main() {
     await migrate(drizzle(client), { migrationsFolder: "db/migrations" });
     console.log("[migrate] database is up to date");
     // The site reads catalog_brands/catalog_watches; build them on first deploy or after a format change.
+    // The Render jobs pass --skip-read-model: the Vercel build does it, and the crawl import
+    // refreshes each brand it saves anyway.
+    if (process.argv.includes("--skip-read-model")) return;
+    // When another process holds the rebuild lease, wait for it to finish (or for its lease to
+    // expire, then take over) rather than build pages against a half-rebuilt read model.
     const t0 = Date.now();
-    const r = await ensureReadModel(drizzle(client, { schema }) as unknown as Db);
+    const db = drizzle(client, { schema }) as unknown as Db;
+    let r = await ensureReadModel(db);
+    while (r.busy) {
+      if (Date.now() - t0 > READ_MODEL_WAIT_MS) throw new Error("[migrate] read model rebuild by another process did not finish in time");
+      console.log("[migrate] another process is rebuilding the read model; waiting");
+      await new Promise((ok) => setTimeout(ok, 15_000));
+      r = await ensureReadModel(db);
+    }
     console.log(r.rebuilt ? `[migrate] read model rebuilt: ${r.brands} brands in ${((Date.now() - t0) / 1000).toFixed(0)}s` : "[migrate] read model is current");
   } catch (e) {
     if (!isUnreachable(e)) throw e;
