@@ -23,5 +23,7 @@ export function brandThemeStyle(brand: Brand): React.CSSProperties | undefined {
     ["--brand-primary" as string]: usableAsFill ? primary : "var(--surface-2)",
     ["--brand-on-primary" as string]: usableAsFill ? onPrimary : "var(--text)",
     ["--brand-secondary" as string]: brand.colorSecondary ?? primary,
+    // The buy button takes the brand color only when text on it stays readable; otherwise the site's own.
+    ...(usableAsFill ? { ["--brand-cta" as string]: primary, ["--brand-on-cta" as string]: onPrimary } : {}),
   };
 }

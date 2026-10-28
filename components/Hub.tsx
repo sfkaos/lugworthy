@@ -15,7 +15,7 @@ export function Hub({ title, intro, models, browseHref, browseLabel, children, p
         "@context": "https://schema.org", "@type": "ItemList", name: title, url: `${SITE_URL}${path}`,
         itemListElement: models.slice(0, 50).map((m, i) => ({ "@type": "ListItem", position: i + 1, url: `${SITE_URL}/brands/${m.brandSlug}/${m.slug}` })),
       })} />
-      <h1 className="font-serif text-4xl font-semibold tracking-tight">{title}</h1>
+      <h1 className="text-4xl md:text-5xl">{title}</h1>
       <p className="mt-2 max-w-2xl text-lg text-muted">{intro}</p>
       {browseHref && <Link className="btn mt-4" href={browseHref}>{browseLabel}</Link>}
       {children}

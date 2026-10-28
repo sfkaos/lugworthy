@@ -24,7 +24,7 @@ export async function BrandsView({ search: sp }: { search: BrandsSearch }) {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
-      <h1 className="text-3xl font-semibold">{t("brands.title")}</h1>
+      <h1 className="text-4xl md:text-5xl">{t("brands.title")}</h1>
       <p className="mt-1 text-muted">{t("brands.intro", { count: d.brandCount })}</p>
 
       <nav aria-label="A–Z" className="mt-5 flex flex-wrap gap-1">
