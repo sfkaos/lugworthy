@@ -29,7 +29,7 @@ export default async function Home() {
         <div className="mx-auto max-w-7xl px-4 py-12 md:py-16">
           <h1 className="max-w-3xl font-serif text-4xl font-semibold tracking-tight md:text-5xl">{t("home.heroTitle")}</h1>
           <p className="mt-3 max-w-2xl text-lg text-muted">{t("home.heroBody", { brands: stats.brands, countries: stats.countries })}</p>
-          <form action="/watches" role="search" className="mt-6 flex max-w-2xl gap-2">
+          <form action="/search" role="search" className="mt-6 flex max-w-2xl gap-2">
             <label htmlFor="home-q" className="sr-only">{t("nav.search")}</label>
             <input id="home-q" name="q" type="search" className="input h-12 text-base" placeholder={t("nav.searchPlaceholder")} />
             <button className="btn btn-primary h-12">{t("nav.search")}</button>

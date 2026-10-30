@@ -103,6 +103,8 @@ export async function WatchesView({ search }: { search: WatchesSearch }) {
                   <li key={c.href}><Link className="chip" href={c.href}>{t("browse.remove", { label: c.label })}</Link></li>
                 ))}
               </ul>
+              {/* A brand without crawled watches only shows up in the full search. */}
+              {f.q && <p className="mt-4"><Link className="link" href={`/search?q=${encodeURIComponent(f.q)}`}>{t("browse.searchEverything", { q: f.q })}</Link></p>}
             </div>
           ) : (
             <ModelGrid models={r.items} />
