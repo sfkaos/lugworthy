@@ -1,0 +1,789 @@
+{
+ "brandId": "BRD-0539",
+ "brandName": "Tedoro",
+ "website": "https://tedorowatches.com",
+ "crawledAt": "2026-11-01T08:36:30.536Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://tedorowatches.com/cdn/shop/files/website-logo.webp?v=1783934127",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://tedorowatches.com/"
+ },
+ "attribution": "Images © Tedoro, from tedorowatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0539/quadra-meteorite",
+   "name": "Quadra GMT Meteorite Limited Edition",
+   "url": "https://tedorowatches.com/products/quadra-meteorite",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/IMG_2444_2df78770-f371-45e3-9092-38a9e06b873b.png?v=1783932695",
+    "width": 900,
+    "height": 900
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/IMG_2444_2df78770-f371-45e3-9092-38a9e06b873b.png?v=1783932695",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-WEBSITE-9.webp?v=1783933469",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-WEBSITE-21.webp?v=1783933473",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/510x510-2.webp?v=1783933464",
+     "width": 510,
+     "height": 510
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-WEBSITE-15.webp?v=1783933467",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-WEBSITE-17.webp?v=1783933467",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-WEBSITE-4.webp?v=1783933470",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/4c253953-2e02-4a97-8d9a-7d72afd8a2c3-scaled.webp?v=1783933472",
+     "width": 1708,
+     "height": 2560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-WEBSITE-13.webp?v=1783933470",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-WEBSITE-16.webp?v=1783933472",
+     "width": 900,
+     "height": 900
+    }
+   ],
+   "priceMinor": 89000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Quadra opens a new, more architectural chapter for Tedoro, built around sharper surfaces and stronger angles than the Harmony line. Its 40mm 316L stainless steel case houses a natural meteorite dial, so the crystalline, fragmented pattern is unique to every watch and no two pieces look exactly alike. An anti-reflective sapphire crystal, 10 ATM (100m) water resistance, and Super-LumiNova C1 on the dial and bezel round out the design. Inside is the Miyota 9075 true automatic GMT movement with about 42 hours of power reserve, built for tracking multiple time zones. Limited to 300 pieces worldwide, each with an individually numbered caseback.",
+   "productType": "Watch",
+   "tags": [
+    "Automatic Watch",
+    "GMT Watch",
+    "Limited Edition",
+    "Luxury Watch",
+    "Meteorite Dial",
+    "Pre-Order",
+    "Watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.9,
+    "thicknessMm": 11.7,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "40 mm",
+    "Case Thickness": "11.7 mm",
+    "Lug-to-Lug": "46.95 mm",
+    "Lug Width": "20 mm",
+    "Crystal": "Sapphire crystal with anti-reflective coating",
+    "Water Resistance": "10 ATM / 100 meters",
+    "Movement": "Miyota Caliber 9075 automatic true GMT",
+    "Power Reserve": "Approximately 42 hours",
+    "Dial": "Natural Meteorite dial",
+    "Lume": "Super-LumiNova C1 on the dial and bezel",
+    "Case Material": "316L Stainless Steel",
+    "Edition": "Limited to 300 pieces, individually numbered"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:30.536Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:30.536Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0539/limited-edition"
+   ],
+   "hash": "557fd4a85d06eb65"
+  },
+  {
+   "id": "BRD-0539/harmony-39-gmt-sarab-limited-edition",
+   "name": "Harmony 39 GMT Sarab Limited Edition",
+   "url": "https://tedorowatches.com/products/harmony-39-gmt-sarab-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-66_cc3225c2-8803-4a9e-b045-85277a172bef.png?v=1783932694",
+    "width": 900,
+    "height": 900
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-66_cc3225c2-8803-4a9e-b045-85277a172bef.png?v=1783932694",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-74.webp?v=1783933343",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-82.webp?v=1783933344",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-80.webp?v=1783933348",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-83.webp?v=1783933350",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-70.webp?v=1783933350",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-72.webp?v=1783933350",
+     "width": 900,
+     "height": 900
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Limited to 300 individually numbered pieces, the Sarab edition celebrates the heritage of the Gulf region. Its natural mother-of-pearl dial carries a geometric pattern inspired by \"Sarab,\" the desert mirage, so the surface shifts and catches light differently from every angle. The engraved caseback depicts six Gulf landmarks representing the six GCC countries, surrounded by six stars symbolizing unity. Built on a 39mm 316L stainless steel case with an anti-reflective sapphire crystal and 10 ATM (100m) water resistance, it runs on the automatic Miyota 9075 GMT movement with roughly 40+ hours of power reserve.",
+   "productType": "Watch",
+   "tags": [
+    "Automatic Watch",
+    "GMT Watch",
+    "Limited Edition",
+    "Luxury Watch",
+    "Mother of Pearl",
+    "Watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 23,
+    "lugToLugMm": 47.7,
+    "thicknessMm": 11.7,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "39 mm",
+    "Case Thickness": "11.7 mm",
+    "Lug-to-Lug": "47.75 mm",
+    "Outer Lug Width": "23 mm",
+    "Inner Lug Width": "11.9 mm",
+    "Crystal": "Sapphire crystal with anti-reflective coating",
+    "Water Resistance": "10 ATM / 100 meters",
+    "Movement": "Miyota Caliber 9075 automatic true GMT",
+    "Power Reserve": "Approximately 42 hours",
+    "Dial": "Natural Mother of Pearl dial with Arabic numerals",
+    "Bezel": "24-hour inner GMT ring with Arabic numerals",
+    "Lume": "Super-LumiNova on the dial and hands",
+    "Caseback": "Engraved GCC landmark design",
+    "Case Material": "316L Stainless Steel",
+    "Edition": "Limited to 300 pieces, individually numbered"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:30.536Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:30.536Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0539/limited-edition"
+   ],
+   "hash": "b8661af5ef2b41bf"
+  },
+  {
+   "id": "BRD-0539/harmony-39-olive-green",
+   "name": "Harmony 39 Olive Green",
+   "url": "https://tedorowatches.com/products/harmony-39-olive-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Olive-1_30b13c8a-c40e-4574-9d8a-3912a1bcdfea.png?v=1783932694",
+    "width": 900,
+    "height": 900
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Olive-1_30b13c8a-c40e-4574-9d8a-3912a1bcdfea.png?v=1783932694",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/96b2f1dc-f749-4281-8cb6-7537c25e620b.png?v=1783960984",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Olive-5.webp?v=1783933250",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/IMG_8844.webp?v=1783933248",
+     "width": 2064,
+     "height": 1012
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/IMG_8876-scaled.webp?v=1783933252",
+     "width": 1960,
+     "height": 2560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Gemini_Generated_Image_nw4uyenw4uyenw4u.webp?v=1783959592",
+     "width": 834,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/WhatsApp-Image-2026-04-10-at-10.07.05-AM.webp?v=1783933247",
+     "width": 1070,
+     "height": 614
+    }
+   ],
+   "priceMinor": 69500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A refined evolution of the Harmony line, the Harmony 39 steps up to a 39mm 316L stainless steel case with a slimmer profile, an anti-reflective sapphire crystal, a sapphire exhibition caseback, and 10 ATM (100m) water resistance. It's powered by the automatic Miyota 9015 movement, chosen for its precision and slim build, and finished with an olive green dial that plays with light across polished and brushed surfaces. Swiss Super-LumiNova on the hands and markers keeps it legible after dark.",
+   "productType": "Watch",
+   "tags": [
+    "Automatic Watch",
+    "Luxury Watch",
+    "Olive Green Dial",
+    "Stainless Steel",
+    "Tedoro Harmony",
+    "Watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "green",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "39 mm",
+    "Crystal": "Sapphire Crystal with anti-reflective coating",
+    "Back Case": "Sapphire Crystal see-through",
+    "Water Resistance": "10 ATM, 100 meters",
+    "Movement Type": "Automatic Cal. Miyota 9039",
+    "Dial Color": "Olive Green",
+    "Case Material": "316L Stainless Steel",
+    "Luminous Material": "Swiss Super-LumiNova"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:30.536Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:30.536Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0539/tedoro-harmony"
+   ],
+   "hash": "f04c0b0c5dc9eaa7"
+  },
+  {
+   "id": "BRD-0539/harmony-36-white",
+   "name": "HARMONY 36 White",
+   "url": "https://tedorowatches.com/products/harmony-36-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/refArtboard-1_dbe2e44e-91bb-4715-984c-ac50b902c14a.jpg?v=1783932693",
+    "width": 1217,
+    "height": 1217
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/refArtboard-1_dbe2e44e-91bb-4715-984c-ac50b902c14a.jpg?v=1783932693",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Untitled-1Artboard-26.webp?v=1783933145",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Untitled-1white2.webp?v=1783933145",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/FULL_4.webp?v=1783933151",
+     "width": 1440,
+     "height": 960
+    }
+   ],
+   "priceMinor": 49500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Harmony by Tedoro brings affordable luxury to the wrist, built on a 36mm case of 316L stainless steel with an anti-reflective sapphire crystal, a sapphire exhibition caseback, and 10 ATM (100m) water resistance. The automatic Seiko NH35A movement powers the watch with a self-winding mechanism, and Swiss Super-LumiNova on the hands and markers keeps it legible after dark. The White dial has a clean, ultra-refined finish with precisely calibrated markers and balanced geometry, forged from surgical-grade stainless steel with an interchangeable strap system for everyday versatility.",
+   "productType": "Watch",
+   "tags": [
+    "Automatic Watch",
+    "Luxury Watch",
+    "Stainless Steel",
+    "Tedoro Harmony",
+    "Watches",
+    "White Dial"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "36 mm",
+    "Crystal": "Sapphire Crystal with anti-reflective coating",
+    "Back Case": "Sapphire Crystal see-through",
+    "Water Resistance": "10 ATM, 100 meters",
+    "Movement Type": "Automatic Cal. Seiko NH35A",
+    "Dial Color": "White",
+    "Case Material": "316L Stainless Steel",
+    "Luminous Material": "Swiss Super-LumiNova"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:30.536Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:30.536Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0539/tedoro-harmony"
+   ],
+   "hash": "22d74374a6d066ae"
+  },
+  {
+   "id": "BRD-0539/harmony-36-tiffany-blue",
+   "name": "HARMONY 36 Tiffany Blue",
+   "url": "https://tedorowatches.com/products/harmony-36-tiffany-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/refArtboard-2_26e1babf-523c-42a1-af34-cb8c4f52e15f.jpg?v=1783932693",
+    "width": 1217,
+    "height": 1217
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/refArtboard-2_26e1babf-523c-42a1-af34-cb8c4f52e15f.jpg?v=1783932693",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Untitled-1Artboard-27.webp?v=1783933069",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Untitled-1light-blue.webp?v=1783933070",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/FULL_3.webp?v=1783933076",
+     "width": 1440,
+     "height": 960
+    }
+   ],
+   "priceMinor": 49500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Harmony by Tedoro brings affordable luxury to the wrist, built on a 36mm case of 316L stainless steel with an anti-reflective sapphire crystal, a sapphire exhibition caseback, and 10 ATM (100m) water resistance. The automatic Seiko NH35A movement powers the watch with a self-winding mechanism, and Swiss Super-LumiNova on the hands and markers keeps it legible after dark. The Tiffany Blue dial uses a precise color-calibration process for a vivid, uniform finish with a sunray-brushed texture, applied hour markers, and faceted hands for a clean, balanced look.",
+   "productType": "Watch",
+   "tags": [
+    "Automatic Watch",
+    "Luxury Watch",
+    "Stainless Steel",
+    "Tedoro Harmony",
+    "Tiffany Blue Dial",
+    "Watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "36 mm",
+    "Crystal": "Sapphire Crystal with anti-reflective coating",
+    "Back Case": "Sapphire Crystal see-through",
+    "Water Resistance": "10 ATM, 100 meters",
+    "Movement Type": "Automatic Cal. Seiko NH35A",
+    "Dial Color": "Tiffany Blue",
+    "Case Material": "316L Stainless Steel",
+    "Luminous Material": "Swiss Super-LumiNova"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:30.536Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:30.536Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0539/tedoro-harmony"
+   ],
+   "hash": "dc91c7b90f382507"
+  },
+  {
+   "id": "BRD-0539/harmony-36-burgundy",
+   "name": "HARMONY 36 Burgundy",
+   "url": "https://tedorowatches.com/products/harmony-36-burgundy",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-61_1a90fd2b-207e-4406-bee7-f6fc7c381653.png?v=1783932692",
+    "width": 900,
+    "height": 900
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/TEDORO-61_1a90fd2b-207e-4406-bee7-f6fc7c381653.png?v=1783932692",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/NEW-STAINLESS-2.webp?v=1783932977",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/NEW-STAINLESS-3.webp?v=1783932979",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/WhatsApp-Image-2025-12-03-at-18.38.22_a707b7b1.webp?v=1783932976",
+     "width": 813,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/WhatsApp-Image-2025-12-27-at-6.58.27-PM-e1767009943915.webp?v=1783932977",
+     "width": 720,
+     "height": 964
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/FULL_2.webp?v=1783932985",
+     "width": 1440,
+     "height": 960
+    }
+   ],
+   "priceMinor": 49500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Harmony by Tedoro brings affordable luxury to the wrist, built on a 36mm case of 316L stainless steel with an anti-reflective sapphire crystal, a sapphire exhibition caseback, and 10 ATM (100m) water resistance. The automatic Seiko NH35A movement powers the watch with a self-winding mechanism, and Swiss Super-LumiNova on the hands and markers keeps it legible after dark. The Burgundy dial has a deep wine-toned finish that shifts with the light, giving the watch a distinctive, understated character built to handle daily wear and the occasional splash.",
+   "productType": "Watch",
+   "tags": [
+    "Automatic Watch",
+    "Burgundy Dial",
+    "Luxury Watch",
+    "Stainless Steel",
+    "Tedoro Harmony",
+    "Watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "36 mm",
+    "Crystal": "Sapphire Crystal with anti-reflective coating",
+    "Back Case": "Sapphire Crystal see-through",
+    "Water Resistance": "10 ATM, 100 meters",
+    "Movement Type": "Automatic Cal. Seiko NH35A",
+    "Dial Color": "Burgundy",
+    "Case Material": "316L Stainless Steel",
+    "Luminous Material": "Swiss Super-LumiNova"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:30.536Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:30.536Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0539/tedoro-harmony"
+   ],
+   "hash": "0bea014bbbe7a7f3"
+  },
+  {
+   "id": "BRD-0539/harmony-36-blue",
+   "name": "HARMONY 36 Blue",
+   "url": "https://tedorowatches.com/products/harmony-36-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/refArtboard-3_4ede9f90-b3b9-4702-9711-0341c315078e.jpg?v=1783932692",
+    "width": 1217,
+    "height": 1217
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/refArtboard-3_4ede9f90-b3b9-4702-9711-0341c315078e.jpg?v=1783932692",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Untitled-1Artboard-25.webp?v=1783932880",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Untitled-bluee.webp?v=1783932880",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/FULL_1.webp?v=1783932888",
+     "width": 1440,
+     "height": 960
+    }
+   ],
+   "priceMinor": 49500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Harmony by Tedoro brings affordable luxury to the wrist, built on a 36mm case of 316L stainless steel with an anti-reflective sapphire crystal, a sapphire exhibition caseback, and 10 ATM (100m) water resistance. The automatic Seiko NH35A movement powers the watch with a self-winding mechanism, and Swiss Super-LumiNova on the hands and markers keeps it legible after dark. The Blue dial has a layered, multi-tone navy finish that shifts in the light, and the sapphire exhibition caseback shows off the NH35A movement in motion.",
+   "productType": "Watch",
+   "tags": [
+    "Automatic Watch",
+    "Blue Dial",
+    "Luxury Watch",
+    "Stainless Steel",
+    "Tedoro Harmony",
+    "Watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "36 mm",
+    "Crystal": "Sapphire Crystal with anti-reflective coating",
+    "Back Case": "Sapphire Crystal see-through",
+    "Water Resistance": "10 ATM, 100 meters",
+    "Movement Type": "Automatic Cal. Seiko NH35A",
+    "Dial Color": "Blue",
+    "Case Material": "316L Stainless Steel",
+    "Luminous Material": "Swiss Super-LumiNova"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:30.536Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:30.536Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0539/tedoro-harmony"
+   ],
+   "hash": "756317216ea825aa"
+  },
+  {
+   "id": "BRD-0539/harmony-36-black",
+   "name": "HARMONY 36 Black",
+   "url": "https://tedorowatches.com/products/harmony-36-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/refArtboard-4_08287c2f-2664-4ba6-b23d-dea314ec1e89.jpg?v=1783932692",
+    "width": 1217,
+    "height": 1217
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/refArtboard-4_08287c2f-2664-4ba6-b23d-dea314ec1e89.jpg?v=1783932692",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Untitled-1Artboard-15BS.webp?v=1783932776",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/Untitled-black.webp?v=1783932776",
+     "width": 1217,
+     "height": 1217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1006/8210/5144/files/FULL.webp?v=1783932782",
+     "width": 1440,
+     "height": 960
+    }
+   ],
+   "priceMinor": 49500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Harmony by Tedoro brings affordable luxury to the wrist, built on a 36mm case of 316L stainless steel with an anti-reflective sapphire crystal, a sapphire exhibition caseback, and 10 ATM (100m) water resistance. The automatic Seiko NH35A movement powers the watch with a self-winding mechanism, and Swiss Super-LumiNova on the hands and markers keeps it legible after dark. The Black dial pairs a high-clarity anti-reflective sapphire crystal with a durable, scratch-resistant black case finish for a bold, contemporary look that holds up to everyday wear.",
+   "productType": "Watch",
+   "tags": [
+    "Automatic Watch",
+    "Black Dial",
+    "Luxury Watch",
+    "Stainless Steel",
+    "Tedoro Harmony",
+    "Watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "36 mm",
+    "Crystal": "Sapphire Crystal with anti-reflective coating",
+    "Back Case": "Sapphire Crystal see-through",
+    "Water Resistance": "10 ATM, 100 meters",
+    "Movement Type": "Automatic Cal. Seiko NH35A",
+    "Dial Color": "Black",
+    "Case Material": "316L Stainless Steel",
+    "Luminous Material": "Swiss Super-LumiNova"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:30.536Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:30.536Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0539/tedoro-harmony"
+   ],
+   "hash": "09e51181a2c78658"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0539/limited-edition",
+   "name": "Limited Edition",
+   "url": "https://tedorowatches.com/collections/limited-edition",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0539/tedoro-harmony",
+   "name": "Tedoro Harmony",
+   "url": "https://tedorowatches.com/collections/tedoro-harmony",
+   "description": null,
+   "image": null
+  }
+ ]
+}

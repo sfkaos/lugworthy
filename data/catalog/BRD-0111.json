@@ -1,0 +1,421 @@
+{
+ "brandId": "BRD-0111",
+ "brandName": "Bramier",
+ "website": "https://www.bramier.com",
+ "crawledAt": "2026-11-01T06:42:09.165Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.bramier.com/cdn/shop/files/BRAMIER_NERO.png?height=60&v=1764344562",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.bramier.com/en-us"
+ },
+ "attribution": "Images © Bramier, from bramier.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0111/rocks-citylight-aventurine",
+   "name": "Rocks Citylight Aventurine",
+   "url": "https://www.bramier.com/products/rocks-citylight-aventurine",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/95065296-97C3-4FF6-A43E-51E559E03658.png?v=1780385049",
+    "width": 992,
+    "height": 1586
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/95065296-97C3-4FF6-A43E-51E559E03658.png?v=1780385049",
+     "width": 992,
+     "height": 1586
+    }
+   ],
+   "priceMinor": 39900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Rocks Citylights Aventurine is a diver built for those who face every challenge, from water to city life. Engineered for uncompromising performance, it blends contemporary design with professional-grade durability: a 40 mm 316L stainless steel case, water resistance up to 300 m and the automatic Miyota 9039 movement for reliable precision. The ceramic bezel and anti-reflective sapphire crystal ensure strength and clarity, while high-visibility lume guarantees readability in all conditions. Interchangeable straps complete a versatile, technical design built to accompany you anywhere with style and character.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 12.4,
+    "waterResistanceM": 300,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Technical specifications CASE": "316L Stainless Steel",
+    "DIMENSIONS": "Ø40 mm, lug to lug 46 mm, thickness 12.4 mm",
+    "MOVEMENT": "Cal. Miyota 9039 Automatic",
+    "CRYSTAL": "Sapphire with anti-reflective coating",
+    "DIAL": "Genuine aventurine stone",
+    "BEZEL": "Ceramic, unidirectional, 120 clicks",
+    "WATER RESISTANCE": "300 m",
+    "LUME": "BGW9 Super-Luminova Swiss",
+    "STRAP": "Blue FKM Tropic / additonal: “Rice grain” bracelet",
+    "CASE": "316L Stainless Steel"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:42:09.165Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:42:09.165Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0111/rocks-diver"
+   ],
+   "hash": "25d7e4a2c89a2758"
+  },
+  {
+   "id": "BRD-0111/apex-rock-i-limited-edition",
+   "name": "Apex Rock I Limited Edition",
+   "url": "https://www.bramier.com/products/apex-rock-i-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/apexrender.png?v=1763762256",
+    "width": 3840,
+    "height": 6143
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/apexrender.png?v=1763762256",
+     "width": 3840,
+     "height": 6143
+    }
+   ],
+   "priceMinor": 46900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Apex Rock Limited Edition combines technical robustness with mountain-inspired elegance. With a 40 mm 316L stainless steel case, water resistance to 300 m, and a Miyota 9015 automatic movement, it offers reliability and high performance in any environment. The ceramic bezel, anti-reflective sapphire crystal, and BGW9 lume ensure visibility and durability, while interchangeable straps complete a design that evokes the power of the mountains and is perfectly suited to both adventure and everyday life.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "DIMENSIONI": "Ø40 mm, lug to lug 46 mm, spessore 12.4 mm",
+    "MOVIMENTO": "Cal. Miyota 9015 Automatico",
+    "VETRO": "Zaffiro con trattamento antiriflesso",
+    "LUNETTA": "Ceramica, unidirezionale 120 scatti",
+    "RESISTENZA ALL'ACQUA": "300 m",
+    "LUME": "BGW9 Super-Luminova Swiss",
+    "CINTURINO": "Bracciale “chicchi di riso” / FKM Tropic bianco",
+    "CASSA": "Acciaio 316L"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:42:09.165Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:42:09.165Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0111/rocks-diver"
+   ],
+   "hash": "6fa491ed41274031"
+  },
+  {
+   "id": "BRD-0111/trilayer-gmt",
+   "name": "Trilayer GMT Teal",
+   "url": "https://www.bramier.com/products/trilayer-gmt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/1.5102.png?v=1763762526",
+    "width": 3840,
+    "height": 3840
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/1.5102.png?v=1763762526",
+     "width": 3840,
+     "height": 3840
+    }
+   ],
+   "priceMinor": 79900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Rocks Trilayer GMT is our three-layer dial watch that embodies the timeless elegance of our Rocks collection, powered by the new Miyota caliber 9075, a “True” automatic GMT.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "DIMENSIONI": "Ø40,5 mm",
+    "MOVIMENTO": "Cal. Miyota 9075 True GMT Automatico",
+    "FUNZIONI": "GMT, datario",
+    "VETRO": "Vetro in zaffiro con trattamento antiriflesso",
+    "PIGMENTO LUMINESCENTE": "BGW9 Super-LumiNova®",
+    "GHIERA": "Inserto in vetro, 60 scatti Biderezionale",
+    "RESISTENZA ALL'ACQUA": "20ATM (= 200mt)",
+    "MATERIALE CASSA": "Acciaio 316L",
+    "The Essence of GMT": "Exploring Global Time",
+    "CASE MATERIAL": "316L steel",
+    "DIMENSIONS": "Ø40.5 mm",
+    "MOVEMENT": "Cal. Miyota 9075 True GMT Automatic",
+    "FUNCTIONS": "GMT, date CRYSTAL: Sapphire crystal with anti-reflective treatment",
+    "LUMINESCENT PIGMENT": "BGW9 Super-LumiNova®",
+    "BEZEL": "Glass insert, 60 clicks Bidirectional",
+    "WATER RESISTANCE": "20ATM (= 200m)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:42:09.165Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:42:09.165Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0111/trilayer-gmt"
+   ],
+   "hash": "31cd343c8ce038f7"
+  },
+  {
+   "id": "BRD-0111/trilayer-gmt-green",
+   "name": "Trilayer GMT Green",
+   "url": "https://www.bramier.com/products/trilayer-gmt-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/1.5103.png?v=1763763403",
+    "width": 3840,
+    "height": 3840
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/1.5103.png?v=1763763403",
+     "width": 3840,
+     "height": 3840
+    }
+   ],
+   "priceMinor": 79900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Rocks Trilayer GMT is our three-layer dial watch that embodies the timeless elegance of our Rocks collection, powered by the new Miyota caliber 9075, a “True” automatic GMT.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "DIMENSIONI": "Ø40,5 mm",
+    "MOVIMENTO": "Cal. Miyota 9075 True GMT Automatico",
+    "FUNZIONI": "GMT, datario",
+    "VETRO": "Vetro in zaffiro con trattamento antiriflesso",
+    "PIGMENTO LUMINESCENTE": "BGW9 Super-LumiNova®",
+    "GHIERA": "Inserto in vetro, 60 scatti Biderezionale",
+    "RESISTENZA ALL'ACQUA": "20ATM (= 200mt)",
+    "MATERIALE CASSA": "Acciaio 316L",
+    "The Essence of GMT": "Exploring Global Time",
+    "CASE MATERIAL": "316L steel",
+    "DIMENSIONS": "Ø40.5 mm",
+    "MOVEMENT": "Cal. Miyota 9075 True GMT Automatic",
+    "FUNCTIONS": "GMT, date CRYSTAL: Sapphire crystal with anti-reflective treatment",
+    "LUMINESCENT PIGMENT": "BGW9 Super-LumiNova®",
+    "BEZEL": "Glass insert, 60 clicks Bidirectional",
+    "WATER RESISTANCE": "20ATM (= 200m)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:42:09.165Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:42:09.165Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0111/trilayer-gmt"
+   ],
+   "hash": "6e2e96930a859806"
+  },
+  {
+   "id": "BRD-0111/trilayer-gmt-blue",
+   "name": "Trilayer GMT Blue",
+   "url": "https://www.bramier.com/products/trilayer-gmt-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/1.5085_0cb761ec-b9f6-4c3e-aff0-285b07aa52a9.png?v=1766832892",
+    "width": 3840,
+    "height": 3840
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/1.5085_0cb761ec-b9f6-4c3e-aff0-285b07aa52a9.png?v=1766832892",
+     "width": 3840,
+     "height": 3840
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/files/WhatsApp_Image_2026-06-23_at_14.32.34.jpg?v=1782230705",
+     "width": 941,
+     "height": 1672
+    }
+   ],
+   "priceMinor": 72900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Rocks Trilayer GMT is our three-layer dial watch that embodies the timeless elegance of our Rocks collection, powered by the new Miyota caliber 9075, a “True” automatic GMT.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Colore del cinturino",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Materiale dell’orologio",
+     "values": [
+      "Metal",
+      "Tropic strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue / Metal",
+     "sku": null,
+     "priceMinor": 79900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Metal"
+     ]
+    },
+    {
+     "title": "Blue / Tropic strap",
+     "sku": null,
+     "priceMinor": 72900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Tropic strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "DIMENSIONI": "Ø40,5 mm",
+    "MOVIMENTO": "Cal. Miyota 9075 True GMT Automatico",
+    "FUNZIONI": "GMT, datario",
+    "VETRO": "Vetro in zaffiro con trattamento antiriflesso",
+    "PIGMENTO LUMINESCENTE": "BGW9 Super-LumiNova®",
+    "GHIERA": "Inserto in vetro, 60 scatti Biderezionale",
+    "RESISTENZA ALL'ACQUA": "20ATM (= 200mt)",
+    "MATERIALE CASSA": "Acciaio 316L",
+    "The Essence of GMT": "Exploring Global Time",
+    "CASE MATERIAL": "316L steel",
+    "DIMENSIONS": "Ø40.5 mm",
+    "MOVEMENT": "Cal. Miyota 9075 True GMT Automatic",
+    "FUNCTIONS": "GMT, date CRYSTAL: Sapphire crystal with anti-reflective treatment",
+    "LUMINESCENT PIGMENT": "BGW9 Super-LumiNova®",
+    "BEZEL": "Glass insert, 60 clicks Bidirectional",
+    "WATER RESISTANCE": "20ATM (= 200m)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:42:09.165Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:42:09.165Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0111/trilayer-gmt"
+   ],
+   "hash": "a74c2ebe1fe8c371"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0111/rocks-diver",
+   "name": "Rocks Diver",
+   "url": "https://www.bramier.com/collections/rocks-diver",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/collections/Apex_Wrist_optimized.webp?v=1763975987",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0111/trilayer-gmt",
+   "name": "Trilayer GMT",
+   "url": "https://www.bramier.com/collections/trilayer-gmt",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0991/1176/4309/collections/gruppo.jpg?v=1763765875",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

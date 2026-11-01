@@ -1,0 +1,553 @@
+{
+ "brandId": "BRD-0447",
+ "brandName": "Pacific Watch Co",
+ "website": "https://pacificwatch.co",
+ "crawledAt": "2026-11-01T08:14:13.538Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://pacificwatch.co/cdn/shop/files/PWC_Lockup.png?v=1659742459",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://pacificwatch.co/"
+ },
+ "attribution": "Images © Pacific Watch Co, from pacificwatch.co",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0447/cascadia-field-watch-slateblue",
+   "name": "Cascadia Field Watch - Slate Blue",
+   "url": "https://pacificwatch.co/products/cascadia-field-watch-slateblue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-20-50_L2.jpg?v=1706578034",
+    "width": 3900,
+    "height": 3900
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-20-50_L2.jpg?v=1706578034",
+     "width": 3900,
+     "height": 3900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-20-50_L11.jpg?v=1706578034",
+     "width": 2215,
+     "height": 2215
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-20-50_L8.jpg?v=1706578034",
+     "width": 3026,
+     "height": 3026
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed as the perfect watch for the modern adventurer. Each dial comes with a quick-release nylon strap for effortless ability to switch out styles for any situation.",
+   "productType": "Watch",
+   "tags": [
+    "Blue",
+    "Field Watch",
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 49,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Dial Width": "40mm",
+    "Movement": "Ameriquartz 7121 High Torque (assembled-in-the-USA)",
+    "Case Material": "316L Stainless Steel",
+    "Case Finish": "Brushed/Polished",
+    "Crystal": "Anti-Reflective Sapphire Crystal",
+    "Lume": "Swiss Super LumiNova",
+    "Water Resistance": "100m/10 ATM",
+    "Battery Life": "~30 months",
+    "Timing Tolerance": "+/- 20 sec/month",
+    "Case Weight": "52g",
+    "Thickness": "9.9mm",
+    "Lug-to-Lug": "49mm",
+    "Strap Size": "20mm",
+    "Band": "2-Piece Quick Release (Nylon)",
+    "Buckle/Clasp": "Buckle",
+    "Shipping & Returns Shipping": "Free for domestic orders over $75. Returns: 30-day, zero hassle."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:14:13.538Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:14:13.538Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0447/cascadia-field-watch"
+   ],
+   "hash": "0b490a0aa75864c1"
+  },
+  {
+   "id": "BRD-0447/pacific-watch-company-gift-card",
+   "name": "Pacific Watch Company Gift Card",
+   "url": "https://pacificwatch.co/products/pacific-watch-company-gift-card",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/PWC_CANVASCASE_LIFESTYLE_L6.jpg?v=1708040905",
+    "width": 6699,
+    "height": 3026
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/PWC_CANVASCASE_LIFESTYLE_L6.jpg?v=1708040905",
+     "width": 6699,
+     "height": 3026
+    }
+   ],
+   "priceMinor": 5000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Want to send a gift to that special someone? A Pacific Watch Co gift card will do the trick.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Denominations",
+     "values": [
+      "$50.00",
+      "$150.00",
+      "$250.00",
+      "$368.00"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "$50.00",
+     "sku": null,
+     "priceMinor": 5000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "$50.00"
+     ]
+    },
+    {
+     "title": "$150.00",
+     "sku": null,
+     "priceMinor": 15000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "$150.00"
+     ]
+    },
+    {
+     "title": "$250.00",
+     "sku": null,
+     "priceMinor": 25000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "$250.00"
+     ]
+    },
+    {
+     "title": "$368.00",
+     "sku": null,
+     "priceMinor": 36800,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "$368.00"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 49,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Ameriquartz 7121 High Torque (made in the USA)",
+    "Case Material": "316L Stainless Steel",
+    "Case Finish": "Brushed/Polished",
+    "Crystal": "Anti-Reflective Sapphire Crystal",
+    "Lume": "Swiss Super LumiNova",
+    "Water Resistance": "100m/10 ATM",
+    "Battery Life": "~30 months",
+    "Timing Tolerance": "+/- 20 sec/month",
+    "Case Weight": "52g",
+    "Thickness": "9.9mm",
+    "Lug-to-Lug": "49mm",
+    "Strap Size": "20mm",
+    "Band": "2-Piece Quick Release (Nylon)",
+    "Buckle/Clasp": "Buckle",
+    "Shipping & Returns Shipping": "Free for domestic orders over $75. Returns: 30-day, zero hassle."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:14:13.538Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:14:13.538Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0447/cascadia-field-watch"
+   ],
+   "hash": "66d7791d45c3a73c"
+  },
+  {
+   "id": "BRD-0447/cascadia-field-watch-trueblack",
+   "name": "Cascadia Field Watch - True Black",
+   "url": "https://pacificwatch.co/products/cascadia-field-watch-trueblack",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-10-10_L2.jpg?v=1706577419",
+    "width": 3900,
+    "height": 3900
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-10-10_L2.jpg?v=1706577419",
+     "width": 3900,
+     "height": 3900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-10-10_L14.jpg?v=1706577419",
+     "width": 2750,
+     "height": 2750
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-10_CASEBACK_L1.jpg?v=1706577419",
+     "width": 2109,
+     "height": 2109
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-10-10_P1.jpg?v=1706577419",
+     "width": 3923,
+     "height": 5884
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-10-50_L2.jpg?v=1706577799",
+     "width": 3900,
+     "height": 3900
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed as the perfect watch for the modern adventurer. Each dial comes with a quick-release nylon strap for effortless ability to switch out styles for any situation.",
+   "productType": "Watch",
+   "tags": [
+    "Black",
+    "Field Watch",
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 49,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Dial Width": "40mm",
+    "Movement": "Ameriquartz 7121 High Torque (assembled-in-the-USA)",
+    "Case Material": "316L Stainless Steel",
+    "Case Finish": "Brushed/Polished",
+    "Crystal": "Anti-Reflective Sapphire Crystal",
+    "Lume": "Swiss Super LumiNova",
+    "Water Resistance": "100m/10 ATM",
+    "Battery Life": "~30 months",
+    "Timing Tolerance": "+/- 20 sec/month",
+    "Case Weight": "52g",
+    "Thickness": "9.9mm",
+    "Lug-to-Lug": "49mm",
+    "Strap Size": "20mm",
+    "Band": "2-Piece Quick Release (Nylon)",
+    "Buckle/Clasp": "Buckle",
+    "Shipping & Returns Shipping": "Free for domestic orders over $75. Returns: 30-day, zero hassle."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:14:13.538Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:14:13.538Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0447/cascadia-field-watch"
+   ],
+   "hash": "bde08c41687ee620"
+  },
+  {
+   "id": "BRD-0447/cascadia-field-watch-acadiawhite",
+   "name": "Cascadia Field Watch - Acadia White",
+   "url": "https://pacificwatch.co/products/cascadia-field-watch-acadiawhite",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30-70_L2_34d299a2-82e2-4a7a-9ae2-c2aa176f0515.jpg?v=1708039530",
+    "width": 3120,
+    "height": 3120
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30-70_L2_34d299a2-82e2-4a7a-9ae2-c2aa176f0515.jpg?v=1708039530",
+     "width": 3120,
+     "height": 3120
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30-70_L3.jpg?v=1708039530",
+     "width": 3212,
+     "height": 3212
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30-70_L14.jpg?v=1708039530",
+     "width": 3000,
+     "height": 3001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30_L11.jpg?v=1708039530",
+     "width": 1625,
+     "height": 1084
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30_L13.jpg?v=1708039530",
+     "width": 1625,
+     "height": 1084
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-70_CASEBACK_L2.jpg?v=1708039530",
+     "width": 4268,
+     "height": 4268
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/PWC_BACKUSA_L2.jpg?v=1708039530",
+     "width": 2880,
+     "height": 2880
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30-60_L2.jpg?v=1708039530",
+     "width": 3120,
+     "height": 3120
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30-10_L2.jpg?v=1708039530",
+     "width": 3120,
+     "height": 3120
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-30-50_L2.jpg?v=1708039530",
+     "width": 3120,
+     "height": 3120
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed as the perfect watch for the modern adventurer. Each dial comes with a quick-release nylon strap for effortless ability to switch out styles for any situation.",
+   "productType": "Watch",
+   "tags": [
+    "Acadia White",
+    "Field Watch",
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 49,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Dial Width": "40mm",
+    "Movement": "Ameriquartz 7121 High Torque (assembled-in-the-USA)",
+    "Case Material": "316L Stainless Steel",
+    "Case Finish": "Brushed/Polished",
+    "Crystal": "Anti-Reflective Sapphire Crystal",
+    "Lume": "Swiss Super LumiNova",
+    "Water Resistance": "100m/10 ATM",
+    "Battery Life": "~30 months",
+    "Timing Tolerance": "+/- 20 sec/month",
+    "Case Weight": "52g",
+    "Thickness": "9.9mm",
+    "Lug-to-Lug": "49mm",
+    "Strap Size": "20mm",
+    "Band": "2-Piece Quick Release (Nylon)",
+    "Buckle/Clasp": "Buckle",
+    "Shipping & Returns Shipping": "Free for domestic orders over $75. Returns: 30-day, zero hassle."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:14:13.538Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:14:13.538Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0447/cascadia-field-watch"
+   ],
+   "hash": "423e073550991c52"
+  },
+  {
+   "id": "BRD-0447/cascadia-field-watch-orangecrush",
+   "name": "Cascadia Field Watch - Orange Crush",
+   "url": "https://pacificwatch.co/products/cascadia-field-watch-orangecrush",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-40-60_L2_38053684-51d4-48fc-b46d-de5d23b9be26.jpg?v=1708039481",
+    "width": 3900,
+    "height": 3900
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-40-60_L2_38053684-51d4-48fc-b46d-de5d23b9be26.jpg?v=1708039481",
+     "width": 3900,
+     "height": 3900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-40-60_L14.jpg?v=1708039481",
+     "width": 2841,
+     "height": 2841
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-40_L11.jpg?v=1708039481",
+     "width": 2035,
+     "height": 1356
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-60_CASEBACK_L1.jpg?v=1708039481",
+     "width": 2109,
+     "height": 2109
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-40-70_L2.jpg?v=1708039481",
+     "width": 3900,
+     "height": 3900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-40-10_L2.jpg?v=1708039481",
+     "width": 3900,
+     "height": 3900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/files/101-40-50_L2.jpg?v=1708039481",
+     "width": 3900,
+     "height": 3900
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed as the perfect watch for the modern adventurer. Each dial comes with a quick-release nylon strap for effortless ability to switch out styles for any situation.",
+   "productType": "Watch",
+   "tags": [
+    "Field Watch",
+    "Orange",
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 49,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Dial Width": "40mm",
+    "Movement": "Ameriquartz 7121 High Torque (assembled-in-the-USA)",
+    "Case Material": "316L Stainless Steel",
+    "Case Finish": "Brushed/Polished",
+    "Crystal": "Anti-Reflective Sapphire Crystal",
+    "Lume": "Swiss Super LumiNova",
+    "Water Resistance": "100m/10 ATM",
+    "Battery Life": "~30 months",
+    "Timing Tolerance": "+/- 20 sec/month",
+    "Case Weight": "52g",
+    "Thickness": "9.9mm",
+    "Lug-to-Lug": "49mm",
+    "Strap Size": "20mm",
+    "Band": "2-Piece Quick Release (Nylon)",
+    "Buckle/Clasp": "Buckle",
+    "Shipping & Returns Shipping": "Free for domestic orders over $75. Returns: 30-day, zero hassle."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:14:13.538Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:14:13.538Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0447/cascadia-field-watch"
+   ],
+   "hash": "4c81c19a7c134d1c"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0447/cascadia-field-watch",
+   "name": "Cascadia Field Watch",
+   "url": "https://pacificwatch.co/collections/cascadia-field-watch",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0569/6441/5511/collections/watch-with-leather-strap-near-leaves.jpg?v=1689633397",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

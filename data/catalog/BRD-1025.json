@@ -1,0 +1,641 @@
+{
+ "brandId": "BRD-1025",
+ "brandName": "Julien Louis",
+ "website": "https://julienlouis.com",
+ "crawledAt": "2026-11-01T07:36:57.434Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://julienlouis.com/cdn/shop/files/Logo-JL-blanc.png?height=36&v=1777974555",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://julienlouis.com/"
+ },
+ "attribution": "Images © Julien Louis, from julienlouis.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1025/concept",
+   "name": "Concept",
+   "url": "https://julienlouis.com/products/concept",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Rendu_3D_Concept_1_Luminova.png?v=1793292258",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Rendu_3D_Concept_1_Luminova.png?v=1793292258",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 236600,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Une pièce unique le 1er de chaque mois à 12h00",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Mouvement La Joux-Perret G100": "- 68 heures de réserve de marche - 24 rubis - 28 800 alternances (4Hz) - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel",
+    "Les dimensions de l'écrin sont": "Longueur 20cm x Largeur 13cm x Hauteur 10.5cm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:36:57.434Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ea8e9b3694ad89f3"
+  },
+  {
+   "id": "BRD-1025/vestige-reptile",
+   "name": "Vestige Reptile",
+   "url": "https://julienlouis.com/products/vestige-reptile",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Reptile_P1.jpg?v=1788170582",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Reptile_P1.jpg?v=1788170582",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 233700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre Vestige Reptile : cadran à motif écaillé réalisé entièrement à la main. Horlogerie française artisanale en édition limitée. Découvrez-la.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Montre Vestige Reptile": "cadran à motif écaillé réalisé entièrement à la main. Horlogerie française artisanale en édition limitée. Découvrez-la.",
+    "Boitier en acier inoxydable 316L": "- 42 mm de diamètre - 47 mm corne à corne - 10 mm d'épaisseur",
+    "Mouvement La Joux-Perret G100": "- 68 heures de réserve de marche - 24 rubis - 28 800 alternances (4Hz) - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel",
+    "Les dimensions de l'écrin sont": "Longueur 20cm x Largeur 13cm x Hauteur 10.5cm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:36:57.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1025/vestige"
+   ],
+   "hash": "ef5220ab3019e245"
+  },
+  {
+   "id": "BRD-1025/2022",
+   "name": "2022",
+   "url": "https://julienlouis.com/products/2022",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Photoproduit2022.png?v=1789119879",
+    "width": 1220,
+    "height": 1850
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Photoproduit2022.png?v=1789119879",
+     "width": 1220,
+     "height": 1850
+    }
+   ],
+   "priceMinor": 1420200,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre haut de gamme Ovalie 2022 en or et acier, conçue et assemblée à la main en France. Une édition limitée d'exception. Découvrez-la.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Boitier en acier inoxydable 316L": "- 44 mm de diamètre - 47.80 mm corne à corne - 9.85 mm d'épaisseur",
+    "Mouvement La Joux-Perret G100": "- 68 heures de réserve de marche - 24 rubis - 28 800 alternances (4Hz) - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel",
+    "Les dimensions de l'écrin sont": "Longueur 20cm x Largeur 13cm x Hauteur 10.5cm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:36:57.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1025/ovalie"
+   ],
+   "hash": "9cf87d9e66b339a8"
+  },
+  {
+   "id": "BRD-1025/2010",
+   "name": "2010",
+   "url": "https://julienlouis.com/products/2010",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Photoproduit2010.png?v=1789119853",
+    "width": 1220,
+    "height": 1850
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Photoproduit2010.png?v=1789119853",
+     "width": 1220,
+     "height": 1850
+    }
+   ],
+   "priceMinor": 851200,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre automatique française Ovalie 2010, assemblée à la main dans notre atelier. Édition limitée à la finition artisanale. Découvrez le modèle.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Boitier en acier inoxydable 316L": "- 44 mm de diamètre - 48 mm corne à corne - 13.20 mm d'épaisseur",
+    "Mouvement La Joux-Perret L110": "- 60 heures de réserve de marche - 26 rubis - 28 800 alternances (4Hz) - Roue à colonnes - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel",
+    "Les dimensions de l'écrin sont": "Longueur 20cm x Largeur 13cm x Hauteur 10.5cm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:36:57.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1025/ovalie"
+   ],
+   "hash": "b26dbc9e7d4b0dca"
+  },
+  {
+   "id": "BRD-1025/2004",
+   "name": "2004",
+   "url": "https://julienlouis.com/products/2004",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Photo_produit_2004_8832fa04-b54e-4654-8bf8-95a8e0c2d47a.png?v=1789119772",
+    "width": 1220,
+    "height": 1850
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Photo_produit_2004_8832fa04-b54e-4654-8bf8-95a8e0c2d47a.png?v=1789119772",
+     "width": 1220,
+     "height": 1850
+    }
+   ],
+   "priceMinor": 517800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre sport-chic Ovalie 2004 à bracelet acier intégré ou cuir alligator. Horlogerie française artisanale en édition limitée. Découvrez le modèle.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Boitier en acier inoxydable 316L": "- 44 mm de diamètre - 47.60 mm corne à corne - 13.20 mm d'épaisseur",
+    "Mouvement La Joux-Perret L110": "- 60 heures de réserve de marche - 26 rubis - 28 800 alternances (4Hz) - Roue à colonnes - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel",
+    "Les dimensions de l'écrin sont": "Longueur 20cm x Largeur 13cm x Hauteur 10.5cm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:36:57.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1025/ovalie"
+   ],
+   "hash": "c6d6d03f3f056fc5"
+  },
+  {
+   "id": "BRD-1025/vestige-summer",
+   "name": "Vestige Summer",
+   "url": "https://julienlouis.com/products/vestige-summer",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/04_jaune.png?v=1782811446",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/04_jaune.png?v=1782811446",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 266000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre Julien Louis Vestige Summer : cadran coloré décoré à la main, limité à 10 exemplaires par couleur. Horlogerie française artisanale. Choisissez votre couleur.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Montre Julien Louis Vestige Summer": "cadran coloré décoré à la main, limité à 10 exemplaires par couleur. Horlogerie française artisanale. Choisissez votre couleur.",
+    "Boitier en acier inoxydable 316L": "- 42 mm de diamètre - 47 mm corne à corne - 10 mm d'épaisseur",
+    "Mouvement La Joux-Perret G100": "- 68 heures de réserve de marche - 24 rubis - 28 800 alternances (4Hz) - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel",
+    "Les dimensions de l'écrin sont": "Longueur 20cm x Largeur 13cm x Hauteur 10.5cm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:36:57.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1025/vestige"
+   ],
+   "hash": "bddc35cd1516440a"
+  },
+  {
+   "id": "BRD-1025/2002",
+   "name": "2002",
+   "url": "https://julienlouis.com/products/2002",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Photoproduit2002.png?v=1789119833",
+    "width": 1220,
+    "height": 1850
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/Photoproduit2002.png?v=1789119833",
+     "width": 1220,
+     "height": 1850
+    }
+   ],
+   "priceMinor": 422800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre sport-chic française Ovalie 2002 : cadran noir ou bleu, bracelet cuir alligator ou acier. Édition limitée assemblée à la main. Découvrez-la.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Montre sport-chic française Ovalie 2002": "cadran noir ou bleu, bracelet cuir alligator ou acier. Édition limitée assemblée à la main. Découvrez-la.",
+    "Boitier en acier inoxydable 316L": "- 44 mm de diamètre - 47.10 mm corne à corne - 9.65 mm d'épaisseur",
+    "Mouvement La Joux-Perret G100": "- 68 heures de réserve de marche - 24 rubis - 28 800 alternances (4Hz) - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel",
+    "Les dimensions de l'écrin sont": "Longueur 20cm x Largeur 13cm x Hauteur 10.5cm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:36:57.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1025/ovalie"
+   ],
+   "hash": "174339bf4608d6e6"
+  },
+  {
+   "id": "BRD-1025/vestige",
+   "name": "Vestige",
+   "url": "https://julienlouis.com/products/vestige",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/birdwing_copper_V2.png?v=1781876215",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1043/4805/7937/files/birdwing_copper_V2.png?v=1781876215",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 176700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre française artisanale au cadran brillant décoré à la main. Choisissez couleur, motif et bracelet et créez votre Vestige sur mesure.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Tampographie",
+     "values": [
+      "Aucune",
+      "Infinity Cube",
+      "Hexagonal Structure",
+      "Controlled Chaos"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Silicone Blanc",
+      "Silicone noir",
+      "Cuir de veau gris"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Aucune / Silicone Blanc",
+     "sku": null,
+     "priceMinor": 176700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Aucune",
+      "Silicone Blanc"
+     ]
+    },
+    {
+     "title": "Aucune / Silicone noir",
+     "sku": null,
+     "priceMinor": 176700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Aucune",
+      "Silicone noir"
+     ]
+    },
+    {
+     "title": "Aucune / Cuir de veau gris",
+     "sku": null,
+     "priceMinor": 199500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Aucune",
+      "Cuir de veau gris"
+     ]
+    },
+    {
+     "title": "Infinity Cube / Silicone Blanc",
+     "sku": null,
+     "priceMinor": 188100,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Infinity Cube",
+      "Silicone Blanc"
+     ]
+    },
+    {
+     "title": "Infinity Cube / Silicone noir",
+     "sku": null,
+     "priceMinor": 188100,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Infinity Cube",
+      "Silicone noir"
+     ]
+    },
+    {
+     "title": "Infinity Cube / Cuir de veau gris",
+     "sku": null,
+     "priceMinor": 210900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Infinity Cube",
+      "Cuir de veau gris"
+     ]
+    },
+    {
+     "title": "Hexagonal Structure / Silicone Blanc",
+     "sku": null,
+     "priceMinor": 188100,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Hexagonal Structure",
+      "Silicone Blanc"
+     ]
+    },
+    {
+     "title": "Hexagonal Structure / Silicone noir",
+     "sku": null,
+     "priceMinor": 188100,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Hexagonal Structure",
+      "Silicone noir"
+     ]
+    },
+    {
+     "title": "Hexagonal Structure / Cuir de veau gris",
+     "sku": null,
+     "priceMinor": 210900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Hexagonal Structure",
+      "Cuir de veau gris"
+     ]
+    },
+    {
+     "title": "Controlled Chaos / Silicone Blanc",
+     "sku": null,
+     "priceMinor": 193800,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Controlled Chaos",
+      "Silicone Blanc"
+     ]
+    },
+    {
+     "title": "Controlled Chaos / Silicone noir",
+     "sku": null,
+     "priceMinor": 193800,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Controlled Chaos",
+      "Silicone noir"
+     ]
+    },
+    {
+     "title": "Controlled Chaos / Cuir de veau gris",
+     "sku": null,
+     "priceMinor": 216600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Controlled Chaos",
+      "Cuir de veau gris"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Boitier en acier inoxydable 316L": "- 42 mm de diamètre - 47 mm corne à corne - 10 mm d'épaisseur",
+    "Mouvement La Joux-Perret G100": "- 68 heures de réserve de marche - 24 rubis - 28 800 alternances (4Hz) - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:36:57.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1025/vestige"
+   ],
+   "hash": "8ee52ea55fc40290"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1025/ovalie",
+   "name": "Ovalie",
+   "url": "https://julienlouis.com/collections/ovalie",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1025/vestige",
+   "name": "Vestige",
+   "url": "https://julienlouis.com/collections/vestige",
+   "description": null,
+   "image": null
+  }
+ ]
+}

@@ -1,0 +1,1083 @@
+{
+ "brandId": "BRD-0134",
+ "brandName": "Canuck Timepieces",
+ "website": "https://canucktimepieces.com",
+ "crawledAt": "2026-11-01T06:46:20.498Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://canucktimepieces.com/cdn/shop/files/6819153C-7DB5-424B-A9B5-D3DE4A658649_1.png?height=100&v=1751309282",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://canucktimepieces.com/"
+ },
+ "attribution": "Images © Canuck Timepieces, from canucktimepieces.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0134/the-space-explorer",
+   "name": "The Space Explorer",
+   "url": "https://canucktimepieces.com/products/the-space-explorer",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_3642_1.jpg?v=1789175825",
+    "width": 1938,
+    "height": 2713
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_3642_1.jpg?v=1789175825",
+     "width": 1938,
+     "height": 2713
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_3602_1.jpg?v=1789175825",
+     "width": 2158,
+     "height": 3022
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_3999.jpg?v=1789532004",
+     "width": 2954,
+     "height": 4136
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_4006.jpg?v=1789532021",
+     "width": 4032,
+     "height": 5644
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_4031.jpg?v=1789531949",
+     "width": 2203,
+     "height": 2938
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/2-IMG_2221.jpg?v=1787682280",
+     "width": 2866,
+     "height": 3822
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_4017.jpg?v=1789531995",
+     "width": 2755,
+     "height": 3674
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_4020.jpg?v=1789532016",
+     "width": 3285,
+     "height": 4380
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/10-IMG_2195.jpg?v=1787682279",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/14-IMG_2183.jpg?v=1787682280",
+     "width": 3886,
+     "height": 5181
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/6-IMG_2210.jpg?v=1787682280",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/7-IMG_2202.jpg?v=1787682280",
+     "width": 3865,
+     "height": 5153
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Step onto the orbital command deck and sink into the plush, crushed velvet of the captain’s chair, surrounded by brushed-steel control panels flashing with the warm glow of analog telemetry... This, is the alternate reality where The Space Explorer truly belongs. Built for the retro-future pioneer, the first Signature release from Canuck features the robust, 1970s tonneau-style Mystery case, perfectly framing a futuristic two-piece dial that reimagines classic aviation aesthetics for the final frontier. Because there are no pilots in the vastness of space, only Explorers. The traditional 12 o'clock orientation triangle has been boldly replaced by a radiant Maple Leaf , grounding your interstellar ambitions with a proud touch of Canuck's heritage. Whether you are planning to explore uncharted quantum drifts or simply navigating your daily adventures, The Space Explorer, is your ultimate, analog instrument for the journey ahead.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Deep Orbit Black",
+      "Cathode Ray Green",
+      "Nebula Velvet Purple"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Deep Orbit Black",
+     "sku": null,
+     "priceMinor": 47500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Deep Orbit Black"
+     ]
+    },
+    {
+     "title": "Cathode Ray Green",
+     "sku": null,
+     "priceMinor": 47500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cathode Ray Green"
+     ]
+    },
+    {
+     "title": "Nebula Velvet Purple",
+     "sku": null,
+     "priceMinor": 47500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Nebula Velvet Purple"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 42.5,
+    "thicknessMm": 9.7,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "fkm"
+   },
+   "specsRaw": {
+    "Case Size": "39mm",
+    "Case Material": "316L Stainless Steel",
+    "Crystal": "Sapphire with AR Coating",
+    "Lug to Lug": "42.5mm",
+    "Case Thickness": "9.7mm (Including Crystal)",
+    "Lug Width": "20mm",
+    "Movement": "Manual Wind, Seagull",
+    "H20 Resistance Rating": "100M",
+    "Lume": "BGW9 Super-LumiNova",
+    "Strap": "Signed FKM Material with, digitalized texture",
+    "Bracelet": "Elastic Metal Bracelet with, Easy Link Removal (no tools required!) , in collaboration with Vario ."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:20.498Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:20.498Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4d98a7f80ed9ea2a"
+  },
+  {
+   "id": "BRD-0134/seconds-society-x-canuck",
+   "name": "Pre-Order: Seconds Society x Canuck \"The Fracture\"",
+   "url": "https://canucktimepieces.com/products/seconds-society-x-canuck",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/B1EA4E8F-9751-4E47-A3AF-C9326E96F380.jpg?v=1784202225",
+    "width": 2141,
+    "height": 3212
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/B1EA4E8F-9751-4E47-A3AF-C9326E96F380.jpg?v=1784202225",
+     "width": 2141,
+     "height": 3212
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/7862AC79-5E33-4691-BF1C-761D75FA157B.jpg?v=1784202225",
+     "width": 3713,
+     "height": 5570
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/3AD01B3B-612C-4EAE-9E14-A08E6F5961B1.jpg?v=1784202225",
+     "width": 3621,
+     "height": 5431
+    }
+   ],
+   "priceMinor": 57000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 41,
+    "thicknessMm": 11,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH38",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Pre-Order": "Seconds Society x Canuck \"The Fracture\"",
+    "Case Size": "40mm",
+    "Lug to Lug": "41mm",
+    "Case Material": "316L Stainless Steel w/ PVD Coating",
+    "Bezel Insert": "Stainless Steel with BGW9",
+    "Crystal": "Sapphire with AR Coating",
+    "Case Thickness": "11mm (Including Crystal)",
+    "Lug Width": "20mm",
+    "Movement": "NH38A",
+    "Lume": "BGW9 Super-LumiNova Warranty All Timepieces come with a 2-Year Movement Warranty."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:20.498Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:20.498Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2a2a2dabde80aedd"
+  },
+  {
+   "id": "BRD-0134/the-4th-dimension",
+   "name": "The 4th Dimension",
+   "url": "https://canucktimepieces.com/products/the-4th-dimension",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/WhatsAppImage2026-05-10at22.17.47.jpg?v=1778758191",
+    "width": 2560,
+    "height": 1706
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/WhatsAppImage2026-05-10at22.17.47.jpg?v=1778758191",
+     "width": 2560,
+     "height": 1706
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/WhatsApp_Image_2026-05-10_at_22.17.47_1.jpg?v=1780538957",
+     "width": 2560,
+     "height": 1706
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/E91CB0A4-D065-4460-B6F5-4C7E4083F6E1.jpg?v=1781060474",
+     "width": 3450,
+     "height": 5175
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/96BEF6BF-D210-4201-817C-0989AEBC886D.jpg?v=1782435347",
+     "width": 3072,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/Canuck_Timepieces_x_AndoAndoAndo_4th_Dimension_Mainspring_Watch_Magazine_Review_Live_Shots_16_ccdfd88b-74dd-4f1b-98de-a2211f241c5c.jpg?v=1782435521",
+     "width": 4675,
+     "height": 3506
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/Canuck_Timepieces_x_AndoAndoAndo_4th_Dimension_Mainspring_Watch_Magazine_Review_Live_Shots_19.jpg?v=1781816108",
+     "width": 2433,
+     "height": 1825
+    }
+   ],
+   "priceMinor": 49700,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "First, you experienced The Black Hole . Next, you navigated The Wormhole . Now... you enter The 4th Dimension . The final chapter in the groundbreaking collaboration between AndoAndoAndo and Canuck Timepieces has arrived. The 4th Dimension completely reimagines the way you interact with time. Much like the theoretical concept it is named after, this watch represents the exact reverse of every way a traditional watch functions. Instead of hands sweeping across a static dial, the mechanics are entirely inverted: Stationary Indicator: A fixed \"hand indicator\" sits firmly at the top of the dial. It never moves. Rotating Reality: The numerals themselves rotate beneath the indicator, pulling time past you rather than chasing it. Every millimeter of this piece has been designed to challenge convention and pay homage to the sci-fi epics that inspired it. Inverted Crown Placement: Breaking away from standard design, the crown is positioned at the exact bottom of the case, grounding the watch while the dials spin above it. The Interstellar Connection: Look closely at the rotating seconds disc in the very center of the dial. The concentric design spells out STAY in Morse code. This subtle detail gives a heartfelt nod to the famous, timeline-bending communication from Coop to Murph throughout the movie Interstellar —a message delivered straight through the 4th dimension. Late August - Early September Delivery",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Case Colour",
+     "values": [
+      "Silver",
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Silver",
+     "sku": null,
+     "priceMinor": 49700,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Silver"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 49700,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 11.6,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH38",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Stationary Indicator": "A fixed \"hand indicator\" sits firmly at the top of the dial. It never moves.",
+    "Rotating Reality": "The numerals themselves rotate beneath the indicator, pulling time past you rather than chasing it.",
+    "Inverted Crown Placement": "Breaking away from standard design, the crown is positioned at the exact bottom of the case, grounding the watch while the dials spin above it.",
+    "Case Size": "35mm",
+    "Case Material": "316L Stainless Steel (PVD Coating for Black Case)",
+    "Crystal": "Sapphire with AR Coating",
+    "Lug to Lug": "43mm",
+    "Case Thickness": "11.6mm (Including Crystal)",
+    "Lug Width": "20mm",
+    "Movement": "NH38A",
+    "WR": "100M",
+    "Lume": "BGW9 Super-LumiNova Warranty All Timepieces come with a 2-Year Movement Warranty."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:20.498Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:20.498Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9395b16f6ed0b8b8"
+  },
+  {
+   "id": "BRD-0134/limited-edition-lima-x-canuck-timepieces-gmt-transit",
+   "name": "Limited Edition: Lima x Canuck Timepieces GMT Transit",
+   "url": "https://canucktimepieces.com/products/limited-edition-lima-x-canuck-timepieces-gmt-transit",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0708.jpg?v=1779739548",
+    "width": 3610,
+    "height": 4813
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0708.jpg?v=1779739548",
+     "width": 3610,
+     "height": 4813
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0727.jpg?v=1779739548",
+     "width": 2576,
+     "height": 3434
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0733.jpg?v=1779739548",
+     "width": 2882,
+     "height": 3843
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0752.jpg?v=1779739548",
+     "width": 3654,
+     "height": 4872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0766.jpg?v=1779739548",
+     "width": 3632,
+     "height": 4843
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0769.jpg?v=1779739548",
+     "width": 4000,
+     "height": 5333
+    }
+   ],
+   "priceMinor": 35800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Two Timezones. One Watch. Lima and Canuck, have come together to create a Limited Edition GMT Transit, that is limited to just 20 pieces! Canuck is truly honoured to work with Lima, on this collaboration! The owner of Canuck, James Williams, was inspired by Lima designs years ago, and actually motivated him to create Canuck. James, looks up to Herman and was excited by this opportunity to collaborate on the GMT Transit. Especially, bringing a unique take to the already successful design. The biggest change to the initial design, are the hands and dial. The hands, are a signature Canuck style, that creates an illusion of a floating set of hands, with the seconds hand taking inspiration from a car speedometer. The dial, has been updated to also feature a BGW9 lume, which allows you to check your multiple timezones, at night. Something we are excited about, is including 2 strap/bracelet options! 1 Italian Alcantara strap, along with...the 369 bracelet! Be a part of something special... With only 20 pieces available!",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.6,
+    "thicknessMm": 10,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Limited Edition": "Lima x Canuck Timepieces GMT Transit",
+    "Case Size": "37.5 mm",
+    "Case Material": "316L Stainless Steel",
+    "Bezel Insert": "Fixed",
+    "Crystal": "Double Dome K1 Crystal",
+    "Lug to Lug": "45.6 mm",
+    "Case Thickness": "10 mm / 12 mm with Crystal",
+    "Lug Width": "20mm",
+    "Movement": "NH34 (GMT)",
+    "WR": "50M",
+    "Lume": "BGW9 Super-LumiNova Warranty All Timepieces come with a 2-Year Movement Warranty."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:20.498Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:20.498Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "96344682d7569765"
+  },
+  {
+   "id": "BRD-0134/pre-order-canuck-futbol-soccer-jersey",
+   "name": "(Pre-Order) Canuck Futbol Jersey",
+   "url": "https://canucktimepieces.com/products/pre-order-canuck-futbol-soccer-jersey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/46AC4766-B8AB-4827-85C9-AB949C4FD421.jpg?v=1777658989",
+    "width": 3851,
+    "height": 5134
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/46AC4766-B8AB-4827-85C9-AB949C4FD421.jpg?v=1777658989",
+     "width": 3851,
+     "height": 5134
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/7CA11876-2FD2-46D7-A9CC-5E30E124A74C.jpg?v=1777658989",
+     "width": 3752,
+     "height": 5003
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/6BAE625E-F03C-4A06-BE5A-5DE356558885.jpg?v=1777658988",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/39ECBEAD-60F4-4CA7-8BAD-B0F164AAB9C5.jpg?v=1777658988",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/85D4BBAE-7721-41F4-800F-E13AB60B935A.jpg?v=1777658989",
+     "width": 4000,
+     "height": 5333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/2D730033-C3D0-42DC-A0EF-9D0B52630A44.jpg?v=1777658989",
+     "width": 3355,
+     "height": 4473
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/14DCCD10-76F6-49A4-8055-F7A3905151BB.jpg?v=1777658989",
+     "width": 3646,
+     "height": 4861
+    }
+   ],
+   "priceMinor": 7000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We didn't want to just create apparel. We wanted to create apparel that represented, Canuck. We designed this jersey to mimic our product language. Bold, yet subtle! Crafted entirely in Canada, by VNation in Quebec. This jersey blends hockey style with a classic Futbol jersey. Light and Airy, perfect for staying cool in the hot sun! This isn’t just a jersey, it’s a statement of heritage and pride. Features 🇨🇦 100% Made in Canada, By VNation in Quebec Fully breathable performance fabric. Sublimation, which is permanent colour dying, fused into the fabric of the jersey, using heat and pressure. Ensuring that it’s durable and long lasting! Relaxed fit (true to size, for Futbol/Soccer jerseys) Each jersey can be fully customized, with your own Name and Number All orders will be a Pre-Order, taking roughly 4-6 weeks to be made. Sizing: True To Size PLEASE LEAVE A NOTE AT CHECKOUT OR, EMAIL, TO PROVIDE NAME AND NUMBER.",
+   "productType": null,
+   "tags": [
+    "Futbol jersey",
+    "Soccer Jersey"
+   ],
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large",
+      "2XL"
+     ]
+    },
+    {
+     "name": "Customization",
+     "values": [
+      "Name and Number"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Small / Name and Number",
+     "sku": null,
+     "priceMinor": 7000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "Medium / Name and Number",
+     "sku": null,
+     "priceMinor": 7000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Medium",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "Large / Name and Number",
+     "sku": null,
+     "priceMinor": 7000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "X-Large / Name and Number",
+     "sku": null,
+     "priceMinor": 7000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "X-Large",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "2XL / Name and Number",
+     "sku": null,
+     "priceMinor": 7000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "2XL",
+      "Name and Number"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Sizing": "True To Size"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:20.498Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:20.498Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7fe4cd7dab2723ef"
+  },
+  {
+   "id": "BRD-0134/pre-order-canuck-pro-heritage-hockey-jersey",
+   "name": "(Pre-Order) Canuck Pro Heritage Hockey Jersey",
+   "url": "https://canucktimepieces.com/products/pre-order-canuck-pro-heritage-hockey-jersey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0598.jpg?v=1775263713",
+    "width": 3196,
+    "height": 3196
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0598.jpg?v=1775263713",
+     "width": 3196,
+     "height": 3196
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0600.jpg?v=1775263713",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0601.jpg?v=1775263713",
+     "width": 5211,
+     "height": 3908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/IMG_0604.jpg?v=1775263713",
+     "width": 4035,
+     "height": 3026
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DA119EA7-1210-454F-9B51-9D20C0D93FBC.jpg?v=1775652954",
+     "width": 2956,
+     "height": 3941
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/473BC5AE-B615-4475-AB6F-CD4C610B92C8.jpg?v=1775652954",
+     "width": 3783,
+     "height": 5044
+    }
+   ],
+   "priceMinor": 18300,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We didn't want to just create apparel. We wanted to create apparel that represented, Canuck. Canuck Means Canadian , and what is more Canadian, than hockey? We designed this jersey to mimic our product language. Bold, yet subtle! Crafted entirely in Canada and finished with precision custom stitching in Toronto by Big Stick Hockey , this jersey blends classic rink style with premium craftsmanship. Designed in a timeless black-and-white colourway, the jersey features, CANUCK lettering diagonal across the chest and a traditional lace-up collar for an authentic vintage hockey look. Reinforced striping on the shoulders and sleeves adds a classic pro feel, while the durable athletic fabric keeps the jersey comfortable whether you're on the ice, in the stands, or representing Canadian hockey off the rink. Every detail reflects Canadian quality, from the materials to the stitching. Making this more than just a jersey; it’s a statement of heritage and pride. Features 🇨🇦 100% Made in Canada Custom professional stitching in Toronto, Ontario by Big Stick Hockey Classic lace-up hockey collar Durable, breathable performance fabric Vintage-inspired black and white striping Relaxed fit (as this is truly a pro hockey jersey) Each jersey can be fully customized, with your own Name and Number All orders will be a Pre-Order, taking roughly 4-6 weeks to be made. Sizing: Go DOWN a size, from your traditional sweatshirt sizing. If you own an older NHL jersey, pre-2010, go with that jersey size. PLEASE LEAVE A NOTE AT CHECKOUT OR, EMAIL, TO PROVIDE NAME AND NUMBER.",
+   "productType": null,
+   "tags": [
+    "Custom Hockey Jersey",
+    "Hockey",
+    "Hockey Jersey"
+   ],
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large",
+      "2XL"
+     ]
+    },
+    {
+     "name": "Customization",
+     "values": [
+      "Name and Number",
+      "Only Number",
+      "Blank (Logo Only)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Small / Name and Number",
+     "sku": null,
+     "priceMinor": 25600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "Small / Only Number",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small",
+      "Only Number"
+     ]
+    },
+    {
+     "title": "Small / Blank (Logo Only)",
+     "sku": null,
+     "priceMinor": 18300,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small",
+      "Blank (Logo Only)"
+     ]
+    },
+    {
+     "title": "Medium / Name and Number",
+     "sku": null,
+     "priceMinor": 25600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Medium",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "Medium / Only Number",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Medium",
+      "Only Number"
+     ]
+    },
+    {
+     "title": "Medium / Blank (Logo Only)",
+     "sku": null,
+     "priceMinor": 18300,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Medium",
+      "Blank (Logo Only)"
+     ]
+    },
+    {
+     "title": "Large / Name and Number",
+     "sku": null,
+     "priceMinor": 25600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "Large / Only Number",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large",
+      "Only Number"
+     ]
+    },
+    {
+     "title": "Large / Blank (Logo Only)",
+     "sku": null,
+     "priceMinor": 18300,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large",
+      "Blank (Logo Only)"
+     ]
+    },
+    {
+     "title": "X-Large / Name and Number",
+     "sku": null,
+     "priceMinor": 25600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "X-Large",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "X-Large / Only Number",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "X-Large",
+      "Only Number"
+     ]
+    },
+    {
+     "title": "X-Large / Blank (Logo Only)",
+     "sku": null,
+     "priceMinor": 18300,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "X-Large",
+      "Blank (Logo Only)"
+     ]
+    },
+    {
+     "title": "2XL / Name and Number",
+     "sku": null,
+     "priceMinor": 25600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "2XL",
+      "Name and Number"
+     ]
+    },
+    {
+     "title": "2XL / Only Number",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "2XL",
+      "Only Number"
+     ]
+    },
+    {
+     "title": "2XL / Blank (Logo Only)",
+     "sku": null,
+     "priceMinor": 18300,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "2XL",
+      "Blank (Logo Only)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Sizing": "Go DOWN a size, from your traditional sweatshirt sizing."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:20.498Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:20.498Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1983229fb9dcf413"
+  },
+  {
+   "id": "BRD-0134/pre-order-the-wormhole-silver-case",
+   "name": "(Pre-Order) The Wormhole - Silver Case",
+   "url": "https://canucktimepieces.com/products/pre-order-the-wormhole-silver-case",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0155_2.jpg?v=1768878195",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0155_2.jpg?v=1768878195",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0174.jpg?v=1768878195",
+     "width": 3116,
+     "height": 4155
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0182.jpg?v=1769012445",
+     "width": 3159,
+     "height": 4213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0159.jpg?v=1768878195",
+     "width": 2649,
+     "height": 3531
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0213.jpg?v=1769993126",
+     "width": 3017,
+     "height": 4023
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0208.jpg?v=1768878195",
+     "width": 2043,
+     "height": 2724
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/E721AF5E-356A-468A-B253-FCC69ED1260E.jpg?v=1768878195",
+     "width": 1435,
+     "height": 2152
+    }
+   ],
+   "priceMinor": 47400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "What happens when you get sucked into a Black Hole ? You enter... The Wormhole... This Space Diver is the second chapter in the AndoAndoAndo × Canuck Timepieces Cosmic collaboration, The Wormhole continues the cosmic narrative introduced with The Blackhole , pushing the concept further into the unknown. Our spaceship has been sucked into The Blackhole , and is entering... The Wormhole ... At the centre of the dial, a swirling vortex draws the eye inward, and if you look close enough, you will see our spaceship stuck in the vortex. The Musou Black dial creates an endless, immersive feel. Our \"Vortex\" hands reinforce the sense of movement and distortion. Surrounding the dial is the stainless steel BGW9 lumed bezel , etched with numerals 3, 6, and 9, using an intergalactic language from Galaxy Far Far Away... The 40mm case strikes a careful balance between presence and wearability. Matched by a compact 41mm lug-to-lug and a 12mm thickness, The Wormhole wears comfortably while maintaining a bold, modern stance. Only 25 will be produced in a brushed silver case, and only 5 in a brushed black case. Each finish gives the watch a distinct personality while preserving its stark, futuristic character. Powering The Wormhole is the reliable NH38 automatic movement, chosen for its robustness and simplicity. The watch is paired with a black sailcloth strap that reinforces its utilitarian, mission-ready feel and is finished with a signed buckle as a final mark of collaboration. Limited in number and uncompromising in design, The Wormhole is a statement piece! An exploration of space, time, and imagination, captured in a form that exists entirely outside the ordinary. Preorder Price: $649 CAD/ $475 USD Preorder, to be delivered before the end of May 2026",
+   "productType": null,
+   "tags": [
+    "Automatic watch",
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 11.6,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH38",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Preorder Price": "$649 CAD/ $475 USD",
+    "Case Size": "35mm",
+    "Case Material": "316L Stainless Steel (PVD Coating for Black Case)",
+    "Bezel Insert": "Stainless Steel with BGW9",
+    "Crystal": "Sapphire with AR Coating",
+    "Lug to Lug": "43mm",
+    "Case Thickness": "11.6mm (Including Crystal)",
+    "Lug Width": "20mm",
+    "Movement": "NH38A",
+    "WR": "100M",
+    "Lume": "BGW9 Super-LumiNova Warranty All Timepieces come with a 2-Year Movement Warranty."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:20.498Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:20.498Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0134/the-wormhole"
+   ],
+   "hash": "1714b711c2aabb55"
+  },
+  {
+   "id": "BRD-0134/pre-order-the-wormhole",
+   "name": "(SOLD OUT) The Wormhole - Black Case - Limited Edition",
+   "url": "https://canucktimepieces.com/products/pre-order-the-wormhole",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0192.jpg?v=1769012409",
+    "width": 2775,
+    "height": 3699
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0192.jpg?v=1769012409",
+     "width": 2775,
+     "height": 3699
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0189.jpg?v=1768877993",
+     "width": 2621,
+     "height": 3495
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0195.jpg?v=1768877993",
+     "width": 2510,
+     "height": 3347
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0224.jpg?v=1768877993",
+     "width": 3076,
+     "height": 4102
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0219.jpg?v=1769993233",
+     "width": 2445,
+     "height": 3261
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/DSC_0221.jpg?v=1768877993",
+     "width": 3383,
+     "height": 4512
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/5190/5819/files/E721AF5E-356A-468A-B253-FCC69ED1260E.jpg?v=1768878195",
+     "width": 1435,
+     "height": 2152
+    }
+   ],
+   "priceMinor": 47400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "What happens when you get sucked into a Black Hole ? You enter... The Wormhole... This Space Diver is the second chapter in the AndoAndoAndo × Canuck Timepieces Cosmic collaboration, The Wormhole continues the cosmic narrative introduced with The Blackhole , pushing the concept further into the unknown. Our spaceship has been sucked into The Blackhole , and is entering... The Wormhole ... At the centre of the dial, a swirling vortex draws the eye inward, and if you look close enough, you will see our spaceship stuck in the vortex. The Musou Black dial creates an endless, immersive feel. Our \"Vortex\" hands reinforce the sense of movement and distortion. Surrounding the dial is the stainless steel BGW9 lumed bezel , etched with numerals 3, 6, and 9, using an intergalactic language from Galaxy Far Far Away... The 40mm case strikes a careful balance between presence and wearability. Matched by a compact 41mm lug-to-lug and a 12mm thickness, The Wormhole wears comfortably while maintaining a bold, modern stance. Only 25 will be produced in a brushed silver case, and only 5 in a brushed black case. Each finish gives the watch a distinct personality while preserving its stark, futuristic character. Powering The Wormhole is the reliable NH38 automatic movement, chosen for its robustness and simplicity. The watch is paired with a black sailcloth strap that reinforces its utilitarian, mission-ready feel and is finished with a signed buckle as a final mark of collaboration. Limited in number and uncompromising in design, The Wormhole is a statement piece! An exploration of space, time, and imagination, captured in a form that exists entirely outside the ordinary. Preorder Price: $649 CAD/ $475 USD Preorder, to be delivered before the end of May 2026",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 11.6,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH38",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Preorder Price": "$649 CAD/ $475 USD",
+    "Case Size": "35mm",
+    "Case Material": "316L Stainless Steel (PVD Coating for Black Case)",
+    "Bezel Insert": "Stainless Steel with BGW9",
+    "Crystal": "Sapphire with AR Coating",
+    "Lug to Lug": "43mm",
+    "Case Thickness": "11.6mm (Including Crystal)",
+    "Lug Width": "20mm",
+    "Movement": "NH38A",
+    "WR": "100M",
+    "Lume": "BGW9 Super-LumiNova Warranty All Timepieces come with a 2-Year Movement Warranty."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:20.498Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:20.498Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0134/the-wormhole"
+   ],
+   "hash": "4c584d5e67da62e2"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0134/the-wormhole",
+   "name": "The Wormhole",
+   "url": "https://canucktimepieces.com/collections/the-wormhole",
+   "description": null,
+   "image": null
+  }
+ ]
+}

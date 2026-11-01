@@ -1,0 +1,442 @@
+{
+ "brandId": "BRD-0431",
+ "brandName": "OLIGO",
+ "website": "https://oligowatches.com",
+ "crawledAt": "2026-11-01T08:11:18.458Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://oligowatches.com/wp-content/plugins/twint-woocommerce-extension/assets/images/twint_logo.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://oligowatches.com/"
+ },
+ "attribution": "Images © OLIGO, from oligowatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0431/oligo-x-watchmakers-united-monaco",
+   "name": "OLIGO x Watchmakers United Monaco",
+   "url": "https://oligowatches.com/produit/oligo-x-watchmakers-united-monaco/",
+   "image": {
+    "url": "https://oligowatches.com/wp-content/uploads/2026/02/WMUMonaco_SDT.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://oligowatches.com/wp-content/uploads/2026/02/WMUMonaco_SDT.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 400000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Délai de livraison : 6 &#8211; 8 mois",
+   "productType": "Collaborations",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Délai de livraison": "6 – 8 mois",
+    "UGS": "OLIGO x WUM Catégories : Collaborations , Oligo x WUM",
+    "Catégories": "Collaborations , Oligo x WUM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:11:18.458Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:11:18.458Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0431/collabs",
+    "BRD-0431/oligo-x-wum"
+   ],
+   "hash": "b20621371f2e654b"
+  },
+  {
+   "id": "BRD-0431/oligo-x-label-noir",
+   "name": "OLIGO x Label Noir",
+   "url": "https://oligowatches.com/produit/oligo-x-label-noir/",
+   "image": {
+    "url": "https://oligowatches.com/wp-content/uploads/2023/09/LN_OG01_F.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://oligowatches.com/wp-content/uploads/2023/09/LN_OG01_F.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 450000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Délai de livraison : 2 &#8211; 3 semaines",
+   "productType": "oligo x label noir",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Délai de livraison": "2 – 3 semaines",
+    "UGS": "OLIGO x LN Catégorie : oligo x label noir",
+    "Catégorie": "oligo x label noir"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:11:18.458Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:11:18.458Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0431/oligo-x-label-noir"
+   ],
+   "hash": "740378a1939a01dd"
+  },
+  {
+   "id": "BRD-0431/oligo-fm01",
+   "name": "OLIGO FM01",
+   "url": "https://oligowatches.com/produit/oligo-fm01/",
+   "image": {
+    "url": "https://oligowatches.com/wp-content/uploads/2023/03/OLIGO_SDT.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://oligowatches.com/wp-content/uploads/2023/03/OLIGO_SDT.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1000000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Délai de livraison : 12 semaines",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Délai de livraison": "12 semaines",
+    "UGS": "FM01 Catégorie : FM01",
+    "Catégorie": "FM01"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:11:18.458Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:11:18.458Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e9add8b9178a6573"
+  },
+  {
+   "id": "BRD-0431/oligo-marron",
+   "name": "OLIGO marron",
+   "url": "https://oligowatches.com/produit/oligo-marron/",
+   "image": {
+    "url": "https://oligowatches.com/wp-content/uploads/2022/01/OLIGO_brown_CBR_WEB.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://oligowatches.com/wp-content/uploads/2022/01/OLIGO_brown_CBR_WEB.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 320000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Délai de livraison: 2 &#8211; 3 semaines",
+   "productType": "Oligo Marron",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Délai de livraison": "2 – 3 semaines",
+    "UGS": "M22 Catégorie : Oligo Marron",
+    "Catégorie": "Oligo Marron"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:11:18.458Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:11:18.458Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0431/oligo-marron"
+   ],
+   "hash": "0db0275c91f640c6"
+  },
+  {
+   "id": "BRD-0431/oligo-noir",
+   "name": "OLIGO noir",
+   "url": "https://oligowatches.com/produit/oligo-noir/",
+   "image": {
+    "url": "https://oligowatches.com/wp-content/uploads/2022/01/OLIGO_black_CBR_WEB.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://oligowatches.com/wp-content/uploads/2022/01/OLIGO_black_CBR_WEB.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 320000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Délai de livraison: 2 &#8211; 3 semaines",
+   "productType": "Oligo Noir",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Délai de livraison": "2 – 3 semaines",
+    "UGS": "N22 Catégorie : Oligo Noir",
+    "Catégorie": "Oligo Noir"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:11:18.458Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:11:18.458Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0431/oligo-noir"
+   ],
+   "hash": "a9fe4d1a994cf363"
+  },
+  {
+   "id": "BRD-0431/oligo-bleu",
+   "name": "OLIGO bleu",
+   "url": "https://oligowatches.com/produit/oligo-bleu/",
+   "image": {
+    "url": "https://oligowatches.com/wp-content/uploads/2022/07/OLIGO_blue_CBR_LD2.jpeg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://oligowatches.com/wp-content/uploads/2022/07/OLIGO_blue_CBR_LD2.jpeg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 320000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Délai de livraison: 2 &#8211; 3 semaines",
+   "productType": "Oligo Bleu",
+   "tags": [],
+   "options": [
+    {
+     "name": "Numéro de série",
+     "values": [
+      "004B22",
+      "005B22",
+      "006B22",
+      "009B22",
+      "010B22",
+      "011B22",
+      "012B22",
+      "013B22",
+      "015B22",
+      "016B22",
+      "017B22",
+      "018B22",
+      "019B22",
+      "020B22",
+      "021B22",
+      "022B22",
+      "024B22",
+      "026B22",
+      "027B22",
+      "028B22",
+      "029B22",
+      "030B22",
+      "031B22",
+      "032B22",
+      "033B22",
+      "034B22",
+      "035B22",
+      "036B22",
+      "037B22",
+      "038B22",
+      "039B22"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Délai de livraison": "2 – 3 semaines",
+    "Numéro de série": "004B22, 005B22, 006B22, 009B22, 010B22, 011B22, 012B22, 013B22, 015B22, 016B22, 017B22, 018B22, 019B22, 020B22, 021B22, 022B22, 024B22, 026B22, 027B22, 028B22, 029B22, 030B22, 031B22, 032B22, 033B22, 034B22, 035B22, 036B22, 037B22, 038B22, 039B22",
+    "UGS": "B22 Catégorie : Oligo Bleu",
+    "Catégorie": "Oligo Bleu"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:11:18.458Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:11:18.458Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0431/oligo-bleu"
+   ],
+   "hash": "318f342e2935be98"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0431/collabs",
+   "name": "Collaborations",
+   "url": "https://oligowatches.com/categorie-produit/collabs/",
+   "description": "Toutes les collaborations OLIGO",
+   "image": null
+  },
+  {
+   "id": "BRD-0431/oligo-x-wum",
+   "name": "Oligo x WUM",
+   "url": "https://oligowatches.com/categorie-produit/oligo-x-wum/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0431/oligo-x-label-noir",
+   "name": "oligo x label noir",
+   "url": "https://oligowatches.com/categorie-produit/oligo-x-label-noir/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0431/oligo-marron",
+   "name": "Oligo Marron",
+   "url": "https://oligowatches.com/categorie-produit/oligo-marron/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0431/oligo-noir",
+   "name": "Oligo Noir",
+   "url": "https://oligowatches.com/categorie-produit/oligo-noir/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0431/oligo-bleu",
+   "name": "Oligo Bleu",
+   "url": "https://oligowatches.com/categorie-produit/oligo-bleu/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "brandId": "BRD-0482",
+ "brandName": "Richard Harvey Watch Company",
+ "website": "https://www.rhwatchco.com",
+ "crawledAt": "2026-11-01T08:24:36.601Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/6168933ad462d27157fe562e/e40a53e1-a6ed-4991-bc04-a7154881f078/Richard-Harvey+Watch+Company_W-01_Cropped.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.rhwatchco.com/"
+ },
+ "attribution": "Images © Richard Harvey Watch Company, from rhwatchco.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0482/lark-field-watch",
+   "name": "The Lark - GMT Field Watch - Richard-Harvey Watch Co",
+   "url": "https://www.rhwatchco.com/shop/p/lark-field-watch",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6168933ad462d27157fe562e/6168937757ee7d0e777e3c19/6a3171b596a003307110294d/1788229158458/Lark+-+4+watch+banner.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6168933ad462d27157fe562e/6168937757ee7d0e777e3c19/6a3171b596a003307110294d/1788229158458/Lark+-+4+watch+banner.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 89900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Lark is a GMT field watch with a built-in compass orientation tool and topo-inspired dial — a very limited run, veteran-owned, self-funded. Join the list for first access.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 48.3,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9075 True GMT 24-Hour (Automatic)",
+    "Power Reserve": "~42 Hours",
+    "GMT Function": "Yes (True/Jump Hour)",
+    "Case Material": "316L Stainless",
+    "Hardware Coating": "HV1200 hardcoat",
+    "Water Resistance": "200M / 20 ATM",
+    "Crystal": "Flat Sapphire Crystal",
+    "Crystal Coating": "Antireflective (AR) coating on underside only",
+    "Caseback style": "Exhibition with Sapphire Crystal",
+    "Compass System": "Solar Orientation Tool using 24-hour GMT geometry",
+    "Lume": "Top-grade BGW9 Super-LumiNova",
+    "Colorways": "True North Black, Horizon Blue, Summit Gray, Meridian Green",
+    "Case Diameter": "42 mm",
+    "Lug-to-Lug Length": "48.3 mm",
+    "Case Thickness": "13.4 mm",
+    "Lug Width": "22 mm",
+    "Bracelet Dimensions": "22-18 mm Taper",
+    "Total Weight": "195g (with full-length bracelet)",
+    "Color": "Summit Gray Meridian Green Horizon Blue True-North Black"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:24:36.601Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:36.601Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0482/shop",
+    "BRD-0482/watches"
+   ],
+   "hash": "bf370ed327100a99"
+  },
+  {
+   "id": "BRD-0482/attpt02",
+   "name": "The Attitude - Patriot Edition Watch - NEW Low-Profile Crownguards",
+   "url": "https://www.rhwatchco.com/shop/p/attpt02",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6168933ad462d27157fe562e/6168937757ee7d0e777e3c19/68922deebd054646de993808/1791571091358/ATT-PT_Red+CG_Photoshop+edit.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6168933ad462d27157fe562e/6168937757ee7d0e777e3c19/68922deebd054646de993808/1791571091358/ATT-PT_Red+CG_Photoshop+edit.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Attitude is the first model to bear the Richard-Harvey Watch Company logo. Inspired by a pilot’s attitude meter, this watch was designed to be a tool to help navigate you through your day. With its modern technology, multilayered dial, bright lume, and timeless design, this watch is meant to live on your wrist and stand the test of time.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Model": "Attitude",
+    "Edition": "Patriot",
+    "Movement": "High-Beat, Swiss-made Ronda R150 Mechanical-Automatic",
+    "Case Material": "316L Stainless Steel, Titanium Carbide PVD Coating, Bead-blasted for texture and increased durability",
+    "Case Back": "Screw-down. Each case back etched with a serial number, making each one unique",
+    "Crown": "Screw-down",
+    "Water Resistance": "10atm/100m/330ft",
+    "Crystal": "Swiss Sapphire crystal with blue-hued AR coating",
+    "Strap": "20mm (1) Brown Leather & (1) Red/White/Blue/Black NATO-style Nylon strap are included"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:24:36.601Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:36.601Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0482/shop",
+    "BRD-0482/lark-field-watch",
+    "BRD-0482/watches"
+   ],
+   "hash": "f0179a50a43a843e"
+  },
+  {
+   "id": "BRD-0482/attbk02",
+   "name": "The Attitude - Blackout Edition Watch - NEW Low-Profile Crownguards",
+   "url": "https://www.rhwatchco.com/shop/p/attbk02",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6168933ad462d27157fe562e/6168937757ee7d0e777e3c19/68922dbdaff3b57d993843dc/1788062005357/ATTBlackout-NEW+CG-Black+Strap_3_FINAL.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6168933ad462d27157fe562e/6168937757ee7d0e777e3c19/68922dbdaff3b57d993843dc/1788062005357/ATTBlackout-NEW+CG-Black+Strap_3_FINAL.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Attitude is the first model to bear the Richard-Harvey Watch Company logo. Inspired by a pilot’s attitude meter, this watch was designed to be a tool to help navigate you through your day. With its modern technology, multilayered dial, bright lume, and timeless design, this watch is meant to live on your wrist and stand the test of time.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Model": "Attitude",
+    "Edition": "Blackout",
+    "Movement": "High-Beat, Swiss-made Ronda R150 Mechanical-Automatic",
+    "Case Material": "316L Stainless Steel, Black PVD Coating, Bead-blasted for texture and increased durability",
+    "Case Back": "Screw-down, Spiral-brushed, Matte-etched, 316L Stainless steel. Each case back etched with a serial number, making each one unique",
+    "Crown": "Screw-down",
+    "Water Resistance": "10atm/100m/330ft",
+    "Crystal": "Swiss Sapphire crystal with blue-hued AR coating",
+    "Strap": "20mm (1) Black Leather & (1) Black/Gray NATO-style Nylon strap are included"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:36.601Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:36.601Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0482/shop",
+    "BRD-0482/lark-field-watch",
+    "BRD-0482/watches"
+   ],
+   "hash": "c571c7e5883b2768"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0482/shop",
+   "name": "Shop Now",
+   "url": "https://www.rhwatchco.com/shop",
+   "description": "Richard-Harvey watch designs are inspired by everyday navigational instruments for the land, sea, and air. Crafted with precision engineering, our stunning watches are ageless instruments that are meant to be wound and worn, always.",
+   "image": null
+  },
+  {
+   "id": "BRD-0482/lark-field-watch",
+   "name": "Lark",
+   "url": "https://www.rhwatchco.com/shop/p/lark-field-watch",
+   "description": "The Lark is a GMT field watch with a built-in compass orientation tool and topo-inspired dial — a very limited run, veteran-owned, self-funded. Join the list for first access.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6168933ad462d27157fe562e/6168937757ee7d0e777e3c19/6a3171b596a003307110294d/1788229158458/Lark+-+4+watch+banner.png?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0482/watches",
+   "name": "Watches",
+   "url": "https://www.rhwatchco.com/shop/watches",
+   "description": null,
+   "image": null
+  }
+ ]
+}

@@ -1,0 +1,423 @@
+{
+ "brandId": "BRD-0459",
+ "brandName": "Peren",
+ "website": "https://perenwatches.com",
+ "crawledAt": "2026-11-01T08:17:38.095Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/578df9f515d5db0bd3e04c86/140a08aa-5cdb-46d4-a1cf-a7676f74b816/Peren9YearsBlack1.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://perenwatches.com/"
+ },
+ "attribution": "Images © Peren, from perenwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0459/steelbracelet",
+   "name": "Swiss Made Perennial stainless steel Bracelet",
+   "url": "https://perenwatches.com/items/p/steelbracelet",
+   "image": {
+    "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/588e0cf4579fb35be4f56853/62dff8bb311f0654867ba068/1658845375203/StainlessSteelBraceletNera.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/588e0cf4579fb35be4f56853/62dff8bb311f0654867ba068/1658845375203/StainlessSteelBraceletNera.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 10000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Discover Swiss made steel perennial watch with marine grade stainless steel, beadblasted end link and brushed finishing. 20mm width, stainless steel clasp.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Marine Grade Stainless Steel",
+    "Finishing": "Heavy Brushed",
+    "Info": "Nera to Regia transformation Kit included",
+    "Width": "20mm",
+    "Buckle": "Stainless Steel",
+    "Clasp": "Stainless Steel"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:38.095Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:38.095Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6080749c17780449"
+  },
+  {
+   "id": "BRD-0459/regia",
+   "name": "Peren Regia Hand-Built Swiss Made Automatic Watch",
+   "url": "https://perenwatches.com/watches/p/regia",
+   "image": {
+    "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/69d905cd4d15e019629b7b93/1775830477052/PerenRegiaXAlpha.PNG?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/69d905cd4d15e019629b7b93/1775830477052/PerenRegiaXAlpha.PNG?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69500,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": "Limited edition hand-built Swiss made automatic Diver watch. Rugged, refined, adventure ready. Pre-order now and save ~30%.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "solar",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:17:38.095Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:38.095Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0459/watches"
+   ],
+   "hash": "8d5becff9318beae"
+  },
+  {
+   "id": "BRD-0459/one",
+   "name": "Hand-Built Swiss Watch: One",
+   "url": "https://perenwatches.com/watches/p/one",
+   "image": {
+    "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/68c2de46d0d4026fd6707c29/1792771519247/One1.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/68c2de46d0d4026fd6707c29/1792771519247/One1.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 48500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Limited edition Swiss hand-built mecaquartz chronograph watch. Water-resistant up to 660ft, rugged and refined for adventures.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.6,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Seiko VK64",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "U.S. orders": "All orders are shipped Delivery Duties Paid, duties and taxes will be collected at checkout. This means you won’t face any unexpected duties or customs charges.",
+    "Switzerland": "There are no extra costs.",
+    "Limited Production": "1111 pieces, individually numbered",
+    "Assembly": "In-house hand built",
+    "Warranty": "2 Years International",
+    "Packaging": "PU Leather",
+    "Diameter": "40.6 mm",
+    "Height": "12 mm",
+    "Lug to Lug": "46 mm",
+    "Material": "Marine grade Stainless Steel",
+    "Architecture": "4-part construction",
+    "Finishing": "Brushed / hand polished / bead blasted",
+    "Crown": "Screw-down",
+    "Crystal": "Scratchproof Flat Sapphire with 3 anti-reflective layers",
+    "Caseback": "Stainless Steel, individual serial number",
+    "Lume": "BGW9 Swiss Super-LumiNova®",
+    "Water resistance": "200m/660ft",
+    "Movement": "Hybrid Mechanical-Quartz Seiko VK64",
+    "Frequency": "32,768Hz",
+    "Complications": "Chronograph / Hacking seconds",
+    "Info": "Central hours; central minutes; central chronograph seconds; 1/5 seconds; 60 minute counter at 9H; 24 hour indicator at 3H",
+    "Dial": "Metal, Dark Blue",
+    "Hour Indexes": "Applied indexes",
+    "Hands": "Steel, diamond cut",
+    "Strap": "Stainless Steel Bracelet",
+    "Buckle": "Stainless Steel, laser engraved"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:38.095Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:38.095Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0459/watches",
+    "BRD-0459/one"
+   ],
+   "hash": "740893e2dce33344"
+  },
+  {
+   "id": "BRD-0459/nerarogue",
+   "name": "Swiss Made watch Peren. Hand assembled in Switzerland.",
+   "url": "https://perenwatches.com/watches/p/nerarogue",
+   "image": {
+    "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/612e35aca862da6a3d5b23e8/1792576164749/NeraRogueBWSteel.PNG?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/612e35aca862da6a3d5b23e8/1792576164749/NeraRogueBWSteel.PNG?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Swiss Made wristwatch Peren Nera Rogue. Limited edition watch, hand built. Automatic watch in-house made. Stainless Steel case, Sapphire Crystal",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 48.8,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Dial": "Nera Rogue Nera Regia",
+    "Limited Edition": "100 pieces worldwide, individually numbered",
+    "Assembly": "In-house hand built in Switzerland. Swiss Made",
+    "Warranty": "2 Years International",
+    "Packaging": "Sustainable premium cardboard box",
+    "Diameter": "39mm",
+    "Height": "12.80mm",
+    "Lug to Lug": "48.80mm",
+    "Case": "Marine Grade Stainless Steel",
+    "Finishing": "Bead blasted / circular brushed / hand polished",
+    "Bezel": "Steel, Black PVD plated with straight knurling",
+    "Bezel Insert": "Stainless Steel with one layer of titanium nitrade",
+    "Functions": "Rotating unidirectional 120 clicks, Diver",
+    "Crown": "Screw-down, embossed logo",
+    "Crystal": "Scratchproof Flat Sapphire with 3 anti-reflective layers",
+    "Caseback": "Bead blasted Stainless Steel, individual serial number",
+    "Lume": "BGW9 Swiss Super-LumiNova® at 12H",
+    "Water resistance": "200m/660ft",
+    "Movement": "Swiss Automatic Sellita SW200-1, in-house regulated",
+    "Power reserve": "38 Hours",
+    "Frequency": "28'800 A/h (4 Hz)",
+    "Complications": "Date at 3H / hacking seconds",
+    "Info": "26 Jewels / Nivaflex® mainspring / Anti-Shock / Color-matched date wheel /Stainless Steel encasing construction",
+    "Hands": "Steel, white, diamond cut",
+    "Strap": "NATO Leather/Nylon, Steel bracelet, vintage leather",
+    "Buckle": "Stainless Steel, laser engraved",
+    "U.S. orders": "All orders are shipped Delivery Duties Paid, duties and taxes will be collected at checkout. This means you won’t face any unexpected duties or customs charges.",
+    "Switzerland": "There are no extra costs. Shipping is free of charge on all regions."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:38.095Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:38.095Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0459/watches"
+   ],
+   "hash": "7d7f721d8b9ce98d"
+  },
+  {
+   "id": "BRD-0459/hintz",
+   "name": "Swiss Made Mechanical Hand Built Watch - Hintz",
+   "url": "https://perenwatches.com/watches/p/hintz",
+   "image": {
+    "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/6483c5073c916e3a7237ba25/1792757148212/PerenHintzAlpha.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/6483c5073c916e3a7237ba25/1792757148212/PerenHintzAlpha.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 89500,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": "Swiss Made, hand-built mechanical watch with two-tone stainless steel case. Swiss ETA movement, 50-hour power reserve. Sapphire crystal, leather strap. Hintz",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:17:38.095Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:38.095Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0459/watches"
+   ],
+   "hash": "074993fb42a6da41"
+  },
+  {
+   "id": "BRD-0459/nera",
+   "name": "Long Lasting Swiss Made Hand Built Nera Watch",
+   "url": "https://perenwatches.com/watches/p/nera",
+   "image": {
+    "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/6483c546cd959063e87a3800/1686357322797/PerenNeraAlpha.PNG?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/6483c546cd959063e87a3800/1686357322797/PerenNeraAlpha.PNG?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69500,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": "Perennial Swiss Made hand-built watch with 39mm three-tone stainless steel case, black PVD coated bezel, and Swiss Automatic Sellita SW200 movement.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:17:38.095Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:38.095Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0459/watches"
+   ],
+   "hash": "7844f5de9a717702"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0459/watches",
+   "name": "watches",
+   "url": "https://perenwatches.com/watches",
+   "description": "Explore Limited Edition Swiss Made watches from the PEREN collection, inspired by ancient calendars and crafted with precision. Shop now for exclusive designs.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/t/64941c5078977613f190cf3d/1687428176868/Peren9YearsWebsite.png?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0459/one",
+   "name": "One",
+   "url": "https://perenwatches.com/watches/p/one/",
+   "description": "Limited edition Swiss hand-built mecaquartz chronograph watch. Water-resistant up to 660ft, rugged and refined for adventures.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/578df9f515d5db0bd3e04c86/5f3bda604b31496c55fee753/68c2de46d0d4026fd6707c29/1792771519247/One1.png?format=1500w",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

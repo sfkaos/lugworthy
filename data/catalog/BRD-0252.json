@@ -1,0 +1,71 @@
+{
+ "brandId": "BRD-0252",
+ "brandName": "GhostTown",
+ "website": "https://www.ghosttownwatches.com",
+ "crawledAt": "2026-11-01T07:18:40.485Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.ghosttownwatches.com/images/design-mode/LOG-04.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.ghosttownwatches.com/"
+ },
+ "attribution": "Images © GhostTown, from ghosttownwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0252/old-west",
+   "name": "Old West",
+   "url": "https://www.ghosttownwatches.com/models/old-west",
+   "image": {
+    "url": "https://ghosttownwatches.com/images/ghosttown-20working.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://ghosttownwatches.com/images/ghosttown-20working.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Experience the Old West with our flagship timepiece. Limited to 500 pieces worldwide.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:18:40.485Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:40.485Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6cf82aed118e1055"
+  }
+ ],
+ "collections": []
+}

@@ -1,0 +1,71 @@
+{
+ "brandId": "BRD-0835",
+ "brandName": "Czapek",
+ "website": "https://www.czapek.com",
+ "crawledAt": "2026-11-01T06:56:40.090Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.czapek.com/web/image/website/2/logo/Czapek%20Gen%C3%A8ve?unique=0193dff",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.czapek.com/"
+ },
+ "attribution": "Images © Czapek, from czapek.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0835/antarctique-1",
+   "name": "Czapek Watches - Watch Finder",
+   "url": "https://www.czapek.com/czapek-watch-finder/collection/antarctique-1",
+   "image": {
+    "url": "https://www.czapek.com/web/image/website/2/social_default_image?unique=213d30e",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.czapek.com/web/image/website/2/social_default_image?unique=213d30e",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Experience the pinnacle of luxury independent watchmaking with Czapek. Discover handcrafted Swiss mechanical watches that blend heritage, craftsmanship, and timeless elegance. Explore our exclusive collection of the best luxury watches for true connoisseurs.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T06:56:40.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:56:40.090Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "446fef3bc730bf66"
+  }
+ ],
+ "collections": []
+}

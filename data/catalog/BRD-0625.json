@@ -1,0 +1,828 @@
+{
+ "brandId": "BRD-0625",
+ "brandName": "Zealandic",
+ "website": "https://www.zealandic.co.nz",
+ "crawledAt": "2026-11-01T08:57:11.353Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.zealandic.co.nz/cdn/shop/files/Artboard_1.png?v=1739247367",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.zealandic.co.nz/"
+ },
+ "attribution": "Images © Zealandic, from zealandic.co.nz",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0625/iceborne-burgundy",
+   "name": "Iceborne - Burgundy",
+   "url": "https://www.zealandic.co.nz/products/iceborne-burgundy",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF0086.jpg?v=1739180636",
+    "width": 5439,
+    "height": 4079
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF0086.jpg?v=1739180636",
+     "width": 5439,
+     "height": 4079
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF0012.jpg?v=1739180636",
+     "width": 5231,
+     "height": 3923
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9564.jpg?v=1739180635",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9592.jpg?v=1739180635",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9598.jpg?v=1739180635",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9606.jpg?v=1739180635",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9600.jpg?v=1739180635",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9108-1_988c0b79-1ff1-4b6c-9b17-33f3c171a6bf.jpg?v=1739180636",
+     "width": 5090,
+     "height": 4072
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9676-1-2_f9143084-49f3-41e0-9c6d-55be8c563998.jpg?v=1739180636",
+     "width": 4661,
+     "height": 4160
+    }
+   ],
+   "priceMinor": 48800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Case Material: Stainless steel 316L Case Diameter: 39mm Lug to Lug: 47mm (drilled lugs) Thickness: 12mm Weight: 74.1 grams (on strap)/150 grams (on bracelet) Water Resistance: 20 ATM Lume: Swiss Super-LumiNova® BGW9 grade A Glass: Double-domed sapphire crystal with anti-reflective coating Movement: Miyota 9039 Power Reserve: 42 hours Vibration Frequency: 28,800 VPH Crown: Screw-down crown Warranty: 24 months Assembled to Order - Shipped within 7 - 10 days (allows time for assembly, quality control and fulfilment) All prices excluding VAT/GST and import duty US based orders will incur tariffs/duties",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap/Bracelet Colour",
+     "values": [
+      "Bracelet",
+      "Blue",
+      "Grey",
+      "Green",
+      "Tan"
+     ]
+    },
+    {
+     "name": "Watch Box Colour",
+     "values": [
+      "Black",
+      "Brown"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet / Black",
+     "sku": "SQ0026165",
+     "priceMinor": 51700,
+     "compareAtMinor": 51700,
+     "available": false,
+     "options": [
+      "Bracelet",
+      "Black"
+     ]
+    },
+    {
+     "title": "Bracelet / Brown",
+     "sku": "SQ0026169",
+     "priceMinor": 51700,
+     "compareAtMinor": 51700,
+     "available": false,
+     "options": [
+      "Bracelet",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Blue / Black",
+     "sku": "SQ0026162",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Black"
+     ]
+    },
+    {
+     "title": "Blue / Brown",
+     "sku": "SQ0026166",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Grey / Black",
+     "sku": "SQ0026163",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Grey",
+      "Black"
+     ]
+    },
+    {
+     "title": "Grey / Brown",
+     "sku": "SQ0026167",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Grey",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Green / Black",
+     "sku": "SQ7667344",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Green",
+      "Black"
+     ]
+    },
+    {
+     "title": "Green / Brown",
+     "sku": "SQ7782817",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Green",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Tan / Black",
+     "sku": "SQ0026164",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Tan",
+      "Black"
+     ]
+    },
+    {
+     "title": "Tan / Brown",
+     "sku": "SQ0026168",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Tan",
+      "Brown"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Material": "Stainless steel 316L",
+    "Case Diameter": "39mm",
+    "Lug to Lug": "47mm (drilled lugs)",
+    "Thickness": "12mm",
+    "Weight": "74.1 grams (on strap)/150 grams (on bracelet)",
+    "Water Resistance": "20 ATM",
+    "Lume": "Swiss Super-LumiNova® BGW9 grade A",
+    "Glass": "Double-domed sapphire crystal with anti-reflective coating",
+    "Movement": "Miyota 9039",
+    "Power Reserve": "42 hours",
+    "Vibration Frequency": "28,800 VPH",
+    "Crown": "Screw-down crown",
+    "Warranty": "24 months",
+    "SPECIFICATIONS Case Material": "Stainless steel 316LGlass: Double domed sapphire crystal with AR coating Movement: Miyota 9039 Lume: Swiss Super-LumiNova BWG9 grade A Crown: Screw-down crown Water Resistance: 200m/660ft (20ATM)",
+    "DIMENSIONS Case Diameter": "39mm Lug Width: 20mm Lug to Lug: 47mm Thickness: 12mm Weight: 79g on Strap / 150g on Bracelet",
+    "Lug Width": "20mm",
+    "Customs fees must be paid": "by the customer. If the customer refuses to pay customs after the product is shipped, all additional fees (including return shipping and storage fees) that are charged by the courier are the responsibility of the customer."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:57:11.353Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:57:11.353Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0625/zealandic-iceborne"
+   ],
+   "hash": "733ffa4cb7637edf"
+  },
+  {
+   "id": "BRD-0625/iceborne-pounamu-green",
+   "name": "Iceborne - Pounamu Green",
+   "url": "https://www.zealandic.co.nz/products/iceborne-pounamu-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF0070.jpg?v=1739180631",
+    "width": 5547,
+    "height": 4160
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF0070.jpg?v=1739180631",
+     "width": 5547,
+     "height": 4160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9994.jpg?v=1739180632",
+     "width": 5231,
+     "height": 3923
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9572.jpg?v=1739180631",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9610.jpg?v=1739180631",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9617.jpg?v=1739180631",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9631.jpg?v=1739180631",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9622.jpg?v=1739180631",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9154-1_032b2ee0-6ddb-4ee2-ad7a-5173eab0ea29.jpg?v=1739180632",
+     "width": 2500,
+     "height": 1667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9676-1-2_009748a4-b262-4648-b77f-65fe4aec58df.jpg?v=1739180633",
+     "width": 4661,
+     "height": 4160
+    }
+   ],
+   "priceMinor": 48800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Case Material: Stainless steel 316L Case Diameter: 39mm Lug to Lug: 47mm (drilled lugs) Thickness: 12mm Weight: 74.1 grams (on strap)/150 grams (on bracelet) Water Resistance: 20 ATM Lume: Swiss Super-LumiNova® BGW9 grade A Glass: Double-domed sapphire crystal with anti-reflective coating Movement: Miyota 9039 Power Reserve: 42 hours Vibration Frequency: 28,800 VPH Crown: Screw-down crown Warranty: 24 months Assembled to Order - Shipped within 7 - 10 days (allows time for assembly, quality control and fulfilment) All prices excluding VAT/GST and import duty US based orders will incur tariffs/duties",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap/Bracelet Colour",
+     "values": [
+      "Bracelet",
+      "Blue",
+      "Grey",
+      "Green",
+      "Tan"
+     ]
+    },
+    {
+     "name": "Watch Box Colour",
+     "values": [
+      "Black",
+      "Brown"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet / Black",
+     "sku": "SQ0026165",
+     "priceMinor": 51700,
+     "compareAtMinor": 51700,
+     "available": false,
+     "options": [
+      "Bracelet",
+      "Black"
+     ]
+    },
+    {
+     "title": "Bracelet / Brown",
+     "sku": "SQ0026169",
+     "priceMinor": 51700,
+     "compareAtMinor": 51700,
+     "available": false,
+     "options": [
+      "Bracelet",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Blue / Black",
+     "sku": "SQ0026162",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Black"
+     ]
+    },
+    {
+     "title": "Blue / Brown",
+     "sku": "SQ0026166",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Grey / Black",
+     "sku": "SQ0026163",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Grey",
+      "Black"
+     ]
+    },
+    {
+     "title": "Grey / Brown",
+     "sku": "SQ0026167",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Grey",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Green / Black",
+     "sku": "SQ7320578",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Green",
+      "Black"
+     ]
+    },
+    {
+     "title": "Green / Brown",
+     "sku": "SQ7557148",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Green",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Tan / Black",
+     "sku": "SQ0026164",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Tan",
+      "Black"
+     ]
+    },
+    {
+     "title": "Tan / Brown",
+     "sku": "SQ0026168",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Tan",
+      "Brown"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Material": "Stainless steel 316L",
+    "Case Diameter": "39mm",
+    "Lug to Lug": "47mm (drilled lugs)",
+    "Thickness": "12mm",
+    "Weight": "74.1 grams (on strap)/150 grams (on bracelet)",
+    "Water Resistance": "20 ATM",
+    "Lume": "Swiss Super-LumiNova® BGW9 grade A",
+    "Glass": "Double-domed sapphire crystal with anti-reflective coating",
+    "Movement": "Miyota 9039",
+    "Power Reserve": "42 hours",
+    "Vibration Frequency": "28,800 VPH",
+    "Crown": "Screw-down crown",
+    "Warranty": "24 months",
+    "SPECIFICATIONS Case Material": "Stainless steel 316LGlass: Double domed sapphire crystal with AR coating Movement: Miyota 9039 Lume: Swiss Super-LumiNova BWG9 grade A Crown: Screw-down crown Water Resistance: 200m/660ft (20ATM)",
+    "DIMENSIONS Case Diameter": "39mm Lug Width: 20mm Lug to Lug: 47mm Thickness: 12mm Weight: 79g on Strap / 150g on Bracelet",
+    "Lug Width": "20mm",
+    "Customs fees must be paid": "by the customer. If the customer refuses to pay customs after the product is shipped, all additional fees (including return shipping and storage fees) that are charged by the courier are the responsibility of the customer."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:57:11.353Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:57:11.353Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0625/zealandic-iceborne"
+   ],
+   "hash": "76dc0f9b69b16953"
+  },
+  {
+   "id": "BRD-0625/iceborne-lake-pukaki-blue",
+   "name": "Iceborne - Lake Pukaki Blue",
+   "url": "https://www.zealandic.co.nz/products/iceborne-lake-pukaki-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF0102.jpg?v=1739180627",
+    "width": 2500,
+    "height": 1875
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF0102.jpg?v=1739180627",
+     "width": 2500,
+     "height": 1875
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9989.jpg?v=1739180628",
+     "width": 5231,
+     "height": 3923
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9585.jpg?v=1739180627",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9641.jpg?v=1739180627",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9637.jpg?v=1739180627",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9648.jpg?v=1739180627",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9650.jpg?v=1739180627",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9180-2_8d739068-9b98-4e57-b79e-2e20c1c7e1f2.jpg?v=1739180628",
+     "width": 4334,
+     "height": 3467
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9676-1-2_4f375086-bab1-4765-b637-57185a7fe017.jpg?v=1739180628",
+     "width": 4661,
+     "height": 4160
+    }
+   ],
+   "priceMinor": 48800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Case Material: Stainless steel 316L Case Diameter: 39mm Lug to Lug: 47mm (drilled lugs) Thickness: 12mm Weight: 74.1 grams (on strap)/150 grams (on bracelet) Water Resistance: 20 ATM Lume: Swiss Super-LumiNova® BGW9 grade A Glass: Double-domed sapphire crystal with anti-reflective coating Movement: Miyota 9039 Power Reserve: 42 hours Vibration Frequency: 28,800 VPH Crown: Screw-down crown Warranty: 24 months Assembled to Order - Shipped within 7 - 10 days (allows time for assembly, quality control and fulfilment) All prices excluding VAT/GST and import duty US based orders will incur tariffs/duties",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap/Bracelet Colour",
+     "values": [
+      "Bracelet",
+      "Blue",
+      "Grey",
+      "Green",
+      "Tan"
+     ]
+    },
+    {
+     "name": "Watch Box Colour",
+     "values": [
+      "Black",
+      "Brown"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet / Black",
+     "sku": "SQ0026165",
+     "priceMinor": 51700,
+     "compareAtMinor": 51700,
+     "available": false,
+     "options": [
+      "Bracelet",
+      "Black"
+     ]
+    },
+    {
+     "title": "Bracelet / Brown",
+     "sku": "SQ0026169",
+     "priceMinor": 51700,
+     "compareAtMinor": 51700,
+     "available": false,
+     "options": [
+      "Bracelet",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Blue / Black",
+     "sku": "SQ0026162",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Black"
+     ]
+    },
+    {
+     "title": "Blue / Brown",
+     "sku": "SQ0026166",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Grey / Black",
+     "sku": "SQ0026163",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Grey",
+      "Black"
+     ]
+    },
+    {
+     "title": "Grey / Brown",
+     "sku": "SQ0026167",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Grey",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Green / Black",
+     "sku": "SQ3749035",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Green",
+      "Black"
+     ]
+    },
+    {
+     "title": "Green / Brown",
+     "sku": "SQ1779604",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Green",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Tan / Black",
+     "sku": "SQ0026164",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Tan",
+      "Black"
+     ]
+    },
+    {
+     "title": "Tan / Brown",
+     "sku": "SQ0026168",
+     "priceMinor": 48800,
+     "compareAtMinor": 45900,
+     "available": false,
+     "options": [
+      "Tan",
+      "Brown"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Material": "Stainless steel 316L",
+    "Case Diameter": "39mm",
+    "Lug to Lug": "47mm (drilled lugs)",
+    "Thickness": "12mm",
+    "Weight": "74.1 grams (on strap)/150 grams (on bracelet)",
+    "Water Resistance": "20 ATM",
+    "Lume": "Swiss Super-LumiNova® BGW9 grade A",
+    "Glass": "Double-domed sapphire crystal with anti-reflective coating",
+    "Movement": "Miyota 9039",
+    "Power Reserve": "42 hours",
+    "Vibration Frequency": "28,800 VPH",
+    "Crown": "Screw-down crown",
+    "Warranty": "24 months",
+    "SPECIFICATIONS Case Material": "Stainless steel 316LGlass: Double domed sapphire crystal with AR coating Movement: Miyota 9039 Lume: Swiss Super-LumiNova BWG9 grade A Crown: Screw-down crown Water Resistance: 200m/660ft (20ATM)",
+    "DIMENSIONS Case Diameter": "39mm Lug Width: 20mm Lug to Lug: 47mm Thickness: 12mm Weight: 79g on Strap / 150g on Bracelet",
+    "Lug Width": "20mm",
+    "Customs fees must be paid": "by the customer. If the customer refuses to pay customs after the product is shipped, all additional fees (including return shipping and storage fees) that are charged by the courier are the responsibility of the customer."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:57:11.353Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:57:11.353Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0625/zealandic-iceborne"
+   ],
+   "hash": "a9d24bbe2bee604f"
+  },
+  {
+   "id": "BRD-0625/iceborne-bracelet",
+   "name": "Iceborne Bracelet",
+   "url": "https://www.zealandic.co.nz/products/iceborne-bracelet",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9710-2.jpg?v=1739180612",
+    "width": 4160,
+    "height": 5547
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9710-2.jpg?v=1739180612",
+     "width": 4160,
+     "height": 5547
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/files/DSCF9717-2.jpg?v=1739180611",
+     "width": 5547,
+     "height": 4160
+    }
+   ],
+   "priceMinor": 8600,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "All Prices in New Zealand Dollars NZD The Iceborne bracelet is constructed from 316 grade stainless steel and features a triple centre-link design with female end links and quick release spring bars and is paired with a signed clasp with 5 steps of on-the-fly micro-adjustment. The bracelet tapers from 20mm to 16mm and is brushed finish to pair perfectly with the Iceborne. Material: 316 Grade Stainless Steel Taper: 20mm to 16mm Micro-Adjustment: On-the-fly 5 step adjustment Clasp Finish: Brushed & Signed (Laser Engraved) Spring Bar: Quick Release Endlink Type: Female Weight: 83 grams All prices excluding VAT/GST and import duty.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "316 Grade Stainless Steel",
+    "Taper": "20mm to 16mm",
+    "Micro-Adjustment": "On-the-fly 5 step adjustment",
+    "Clasp Finish": "Brushed & Signed (Laser Engraved)",
+    "Spring Bar": "Quick Release",
+    "Endlink Type": "Female",
+    "Weight": "83 grams",
+    "SPECIFICATIONS Case Material": "Stainless steel 316LGlass: Double domed sapphire crystal with AR coating Movement: Miyota 9039 Lume: Swiss Super-LumiNova BWG9 grade A Crown: Screw-down crown Water Resistance: 200m/660ft (20ATM)",
+    "Case Material": "Stainless steel 316LGlass: Double domed sapphire crystal with AR coating",
+    "Movement": "Miyota 9039",
+    "Lume": "Swiss Super-LumiNova BWG9 grade A",
+    "Crown": "Screw-down crown",
+    "Water Resistance": "200m/660ft (20ATM)",
+    "DIMENSIONS Case Diameter": "39mm Lug Width: 20mm Lug to Lug: 47mm Thickness: 12mm Weight: 79g on Strap / 150g on Bracelet",
+    "Case Diameter": "39mm",
+    "Lug Width": "20mm",
+    "Lug to Lug": "47mm",
+    "Thickness": "12mm",
+    "Customs fees must be paid": "by the customer. If the customer refuses to pay customs after the product is shipped, all additional fees (including return shipping and storage fees) that are charged by the courier are the responsibility of the customer."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:57:11.353Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:57:11.353Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "130f538e87731903"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0625/zealandic-iceborne",
+   "name": "Zealandic Iceborne",
+   "url": "https://www.zealandic.co.nz/collections/zealandic-iceborne",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0624/2245/0255/collections/DSCF9974-3.jpg?v=1740560562",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

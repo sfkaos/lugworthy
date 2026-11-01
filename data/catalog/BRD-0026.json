@@ -1,0 +1,709 @@
+{
+ "brandId": "BRD-0026",
+ "brandName": "ALATO",
+ "website": "https://www.alato.se",
+ "crawledAt": "2026-11-01T06:22:33.909Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.alato.se/cdn/shop/files/ALATO_Logo_Gwhite.jpg?v=1764970041",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.alato.se/en"
+ },
+ "attribution": "Images © ALATO, from alato.se",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0026/ogonsten",
+   "name": "Ögonsten 100m 38mm",
+   "url": "https://www.alato.se/products/ogonsten",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_Ogonsten_Antracite_Grey.jpg?v=1773262422",
+    "width": 2350,
+    "height": 3290
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_Ogonsten_Antracite_Grey.jpg?v=1773262422",
+     "width": 2350,
+     "height": 3290
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_Ogonsten_Rose_Gold_Brown.jpg?v=1773262421",
+     "width": 2350,
+     "height": 3290
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_ogonsten_Royal_Blue_38mm_quartz_watch.jpg?v=1787861325",
+     "width": 2350,
+     "height": 3290
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Ogonsten_Grey_Laying_Strap_3_8993f908-9410-4c0a-b530-ff51cc725487.jpg?v=1773262684",
+     "width": 5971,
+     "height": 3980
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Ogonsten_Grey_Standing_Bracelet_2.jpg?v=1773262684",
+     "width": 6240,
+     "height": 4160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Ogonsten_Grey_Laying_Strap_6_33dd05d1-4276-46ed-8298-06e8157b5e47.jpg?v=1773262684",
+     "width": 6240,
+     "height": 4160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Ogonsten_Blue_Laying_Strap.jpg?v=1773262684",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Ogonsten_Blue_Standing_Bracelet_3.jpg?v=1773262684",
+     "width": 5992,
+     "height": 3995
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Ogonsten_Rose_Laying_Strap_2_Banner_2b48b3ae-4d7b-43f4-a581-02c181dcd4ca.jpg?v=1788937098",
+     "width": 1333,
+     "height": 1067
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Ogonsten_Rose_Standing_Bracelet.jpg?v=1788936222",
+     "width": 2774,
+     "height": 4160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_gonsten_38mm_Watch_Swedish_Design.jpg?v=1775921554",
+     "width": 5819,
+     "height": 3879
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Ogonsten_Royal_Blue_Bracelet_Zoomed_in_5e0e1065-ffd0-4fb0-a716-e5ebc121ec8f.jpg?v=1775921605",
+     "width": 3710,
+     "height": 2473
+    }
+   ],
+   "priceMinor": 36900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Många klockor imponerar. Endast de betydelsefulla stannar. I en värld av katalogdesigner började Ögonsten med ett blankt pappersark, format för de som värdesätter originalitet och för de som vet att det som är viktigt… stannar. På svenska är ögonsten ordet du söker när något, eller någon, betyder mer än vad vanliga ord kan bära. Det kan vara ett barn, ett husdjur, en person du älskar. Eller ett ting: ett litet föremål som sitter nära dig och ackumulerar betydelse över tid. För vissa människor är detta ting en klocka. Och det är det vi försökt skapa med Ögonsten. En klocka för de som inser att det som är viktigt… stannar.",
+   "productType": "Klockor",
+   "tags": [],
+   "options": [
+    {
+     "name": "Färg",
+     "values": [
+      "Anthracite Grey",
+      "Royal Blue",
+      "Rose Gold Brown"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Anthracite Grey",
+     "sku": "AÖ38AG",
+     "priceMinor": 36900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Anthracite Grey"
+     ]
+    },
+    {
+     "title": "Royal Blue",
+     "sku": "AÖ38RB",
+     "priceMinor": 36900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Royal Blue"
+     ]
+    },
+    {
+     "title": "Rose Gold Brown",
+     "sku": "AÖ38RGB",
+     "priceMinor": 39900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Rose Gold Brown"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Ronda 6004.D",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Material": "Stainless steel 316L, PVD-coated Rose",
+    "Anti-Scratch": "800 Hv",
+    "Crystal": "Double-domed sapphire with 5 inner layers of anti-reflective coating",
+    "Dial": "Sandwich construction, multilayered, flat upper dial with sunburst fume effect, applied hour indices, printed minute track, 6H subdial",
+    "Hands": "Facetted brushed hands with sandblasted tips, subdial small seconds",
+    "Indices": "Hand mounted, facetted, brushed/polished surfaces",
+    "Crown": "Screwed-down, Onion style, engraved logo",
+    "Water resistance": "10 ATM (100 meters)",
+    "Case material": "316L stainless steel, modular construction with 2 bezels",
+    "Leather strap": "Top-grain leather with Zermatt lining, 20×18 mm quick-release, pin-buckle, etched logosymbol",
+    "Bezel": "Double bezels. Fixed, fine-fluted.",
+    "Caseback": "Solid, screw-in type with 3D etched and stamped pattern. Unique serial number (X/1988).",
+    "Add-on": "316L Stainless steel bracelet with micro adjust on the fly clasp, screwed pins and quick-release springbars. Tapering from 20 to 16mm. MOVEMENT Movement: Ronda 6004.D, Normtech",
+    "Country of manufacture": "Switzerland",
+    "Movement type": "Quartz",
+    "Precision": "-10/+20 sec/month",
+    "Second hand": "Yes (stops when the crown is pulled out)",
+    "Battery life": "approx. 40 months, standard battery (373).",
+    "Vibration frequency": "32,768 Hz.",
+    "Jewels": "5 MEASUREMENTS Case diameter: 38 mm",
+    "Lug-to-lug length": "46 mm",
+    "Thickness": "9.65 mm (including crystal)",
+    "SPECIFICATIONS Movement": "Swiss Ronda 6004.D",
+    "Movement": "Swiss Ronda 6004.D",
+    "MOVEMENT Movement": "Ronda 6004.D, Normtech",
+    "MEASUREMENTS Case diameter": "38 mm",
+    "Lug width": "20 mm",
+    "Case diameter": "38 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:33.909Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:33.909Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0026/klockor"
+   ],
+   "hash": "902084cf1e8a6ada"
+  },
+  {
+   "id": "BRD-0026/timescope",
+   "name": "Timescope Automatic 100m 39.8mm",
+   "url": "https://www.alato.se/products/timescope",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATOTimescopeAventurineProductfront.jpg?v=1748375976",
+    "width": 1464,
+    "height": 2050
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATOTimescopeAventurineProductfront.jpg?v=1748375976",
+     "width": 1464,
+     "height": 2050
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_Timescope_automatic_telescope_inspired_watch.jpg?v=1787861295",
+     "width": 1464,
+     "height": 2050
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATOTimescopeSandProductfront.jpg?v=1748375976",
+     "width": 1464,
+     "height": 2050
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Timescope_Aventurine_01.jpg?v=1772228575",
+     "width": 1775,
+     "height": 2662
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Timescope_Aventurine_04.jpg?v=1754856965",
+     "width": 4000,
+     "height": 6000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Timescope_Aventurine_05.jpg?v=1754856965",
+     "width": 4000,
+     "height": 6000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Collection_on_book.jpg?v=1754856965",
+     "width": 6072,
+     "height": 3982
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/IMG_4792fyrkantig.jpg?v=1754856965",
+     "width": 3360,
+     "height": 3360
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/IMG_4794fyrkantig.jpg?v=1754856965",
+     "width": 3672,
+     "height": 3672
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/IMG_4787fyrkantig.jpg?v=1754856965",
+     "width": 3672,
+     "height": 3672
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/IMG_4791fyrkantig.jpg?v=1754856965",
+     "width": 3178,
+     "height": 3178
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/9590DEE9-F232-4B2D-A6EB-AF242BE5CE65.jpg?v=1754856965",
+     "width": 3625,
+     "height": 4833
+    }
+   ],
+   "priceMinor": 84900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Klockor",
+   "tags": [],
+   "options": [
+    {
+     "name": "Färg",
+     "values": [
+      "Aventurine (Black)",
+      "Meteorite (Grey)",
+      "Sand (Beige)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Aventurine (Black)",
+     "sku": "AT398AVENT",
+     "priceMinor": 94900,
+     "compareAtMinor": 94153,
+     "available": true,
+     "options": [
+      "Aventurine (Black)"
+     ]
+    },
+    {
+     "title": "Meteorite (Grey)",
+     "sku": "AT398METEO",
+     "priceMinor": 109900,
+     "compareAtMinor": 109268,
+     "available": true,
+     "options": [
+      "Meteorite (Grey)"
+     ]
+    },
+    {
+     "title": "Sand (Beige)",
+     "sku": "AT398SAND",
+     "priceMinor": 84900,
+     "compareAtMinor": 83075,
+     "available": true,
+     "options": [
+      "Sand (Beige)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.8,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Material": "Stainless steel 316L",
+    "Glass": "Flat sapphire crystal, Anti-reflective treated inside (5 layers)",
+    "Dial": "Double layers of either; Aventurine stone, Meteorite stone or oil-pressed brass (Sand).",
+    "Hands": "Faceted baton with luminescent Swiss Super-LumiNova® BGW9 (Blue glow)",
+    "Hour markers": "Hand-applied and luminous in Swiss Super-LumiNova® BGW9 (Blue glow)",
+    "Case back": "Sapphire crystal glass and engraving",
+    "Crown": "Semi-integrated screw-down crown with engraved logo",
+    "Strap": "Top-grain french leather, tapered 20-16mm, with quick-release spring buckle",
+    "Strap clasp": "Engraved pin lock",
+    "Water resistance": "100m MOVEMENT Movement: Sellita SW200-1b (Swiss made)",
+    "Country of manufacture": "Switzerland (La Chaux-de-Fonds)",
+    "Movement type": "Automatic",
+    "Date": "No",
+    "Accuracy": "ｰ12～＋30 seconds/day",
+    "Anti-shock system": "Novodia/Incabloc",
+    "Power reserve (Standby time)": "38-41h",
+    "Vibration frequency (Hz)": "28,800 per hour",
+    "Jewels": "26",
+    "Seconds hand": "Sweeping, hacking seconds hand (stops when crown is pulled out) MEASUREMENTS Case: 39.8mm diameter Case length (Lug-to-lug): 45.5mm (excl. strap adapters)",
+    "SPECIFICATIONS Movement": "Sellita SW200-1b Automatic (Swiss Made)",
+    "Movement": "Sellita SW200-1b Automatic (Swiss Made)",
+    "MOVEMENT Movement": "Sellita SW200-1b (Swiss made)",
+    "MEASUREMENTS Case": "39.8mm diameter Case length (Lug-to-lug): 45.5mm (excl. strap adapters)",
+    "Case": "39.8mm diameter",
+    "Case length (Lug-to-lug)": "45.5mm (excl. strap adapters)",
+    "Strap width": "20mm, tapering down to 16mm",
+    "Thickness": "10.95mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:33.909Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:33.909Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0026/klockor"
+   ],
+   "hash": "2202d1080f21bfdf"
+  },
+  {
+   "id": "BRD-0026/klockverktygvaska149delar",
+   "name": "Klockverktyg Fullkit i PU-Läderväska",
+   "url": "https://www.alato.se/products/klockverktygvaska149delar",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-566.png?v=1741182596",
+    "width": 700,
+    "height": 1000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-566.png?v=1741182596",
+     "width": 700,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-768.jpg?v=1741182602",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-179.jpg?v=1741182606",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-551.jpg?v=1741182610",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-830.jpg?v=1741182615",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-518.jpg?v=1741182619",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-183.jpg?v=1741182623",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/klockverktyg-fullkit-i-pu-laedervaeska-one-size-149-delar-verktyg-856.png?v=1741182629",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 17500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Perfekt för klockentusiasten som diggar vintage! Vår verktygssats i en stilren och praktisk väska är din ultimata följeslagare för att hålla dina klockor i toppskick. Med hela 149 delar kan du enkelt byta armband, ta bort länkar och byta batterier på dina favoritklockor. Ett måste för att bevara din klockkollektion i perfekt skick. Kvalitet och precision i varje verktyg! SPECIFIKATION Material Läderimitation, Tyg, Metall & Plast Mått på läderväskan Längd: 20,5 cm Bredd: 10 cm Djup: 4,5 cm Antal delar 149",
+   "productType": "Verktyg",
+   "tags": [],
+   "options": [
+    {
+     "name": "Storlek",
+     "values": [
+      "One size (149 delar)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "One size (149 delar)",
+     "sku": null,
+     "priceMinor": 17500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "One size (149 delar)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Imitation leather, Fabric, Metal & Plastic",
+    "Mått på läderväskan": "Längd: 20,5 cmBredd: 10 cmDjup: 4,5 cm",
+    "Antal delar": "149",
+    "Measurements of the leather bag": "Length: 20.5 cm Width: 10 cm Depth: 4.5 cm",
+    "Number of parts": "149",
+    "Width": "10 cm",
+    "Depth": "4.5 cm Number of parts 149 Share Share Link Close share Copy link View full details"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:33.909Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:33.909Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3a904d555293c934"
+  },
+  {
+   "id": "BRD-0026/arvet",
+   "name": "Arvet Automatic 100m 38mm",
+   "url": "https://www.alato.se/products/arvet",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_Arvet_Black_3702c6fd-1301-4db1-9194-11208dcbe2e0.jpg?v=1746547871",
+    "width": 1464,
+    "height": 2050
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_Arvet_Black_3702c6fd-1301-4db1-9194-11208dcbe2e0.jpg?v=1746547871",
+     "width": 1464,
+     "height": 2050
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_ARVET_Burgundy_38mm_Automatic_100M_Miyota_9039_Microbrand_Swedish_Design_Swedish_Microbrand_Caseback.jpg?v=1766433750",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Alato_HAHW_Burgundy_03_76899491-e793-48bb-a353-7f90d05dc498.jpg?v=1766433706",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Alato_Arvet_05.jpg?v=1766433686",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/ALATO_Arvet_Burgundy_Unique_Watch_Character.jpg?v=1766431097",
+     "width": 2000,
+     "height": 2124
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/arvet-automatic-100m-38mm-klockor-608.jpg?v=1766431097",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/arvet-automatic-100m-38mm-klockor-633.jpg?v=1766431097",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/arvet-automatic-100m-38mm-klockor-408.jpg?v=1766431097",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/arvet-automatic-100m-38mm-klockor-376.jpg?v=1766431097",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/arvet-automatic-100m-38mm-klockor-616.jpg?v=1766431097",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/arvet-automatic-100m-38mm-klockor-573.jpg?v=1766431097",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/files/Alato_Arvet_08.jpg?v=1766431097",
+     "width": 4000,
+     "height": 6000
+    }
+   ],
+   "priceMinor": 64900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Klockor",
+   "tags": [],
+   "options": [
+    {
+     "name": "Färg",
+     "values": [
+      "Black",
+      "Blue",
+      "Burgundy",
+      "Green",
+      "White",
+      "Gold two-tone"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black",
+     "sku": "AA38BLACK",
+     "priceMinor": 64900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Blue",
+     "sku": "AA38BLUE",
+     "priceMinor": 64900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blue"
+     ]
+    },
+    {
+     "title": "Burgundy",
+     "sku": "AA38BURGUNDY",
+     "priceMinor": 64900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Burgundy"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": "AA38GREEN",
+     "priceMinor": 64900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": "AA38WHITE",
+     "priceMinor": 64900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Gold two-tone",
+     "sku": "AA38TTGOLD",
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Gold two-tone"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Anti-Scratch": "Up to 1200 Hv",
+    "Rotor": "Custom CNC carved guilloché pattern and luminescent corners (Blue glow)",
+    "Material": "Stainless steel 316L",
+    "Crystal": "Sapphire crystal, Double domed with Anti-reflection coating on the inside (5 layers)",
+    "Dial": "Double layers. Pressed guilloché.",
+    "Hands": "Teardrop style",
+    "Hour markers": "Hand-mounted and luminous in Swiss Super-LumiNova® BGW9 (Blue glow)",
+    "Case back": "Exhibition. Sapphire crystal and engraving with a unique serial number",
+    "Crown": "Semi-integrated screw-down crown with engraved logo",
+    "Bracelet": "H-links in stainless steel (316L) tapered 20-16mm, with quick-release springbars",
+    "Clasp": "Premium folding clasp with 'Micro Adjust on the Fly'",
+    "Water resistance": "100m, 10 bar, 330ft MOVEMENT Movement: Miyota Caliber 9039",
+    "Country of manufacture": "Japan",
+    "Movement type": "Automatic",
+    "Date": "No",
+    "Precision": "ｰ10～＋30 seconds/day",
+    "Anti-shock system": "Parashock",
+    "Power reserve (Standby time)": "42h+",
+    "Vibration frequency (Hz)": "28,800 per hour",
+    "Jewels": "24",
+    "Second hand": "Sweeping, hacking second hand (stops when crown is pulled out) MEASUREMENTS Case: 38mm diameter",
+    "Case length (lug-to-lug)": "46mm",
+    "Bracelet width": "20-16mm (tapered)",
+    "Thickness": "10.9mm",
+    "SPECIFICATIONS Movement": "Miyota Caliber 9039",
+    "Movement": "Miyota Caliber 9039",
+    "MOVEMENT Movement": "Miyota Caliber 9039",
+    "MEASUREMENTS Case": "38mm diameter",
+    "Weight": "approx. 4.6 oz",
+    "Case": "38mm diameter"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:33.909Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:33.909Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0026/klockor"
+   ],
+   "hash": "2c1f30472d41eb4e"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0026/klockor",
+   "name": "KLOCKOR",
+   "url": "https://www.alato.se/collections/klockor",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0693/8915/6667/collections/ALATO_Arvet_Burgundy_ea445660-a0c2-464c-acbc-1c33d2511677.jpg?v=1776024288",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

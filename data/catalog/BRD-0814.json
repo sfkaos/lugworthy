@@ -1,0 +1,745 @@
+{
+ "brandId": "BRD-0814",
+ "brandName": "Constellar",
+ "website": "https://constellartimepieces.com",
+ "crawledAt": "2026-11-01T06:53:20.847Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://constellartimepieces.com/cdn/shop/files/CO6_7cef63cf-e96b-4c7f-9b9d-f0dd84217cbf.jpg?v=1695955466&width=1024",
+  "width": 3864,
+  "height": 2576,
+  "kind": "og_image",
+  "sourcePage": "https://constellartimepieces.com/"
+ },
+ "attribution": "Images © Constellar, from constellartimepieces.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0814/constellar-destinations",
+   "name": "Destinations GMT \"Onyx Gold\"",
+   "url": "https://constellartimepieces.com/products/constellar-destinations",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CDPV05_square_e62eb38f-ee17-45d3-a56e-9ad0d0d92e11.jpg?v=1792082956",
+    "width": 3656,
+    "height": 3656
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CDPV05_square_e62eb38f-ee17-45d3-a56e-9ad0d0d92e11.jpg?v=1792082956",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CDN31_square.jpg?v=1790879746",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CDN02_square_0b79f7c6-a774-4f8c-85bd-1fafcdf4360d.jpg?v=1792083809",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CDPV01_square.jpg?v=1790879743",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CDPV11_square.jpg?v=1790879721",
+     "width": 3656,
+     "height": 3656
+    }
+   ],
+   "priceMinor": 175500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.5,
+    "thicknessMm": 10.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Regular Price": "$1,755.00",
+    "Sale Price": "$1,755.00",
+    "Unit Price": "/Translation missing: en.general.accessibility.unit_price_separator",
+    "Case Lug-to-Lug": "44.5mm",
+    "Case Thickness": "10.6mm exclusive of crystal (11.6 inclusive) Movement Movement: Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Movement Grade": "“Elaboré”",
+    "Movement Frequency": "4Hz / 28,800 vph",
+    "Movement Complication": "Quickset Day-Date",
+    "Power Reserve": "Up to 42 Hours Other Specifications Case Material: Stainless Steel 316L",
+    "Case Water Resistance": "10ATM / 100M / 328Ft",
+    "Crystal": "Sapphire Top-Hat (3-layer Blue AR coating)",
+    "Dial": "Stepped Dial",
+    "Bracelet Clasp": "Folding Clasp (1 Micro Adjustment Setting)",
+    "Bracelet Links": "20mm to 16mm taper, 1.4mm Screw-In Links (Contains Loctite)",
+    "Translation missing": "en.general.accessibility.unit_price_separator",
+    "Case diameter": "38mm",
+    "Movement": "Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Case Material": "Stainless Steel 316L"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:53:20.847Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:53:20.847Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "383e95b5142c28a7"
+  },
+  {
+   "id": "BRD-0814/constellar-origin",
+   "name": "Constellar Origin",
+   "url": "https://constellartimepieces.com/products/constellar-origin",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Red.jpg?v=1713284273",
+    "width": 3656,
+    "height": 3656
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Red.jpg?v=1713284273",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Green.jpg?v=1696180964",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Grey.jpg?v=1696180932",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Brown.jpg?v=1696180916",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Blue.jpg?v=1696180882",
+     "width": 3656,
+     "height": 3656
+    }
+   ],
+   "priceMinor": 106100,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Vermilion Red",
+      "Cerulean Blue",
+      "Viridian Green",
+      "Pewter Grey",
+      "Cinnabar Brown"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Vermilion Red",
+     "sku": null,
+     "priceMinor": 106100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Vermilion Red"
+     ]
+    },
+    {
+     "title": "Cerulean Blue",
+     "sku": null,
+     "priceMinor": 106100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cerulean Blue"
+     ]
+    },
+    {
+     "title": "Viridian Green",
+     "sku": null,
+     "priceMinor": 106100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Viridian Green"
+     ]
+    },
+    {
+     "title": "Pewter Grey",
+     "sku": null,
+     "priceMinor": 106100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pewter Grey"
+     ]
+    },
+    {
+     "title": "Cinnabar Brown",
+     "sku": null,
+     "priceMinor": 106100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cinnabar Brown"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.5,
+    "thicknessMm": 10.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Regular Price": "$1,061.00",
+    "Sale Price": "$1,061.00",
+    "Unit Price": "/Translation missing: en.general.accessibility.unit_price_separator",
+    "Case Lug-to-Lug": "44.5mm",
+    "Case Thickness": "10.6mm exclusive of crystal (11.6 inclusive) Movement Movement: Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Movement Grade": "“Elaboré”",
+    "Movement Frequency": "4Hz / 28,800 vph",
+    "Movement Complication": "Quickset Day-Date",
+    "Power Reserve": "Up to 42 Hours Other Specifications Case Material: Stainless Steel 316L",
+    "Case Water Resistance": "10ATM / 100M / 328Ft",
+    "Crystal": "Sapphire Top-Hat (3-layer Blue AR coating)",
+    "Dial": "Stepped Dial",
+    "Bracelet Clasp": "Folding Clasp (1 Micro Adjustment Setting)",
+    "Bracelet Links": "20mm to 16mm taper, 1.4mm Screw-In Links (Contains Loctite)",
+    "Translation missing": "en.general.accessibility.unit_price_separator",
+    "Case diameter": "38mm",
+    "Movement": "Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Case Material": "Stainless Steel 316L"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:53:20.847Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:53:20.847Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "383f231aca74beae"
+  },
+  {
+   "id": "BRD-0814/cinnabar-brown",
+   "name": "Cinnabar Brown",
+   "url": "https://constellartimepieces.com/products/cinnabar-brown",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Brown_Square.png?v=1695823471",
+    "width": 3897,
+    "height": 3897
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Brown_Square.png?v=1695823471",
+     "width": 3897,
+     "height": 3897
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Brown.jpg?v=1696180916",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO15_square_7a0720bf-854a-4f9c-b7a8-822f15681f90.jpg?v=1696313329",
+     "width": 3408,
+     "height": 3408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO3_2f1bfe9c-8699-46ab-8a96-3f86f18b37ef.png?v=1696313329",
+     "width": 1165,
+     "height": 1165
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO7_cb2af501-5a46-49b8-bddf-7c6eef75d054.png?v=1696313329",
+     "width": 1149,
+     "height": 1149
+    }
+   ],
+   "priceMinor": 105400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Constellar Origin collection is our unique take on what a Day-Date watch can be. Embellished with our trademark diamond-shaped indices harking back to our earlier campaigns, the Origin collection elevates the Constellar design language to the next level, intentionally playing on raised silhouettes to enhance the visual contrast between light and shadow. Filled with an abundance of subtle details, we are sure that you will be kept amused as you discover the layers of depth hidden in plain sight. The Origin in Cinnabar Brown is the shining star of the Origin collection, being the only example executed in Rose Gold indices and golden handset. Take care not to stare too close as you can almost taste the smoky bourbon dial!",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.5,
+    "thicknessMm": 10.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Regular Price": "$1,054.00",
+    "Sale Price": "$1,054.00",
+    "Unit Price": "/Translation missing: en.general.accessibility.unit_price_separator",
+    "Case Lug-to-Lug": "44.5mm",
+    "Case Thickness": "10.6mm exclusive of crystal (11.6 inclusive) Movement Movement: Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Movement Grade": "“Elaboré”",
+    "Movement Frequency": "4Hz / 28,800 vph",
+    "Movement Complication": "Quickset Day-Date",
+    "Power Reserve": "Up to 42 Hours Other Specifications Case Material: Stainless Steel 316L",
+    "Case Water Resistance": "10ATM / 100M / 328Ft",
+    "Crystal": "Sapphire Top-Hat (3-layer Blue AR coating)",
+    "Dial": "Stepped Dial",
+    "Bracelet Clasp": "Folding Clasp (1 Micro Adjustment Setting)",
+    "Bracelet Links": "20mm to 16mm taper, 1.4mm Screw-In Links (Contains Loctite)",
+    "Translation missing": "en.general.accessibility.unit_price_separator",
+    "Case diameter": "38mm",
+    "Movement": "Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Case Material": "Stainless Steel 316L"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:53:20.847Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:53:20.847Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0814/constellar-origin"
+   ],
+   "hash": "c08750ac1df19221"
+  },
+  {
+   "id": "BRD-0814/viridian-red",
+   "name": "Vermilion Red",
+   "url": "https://constellartimepieces.com/products/viridian-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Red_SquarewFume.png?v=1713284273",
+    "width": 3897,
+    "height": 3897
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Red_SquarewFume.png?v=1713284273",
+     "width": 3897,
+     "height": 3897
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Red.jpg?v=1713284273",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO15_square_af03322e-a86c-4fb1-a685-c20f2e6109bb.jpg?v=1713284273",
+     "width": 3408,
+     "height": 3408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/27858b42-a227-4f4c-a733-806408ab13de_f73e9b3d-3276-4dba-9699-b6018e4d0911.png?v=1713284273",
+     "width": 1165,
+     "height": 1165
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO11_a4ae754d-399a-4724-8246-af5dfa1518d9.png?v=1713284273",
+     "width": 1150,
+     "height": 1150
+    }
+   ],
+   "priceMinor": 105400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Constellar Origin collection is our unique take on what a Day-Date watch can be. Embellished with our trademark diamond-shaped indices harking back to our earlier campaigns, the Origin collection elevates the Constellar design language to the next level, intentionally playing on raised silhouettes to enhance the visual contrast between light and shadow. Filled with an abundance of subtle details, we are sure that you will be kept amused as you discover the layers of depth hidden in plain sight. A personal favourite of co-founder Edgar, the Origin in Vermilion Red features a plum-like appearance for those days where you want to wear something a little special.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.5,
+    "thicknessMm": 10.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Regular Price": "$1,054.00",
+    "Sale Price": "$1,054.00",
+    "Unit Price": "/Translation missing: en.general.accessibility.unit_price_separator",
+    "Case Lug-to-Lug": "44.5mm",
+    "Case Thickness": "10.6mm exclusive of crystal (11.6 inclusive) Movement Movement: Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Movement Grade": "“Elaboré”",
+    "Movement Frequency": "4Hz / 28,800 vph",
+    "Movement Complication": "Quickset Day-Date",
+    "Power Reserve": "Up to 42 Hours Other Specifications Case Material: Stainless Steel 316L",
+    "Case Water Resistance": "10ATM / 100M / 328Ft",
+    "Crystal": "Sapphire Top-Hat (3-layer Blue AR coating)",
+    "Dial": "Stepped Dial",
+    "Bracelet Clasp": "Folding Clasp (1 Micro Adjustment Setting)",
+    "Bracelet Links": "20mm to 16mm taper, 1.4mm Screw-In Links (Contains Loctite)",
+    "Translation missing": "en.general.accessibility.unit_price_separator",
+    "Case diameter": "38mm",
+    "Movement": "Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Case Material": "Stainless Steel 316L"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:53:20.847Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:53:20.847Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0814/constellar-origin"
+   ],
+   "hash": "1266d438018630f8"
+  },
+  {
+   "id": "BRD-0814/viridian-green",
+   "name": "Viridian Green",
+   "url": "https://constellartimepieces.com/products/viridian-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Green_Square.png?v=1695823532",
+    "width": 3897,
+    "height": 3897
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Green_Square.png?v=1695823532",
+     "width": 3897,
+     "height": 3897
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Green.jpg?v=1696180964",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO15_square_16111705-59fe-44ac-8e27-6e0202d63a48.jpg?v=1696313407",
+     "width": 3408,
+     "height": 3408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/27858b42-a227-4f4c-a733-806408ab13de_d10b2332-231e-43d6-9f67-751088da6a8e.png?v=1696313407",
+     "width": 1165,
+     "height": 1165
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO6_a111a3df-4743-445e-bfd1-29de748139fd.png?v=1696313407",
+     "width": 1147,
+     "height": 1147
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO1_2_988fd89f-94ea-4b1f-960b-311c1e344f06.png?v=1696313407",
+     "width": 1168,
+     "height": 1168
+    }
+   ],
+   "priceMinor": 105400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Constellar Origin collection is our unique take on what a Day-Date watch can be. Embellished with our trademark diamond-shaped indices harking back to our earlier campaigns, the Origin collection elevates the Constellar design language to the next level, intentionally playing on raised silhouettes to enhance the visual contrast between light and shadow. Filled with an abundance of subtle details, we are sure that you will be kept amused as you discover the layers of depth hidden in plain sight. The Origin in Viridian Green is inspired by the thick luscious greens of nature and blends exceptionally well on the wrist.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.5,
+    "thicknessMm": 10.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Regular Price": "$1,054.00",
+    "Sale Price": "$1,054.00",
+    "Unit Price": "/Translation missing: en.general.accessibility.unit_price_separator",
+    "Case Lug-to-Lug": "44.5mm",
+    "Case Thickness": "10.6mm exclusive of crystal (11.6 inclusive) Movement Movement: Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Movement Grade": "“Elaboré”",
+    "Movement Frequency": "4Hz / 28,800 vph",
+    "Movement Complication": "Quickset Day-Date",
+    "Power Reserve": "Up to 42 Hours Other Specifications Case Material: Stainless Steel 316L",
+    "Case Water Resistance": "10ATM / 100M / 328Ft",
+    "Crystal": "Sapphire Top-Hat (3-layer Blue AR coating)",
+    "Dial": "Stepped Dial",
+    "Bracelet Clasp": "Folding Clasp (1 Micro Adjustment Setting)",
+    "Bracelet Links": "20mm to 16mm taper, 1.4mm Screw-In Links (Contains Loctite)",
+    "Translation missing": "en.general.accessibility.unit_price_separator",
+    "Case diameter": "38mm",
+    "Movement": "Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Case Material": "Stainless Steel 316L"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:53:20.847Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:53:20.847Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0814/constellar-origin"
+   ],
+   "hash": "a1228f8f5a26fdd6"
+  },
+  {
+   "id": "BRD-0814/pewter-grey",
+   "name": "Pewter Grey",
+   "url": "https://constellartimepieces.com/products/pewter-grey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Grey_Square.png?v=1695823493",
+    "width": 3897,
+    "height": 3897
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Grey_Square.png?v=1695823493",
+     "width": 3897,
+     "height": 3897
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Grey.jpg?v=1696180932",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO15_square_039f2b50-9970-4077-b430-79a23de7692c.jpg?v=1696313348",
+     "width": 3408,
+     "height": 3408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/27858b42-a227-4f4c-a733-806408ab13de_beffc07c-aa7b-421a-b4de-91253577e00a.png?v=1696313348",
+     "width": 1165,
+     "height": 1165
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO10_008491cd-0adf-43d6-b180-7e612beed491.png?v=1696313348",
+     "width": 1168,
+     "height": 1168
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO2_91736c38-fe3c-4612-bae4-3445a1ca275f.png?v=1696313348",
+     "width": 1168,
+     "height": 1168
+    }
+   ],
+   "priceMinor": 105400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Constellar Origin collection is our unique take on what a Day-Date watch can be. Embellished with our trademark diamond-shaped indices harking back to our earlier campaigns, the Origin collection elevates the Constellar design language to the next level, intentionally playing on raised silhouettes to enhance the visual contrast between light and shadow. Filled with an abundance of subtle details, we are sure that you will be kept amused as you discover the layers of depth hidden in plain sight. Monotone in colour but not in character, the Origin in Pewter Grey is clean, savvy, and unabashedly dexterous.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.5,
+    "thicknessMm": 10.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Regular Price": "$1,054.00",
+    "Sale Price": "$1,054.00",
+    "Unit Price": "/Translation missing: en.general.accessibility.unit_price_separator",
+    "Case Lug-to-Lug": "44.5mm",
+    "Case Thickness": "10.6mm exclusive of crystal (11.6 inclusive) Movement Movement: Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Movement Grade": "“Elaboré”",
+    "Movement Frequency": "4Hz / 28,800 vph",
+    "Movement Complication": "Quickset Day-Date",
+    "Power Reserve": "Up to 42 Hours Other Specifications Case Material: Stainless Steel 316L",
+    "Case Water Resistance": "10ATM / 100M / 328Ft",
+    "Crystal": "Sapphire Top-Hat (3-layer Blue AR coating)",
+    "Dial": "Stepped Dial",
+    "Bracelet Clasp": "Folding Clasp (1 Micro Adjustment Setting)",
+    "Bracelet Links": "20mm to 16mm taper, 1.4mm Screw-In Links (Contains Loctite)",
+    "Translation missing": "en.general.accessibility.unit_price_separator",
+    "Case diameter": "38mm",
+    "Movement": "Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Case Material": "Stainless Steel 316L"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:53:20.847Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:53:20.847Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0814/constellar-origin"
+   ],
+   "hash": "01ea9093cd1af66d"
+  },
+  {
+   "id": "BRD-0814/cerulean-blue",
+   "name": "Cerulean Blue",
+   "url": "https://constellartimepieces.com/products/cerulean-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Blue_Square.png?v=1695823443",
+    "width": 3897,
+    "height": 3897
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/Blue_Square.png?v=1695823443",
+     "width": 3897,
+     "height": 3897
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO99_Blue.jpg?v=1696180882",
+     "width": 3656,
+     "height": 3656
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO15_square.jpg?v=1696313302",
+     "width": 3408,
+     "height": 3408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/27858b42-a227-4f4c-a733-806408ab13de.png?v=1696313302",
+     "width": 1165,
+     "height": 1165
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO8_be361a04-e9f1-4253-9229-56e6f1c5ebd9.png?v=1696313302",
+     "width": 1147,
+     "height": 1147
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0807/4297/3738/files/CO5_4e19e518-15a3-486c-a4b3-ed09d7845980.png?v=1696313302",
+     "width": 1167,
+     "height": 1167
+    }
+   ],
+   "priceMinor": 105400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Constellar Origin collection is our unique take on what a Day-Date watch can be. Embellished with our trademark diamond-shaped indices harking back to our earlier campaigns, the Origin collection elevates the Constellar design language to the next level, intentionally playing on raised silhouettes to enhance the visual contrast between light and shadow. Filled with an abundance of subtle details, we are sure that you will be kept amused as you discover the layers of depth hidden in plain sight. A staple colour in every collection, the Origin in Cerulean Blue plays with a deep shade of blue reminiscent of the mythical waters of the Aegean Sea.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.5,
+    "thicknessMm": 10.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 42,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Regular Price": "$1,054.00",
+    "Sale Price": "$1,054.00",
+    "Unit Price": "/Translation missing: en.general.accessibility.unit_price_separator",
+    "Case Lug-to-Lug": "44.5mm",
+    "Case Thickness": "10.6mm exclusive of crystal (11.6 inclusive) Movement Movement: Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Movement Grade": "“Elaboré”",
+    "Movement Frequency": "4Hz / 28,800 vph",
+    "Movement Complication": "Quickset Day-Date",
+    "Power Reserve": "Up to 42 Hours Other Specifications Case Material: Stainless Steel 316L",
+    "Case Water Resistance": "10ATM / 100M / 328Ft",
+    "Crystal": "Sapphire Top-Hat (3-layer Blue AR coating)",
+    "Dial": "Stepped Dial",
+    "Bracelet Clasp": "Folding Clasp (1 Micro Adjustment Setting)",
+    "Bracelet Links": "20mm to 16mm taper, 1.4mm Screw-In Links (Contains Loctite)",
+    "Translation missing": "en.general.accessibility.unit_price_separator",
+    "Case diameter": "38mm",
+    "Movement": "Caliber 240-1M Sellita, Swiss-made, Manual-wind",
+    "Case Material": "Stainless Steel 316L"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:53:20.847Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:53:20.847Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0814/constellar-origin"
+   ],
+   "hash": "907e1dc97ccfb3e4"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0814/constellar-origin",
+   "name": "Constellar Origin",
+   "url": "https://constellartimepieces.com/collections/constellar-origin",
+   "description": null,
+   "image": null
+  }
+ ]
+}

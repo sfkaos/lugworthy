@@ -1,0 +1,232 @@
+{
+ "brandId": "BRD-0615",
+ "brandName": "Wolf Creek Watch Co",
+ "website": "https://www.wolfcreekwatchco.com",
+ "crawledAt": "2026-11-01T08:55:05.348Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5ec57c55925da34feac2efce/1590525408712-MUEFL5RYX04TCUON7NRR/WolfCreekWatchCo_PrimaryLogo_White.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.wolfcreekwatchco.com/"
+ },
+ "attribution": "Images © Wolf Creek Watch Co, from wolfcreekwatchco.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0615/leather-watch-travel-case",
+   "name": "Leather Watch Travel Case",
+   "url": "https://www.wolfcreekwatchco.com/shop/p/leather-watch-travel-case",
+   "image": {
+    "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/5ef622a695a469267629f83e/6251118ca8a0b76c129f5a3f/1649480120747/WC-Mahogany-Case.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/5ef622a695a469267629f83e/6251118ca8a0b76c129f5a3f/1649480120747/WC-Mahogany-Case.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Handcrafted mahogany leather watch travel case with cream stitching and gold-embossed Wolf Creek Watch Co. logo. Made by hand in St. Paul in collaboration with Leather Works Minnesota.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:55:05.348Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:05.348Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0615/shop"
+   ],
+   "hash": "c5f2151e272afcc5"
+  },
+  {
+   "id": "BRD-0615/voyageur-mechanical-in-bronze",
+   "name": "Voyageur Mechanical in Bronze",
+   "url": "https://www.wolfcreekwatchco.com/shop/p/voyageur-mechanical-in-bronze",
+   "image": {
+    "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/5ef622a695a469267629f83e/5fe253830c07394fddf6f58e/1787765607027/WolfCreekFinal-Watch-Web.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/5ef622a695a469267629f83e/5fe253830c07394fddf6f58e/1787765607027/WolfCreekFinal-Watch-Web.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Voyageur Mechanical Specifications CuSn8 Bronze Case 316L Stainless Steel Case Back ETA 2801 Movement with 42 Hour Power Reserve 38mm Wide Case 43mm Lug to Lug 20mm Lug Width 11mm Height (Including Crystal) Domed Sapphire Crystal with Inner AR Coating Dark Green Matte Dial BGW9 Number and Arrow Markings BGW9 Printed Hour, Minute, and Second Hands DOWNLOAD WINDING INSTRUCTIONS",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 11,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2801",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Leather Strap Length": "with Regular (190mm) Leather Strap with Large (210mm) Leather Strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:55:05.348Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:05.348Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0615/voyageur-mechanical",
+    "BRD-0615/shop",
+    "BRD-0615/voyageur-mechanical-2",
+    "BRD-0615/watches"
+   ],
+   "hash": "3dbb3f68389f9a30"
+  },
+  {
+   "id": "BRD-0615/north-star",
+   "name": "North Star Automatic in Stainless Steel",
+   "url": "https://www.wolfcreekwatchco.com/shop/p/north-star",
+   "image": {
+    "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/5ef622a695a469267629f83e/630fdabc49ad0164db5c9a48/1787813725861/WCWC-NorthStar-Black.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/5ef622a695a469267629f83e/630fdabc49ad0164db5c9a48/1787813725861/WCWC-NorthStar-Black.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 140000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "North Star Automatic Specifications 316L Stainless Steel, Anti-Shock and Anti-magnetic Case Sellita 300-1, Top Grade Movement with 56 Hour Power Reserve Water Resistance to 20 BAR 38mm Wide Case 43mm Lug to Lug 20mm Lug Width 12mm Height (Including Crystal) Domed Sapphire Crystal with Inner AR Coating Dark Black Dial with BGW9 Applied to Numerals, Arrows, and Hands or Dark Blue Dial with Light Old Lume Applied to Numerals, Arrows, and Hands 20mm Stainless Steel Bracelet with 2mm Taper and Deployant Clasp DOWNLOAD WINDING INSTRUCTIONS",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 12,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Color": "Dark Black Dark Blue"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:55:05.348Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:05.348Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0615/shop",
+    "BRD-0615/watches"
+   ],
+   "hash": "89059d7b4c5ab0c9"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0615/voyageur-mechanical",
+   "name": "Services 2",
+   "url": "https://www.wolfcreekwatchco.com/watches/voyageur-mechanical",
+   "description": null,
+   "image": {
+    "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/t/5f2086e29495e60a52a78245/1595967239066/Homepage-FullWatch.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0615/shop",
+   "name": "Shop",
+   "url": "https://www.wolfcreekwatchco.com/shop",
+   "description": null,
+   "image": {
+    "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/t/5f2086e29495e60a52a78245/1595967239066/Homepage-FullWatch.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0615/voyageur-mechanical-2",
+   "name": "Services 2",
+   "url": "https://www.wolfcreekwatchco.com/watches/voyageur-mechanical",
+   "description": null,
+   "image": {
+    "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/t/5f2086e29495e60a52a78245/1595967239066/Homepage-FullWatch.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0615/watches",
+   "name": "Watches",
+   "url": "https://www.wolfcreekwatchco.com/shop/watches",
+   "description": null,
+   "image": {
+    "url": "http://static1.squarespace.com/static/5ec57c55925da34feac2efce/t/5f2086e29495e60a52a78245/1595967239066/Homepage-FullWatch.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

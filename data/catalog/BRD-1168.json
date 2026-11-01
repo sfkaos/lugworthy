@@ -1,0 +1,1578 @@
+{
+ "brandId": "BRD-1168",
+ "brandName": "Nadir",
+ "website": "https://nadirwatches.com",
+ "crawledAt": "2026-11-01T08:02:37.834Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://nadirwatches.com/cdn/shop/files/NadirLogoHorizontal.svg?v=1704496861",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://nadirwatches.com/"
+ },
+ "attribution": "Images © Nadir, from nadirwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1168/vespera-gmt-dark-en",
+   "name": "Vespera GMT Dark",
+   "url": "https://nadirwatches.com/products/vespera-gmt-dark-en",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT08LQresized.jpg?v=1773849077",
+    "width": 2500,
+    "height": 3125
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT08LQresized.jpg?v=1773849077",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT08LLQresized.jpg?v=1773849077",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT06LQ.jpg?v=1773849077",
+     "width": 3125,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT03LQ.jpg?v=1773849077",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT16LQ.jpg?v=1773954641",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT11LQ.jpg?v=1773954641",
+     "width": 2500,
+     "height": 3462
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB01.jpg?v=1773954656",
+     "width": 2989,
+     "height": 2391
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB02.jpg?v=1773954656",
+     "width": 4128,
+     "height": 2752
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB07.jpg?v=1773954656",
+     "width": 3235,
+     "height": 2588
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB03.jpg?v=1773954656",
+     "width": 3350,
+     "height": 2680
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB04.jpg?v=1773954656",
+     "width": 3310,
+     "height": 2648
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT22LQ.jpg?v=1777886905",
+     "width": 2500,
+     "height": 3125
+    }
+   ],
+   "priceMinor": 67900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Nadir Vespera GMT is ready for adventure - whether you're exploring remote trails, navigating city streets, or riding far beyond the map. Its black dial with a subtle brushing ensures high readability in all light conditions, while the GMT function keeps you grounded in multiple time zones at once. The \"diamond-like\" coated case makes it more scratch-resistant than regular steel. Each piece is individually numbered and part of a strictly limited run of only 50 units . As an extra , Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you. Can be paired with: hand-crafted Italian leather strap FKM rubber strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "GMT",
+    "new",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian leather",
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian leather",
+     "sku": "VGMTS1BCK",
+     "priceMinor": 68900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Italian leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VGMTS1BCK-2",
+     "priceMinor": 67900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 47,
+    "thicknessMm": 13.1,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "As an extra": ", Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you.",
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9075 Japanese Automatic Movement with GMT function. Self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "316L Stainless Steel",
+    "Crown": "Single crown, screw-down with embossed Nadir logo",
+    "Bezel": "with 24-hour markings",
+    "Dial": "Brushed dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9 and CW3 (on GMT hand)",
+    "Crystal": "Domed Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "200m (660ft) / 20ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Black leather watch roll": "(space for 3 watches)",
+    "Dimensions Case": "42 mm Case thickness: 13,1 mm Lug to lug: 47 mm Lug width: 22 mm",
+    "Case thickness": "13,1 mm",
+    "Lug to lug": "47 mm",
+    "Lug width": "22 mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Miyota 9075": "The 24-hour hand keeps track of your home time, while the jumping hour lets you instantly set the local time whenever you cross into a new zone. All of this is achieved through a single screw-down crown, making it simple, reliable, and ready for any journey.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities.",
+    "Exchange rate fluctuations": "currency values change daily, and our system updates automatically.",
+    "Rounding adjustments": "small differences may appear to keep prices clear and consistent.",
+    "Yes - our watches are designed as tools": "durable, reliable, and ready for outdoor adventures while still fitting seamlessly into everyday use.",
+    "True GMT": "best for travelling across time zones",
+    "Caller GMT": "best for tracking another time zone from home",
+    "You can read more about the difference here": "Our blog post about a True GMT"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-gmt"
+   ],
+   "hash": "c3201a17f9ff8e45"
+  },
+  {
+   "id": "BRD-1168/vespera-gmt-ember",
+   "name": "Vespera GMT Ember",
+   "url": "https://nadirwatches.com/products/vespera-gmt-ember",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT10TESTLQ.jpg?v=1773851994",
+    "width": 2500,
+    "height": 3125
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT10TESTLQ.jpg?v=1773851994",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT10TESTLUMALQ.jpg?v=1773852346",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT05LQ.jpg?v=1773852346",
+     "width": 3125,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT09LQ.jpg?v=1773852346",
+     "width": 2500,
+     "height": 3462
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT15LQ.jpg?v=1773954555",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT13LQ.jpg?v=1773954555",
+     "width": 2500,
+     "height": 3461
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT21.jpg?v=1773954621",
+     "width": 4024,
+     "height": 5030
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT20.jpg?v=1773954621",
+     "width": 6048,
+     "height": 4024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB01.jpg?v=1773954656",
+     "width": 2989,
+     "height": 2391
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB02.jpg?v=1773954656",
+     "width": 4128,
+     "height": 2752
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB07.jpg?v=1773954656",
+     "width": 3235,
+     "height": 2588
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB03.jpg?v=1773954656",
+     "width": 3350,
+     "height": 2680
+    }
+   ],
+   "priceMinor": 66900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Nadir Vespera GMT is ready for adventure - whether you're exploring remote trails, navigating city streets, or riding far beyond the map. Its black and orange dial ensures high readability in all light conditions, while the GMT function keeps you grounded in multiple time zones at once. Each piece is individually numbered and part of a strictly limited run of only 50 units . As an extra , Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you. Can be paired with: hand-crafted Italian leather strap FKM rubber strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "GMT",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian leather",
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian leather",
+     "sku": "VGMTS1ORN",
+     "priceMinor": 67900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Italian leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VGMTS1ORN-2",
+     "priceMinor": 66900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 47,
+    "thicknessMm": 13.1,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "As an extra": ", Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you.",
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9075 Japanese Automatic Movement with GMT function. Self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "316L Stainless Steel",
+    "Crown": "Single crown, screw-down with embossed Nadir logo",
+    "Bezel": "with 24-hour markings",
+    "Dial": "Brushed dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9 and CW3 (on GMT hand)",
+    "Crystal": "Domed Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "200m (660ft) / 20ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Black leather watch roll": "(space for 3 watches)",
+    "Dimensions Case": "42 mm Case thickness: 13,1 mm Lug to lug: 47 mm Lug width: 22 mm",
+    "Case thickness": "13,1 mm",
+    "Lug to lug": "47 mm",
+    "Lug width": "22 mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Miyota 9075": "The 24-hour hand keeps track of your home time, while the jumping hour lets you instantly set the local time whenever you cross into a new zone. All of this is achieved through a single screw-down crown, making it simple, reliable, and ready for any journey.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities.",
+    "Exchange rate fluctuations": "currency values change daily, and our system updates automatically.",
+    "Rounding adjustments": "small differences may appear to keep prices clear and consistent.",
+    "Yes - our watches are designed as tools": "durable, reliable, and ready for outdoor adventures while still fitting seamlessly into everyday use.",
+    "True GMT": "best for travelling across time zones",
+    "Caller GMT": "best for tracking another time zone from home",
+    "You can read more about the difference here": "Our blog post about a True GMT"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-gmt"
+   ],
+   "hash": "61bcd542aacebde4"
+  },
+  {
+   "id": "BRD-1168/vespera-gmt-glaciale",
+   "name": "Vespera GMT Glaciale",
+   "url": "https://nadirwatches.com/products/vespera-gmt-glaciale",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT07TEST.jpg?v=1773851183",
+    "width": 2500,
+    "height": 3125
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT07TEST.jpg?v=1773851183",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT07TESTLUMA.jpg?v=1773851395",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT04LQ.jpg?v=1773851395",
+     "width": 3125,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT02LQ.jpg?v=1773851395",
+     "width": 2500,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT14LQ.jpg?v=1773954621",
+     "width": 2500,
+     "height": 3126
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT12LQ.jpg?v=1773954621",
+     "width": 2500,
+     "height": 3461
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT21.jpg?v=1773954621",
+     "width": 4024,
+     "height": 5030
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT20.jpg?v=1773954621",
+     "width": 6048,
+     "height": 4024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB01.jpg?v=1773954656",
+     "width": 2989,
+     "height": 2391
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB02.jpg?v=1773954656",
+     "width": 4128,
+     "height": 2752
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB07.jpg?v=1773954656",
+     "width": 3235,
+     "height": 2588
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB03.jpg?v=1773954656",
+     "width": 3350,
+     "height": 2680
+    }
+   ],
+   "priceMinor": 66900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Nadir Vespera GMT Glaciale is a versatile tool watch for those who value subtle design and dependable function. The silver dial features a fine circular brushing that catches the light without overpowering, combined with characteristic blue accents . Equipped with a true GMT function , it keeps a second time zone within reach, whether you're crossing borders or planning your next move. Each piece is individually numbered and part of a strictly limited run of only 50 units . As an extra , Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you. Can be paired with: hand-crafted Italian leather strap FKM rubber strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "GMT",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian leather",
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian leather",
+     "sku": "VGMTS1BLU",
+     "priceMinor": 67900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Italian leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VGMTS1BLU-2",
+     "priceMinor": 66900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 47,
+    "thicknessMm": 13.1,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "As an extra": ", Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you.",
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9075 Japanese Automatic Movement with GMT function. Self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "316L Stainless Steel",
+    "Crown": "Single crown, screw-down with embossed Nadir logo",
+    "Bezel": "with 24-hour markings",
+    "Dial": "Brushed dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9 and CW3 (on GMT hand)",
+    "Crystal": "Domed Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "200m (660ft) / 20ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Black leather watch roll": "(space for 3 watches)",
+    "Dimensions Case": "42 mm Case thickness: 13,1 mm Lug to lug: 47 mm Lug width: 22 mm",
+    "Case thickness": "13,1 mm",
+    "Lug to lug": "47 mm",
+    "Lug width": "22 mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Miyota 9075": "The 24-hour hand keeps track of your home time, while the jumping hour lets you instantly set the local time whenever you cross into a new zone. All of this is achieved through a single screw-down crown, making it simple, reliable, and ready for any journey.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities.",
+    "Exchange rate fluctuations": "currency values change daily, and our system updates automatically.",
+    "Rounding adjustments": "small differences may appear to keep prices clear and consistent.",
+    "Yes - our watches are designed as tools": "durable, reliable, and ready for outdoor adventures while still fitting seamlessly into everyday use.",
+    "True GMT": "best for travelling across time zones",
+    "Caller GMT": "best for tracking another time zone from home",
+    "You can read more about the difference here": "Our blog post about a True GMT"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-gmt"
+   ],
+   "hash": "63a818335eb03700"
+  },
+  {
+   "id": "BRD-1168/nadir-vespera-gmt-silver",
+   "name": "Vespera GMT Silver",
+   "url": "https://nadirwatches.com/products/nadir-vespera-gmt-silver",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT13b_74a63879-afcf-4edf-9b15-3f380fd9f00b.jpg?v=1754503032",
+    "width": 3884,
+    "height": 4856
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT13b_74a63879-afcf-4edf-9b15-3f380fd9f00b.jpg?v=1754503032",
+     "width": 3884,
+     "height": 4856
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT13Lb_1.jpg?v=1754503032",
+     "width": 3884,
+     "height": 4856
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT19.jpg?v=1754503032",
+     "width": 4024,
+     "height": 6048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT24.jpg?v=1754503032",
+     "width": 3188,
+     "height": 3985
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT25.jpg?v=1773954570",
+     "width": 3712,
+     "height": 4640
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT10.jpg?v=1773954570",
+     "width": 4024,
+     "height": 6048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT21_9d9b0704-46f4-4387-8d62-5355e40c4717.jpg?v=1773954570",
+     "width": 4024,
+     "height": 5030
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT20_34a0fde3-7ec5-41b7-97cc-2c0a65ba85eb.jpg?v=1757340302",
+     "width": 6048,
+     "height": 4024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT16.jpg?v=1757340302",
+     "width": 6048,
+     "height": 4024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB02.jpg?v=1773954656",
+     "width": 4128,
+     "height": 2752
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB01.jpg?v=1773954656",
+     "width": 2989,
+     "height": 2391
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB03.jpg?v=1773954656",
+     "width": 3350,
+     "height": 2680
+    }
+   ],
+   "priceMinor": 66900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Nadir Vespera GMT Silver is a clean and versatile tool watch for those who value subtle design and dependable function. The silver dial features a fine circular brushing that catches the light without overpowering, combined with a printed, minimalistic logo that keeps the design focused and distraction-free. Equipped with a true GMT function , it keeps a second time zone within reach, whether you're crossing borders or planning your next move. Each piece is individually numbered and part of a strictly limited run of only 50 units . As an extra , Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you. Can be paired with: hand-crafted Italian leather strap FKM rubber strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "GMT",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian leather",
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian leather",
+     "sku": "VGMTS1SVR",
+     "priceMinor": 67900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Italian leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VGMTS1SVR-2",
+     "priceMinor": 66900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 47,
+    "thicknessMm": 13.1,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "As an extra": ", Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you.",
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9075 Japanese Automatic Movement with GMT function. Self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "316L Stainless Steel",
+    "Crown": "Single crown, screw-down with embossed Nadir logo",
+    "Bezel": "with 24-hour markings",
+    "Dial": "Brushed dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9 and CW3 (on GMT hand)",
+    "Crystal": "Domed Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "200m (660ft) / 20ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Black leather watch roll": "(space for 3 watches)",
+    "Dimensions Case": "42 mm Case thickness: 13,1 mm Lug to lug: 47 mm Lug width: 22 mm",
+    "Case thickness": "13,1 mm",
+    "Lug to lug": "47 mm",
+    "Lug width": "22 mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Miyota 9075": "The 24-hour hand keeps track of your home time, while the jumping hour lets you instantly set the local time whenever you cross into a new zone. All of this is achieved through a single screw-down crown, making it simple, reliable, and ready for any journey.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities.",
+    "Exchange rate fluctuations": "currency values change daily, and our system updates automatically.",
+    "Rounding adjustments": "small differences may appear to keep prices clear and consistent.",
+    "Yes - our watches are designed as tools": "durable, reliable, and ready for outdoor adventures while still fitting seamlessly into everyday use.",
+    "True GMT": "best for travelling across time zones",
+    "Caller GMT": "best for tracking another time zone from home",
+    "You can read more about the difference here": "Our blog post about a True GMT"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-gmt"
+   ],
+   "hash": "4e69598aa16c831e"
+  },
+  {
+   "id": "BRD-1168/nadir-vespera-gmt-green",
+   "name": "Vespera GMT Green",
+   "url": "https://nadirwatches.com/products/nadir-vespera-gmt-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT12a.jpg?v=1751027870",
+    "width": 3684,
+    "height": 4605
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT12a.jpg?v=1751027870",
+     "width": 3684,
+     "height": 4605
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT12La.jpg?v=1751027870",
+     "width": 3684,
+     "height": 4605
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT17.jpg?v=1751027870",
+     "width": 4024,
+     "height": 6048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT23a.jpg?v=1757340318",
+     "width": 3138,
+     "height": 3922
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT26.jpg?v=1773954586",
+     "width": 3712,
+     "height": 4640
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT08.jpg?v=1773954586",
+     "width": 4024,
+     "height": 6048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT21_ca523005-3109-47b2-914c-0080d9cf0651.jpg?v=1773954586",
+     "width": 4024,
+     "height": 5030
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT20_02c512fa-4198-4d98-bed5-2db36ec09cea.jpg?v=1757340318",
+     "width": 6048,
+     "height": 4024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT14.jpg?v=1757340318",
+     "width": 6048,
+     "height": 4024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB02.jpg?v=1773954656",
+     "width": 4128,
+     "height": 2752
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB01.jpg?v=1773954656",
+     "width": 2989,
+     "height": 2391
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB03.jpg?v=1773954656",
+     "width": 3350,
+     "height": 2680
+    }
+   ],
+   "priceMinor": 66900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Nadir Vespera GMT is ready for adventure - whether you're exploring remote trails, navigating city streets, or riding far beyond the map. Its black and green dial is both clean and eyecatching, offering excellent readability and a distinct look that stands out without shouting, while the GMT function keeps you grounded in multiple time zones at once. Each piece is individually numbered and part of a strictly limited run of only 50 units . As an extra , Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you. Can be paired with: hand-crafted Italian leather strap FKM rubber strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "GMT",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian leather",
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian leather",
+     "sku": "VGMTS1GRN",
+     "priceMinor": 67900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Italian leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VGMTS1GRN-2",
+     "priceMinor": 66900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 47,
+    "thicknessMm": 13.1,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "As an extra": ", Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you.",
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9075 Japanese Automatic Movement with GMT function. Self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "316L Stainless Steel",
+    "Crown": "Single crown, screw-down with embossed Nadir logo",
+    "Bezel": "with 24-hour markings",
+    "Dial": "Brushed dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9 and CW3 (on GMT hand)",
+    "Crystal": "Domed Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "200m (660ft) / 20ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Black leather watch roll": "(space for 3 watches)",
+    "Dimensions Case": "42 mm Case thickness: 13,1 mm Lug to lug: 47 mm Lug width: 22 mm",
+    "Case thickness": "13,1 mm",
+    "Lug to lug": "47 mm",
+    "Lug width": "22 mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Miyota 9075": "The 24-hour hand keeps track of your home time, while the jumping hour lets you instantly set the local time whenever you cross into a new zone. All of this is achieved through a single screw-down crown, making it simple, reliable, and ready for any journey.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities.",
+    "Exchange rate fluctuations": "currency values change daily, and our system updates automatically.",
+    "Rounding adjustments": "small differences may appear to keep prices clear and consistent.",
+    "Yes - our watches are designed as tools": "durable, reliable, and ready for outdoor adventures while still fitting seamlessly into everyday use.",
+    "True GMT": "best for travelling across time zones",
+    "Caller GMT": "best for tracking another time zone from home",
+    "You can read more about the difference here": "Our blog post about a True GMT"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-gmt"
+   ],
+   "hash": "f77b12b5886d0f75"
+  },
+  {
+   "id": "BRD-1168/nadir-vespera-gmt-yellow",
+   "name": "Vespera GMT Yellow",
+   "url": "https://nadirwatches.com/products/nadir-vespera-gmt-yellow",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT11a.jpg?v=1751021857",
+    "width": 3666,
+    "height": 4584
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT11a.jpg?v=1751021857",
+     "width": 3666,
+     "height": 4584
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT11La.jpg?v=1751021859",
+     "width": 3666,
+     "height": 4584
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT18.jpg?v=1757340328",
+     "width": 4024,
+     "height": 6048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT22.jpg?v=1757340328",
+     "width": 3208,
+     "height": 4010
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT27.jpg?v=1773954599",
+     "width": 3812,
+     "height": 4766
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT09.jpg?v=1773954599",
+     "width": 4024,
+     "height": 6048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT21.jpg?v=1773954621",
+     "width": 4024,
+     "height": 5030
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT20.jpg?v=1773954621",
+     "width": 6048,
+     "height": 4024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NVGMT15.jpg?v=1757340328",
+     "width": 6048,
+     "height": 4024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB02.jpg?v=1773954656",
+     "width": 4128,
+     "height": 2752
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB01.jpg?v=1773954656",
+     "width": 2989,
+     "height": 2391
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NB03.jpg?v=1773954656",
+     "width": 3350,
+     "height": 2680
+    }
+   ],
+   "priceMinor": 66900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Nadir Vespera GMT is ready for adventure - whether you're exploring remote trails, navigating city streets, or riding far beyond the map. Its black and yellow dial ensures high readability in all light conditions, while the GMT function keeps you grounded in multiple time zones at once. Each piece is individually numbered and part of a strictly limited run of only 50 units . As an extra , Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you. Can be paired with: hand-crafted Italian leather strap FKM rubber strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "GMT",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian leather",
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian leather",
+     "sku": "VGMTS1YEL",
+     "priceMinor": 67900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Italian leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VGMTS1YEL-2",
+     "priceMinor": 66900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 47,
+    "thicknessMm": 13.1,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "As an extra": ", Vespera GMT also includes a black leather watch roll in the box, so you can carry it safely wherever your journey takes you.",
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9075 Japanese Automatic Movement with GMT function. Self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "316L Stainless Steel",
+    "Crown": "Single crown, screw-down with embossed Nadir logo",
+    "Bezel": "with 24-hour markings",
+    "Dial": "Brushed dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9 and CW3 (on GMT hand)",
+    "Crystal": "Domed Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "200m (660ft) / 20ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Black leather watch roll": "(space for 3 watches)",
+    "Dimensions Case": "42 mm Case thickness: 13,1 mm Lug to lug: 47 mm Lug width: 22 mm",
+    "Case thickness": "13,1 mm",
+    "Lug to lug": "47 mm",
+    "Lug width": "22 mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Miyota 9075": "The 24-hour hand keeps track of your home time, while the jumping hour lets you instantly set the local time whenever you cross into a new zone. All of this is achieved through a single screw-down crown, making it simple, reliable, and ready for any journey.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities.",
+    "Exchange rate fluctuations": "currency values change daily, and our system updates automatically.",
+    "Rounding adjustments": "small differences may appear to keep prices clear and consistent.",
+    "Yes - our watches are designed as tools": "durable, reliable, and ready for outdoor adventures while still fitting seamlessly into everyday use.",
+    "True GMT": "best for travelling across time zones",
+    "Caller GMT": "best for tracking another time zone from home",
+    "You can read more about the difference here": "Our blog post about a True GMT"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-gmt"
+   ],
+   "hash": "bafc9a3c256dedd8"
+  },
+  {
+   "id": "BRD-1168/nadir-vespera-grey",
+   "name": "Vespera Grey",
+   "url": "https://nadirwatches.com/products/nadir-vespera-grey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaGreyfront.jpg?v=1704496341",
+    "width": 2333,
+    "height": 3500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaGreyfront.jpg?v=1704496341",
+     "width": 2333,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaGreyLume.jpg?v=1704496432",
+     "width": 2333,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N12.jpg?v=1711314310",
+     "width": 3615,
+     "height": 4518
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N16.jpg?v=1711314310",
+     "width": 3421,
+     "height": 4276
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaGreyDial.jpg?v=1711314310",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaGreyFlat.jpg?v=1711314310",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaGreyLugs.jpg?v=1711314310",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaGreyCrowns.jpg?v=1711314310",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaGreyBackcover.jpg?v=1711314310",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N38.jpg?v=1717174080",
+     "width": 3890,
+     "height": 4862
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N39.jpg?v=1717174080",
+     "width": 4024,
+     "height": 5030
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N36.jpg?v=1717174080",
+     "width": 3762,
+     "height": 4702
+    }
+   ],
+   "priceMinor": 50200,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Nadir Vespera is ready for adventure . It's the ideal automatic watch for all outdoor activities, whether hiking, off-roading, or riding a motorcycle. Experience the perfect balance of practicality and timeless elegance with this timepiece, which will surely become a reliable companion for all your adventures, thanks to our unique: compressor-style dual-time feature. Limited to 100 pieces , each uniquely numbered on the case back. Can be paired with: hand-crafted Italian leather strap red FKM rubber strap grey seatbelt strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian Leather",
+      "FKM Rubber",
+      "Seatbelt"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian Leather",
+     "sku": "VESS1GRE-1",
+     "priceMinor": 51300,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Italian Leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VESS1GRE-2",
+     "priceMinor": 50200,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber"
+     ]
+    },
+    {
+     "title": "Seatbelt",
+     "sku": "VESS1GRE-3",
+     "priceMinor": 50200,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Seatbelt"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12.3,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_904l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9015 Japanese Automatic Movement with self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "904L Stainless Steel",
+    "Crowns": "Dual crown, lower is screw-down with embossed Nadir logo",
+    "Bezel": "Inner rotating bi-directional",
+    "Dial": "Matte dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9",
+    "Lens": "Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "100m (330ft) / 10ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Dimensions Case": "42mm Case thickness: 12,3 mm Lug width: 20mm Lug to lug: 47mm Leather strap fits min. 17cm/6,7in wrist size* *- For smaller wrists, reach out to us. We'll provide a shorter strap that fits - in additional 1-2 days.",
+    "Case thickness": "12,3 mm",
+    "Lug width": "20mm",
+    "Lug to lug": "47mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-automatic"
+   ],
+   "hash": "00d6ae24ea027f36"
+  },
+  {
+   "id": "BRD-1168/nadir-vespera-blue",
+   "name": "Vespera Blue",
+   "url": "https://nadirwatches.com/products/nadir-vespera-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlueFront.jpg?v=1704496640",
+    "width": 2333,
+    "height": 3500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlueFront.jpg?v=1704496640",
+     "width": 2333,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlueLume.jpg?v=1704496623",
+     "width": 2333,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N10.jpg?v=1711314280",
+     "width": 3051,
+     "height": 3813
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N17.jpg?v=1711314280",
+     "width": 3342,
+     "height": 4178
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlueDial.jpg?v=1711314280",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlueFlat.jpg?v=1711314280",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlueLugs.jpg?v=1711314280",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlueCrowns.jpg?v=1711314280",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlueBackcover.jpg?v=1711314280",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N26.jpg?v=1717174359",
+     "width": 3817,
+     "height": 4771
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N27.jpg?v=1717174359",
+     "width": 3703,
+     "height": 4630
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N24_20fe28ff-169f-4e74-a87a-42a95ec34786.jpg?v=1717174359",
+     "width": 3764,
+     "height": 4706
+    }
+   ],
+   "priceMinor": 50200,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Nadir Vespera is ready for adventure . It's the ideal automatic watch for all outdoor activities, whether hiking, off-roading, or riding a motorcycle. Experience the perfect balance of practicality and timeless elegance with this timepiece, which will surely become a reliable companion for all your adventures, thanks to our unique: compressor-style dual-time feature. Limited to 100 pieces , each uniquely numbered on the case back. Can be paired with: hand-crafted Italian leather strap blue FKM rubber strap blue seatbelt strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian Leather",
+      "FKM Rubber",
+      "Seatbelt"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian Leather",
+     "sku": "VESS1BLU-1",
+     "priceMinor": 51300,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Italian Leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VESS1BLU-2",
+     "priceMinor": 50200,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber"
+     ]
+    },
+    {
+     "title": "Seatbelt",
+     "sku": "VESS1BLU-3",
+     "priceMinor": 50200,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Seatbelt"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12.3,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_904l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9015 Japanese Automatic Movement with self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "904L Stainless Steel",
+    "Crowns": "Dual crown, lower is screw-down with embossed Nadir logo",
+    "Bezel": "Inner rotating bi-directional",
+    "Dial": "Matte dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9",
+    "Lens": "Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "100m (330ft) / 10ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Dimensions Case": "42mm Case thickness: 12,3 mm Lug width: 20mm Lug to lug: 47mm Leather strap fits min. 17cm/6,7in wrist size* *- For smaller wrists, reach out to us. We'll provide a shorter strap that fits - in additional 1-2 days.",
+    "Case thickness": "12,3 mm",
+    "Lug width": "20mm",
+    "Lug to lug": "47mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-automatic"
+   ],
+   "hash": "7e817a46d7c634b6"
+  },
+  {
+   "id": "BRD-1168/nadir-vespera-blk",
+   "name": "Vespera Black",
+   "url": "https://nadirwatches.com/products/nadir-vespera-blk",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlackFront.jpg?v=1704496176",
+    "width": 2333,
+    "height": 3500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlackFront.jpg?v=1704496176",
+     "width": 2333,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlackLume.jpg?v=1704496160",
+     "width": 2333,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N11.jpg?v=1711314193",
+     "width": 2849,
+     "height": 3561
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N18.jpg?v=1711314193",
+     "width": 2964,
+     "height": 3705
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlackDial.jpg?v=1711314193",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlackFlat.jpg?v=1711314193",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlackLugs.jpg?v=1711314193",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlackCrowns.jpg?v=1711314193",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/NadirVesperaBlackBackcover.jpg?v=1711314193",
+     "width": 3500,
+     "height": 2333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N30_f5efbf77-02d5-46e6-a947-2bdd657b448d.jpg?v=1716926751",
+     "width": 3887,
+     "height": 4858
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N31_17a5bf6c-c7b0-44d3-ae7b-07fcd9eedafd.jpg?v=1716926750",
+     "width": 3854,
+     "height": 4816
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0778/0152/1489/files/N32_9453289f-ca41-44c3-8aef-7a7d5a75d590.jpg?v=1717174458",
+     "width": 3794,
+     "height": 4742
+    }
+   ],
+   "priceMinor": 50200,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Nadir Vespera is ready for adventure . It's the ideal automatic watch for all outdoor activities, whether hiking, off-roading, or riding a motorcycle. Experience the perfect balance of practicality and timeless elegance with this timepiece, which will surely become a reliable companion for all your adventures, thanks to our unique: compressor-style dual-time feature. Limited to 100 pieces , each uniquely numbered on the case back. Can be paired with: hand-crafted Italian leather strap orange FKM rubber strap black/orange seatbelt strap",
+   "productType": "Wristwatch: Steelcase, Automatic, Leather strap",
+   "tags": [
+    "Automatic",
+    "Dual Time",
+    "Vespera"
+   ],
+   "options": [
+    {
+     "name": "Strap option",
+     "values": [
+      "Italian Leather",
+      "FKM Rubber",
+      "Seatbelt"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Italian Leather",
+     "sku": "VESS1BLK-1",
+     "priceMinor": 51300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Italian Leather"
+     ]
+    },
+    {
+     "title": "FKM Rubber",
+     "sku": "VESS1BLK-2",
+     "priceMinor": 50200,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "FKM Rubber"
+     ]
+    },
+    {
+     "title": "Seatbelt",
+     "sku": "VESS1BLK-3",
+     "priceMinor": 50200,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Seatbelt"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12.3,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_904l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "hand-crafted Italian leather": "strap",
+    "Movement": "Miyota 9015 Japanese Automatic Movement with self-winding and hacking mechanism, 28800bph and 42-hour power reserve",
+    "Case": "904L Stainless Steel",
+    "Crowns": "Dual crown, lower is screw-down with embossed Nadir logo",
+    "Bezel": "Inner rotating bi-directional",
+    "Dial": "Matte dial with Super-LumiNova BGW9",
+    "Hands": "Polish/matte decorated hands with Super-LumiNova BGW9",
+    "Lens": "Sapphire crystal with 4 layers of anti-reflective coating",
+    "Case Back": "Screw-down stainless steel case-back with embossed pattern and a serial number",
+    "Water Resistance": "100m (330ft) / 10ATM",
+    "Hand-made": "with Italian Pueblo leather: Badalassi Carlo (sourced in Tuscany) with quick-release",
+    "FKM Rubber": "with quick-release",
+    "Dimensions Case": "42mm Case thickness: 12,3 mm Lug width: 20mm Lug to lug: 47mm Leather strap fits min. 17cm/6,7in wrist size* *- For smaller wrists, reach out to us. We'll provide a shorter strap that fits - in additional 1-2 days.",
+    "Case thickness": "12,3 mm",
+    "Lug width": "20mm",
+    "Lug to lug": "47mm",
+    "Note to EU customers": "All prices are shown including VAT. No extra fees (taxes/duties/customs) are required.",
+    "Non-EU customers": "Tax is included on EU orders only. VAT is not included in the price. Local customs fees and taxes may apply.",
+    "Vespera": "means \"evening\" in Latin. The intention of naming a tool watch \"Vespera\" is to evoke a sense of adventure, transition, and timeless exploration. It adds a symbolic layer to the watch, inviting wearers to embrace the journey that unfolds as they venture into their own adventures or daily activities."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:02:37.834Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:02:37.834Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1168/vespera-automatic"
+   ],
+   "hash": "61127e6f46c315c7"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1168/vespera-automatic",
+   "name": "Vespera",
+   "url": "https://nadirwatches.com/collections/vespera-automatic",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1168/vespera-gmt",
+   "name": "Vespera GMT",
+   "url": "https://nadirwatches.com/collections/vespera-gmt",
+   "description": null,
+   "image": null
+  }
+ ]
+}

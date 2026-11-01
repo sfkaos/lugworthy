@@ -1,0 +1,1452 @@
+{
+ "brandId": "BRD-0616",
+ "brandName": "Wren",
+ "website": "https://wrenwatches.com",
+ "crawledAt": "2026-11-01T08:55:42.872Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://wrenwatches.com/cdn/shop/files/wren-removebg-preview.png?v=1752480419",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://wrenwatches.com/"
+ },
+ "attribution": "Images © Wren, from wrenwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0616/diver-38-crimson",
+   "name": "Diver 38 Crimson",
+   "url": "https://wrenwatches.com/products/diver-38-crimson",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Crimson_Time_Tide_Soldier.png?v=1791288283",
+    "width": 1500,
+    "height": 2002
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Crimson_Time_Tide_Soldier.png?v=1791288283",
+     "width": 1500,
+     "height": 2002
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Crimson_Red_Rubber_Soldier.png?v=1791288282",
+     "width": 1086,
+     "height": 1449
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Crimson_Black_Rubber_Soldier_1.png?v=1791288282",
+     "width": 1086,
+     "height": 1449
+    }
+   ],
+   "priceMinor": 159500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Seafoam green gradient dial on Wren's slimmest diver: 38mm, 10.7mm thick, 200m, bezel scale lumed end to end, display caseback, micro-adjust clasp. Sellita SW300-1, $1,595. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver 38"
+   ],
+   "options": [
+    {
+     "name": "Dial Options",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Date",
+     "sku": "SQ3808175",
+     "priceMinor": 159500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Date"
+     ]
+    },
+    {
+     "title": "No Date",
+     "sku": null,
+     "priceMinor": 159500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "No Date"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW300-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case shape": "round.",
+    "Dial Options": "Date No Date",
+    "Date or no date": "how to choose"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-38"
+   ],
+   "hash": "905b010c975ac98e"
+  },
+  {
+   "id": "BRD-0616/diver-one-magma",
+   "name": "Diver One Magma",
+   "url": "https://wrenwatches.com/products/diver-one-magma",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Magma_Bracelet_4X5_Soldier.png?v=1791290832",
+    "width": 1500,
+    "height": 1875
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Magma_Bracelet_4X5_Soldier.png?v=1791290832",
+     "width": 1500,
+     "height": 1875
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Magma_Rubber_4X5_Soldier_2.png?v=1791290832",
+     "width": 1500,
+     "height": 1875
+    }
+   ],
+   "priceMinor": 107500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "An orange gradient dial on a 41mm steel diver, made in collaboration with Ben's Watches. Ceramic bezel, 200m, Swiss automatic. Limited edition of 100, sold out. Reviews on the page. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver One"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case shape": "round."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-one"
+   ],
+   "hash": "02f7e1537a74aa78"
+  },
+  {
+   "id": "BRD-0616/diver-one-sand",
+   "name": "Diver One Sand",
+   "url": "https://wrenwatches.com/products/diver-one-sand",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_TRANSPARENT.webp?v=1789388537",
+    "width": 750,
+    "height": 1001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_TRANSPARENT.webp?v=1789388537",
+     "width": 750,
+     "height": 1001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_4X5_Soldier.png?v=1755039306",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_2BDiver_2BOne_2BSand_2B12.jpg?v=1755039306",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_White_strap_11.jpg?v=1755039306",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_4.jpg?v=1755039306",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_3.jpg?v=1755039306",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_2.jpg?v=1755039306",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_3.10.25_4.jpg?v=1755039306",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Sand_8.jpg?v=1755039306",
+     "width": 750,
+     "height": 500
+    }
+   ],
+   "priceMinor": 96500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A sand gradient dial on a 41mm steel diver, warmer than anything else Wren has made. Ceramic bezel, 200m, Swiss automatic. Limited edition of 100, sold out. Reviews on the page. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver One"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case shape": "round."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-one"
+   ],
+   "hash": "51747282653a91c5"
+  },
+  {
+   "id": "BRD-0616/diver-one-aqua",
+   "name": "Diver One Aqua",
+   "url": "https://wrenwatches.com/products/diver-one-aqua",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Aqua_TRANSPARENT_ce9179bd-178b-4fbb-8a40-49dad7e4bed4.webp?v=1789388663",
+    "width": 750,
+    "height": 1001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Aqua_TRANSPARENT_ce9179bd-178b-4fbb-8a40-49dad7e4bed4.webp?v=1789388663",
+     "width": 750,
+     "height": 1001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Aqua_4X5_Soldier.png?v=1755039469",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_1_Wrist_Shot.jpg?v=1755039469",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Aqua_Date_Wrist_4_v4_0795de53-dd86-4fcd-8d5c-fa547706dfa7.jpg?v=1755039469",
+     "width": 2500,
+     "height": 1667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_5.jpg?v=1755039469",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_4_a6d18dce-73aa-4c94-957a-54820e4c779a.jpg?v=1755039469",
+     "width": 750,
+     "height": 499
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_3.jpg?v=1755039469",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_6.jpg?v=1755039469",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Wrist_7.9.jpg?v=1755039469",
+     "width": 2500,
+     "height": 1667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Dom_Web.jpg?v=1755039469",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_for_IG_2.jpg?v=1755039469",
+     "width": 750,
+     "height": 500
+    }
+   ],
+   "priceMinor": 96500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Where Wren began: an aqua gradient dial whose color still returns on new Wrens, on a 41mm steel diver with a ceramic bezel and 200m. Limited edition of 100, sold out. Reviews on the page. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver One"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Where Wren began": "an aqua gradient dial whose color still returns on new Wrens, on a 41mm steel diver with a ceramic bezel and 200m. Limited edition of 100, sold out. Reviews on the page.",
+    "Case shape": "round.",
+    "The original Diver One in teal": "a Swiss automatic diver on a flat link bracelet, with a gradient dial and ceramic bezel."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-one"
+   ],
+   "hash": "d7478052730f8588"
+  },
+  {
+   "id": "BRD-0616/diver-one-snow",
+   "name": "Diver One Snow",
+   "url": "https://wrenwatches.com/products/diver-one-snow",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_TRANSPARENT.webp?v=1789388588",
+    "width": 750,
+    "height": 1001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_TRANSPARENT.webp?v=1789388588",
+     "width": 750,
+     "height": 1001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_4X5_Soldier.png?v=1755039419",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_6.jpg?v=1755039419",
+     "width": 750,
+     "height": 501
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_2_Wide.jpg?v=1755039419",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_7.jpg?v=1755039419",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_4.jpg?v=1755039419",
+     "width": 750,
+     "height": 499
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_11.jpg?v=1755039419",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_10.jpg?v=1755039419",
+     "width": 750,
+     "height": 501
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_14.jpg?v=1755039419",
+     "width": 750,
+     "height": 501
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_4_Wide.jpg?v=1755039419",
+     "width": 750,
+     "height": 500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_8.jpg?v=1755039419",
+     "width": 750,
+     "height": 501
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Snow_9.jpg?v=1755039419",
+     "width": 750,
+     "height": 500
+    }
+   ],
+   "priceMinor": 96500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A white gradient dial on a 41mm steel diver, Wren's first white watch and the start of the Snow line. Ceramic bezel, 200m, Swiss automatic. Limited edition of 100, sold out. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver One"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case shape": "round."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-one"
+   ],
+   "hash": "0b20ff9aae5fc681"
+  },
+  {
+   "id": "BRD-0616/diver-one-titanium-dusk",
+   "name": "Wren Diver One Titanium Dusk",
+   "url": "https://wrenwatches.com/products/diver-one-titanium-dusk",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk.png?v=1791138472",
+    "width": 1200,
+    "height": 1599
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk.png?v=1791138472",
+     "width": 1200,
+     "height": 1599
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_Blue_rubber.png?v=1791138478",
+     "width": 1400,
+     "height": 1866
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_Black_rubber_db95f034-1476-497a-abd9-3e17b0bfdba1.png?v=1791138476",
+     "width": 1200,
+     "height": 1599
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_1_d7e868e1-2ea6-41f2-a333-63a8b46f05d4.webp?v=1789133808",
+     "width": 1500,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_4_17063c2e-34ad-41c0-a4e7-3a3aa2f4932e.webp?v=1789133808",
+     "width": 1500,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_7_c8cc7f0f-3f3c-4d12-a1f5-c493469c2a17.webp?v=1789133809",
+     "width": 1500,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_14_58c599d4-1ef4-4fcd-92f3-9443f9859909.webp?v=1789133854",
+     "width": 1500,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_8_bccffebe-3c91-4189-a43c-c6e25ef461a6.webp?v=1789133852",
+     "width": 1500,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_10.webp?v=1789133922",
+     "width": 1500,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_9.webp?v=1789133882",
+     "width": 1500,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Dusk_5.webp?v=1789133881",
+     "width": 1500,
+     "height": 1000
+    }
+   ],
+   "priceMinor": 139500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Grade 5 titanium at $1,395, with the whole bezel scale lumed: dusk gradient dial, 41mm, 12.4mm thin, noticeably lighter than steel, ETA 2824, FKM strap in the box. Join the waitlist. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver one titanium"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case shape": "round.",
+    "STRAP": "None selected"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/diver-one-titanium"
+   ],
+   "hash": "acb7869956428b00"
+  },
+  {
+   "id": "BRD-0616/diver-one-titanium-snow",
+   "name": "Wren Diver One Titanium Snow",
+   "url": "https://wrenwatches.com/products/diver-one-titanium-snow",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Snow_2.png?v=1791150032",
+    "width": 1500,
+    "height": 1999
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Snow_2.png?v=1791150032",
+     "width": 1500,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Snow_Blue_rubber.png?v=1791150032",
+     "width": 1500,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Titanium_Snow_White_rubber.png?v=1791150033",
+     "width": 1500,
+     "height": 1999
+    }
+   ],
+   "priceMinor": 139500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Wren watches carry a 2-year warranty from the date of shipment indicated on the warranty card. This includes the movement, case, dial, hands, crown, and bracelet/strap. The warranty does not include any issues that occur due to mishandling and/or damaging the watch. Normal wear-and-tear on the case or bracelet/strap is also excluded. Furthermore, any work carried out by a non-authorized third party will void the warranty. NOTE: If you live outside the U.S. you will be responsible for any applicable duty/VAT. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver one titanium"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case shape": "round.",
+    "STRAP": "None selected (optional) Clear"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/diver-one-titanium"
+   ],
+   "hash": "e5d48ee38114dc89"
+  },
+  {
+   "id": "BRD-0616/diver-one-abyss",
+   "name": "Diver One Abyss",
+   "url": "https://wrenwatches.com/products/diver-one-abyss",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenDiverOneAbyssBraceletTransparent.png?v=1791041472",
+    "width": 3779,
+    "height": 5038
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenDiverOneAbyssBraceletTransparent.png?v=1791041472",
+     "width": 3779,
+     "height": 5038
+    }
+   ],
+   "priceMinor": 119500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The blackest dial on a production diver: Musou Black absorbs 99.4% of light, so the aqua hands, indexes and lumed bezel scale look like they float. 41mm steel, 200m, $1,195. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver One"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "black",
+    "strapType": null
+   },
+   "specsRaw": {
+    "The blackest dial on a production diver": "Musou Black absorbs 99.4% of light, so the aqua hands, indexes and lumed bezel scale look like they float. 41mm steel, 200m, $1,195.",
+    "Case shape": "round."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-one"
+   ],
+   "hash": "529b599d6ec2c9c5"
+  },
+  {
+   "id": "BRD-0616/vessel-sunray",
+   "name": "Vessel Sunray",
+   "url": "https://wrenwatches.com/products/vessel-sunray",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Vessel_Meteorite_1_Product_Soldier_4.png?v=1790115439",
+    "width": 3779,
+    "height": 5038
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Vessel_Meteorite_1_Product_Soldier_4.png?v=1790115439",
+     "width": 3779,
+     "height": 5038
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenVesselMeteorite1ProductSoldier_5.png?v=1790115625",
+     "width": 3779,
+     "height": 5038
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Vessel_Caseback_Soldier_1.png?v=1791062774",
+     "width": 3779,
+     "height": 5038
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Brushed_Dial_on_Bracelet_-_Wristshot_2.jpg?v=1791067123",
+     "width": 2667,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Brushed_Dial_on_Bracelet_-_Wristshot.jpg?v=1791067123",
+     "width": 2667,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Brushed_Dial_on_Rubber_-_Wristshot_3.jpg?v=1791067122",
+     "width": 2667,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Brushed_Dial_on_Rubber_-_Wristshot.jpg?v=1791067122",
+     "width": 2667,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Brushed_Dial_on_Rubber_-_Wristshot_2.jpg?v=1791067124",
+     "width": 6001,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Sunburst_dial_Portrait_1.jpg?v=1791067121",
+     "width": 2996,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Movement_Shot.jpg?v=1791067122",
+     "width": 2995,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Vessel_Sunray_LS_3.jpg?v=1791068059",
+     "width": 3000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Vessel_Meteorite_LS_6.jpg?v=1791068060",
+     "width": 3200,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 290000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A sapphire crystal faceted on top and cut again underneath to follow it, so the dial reads with no distortion. Steel sunray dial, aqua seconds hand, 39mm, 10.6mm thin. 150 made. Case shape: cushion.",
+   "productType": null,
+   "tags": [
+    "Vessel",
+    "Vessel Sunray"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case shape": "cushion.",
+    "STRAP": "None selected (optional) Clear",
+    "Five in a hundred": "the crystal almost nobody would make"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/vessel"
+   ],
+   "hash": "4b9b20e320405923"
+  },
+  {
+   "id": "BRD-0616/vessel-meteorite",
+   "name": "Vessel Meteorite",
+   "url": "https://wrenwatches.com/products/vessel-meteorite",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenVesselMeteorite1ProductSoldier_7.png?v=1790115972",
+    "width": 3779,
+    "height": 5038
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenVesselMeteorite1ProductSoldier_7.png?v=1790115972",
+     "width": 3779,
+     "height": 5038
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenVesselMeteorite1ProductSoldier_8.png?v=1790116134",
+     "width": 3779,
+     "height": 5038
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Vessel_Caseback_Soldier_1.png?v=1791062774",
+     "width": 3779,
+     "height": 5038
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Meteorite_on_Rubber_-_Hero_Shot.jpg?v=1791067124",
+     "width": 5337,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Meteorite_on_Bracelet_Hero.jpg?v=1791067123",
+     "width": 5347,
+     "height": 4011
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Meteorite_-_Lume_Shot_Vertical.jpg?v=1791067123",
+     "width": 2998,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_Meteorite_on_Rubber_-_Hero_2.jpg?v=1791067124",
+     "width": 5337,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Meteorite_on_Bracelet_Portrait_1.jpg?v=1791067123",
+     "width": 2997,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Meteorite_Bracelet_Wristshot_1.jpg?v=1791067122",
+     "width": 2667,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Meteorite_Dial_on_Rubber_-_Wristshot.jpg?v=1791067122",
+     "width": 2667,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Meteorite_on_Bracelet_1.jpg?v=1791067122",
+     "width": 2997,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Vessel_-_Movement_Shot.jpg?v=1791067122",
+     "width": 2995,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 340000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Designed with Max Resnick for 2075, not 1975: a sapphire crystal faceted on both surfaces, a meteorite dial, and an integrated bracelet with micro-adjust built into the links. $3,400, 150 made. Case shape: cushion.",
+   "productType": null,
+   "tags": [
+    "Vessel",
+    "Vessel Meteorite"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case shape": "cushion.",
+    "STRAP": "None selected (optional) Clear",
+    "Five in a hundred": "the crystal almost nobody would make"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/vessel"
+   ],
+   "hash": "af0a3673107feb1b"
+  },
+  {
+   "id": "BRD-0616/diver-one-obsidian",
+   "name": "Diver One Obsidian",
+   "url": "https://wrenwatches.com/products/diver-one-obsidian",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_TRANSPARENT_95097300-49e5-42aa-b692-316bd3d65b90.webp?v=1789388193",
+    "width": 1000,
+    "height": 1333
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_TRANSPARENT_95097300-49e5-42aa-b692-316bd3d65b90.webp?v=1789388193",
+     "width": 1000,
+     "height": 1333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_Soldier_WE_Web_1.png?v=1791138028",
+     "width": 1200,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_7.webp?v=1789388235",
+     "width": 2500,
+     "height": 1666
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_5.webp?v=1789388274",
+     "width": 1536,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_3.webp?v=1789388336",
+     "width": 2500,
+     "height": 1665
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_6.webp?v=1789388337",
+     "width": 2500,
+     "height": 1667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_8.webp?v=1789388336",
+     "width": 2500,
+     "height": 1667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_10.webp?v=1789388424",
+     "width": 2500,
+     "height": 1667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_1.webp?v=1789388450",
+     "width": 2472,
+     "height": 1648
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_2.webp?v=1789388467",
+     "width": 2500,
+     "height": 1665
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_One_Obsidian_4.webp?v=1789388478",
+     "width": 2500,
+     "height": 1665
+    }
+   ],
+   "priceMinor": 119500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Built with Ben's Watches: a black DLC case around a fiery orange-to-black gradient dial, with the matching orange FKM strap in the box. 41mm steel, 200m, Swiss automatic, $1,195. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver One"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Built with Ben's Watches": "a black DLC case around a fiery orange-to-black gradient dial, with the matching orange FKM strap in the box. 41mm steel, 200m, Swiss automatic, $1,195.",
+    "Case shape": "round."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-one"
+   ],
+   "hash": "845f16d827b786ab"
+  },
+  {
+   "id": "BRD-0616/diver-38-mad",
+   "name": "Diver 38 Mad",
+   "url": "https://wrenwatches.com/products/diver-38-mad",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Mad_TRANSPARENT_8cbb3169-68ea-4fa8-802f-6c3e0815e9f5.webp?v=1789387293",
+    "width": 1000,
+    "height": 1333
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Mad_TRANSPARENT_8cbb3169-68ea-4fa8-802f-6c3e0815e9f5.webp?v=1789387293",
+     "width": 1000,
+     "height": 1333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Mad_White_rubber_ef2cda52-28d8-45c6-ae49-d6b3bebe2ddf.png?v=1791136009",
+     "width": 1200,
+     "height": 1599
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Mad_Black_rubber_17f2bee5-b7f0-4a36-bba8-b8a416ef7060.png?v=1791136005",
+     "width": 1200,
+     "height": 1599
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Aqua_Movement_4X5_59912369-0878-4359-8b55-d25edcaea088.jpg?v=1769016209",
+     "width": 800,
+     "height": 1000
+    }
+   ],
+   "priceMinor": 159500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A white dial under a white sapphire bezel that glows across its entire surface, not just the scale. Sapphire is the only way to do it. 38mm, 10.7mm thick, 200m, Swiss automatic, $1,595. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver 38"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case shape": "round.",
+    "STRAP": "None selected",
+    "Date or no date": "how to choose"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-38"
+   ],
+   "hash": "951cb48a741d0208"
+  },
+  {
+   "id": "BRD-0616/diver-38-seafoam",
+   "name": "Diver 38 Seafoam",
+   "url": "https://wrenwatches.com/products/diver-38-seafoam",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Seafoam_TRANSPARENT.webp?v=1789120025",
+    "width": 750,
+    "height": 1001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Seafoam_TRANSPARENT.webp?v=1789120025",
+     "width": 750,
+     "height": 1001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Seafoam_Grey_Rubber_strap_5defe273-29b4-4b97-9e8c-68fda36b8a8d.png?v=1791137661",
+     "width": 1200,
+     "height": 1599
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Seafoam_Black_Rubber_strap_db59a220-cd80-4216-adbe-e64725f4e649.png?v=1791137661",
+     "width": 1200,
+     "height": 1599
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenDiver38SeafoamNoDateWrist4X5.jpg?v=1755032943",
+     "width": 800,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenDiver38SeafoamCrown4X5.jpg?v=1755032943",
+     "width": 800,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenDiver38SeafoamCaseback4X5.jpg?v=1755032943",
+     "width": 800,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/WrenDiver38SeafoamBuckle4X5.jpg?v=1755032943",
+     "width": 800,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Seafoam_Date_1_0448ab4e-e45a-4a50-a4dc-d2a921ed1604.jpg?v=1752874444",
+     "width": 2500,
+     "height": 1667
+    }
+   ],
+   "priceMinor": 159500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Seafoam green gradient dial on Wren's slimmest diver: 38mm, 10.7mm thick, 200m, bezel scale lumed end to end, display caseback, micro-adjust clasp. Sellita SW300-1, $1,595. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver 38"
+   ],
+   "options": [
+    {
+     "name": "Dial Options",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Date",
+     "sku": "SQ3808175",
+     "priceMinor": 159500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Date"
+     ]
+    },
+    {
+     "title": "No Date",
+     "sku": null,
+     "priceMinor": 159500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "No Date"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW300-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case shape": "round.",
+    "Dial Options": "Date No Date",
+    "STRAP": "None selected",
+    "Date or no date": "how to choose"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-38"
+   ],
+   "hash": "7e362aba469b8788"
+  },
+  {
+   "id": "BRD-0616/diver-38-aqua",
+   "name": "Diver 38 Aqua",
+   "url": "https://wrenwatches.com/products/diver-38-aqua",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_38_Aqua_-_Soldier_on_White_with_Reflection_6.png?v=1791137103",
+    "width": 1500,
+    "height": 2002
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_38_Aqua_-_Soldier_on_White_with_Reflection_6.png?v=1791137103",
+     "width": 1500,
+     "height": 2002
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Aqua_Black_Rubber_strap.png?v=1791137103",
+     "width": 1500,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_No_Date_1.png?v=1791137103",
+     "width": 1500,
+     "height": 2009
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Aqua_Date_Wrist_2_4X5_985cdae9-33e5-4887-a55d-545ab88a1fef.jpg?v=1755032819",
+     "width": 800,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Aqua_Crown_4X5_3cf087be-92e0-4b93-bafa-0db946e32382.jpg?v=1755032819",
+     "width": 800,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Aqua_Movement_4X5_59912369-0878-4359-8b55-d25edcaea088.jpg?v=1769016209",
+     "width": 800,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/files/Wren_Diver_38_Aqua_Date_Wrist_4X5_a844e13a-8d54-40de-85f0-661d1d58ac7b.jpg?v=1755032819",
+     "width": 800,
+     "height": 1000
+    }
+   ],
+   "priceMinor": 159500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A 200m diver only 10.7mm thick: aqua gradient dial, a bezel scale that glows end to end, display caseback with Wren's own rotor, micro-adjust clasp. 38mm, Sellita SW300-1, $1,595. Case shape: round.",
+   "productType": null,
+   "tags": [
+    "Diver 38"
+   ],
+   "options": [
+    {
+     "name": "Choose Your Dial Layout",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Date",
+     "sku": "SQ6736449",
+     "priceMinor": 159500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Date"
+     ]
+    },
+    {
+     "title": "No Date",
+     "sku": null,
+     "priceMinor": 159500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "No Date"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW300-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "A 200m diver only 10.7mm thick": "aqua gradient dial, a bezel scale that glows end to end, display caseback with Wren's own rotor, micro-adjust clasp. 38mm, Sellita SW300-1, $1,595.",
+    "Case shape": "round.",
+    "Choose Your Dial Layout": "Date No Date",
+    "STRAP": "None selected",
+    "Date or no date": "how to choose"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:55:42.872Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:55:42.872Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0616/compare-collection",
+    "BRD-0616/diver-38"
+   ],
+   "hash": "e57a956d82a6550b"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0616/compare-collection",
+   "name": "Compare collection",
+   "url": "https://wrenwatches.com/collections/compare-collection",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0616/diver-38",
+   "name": "Diver 38",
+   "url": "https://wrenwatches.com/collections/diver-38",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/collections/Wren_Diver_38_Collection_Page_Image.png?v=1791232748",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0616/diver-one",
+   "name": "Diver One",
+   "url": "https://wrenwatches.com/collections/diver-one",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/collections/Wren_Diver_One_Abyss_Collection_Page_Image.png?v=1791257265",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0616/diver-one-titanium",
+   "name": "Diver One Titanium",
+   "url": "https://wrenwatches.com/collections/diver-one-titanium",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/collections/Wren_Titanium_Dusk_Collection_Image.png?v=1791231250",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0616/vessel",
+   "name": "Vessel",
+   "url": "https://wrenwatches.com/collections/vessel",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0946/8123/5759/collections/Wren_Vessel_Collection_Page_Image.png?v=1791231712",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

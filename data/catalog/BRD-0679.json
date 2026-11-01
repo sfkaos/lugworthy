@@ -1,0 +1,637 @@
+{
+ "brandId": "BRD-0679",
+ "brandName": "Arcturus",
+ "website": "https://www.arcturuswatches.sg",
+ "crawledAt": "2026-11-01T06:27:45.051Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://static.wixstatic.com/media/facccb_0649460d535a4ac2b71406c5f3ad08bb%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/facccb_0649460d535a4ac2b71406c5f3ad08bb%7Emv2.jpg",
+  "width": 2500,
+  "height": 1330,
+  "kind": "og_image",
+  "sourcePage": "https://www.arcturuswatches.sg/"
+ },
+ "attribution": "Images © Arcturus, from arcturuswatches.sg",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0679/lc-1r-verdite",
+   "name": "LC-1R Verdite",
+   "url": "https://www.arcturuswatches.sg/product-page/lc-1r-verdite",
+   "image": {
+    "url": "https://static.wixstatic.com/media/facccb_4225f46a2fdc43b99d0aa6c7486f318a~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/facccb_4225f46a2fdc43b99d0aa6c7486f318a~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_655d125a47514b338236a57058881286~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_6851353fcfce430d8fded2ae5a374396~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 150800,
+   "currency": "SGD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 13.8,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9132",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "HEIGHT": "13.8mm",
+    "DIAMETER": "40mm",
+    "LUG TO LUG": "46mm",
+    "MATERIAL": "316L stainless steel",
+    "FINISHING": "High polish, silk, frosting",
+    "CASEBACK": "Sapphire crystal exhibition caseback",
+    "GLASS": "Double domed sapphire crystal, Anti-reflective coating",
+    "CALIBRE": "Miyota 9132. Reserve de marche. Sun/moon indicator.",
+    "WIDTH": "22.0mm tapered to 18.0mm",
+    "WATER RESISTANCE": "50 metres"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:45.051Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:45.051Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0679/all-products"
+   ],
+   "hash": "3c522750a7bafea5"
+  },
+  {
+   "id": "BRD-0679/lc-1r-pieters",
+   "name": "LC-1R Pietersite",
+   "url": "https://www.arcturuswatches.sg/product-page/lc-1r-pieters",
+   "image": {
+    "url": "https://static.wixstatic.com/media/facccb_2b6d86fac1854f6c996af5c4dbf3694e~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/facccb_2b6d86fac1854f6c996af5c4dbf3694e~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_fc8940ca454044fc8b3b760220fc1742~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_4cf6d0ed27054072bc80f2647ca06466~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 176800,
+   "currency": "SGD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 13.8,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9132",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "HEIGHT": "13.8mm",
+    "DIAMETER": "40mm",
+    "LUG TO LUG": "46mm",
+    "MATERIAL": "316L stainless steel",
+    "FINISHING": "High polish, silk, frosting",
+    "CASEBACK": "Sapphire crystal exhibition caseback",
+    "GLASS": "Double domed sapphire crystal, Anti-reflective coating",
+    "CALIBRE": "Miyota 9132. Reserve de marche. Sun/moon indicator.",
+    "WIDTH": "22.0mm tapered to 18.0mm",
+    "WATER RESISTANCE": "50 metres"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:45.051Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:45.051Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0679/all-products"
+   ],
+   "hash": "a17f622cefb55df2"
+  },
+  {
+   "id": "BRD-0679/lc-2-malachite",
+   "name": "LC-2 Malachite",
+   "url": "https://www.arcturuswatches.sg/product-page/lc-2-malachite",
+   "image": {
+    "url": "https://static.wixstatic.com/media/facccb_71234ceaa88f4deb897c657c48304e64~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/facccb_71234ceaa88f4deb897c657c48304e64~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_4546376d58b9468b8de0a8b0fd98b42b~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_db9818d85c524727b05537f3178a6519~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_3088e755f3a64699b7331d74cd5d891b~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 208800,
+   "currency": "SGD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 44,
+    "lugWidthMm": null,
+    "lugToLugMm": 50,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "HEIGHT": "11.8mm",
+    "DIAMETER": "44.0mm",
+    "LUG TO LUG": "50.0mm",
+    "MATERIAL": "316L stainless steel FINISHING : High polished, Circular brushed, Straight brushed, Sunburst brushed CASEBACK : Hybrid eyelet display and solid caseback",
+    "FINISHING": "High polished, Circular brushed, Straight brushed, Sunburst brushed",
+    "CASEBACK": "Hybrid eyelet display and solid caseback",
+    "GLASS": "Custom cut flat sapphire crystal, Anti-reflective coating",
+    "CALIBRE": "Peacock SL-5200 Flying Tourbillon",
+    "WIDTH": "22.0mm tapered to 18.0mm",
+    "WATER RESISTANCE": "50 metres"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:45.051Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:45.051Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0679/all-products",
+    "BRD-0679/lion-city-2"
+   ],
+   "hash": "02acc61ac7dd97d0"
+  },
+  {
+   "id": "BRD-0679/lc-2-rose-gold-red-aventurine",
+   "name": "LC-2 Rose Gold Red Aventurine",
+   "url": "https://www.arcturuswatches.sg/product-page/lc-2-rose-gold-red-aventurine",
+   "image": {
+    "url": "https://static.wixstatic.com/media/facccb_464180f1caf44dad9a8016cfe204f4b2~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/facccb_464180f1caf44dad9a8016cfe204f4b2~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_54ff68bd74644732a51b779c5af7a85c~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 238800,
+   "currency": "SGD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 44,
+    "lugWidthMm": null,
+    "lugToLugMm": 50,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "HEIGHT": "11.8mm",
+    "DIAMETER": "44.0mm",
+    "LUG TO LUG": "50.0mm",
+    "MATERIAL": "316L stainless steel FINISHING : High polished, Circular brushed, Straight brushed, Sunburst brushed CASEBACK : Hybrid eyelet display and solid caseback",
+    "FINISHING": "High polished, Circular brushed, Straight brushed, Sunburst brushed",
+    "CASEBACK": "Hybrid eyelet display and solid caseback",
+    "GLASS": "Custom cut flat sapphire crystal, Anti-reflective coating",
+    "CALIBRE": "Peacock SL-5200 Flying Tourbillon",
+    "WIDTH": "22.0mm tapered to 18.0mm",
+    "WATER RESISTANCE": "50 metres"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:45.051Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:45.051Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0679/all-products",
+    "BRD-0679/lion-city-2"
+   ],
+   "hash": "c2047b871dea91cb"
+  },
+  {
+   "id": "BRD-0679/lc-2-aventurine",
+   "name": "LC-2 Aventurine",
+   "url": "https://www.arcturuswatches.sg/product-page/lc-2-aventurine",
+   "image": {
+    "url": "https://static.wixstatic.com/media/facccb_6be6765c5b4a4cabad59ba39e91116a4~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/facccb_6be6765c5b4a4cabad59ba39e91116a4~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_1020c32dccb5459093f749456d0719cf~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_b5040ca516964d62a1a9e0aeb0e0677e~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_886b7287fed64d23a66d3db00ef4b970~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 238800,
+   "currency": "SGD",
+   "availability": "sold_out",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 44,
+    "lugWidthMm": null,
+    "lugToLugMm": 50,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "HEIGHT": "11.8mm",
+    "DIAMETER": "44.0mm",
+    "LUG TO LUG": "50.0mm",
+    "MATERIAL": "316L stainless steel FINISHING : High polished, Circular brushed, Straight brushed, Sunburst brushed CASEBACK : Hybrid eyelet display and solid caseback",
+    "FINISHING": "High polished, Circular brushed, Straight brushed, Sunburst brushed",
+    "CASEBACK": "Hybrid eyelet display and solid caseback",
+    "GLASS": "Custom cut flat sapphire crystal, Anti-reflective coating",
+    "CALIBRE": "Peacock SL-5200 Flying Tourbillon",
+    "WIDTH": "22.0mm tapered to 18.0mm",
+    "WATER RESISTANCE": "50 metres"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:45.051Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:45.051Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0679/all-products",
+    "BRD-0679/lion-city-2"
+   ],
+   "hash": "d9e550eb2180592e"
+  },
+  {
+   "id": "BRD-0679/lc-2-rose-gold-green-meteorite",
+   "name": "LC-2 Rose Gold Green Meteorite",
+   "url": "https://www.arcturuswatches.sg/product-page/lc-2-rose-gold-green-meteorite",
+   "image": {
+    "url": "https://static.wixstatic.com/media/facccb_ced74846837d4e88b47ee44174ecd718~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/facccb_ced74846837d4e88b47ee44174ecd718~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_1e7cb18845004c559aded2ce29e6d434~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 268800,
+   "currency": "SGD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 44,
+    "lugWidthMm": null,
+    "lugToLugMm": 50,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "HEIGHT": "11.8mm",
+    "DIAMETER": "44.0mm",
+    "LUG TO LUG": "50.0mm",
+    "MATERIAL": "316L stainless steel FINISHING : High polished, Circular brushed, Straight brushed, Sunburst brushed CASEBACK : Hybrid eyelet display and solid caseback",
+    "FINISHING": "High polished, Circular brushed, Straight brushed, Sunburst brushed",
+    "CASEBACK": "Hybrid eyelet display and solid caseback",
+    "GLASS": "Custom cut flat sapphire crystal, Anti-reflective coating",
+    "CALIBRE": "Peacock SL-5200 Flying Tourbillon",
+    "WIDTH": "22.0mm tapered to 18.0mm",
+    "WATER RESISTANCE": "50 metres"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:45.051Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:45.051Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0679/all-products",
+    "BRD-0679/lion-city-2"
+   ],
+   "hash": "5285d8d92b3e0623"
+  },
+  {
+   "id": "BRD-0679/lc-1r-carnelian",
+   "name": "LC-1R Carnelian",
+   "url": "https://www.arcturuswatches.sg/product-page/lc-1r-carnelian",
+   "image": {
+    "url": "https://static.wixstatic.com/media/facccb_125178d4ecc84fb8a0353fbf41014fec~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/facccb_125178d4ecc84fb8a0353fbf41014fec~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_463156b557e24e069ffa4361d18d8b5f~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_38d5e2e920dd4135879005c44ffb86e6~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 150800,
+   "currency": "SGD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 13.8,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9132",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "HEIGHT": "13.8mm",
+    "DIAMETER": "40mm",
+    "LUG TO LUG": "46mm",
+    "MATERIAL": "316L stainless steel",
+    "FINISHING": "High polish, silk, frosting",
+    "CASEBACK": "Sapphire crystal exhibition caseback",
+    "GLASS": "Double domed sapphire crystal, Anti-reflective coating",
+    "CALIBRE": "Miyota 9132. Reserve de marche. Sun/moon indicator.",
+    "WIDTH": "22.0mm tapered to 18.0mm",
+    "WATER RESISTANCE": "50 metres"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:45.051Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:45.051Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0679/all-products"
+   ],
+   "hash": "bdd77c69a0f8544a"
+  },
+  {
+   "id": "BRD-0679/lc-2-guilloche",
+   "name": "LC-2 Guilloche",
+   "url": "https://www.arcturuswatches.sg/product-page/lc-2-guilloche",
+   "image": {
+    "url": "https://static.wixstatic.com/media/facccb_6a2817ee148c412fb691e4a01c34c157~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/facccb_6a2817ee148c412fb691e4a01c34c157~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_d3f04bec29d54032a7bfd79824c02ac5~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_a0681a0892824b40ab4596ea13d43a41~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/facccb_594874591991428da04419c8c3418792~mv2.jpeg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 178800,
+   "currency": "SGD",
+   "availability": "sold_out",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 44,
+    "lugWidthMm": null,
+    "lugToLugMm": 50,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "HEIGHT": "11.8mm",
+    "DIAMETER": "44.0mm",
+    "LUG TO LUG": "50.0mm",
+    "MATERIAL": "316L stainless steel FINISHING : High polished, Circular brushed, Straight brushed, Sunburst brushed CASEBACK : Hybrid eyelet display and solid caseback",
+    "FINISHING": "High polished, Circular brushed, Straight brushed, Sunburst brushed",
+    "CASEBACK": "Hybrid eyelet display and solid caseback",
+    "GLASS": "Custom cut flat sapphire crystal, Anti-reflective coating",
+    "CALIBRE": "Peacock SL-5200 Flying Tourbillon",
+    "WIDTH": "22.0mm tapered to 18.0mm",
+    "WATER RESISTANCE": "50 metres"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:45.051Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:45.051Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0679/all-products",
+    "BRD-0679/lion-city-2"
+   ],
+   "hash": "692b44adca6e5eb5"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0679/all-products",
+   "name": "All Products",
+   "url": "https://www.arcturuswatches.sg/category/all-products",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0679/lion-city-2",
+   "name": "Lion City",
+   "url": "https://www.arcturuswatches.sg/category/lion-city-2",
+   "description": null,
+   "image": null
+  }
+ ]
+}

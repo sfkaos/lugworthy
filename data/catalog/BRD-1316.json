@@ -1,0 +1,740 @@
+{
+ "brandId": "BRD-1316",
+ "brandName": "Staudt Chronometrie",
+ "website": "https://www.staudtchronometrie.com",
+ "crawledAt": "2026-11-01T08:34:10.932Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.staudtchronometrie.com/images/crest-logo-home.svg?dpl=dpl_BJ17uqjMNA9phscWkydC4Y8DD78k",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.staudtchronometrie.com/en"
+ },
+ "attribution": "Images © Staudt Chronometrie, from staudtchronometrie.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1316/p26-243-a10",
+   "name": "Staudt Prelude Automatic",
+   "url": "https://www.staudtchronometrie.com/en/watches/P26.243-A10",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P26.243-A10.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P26.243-A10.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 570000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Automatic Sunburst grey is part of the Staudt men's collection. The watch combines a sunburst grey dial with stainless-steel case · 18 ct gold…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/p46-063-a02",
+    "BRD-1316/p11-011-a01",
+    "BRD-1316/watches",
+    "BRD-1316/p42-072-a02"
+   ],
+   "hash": "b9d8a6cb097b42b0"
+  },
+  {
+   "id": "BRD-1316/p66d-353-a09",
+   "name": "Staudt Prelude Petite Plus",
+   "url": "https://www.staudtchronometrie.com/en/watches/P66D.353-A09",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P66D.353-A09.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P66D.353-A09.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 620000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Petite Plus Sand-coloured is part of the Staudt women's collection. The watch combines a sand-coloured dial with stainless-steel case · 18 ct…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.4,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/p62d-333-a22",
+    "BRD-1316/watches"
+   ],
+   "hash": "9bc5cb5dcce119e1"
+  },
+  {
+   "id": "BRD-1316/p41-061-a01",
+   "name": "Staudt Guilloche",
+   "url": "https://www.staudtchronometrie.com/en/watches/P41.061-A01",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P41.061-A01-v2.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P41.061-A01-v2.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 880000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Guilloche Blue hand-guilloché is part of the Staudt men's collection. The watch combines a blue hand-guilloché dial with stainless-steel case and a…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.6,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/p46-063-a02",
+    "BRD-1316/p26-243-a10",
+    "BRD-1316/p11-011-a01",
+    "BRD-1316/watches",
+    "BRD-1316/p42-072-a02"
+   ],
+   "hash": "49e39c348b614c74"
+  },
+  {
+   "id": "BRD-1316/p46-223-a01",
+   "name": "Staudt Prelude Chronograph",
+   "url": "https://www.staudtchronometrie.com/en/watches/P46.223-A01",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P46.223-A01.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P46.223-A01.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 730000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Chronograph Frosted silver is part of the Staudt men's collection. The watch combines a frosted silver dial with stainless steel · 18 ct gold…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/p46-063-a02",
+    "BRD-1316/p26-243-a10",
+    "BRD-1316/p11-011-a01",
+    "BRD-1316/watches",
+    "BRD-1316/p42-072-a02"
+   ],
+   "hash": "3b32dea82f08a6e6"
+  },
+  {
+   "id": "BRD-1316/p11-011-a01",
+   "name": "Staudt Prelude Hand Wound",
+   "url": "https://www.staudtchronometrie.com/en/watches/P11.011-A01",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P11.011-A01.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P11.011-A01.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 370000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Hand Wound Staudt blue lithographed is part of the Staudt men's collection. The watch combines a staudt blue lithographed dial with…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/p46-063-a02",
+    "BRD-1316/p26-243-a10",
+    "BRD-1316/watches",
+    "BRD-1316/p42-072-a02"
+   ],
+   "hash": "5142103bb6854ac1"
+  },
+  {
+   "id": "BRD-1316/p11-223-a01",
+   "name": "Staudt Prelude Hand Wound - Frosted silver · rose-gold indices",
+   "url": "https://www.staudtchronometrie.com/en/watches/P11.223-A01",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P11.223-A01.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P11.223-A01.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 360000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Hand Wound Frosted silver · rose-gold indices is part of the Staudt men's collection. The watch combines a frosted silver · rose-gold indices dial…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/p26-243-a10",
+    "BRD-1316/p11-011-a01",
+    "BRD-1316/watches"
+   ],
+   "hash": "5cd76e6a55925eb1"
+  },
+  {
+   "id": "BRD-1316/p21-222-a02",
+   "name": "Staudt Prelude Automatic - Frosted silver · blue indices",
+   "url": "https://www.staudtchronometrie.com/en/watches/P21.222-A02",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P21.222-A02.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P21.222-A02.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 410000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Automatic Frosted silver · blue indices is part of the Staudt men's collection. The watch combines a frosted silver · blue indices dial with…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/watches"
+   ],
+   "hash": "77020707d13b5bad"
+  },
+  {
+   "id": "BRD-1316/p11-222-a02",
+   "name": "Staudt Prelude Hand Wound - Frosted silver · blue indices",
+   "url": "https://www.staudtchronometrie.com/en/watches/P11.222-A02",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P11.222-A02.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P11.222-A02.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 360000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Hand Wound Frosted silver · blue indices is part of the Staudt men's collection. The watch combines a frosted silver · blue indices dial with…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/watches"
+   ],
+   "hash": "b7e3a99e49913996"
+  },
+  {
+   "id": "BRD-1316/p41-222-a02",
+   "name": "Staudt Prelude Chronograph - Frosted silver · blue indices",
+   "url": "https://www.staudtchronometrie.com/en/watches/P41.222-A02",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P41.222-A02.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P41.222-A02.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 500000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Chronograph Frosted silver · blue indices is part of the Staudt men's collection. The watch combines a frosted silver · blue indices dial with…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/watches"
+   ],
+   "hash": "0436f549c1478f8b"
+  },
+  {
+   "id": "BRD-1316/p31-223-a01",
+   "name": "Staudt Prelude Petit",
+   "url": "https://www.staudtchronometrie.com/en/watches/P31.223-A01",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P31.223-A01.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P31.223-A01.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Petit Frosted silver is part of the Staudt men's collection. The watch combines a frosted silver dial with stainless-steel case and a alligator…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/watches"
+   ],
+   "hash": "f3adc16e5a44be47"
+  },
+  {
+   "id": "BRD-1316/p31-222-a02",
+   "name": "Staudt Prelude Petit - Frosted silver · blue indices",
+   "url": "https://www.staudtchronometrie.com/en/watches/P31.222-A02",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P31.222-A02.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P31.222-A02.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Petit Frosted silver · blue indices is part of the Staudt men's collection. The watch combines a frosted silver · blue indices dial with…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/watches"
+   ],
+   "hash": "c7dbc03f749dee8d"
+  },
+  {
+   "id": "BRD-1316/p12-223-a01",
+   "name": "Staudt Prelude Hand Wound - Frosted silver · gold indices",
+   "url": "https://www.staudtchronometrie.com/en/watches/P12.223-A01",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P12.223-A01.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.staudtchronometrie.com/images/watches/P12.223-A01.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1560000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Prelude Hand Wound Frosted silver · gold indices is part of the Staudt men's collection. The watch combines a frosted silver · gold indices dial with 18…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:10.932Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:10.932Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1316/watches"
+   ],
+   "hash": "a6faddcd2ff35d6a"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1316/p46-063-a02",
+   "name": "Guilloche Chronograph",
+   "url": "https://www.staudtchronometrie.com/en/watches/P46.063-A02",
+   "description": "Guilloche Blue hand-guilloché is part of the Staudt men's collection. The watch combines a blue hand-guilloché dial with stainless steel · 18 ct gold…",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P46.063-A02-v2.png",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1316/p62d-333-a22",
+   "name": "Prelude Petite Plus",
+   "url": "https://www.staudtchronometrie.com/en/watches/P62D.333-A22",
+   "description": "Prelude Petite Plus Deep blue aventurine is part of the Staudt women's collection. The watch combines a deep blue aventurine dial with 18 ct rose-gold…",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P62D.333-A22.png",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1316/p26-243-a10",
+   "name": "Prelude Automatic",
+   "url": "https://www.staudtchronometrie.com/en/watches/P26.243-A10",
+   "description": "Prelude Automatic Sunburst grey is part of the Staudt men's collection. The watch combines a sunburst grey dial with stainless-steel case · 18 ct gold…",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P26.243-A10.png",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1316/p11-011-a01",
+   "name": "Prelude Hand Wound",
+   "url": "https://www.staudtchronometrie.com/en/watches/P11.011-A01",
+   "description": "Prelude Hand Wound Staudt blue lithographed is part of the Staudt men's collection. The watch combines a staudt blue lithographed dial with…",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P11.011-A01.png",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1316/watches",
+   "name": "All watches",
+   "url": "https://www.staudtchronometrie.com/en/watches",
+   "description": "The complete Staudt collection: women, men and chronographs. Explore the models, then visit a retailer or the boutique in Ootmarsum.",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/boutique/boutique-exterior-v3.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1316/p42-072-a02",
+   "name": "Guilloche Chronograph",
+   "url": "https://www.staudtchronometrie.com/en/watches/P42.072-A02",
+   "description": "Guilloche Frosted hand-guilloché is part of the Staudt men's collection. The watch combines a frosted hand-guilloché dial with 18 ct rose-gold case and a…",
+   "image": {
+    "url": "https://www.staudtchronometrie.com/images/watches/P42.072-A02.png",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

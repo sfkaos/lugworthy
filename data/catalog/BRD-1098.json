@@ -1,0 +1,755 @@
+{
+ "brandId": "BRD-1098",
+ "brandName": "Manime",
+ "website": "https://www.manime-watches.com",
+ "crawledAt": "2026-11-01T07:49:32.984Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.manime-watches.com/cdn/shop/files/Logo-03.png?v=1662183316",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.manime-watches.com/"
+ },
+ "attribution": "Images © Manime, from manime-watches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1098/la-meridienne",
+   "name": "LA MÉRIDIENNE - TRUE GMT",
+   "url": "https://www.manime-watches.com/products/la-meridienne",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Blue-WB-WEB.jpg?v=1781329884",
+    "width": 3482,
+    "height": 4352
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Blue-WB-WEB.jpg?v=1781329884",
+     "width": 3482,
+     "height": 4352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Champagne-WB-WEB.jpg?v=1781329906",
+     "width": 3482,
+     "height": 4352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Green-WB-WEB.jpg?v=1781329943",
+     "width": 3482,
+     "height": 4352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/DarkGrey-WB-WEB.jpg?v=1781329988",
+     "width": 3482,
+     "height": 4352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Burgundy-WB-WEB.jpg?v=1781330016",
+     "width": 3482,
+     "height": 4352
+    }
+   ],
+   "priceMinor": 56000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "• Target Delivery by January 2027 • Production has begun. Reserve LA MÉRIDIENNE today and benefit from an exclusive 20% pre-order discount . VAT for EU orders and applicable sales taxes for US orders are calculated at checkout. For other destinations, local duties and taxes may be charged upon delivery.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Deep Blue",
+      "Champagne",
+      "Green Gold",
+      "Grey Gold",
+      "Burgundy - Gold"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Deep Blue",
+     "sku": "30001",
+     "priceMinor": 56000,
+     "compareAtMinor": 70000,
+     "available": true,
+     "options": [
+      "Deep Blue"
+     ]
+    },
+    {
+     "title": "Champagne",
+     "sku": "30002",
+     "priceMinor": 56000,
+     "compareAtMinor": 70000,
+     "available": true,
+     "options": [
+      "Champagne"
+     ]
+    },
+    {
+     "title": "Green Gold",
+     "sku": "30003",
+     "priceMinor": 56000,
+     "compareAtMinor": 70000,
+     "available": true,
+     "options": [
+      "Green Gold"
+     ]
+    },
+    {
+     "title": "Grey Gold",
+     "sku": "30004",
+     "priceMinor": 56000,
+     "compareAtMinor": 70000,
+     "available": true,
+     "options": [
+      "Grey Gold"
+     ]
+    },
+    {
+     "title": "Burgundy - Gold",
+     "sku": "30005",
+     "priceMinor": 56000,
+     "compareAtMinor": 70000,
+     "available": true,
+     "options": [
+      "Burgundy - Gold"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Low stock": "5 left",
+    "Movement": "Japanese Miyota 9075 True GMT Automatic",
+    "Case": "38mm × 42.2mm × 11.4mm",
+    "Material": "316L stainless steel, hardened to 1,200 HV",
+    "Bracelet": "Integrated bracelet with butterfly clasp, tool-free micro-adjustment & quick-release",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Water Resistance": "10 ATM (100m)",
+    "Lume": "Swiss Super-LumiNova® BGW9",
+    "Power Reserve": "42 hours",
+    "Frequency": "28,800 vph (4Hz)",
+    "Accuracy": "Regulated to −5/+15 sec/day",
+    "Crown": "6.5mm screw-down"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:49:32.984Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:49:32.984Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1098/sailcloth-bracelets-la-fidele"
+   ],
+   "hash": "7ea3c6f8236f6783"
+  },
+  {
+   "id": "BRD-1098/sailcloth-beige",
+   "name": "Sailcloth Beige",
+   "url": "https://www.manime-watches.com/products/sailcloth-beige",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/beige_front_1.jpg?v=1731585241",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/beige_front_1.jpg?v=1731585241",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 5000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "VAT for EU orders and applicable sales taxes for US orders are calculated at checkout. For other destinations, local duties and taxes may be charged upon delivery.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Recycled Sailcloth with stainless steel insert to improve the structure",
+    "Lug width": "18mm with customs shape",
+    "Width at the buckle": "16 mm",
+    "Length": "115/75mm (fits 15 to 20cm wrists)",
+    "Fastening system": "Quick release spring bar (interchangeable without tools)",
+    "Buckle type": "Pin",
+    "Buckle material": "Stainless steel",
+    "Compatibility": "This strap is compatible with LA FIDÈLE watch."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:49:32.984Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:49:32.984Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1098/sailcloth-bracelets-la-fidele"
+   ],
+   "hash": "8f64636cd3e62437"
+  },
+  {
+   "id": "BRD-1098/sailcloth-black",
+   "name": "Sailcloth Black",
+   "url": "https://www.manime-watches.com/products/sailcloth-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/black_front.jpg?v=1723567938",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/black_front.jpg?v=1723567938",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 5000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "VAT for EU orders and applicable sales taxes for US orders are calculated at checkout. For other destinations, local duties and taxes may be charged upon delivery.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Recycled Sailcloth with stainless steel insert to improve the structure",
+    "Lug width": "18mm with customs shape",
+    "Width at the buckle": "16 mm",
+    "Length": "115/75mm (fits 15 to 20cm wrists)",
+    "Fastening system": "Quick release spring bar (interchangeable without tools)",
+    "Buckle type": "Pin",
+    "Buckle material": "Stainless steel",
+    "Compatibility": "This strap is compatible with LA FIDÈLE watch."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:49:32.984Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:49:32.984Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1098/sailcloth-bracelets-la-fidele"
+   ],
+   "hash": "ffef09910941409b"
+  },
+  {
+   "id": "BRD-1098/black-saffiano-leather-strap-la-fidele",
+   "name": "Black Saffiano Leather",
+   "url": "https://www.manime-watches.com/products/black-saffiano-leather-strap-la-fidele",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/safianofront.jpg?v=1723236459",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/safianofront.jpg?v=1723236459",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 5000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "VAT for EU orders and applicable sales taxes for US orders are calculated at checkout. For other destinations, local duties and taxes may be charged upon delivery.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Calf leather with hidden metal insert and leather piece to improve the structure",
+    "Lug width": "18mm with customs shape",
+    "Width at the buckle": "16 mm",
+    "Length": "115/75mm (fits 15 to 20cm wrists)",
+    "Fastening system": "Quick release spring bar (interchangeable without tools)",
+    "Buckle type": "Pin",
+    "Buckle material": "Stainless steel",
+    "Compatibility": "This strap is compatible with LA FIDÈLE and LA MÉRIDIENNE watches"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:49:32.984Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:49:32.984Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "31adc7a255b3b41b"
+  },
+  {
+   "id": "BRD-1098/sailcloth-bracelets",
+   "name": "Sailcloth khaki",
+   "url": "https://www.manime-watches.com/products/sailcloth-bracelets",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/kaki_front.jpg?v=1723567969",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/kaki_front.jpg?v=1723567969",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 5000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "VAT for EU orders and applicable sales taxes for US orders are calculated at checkout. For other destinations, local duties and taxes may be charged upon delivery.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Recycled Sailcloth with stainless steel insert to improve the structure",
+    "Lug width": "18mm with customs shape",
+    "Width at the buckle": "16 mm",
+    "Length": "115/75mm (fits 15 to 20cm wrists)",
+    "Fastening system": "Quick release spring bar (interchangeable without tools)",
+    "Buckle type": "Pin",
+    "Buckle material": "Stainless steel",
+    "Compatibility": "This strap is compatible with LA FIDÈLE watch."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:49:32.984Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:49:32.984Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1098/sailcloth-bracelets-la-fidele"
+   ],
+   "hash": "525d9572a8d82e99"
+  },
+  {
+   "id": "BRD-1098/leather-bracelet-la-fidele",
+   "name": "Chocolat Calfskin Leather",
+   "url": "https://www.manime-watches.com/products/leather-bracelet-la-fidele",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/brown_front.jpg?v=1731585202",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/brown_front.jpg?v=1731585202",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 5000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "VAT for EU orders and applicable sales taxes for US orders are calculated at checkout. For other destinations, local duties and taxes may be charged upon delivery.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Calf leather with hidden metal insert and leather piece to improve the structure",
+    "Lug width": "18mm with customs shape",
+    "Width at the buckle": "16 mm",
+    "Length": "115/75mm (fits 15 to 20cm wrists)",
+    "Fastening system": "Quick release spring bar (interchangeable without tools)",
+    "Buckle type": "Pin",
+    "Buckle material": "Stainless steel",
+    "Compatibility": "This strap is compatible with LA FIDÈLE and LA MÉRIDIENNE watches"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:49:32.984Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:49:32.984Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9e8179a7618fe325"
+  },
+  {
+   "id": "BRD-1098/la-fidele",
+   "name": "LA FIDÈLE",
+   "url": "https://www.manime-watches.com/products/la-fidele",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Champagne-WBG.jpg?v=1700826042",
+    "width": 5000,
+    "height": 5000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Champagne-WBG.jpg?v=1700826042",
+     "width": 5000,
+     "height": 5000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Copper-WBG.jpg?v=1702692429",
+     "width": 5000,
+     "height": 5000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Anthracite-WBG.jpg?v=1702692429",
+     "width": 5000,
+     "height": 5000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Military-WBG.jpg?v=1700826070",
+     "width": 5000,
+     "height": 5000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Kaki-WBG.jpg?v=1700826094",
+     "width": 5000,
+     "height": 5000
+    }
+   ],
+   "priceMinor": 55000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "• Final Batch • No Restock Planned • VAT for EU orders and applicable sales taxes for US orders are calculated at checkout. For other destinations, local duties and taxes may be charged upon delivery. Delivered to your house in 7 days by FedEx, DHL or UPS.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Copper",
+      "Champagne",
+      "Military",
+      "Kaki",
+      "Anthracite"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Copper",
+     "sku": "20002RED",
+     "priceMinor": 55000,
+     "compareAtMinor": 55000,
+     "available": true,
+     "options": [
+      "Copper"
+     ]
+    },
+    {
+     "title": "Champagne",
+     "sku": "20003GOLD",
+     "priceMinor": 55000,
+     "compareAtMinor": 55000,
+     "available": true,
+     "options": [
+      "Champagne"
+     ]
+    },
+    {
+     "title": "Military",
+     "sku": "20004MIL",
+     "priceMinor": 55000,
+     "compareAtMinor": 55000,
+     "available": true,
+     "options": [
+      "Military"
+     ]
+    },
+    {
+     "title": "Kaki",
+     "sku": "20005GREEN",
+     "priceMinor": 55000,
+     "compareAtMinor": 55000,
+     "available": true,
+     "options": [
+      "Kaki"
+     ]
+    },
+    {
+     "title": "Anthracite",
+     "sku": "20001GREY",
+     "priceMinor": 55000,
+     "compareAtMinor": 55000,
+     "available": true,
+     "options": [
+      "Anthracite"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Low stock": "1 left",
+    "MOVEMENT": "Automatic premium Japanese Miyota 9039 and 9015 (Date)",
+    "DIMENSIONS": "38mm and 42.2mm lug to lug",
+    "THICKNESS": "11.25mm",
+    "LUME": "Swiss Super-LumiNova® BGW9 / Military version : Colored Swiss Super-LumiNova",
+    "POWER RESERVE": "42 hours - 28,800 beats per hour - 4 hz",
+    "CASE & BRACELET": "Surgical Stainless Steel 316L with Special Anti-scratch Hardening treatment 1,200 HV - butterfly clasp - tapered to 18mm",
+    "GLASS": "Ultra-resistant and anti-scratch sapphire crystal glass with anti-reflective coating, Back: Flat sapphire crystal glass",
+    "WATER RESISTANCE": "20 ATM - 200m - 660 ft",
+    "ACCURACY": "-5 ~ +15 sec. per day (regulated by us)",
+    "CROWN": "6.5mm screwdown crown",
+    "Included Extras": "Microfiber cloth, Screwdriver to adjust the bracelet & compact box"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:49:32.984Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:49:32.984Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5118852e5cf0de5a"
+  },
+  {
+   "id": "BRD-1098/la-f",
+   "name": "La F. - Premium Automatic",
+   "url": "https://www.manime-watches.com/products/la-f",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/ManimeWatchesFront-NormandieBlue.jpg?v=1701482940",
+    "width": 4921,
+    "height": 4922
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/ManimeWatchesFront-NormandieBlue.jpg?v=1701482940",
+     "width": 4921,
+     "height": 4922
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/Ami-Watches34040-red.png?v=1701482980",
+     "width": 4921,
+     "height": 4921
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/ManimeWatchesFront-ParisCharcoal.jpg?v=1701482994",
+     "width": 4921,
+     "height": 4922
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0494/8869/1368/files/ManimeWatchesFront-CapFerretGreen.jpg?v=1701483011",
+     "width": 4921,
+     "height": 4922
+    }
+   ],
+   "priceMinor": 55000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Choose your color",
+     "values": [
+      "La F. - Normandie Blue",
+      "La F. - Montreal Red",
+      "La F. - Paris Black",
+      "La F. - Cap Ferret Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "La F. - Normandie Blue",
+     "sku": "10001",
+     "priceMinor": 55000,
+     "compareAtMinor": 39900,
+     "available": false,
+     "options": [
+      "La F. - Normandie Blue"
+     ]
+    },
+    {
+     "title": "La F. - Montreal Red",
+     "sku": "10002",
+     "priceMinor": 55000,
+     "compareAtMinor": 39900,
+     "available": false,
+     "options": [
+      "La F. - Montreal Red"
+     ]
+    },
+    {
+     "title": "La F. - Paris Black",
+     "sku": "10003",
+     "priceMinor": 55000,
+     "compareAtMinor": 39900,
+     "available": false,
+     "options": [
+      "La F. - Paris Black"
+     ]
+    },
+    {
+     "title": "La F. - Cap Ferret Green",
+     "sku": "10004",
+     "priceMinor": 55000,
+     "compareAtMinor": 39900,
+     "available": false,
+     "options": [
+      "La F. - Cap Ferret Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "Automatic premium Japanese Miyota 9039",
+    "DIMENSIONS": "40mm and 45mm lug to lug",
+    "THICKNESS": "10.20mm",
+    "LUME": "Swiss Super-LumiNova® C1",
+    "POWER RESERVE": "42 hours - 28,800 beats per hour - 4 hz",
+    "CASE & BRACELET": "Surgical Stainless Steel 316L",
+    "GLASS": "Ultra-resistant and anti-scratch sapphire crystal glass with anti-reflective coating, Back: Flat sapphire crystal glass",
+    "WATER RESISTANCE": "5 ATM - 50m - 165 ft",
+    "ACCURACY": "-5 ~ +15 sec. per day (regulated by us)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:49:32.984Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:49:32.984Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "bd7945f42b0ddb96"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1098/sailcloth-bracelets-la-fidele",
+   "name": "Sailcloth Bracelets - LA FIDÈLE",
+   "url": "https://www.manime-watches.com/collections/sailcloth-bracelets-la-fidele",
+   "description": null,
+   "image": null
+  }
+ ]
+}

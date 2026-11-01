@@ -1,0 +1,412 @@
+{
+ "brandId": "BRD-0093",
+ "brandName": "Belchengruppe",
+ "website": "https://belchengruppe.ch",
+ "crawledAt": "2026-11-01T06:37:52.546Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://belchengruppe.ch/logo_belchengruppe.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://belchengruppe.ch/"
+ },
+ "attribution": "Images © Belchengruppe, from belchengruppe.ch",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0093/1247-120-mitternacht",
+   "name": "1247 - 120°",
+   "url": "https://belchengruppe.ch/produkte/1247-120-mitternacht",
+   "image": {
+    "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/2023_120_Mitternacht_Shop.jpg?mtime=1791123220",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/2023_120_Mitternacht_Shop.jpg?mtime=1791123220",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 357500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Die 1247 120° Mitternacht ist eine auf 50 Stück limitierte Schweizer Automatikuhr mit schwarzem DLC-Gehäuse und orangefarbenem Lederband.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "1247 - 120°",
+     "sku": null,
+     "priceMinor": 357500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    },
+    {
+     "title": "1247 - 120°",
+     "sku": null,
+     "priceMinor": 357500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Sellita SW290-1",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Funktionen": "Stunden, Minuten, kleine Sekunde, Datum mit Schnellkorrektur, Sekundenstopp",
+    "Gehäuse": "Edelstahl 1.4404, gebürstet, DLC-beschichtet schwarz",
+    "Abmessungen": "40 X 47 X 11.2 mm",
+    "Kaliber": "Sellita SW290-1, Automatik",
+    "Glas": "Saphirglas entspiegelt",
+    "Wasserdichtigkeit": "5 ATM",
+    "Band": "Rinderleder orange",
+    "Schliesse": "Edelstahl poliert, DLC-beschichtet schwarz",
+    "Design Ziffernblatt": "Jens Neuber",
+    "Referenznummer": "12474 / 0201"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:37:52.546Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:37:52.546Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0093/uhren"
+   ],
+   "hash": "b361298a0d6c4620"
+  },
+  {
+   "id": "BRD-0093/1247-visuren-gebuerstet",
+   "name": "1247 - VISUREN",
+   "url": "https://belchengruppe.ch/produkte/1247-visuren-gebuerstet",
+   "image": {
+    "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/2022_Shop_Visuren_geb.jpg?mtime=1791123228",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/2022_Shop_Visuren_geb.jpg?mtime=1791123228",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 287500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "1247 VISUREN Gebürstet: Schweizer Automatikuhr mit markantem Edelstahlgehäuse, intuitiver Zeitanzeige und Sellita SW290-1.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "1247 - VISUREN",
+     "sku": null,
+     "priceMinor": 287500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    },
+    {
+     "title": "1247 - VISUREN",
+     "sku": null,
+     "priceMinor": 287500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Sellita SW290-1",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Funktionen": "Stunden, Minuten, kleine Sekunde, Datum mit Schnellkorrektur, Sekundenstopp",
+    "Gehäuse": "Edelstahl 1.4404, gebürstet",
+    "Abmessungen": "40 X 47 X 11.2 mm",
+    "Kaliber": "Sellita SW290-1, Automatik",
+    "Glas": "Saphirglas entspiegelt",
+    "Wasserdichtigkeit": "5 ATM",
+    "Band": "Sattelleder schwarz",
+    "Schliesse": "Edelstahl poliert",
+    "Design Ziffernblatt": "Christoph Ruppli",
+    "Referenznummer": "12471 / 0101"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:37:52.546Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:37:52.546Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0093/uhren"
+   ],
+   "hash": "40d394e47ed1006a"
+  },
+  {
+   "id": "BRD-0093/1247-visuren-22",
+   "name": "1247 - VISUREN #22",
+   "url": "https://belchengruppe.ch/produkte/1247-visuren-22",
+   "image": {
+    "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/2022_Shop_Visuren_22.jpg?mtime=1791123228",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/2022_Shop_Visuren_22.jpg?mtime=1791123228",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 337500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Die 1247 VISUREN verbindet mechanische Präzision mit intuitiver Zeitanzeige. Swiss Made Automatikuhr mit markantem 1247 Gehäuse.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "1247 - VISUREN #22",
+     "sku": null,
+     "priceMinor": 337500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    },
+    {
+     "title": "1247 - VISUREN #22",
+     "sku": null,
+     "priceMinor": 337500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Sellita SW290-1",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Funktionen": "Stunden, Minuten, kleine Sekunde, Datum mit Schnellkorrektur, Sekundenstopp",
+    "Gehäuse": "Edelstahl 1.4404, gebürstet",
+    "Abmessungen": "40 X 47 X 11.2 mm",
+    "Kaliber": "Sellita SW290-1, Automatik",
+    "Glas": "Saphirglas entspiegelt",
+    "Wasserdichtigkeit": "5 ATM",
+    "Band": "Sattelleder schwarz",
+    "Schnalle": "Edelstahl poliert",
+    "Design Ziffernblatt": "Christoph Ruppli",
+    "Referenznummer": "12471 / 0102",
+    "Leuchtmasse im Tampondruck": "Superluminova BL 1375C LE GRADE-A"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:37:52.546Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:37:52.546Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0093/uhren"
+   ],
+   "hash": "5800a490948b2ae5"
+  },
+  {
+   "id": "BRD-0093/designberatung-2",
+   "name": "Designberatung – Sie haben Fragen zu unserem Design?",
+   "url": "https://belchengruppe.ch/produkte/designberatung-2",
+   "image": {
+    "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/Vaund_BG_Mitternacht_03.jpg?mtime=1791123245",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/Vaund_BG_Mitternacht_03.jpg?mtime=1791123245",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Sie haben Fragen zu unserem Design?",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "Designberatung – Sie haben Fragen zu unserem Design?",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    },
+    {
+     "title": "Designberatung – Sie haben Fragen zu unserem Design?",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:37:52.546Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:37:52.546Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f881d41a328d5c7e"
+  },
+  {
+   "id": "BRD-0093/designberatung-2-2",
+   "name": "Designberatung",
+   "url": "https://belchengruppe.ch/en/produkte/designberatung-2",
+   "image": {
+    "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/Vaund_BG_Mitternacht_03.jpg?mtime=1791123245",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/Vaund_BG_Mitternacht_03.jpg?mtime=1791123245",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Discover radical Swiss-made watches from Basel. Award-winning design, clean lines and reimagined dials. Find out more now.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "Designberatung",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    },
+    {
+     "title": "Designberatung",
+     "sku": null,
+     "priceMinor": 0,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:37:52.546Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:37:52.546Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f0fd3e581c3917cd"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0093/uhren",
+   "name": "DIE UHREN DER BELCHENGRUPPE",
+   "url": "https://belchengruppe.ch/uhren",
+   "description": "Entdecke radikale Swiss-Made-Uhren aus Basel. Preisgekröntes Design, klare Kanten und neu interpretierte Zifferblätter. Jetzt informieren.",
+   "image": {
+    "url": "https://belchengruppe.ch/assets/images/_1200x630_crop_center-center_82_none/2026_4er_Slider.jpg?mtime=1791123206",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

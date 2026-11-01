@@ -1,0 +1,1941 @@
+{
+ "brandId": "BRD-0231",
+ "brandName": "Fieldstand",
+ "website": "https://fieldstand.com",
+ "crawledAt": "2026-11-01T07:12:43.525Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://fieldstand.com/wp-content/uploads/2025/05/Fieldstand-Header-400x94.jpg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://fieldstand.com/"
+ },
+ "attribution": "Images © Fieldstand, from fieldstand.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0231/mohinora-display-custom",
+   "name": "CUSTOM Display",
+   "url": "https://fieldstand.com/product/mohinora-display-custom/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2026/05/Display-Custom-2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/05/Display-Custom-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 9900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Send us all your requirements for your display by Instagram or in the Order Notes at the end of the CheckOut page! We will make it exactly as you want it!",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Bezel",
+     "values": [
+      "Red",
+      "Black",
+      "Red & Black",
+      "Red &Blue",
+      "Blue & Black"
+     ]
+    },
+    {
+     "name": "Rim",
+     "values": [
+      "Silver",
+      "Golden",
+      "Bronze",
+      "Light Bronze",
+      "Brown",
+      "Black"
+     ]
+    },
+    {
+     "name": "Indicator",
+     "values": [
+      "Hour Indicator",
+      "Hour Hand"
+     ]
+    },
+    {
+     "name": "Engraved back",
+     "values": [
+      "Yes",
+      "No"
+     ]
+    },
+    {
+     "name": "Custom dial with logo",
+     "values": [
+      "Yes",
+      "No"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Bezel": "Red, Black, Red & Black, Red &Blue, Blue & Black",
+    "Rim": "Silver, Golden, Bronze, Light Bronze, Brown, Black",
+    "Indicator": "Hour Indicator, Hour Hand",
+    "Engraved back": "Yes, No",
+    "Custom dial with logo": "Yes, No"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "075e4594075a2c5c"
+  },
+  {
+   "id": "BRD-0231/mohinora-display-corima-i",
+   "name": "STANDARD Display-Corima I",
+   "url": "https://fieldstand.com/product/mohinora-display-corima-i/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Corima-I-Dark-Green-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Corima-I-Dark-Green-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "615d75aba78f39e2"
+  },
+  {
+   "id": "BRD-0231/mohinora-display-marine-iii-2",
+   "name": "STANDARD Display-Marine III",
+   "url": "https://fieldstand.com/product/mohinora-display-marine-iii-2/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-III-Light-Grey-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-III-Light-Grey-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "f2685198cd21814e"
+  },
+  {
+   "id": "BRD-0231/mohinora-display-marine-ii",
+   "name": "STANDARD Display-Marine II",
+   "url": "https://fieldstand.com/product/mohinora-display-marine-ii/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-III-Navy-Blue-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-III-Navy-Blue-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "bbc4d09152f65902"
+  },
+  {
+   "id": "BRD-0231/mohinora-display-marine-i-2",
+   "name": "STANDARD Display-Marine I",
+   "url": "https://fieldstand.com/product/mohinora-display-marine-i-2/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-I-Light-Brown-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-I-Light-Brown-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "39ccca1f40995416"
+  },
+  {
+   "id": "BRD-0231/mohinora-display-track-ii-2",
+   "name": "STANDARD Display-Track II",
+   "url": "https://fieldstand.com/product/mohinora-display-track-ii-2/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-II-Light-Blue-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-II-Light-Blue-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "13a6ac43383c4032"
+  },
+  {
+   "id": "BRD-0231/mohinora-display-track-i-2",
+   "name": "STANDARD Display-Track I",
+   "url": "https://fieldstand.com/product/mohinora-display-track-i-2/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-I-Light-Blue-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-I-Light-Blue-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "93589de751b01669"
+  },
+  {
+   "id": "BRD-0231/mohinora-display-original-i-copy",
+   "name": "STANDARD Display-Original I",
+   "url": "https://fieldstand.com/product/mohinora-display-original-i-copy/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Original-I-Sepia-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Original-I-Sepia-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "de125e26b8ef2d44"
+  },
+  {
+   "id": "BRD-0231/mohinora-advanced-display-corima-i",
+   "name": "ADVANCED Display-Corima I",
+   "url": "https://fieldstand.com/product/mohinora-advanced-display-corima-i/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Corima-I-Salmon-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Corima-I-Salmon-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Corima-Dark-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Corima-Dark-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dialspaintednamed.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/glowdialspainted.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. Lume available in 7 different colors. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    },
+    {
+     "name": "Lume",
+     "values": [
+      "Pink",
+      "Orange",
+      "Green",
+      "Blue",
+      "Yellow",
+      "Turquoise",
+      "Light Green"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia",
+    "Lume": "Pink, Orange, Green, Blue, Yellow, Turquoise, Light Green"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "ace55c8ac0d0be04"
+  },
+  {
+   "id": "BRD-0231/mohinora-legacy-display-heritage-iii",
+   "name": "LEGACY Display-Heritage III",
+   "url": "https://fieldstand.com/product/mohinora-legacy-display-heritage-iii/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-III-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-III-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-III-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-III-3-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. It shows the hours and the minutes by using a red indicator over the dial. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality sapphire double dome crystal, giving an incredible digital-like clarity. Hermetically sealed in safe mineral oil for amazing visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "423c3b653c969c35"
+  },
+  {
+   "id": "BRD-0231/mohinora-legacy-display-heritage-ii",
+   "name": "LEGACY Display-Heritage II",
+   "url": "https://fieldstand.com/product/mohinora-legacy-display-heritage-ii/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-II-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-II-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-II-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-II-3-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. It shows the hours and the minutes by using a red indicator over the dial. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality sapphire double dome crystal, giving an incredible digital-like clarity. Hermetically sealed in safe mineral oil for amazing visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "4036119ae7d8feaa"
+  },
+  {
+   "id": "BRD-0231/mohinora-legacy-display-heritage-i",
+   "name": "LEGACY Display-Heritage I",
+   "url": "https://fieldstand.com/product/mohinora-legacy-display-heritage-i/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-I-1-1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-I-1-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-I-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Heritage-I-3-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. It shows the hours and the minutes by using a red indicator over the dial. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality sapphire double dome crystal, giving an incredible digital-like clarity. Hermetically sealed in safe mineral oil for amazing visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "bfb614b19b2fdda6"
+  },
+  {
+   "id": "BRD-0231/mohinora-advanced-display-marine-iii",
+   "name": "ADVANCED Display-Marine III",
+   "url": "https://fieldstand.com/product/mohinora-advanced-display-marine-iii/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-III-Dark-Green-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-III-Dark-Green-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-III-Dark-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-III-Dark2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dialspaintednamed.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/glowdialspainted.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. Lume available in 7 different colors. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    },
+    {
+     "name": "Lume",
+     "values": [
+      "Pink",
+      "Orange",
+      "Green",
+      "Blue",
+      "Yellow",
+      "Turquoise",
+      "Light Green"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia",
+    "Lume": "Pink, Orange, Green, Blue, Yellow, Turquoise, Light Green"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "4309d7ca84ef173c"
+  },
+  {
+   "id": "BRD-0231/mohinora-advanced-display-marine-ii",
+   "name": "ADVANCED Display-Marine II",
+   "url": "https://fieldstand.com/product/mohinora-advanced-display-marine-ii/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-II-Light-Grey-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-II-Light-Grey-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-II-Dark-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-II-Dark-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dialspaintednamed.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/glowdialspainted.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. Lume available in 7 different colors. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    },
+    {
+     "name": "Lume",
+     "values": [
+      "Pink",
+      "Orange",
+      "Green",
+      "Blue",
+      "Yellow",
+      "Turquoise",
+      "Light Green"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia",
+    "Lume": "Pink, Orange, Green, Blue, Yellow, Turquoise, Light Green"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "3626c63b495b7826"
+  },
+  {
+   "id": "BRD-0231/mohinora-advanced-display-marine-i",
+   "name": "ADVANCED Display-Marine I",
+   "url": "https://fieldstand.com/product/mohinora-advanced-display-marine-i/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-I-Navy-Blue-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-I-Navy-Blue-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-I-Dark-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Marine-I-Dark-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dialspaintednamed.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/glowdialspainted.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. Lume available in 7 different colors. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    },
+    {
+     "name": "Lume",
+     "values": [
+      "Pink",
+      "Orange",
+      "Green",
+      "Blue",
+      "Yellow",
+      "Turquoise",
+      "Light Green"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia",
+    "Lume": "Pink, Orange, Green, Blue, Yellow, Turquoise, Light Green"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "3a8e893953eb61c5"
+  },
+  {
+   "id": "BRD-0231/mohinora-advanced-display-track-ii",
+   "name": "ADVANCED Display-Track II",
+   "url": "https://fieldstand.com/product/mohinora-advanced-display-track-ii/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-II-Salmon-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-II-Salmon-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dark-Track-II-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dark-Track-II-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dialspaintednamed.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/glowdialspainted.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. Lume available in 7 different colors. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    },
+    {
+     "name": "Lume",
+     "values": [
+      "Pink",
+      "Orange",
+      "Green",
+      "Blue",
+      "Yellow",
+      "Turquoise",
+      "Light Green"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia",
+    "Lume": "Pink, Orange, Green, Blue, Yellow, Turquoise, Light Green"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "3d5c603c6a65fd36"
+  },
+  {
+   "id": "BRD-0231/mohinora-advanced-display-track-i",
+   "name": "ADVANCED Display-Track I",
+   "url": "https://fieldstand.com/product/mohinora-advanced-display-track-i/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-I-Dark-Grey-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-I-Dark-Grey-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-I-Dark-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Track-I-Dark-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dialspaintednamed.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/glowdialspainted.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. Lume available in 7 different colors. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    },
+    {
+     "name": "Lume",
+     "values": [
+      "Pink",
+      "Orange",
+      "Green",
+      "Blue",
+      "Yellow",
+      "Turquoise",
+      "Light Green"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia",
+    "Lume": "Pink, Orange, Green, Blue, Yellow, Turquoise, Light Green"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "c7b1165c85dd838d"
+  },
+  {
+   "id": "BRD-0231/mohinora-advanced-display-original-i",
+   "name": "ADVANCED Display-Original I",
+   "url": "https://fieldstand.com/product/mohinora-advanced-display-original-i/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Original-I-Light-Blue-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Original-I-Light-Blue-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Original-I-Dark-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Original-I-Dark-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2026/10/Mohinora-Display-Caseback.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Dialspaintednamed.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/glowdialspainted.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mohinora Displays are designed to be swapped with ease, giving you the freedom to transform your watch without changing the movement. Each display is individually crafted, painted and assembled by hand. Dial available in 12 different colors. It shows the hours and the minutes by a single hand. Lume available in 7 different colors. CNC machined solid aluminium and brass body. Hand polished and assembled. Featuring a high-quality acrylic pan crystal, giving a unique bubble-like effect. Hermetically sealed in safe mineral oil for incredible visibility and smooth operation.",
+   "productType": "Mohinora Displays",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Black",
+      "Navy Blue",
+      "Dark Green",
+      "Dark Brown",
+      "Dark Grey",
+      "Light Brown",
+      "Teal",
+      "Light Blue",
+      "Light Grey",
+      "Salmon",
+      "Ocre",
+      "Sepia"
+     ]
+    },
+    {
+     "name": "Lume",
+     "values": [
+      "Pink",
+      "Orange",
+      "Green",
+      "Blue",
+      "Yellow",
+      "Turquoise",
+      "Light Green"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial Color": "Black, Navy Blue, Dark Green, Dark Brown, Dark Grey, Light Brown, Teal, Light Blue, Light Grey, Salmon, Ocre, Sepia",
+    "Lume": "Pink, Orange, Green, Blue, Yellow, Turquoise, Light Green"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-displays"
+   ],
+   "hash": "d06c89c4d332b322"
+  },
+  {
+   "id": "BRD-0231/mohinora-case-copper",
+   "name": "Mohinora Case-Copper",
+   "url": "https://fieldstand.com/product/mohinora-case-copper/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/coppercaseimg.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/coppercaseimg.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Copper-Case-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Copper-Case-3.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Copper-Case-4.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 21900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mohinora Copper Case is made from a solid copper alloy, a truly expressive material. This case brings an unmatched color, weight and individuality. Over time, copper develops a striking patina, shifting from its bright, reddish tone to deep, earthy hues of brown and green, depending on how you wear it and where it travels. Solid copper alloy case Stainless steel caseback Individually machined, assembled and polished by hand. Water Resistant. Crownless design Housing a high quality Ronda quartz swiss movement. Case dimensions of 41mm by 11mm of thickness.",
+   "productType": "Mohinora Cases",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-cases"
+   ],
+   "hash": "4995685c109b368f"
+  },
+  {
+   "id": "BRD-0231/mohinora-case-brass",
+   "name": "Mohinora Case-Brass",
+   "url": "https://fieldstand.com/product/mohinora-case-brass/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/brasscaseimg.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/brasscaseimg.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Brass-Case-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Brass-Case-3.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Brass-Case-4.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 18900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mohinora Brass Case is a unique component of the Mohinora system which thanks to its material gives a feel of warmth, depth, and character. It develops a natural patina over time, reflecting your lifestyle and creating a one-of-a-kind look with every wear. Solid brass alloy case Stainless steel caseback Individually machined, assembled and polished by hand. Water Resistant. Crownless design Housing a high quality Ronda quartz swiss movement. Case dimensions of 41mm by 11mm of thickness.",
+   "productType": "Mohinora Cases",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-cases"
+   ],
+   "hash": "8f802c92b482b003"
+  },
+  {
+   "id": "BRD-0231/mohinora-case-aluminium",
+   "name": "Mohinora Case-Aluminium",
+   "url": "https://fieldstand.com/product/mohinora-case-aluminium/",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/aluminiumcaseimg.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/aluminiumcaseimg.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Aluminium-Case-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Aluminium-Case-3.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://fieldstand.com/wp-content/uploads/2025/07/Aluminium-Case-4.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 16900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mohinora Aluminum Case is the core of Fieldstand’s patented modular watch system. Crafted from lightweight aluminum alloy, it offers a perfect balance of durability, comfort, and minimalist design. Each case is hand-finished to reveal the raw beauty of the metal, making every piece unique. Solid aluminium alloy case Stainless steel caseback Individually machined, assembled and polished by hand. Water Resistant. Crownless design Housing a high quality Ronda quartz swiss movement. Case dimensions of 41mm by 11mm of thickness.",
+   "productType": "Mohinora Cases",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:12:43.525Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:12:43.525Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0231/mohinora-cases"
+   ],
+   "hash": "5fa7317a920bab7a"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0231/mohinora-displays",
+   "name": "Mohinora Displays",
+   "url": "https://fieldstand.com/product-category/mohinora-displays/",
+   "description": "Switch up your style with Mohinora’s handcrafted displays. Each one fits any Mohinora case, letting you change your watch face in seconds. Designed with care and character, these interchangeable dials give your watch a fresh look whenever you want.",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2025/07/Product-Category-Dials-scaled.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0231/mohinora-cases",
+   "name": "Mohinora Cases",
+   "url": "https://fieldstand.com/product-category/mohinora-cases/",
+   "description": "Handcrafted and built around our patented System Mohinora, this case lets you easily change displays without touching the movement. A modular design made for versatility, durability, and timeless style.",
+   "image": {
+    "url": "https://fieldstand.com/wp-content/uploads/2026/10/categorycaseimg.jpg",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

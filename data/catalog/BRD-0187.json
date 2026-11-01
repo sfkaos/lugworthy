@@ -1,0 +1,406 @@
+{
+ "brandId": "BRD-0187",
+ "brandName": "Double-Ve",
+ "website": "https://double-ve.ch",
+ "crawledAt": "2026-11-01T07:02:35.766Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://double-ve.ch/wp-content/uploads/2020/01/Capture-d%E2%80%99%C3%A9cran-2020-01-21-%C3%A0-15.54.37.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://double-ve.ch/"
+ },
+ "attribution": "Images © Double-Ve, from double-ve.ch",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0187/classic-silver",
+   "name": "Classic-Silver",
+   "url": "https://double-ve.ch/produit/classic-silver/",
+   "image": {
+    "url": "https://double-ve.ch/wp-content/uploads/2024/09/03_20240822_170230-rotated.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://double-ve.ch/wp-content/uploads/2024/09/03_20240822_170230-rotated.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 149000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Une très élégante montre passe-partout.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 53,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Catégorie": "Montres",
+    "Diamètre": "40 mm",
+    "Epaisseur": "10.90 mm yc glace",
+    "Entre-corne": "20 mm",
+    "Fréquence": "21’600 alternances par heure",
+    "Réserve de marche": "53h",
+    "En option": "boucle déployante en acier avec logo “double-Vé”"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:35.766Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:35.766Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4a986b1d38a773b3"
+  },
+  {
+   "id": "BRD-0187/rally-raid",
+   "name": "Rally-Raid",
+   "url": "https://double-ve.ch/produit/rally-raid/",
+   "image": {
+    "url": "https://double-ve.ch/wp-content/uploads/2022/06/286248485_1492768301138827_4926270166373838740_n.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://double-ve.ch/wp-content/uploads/2022/06/286248485_1492768301138827_4926270166373838740_n.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 149000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Montre en bronze pour les baroudeurs. Votre montre se patinera au fil du temps...",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Catégorie": "Montres",
+    "Diamètre": "42 mm",
+    "Epaisseur": "13.85 mm yc glace double dôme",
+    "Entre-corne": "20 mm",
+    "Fréquence": "28’800 alternances par heure",
+    "Réserve de marche": "44h"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:35.766Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:35.766Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "fc50fbded6369a75"
+  },
+  {
+   "id": "BRD-0187/bracelets-en-couleur-pour-romantic-moon",
+   "name": "Bracelets en couleur pour Romantic Moon",
+   "url": "https://double-ve.ch/produit/bracelets-en-couleur-pour-romantic-moon/",
+   "image": {
+    "url": "https://double-ve.ch/wp-content/uploads/2021/03/cuir_famille_couleurs_carr%C3%A9.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://double-ve.ch/wp-content/uploads/2021/03/cuir_famille_couleurs_carr%C3%A9.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 4900,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Bracelet en couleur, bleu, rouge ou blanc avec boucle déployante pour Romantic Moon. Nous contacter pour la couleur à info@double-ve.ch &nbsp;",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Catégorie": "Bracelets"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:35.766Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:35.766Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8ca24c7a18e5fcf6"
+  },
+  {
+   "id": "BRD-0187/romantic-moon",
+   "name": "Romantic Moon",
+   "url": "https://double-ve.ch/produit/romantic-moon/",
+   "image": {
+    "url": "https://double-ve.ch/wp-content/uploads/2020/10/Romantic_Moon_cuir.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://double-ve.ch/wp-content/uploads/2020/10/Romantic_Moon_cuir.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 24900,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": "Disponible dès mi-avril 2021 Une élégante montre avec une romantique indiction de la phase de lune",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 32,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Catégorie": "Montres",
+    "Diamètre": "32 mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:02:35.766Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:35.766Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d661376d423a75ab"
+  },
+  {
+   "id": "BRD-0187/etui-de-voyage",
+   "name": "Etui de voyage",
+   "url": "https://double-ve.ch/produit/etui-de-voyage/",
+   "image": {
+    "url": "https://double-ve.ch/wp-content/uploads/2020/01/Etui-de-voyages-3-montres-Double-Ve-2.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://double-ve.ch/wp-content/uploads/2020/01/Etui-de-voyages-3-montres-Double-Ve-2.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 8990,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Étui de voyage pour 3 montres en cuir brun.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Catégorie": "Accessoires Étiquette : Bracelets",
+    "Étiquette": "Bracelets"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:35.766Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:35.766Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7c5cbdf2f9ef0df7"
+  },
+  {
+   "id": "BRD-0187/bracelet-cuir-effet-carbon-22mm",
+   "name": "Bracelet cuir effet Carbon 22mm",
+   "url": "https://double-ve.ch/produit/bracelet-cuir-effet-carbon-22mm/",
+   "image": {
+    "url": "https://double-ve.ch/wp-content/uploads/2020/01/boutique_bracelets_carbon_sus.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://double-ve.ch/wp-content/uploads/2020/01/boutique_bracelets_carbon_sus.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 8600,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Bracelet de marque Hirsch Carbon 22mm noir-rouge s’accordant à merveille avec votre Endurance Race ou Diamond Race.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Catégorie": "Bracelets Étiquettes : Bracelets , Cuir",
+    "Étiquettes": "Bracelets , Cuir"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:35.766Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:35.766Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f935cc7513be3895"
+  },
+  {
+   "id": "BRD-0187/bracelet-cuir-rally-22mm",
+   "name": "Bracelet cuir Rally 22mm",
+   "url": "https://double-ve.ch/produit/bracelet-cuir-rally-22mm/",
+   "image": {
+    "url": "https://double-ve.ch/wp-content/uploads/2020/01/boutique_bracelets_race_rallye_sus.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://double-ve.ch/wp-content/uploads/2020/01/boutique_bracelets_race_rallye_sus.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5400,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Bracelet de marque Hirsch Rally 22mm noir-rouge s’accordant à merveille avec votre Endurance race ou Diamond race.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Catégorie": "Bracelets Étiquette : Bracelets",
+    "Étiquette": "Bracelets"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:35.766Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:35.766Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5b9c5cee9ad6754c"
+  }
+ ],
+ "collections": []
+}

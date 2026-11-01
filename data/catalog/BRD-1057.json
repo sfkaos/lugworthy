@@ -1,0 +1,539 @@
+{
+ "brandId": "BRD-1057",
+ "brandName": "LaMotte Watch Company",
+ "website": "https://www.lamottewatchco.com",
+ "crawledAt": "2026-11-01T07:41:17.081Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://www.lamottewatchco.com/wp-content/uploads/2022/04/FinalLogo.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.lamottewatchco.com/"
+ },
+ "attribution": "Images © LaMotte Watch Company, from lamottewatchco.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1057/shoreline",
+   "name": "Shoreline",
+   "url": "https://www.lamottewatchco.com/shop/shoreline/",
+   "image": {
+    "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Shoreline-New.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Shoreline-New.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Shoreline-New.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Shoreline-Addl1.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 40000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Inspired by the iconic racing watches of the 60s and 70s.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Type": "Automatic",
+    "Color": "Steel/Gray Leather",
+    "Movement": "Mechaquartz",
+    "Strap": "Stainless Steel Bracelet",
+    "Send all warranty requests to": "info@lamottewatchco.com"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:41:17.081Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:41:17.081Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a12883462b27bf33"
+  },
+  {
+   "id": "BRD-1057/balboa-date-gry",
+   "name": "Balboa Date",
+   "url": "https://www.lamottewatchco.com/shop/balboa-date-gry/",
+   "image": {
+    "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/BalboaDate-Gray.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/BalboaDate-Gray.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/BalboaDate-Gray.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2024/11/IMG_20241030_101745.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2024/11/IMG_20241030_101729-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 89500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our original Balboa design in a new color, with a date window and accuracy regulated to -5/+10 s/d.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Type": "Automatic",
+    "Color": "Steel/Gray Leather",
+    "Movement": "Automatic",
+    "Strap": "Steel/Gray Leather",
+    "Send all warranty requests to": "info@lamottewatchco.com"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:41:17.081Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:41:17.081Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ec16676b601708a9"
+  },
+  {
+   "id": "BRD-1057/balboa-date-brn",
+   "name": "Balboa Date",
+   "url": "https://www.lamottewatchco.com/shop/balboa-date-brn/",
+   "image": {
+    "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/BalboaDate-Brn.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/BalboaDate-Brn.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/BalboaDate-Brn.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2024/11/IMG_20241030_101740.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2024/11/IMG_20241030_101726-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 89500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our original Balboa design in a new color, with a date window and accuracy regulated to -5/+10 s/d.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Type": "Automatic",
+    "Color": "Steel/Gray Leather",
+    "Movement": "Automatic",
+    "Strap": "Steel/Brown Leather",
+    "Send all warranty requests to": "info@lamottewatchco.com"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:41:17.081Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:41:17.081Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "441ccebf0253a0ef"
+  },
+  {
+   "id": "BRD-1057/balboa-silicone",
+   "name": "Balboa Automatic",
+   "url": "https://www.lamottewatchco.com/shop/balboa-silicone/",
+   "image": {
+    "url": "https://www.lamottewatchco.com/wp-content/uploads/2023/07/nato-top-edited-narrow.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2023/07/nato-top-edited-narrow.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2023/07/nato-top-edited-wide.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2023/07/3-4-Black-Silicone-1920x1080_edited.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2023/07/Back-Black-Silicone-scaled-e1691197028212_edited.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 76000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Rugged good looks with premium finishes make this new American icon perfect for any occasion.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "silicone"
+   },
+   "specsRaw": {
+    "Type": "Automatic",
+    "Color": "Steel/Gray Leather",
+    "Movement": "Automatic",
+    "Strap": "Steel/Silicone",
+    "Send all warranty requests to": "info@lamottewatchco.com"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:41:17.081Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:41:17.081Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7f87758977cdf4fd"
+  },
+  {
+   "id": "BRD-1057/balboa-nato",
+   "name": "Balboa Automatic",
+   "url": "https://www.lamottewatchco.com/shop/balboa-nato/",
+   "image": {
+    "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Nylon.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Nylon.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Nylon.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2023/07/Nato-Side_narrow_edited_sized.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2023/07/nato-nylon-top-edited-wide.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 74500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Rugged good looks with premium finishes make this new American icon perfect for any occasion.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Type": "Automatic",
+    "Color": "Steel/Gray Leather",
+    "Movement": "Automatic",
+    "Strap": "Steel/Nylon",
+    "Send all warranty requests to": "info@lamottewatchco.com"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:41:17.081Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:41:17.081Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "eb5512c7c7afd04b"
+  },
+  {
+   "id": "BRD-1057/balboa-gray",
+   "name": "Balboa Automatic",
+   "url": "https://www.lamottewatchco.com/shop/balboa-gray/",
+   "image": {
+    "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Gray.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Gray.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Gray.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2021/12/Color-Corrected-Balboa-Shots-5.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2021/12/Color-Corrected-Balboa-Shots-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2021/12/Color-Corrected-Balboa-Shots-3.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2021/12/Color-Corrected-Balboa-Shots-7.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Rugged good looks with premium finishes make this new American icon perfect for any occasion.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Type": "Automatic",
+    "Color": "Steel/Gray Leather",
+    "Movement": "Automatic",
+    "Strap": "Steel/Gray Leather",
+    "Send all warranty requests to": "info@lamottewatchco.com"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:41:17.081Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:41:17.081Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "20ea78046a866faf"
+  },
+  {
+   "id": "BRD-1057/balboa-brown",
+   "name": "Balboa Automatic",
+   "url": "https://www.lamottewatchco.com/shop/balboa-brown/",
+   "image": {
+    "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Brn.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Brn.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2025/03/Balboa-Brn.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2021/12/Color-Corrected-Balboa-Shots-6.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2021/12/Color-Corrected-Balboa-Shots-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2021/12/Color-Corrected-Balboa-Shots-4.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.lamottewatchco.com/wp-content/uploads/2021/12/Color-Corrected-Balboa-Shots-8.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Rugged good looks with premium finishes make this new American icon perfect for any occasion.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Type": "Automatic",
+    "Color": "Steel/Gray Leather",
+    "Movement": "Automatic",
+    "Strap": "Steel/Brown Leather",
+    "Send all warranty requests to": "info@lamottewatchco.com"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:41:17.081Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:41:17.081Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "082f22696da555e8"
+  }
+ ],
+ "collections": []
+}

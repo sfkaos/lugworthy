@@ -1,0 +1,6705 @@
+{
+ "brandId": "BRD-1410",
+ "brandName": "Watchly",
+ "website": "https://watchly.com",
+ "crawledAt": "2026-11-01T08:51:53.090Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://watchly.com/cdn/shop/files/Screenshot_2026-04-22_at_1.46.15_AM.png?v=1776836814",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://watchly.com/"
+ },
+ "attribution": "Images © Watchly, from watchly.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1410/custom-watch",
+   "name": "Custom Watch",
+   "url": "https://watchly.com/products/custom-watch",
+   "image": null,
+   "images": [],
+   "priceMinor": 4400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "68de01723801a6f0"
+  },
+  {
+   "id": "BRD-1410/roman-numerals-black-gray-40mm-round-watch",
+   "name": "Roman Numerals (Black&Gray) - 40mm Round Watch",
+   "url": "https://watchly.com/products/roman-numerals-black-gray-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171702.jpg?v=1614148595",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171702.jpg?v=1614148595",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171725.jpg?v=1614148483",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171729.jpg?v=1614148483",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_9838cf98-ebee-4a10-82ae-34fffb12f633.jpg?v=1614148483",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_482f9063-b0dd-4304-b425-0900879a693c.jpg?v=1614148353",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_106f712b-9e72-4de0-abe8-4d9179a251e0.jpg?v=1614148350",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Classic roman numeral indices on a black body with gray accents. • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Gray",
+      "Black",
+      "White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "a93a82c582e7fba2"
+  },
+  {
+   "id": "BRD-1410/ghost-40mm-round-watch",
+   "name": "Ghost - 40mm Round Watch",
+   "url": "https://watchly.com/products/ghost-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171335.jpg?v=1614152190",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171335.jpg?v=1614152190",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171439.jpg?v=1614152081",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171429.jpg?v=1614152079",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_e5da789d-faa1-4a2b-a06c-d54201ce4a72.jpg?v=1614152079",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_9a5a4b0c-98af-431f-af84-8b7965e4c9e4.jpg?v=1614151962",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_1a6dc321-16c7-4aad-b762-ceef7d62265c.jpg?v=1614151959",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_c68efb3c-7d01-4dc4-a579-058205c4f805.jpg?v=1614151963",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Boo! • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Round",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Light Blue",
+      "Navy Blue",
+      "White",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "103a51fadf3a7dea"
+  },
+  {
+   "id": "BRD-1410/expletive-40mm-round-watch",
+   "name": "Expletive - 40mm Round Watch",
+   "url": "https://watchly.com/products/expletive-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_181436.jpg?v=1614152439",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_181436.jpg?v=1614152439",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_181454.jpg?v=1614152324",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_181500.jpg?v=1614152324",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_614e77b6-3a47-4de7-ba30-7edf1528d3af.jpg?v=1614152321",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_07e10a31-2401-47cf-8681-cd31808d30b7.jpg?v=1614152192",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_7b2578d3-3e75-418c-8606-5716b2457ca7.jpg?v=1614152189",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Curse the march of time! • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Red",
+      "Black",
+      "Yellow"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "6aa60f00fb582af4"
+  },
+  {
+   "id": "BRD-1410/sailboat-40mm-round-watch",
+   "name": "Sailboat - 40mm Round Watch",
+   "url": "https://watchly.com/products/sailboat-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171110.jpg?v=1614148114",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171110.jpg?v=1614148114",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171131.jpg?v=1614148001",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171139.jpg?v=1614147998",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236_c4c8f5eb-98e3-4e5c-a7a6-0033f6d569f0.jpg?v=1614148001",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_31d012ff-a38f-4e66-9b5a-ee71d881802e.jpg?v=1614147881",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_2b75f5c5-e249-4693-b24c-779bf97e5548.jpg?v=1614147878",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Bring the regatta with you. • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Orange",
+      "Navy Blue",
+      "White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "e35e8e8450424451"
+  },
+  {
+   "id": "BRD-1410/roman-numerals-white-body-40mm-round-watch",
+   "name": "Roman Numerals (White) - 40mm Round Watch",
+   "url": "https://watchly.com/products/roman-numerals-white-body-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171000.jpg?v=1614148350",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171000.jpg?v=1614148350",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171021.jpg?v=1614148243",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_171035.jpg?v=1614148242",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_fe721fde-336e-4a63-bc4a-71a1080fcf70.jpg?v=1614148242",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_26ad02ae-354c-4380-911a-be3e906a5278.jpg?v=1614148114",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_f2f6a00d-dc3a-4b65-aba0-84543c8b8024.jpg?v=1614148114",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Classic roman numeral indices on a plain white body with black accents. • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "White",
+      "Black",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "a66a86b525da27fc"
+  },
+  {
+   "id": "BRD-1410/art-40mm-round-watch",
+   "name": "Art - 40mm Round Watch",
+   "url": "https://watchly.com/products/art-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_170839.jpg?v=1614158919",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_170839.jpg?v=1614158919",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_170853.jpg?v=1614158803",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_170910.jpg?v=1614158802",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_37a98711-8670-4b1d-a36c-8e59381d635a.jpg?v=1614158801",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_ff9d4b05-5b31-4f72-8f45-bfee556251f5.jpg?v=1614158681",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_7635cdb3-ac8a-48ba-ab62-b5525c46e643.jpg?v=1614158677",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_4d7e7086-4f0d-4a77-99e4-e25054f0e051.jpg?v=1614158681",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Good art takes time. • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Red",
+      "Navy Blue",
+      "Yellow",
+      "Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "24d0ec2dbaa65fcd"
+  },
+  {
+   "id": "BRD-1410/waterside-sunset-40mm-round-watch",
+   "name": "Waterside Sunset - 40mm Round Watch",
+   "url": "https://watchly.com/products/waterside-sunset-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_010006.jpg?v=1614145959",
+    "width": 2993,
+    "height": 2993
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_010006.jpg?v=1614145959",
+     "width": 2993,
+     "height": 2993
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_010026.jpg?v=1614145959",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_010044.jpg?v=1614145959",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_f373eb3e-c8fd-42e3-9654-99a7e310296d.jpg?v=1614145838",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_42772597-d822-479c-8183-c10f8fa8477b.jpg?v=1614145841",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_c956c582-fb3e-437d-87fd-08cce1d3bb6c.jpg?v=1614145838",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236_7cc23cfa-ce13-410f-9232-fe30e6ccfade.jpg?v=1614145718",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Watch the sunset anytime you need a break • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "Places",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Red",
+      "Navy Blue",
+      "Yellow",
+      "Orange"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/places",
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "eccdbe185fc9ad63"
+  },
+  {
+   "id": "BRD-1410/india-40mm-round-watch",
+   "name": "India - 40mm Round Watch",
+   "url": "https://watchly.com/products/india-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_005736.jpg?v=1614150757",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_005736.jpg?v=1614150757",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_005805.jpg?v=1614150757",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_005813.jpg?v=1614150639",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236_fbb7b38d-c582-4112-939e-b254feb33dad.jpg?v=1614150640",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_cf5292f8-8078-4b6a-a159-d0c787b281a7.jpg?v=1614150641",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_e723ea17-896e-473c-ac79-2be1c92d05b4.jpg?v=1614150529",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_854ef32c-c128-4262-86ef-4fdb6aae1081.jpg?v=1614150525",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Show your love for India 🇮🇳 ! • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Places",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Orange",
+      "Green",
+      "Navy Blue",
+      "White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/places",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "5ea10b9eb0c5bf96"
+  },
+  {
+   "id": "BRD-1410/china-40mm-round-watch",
+   "name": "China - 40mm Round Watch",
+   "url": "https://watchly.com/products/china-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_005855.jpg?v=1614154121",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_005855.jpg?v=1614154121",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_005916.jpg?v=1614154120",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201218_005926.jpg?v=1614154119",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_c830bfaa-95c2-470b-baa9-ad33fa75b632.jpg?v=1614154003",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_ee327ceb-8829-4d98-a9c1-751a3abed937.jpg?v=1614154003",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_5846dcd8-055f-4788-a24d-90168ec58fdd.jpg?v=1614154006",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Show your love for China 🇨🇳 我们爱中国！ • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Places",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Yellow",
+      "Red",
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/places",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "6accaec23d13d7b0"
+  },
+  {
+   "id": "BRD-1410/zebra-40mm-round-watch",
+   "name": "Zebra - 40mm Round Watch",
+   "url": "https://watchly.com/products/zebra-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181808.jpg?v=1614145114",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181808.jpg?v=1614145114",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181832.jpg?v=1614144998",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181826.jpg?v=1614144998",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_b9388bd1-38ae-4290-ae4f-1a90b3f02889.jpg?v=1614144515",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_969d4201-c5f5-412a-bc91-3fc2edcdaad8.jpg?v=1614144515",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_ecc3c054-3b79-4c1c-8f9e-ef446c47f04f.jpg?v=1614144512",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• What sound does a zebra make? It's up to you! • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": null,
+   "tags": [
+    "Animals"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Gray",
+      "Black",
+      "White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/animals"
+   ],
+   "hash": "8620a2b06a902971"
+  },
+  {
+   "id": "BRD-1410/copy-of-tiger-40mm-round-watch",
+   "name": "Horse - 40mm Round Watch",
+   "url": "https://watchly.com/products/copy-of-tiger-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181906.jpg?v=1614151000",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181906.jpg?v=1614151000",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181920.jpg?v=1614151000",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181939.jpg?v=1614150877",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_46d54891-c0d7-42c9-ba19-475fb668d2a3.jpg?v=1614150873",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_c8951941-7883-458c-93d4-a3077ecce1e2.jpg?v=1614150876",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_1ec89e7d-0935-4c8d-9c34-e88f7f8440f7.jpg?v=1614150759",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Adorn your wrist with the stately profile of the most majestic animal • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": null,
+   "tags": [
+    "All",
+    "Animals"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "White",
+      "Black",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/animals"
+   ],
+   "hash": "9258dd60723baa44"
+  },
+  {
+   "id": "BRD-1410/tiger-40mm-round-watch",
+   "name": "Tiger - 40mm Round Watch",
+   "url": "https://watchly.com/products/tiger-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181612.jpg?v=1614146551",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181612.jpg?v=1614146551",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181646.jpg?v=1614146443",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_181706.jpg?v=1614146443",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236_84101822-12b2-4bb5-8541-b0602e5928e7.jpg?v=1614146443",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_8b47a681-5300-481c-9726-9e8bf5019e93.jpg?v=1614146318",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_19ba3687-2209-4c63-b6bf-3f977e42c7d1.jpg?v=1614146314",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Roar • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": null,
+   "tags": [
+    "Animals"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Orange",
+      "Black",
+      "Yellow"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/animals"
+   ],
+   "hash": "e7b807bac9c4a825"
+  },
+  {
+   "id": "BRD-1410/rainy-day-40mm-round-watch",
+   "name": "Rainy Day - 40mm Round Watch",
+   "url": "https://watchly.com/products/rainy-day-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_180951.jpg?v=1614149077",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_180951.jpg?v=1614149077",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181012.jpg?v=1614149077",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181042.jpg?v=1614149074",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_b92162c4-8969-4691-9a9c-9d601e710c4b.jpg?v=1614148956",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_ae4ffc02-96e5-4178-b430-ecaeeb07bff7.jpg?v=1614148957",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_2b986734-b94e-4e1a-90c4-818bb2068d60.jpg?v=1614148955",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Your style should reflect the weather you wear it in • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Occasions",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Gray",
+      "Navy Blue",
+      "Light Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/occasions",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "8687797ae79752e8"
+  },
+  {
+   "id": "BRD-1410/cloudy-day-40mm-round-watch",
+   "name": "Cloudy Day - 40mm Round Watch",
+   "url": "https://watchly.com/products/cloudy-day-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181116.jpg?v=1614153638",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181116.jpg?v=1614153638",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181134.jpg?v=1614153637",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181144.jpg?v=1614153637",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_29a4a65f-fa03-4744-b3b7-0d5f2b1a811f.jpg?v=1614153513",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_f609a1dc-d6c6-4c93-a956-9376be1c2549.jpg?v=1614153513",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_eae8cde6-b0c4-4050-9d2b-20f030f370f4.jpg?v=1614153510",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_92edb672-24b9-4d37-9071-e69890ff1d68.jpg?v=1614153393",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Your style should reflect the weather you wear it in • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Occasions",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Gray",
+      "Navy Blue",
+      "White",
+      "Light Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/occasions",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "192b64e21d4e2a85"
+  },
+  {
+   "id": "BRD-1410/snowy-day-40mm-round-watch",
+   "name": "Snowy Winter Day - 40mm Round Watch",
+   "url": "https://watchly.com/products/snowy-day-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181342.jpg?v=1614147881",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181342.jpg?v=1614147881",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181355.jpg?v=1614147758",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_181407.jpg?v=1614147757",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_0a940a55-1ef5-405d-b096-12b44f3edb7a.jpg?v=1614147757",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_e291d775-2912-427f-81ee-846737e4f076.jpg?v=1614147639",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_f9cbba1d-cb62-4f72-b3f4-98ac81ad7829.jpg?v=1614147643",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Your style should reflect the weather you wear it in • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Occasions",
+    "Seasons",
+    "Theme",
+    "Weather"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Light Blue",
+      "White",
+      "Navy Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/occasions",
+    "BRD-1410/seasons",
+    "BRD-1410/theme-1",
+    "BRD-1410/weather"
+   ],
+   "hash": "f5559ff65605aca5"
+  },
+  {
+   "id": "BRD-1410/sunny-day-40mm-round-watch",
+   "name": "Sunny Day - 40mm Round Watch",
+   "url": "https://watchly.com/products/sunny-day-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_182302.jpg?v=1614147283",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_182302.jpg?v=1614147283",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_182314.jpg?v=1614147283",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201216_182325.jpg?v=1614147284",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_9954e606-c3bb-462d-bc34-5d80b41eac89.jpg?v=1614147153",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_a0108484-3058-4bb1-a9b3-629badda9e6b.jpg?v=1614147153",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236_a6652721-9d42-4e82-bfb0-7152194432f4.jpg?v=1614147156",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_8af1af1a-9e3f-4655-9c19-a812bda51d09.jpg?v=1614147035",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Your style should reflect the weather you wear it in • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Occasions",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Yellow",
+      "Red",
+      "Orange",
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/occasions",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "c0d9737221cd5db8"
+  },
+  {
+   "id": "BRD-1410/spring-flowers-40mm-round-watch",
+   "name": "Spring Flowers - 40mm Round Watch",
+   "url": "https://watchly.com/products/spring-flowers-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/lightened.jpg?v=1617656219",
+    "width": 2997,
+    "height": 2997
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/lightened.jpg?v=1617656219",
+     "width": 2997,
+     "height": 2997
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20210402_190432.jpg?v=1617656163",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20210402_190449.jpg?v=1617656163",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_9722e215-d090-47d5-8d48-dd744e8958bc.jpg?v=1617656163",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_174b6b68-6c09-4ecb-842e-692072bc74da.jpg?v=1617656163",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_baa293f2-11c1-4c25-830d-9c28fe39313f.jpg?v=1617656163",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_cde7c2fe-4fe5-432f-9e61-369301778cb6.jpg?v=1617656163",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Watch body is durably 3D-printed in PLA • 40mm diameter, 12.5mm thickness • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass More about the watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Occasions",
+    "Seasons",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Yellow",
+      "Red",
+      "Navy Blue",
+      "Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/occasions",
+    "BRD-1410/seasons",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "2fa23e5b518f839d"
+  },
+  {
+   "id": "BRD-1410/christmas-tree-40mm-round-watch",
+   "name": "Christmas Tree - 40mm Round Watch",
+   "url": "https://watchly.com/products/christmas-tree-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201208_003519.jpg?v=1614153874",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201208_003519.jpg?v=1614153874",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201208_003624.jpg?v=1614153875",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201208_003637.jpg?v=1614153873",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_c2fc4814-9ab7-43a5-b025-57dbc552b9d4.jpg?v=1614153755",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_70aebe13-e9f8-4836-a921-d719a79d591d.jpg?v=1614153755",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_e37f89bd-feb7-499b-bdfe-bda17d318310.jpg?v=1614153757",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Get in the Christmas spirit! • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Occasions",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Red",
+      "White",
+      "Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/occasions",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "e706bfe7be7b72e4"
+  },
+  {
+   "id": "BRD-1410/thanksgiving-turkey-40mm-round-watch",
+   "name": "Thanksgiving Turkey - 40mm Round Watch",
+   "url": "https://watchly.com/products/thanksgiving-turkey-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_235454.jpg?v=1614146792",
+    "width": 2947,
+    "height": 2947
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_235454.jpg?v=1614146792",
+     "width": 2947,
+     "height": 2947
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_235747.jpg?v=1614146792",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_232723.jpg?v=1614146679",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174215_b9651979-0ee9-414a-9523-380fd01e94bf.jpg?v=1614146680",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236_865964c7-2527-4be9-a9ed-1480b5faf40e.jpg?v=1614146679",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_79aaf260-c2c9-48f1-a967-30e15bd10b66.jpg?v=1614146549",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_22e31436-7b82-4a6b-9262-67ee171f01d8.jpg?v=1614146550",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• This turkey classic is really something to be thankful for • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Animals",
+    "Occasions",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Dark Red",
+      "Orange",
+      "Yellow",
+      "Bright Red"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Dark Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Dark Red"
+     ]
+    },
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Bright Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bright Red"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/animals",
+    "BRD-1410/occasions",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "e67627b4bcbd8650"
+  },
+  {
+   "id": "BRD-1410/halloween-pumpkin-40mm-round-watch",
+   "name": "Halloween Jack O'Lantern - 40mm Round Watch",
+   "url": "https://watchly.com/products/halloween-pumpkin-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202849.jpg?v=1614151239",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202849.jpg?v=1614151239",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202949.jpg?v=1614151238",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_203028.jpg?v=1614151121",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236_c279b4be-931c-4351-801f-339a1b38bcf8.jpg?v=1614151121",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_71591cc7-359f-4b55-b3f3-34ff0b2653df.jpg?v=1614151120",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_005dc021-7883-4f02-8621-8f56f24358df.jpg?v=1614150997",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Keep your style spooky for many Halloweens to come • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Occasions",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Orange",
+      "Black",
+      "Yellow"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/occasions",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "016c724b032b52a7"
+  },
+  {
+   "id": "BRD-1410/puppy-dog-40mm-square-watch",
+   "name": "Puppy Dog - 40mm Square Watch",
+   "url": "https://watchly.com/products/puppy-dog-40mm-square-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_224039.jpg?v=1614157075",
+    "width": 3006,
+    "height": 3006
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_224039.jpg?v=1614157075",
+     "width": 3006,
+     "height": 3006
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_225713.jpg?v=1614157074",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_225233.jpg?v=1614157075",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_684a6663-54ae-405b-a0f0-ac8073c2e216.jpg?v=1614156657",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_ac2e2c66-656c-43f1-8758-70dde9081da0.jpg?v=1614156659",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174021_4ae74f84-de11-443d-825b-c0924cb0fa65.jpg?v=1614156659",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_e8961d29-794c-4bc6-b02a-714ebd9b6598.jpg?v=1614156055",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Who says you can't bring your dog with you everywhere? • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant m",
+   "productType": "Theme 40mm Square",
+   "tags": [
+    "All",
+    "Animals",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Yellow",
+      "Light Blue",
+      "Pink",
+      "Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    },
+    {
+     "title": "Pink",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Pink"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/animals",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "2c221ea56e51f876"
+  },
+  {
+   "id": "BRD-1410/raccoon-40mm-round-watch",
+   "name": "Raccoon - 40mm Round Watch",
+   "url": "https://watchly.com/products/raccoon-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201116_010342.jpg?v=1614156056",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201116_010342.jpg?v=1614156056",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_184456.jpg?v=1614156055",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200827_171900.jpg?v=1614155685",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_58781379-15de-475a-907a-6720804efac0.jpg?v=1614155684",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_44abb76f-237c-4ce0-8b4b-608fabd66d23.jpg?v=1614149201",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173054_3069d2a5-93d6-4c6c-a719-448602e55a68.jpg?v=1614149200",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_e45f0ff1-05c4-464a-a640-048484375055.jpg?v=1614149199",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Take the cutest bandit in the animal kingdom with you everywhere ( safely ) • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant m",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Animals",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Light Blue",
+      "Navy Blue",
+      "Black",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/animals",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "b8e373fdc348b07b"
+  },
+  {
+   "id": "BRD-1410/no-covid-40mm-round-watch",
+   "name": "No COVID - 40mm Round Watch",
+   "url": "https://watchly.com/products/no-covid-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200827_173017.jpg?v=1614150046",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200827_173017.jpg?v=1614150046",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_184730.jpg?v=1614150046",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200827_173030.jpg?v=1614149914",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174215_e852ebac-f4d4-4c32-83cf-c2f935eefd84.jpg?v=1614149914",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_25ec3663-0788-43a6-aecc-4f637d144ff2.jpg?v=1614149912",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_e2be62f6-0d1f-414c-9f9f-785d95fefb25.jpg?v=1614149794",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_108b5e2d-6e24-4f32-ab5a-0a8bda62b3f2.jpg?v=1614149792",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Pandemic weary? This statement piece shows COVID who's boss (it's you). • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Round",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Dark Red",
+      "Gray",
+      "Yellow",
+      "Bright Red"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Dark Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Dark Red"
+     ]
+    },
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Bright Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bright Red"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "00124b3f0c327751"
+  },
+  {
+   "id": "BRD-1410/copy-of-america-40mm-round-watch-1",
+   "name": "Kitty Cat - 40mm Round Watch",
+   "url": "https://watchly.com/products/copy-of-america-40mm-round-watch-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_234702.jpg?v=1614150528",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_234702.jpg?v=1614150528",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_235319.jpg?v=1614150405",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_234821.jpg?v=1614150404",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Who says you can't bring your cat with you everywhere? • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Animals",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Green",
+      "Yellow",
+      "Orange"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/animals",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "5d23138450b9b036"
+  },
+  {
+   "id": "BRD-1410/tv-40mm-round-watch",
+   "name": "TV - 40mm Round Watch",
+   "url": "https://watchly.com/products/tv-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_004840.jpg?v=1614146318",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_004840.jpg?v=1614146318",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_004858.jpg?v=1614146197",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_005323.jpg?v=1614146198",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_6babaa55-3bf1-4c10-96ce-1c8d057d09bc.jpg?v=1614146196",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_12980de8-80ec-4c7c-a5d1-a1baf1eebc3d.jpg?v=1614146071",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_b1b59e99-753e-440b-846f-72a8efbe28b0.jpg?v=1614146075",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_49a6dc3f-876f-46ad-9c47-63719164c881.jpg?v=1614146074",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Nostalgic for the TV color bars of yesteryear? Zone out to them anytime with our TV watch • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "Round",
+    "Theme",
+    "Whatever"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Navy Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/theme-1",
+    "BRD-1410/whatever-else"
+   ],
+   "hash": "d4e6ec52aadd246e"
+  },
+  {
+   "id": "BRD-1410/earth-40mm-square-watch",
+   "name": "Earth - 40mm Square Watch",
+   "url": "https://watchly.com/products/earth-40mm-square-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_200259.jpg?v=1614152682",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_200259.jpg?v=1614152682",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_194449.jpg?v=1614152681",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_194429.jpg?v=1614152558",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_29f69eb5-a57c-4295-9355-7684a1e8294f.jpg?v=1614152559",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_34e02aad-29f6-4f6f-836d-63c7d1cfe2a3.jpg?v=1614152558",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_3ceb9c35-4f6c-4a09-b373-04c81ee9686d.jpg?v=1614152437",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_5d36b4ce-d2f1-4bfc-9bd0-47b4ab1caf50.jpg?v=1614152437",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• The Earth is square! • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Square",
+   "tags": [
+    "All",
+    "Places",
+    "Round",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Green",
+      "Navy Blue",
+      "Light Blue",
+      "Yellow"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/places",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "c4c176522a85642d"
+  },
+  {
+   "id": "BRD-1410/autumn-40mm-square-watch",
+   "name": "Autumn Leaves - 40mm Square Watch",
+   "url": "https://watchly.com/products/autumn-40mm-square-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_010728.jpg?v=1614158557",
+    "width": 2960,
+    "height": 2960
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_010728.jpg?v=1614158557",
+     "width": 2960,
+     "height": 2960
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_011400.jpg?v=1614158556",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_010518.jpg?v=1614158556",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174215_9d274494-a3e6-4bd1-a30e-6dbde253de03.jpg?v=1614158350",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_794ef3da-8227-49c4-8922-a0263c9be86f.jpg?v=1614158349",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236_b1e55df9-6b5b-42e5-893e-bd7294dbe47d.jpg?v=1614158350",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_051bf1e5-700d-48bb-9870-8c4ef534516c.jpg?v=1614158205",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Fall in love with Autumn • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Square",
+   "tags": [
+    "All",
+    "Occasions"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Dark Red",
+      "Green",
+      "Orange",
+      "Yellow"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Dark Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Dark Red"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    },
+    {
+     "title": "Orange",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/occasions"
+   ],
+   "hash": "e835d461e47ddf93"
+  },
+  {
+   "id": "BRD-1410/america-40mm-round-watch",
+   "name": "America! - 40mm Round Watch",
+   "url": "https://watchly.com/products/america-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_002805.jpg?v=1614159520",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_002805.jpg?v=1614159520",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_002848.jpg?v=1614159519",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_002917.jpg?v=1614159519",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_c4e569a3-e0d7-4c3d-9b99-7d0926c2787b.jpg?v=1614159343",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_4b75dd78-b96e-429c-ade0-ad97ee8c2902.jpg?v=1614159343",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_fe607375-540c-4c94-bdfb-eaa6ad9c7511.jpg?v=1614159348",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_8b8e2050-18a7-4f39-b609-4457184b525b.jpg?v=1614159161",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Wear and share your patriotism for the USA, also available in a square body • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "National Theme 40mm Round",
+   "tags": [
+    "All",
+    "National Theme",
+    "Places",
+    "Round",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Red",
+      "White",
+      "Navy Blue",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/national-theme",
+    "BRD-1410/places",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "0e7bcd4915180549"
+  },
+  {
+   "id": "BRD-1410/america-40mm-square-watch",
+   "name": "America! - 40mm Square Watch",
+   "url": "https://watchly.com/products/america-40mm-square-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_001242.jpg?v=1614159161",
+    "width": 2964,
+    "height": 2964
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_001242.jpg?v=1614159161",
+     "width": 2964,
+     "height": 2964
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_002144.jpg?v=1614159161",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_001344.jpg?v=1614159054",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_ebdd0c50-c7bc-451c-95e2-751cd7f94e6b.jpg?v=1614159051",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_970fbd92-8955-4c77-b23f-1a41fb9008d1.jpg?v=1614159055",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_e7c3664f-2080-48c1-a2cc-8294a2833e1c.jpg?v=1614158916",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816_2466e09e-8e29-454e-bc1b-84d287c57233.jpg?v=1614158920",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Wear and share your patriotism for the USA, also available in a round body • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "National Theme 40mm Square",
+   "tags": [
+    "All",
+    "National Theme",
+    "Places",
+    "Square",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Bright Red",
+      "Navy Blue",
+      "White",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bright Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bright Red"
+     ]
+    },
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/national-theme",
+    "BRD-1410/places",
+    "BRD-1410/square-bodied-watches",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "9efb0c0bc801cb4a"
+  },
+  {
+   "id": "BRD-1410/canada-40mm-square-watch",
+   "name": "Canada! - 40mm Square Watch",
+   "url": "https://watchly.com/products/canada-40mm-square-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202548.jpg?v=1614154371",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202548.jpg?v=1614154371",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202631.jpg?v=1614154370",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202647.jpg?v=1614154239",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_ed55df32-2559-4dd0-a3e0-f176b13275b5.jpg?v=1614154238",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_98c5de24-0984-482d-9b96-238e6a87d8e0.jpg?v=1614154238",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Wear and share your patriotism for Canada, also available in a round body • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "National Theme 40mm Square",
+   "tags": [
+    "All",
+    "National Theme",
+    "Places",
+    "Square",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "White",
+      "Red"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/national-theme",
+    "BRD-1410/places",
+    "BRD-1410/square-bodied-watches",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "b97fd2ab891054fc"
+  },
+  {
+   "id": "BRD-1410/canada-40mm-round-watch",
+   "name": "Canada! - 40mm Round Watch",
+   "url": "https://watchly.com/products/canada-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202451.jpg?v=1614155065",
+    "width": 2964,
+    "height": 2964
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202451.jpg?v=1614155065",
+     "width": 2964,
+     "height": 2964
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202226.jpg?v=1614154644",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_202250.jpg?v=1614154644",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_0970957e-43a5-4ca1-9a77-d7e6b12703a0.jpg?v=1614154642",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927_fcf14f66-e761-46a3-9627-6a5efce9bcc9.jpg?v=1614154368",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Wear and share your patriotism for Canada, also available in a square body • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "National Theme 40mm Round",
+   "tags": [
+    "All",
+    "National Theme",
+    "Places",
+    "Round",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Red",
+      "White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/national-theme",
+    "BRD-1410/places",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "100379a3a3e1abff"
+  },
+  {
+   "id": "BRD-1410/earth-40mm-round-watch",
+   "name": "Earth - 40mm Round Watch",
+   "url": "https://watchly.com/products/earth-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_192234.jpg?v=1614152924",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_192234.jpg?v=1614152924",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_192338.jpg?v=1614152923",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201103_192413.jpg?v=1614152923",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148_1aa07e8a-67fc-4b30-9e92-1c3b1b7e5f22.jpg?v=1614152805",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_eb271ce7-4c0a-409c-96db-d1af1b41535b.jpg?v=1614152804",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_2e1293a9-2c02-43bc-82e5-c6f4f940c5aa.jpg?v=1614152802",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_1dae257b-3cd1-47f0-b201-9b85f0e5d750.jpg?v=1614152683",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• Prove those flat-earthers wrong, the earth is round! • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Places",
+    "Round",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Navy Blue",
+      "Light Blue",
+      "Yellow",
+      "Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Navy Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy Blue"
+     ]
+    },
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/places",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "372e9d8d9f37df83"
+  },
+  {
+   "id": "BRD-1410/bird-40mm-round-watch",
+   "name": "Bird - 40mm Round Watch",
+   "url": "https://watchly.com/products/bird-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_182132.jpg?v=1614158207",
+    "width": 2980,
+    "height": 2980
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201217_182132.jpg?v=1614158207",
+     "width": 2980,
+     "height": 2980
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_233441.jpg?v=1614158207",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20201102_231815.jpg?v=1614158079",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956_f35ffbc0-e371-4b52-bb14-b01c72c0db48.jpg?v=1614158081",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920_bda5edec-7718-481b-bd7e-84af2d4e1d89.jpg?v=1614158078",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258_66b3fd8f-14a7-454e-af5a-58e7e0d08e0a.jpg?v=1614157966",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316_598a0ed8-ff2c-4dbd-91b0-bfb5dcb9fc27.jpg?v=1614157968",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "• A little birdie told me you're going to love this Watchly • Classic 40mm watch body is durably 3D-printed • Adjustable silicone strap in your choice of color (one size fits all) __________ Features Watch hands feature a glow in the dark strip for visibility Tried-and-true quartz movement from Seiko™ Approximate two-year battery life (replaceable thereafter) Scratch-resistant mineral glass is slightly convex More about our watches",
+   "productType": "Theme 40mm Round",
+   "tags": [
+    "All",
+    "Animals",
+    "Theme"
+   ],
+   "options": [
+    {
+     "name": "Strap Color",
+     "values": [
+      "Green",
+      "Yellow",
+      "Bright Red",
+      "Light Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Bright Red",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bright Red"
+     ]
+    },
+    {
+     "title": "Light Blue",
+     "sku": null,
+     "priceMinor": 3700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/animals",
+    "BRD-1410/theme-1"
+   ],
+   "hash": "0be2d0754a801309"
+  },
+  {
+   "id": "BRD-1410/white-40mm-round-watch",
+   "name": "White - 40mm Round Watch",
+   "url": "https://watchly.com/products/white-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_194512.jpg?v=1614145717",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_194512.jpg?v=1614145717",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_191354.jpg?v=1614145717",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_195357.jpg?v=1614145592",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172927.jpg?v=1614145591",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "e3c960c2b39c8362"
+  },
+  {
+   "id": "BRD-1410/green-40mm-round-watch",
+   "name": "Green - 40mm Round Watch",
+   "url": "https://watchly.com/products/green-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_161309.jpg?v=1614151595",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_161309.jpg?v=1614151595",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_161004.jpg?v=1614151477",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_200012.jpg?v=1614151477",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_172956.jpg?v=1614151478",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "d33cd97f1d26f121"
+  },
+  {
+   "id": "BRD-1410/gray-40mm-round-watch",
+   "name": "Gray - 40mm Round Watch",
+   "url": "https://watchly.com/products/gray-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_185540.jpg?v=1614151842",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_185540.jpg?v=1614151842",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_185557.jpg?v=1614151842",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_193239.jpg?v=1614151842",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173816.jpg?v=1614151716",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "432e4f1bfb1fe4ba"
+  },
+  {
+   "id": "BRD-1410/red-40mm-round-watch",
+   "name": "Red - 40mm Round Watch",
+   "url": "https://watchly.com/products/red-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_173352.jpg?v=1614148835",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_173352.jpg?v=1614148835",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_174607.jpg?v=1614148835",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_193521.jpg?v=1614148835",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173920.jpg?v=1614148712",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "0277df20af057fef"
+  },
+  {
+   "id": "BRD-1410/dark-red-40mm-round-watch",
+   "name": "Dark Red - 40mm Round Watch",
+   "url": "https://watchly.com/products/dark-red-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_181002.jpg?v=1614153277",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_181002.jpg?v=1614153277",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_181015.jpg?v=1614153275",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_190722.jpg?v=1614153157",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174215.jpg?v=1614153157",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "f249c6a75da17227"
+  },
+  {
+   "id": "BRD-1410/yellow-40mm-round-watch",
+   "name": "Yellow - 40mm Round Watch",
+   "url": "https://watchly.com/products/yellow-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_193113.jpg?v=1614145361",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_193113.jpg?v=1614145361",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_193136.jpg?v=1614145361",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_194439.jpg?v=1614145361",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174258.jpg?v=1614145230",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "fbf4d94364e2532c"
+  },
+  {
+   "id": "BRD-1410/orange-40mm-round-watch",
+   "name": "Orange - 40mm Round Watch",
+   "url": "https://watchly.com/products/orange-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_183522.jpg?v=1614149795",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_183522.jpg?v=1614149795",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_183533.jpg?v=1614149672",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_193744.jpg?v=1614149673",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175236.jpg?v=1614149674",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "b679d6b4c274cb42"
+  },
+  {
+   "id": "BRD-1410/light-blue-40mm-round-watch",
+   "name": "Light Blue - 40mm Round Watch",
+   "url": "https://watchly.com/products/light-blue-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_165702.jpg?v=1614150406",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_165702.jpg?v=1614150406",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_165717.jpg?v=1614150284",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_195213.jpg?v=1614150285",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_175316.jpg?v=1614150284",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "2ff36b77789f5263"
+  },
+  {
+   "id": "BRD-1410/copy-of-black-40mm-round-watch",
+   "name": "Blue - 40mm Round Watch",
+   "url": "https://watchly.com/products/copy-of-black-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_164611.jpg?v=1614155447",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_164611.jpg?v=1614155447",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_164623.jpg?v=1614155446",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_194125.jpg?v=1614155447",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_173148.jpg?v=1614155226",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "c2476aa9959d19c9"
+  },
+  {
+   "id": "BRD-1410/pink-40mm-round-watch",
+   "name": "Pink - 40mm Round Watch",
+   "url": "https://watchly.com/products/pink-40mm-round-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_190114.jpg?v=1614149440",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_190114.jpg?v=1614149440",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200715_190126.jpg?v=1614149440",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_194819.jpg?v=1614149320",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200710_174021.jpg?v=1614149317",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "85da20b701cda656"
+  },
+  {
+   "id": "BRD-1410/copy-of-40mm-round-watch-teal-1",
+   "name": "Coral - 40mm Round Watch",
+   "url": "https://watchly.com/products/copy-of-40mm-round-watch-teal-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200713_195014.jpg?v=1614153394",
+    "width": 2943,
+    "height": 2943
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200713_195014.jpg?v=1614153394",
+     "width": 2943,
+     "height": 2943
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200713_195212.jpg?v=1614153394",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_195812.jpg?v=1614153276",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "a3d010da9ebaef51"
+  },
+  {
+   "id": "BRD-1410/40mm-round-watch-teal",
+   "name": "Teal - 40mm Round Watch",
+   "url": "https://watchly.com/products/40mm-round-watch-teal",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200709_181015.jpg?v=1614147034",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200709_181015.jpg?v=1614147034",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200709_181304.jpg?v=1614147034",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0077/1198/1679/products/20200716_191047.jpg?v=1614146911",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "- Classic 40mm body suits all wrist sizes - Durable, lightweight, 3D-printed body and strap - Tried-and-true Hattori quartz movement from Seiko™ - Vibrant colors complement your every look - Familiar chain-style strap comes in 9 sizes. What's my strap size?",
+   "productType": "40mm Round",
+   "tags": [
+    "All",
+    "Plain",
+    "Round"
+   ],
+   "options": [
+    {
+     "name": "Chain-Style Strap Size (cm)",
+     "values": [
+      "Size 0: <13.5-14.25",
+      "Size 1: 14.25-15",
+      "Size 2: 15-15.75",
+      "Size 3: 15.75-16.5",
+      "Size 4: 16.5-17.25",
+      "Size 5: 17.25-18",
+      "Size 6: 18-18.75",
+      "Size 7: 18.75-19.75",
+      "Size 8: 19.75-20.5",
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Size 0: <13.5-14.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 0: <13.5-14.25"
+     ]
+    },
+    {
+     "title": "Size 1: 14.25-15",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 1: 14.25-15"
+     ]
+    },
+    {
+     "title": "Size 2: 15-15.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 2: 15-15.75"
+     ]
+    },
+    {
+     "title": "Size 3: 15.75-16.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 3: 15.75-16.5"
+     ]
+    },
+    {
+     "title": "Size 4: 16.5-17.25",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 4: 16.5-17.25"
+     ]
+    },
+    {
+     "title": "Size 5: 17.25-18",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 5: 17.25-18"
+     ]
+    },
+    {
+     "title": "Size 6: 18-18.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 6: 18-18.75"
+     ]
+    },
+    {
+     "title": "Size 7: 18.75-19.75",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 7: 18.75-19.75"
+     ]
+    },
+    {
+     "title": "Size 8: 19.75-20.5",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Size 8: 19.75-20.5"
+     ]
+    },
+    {
+     "title": "Adjustable Silicone Strap",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Adjustable Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:51:53.090Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:51:53.090Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1410/round"
+   ],
+   "hash": "f403a90d8aa7eb3e"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1410/animals",
+   "name": "Animals",
+   "url": "https://watchly.com/collections/animals",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/national-theme",
+   "name": "National Theme",
+   "url": "https://watchly.com/collections/national-theme",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/occasions",
+   "name": "Occasions",
+   "url": "https://watchly.com/collections/occasions",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/places",
+   "name": "Places",
+   "url": "https://watchly.com/collections/places",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/round",
+   "name": "Plain Round",
+   "url": "https://watchly.com/collections/round",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/seasons",
+   "name": "Seasons",
+   "url": "https://watchly.com/collections/seasons",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/square-bodied-watches",
+   "name": "Square-Bodied Watches",
+   "url": "https://watchly.com/collections/square-bodied-watches",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/theme-1",
+   "name": "Themes",
+   "url": "https://watchly.com/collections/theme-1",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/weather",
+   "name": "Weather",
+   "url": "https://watchly.com/collections/weather",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1410/whatever-else",
+   "name": "Whatever",
+   "url": "https://watchly.com/collections/whatever-else",
+   "description": null,
+   "image": null
+  }
+ ]
+}

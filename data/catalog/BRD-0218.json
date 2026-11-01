@@ -1,0 +1,3347 @@
+{
+ "brandId": "BRD-0218",
+ "brandName": "ESKA",
+ "website": "https://www.eskawatches.com",
+ "crawledAt": "2026-11-01T07:09:51.149Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.eskawatches.com/cdn/shop/files/eska_blk.svg?v=1749310093",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.eskawatches.com/en"
+ },
+ "attribution": "Images © ESKA, from eskawatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0218/amphibian-cdp",
+   "name": "Amphibian CDP",
+   "url": "https://www.eskawatches.com/products/amphibian-cdp",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP-painted_watch.webp?v=1782143504",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP-painted_watch.webp?v=1782143504",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/soldat-eska-ifl-HOP_1x_a34f08d3-3550-4c34-b12d-24fe9c07f3f9.webp?v=1781540377",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP_nato1_1x_2628729e-c11c-484f-8625-60ae91e86819.webp?v=1781540378",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP_tropic1_1x_51347f89-49a5-4292-a013-92aa728a3a16.webp?v=1781540378",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP_nato2_1x_e37fa3ce-3ee1-4d02-a9e1-998b0d57c653.webp?v=1781540378",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP_tropic2_1x_95dd7387-2445-428b-b90b-9a8a4ea9265c.webp?v=1781540377",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP_paint_1x_24e7bac6-e2be-4ffe-8b1a-1bb105b2cc8c.webp?v=1781540376",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP_paint.webp?v=1782143517",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/ifl-HOP-luminova.webp?v=1782143754",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 174100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "ESKA Watches présente l’ Amphibian “Cœur de Paris” , une édition limitée à 136 exemplaires réalisée en collaboration avec IFL Watches , atelier reconnu mondialement pour ses créations artistiques et ses personnalisations de cadrans peints à la main . Avec cette pièce, l’Amphibian s’émancipe temporairement de son territoire habituel de montre de plongée pour devenir le support d’une scène urbaine, culturelle et horlogère. Paris s’y dévoile à travers ses monuments, son architecture, ses couleurs et son imaginaire collectif, dans une composition entièrement réalisée à la main.",
+   "productType": "Série limitée",
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 250,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case material": "316L Steel",
+    "Case diameter": "40mm",
+    "Thickness": "13.5mm",
+    "Lug-to-lug": "46mm",
+    "Crystal": "Double domed sapphire",
+    "Movement": "SELLITA SW200, automatic – stop second",
+    "Water resistance": "25ATM, 250m",
+    "Lugs width": "20 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/eska-lab",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/series-limitees",
+    "BRD-0218/all-products"
+   ],
+   "hash": "19d97c99e871983a"
+  },
+  {
+   "id": "BRD-0218/bracelet-fkm-blanc",
+   "name": "Bracelet FKM Blanc",
+   "url": "https://www.eskawatches.com/products/bracelet-fkm-blanc",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/strapschoice_bluedolphin_white_1x_2aa5d9b7-10c3-4b22-bfe9-7b24a7f4b596.webp?v=1778752728",
+    "width": 960,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/strapschoice_bluedolphin_white_1x_2aa5d9b7-10c3-4b22-bfe9-7b24a7f4b596.webp?v=1778752728",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_bdolphin_d.webp?v=1779202705",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_fkm_white_sunset.webp?v=1780332819",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_fkm_white_azur.webp?v=1780332820",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_fkm_white_midnight.webp?v=1780332820",
+     "width": 2000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 6300,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Bracelet FKM Blanc Équipez votre montre d'un bracelet souple en caoutchouc, de couleur blanche. Ce bracelet créé pour ESKA est équipé de pompes rapides, ce qui permet un changement de bracelet en quelques secondes. Entrecorne 20mm.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Flexible rubber, white",
+    "Lug width": "20mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/straps-accessoires",
+    "BRD-0218/bracelets-20mm"
+   ],
+   "hash": "56e2cb85550fa2af"
+  },
+  {
+   "id": "BRD-0218/amphibian-250-black-heroes",
+   "name": "Amphibian 250-BH",
+   "url": "https://www.eskawatches.com/products/amphibian-250-black-heroes",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_bdolphin_d_1x_d485c2d1-c205-4366-86de-4d696535999b.webp?v=1779782518",
+    "width": 2000,
+    "height": 2001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_bdolphin_d_1x_d485c2d1-c205-4366-86de-4d696535999b.webp?v=1779782518",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/soldat_eska_black_heroes_nato_1x_5e032fb4-8c00-4942-b8a9-ae98954ac4c1.webp?v=1779374302",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/soldat_eska_black_heroes_yellow_1x_fbee07dd-b6b5-4ae6-89c8-9e977de407f8.webp?v=1779374296",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_bh_lifestyle_1x_c1ef2d9b-1399-44cf-b6f4-be02f03b162d.webp?v=1779782521",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/soldat_eska_black_heroes_front_1x_11352b28-2244-452e-9d61-7926798a1797.webp?v=1779374308",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/soldat_eska_black_heroes_back_1x_507ae748-3c8f-4be6-b6e4-70cc50066ac6.webp?v=1779374324",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/soldat_eska_black_heroes_backsx2_1x_9a8b479d-7f76-4c6f-9768-fb3b71eeac80.webp?v=1779374320",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/soldat_eska_black_heroes_case_1x_f402308e-aff7-41eb-90ac-2d366db94937.webp?v=1779374315",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 110600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Fruit de la collaboration entre le magazine MONTRE HEROES et Eska Watches, la Black Heroes se démarque par de nombreux détails plus sombres et la présence du Corbeau, signature de visuelle de MONTRE HEROES. L’approche ghost de la Black Heroes renforce naturellement le caractère vintage de l’Amphibian 250. En effaçant partiellement les signatures du cadran, le regard se porte davantage sur les éléments all radium : les index, les aiguilles et les indications de la lunette. Ces détails crème, légèrement patinés, prennent plus de présence et donnent à la montre une lecture plus chaleureuse, presque plus ancienne, sans tomber dans la reproduction nostalgique.",
+   "productType": "Série limitée",
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 250,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "L’approche ghost": "de la Black Heroes renforce naturellement le caractère vintage de l’Amphibian 250.",
+    "Case materials": "316L steel",
+    "Case diameter": "40mm",
+    "Thickness": "13.5mm",
+    "Horns to horns": "46mm",
+    "Glass": "Double dome sapphire",
+    "Movement": "SELLITA SW200, automatic – stop second",
+    "Waterproofing": "25ATM, 250m",
+    "The ghost approach": "of the Black Heroes naturally reinforces the vintage character of the Amphibian 250.",
+    "Lugs width": "20 mm",
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/collaborations",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/series-limitees",
+    "BRD-0218/all-products"
+   ],
+   "hash": "463915e7f37928a6"
+  },
+  {
+   "id": "BRD-0218/amphibian-250-blue-dolphin",
+   "name": "Amphibian 250-BD",
+   "url": "https://www.eskawatches.com/products/amphibian-250-blue-dolphin",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska_bdolphin.webp?v=1778540288",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska_bdolphin.webp?v=1778540288",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska_bdolphin_2.webp?v=1778540289",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_bdolphin_0.webp?v=1778656821",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-bdolphin-underwater.webp?v=1787333929",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-bdolphin-flotaison.webp?v=1787333929",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-bdolphin-basting.webp?v=1787333929",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-bdolphin-macro_gouttes.webp?v=1787333930",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_bdolphin_detail.webp?v=1778540288",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/face_eska_bdolphin.webp?v=1778540288",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/face_eska_hhour_bdolphin.webp?v=1778540288",
+     "width": 2000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 110600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Eska Amphibian 250 Blue Dolphin : la plongeuse de l’été, entre élégance marine et esprit tool-watch La Blue Dolphin ne se contente pas d’ajouter une nouvelle couleur à la gamme Amphibian 250. Elle réinterprète le modèle en le modernisant encore davantage, tout en introduisant une nouvelle expression de cette plongeuse : plus lumineuse, plus méditerranéenne, plus éclatante, sans jamais renoncer à l’ADN qui a fait le succès de l’Amphibian 250. Son cadran bleu fumé évoque les nuances changeantes de la mer, entre reflets de surface, profondeur marine et lumière d’été. Au centre, le bleu se révèle avec intensité et luminosité. Sur les bords, il s’assombrit progressivement, créant une profondeur visuelle qui renforce la présence de la montre au poignet. Cette nouvelle déclinaison porte un nom évocateur : Blue Dolphin. Pensée comme une véritable montre d’été, la Blue Dolphin conserve tous les attributs d’une tool-watch : boîtier en acier 316L, lunette unidirectionnelle, cadran sandwich, lisibilité immédiate, étanchéité à 250 mètres et mouvement automatique suisse. Mais elle y ajoute une présence plus lumineuse, plus ouverte, capable d’accompagner aussi bien une journée en mer qu’un moment de sport, une plongée, une sortie en bateau, une escapade en bord de côte ou une virée nocturne.",
+   "productType": null,
+   "tags": [
+    "montre"
+   ],
+   "options": [
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "FKM Blanc",
+      "Rub Strap Bleu"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "FKM Blanc",
+     "sku": null,
+     "priceMinor": 110600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Blanc"
+     ]
+    },
+    {
+     "title": "Rub Strap Bleu",
+     "sku": null,
+     "priceMinor": 110600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Rub Strap Bleu"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 250,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "fkm"
+   },
+   "specsRaw": {
+    "Eska Amphibian 250 Blue Dolphin": "the summer diver, combining marine elegance and tool-watch spirit",
+    "Bracelet color": "FKM Blanc",
+    "Case material": "316L Steel",
+    "Case diameter": "40mm",
+    "Thickness": "13.5mm",
+    "Lug-to-lug": "46mm",
+    "Glass": "Double domed sapphire",
+    "Movement": "SELLITA SW200, automatic – stop second",
+    "Water resistance": "25ATM, 250m",
+    "This new version bears an evocative name": "Blue Dolphin.",
+    "Lugs width": "20 mm",
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/all-products"
+   ],
+   "hash": "d7b7ade60c0c94ad"
+  },
+  {
+   "id": "BRD-0218/amphibian-250-h-hour",
+   "name": "Amphibian 250-H-Hour",
+   "url": "https://www.eskawatches.com/products/amphibian-250-h-hour",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_hhour_nato.webp?v=1770023542",
+    "width": 2000,
+    "height": 2001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_hhour_nato.webp?v=1770023542",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_hhour_tropic.webp?v=1770023542",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lume_hhour.webp?v=1770023542",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/hhour-detail3.webp?v=1770023542",
+     "width": 2000,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/crown.webp?v=1769174394",
+     "width": 1547,
+     "height": 852
+    }
+   ],
+   "priceMinor": 74100,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "L' Eska Amphibian 250 \"H-Hour\" rend hommage au débarquement de Provence du 15 août 1944. Cette édition limitée et numérotée conserve l'ADN technique de la gamme : étanchéité 250m, lunette saphir unidirectionnelle, cadran sandwich et mouvement automatique. Le cadran noir arbore des repères cubiques pour une lisibilité renforcée, tandis qu'une aiguille lollipop à pointe rouge ajoute une touche raffinée. Les couleurs tricolores illuminent le cadran en référence à l'héritage français. Le détail historique marquant : un trait rouge à 7h50 et le chiffre 50 sur fond rouge commémorent l'heure précise où les troupes alliées ont touché les plages provençales lors de l'opération Dragoon. Le fond de boîte gravé du brevet militaire amphibie français - un guerrier sur triton - souligne l'authenticité militaire de cette pièce d'exception.",
+   "productType": "Série limitée",
+   "tags": [
+    "montre"
+   ],
+   "options": [
+    {
+     "name": "Option de bracelets",
+     "values": [
+      "Nato + Tropic",
+      "Nato + Tropic + Erika"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Nato + Tropic",
+     "sku": null,
+     "priceMinor": 74100,
+     "compareAtMinor": 124300,
+     "available": false,
+     "options": [
+      "Nato + Tropic"
+     ]
+    },
+    {
+     "title": "Nato + Tropic + Erika",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": 134600,
+     "available": false,
+     "options": [
+      "Nato + Tropic + Erika"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 250,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Option de bracelets": "Nato + Tropic",
+    "Case materials": "316L steel",
+    "Case diameter": "40mm",
+    "Thickness": "13.5mm",
+    "Horns to horns": "46mm",
+    "Glass": "Double dome sapphire",
+    "Movement": "SELLITA SW200, automatic – stop second",
+    "Waterproofing": "25ATM, 250m",
+    "It was at 7": "50 am on August 15, 1944 , during Operation Dragoon, the landings in Provence.",
+    "Two straps accompany your watch": "1 black 2-strand nato and 1 sand tropical.",
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6e89fc8a9e6c7868"
+  },
+  {
+   "id": "BRD-0218/racing-midnight",
+   "name": "Racing Midnight",
+   "url": "https://www.eskawatches.com/products/racing-midnight",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/hero_eska_light_racing_midnight.webp?v=1773659174",
+    "width": 2000,
+    "height": 2001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/hero_eska_light_racing_midnight.webp?v=1773659174",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/zoom_eska_light_racing_midnight.webp?v=1773659173",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska_light_racing_midnight2.webp?v=1773659174",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska_light_racing_midnight.webp?v=1773659173",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/pack_eska_light_racing_midnight.webp?v=1773659174",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/face_eska_light_racing_midnight.webp?v=1773659173",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/back_eska_light_racing_strap_3aee608b-b7ae-4a49-b5e2-7c621c14cb1b.webp?v=1773659779",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/case_eska_light_racing_b804dac6-6ae6-4ffa-9d74-0bc27ab95050.webp?v=1773659779",
+     "width": 2000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 65600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Le Eska Chronographe Racing Midnight est une proposition plus radicale et plus contrastée dans la collection Racing. Là où les versions Azur et Sunset jouaient sur la couleur et la lumière, cette nouvelle déclinaison adopte une approche plus sportive , presque instrumentale, dominée par un cadran noir profond rehaussé de notes rouges, directement inspiré des codes de la course automobile. Le cadran constitue l’élément central de cette nouvelle déclinaison. Réalisé en noir, il est estampé avec un motif guilloché , créant un jeu de relief subtil qui capte la lumière et apporte une véritable profondeur visuelle. Ce traitement de surface, à la fois discret et technique, renforce la perception qualitative de la montre tout en conservant une parfaite lisibilité. L’aiguille centrale du chronographe, désormais entièrement rouge , agit comme un repère visuel fort, tandis que les aiguilles des sous-compteurs reprennent cette teinte pour créer une cohérence graphique immédiate. Le chemin de fer périphérique, lui aussi souligné de rouge , vient dynamiser l’ensemble du cadran et renforcer la précision de lecture . Le cadran intègre également deux échelles emblématiques du chronographe traditionnel. L’échelle tachymétrique permet de calculer une vitesse moyenne sur une distance donnée, tandis que l’échelle télémétrique, historiquement utilisée pour mesurer la distance d’un événement visible et audible comme un orage, renforce la dimension instrumentale du modèle. Ces deux fonctions, à la fois techniques et esthétiques, inscrivent le Chronographe Racing Midnight dans la continuité des chronographes utilitaires du XXe siècle.",
+   "productType": "Light",
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case materials": "316L Steel",
+    "Case diameter": "41mm",
+    "Thickness": "12.8mm + 2.1mm glass",
+    "Lug-to-lug": "47mm",
+    "Lug width": "20mm",
+    "Glass": "Sapphire",
+    "Case back": "Screwed with Lyon Skyline engraving",
+    "Frequency": "28'800 alt/hour",
+    "Winding": "Automatic - Hacking seconds",
+    "Water resistance": "5 ATM, 50m",
+    "Lugs width": "20 mm",
+    "Small seconds counter at 9 o'clock Finishing": "Black guilloché pattern"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/chronographes",
+    "BRD-0218/light-racing",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/all-products"
+   ],
+   "hash": "fb365a21162892ea"
+  },
+  {
+   "id": "BRD-0218/amphibian-250-hhour",
+   "name": "Amphibian 250 H-Hour",
+   "url": "https://www.eskawatches.com/products/amphibian-250-hhour",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_hhour.webp?v=1769017391",
+    "width": 2000,
+    "height": 2001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_hhour.webp?v=1769017391",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska_hhour.webp?v=1769017391",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_hhour_0d3b5c06-55c9-4035-afe7-9046c55ce3f5.webp?v=1769095570",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/back_eska_hhour.webp?v=1769095570",
+     "width": 2000,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lume_hhour.webp?v=1770023542",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/strap_hhour.webp?v=1769095570",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/case_eska_light_racing_2ab56255-4d05-41b5-a3b6-e33be0b4d462.webp?v=1769095570",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/face_eska_hhour.webp?v=1769095570",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/face_eska_hhour-destro.webp?v=1769095570",
+     "width": 2000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 110600,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "L' Eska Amphibian 250 \"H-Hour\" rend hommage au débarquement de Provence du 15 août 1944. Cette édition limitée à 50 exemplaires conserve l'ADN technique de la gamme : étanchéité 250m, lunette saphir unidirectionnelle, cadran sandwich et mouvement automatique. Le cadran noir arbore des repères cubiques pour une lisibilité renforcée, tandis qu'une aiguille lollipop à pointe rouge ajoute une touche raffinée. Les couleurs tricolores illuminent le cadran en référence à l'héritage français. Le détail historique marquant : un trait rouge à 7h50 et le chiffre 50 sur fond rouge commémorent l'heure précise où les troupes alliées ont touché les plages provençales lors de l'opération Dragoon. Le fond de boîte gravé du brevet militaire amphibie français - un guerrier sur triton - souligne l'authenticité militaire de cette pièce d'exception.",
+   "productType": "Série limitée",
+   "tags": [
+    "Limited",
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 250,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case materials": "316L steel",
+    "Case diameter": "40mm",
+    "Thickness": "13.5mm",
+    "Horns to horns": "46mm",
+    "Glass": "Double dome sapphire",
+    "Movement": "SELLITA SW200, automatic – stop second",
+    "Waterproofing": "25ATM, 250m",
+    "It was at 7": "50 am on August 15, 1944 , during Operation Dragoon, the landings in Provence.",
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/collaborations",
+    "BRD-0218/montres",
+    "BRD-0218/series-limitees",
+    "BRD-0218/all-products",
+    "BRD-0218/editions-epuisees"
+   ],
+   "hash": "f2be6695248549fc"
+  },
+  {
+   "id": "BRD-0218/heritage-panda-noir",
+   "name": "Heritage Panda Noir",
+   "url": "https://www.eskawatches.com/products/heritage-panda-noir",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-lifestyle-panda-noir.webp?v=1767179788",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-lifestyle-panda-noir.webp?v=1767179788",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/panda-black-grain.webp?v=1767615909",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-panda_noir-hero.webp?v=1767615909",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-panda_noir.webp?v=1767615909",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-panda_beige-noir.webp?v=1767615930",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/mouvement3.png?v=1767615967",
+     "width": 1600,
+     "height": 1779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-jr-panda-noir.webp?v=1767615967",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-grainriz-panda-noir.webp?v=1767615967",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-flanc.webp?v=1767632077",
+     "width": 2000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 248000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "L'Édition Heritage \"Panda\" NOIR : Une Exclusivité Limitée à 25 Pièces Avec l’Heritage, ESKA Watches ouvre un nouveau chapitre en insufflant l’esprit des chronographes historiques dans une création contemporaine au caractère affirmé. Cette édition se décline dans une v ersion « Panda » très exclusive, limitée à seulement 25 exemplaires numérotés. Reconnaissable entre toutes par son cadran noir profond et ses deux sous-compteurs beiges contrastés , cette pièce de collection rend hommage aux chronos de légende. Pour sublimer ce lancement, chaque garde-temps est livré dans un coffret spécial incluant deux bracelets exclusifs, permettant de varier les styles et d'adapter cette icône à toutes vos trajectoires. Inspirée par l’univers automobile, l’ESKA Watches Heritage évoque ces instants où chaque seconde compte, quand le pilote ajuste sa trajectoire et dompte la pression. Dans sa configuration bi-compax , ce chronographe devient un véritable instrument de précision. Chaque remontage manuel du calibre La Joux-Perret L113 reconnecte son porteur à l’essence même de l’horlogerie mécanique.",
+   "productType": "Série limitée",
+   "tags": [
+    "Limited",
+    "montre",
+    "panda"
+   ],
+   "options": [
+    {
+     "name": "Numéro de série ",
+     "values": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "1",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "1"
+     ]
+    },
+    {
+     "title": "2",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "2"
+     ]
+    },
+    {
+     "title": "3",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "3"
+     ]
+    },
+    {
+     "title": "4",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "4"
+     ]
+    },
+    {
+     "title": "5",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "5"
+     ]
+    },
+    {
+     "title": "6",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "6"
+     ]
+    },
+    {
+     "title": "7",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "7"
+     ]
+    },
+    {
+     "title": "8",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "8"
+     ]
+    },
+    {
+     "title": "9",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "9"
+     ]
+    },
+    {
+     "title": "10",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "10"
+     ]
+    },
+    {
+     "title": "11",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "11"
+     ]
+    },
+    {
+     "title": "12",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "12"
+     ]
+    },
+    {
+     "title": "13",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "13"
+     ]
+    },
+    {
+     "title": "14",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "14"
+     ]
+    },
+    {
+     "title": "15",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "15"
+     ]
+    },
+    {
+     "title": "16",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "16"
+     ]
+    },
+    {
+     "title": "17",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "17"
+     ]
+    },
+    {
+     "title": "18",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "18"
+     ]
+    },
+    {
+     "title": "19",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "19"
+     ]
+    },
+    {
+     "title": "20",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "20"
+     ]
+    },
+    {
+     "title": "21",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "21"
+     ]
+    },
+    {
+     "title": "22",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "22"
+     ]
+    },
+    {
+     "title": "23",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "23"
+     ]
+    },
+    {
+     "title": "24",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "24"
+     ]
+    },
+    {
+     "title": "25",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "25"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Available": "16 / 25 pieces",
+    "Number": "3",
+    "Case materials": "316L Steel",
+    "Case diameter": "38mm",
+    "Thickness": "11.8mm + 2.1mm glass",
+    "Horns to horns": "47mm",
+    "Glass": "Sapphire crystal with anti-reflective coating",
+    "Eska special finishes": "Geneva stripes, beaded bridge, column wheel and steel-colored screw",
+    "Dial": ":",
+    "Waterproofing": "5 ATM, 50m",
+    "Small seconds counter at 9 o'clock Finishes": "Geneva coasts"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/chronographes",
+    "BRD-0218/heritage-sk25",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/series-limitees",
+    "BRD-0218/all-products"
+   ],
+   "hash": "34204a4504cef5aa"
+  },
+  {
+   "id": "BRD-0218/heritage-panda-beige",
+   "name": "Heritage Panda Beige",
+   "url": "https://www.eskawatches.com/products/heritage-panda-beige",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-lifestyle-panda-blanc.webp?v=1767369418",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-lifestyle-panda-blanc.webp?v=1767369418",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/panda-white-grain.webp?v=1767615930",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-panda_beige-hero.webp?v=1767615930",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-panda_beige.webp?v=1767615930",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-panda_beige-noir.webp?v=1767615930",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/mouvement3.webp?v=1767616328",
+     "width": 2228,
+     "height": 2477
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-jr-panda-blanc.webp?v=1767615954",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-gainriz-panda-blanc.webp?v=1767615954",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-flanc.webp?v=1767632077",
+     "width": 2000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 248000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "L'Édition Heritage \"Panda\" BEIGE: Une Exclusivité Limitée à 25 Pièces Avec l’Heritage, ESKA Watches ouvre un nouveau chapitre en insufflant l’esprit des chronographes historiques dans une création contemporaine au caractère affirmé. Cette édition se décline dans une version « Panda » très exclusive, limitée à seulement 25 exemplaires numérotés. Reconnaissable entre toutes par son cadran beige et ses deux sous-compteurs noirs contrastés , cette pièce de collection rend hommage aux chronos de légende. Pour sublimer ce lancement, chaque garde-temps est livré dans un coffret spécial incluant deux bracelets exclusifs, permettant de varier les styles et d'adapter cette icône à toutes vos trajectoires. Inspirée par l’univers automobile, l’ESKA Watches Heritage évoque ces instants où chaque seconde compte, quand le pilote ajuste sa trajectoire et dompte la pression. Dans sa configuration bi-compax , ce chronographe devient un véritable instrument de précision. Chaque remontage manuel du calibre La Joux-Perret L113 reconnecte son porteur à l’essence même de l’horlogerie mécanique.",
+   "productType": "Série limitée",
+   "tags": [
+    "Limited",
+    "montre",
+    "panda"
+   ],
+   "options": [
+    {
+     "name": "Numéro de série ",
+     "values": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "1",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "1"
+     ]
+    },
+    {
+     "title": "2",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "2"
+     ]
+    },
+    {
+     "title": "3",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "3"
+     ]
+    },
+    {
+     "title": "4",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "4"
+     ]
+    },
+    {
+     "title": "5",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "5"
+     ]
+    },
+    {
+     "title": "6",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "6"
+     ]
+    },
+    {
+     "title": "7",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "7"
+     ]
+    },
+    {
+     "title": "8",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "8"
+     ]
+    },
+    {
+     "title": "9",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "9"
+     ]
+    },
+    {
+     "title": "10",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "10"
+     ]
+    },
+    {
+     "title": "11",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "11"
+     ]
+    },
+    {
+     "title": "12",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "12"
+     ]
+    },
+    {
+     "title": "13",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "13"
+     ]
+    },
+    {
+     "title": "14",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "14"
+     ]
+    },
+    {
+     "title": "15",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "15"
+     ]
+    },
+    {
+     "title": "16",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "16"
+     ]
+    },
+    {
+     "title": "17",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "17"
+     ]
+    },
+    {
+     "title": "18",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "18"
+     ]
+    },
+    {
+     "title": "19",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "19"
+     ]
+    },
+    {
+     "title": "20",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "20"
+     ]
+    },
+    {
+     "title": "21",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "21"
+     ]
+    },
+    {
+     "title": "22",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "22"
+     ]
+    },
+    {
+     "title": "23",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "23"
+     ]
+    },
+    {
+     "title": "24",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "24"
+     ]
+    },
+    {
+     "title": "25",
+     "sku": null,
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "25"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Available": "13 / 25 pieces",
+    "Number": "3",
+    "Case materials": "316L Steel",
+    "Case diameter": "38mm",
+    "Thickness": "11.8mm + 2.1mm glass",
+    "Horns to horns": "47mm",
+    "Glass": "Sapphire crystal with anti-reflective coating",
+    "Eska special finishes": "Geneva stripes, beaded bridge, column wheel and steel-colored screw",
+    "Dial": ":",
+    "Waterproofing": "5 ATM, 50m",
+    "Small seconds counter at 9 o'clock Finishes": "Geneva coasts"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/chronographes",
+    "BRD-0218/heritage-sk25",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/series-limitees",
+    "BRD-0218/all-products"
+   ],
+   "hash": "9d926c12079df528"
+  },
+  {
+   "id": "BRD-0218/racing-azur",
+   "name": "Racing Azur",
+   "url": "https://www.eskawatches.com/products/racing-azur",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska-light-racing_azur.webp?v=1765185851",
+    "width": 2000,
+    "height": 2001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska-light-racing_azur.webp?v=1765185851",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/hero_eska_light_racing_azur_daeb2a3e-a76e-46dd-a62e-84cc7d77fb11.webp?v=1765185851",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/collection_eska_light_racing_fd6964f6-a55d-40a9-b5b6-5c938df664ed.webp?v=1765185868",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska_light_racing_azur_c007706f-d936-44ff-b06e-deb0fb3d8773.webp?v=1765185851",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/back_eska_light_racing_strap_ec96b08f-5645-44c5-ba05-0fa033c8d944.webp?v=1765185868",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/case_eska_light_racing_b804dac6-6ae6-4ffa-9d74-0bc27ab95050.webp?v=1773659779",
+     "width": 2000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 65600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Le Eska Chronographe Racing Azur se distingue par son élégance dynamique. Il arbore un cadran Azur brossé vertical captivant, rehaussé de chemins de fer blancs qui assurent une excellente lisibilité. L’aiguille du chronographe, d’un rouge vif , apporte une touche racing immédiatement identifiable. Ce cadran intègre deux échelles emblématiques des chronographes traditionnels : une échelle tachymétrique , utilisée pour mesurer une vitesse moyenne sur une distance donnée, et une échelle télémétrique , conçue à l’origine pour estimer la distance d’un événement visible et audible (comme un orage ou un feu d’artifice). Deux fonctions utiles qui renforcent le caractère technique de la pièce sans en altérer la sobriété. Côté affichage, il opte pour des index bâton ainsi que des chiffres 12 et 6 de taille généreuse et parfaitement lisibles. Le Chronographe Racing Azur est ainsi conçu pour séduire les passionnés d’horlogerie et de course automobile.",
+   "productType": "Light",
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case materials": "316L Steel",
+    "Case diameter": "41mm",
+    "Thickness": "12.8mm + 2.1mm glass",
+    "Horns to horns": "47mm",
+    "Between the horns": "20mm",
+    "Glass": "Sapphire",
+    "Bottom": "Screwed on with an engraving of the Lyon skyline",
+    "Frequency": "28,800 alt/hour",
+    "Reassembly": "Automatic - Stop second",
+    "Dial": ":",
+    "Waterproofing": "5 ATM, 50m",
+    "Lugs width": "20 mm",
+    "Timer": "30 minutes to 3 hours",
+    "Small seconds counter at 9 o'clock Finishes": "• Azure: Vertically brushed blue dial"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/chronographes",
+    "BRD-0218/light-racing",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/all-products"
+   ],
+   "hash": "b7ff2a9329d5288e"
+  },
+  {
+   "id": "BRD-0218/racing-sunset",
+   "name": "Racing Sunset",
+   "url": "https://www.eskawatches.com/products/racing-sunset",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska-light-racing_sunset.webp?v=1765185868",
+    "width": 2000,
+    "height": 2001
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska-light-racing_sunset.webp?v=1765185868",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/hero_eska_light_racing_sunset_ee2e9b09-ed6c-4070-87bf-e6f84dc0fddf.webp?v=1765185868",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/collection_eska_light_racing_fd6964f6-a55d-40a9-b5b6-5c938df664ed.webp?v=1765185868",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_eska_light_racing_sunset_84a9c535-1009-4864-a724-dc665449eac4.webp?v=1765185868",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/back_eska_light_racing_strap_ec96b08f-5645-44c5-ba05-0fa033c8d944.webp?v=1765185868",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/case_eska_light_racing_b804dac6-6ae6-4ffa-9d74-0bc27ab95050.webp?v=1773659779",
+     "width": 2000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 65600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Le Eska Chronographe Racing Sunset propose une esthétique audacieuse et distincte. Il est doté d’un cadran mat de couleur saumon. Les chemins de fer bleus contrastent subtilement avec le cadran, tandis que l’aiguille du chronographe est également de couleur bleue. Le cadran présente deux échelles emblématiques du chronographe traditionnel : une échelle tachymétrique, qui permet de calculer une vitesse moyenne sur une distance donnée, et une échelle télémétrique, conçue à l’origine pour mesurer la distance d’un événement visible et audible (comme un orage ou un feu d’artifice). Deux fonctions aussi techniques qu’esthétiques, qui renforcent l’ADN utilitaire de la pièce. Son design est optimisé pour la lecture rapide, et rappelle subtilement un lever de soleil sur la Skyline de Lyon. Le chronographe Racing Sunset séduira les passionnés par son design et ses complications, le tout proposé à un tarif particulièrement attractif.",
+   "productType": "Light",
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case materials": "316L Steel",
+    "Case diameter": "41mm",
+    "Thickness": "12.8mm + 2.1mm glass",
+    "Horns to horns": "47mm",
+    "Between the horns": "20mm",
+    "Glass": "Sapphire",
+    "Bottom": "Screwed on with an engraving of the Lyon skyline",
+    "Frequency": "28,800 alt/hour",
+    "Reassembly": "Automatic - Stop second",
+    "Dial": ":",
+    "Waterproofing": "5 ATM, 50m",
+    "Lugs width": "20 mm",
+    "Timer": "30 minutes to 3 hours",
+    "Small seconds counter at 9 o'clock Finishes": "• Azure: Vertically brushed blue dial"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/chronographes",
+    "BRD-0218/light-racing",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/all-products"
+   ],
+   "hash": "3c0dcc8cc140b3f4"
+  },
+  {
+   "id": "BRD-0218/amphibian-250-white-shark",
+   "name": "Amphibian 250-WS",
+   "url": "https://www.eskawatches.com/products/amphibian-250-white-shark",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-WS.webp?v=1753453025",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-WS.webp?v=1753453025",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/wear-WS-1.webp?v=1763892516",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_ws_destro_lifestyle2.webp?v=1773252544",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_ws_destro_lifestyle1.webp?v=1773252544",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/WhiteCK0032.jpg?v=1773252544",
+     "width": 3849,
+     "height": 4811
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/WhiteCK0032-destro.jpg?v=1773252544",
+     "width": 3849,
+     "height": 4811
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/CADRAN.jpg?v=1773252544",
+     "width": 4160,
+     "height": 4160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/CASEBACK.jpg?v=1773252544",
+     "width": 4160,
+     "height": 4160
+    }
+   ],
+   "priceMinor": 110600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Avec le design de l’Amphibian “250\" White Shark, on replonge dans l’âge d’or des premières montres d’exploration sous marine à lunette de l’histoire.",
+   "productType": null,
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 250,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case materials": "316L steel",
+    "Case diameter": "40mm",
+    "Thickness": "13.5mm",
+    "Horns to horns": "46mm",
+    "Glass": "Double dome sapphire",
+    "Movement": "SELLITA SW200, automatic – stop second",
+    "Waterproofing": "25ATM, 250m",
+    "Lugs width": "20 mm",
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/all-products"
+   ],
+   "hash": "8f5ad6faf0abf6fb"
+  },
+  {
+   "id": "BRD-0218/amphibian-250-green-turtle",
+   "name": "Amphibian 250-GT",
+   "url": "https://www.eskawatches.com/products/amphibian-250-green-turtle",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-GT.png?v=1752697061",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-GT.png?v=1752697061",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-gt-crossed.webp?v=1763892739",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-gt-life1.webp?v=1763892739",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-gt-life2.webp?v=1763892739",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-gt-front.webp?v=1763892739",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/AMPHIBIAN250-ECRINOUVERT-1.webp?v=1763892739",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/AMPHIBIAN250-ECRINFERME-1.webp?v=1763892739",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 112900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "La Green Turtle ne se contente pas d’ajouter une nouvelle couleur à la gamme Amphibian 250. Inspirée par les profondeurs marines et les créatures qui y évoluent, cette édition arbore un cadran vert fumé , dont les nuances sombres sur les côtés évoquent l’exploration de la terre et de la mer. Ce dégradé subtil accentue l'élégance et confère une profondeur visuelle unique. Pourquoi 136 exemplaires ? Ce chiffre fait écho à une unité de mesure historique : 136 brasses (fathoms), correspondant à sa profondeur d'étanchéité de 250 mètres. Une touche de symbolisme qui illustre l’importance accordée aux détails chez Eska.",
+   "productType": "Série limitée",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 250,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case materials": "316L steel",
+    "Case diameter": "40mm",
+    "Thickness": "13.5mm",
+    "Horns to horns": "46mm",
+    "Glass": "Double dome sapphire with anti-reflective coating",
+    "Movement": "SELLITA SW200",
+    "Reassembly": "automatic – stop second",
+    "power reserve": "38h",
+    "Waterproofing": "25ATM, 250m",
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/montres",
+    "BRD-0218/series-limitees",
+    "BRD-0218/all-products",
+    "BRD-0218/editions-epuisees"
+   ],
+   "hash": "ef1fef91c72a7e6b"
+  },
+  {
+   "id": "BRD-0218/heritage-noir",
+   "name": "Heritage Noir",
+   "url": "https://www.eskawatches.com/products/heritage-noir",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-noir-back.webp?v=1767632127",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-noir-back.webp?v=1767632127",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-noir.webp?v=1767632127",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-noir-mirror.webp?v=1767632127",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-noir-grain.webp?v=1767616328",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle-heritage-noir-jr2.webp?v=1767616328",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-lumi.webp?v=1767616328",
+     "width": 1380,
+     "height": 1380
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/mouvement3.webp?v=1767616328",
+     "width": 2228,
+     "height": 2477
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage_noir_cuir.webp?v=1767616328",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage_noir_grain.webp?v=1767616328",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-flanc.webp?v=1767632077",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/box_portrait-maya-noir-zo.webp?v=1767632077",
+     "width": 960,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 248000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Avec l’Heritage, ESKA Watches ouvre un nouveau chapitre, en insufflant l’esprit des chronographes historiques dans une création contemporaine au caractère affirmé. Désormais proposée avec un nouveau fond en saphir élargi, cette version permet une vue encore plus généreuse sur les battements du calibre Lajoux-Perret L113 à remontage manuel. Inspirée par l’univers automobile, l’ESKA Watches Heritage évoque ces instants où chaque seconde compte — quand le pilote ajuste sa trajectoire, maîtrise sa vitesse, et dompte la pression. Dans une configuration bi-compax, ce garde-temps devient un véritable instrument de précision, où chaque geste, chaque remontage, reconnecte à l’essence même de l’horlogerie mécanique. Son design, fidèle à l’ADN vintage d’Eska, revisite avec subtilité les codes des tableaux de bord d’époque, tout en projetant ESKA Watches dans une dimension moderne, prête à séduire les amateurs de chronos et les passionnés de performance.",
+   "productType": "sk25",
+   "tags": [
+    "montre"
+   ],
+   "options": [
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "Cuir Jean Rousseau",
+      "Acier \"Grain de Riz\""
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Jean Rousseau",
+     "sku": "sk25-her001",
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir Jean Rousseau"
+     ]
+    },
+    {
+     "title": "Acier \"Grain de Riz\"",
+     "sku": "sk25-her002",
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Acier \"Grain de Riz\""
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Bracelet color": "Jean Rousseau Leather",
+    "Case materials": "316L steel",
+    "Case diameter": "38mm",
+    "Thickness": "11.8mm + 2.1mm glass",
+    "Horns to horns": "47mm",
+    "Glass": "Sapphire with anti-reflective treatment",
+    "Eska special finishes": "Geneva stripes, pearl bridge, column wheel and steel-colored screws",
+    "Dial": ":",
+    "Waterproof": "5 ATM, 50m",
+    "Small seconds counter at 9 o'clock Finishes": "Geneva coasts"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/chronographes",
+    "BRD-0218/heritage-sk25",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/all-products"
+   ],
+   "hash": "959aca0d104b62cf"
+  },
+  {
+   "id": "BRD-0218/heritage-beige",
+   "name": "Heritage Beige",
+   "url": "https://www.eskawatches.com/products/heritage-beige",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-blanc-back.webp?v=1767632138",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-blanc-back.webp?v=1767632138",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-blanc.webp?v=1767632138",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage_beige_cross.webp?v=1767632138",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle-heritage-beige-jr.webp?v=1767616065",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle_beige-1.webp?v=1767616065",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-lumi.webp?v=1767616328",
+     "width": 1380,
+     "height": 1380
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/mouvement3.webp?v=1767616328",
+     "width": 2228,
+     "height": 2477
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage_beige_grain.webp?v=1767616065",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage_beige_cuir.webp?v=1767616065",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska-heritage-flanc.webp?v=1767632077",
+     "width": 2000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/box_portrait-maya-beige.webp?v=1767632065",
+     "width": 960,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 248000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Avec l’Heritage, ESKA Watches ouvre un nouveau chapitre, en insufflant l’esprit des chronographes historiques dans une création contemporaine au caractère affirmé. Désormais proposée avec un nouveau fond en saphir élargi, cette version permet une vue encore plus généreuse sur les battements du calibre Lajoux-Perret L113 à remontage manuel. Inspirée par l’univers automobile, l’ESKA Watches Heritage évoque ces instants où chaque seconde compte — quand le pilote ajuste sa trajectoire, maîtrise sa vitesse, et dompte la pression. Dans une configuration bi-compax, ce garde-temps devient un véritable instrument de précision, où chaque geste, chaque remontage, reconnecte à l’essence même de l’horlogerie mécanique. Son design, fidèle à l’ADN vintage d’Eska, revisite avec subtilité les codes des tableaux de bord d’époque, tout en projetant ESKA Watches dans une dimension moderne, prête à séduire les amateurs de chronos et les passionnés de performance.",
+   "productType": "sk25",
+   "tags": [
+    "montre",
+    "REPARALUX"
+   ],
+   "options": [
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "Cuir Jean Rousseau",
+      "Acier \"Grain de Riz\""
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Jean Rousseau",
+     "sku": "sk25-her001",
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir Jean Rousseau"
+     ]
+    },
+    {
+     "title": "Acier \"Grain de Riz\"",
+     "sku": "sk25-her002",
+     "priceMinor": 248000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Acier \"Grain de Riz\""
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Bracelet color": "Jean Rousseau Leather",
+    "Case materials": "316L steel",
+    "Case diameter": "38mm",
+    "Thickness": "11.8mm + 2.1mm glass",
+    "Horns to horns": "47mm",
+    "Glass": "Sapphire with anti-reflective treatment",
+    "Eska special finishes": "Geneva stripes, pearl bridge, column wheel and steel-colored screws",
+    "Dial": "Double enamel dial, Step Dial sub-counters, luminova on indexes and hands",
+    "Waterproof": "5 ATM, 50m",
+    "Small seconds counter at 9 o'clock Finishes": "Geneva coasts"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/chronographes",
+    "BRD-0218/heritage-sk25",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/all-products"
+   ],
+   "hash": "a103eb424f8cfd73"
+  },
+  {
+   "id": "BRD-0218/amphibian-250-black-shark",
+   "name": "Amphibian 250-BS",
+   "url": "https://www.eskawatches.com/products/amphibian-250-black-shark",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-BS.webp?v=1753452991",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-BS.webp?v=1753452991",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/PW_05719.webp?v=1763891401",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_bs_destro_lifestyle2.webp?v=1773252598",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eska_bs_destro_lifestyle1.webp?v=1773252598",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/blackCK0032.jpg?v=1773252598",
+     "width": 2942,
+     "height": 3677
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/blackCK0032-destro.jpg?v=1773252598",
+     "width": 2942,
+     "height": 3677
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/pw_05517.webp?v=1773252598",
+     "width": 2300,
+     "height": 2875
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/bs.webp?v=1773252598",
+     "width": 2300,
+     "height": 2036
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/back-bs.webp?v=1773252598",
+     "width": 2300,
+     "height": 2300
+    }
+   ],
+   "priceMinor": 110600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Après son succès l 'Amphibian 250 White Shark, est à présent déclinée dans une livrée avec cadran noir : la Black Shark, toujours équipée de son mouvement Suisse et d'un cerclage intérieur , ce qui vient renforcer l'élégance et la qualité perçue.",
+   "productType": "Série limitée",
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 250,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case materials": "316L steel",
+    "Case diameter": "40mm",
+    "Thickness": "13.5mm",
+    "Horns to horns": "46mm",
+    "Glass": "Double dome sapphire",
+    "Movement": "SELLITA SW200, automatic – stop second",
+    "Waterproofing": "25ATM, 250m",
+    "Lugs width": "20 mm",
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/montres",
+    "BRD-0218/produit-simple",
+    "BRD-0218/all-products"
+   ],
+   "hash": "f8fe16f38b249347"
+  },
+  {
+   "id": "BRD-0218/bracelet-jean-rousseau-veau-grain-saphir",
+   "name": "Jean Rousseau - cuir veau Grainé",
+   "url": "https://www.eskawatches.com/products/bracelet-jean-rousseau-veau-grain-saphir",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps-product-jr.webp?v=1762258586",
+    "width": 960,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps-product-jr.webp?v=1762258586",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle-heritage-noir-jr2.webp?v=1767616328",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle-heritage-beige-jr.webp?v=1767616065",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps_jr-heritage.webp?v=1762258586",
+     "width": 960,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 13400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Bracelet en Cuir de Veau Grainé Marron Jean Rousseau Offrez à votre montre Eska Heritage un bracelet en cuir de veau grainé marron signé Jean Rousseau. Ce bracelet haut de gamme allie élégance et confort, avec un système de pompes rapides permettant de changer le bracelet en quelques secondes, sans effort. La boucle ardillon est subtilement gravée du logo JR, ajoutant une touche de raffinement. À l’intérieur, un marquage exclusif, \"Jean Rousseau for Eska,\" souligne cette collaboration. Ce bracelet est conçu pour s’adapter parfaitement au chronographe Eska Heritage, tout en apportant une élégance intemporelle et une fonctionnalité optimale.",
+   "productType": "Accessoire",
+   "tags": [
+    "REPARALUX"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matter": "Grained calfskin leather, sapphire grain, brown color",
+    "Corner space": "18-16 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/straps-accessoires",
+    "BRD-0218/bracelets-18mm"
+   ],
+   "hash": "5decb364a772d3cd"
+  },
+  {
+   "id": "BRD-0218/jean-rousseau-white-shark",
+   "name": "Jean Rousseau - White Shark",
+   "url": "https://www.eskawatches.com/products/jean-rousseau-white-shark",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-oc_cadran-straps_jjr-ws.webp?v=1758789507",
+    "width": 960,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-oc_cadran-straps_jjr-ws.webp?v=1758789507",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps_jjr-WS.webp?v=1758789507",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps_jjr-WS-2.webp?v=1758789507",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps_jjr-WS-3.webp?v=1758789507",
+     "width": 960,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 12900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "BRACELET JEAN ROUSSEAU Grâce à la marque Jean Rousseau , vous avez l'opportunité d'ajouter à votre montre un bracelet \"Compass\" de la célèbre marque. Un design soigné, un confort optimal, ces bracelets sont pensés pour s’adapter à l’esprit de la marque. Une façon unique de personnaliser votre montre avec style. Fabriqué en Cordura, la caractéristique distinctive de ce bracelet réside dans ses coutures, reflétant la couleur du cadran et créant une connexion visuelle harmonieuse entre le bracelet et la montre. Le bracelet Compass est légèrement bombé, rembordé et cousu. Ses matières techniques et ses appliques caoutchouc en font le plus élégant des bracelets de montre sport.\"",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Materials": "Black Cordura, rubber appliqués.",
+    "Between horns": "20mm",
+    "Shape": "Curved, edged and sewn, white topstitching."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/straps-accessoires",
+    "BRD-0218/bracelets-20mm"
+   ],
+   "hash": "50d5e074caa50b46"
+  },
+  {
+   "id": "BRD-0218/jean-rousseau-red-viper",
+   "name": "Jean Rousseau - Red Viper",
+   "url": "https://www.eskawatches.com/products/jean-rousseau-red-viper",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-oc_cadran-straps_jjr-rv.webp?v=1758789786",
+    "width": 960,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-oc_cadran-straps_jjr-rv.webp?v=1758789786",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps_jjr-RV.webp?v=1758789786",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps_jjr-RV-3.webp?v=1758789786",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps_jjr-RV-2.webp?v=1758789786",
+     "width": 960,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 12900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "BRACELET JEAN ROUSSEAU Grâce à la marque Jean Rousseau , vous avez l'opportunité d'ajouter à votre montre un bracelet \"Compass\" de la célèbre marque. Un design soigné, un confort optimal, ces bracelets sont pensés pour s’adapter à l’esprit de la marque. Une façon unique de personnaliser votre montre avec style. Fabriqué en Cordura, la caractéristique distinctive de ce bracelet réside dans ses coutures, reflétant la couleur du cadran et créant une connexion visuelle harmonieuse entre le bracelet et la montre. Le bracelet Compass est légèrement bombé, rembordé et cousu. Ses matières techniques et ses appliques caoutchouc en font le plus élégant des bracelets de montre sport.\"",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Materials": "Black Cordura, rubber appliqués.",
+    "Between horns": "20mm",
+    "Shape": "Curved, edged and sewn, red topstitching, red back."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/straps-accessoires",
+    "BRD-0218/bracelets-20mm"
+   ],
+   "hash": "3f01455e70933e75"
+  },
+  {
+   "id": "BRD-0218/bracelet-tropic-vert",
+   "name": "Bracelet Tropic vert",
+   "url": "https://www.eskawatches.com/products/bracelet-tropic-vert",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps-rubstrap.webp?v=1758546566",
+    "width": 960,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps-rubstrap.webp?v=1758546566",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps-rubstrap3.webp?v=1758277185",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels-straps-rubstrap2.webp?v=1758277185",
+     "width": 960,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 6300,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Bracelet Tropic sable Équipez votre montre d'un bracelet souple en caoutchouc, de couleur verte. Le Bracelet Tropic d’ESKA est équipé de pompes rapides, ce qui permet un changement de bracelet en quelques secondes. Entrecorne 20mm.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matter": "Soft rubber, green color",
+    "Between horns": "20mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/straps-accessoires",
+    "BRD-0218/bracelets-20mm"
+   ],
+   "hash": "87785cc325d24835"
+  },
+  {
+   "id": "BRD-0218/bracelet-grain-de-riz",
+   "name": "Bracelet Grain de riz",
+   "url": "https://www.eskawatches.com/products/bracelet-grain-de-riz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/grain_de_riz-1.webp?v=1749472321",
+    "width": 1920,
+    "height": 2400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/grain_de_riz-1.webp?v=1749472321",
+     "width": 1920,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/grain_de_riz-2.webp?v=1756804622",
+     "width": 600,
+     "height": 750
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage-grainderiz-noir.webp?v=1751443403",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/heritage_grainderiz-beige.webp?v=1751443410",
+     "width": 1067,
+     "height": 1600
+    }
+   ],
+   "priceMinor": 11400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "BRACELET GRAIN DE RIZ Équiper votre montre ESKA Héritage d'un bracelet \"Grain de Riz\" type End links à boucle papillon Esthétique et confortable, il trouve ses origines autour des années 1940 grâce au fabriquant de bracelet Gay Frères. Les designers d’Eska Watches ont modernisé ce bracelet pour en faire une version contemporaine et actuelle. En particulier, nous avons pensé à nos clients en travaillant activement sur la facilité d’installation de ce bracelet. Ainsi le bracelet \"Grain de Riz\" est équipé de pompes rapides, ce qui permet un changement de bracelet en quelques secondes.",
+   "productType": "Accessoire",
+   "tags": [
+    "REPARALUX"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matter": "316L steel, “rice grain” type",
+    "Between horns": "18-16 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/straps-accessoires",
+    "BRD-0218/bracelets-18mm"
+   ],
+   "hash": "0f4a67dc3613a678"
+  },
+  {
+   "id": "BRD-0218/eagle-eye-watches-eska",
+   "name": "Eagle Eye Watches® Eska",
+   "url": "https://www.eskawatches.com/products/eagle-eye-watches-eska",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eagle_eye.webp?v=1755157752",
+    "width": 960,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eagle_eye.webp?v=1755157752",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eagleEye_eska.png?v=1755157752",
+     "width": 1464,
+     "height": 1362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/Photoroom_013_20240516_013449.webp?v=1755157752",
+     "width": 600,
+     "height": 400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/406E2D59-0BE8-4AF6-9110-830AE915BDA0.webp?v=1755157752",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eagle_eye_beige_maya.webp?v=1755157752",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eagle_eye_noir_grain.webp?v=1755157752",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eagle_eye_noir_maya.webp?v=1755157752",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/eagle_eye_beige_grain.webp?v=1755157752",
+     "width": 1200,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 23800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Macro Loupe Eagle Eye x Eska, profitez du détail de vos montres. Avec un grossissement de 6X, cette loupe vous permet de scruter les moindres détails avec une clarté exceptionnelle, pour une vue précise et détaillée sans distorsions ni aberrations.",
+   "productType": "Accessoire",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "37dd332f1beadb1f"
+  },
+  {
+   "id": "BRD-0218/bracelet-jean-rousseau",
+   "name": "Jean Rousseau - Black Shark",
+   "url": "https://www.eskawatches.com/products/bracelet-jean-rousseau",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/imgi_10_visuels_straps_product_card-rousseau_800x800_df7ca500-eda4-45ac-88dc-f27116dd1fa3.webp?v=1790064682",
+    "width": 640,
+    "height": 800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/imgi_10_visuels_straps_product_card-rousseau_800x800_df7ca500-eda4-45ac-88dc-f27116dd1fa3.webp?v=1790064682",
+     "width": 640,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/bs_pw_06924.webp?v=1749680777",
+     "width": 2694,
+     "height": 2101
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/bs_pw_06923.webp?v=1749680777",
+     "width": 2694,
+     "height": 3290
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/WhatsAppImage2024-06-05at11.33.50_2ccf463d-68d9-467b-a2f8-5529f9f20fc3.jpg?v=1749680777",
+     "width": 1600,
+     "height": 1066
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/54041e6b49c75b160ff9826f2cb6005c_original_png.jpg?v=1749680777",
+     "width": 680,
+     "height": 453
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/bs_pw_06926.webp?v=1749680777",
+     "width": 2716,
+     "height": 3573
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/bs_pw_06934.webp?v=1749680777",
+     "width": 2749,
+     "height": 3290
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/bs_pw_06937.webp?v=1749680777",
+     "width": 2742,
+     "height": 3290
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/bs_pw_06939.webp?v=1749680777",
+     "width": 2742,
+     "height": 3290
+    }
+   ],
+   "priceMinor": 12900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "BRACELET JEAN ROUSSEAU Grâce à la marque Jean Rousseau , vous avez l'opportunité d'ajouter à votre montre un bracelet \"Compass\" de la célèbre marque. Un design soigné, un confort optimal, ces bracelets sont pensés pour s’adapter à l’esprit de la marque. Une façon unique de personnaliser votre montre avec style. Fabriqué en Cordura, la caractéristique distinctive de ce bracelet réside dans ses coutures, reflétant la couleur du cadran et créant une connexion visuelle harmonieuse entre le bracelet et la montre. Le bracelet Compass est légèrement bombé, rembordé et cousu. Ses matières techniques et ses appliques caoutchouc en font le plus élégant des bracelets de montre sport.\"",
+   "productType": null,
+   "tags": [
+    "bracelet"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Materials": "Black Cordura, rubber.",
+    "Between horns": "20mm",
+    "Shape": "Curved, edged and sewn."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/straps-accessoires",
+    "BRD-0218/bracelets-20mm"
+   ],
+   "hash": "123fadf4734af5dc"
+  },
+  {
+   "id": "BRD-0218/bracelet-tropic-sable",
+   "name": "Bracelet Tropic sable",
+   "url": "https://www.eskawatches.com/products/bracelet-tropic-sable",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels_straps_product_card-tropic.webp?v=1749680824",
+    "width": 960,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/visuels_straps_product_card-tropic.webp?v=1749680824",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/pw_05553.webp?v=1773042923",
+     "width": 2300,
+     "height": 2875
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/wear-WS-3.webp?v=1773042886",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/wear-WS-1.webp?v=1763892516",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/Double_Cerlage.jpg?v=1763892516",
+     "width": 4160,
+     "height": 4160
+    }
+   ],
+   "priceMinor": 6300,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Bracelet Tropic sable Équipez votre montre d'un bracelet souple en caoutchouc, de couleur sable. Le Bracelet Tropic d’ESKA est équipé de pompes rapides, ce qui permet un changement de bracelet en quelques secondes. Entrecorne 20mm.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matter": "Soft rubber, sand color",
+    "Between horns": "20mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/straps-accessoires",
+    "BRD-0218/bracelets-20mm"
+   ],
+   "hash": "5d1e0da66c996d22"
+  },
+  {
+   "id": "BRD-0218/amphibian-250-red-viper",
+   "name": "Amphibian 250-RV",
+   "url": "https://www.eskawatches.com/products/amphibian-250-red-viper",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-RV.webp?v=1753454365",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-RV.webp?v=1753454365",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/package-rv.webp?v=1753454365",
+     "width": 2300,
+     "height": 2875
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/rv_double_straps_2.webp?v=1753454365",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/rv_double_straps_1.webp?v=1753454365",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/rv_double_straps.webp?v=1753454365",
+     "width": 3382,
+     "height": 2305
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lifestyle-rv.webp?v=1753454365",
+     "width": 2376,
+     "height": 1709
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/pw_04506_1.webp?v=1753454365",
+     "width": 2358,
+     "height": 3598
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/pw_04512_1.webp?v=1753454365",
+     "width": 2305,
+     "height": 3951
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/face2-rv.webp?v=1753454365",
+     "width": 2304,
+     "height": 2304
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/lumi-rv.webp?v=1753454365",
+     "width": 2304,
+     "height": 2304
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/dos-rv.webp?v=1753454365",
+     "width": 2304,
+     "height": 2304
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/straps_rv.webp?v=1753454365",
+     "width": 2304,
+     "height": 3067
+    }
+   ],
+   "priceMinor": 124300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "L'Amphibian “250\" Red Viper, est le premier modèle d'Eska Watches en version limitée. 136 exemplaires seulement pour cette montre de plongée, équilibre entre modernité et héritage vintage. Ce modèle est disponible avec 3 bracelets dont le nouveau Ladder band Eska.",
+   "productType": "Série limitée",
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/series-limitees",
+    "BRD-0218/editions-epuisees"
+   ],
+   "hash": "6478fff876e3c66e"
+  },
+  {
+   "id": "BRD-0218/eska-amphibian-250",
+   "name": "Amphibian 250",
+   "url": "https://www.eskawatches.com/products/eska-amphibian-250",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-250.webp?v=1731852094",
+    "width": 1100,
+    "height": 1100
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-250.webp?v=1731852094",
+     "width": 1100,
+     "height": 1100
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/product-2.jpg?v=1709648904",
+     "width": 1440,
+     "height": 1560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/product-3.jpg?v=1709648904",
+     "width": 1440,
+     "height": 1563
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/product-4.jpg?v=1763891401",
+     "width": 1440,
+     "height": 1560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/product-5.jpg?v=1737812712",
+     "width": 1440,
+     "height": 1560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/product-6.jpg?v=1736173894",
+     "width": 1440,
+     "height": 1560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/product-7.jpg?v=1709648904",
+     "width": 1440,
+     "height": 1560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/files/amphibian-kickstarter.webp?v=1753452760",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 136800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Modèle du KickStarter 2024 - Limité à 500 exemplaires Modèle épuisé UN CADRAN SINGULIER Le cadran de l’Amphibian 250 \" Black Sea \"se démarque par les quatres points cardinaux dit “ oversized ”, qui sont la signature même de cette montre. Les index viennent ajouter du relief et de la profondeur au cadran car ils sont intégrés façon “ sandwich ”. Ces index sont également ornés d’un rappel de couleur rouge à leurs extrémités, le rouge étant la pour appuyer l’aspect sportif de la pièce mais aussi, car il s’agit de la couleur qui représente la vie . La couleur des index et de la typographie du cadran fait écho à la couleur du radium patiné que l’on retrouve sur l’originale. UNE LUNETTE “COIN EDGE” L’une des spécificités propre à l’Amphibian 250, est sa lunette qui vient appuyer le style très singulier de la montre. Elle interpelle d’abord par sa largeur et le reflet du disque saphir , puis par sa graduation dite “ à rebours ”. Ce détail nous rappelle à quel point la montre se voulait pionnière dans sa conception. Cette lunette se caractérise aussi par une tranche dite “ coin edge ” reprenant l’aspect d’une pièce de monnaie.",
+   "productType": "Série limitée",
+   "tags": [
+    "montre"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "In addition": "Jean Rousseau bracelet",
+    "Indications": "Hours / Minutes / Seconds"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:09:51.149Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:09:51.149Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0218/amphibian-250",
+    "BRD-0218/editions-epuisees"
+   ],
+   "hash": "1505aed2f9a82ba4"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0218/straps-accessoires",
+   "name": "Accessoires",
+   "url": "https://www.eskawatches.com/collections/straps-accessoires",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/collections/ladder-band.webp?v=1749826685",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0218/amphibian-250",
+   "name": "Amphibian 250",
+   "url": "https://www.eskawatches.com/collections/amphibian-250",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/collections/bg-coll-amphib.webp?v=1755705166",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0218/bracelets-18mm",
+   "name": "Bracelets 18mm",
+   "url": "https://www.eskawatches.com/collections/bracelets-18mm",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0218/bracelets-20mm",
+   "name": "Bracelets 20mm",
+   "url": "https://www.eskawatches.com/collections/bracelets-20mm",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0218/chronographes",
+   "name": "Chronographes",
+   "url": "https://www.eskawatches.com/collections/chronographes",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/collections/collections_chronographes.webp?v=1765194714",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0218/collaborations",
+   "name": "Collaborations",
+   "url": "https://www.eskawatches.com/collections/collaborations",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0218/eska-lab",
+   "name": "Eska Lab",
+   "url": "https://www.eskawatches.com/collections/eska-lab",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/collections/hero-Lab.jpg?v=1788078815",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0218/heritage-sk25",
+   "name": "Heritage SK25",
+   "url": "https://www.eskawatches.com/collections/heritage-sk25",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/collections/bg-collection-heritage.webp?v=1765194776",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0218/light-racing",
+   "name": "Light - Racing",
+   "url": "https://www.eskawatches.com/collections/light-racing",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/collections/eska-heriatge_JR.webp?v=1765197277",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0218/montres",
+   "name": "Montres",
+   "url": "https://www.eskawatches.com/collections/montres",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0218/produit-simple",
+   "name": "Produit Simple",
+   "url": "https://www.eskawatches.com/collections/produit-simple",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0218/series-limitees",
+   "name": "Séries Limitées",
+   "url": "https://www.eskawatches.com/collections/series-limitees",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0802/7206/4856/collections/limitedcollection.webp?v=1767375144",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0218/all-products",
+   "name": "Tous les produits",
+   "url": "https://www.eskawatches.com/collections/all_products",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0218/editions-epuisees",
+   "name": "Éditions épuisées",
+   "url": "https://www.eskawatches.com/collections/editions-epuisees",
+   "description": null,
+   "image": null
+  }
+ ]
+}

@@ -1,0 +1,1428 @@
+{
+ "brandId": "BRD-0784",
+ "brandName": "Carl Suchy & Söhne",
+ "website": "https://www.carlsuchy.com",
+ "crawledAt": "2026-11-01T06:46:23.649Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/6874bdded67feb72cd092753/825a5c0c-a4f5-4f2b-8d22-72577fdced2f/logo-white-nav2.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.carlsuchy.com/"
+ },
+ "attribution": "Images © Carl Suchy & Söhne, from carlsuchy.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0784/belvedere-day",
+   "name": "BELVEDERE DAY",
+   "url": "https://www.carlsuchy.com/product/p/belvedere-day",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68833b1b4eea8a52f1918eb8/1788057006089/suhcy-web-images6.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68833b1b4eea8a52f1918eb8/1788057006089/suhcy-web-images6.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Stainless Steel Case White Dial Adorned with an elegant and timeless white dial, the lighter version of the Belvedere invites you to face the day with a light and easy attitude. True to Carl Suchy & Söhne's spirit of quiet innovation, the Belvedere Day features a unique jumping date window that shifts position daily, transforming the dial's face every twenty-four hours. The skeletonised hands and indices, generously filled with Super-LumiNova®, ensure flawless legibility. The 40.8 mm stainless-steel case is subtly animated by the interplay of polished and satin-finished surfaces.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": 43.9,
+    "thicknessMm": 12.2,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "automatic, 42 hours power reserve, 28,800 vph, 21 jewels, CSS201 (customised Dubois Dépraz DD90000)",
+    "Frequency": "4 Hz – 28’800 A/h",
+    "Diameter": "40.8 mm",
+    "Lug-to-Lug": "43.9 mm",
+    "Height": "12.2 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/belvedere",
+    "BRD-0784/collection"
+   ],
+   "hash": "ed6594ad59cd9e3c"
+  },
+  {
+   "id": "BRD-0784/viennaday",
+   "name": "VIENNA DAY",
+   "url": "https://www.carlsuchy.com/product/p/viennaday",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/688350554eea8a52f19392f1/1788057021476/suhcy-web-images.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/688350554eea8a52f19392f1/1788057021476/suhcy-web-images.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1890000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Stainless Steel Case Blue & White Dial The refined geometric lines of the Vienna Day reflect the city’s aesthetics, echoing the modernist legacy of architects of the Wiener Moderne. At 6 o'clock, the Waltzing Disc moves in its signature rhythmic motion, while the domed sapphire crystal, perfectly flowing into the 39mm case, ensures an unobstructed view of every detail. COMING SOON This model will be launched soon. Sign up here for the pre-reservation list.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 41.2,
+    "thicknessMm": 7.9,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "automatic",
+    "Power-reserve": "48 hours",
+    "Jewels": "29",
+    "Indexes": "rhodium-plated with Super-LumiNova® filling",
+    "Finishing": "galvanic treatment",
+    "Material": "316L stainless steel",
+    "Diameter": "39 mm",
+    "Lug-to-lug": "41.2 mm",
+    "Height": "7.9 mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/vienna",
+    "BRD-0784/collection"
+   ],
+   "hash": "4790f54412208076"
+  },
+  {
+   "id": "BRD-0784/viennanight",
+   "name": "VIENNA NIGHT",
+   "url": "https://www.carlsuchy.com/product/p/viennanight",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/6883508e379e796a139c864a/1788057021601/suhcy-web-images3.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/6883508e379e796a139c864a/1788057021601/suhcy-web-images3.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1890000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Stainless Steel Case Blue & White Dial The refined geometric lines of the Vienna Night reflect the city’s aesthetics, echoing the modernist legacy of architects of the Wiener Moderne. At 6 o'clock, the Waltzing Disc moves in its signature rhythmic motion, while the domed sapphire crystal, perfectly flowing into the 39mm case, ensures an unobstructed view of every detail. COMING SOON This model will be launched soon. Sign up here for the pre-reservation list.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 41.2,
+    "thicknessMm": 7.9,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "automatic",
+    "Power-reserve": "48 hours",
+    "Jewels": "29",
+    "Indexes": "rhodium-plated with Super-LumiNova® filling",
+    "Finishing": "galvanic treatment",
+    "Material": "316L stainless steel",
+    "Diameter": "39 mm",
+    "Lug-to-lug": "41.2 mm",
+    "Height": "7.9 mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/vienna",
+    "BRD-0784/collection"
+   ],
+   "hash": "57bb20256ebf5dd3"
+  },
+  {
+   "id": "BRD-0784/viennabludanube",
+   "name": "VIENNA BLUE DANUBE",
+   "url": "https://www.carlsuchy.com/product/p/viennabludanube",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/688353322291320828961f5a/1753436978817/viennadanube.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/688353322291320828961f5a/1753436978817/viennadanube.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1890000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Stainless Steel Case Blue & White Dial The refined geometric lines of the Vienna Blue Danube reflect the city’s aesthetics, echoing the modernist legacy of architects of the Wiener Moderne. At 6 o'clock, the Waltzing Disc moves in its signature rhythmic motion, while the domed sapphire crystal, perfectly flowing into the 39mm case, ensures an unobstructed view of every detail. COMING SOON This model will be launched soon. Sign up here for the pre-reservation list.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 41.2,
+    "thicknessMm": 7.9,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "automatic",
+    "Power-reserve": "48 hours",
+    "Jewels": "29",
+    "Indexes": "rhodium-plated with Super-LumiNova® filling",
+    "Finishing": "galvanic treatment",
+    "Material": "316L stainless steel",
+    "Diameter": "39 mm",
+    "Lug-to-lug": "41.2 mm",
+    "Height": "7.9 mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/vienna",
+    "BRD-0784/collection"
+   ],
+   "hash": "3dc80faac40f590d"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-moll",
+   "name": "WALTZ Nº1 MOLL",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-moll",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68838924dc77840d21a20027/1788057081912/moll-details.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68838924dc77840d21a20027/1788057081912/moll-details.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1790000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Silver and Black Case Silver and Black Dial With the Waltz N°1 Moll, we invite you to embark on a journey where time is not only measured, but felt and experienced. A dance with time that connects the past, present and future in a single, breathtaking moment. The Waltz N°1 Moll is not just a watch, but an expression of duration and transience, captured in the incomparable craftsmanship of Carl Suchy & Söhne.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 48,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Watch Strap": "Select Watch Strap Genuine leather (Standard) Alligator (+ €350)",
+    "Winding": "Automatic",
+    "Optional": "alligator strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/collection"
+   ],
+   "hash": "5d508b1746b7fac9"
+  },
+  {
+   "id": "BRD-0784/belvedere-night",
+   "name": "BELVEDERE NIGHT",
+   "url": "https://www.carlsuchy.com/product/p/belvedere-night",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac24d0009b92091f30507a/1788070906180/suhcy-web-images7.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac24d0009b92091f30507a/1788070906180/suhcy-web-images7.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Stainless Steel Case Black Dial With its black dial and strap, the Belvedere Night is the perfect all-around companion, from a gala dinner to a morning run. The special Suchy Jumping Date - a unique date display window - changes position each day, transforming the look of the watch every twenty-four hours. The skeletonised hands and indices, generously filled with Super-LumiNova®, ensure flawless legibility.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": 43.9,
+    "thicknessMm": 12.2,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "automatic, 42 hours power reserve, 28,800 vph, 21 jewels, CSS201 (customised Dubois Dépraz DD90000)",
+    "Frequency": "4 Hz – 28’800 A/h",
+    "Diameter": "40.8 mm",
+    "Lug-to-Lug": "43.9 mm",
+    "Height": "12.2 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/belvedere",
+    "BRD-0784/collection"
+   ],
+   "hash": "051b07adb3472142"
+  },
+  {
+   "id": "BRD-0784/belvedere-danube",
+   "name": "BELVEDERE DANUBE",
+   "url": "https://www.carlsuchy.com/product/p/belvedere-danube",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac28a36612d33ef0829c9d/1788070908923/suhcy-web-images5.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac28a36612d33ef0829c9d/1788070908923/suhcy-web-images5.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Stainless Steel Case Blue Dial A blue as deep as the famous river. Held in timeless blue, the Belvedere Danube looks equally sporty as classic. A unique water-resistant automatic watch designed to be worn for jumping into the blue Danube as well as at a business lunch. True to Carl Suchy & Söhne's spirit of quiet innovation, the Belvedere Danube features a unique jumping date window that shifts position daily, transforming the dial's face every twenty-four hours.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": 43.9,
+    "thicknessMm": 12.2,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "automatic, 42 hours power reserve, 28,800 vph, 21 jewels, CSS201 (customised Dubois Dépraz DD90000)",
+    "Frequency": "4 Hz – 28’800 A/h",
+    "Diameter": "40.8 mm",
+    "Lug-to-Lug": "43.9 mm",
+    "Height": "12.2 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/belvedere",
+    "BRD-0784/collection"
+   ],
+   "hash": "3f939357050cdee4"
+  },
+  {
+   "id": "BRD-0784/belvedere-bordeaux",
+   "name": "BELVEDERE BORDEAUX",
+   "url": "https://www.carlsuchy.com/product/p/belvedere-bordeaux",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac291a09b2dd285d37acf1/1788861625484/suhcy-web-images.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac291a09b2dd285d37acf1/1788861625484/suhcy-web-images.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Stainless Steel Case Burgundy Dial Embodying elegance and sportiness, the Belvedere Bordeaux captivates with its deep, luxurious red and its golden second hand. A special feature of the Belvedere collection is the unique jumping date window, which is also present in the Bordeaux version, transforming the dial's face every twenty-four hours. The skeletonised hands and indices, generously filled with Super-LumiNova&reg;, ensure flawless legibility. The 40.8 mm stainless-steel case is subtly animated by the interplay of polished and satin-finished surfaces.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": 43.9,
+    "thicknessMm": 12.2,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "automatic, 42 hours power reserve, 28,800 vph, 21 jewels, CSS201 (customised Dubois Dépraz DD90010)",
+    "Frequency": "4 Hz – 28’800 A/h",
+    "Diameter": "40.8 mm",
+    "Lug-to-Lug": "43.9 mm",
+    "Height": "12.2 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/belvedere",
+    "BRD-0784/collection"
+   ],
+   "hash": "e7582aaaa08d41bb"
+  },
+  {
+   "id": "BRD-0784/belvedere-champagne",
+   "name": "BELVEDERE CHAMPAGNE",
+   "url": "https://www.carlsuchy.com/product/p/belvedere-champagne",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac2932f86be81bed793232/1788070909649/suhcy-web-images5.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac2932f86be81bed793232/1788070909649/suhcy-web-images5.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Stainless Steel Case Champagne Dial The Belvedere Champagne dazzles with its rich golden hues. The dial features a luminous golden second hand and Super-LumiNova-filled indices, highlighting the meticulous craftsmanship and attention to detail that defines Carl Suchy & S&ouml;hne. As with the other models, the Belvedere Champagne features a unique jumping date window that shifts position daily, transforming the dial's face every twenty-four hours. The 40.8 mm stainless-steel case is subtly animated by the interplay of polished and satin-finished surfaces.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": 43.9,
+    "thicknessMm": 12.2,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "automatic, 42 hours power reserve, 28,800 vph, 21 jewels, CSS201 (customised Dubois Dépraz DD90010)",
+    "Frequency": "4 Hz – 28’800 A/h",
+    "Diameter": "40.8 mm",
+    "Lug-to-Lug": "43.9 mm",
+    "Height": "12.2 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/belvedere",
+    "BRD-0784/collection"
+   ],
+   "hash": "625bd77c3a8163d3"
+  },
+  {
+   "id": "BRD-0784/belvedere-titan",
+   "name": "BELVEDERE TITAN",
+   "url": "https://www.carlsuchy.com/product/p/belvedere-titan",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac294cc25f237bd7be9400/1788070909732/suhcy-web-images.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac294cc25f237bd7be9400/1788070909732/suhcy-web-images.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1090000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Titan Case Grey Dial The Belvedere Titan is defined by its exceptional lightness thanks to its titanium case. A special feature of the Belvedere collection is the unique jumping date window, which is also present in the titanium version, transforming the dial's face every twenty-four hours. The skeletonised hands and indices, generously filled with Super-LumiNova®, ensure flawless legibility. The golden second hand of the Belvedere Titan gives the timepieces a luminous accent.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": 43.9,
+    "thicknessMm": 12.2,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "automatic, 42 hours power reserve, 28,800 vph, 21 jewels, CSS201 (customised Dubois Dépraz DD90000)",
+    "Frequency": "4 Hz – 28’800 A/h",
+    "Material": "Titanium ; polished bezel, lugs, and case back",
+    "Diameter": "40.8 mm",
+    "Lug-to-Lug": "43.9 mm",
+    "Height": "12.2 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/belvedere",
+    "BRD-0784/collection"
+   ],
+   "hash": "82c80e3f5fdf933a"
+  },
+  {
+   "id": "BRD-0784/belvedere-midnight",
+   "name": "BELVEDERE MIDNIGHT",
+   "url": "https://www.carlsuchy.com/product/p/belvedere-midnight",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac295f7fc0f00778f98aae/1788070909773/CS-Belvedere-Midnight-1.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68ac295f7fc0f00778f98aae/1788070909773/CS-Belvedere-Midnight-1.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 990000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Black Stainless Steel Case (DLC) Black Dial The Belvedere Midnight captivates with its deep black colour palette, the subtle sheen of its DLC coating and its distinctive fluted bezel. A special feature of the Belvedere collection is the unique jumping date window, which is also present in the Midnight version, transforming the dial's face every twenty-four hours. The skeletonised hands and indices, generously filled with Super-LumiNova®, ensure flawless legibility.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40.8,
+    "lugWidthMm": null,
+    "lugToLugMm": 43.9,
+    "thicknessMm": 12.2,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "automatic, 42 hours power reserve, 28,800 vph, 21 jewels, CSS201 (customised Dubois Dépraz DD90010)",
+    "Frequency": "4 Hz – 28’800 A/h",
+    "Diameter": "40.8 mm",
+    "Lug-to-Lug": "43.9 mm",
+    "Height": "12.2 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/belvedere",
+    "BRD-0784/collection"
+   ],
+   "hash": "fcfb19f4bfef7a04"
+  },
+  {
+   "id": "BRD-0784/table-waltz",
+   "name": "TABLE WALTZ",
+   "url": "https://www.carlsuchy.com/product/p/table-waltz",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/68b18a2964121927f4be8be6/1756465705892/suhcy-web-images.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/68b18a2964121927f4be8be6/1756465705892/suhcy-web-images.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 4500000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Limited to ten pieces The Table Waltz is an exceptional creation by Carl Suchy & S&ouml;hne, a strictly limited-edition table clock housing a specially developed in-house movement, handcrafted to the highest standards of Viennese watchmaking. Its dark, silk-matte case flows seamlessly into the movement, achieving a rare unity of form and function that defines its quiet elegance and commanding presence.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Plate": "brass",
+    "Screws": "blued steel",
+    "Gear wheels": "polished brass",
+    "Bell": "silver",
+    "Weight": "about three kilos"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/collection"
+   ],
+   "hash": "1728763062bd4355"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-black-case-black-dial",
+   "name": "WALTZ Nº1",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-black-case-black-dial",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68aed5f2a8230d2b77c098a5/1788071895468/WALTZ-SHOP-DETAILS.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68aed5f2a8230d2b77c098a5/1788071895468/WALTZ-SHOP-DETAILS.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1690000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Black Case Black Dial The Black dial of the Waltz N&deg;1 features a geometric pattern, which is divided in half by vertical and horizontal striping. The rotating small seconds indicator, in the shape of a waltzing disc at six o’clock, is cut out of the striping and is thus aligned with the rest of the dial once per minute as it waltzes in a perfect circle. It’s a tribute to the dancing rhythm of the Viennese Waltz – and to the Viennese savoir-vivre, where not every second counts.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 30,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Watch Strap": "Select Watch Strap Genuine leather (Standard) Alligator (+ €350)",
+    "Winding": "Automatic"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/waltz-no1",
+    "BRD-0784/collection"
+   ],
+   "hash": "4c428ada362331a6"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-silver-case-blue-dial",
+   "name": "WALTZ Nº1 BLUE DANUBE",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-silver-case-blue-dial",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/68b0121264121927f4bd7349/1756369426672/suhcy-web-images.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/68b0121264121927f4bd7349/1756369426672/suhcy-web-images.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1590000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Steel Case Blue Dial The blue dial of the Waltz N&deg;1 features a geometric pattern, which is divided in half by vertical and horizontal striping. The rotating small seconds indicator, in the shape of a waltzing disc at six o’clock, is cut out of the striping and is thus aligned with the rest of the dial once per minute as it waltzes in a perfect circle. It’s a tribute to the dancing rhythm of the Viennese Waltz – and to the Viennese savoir-vivre, where not every second counts.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Watch Strap": "Select Watch Strap Genuine leather (Standard) Aligator (+ € 350)",
+    "Winding": "Automatic"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/waltz-no1",
+    "BRD-0784/collection"
+   ],
+   "hash": "7a76bc3e075663a4"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-gold-gold-dial",
+   "name": "WALTZ Nº1 GOLD",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-gold-gold-dial",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b0708564121927f4bdad5c/1756393733004/suhcy-web-images.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b0708564121927f4bdad5c/1756393733004/suhcy-web-images.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 2750000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "18ct Gold Case Gold Dial LUXURY WATCH WITH 18K GOLD CASE AND WHITE DIAL The Waltz N&deg;1 Gold is a particularly elegant version of the bestseller of the watch brand Carl Suchy & S&ouml;hne. The limited special series of five exclusive Swiss Made watches with 18-carat gold case is handcrafted according to the highest levels of watchmaking excellence. OUT OF STOCK",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 48,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "Automatic"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2b5bbb16e065fdcc"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-skeleton-black-dial",
+   "name": "WALTZ Nº1 SKELETON BLACK",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-skeleton-black-dial",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b0742164121927f4bdb17f/1756394561952/suhcy-web-images.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b0742164121927f4bdb17f/1756394561952/suhcy-web-images.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3500000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Stainless Steel Case Black Dial Crafted in small series of less than ten watches a year, the Waltz N&deg;1 Skeleton Black is the intricate declination of the classic Waltz N&deg;1. Honouring Carl Suchy & S&ouml;hne's DNA, the dial has been carefully openworked along the horizontal and vertical lines, and adorned with the iconic rotating seconds-disc at 6 o'clock. Featuring the identical pattern, it aligns perfectly with the rest of the dial as it waltzes in a perfect circle once per minute. OUT OF STOCK",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "Automatic"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/waltz-n1-skeleton",
+    "BRD-0784/collection"
+   ],
+   "hash": "eeb558af83a0da56"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-skeleton",
+   "name": "WALTZ Nº1 SKELETON BLUE DANUBE",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-skeleton",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/68b1607a249f594a002a3a6e/1756455034425/suhcy-web-images.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/68b1607a249f594a002a3a6e/1756455034425/suhcy-web-images.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3500000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Stainless Steel Case Blue Dial Crafted in small series of less than ten watches a year, the Waltz N&deg;1 Skeleton Blue Danube is the intricate declination of the classic Waltz N&deg;1. Honouring Carl Suchy & S&ouml;hne's DNA, the dial has been carefully openworked along the horizontal and vertical lines, and adorned with the iconic rotating seconds-disc at 6 o'clock. Featuring the identical pattern, it aligns perfectly with the rest of the dial as it waltzes in a perfect circle once per minute. OUT OF STOCK",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "Automatic"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/waltz-n1-skeleton",
+    "BRD-0784/collection"
+   ],
+   "hash": "08e87cb84279452a"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-skeleton-white-dial",
+   "name": "WALTZ Nº1 SKELETON WHITE",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-skeleton-white-dial",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b16301ff68e13c6adff849/1756455681765/suhcy-web-images.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b16301ff68e13c6adff849/1756455681765/suhcy-web-images.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3500000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Stainless Steel Case White Dial Crafted in small series of less than ten watches a year, the Waltz N&deg;1 Skeleton White is the intricate declination of the classic Waltz N&deg;1. Honouring Carl Suchy & S&ouml;hne's DNA, the dial has been carefully openworked along the horizontal and vertical lines, and adorned with the iconic rotating seconds-disc at 6 o'clock. Featuring the identical pattern, it aligns perfectly with the rest of the dial as it waltzes in a perfect circle once per minute. OUT OF STOCK",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "Automatic"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/waltz-n1-skeleton",
+    "BRD-0784/collection"
+   ],
+   "hash": "02855ec9a2d38c3e"
+  },
+  {
+   "id": "BRD-0784/table-waltz-tourbillon",
+   "name": "TABLE WALTZ TOURBILLON",
+   "url": "https://www.carlsuchy.com/product/p/table-waltz-tourbillon",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b18fde64121927f4be8ef3/1756467264211/suhcy-web-images.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b18fde64121927f4be8ef3/1756467264211/suhcy-web-images.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6600000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Limited to ten pieces The Table Waltz Tourbillon is a rare masterpiece, one that sits at the intersection of haute horlogerie and Viennese craftsmanship. Limited to just ten pieces, it features an in-house tourbillon movement, made and engineered entirely in Austria. Its case, milled from a single block of brass and finished by hand in partnership with the legendary Viennese glassmaker J. & L. Lobmeyr, makes it as much a work of art as a feat of engineering.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "brass",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Plate": "brass",
+    "Screws": "blued steel",
+    "Gear wheels": "polished brass",
+    "Bell": "Gold plated",
+    "Case": "nickel plated plated brass, inside colorless glossy lacquered",
+    "Weight": "about three kilos"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/collection"
+   ],
+   "hash": "4dfdae81f8e79a18"
+  },
+  {
+   "id": "BRD-0784/table-waltz-jubilee",
+   "name": "TABLE WALTZ JUBILEE",
+   "url": "https://www.carlsuchy.com/product/p/table-waltz-jubilee",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b19267ff68e13c6ae00d44/1756467815659/suhcy-web-images.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/68b19267ff68e13c6ae00d44/1756467815659/suhcy-web-images.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5000000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Limited to ten pieces The Table Waltz Jubilee was created to mark a defining milestone: the 200th anniversary of Carl Suchy & S&ouml;hne. Every detail speaks to the finest traditions of Viennese craftsmanship, from the hand-polished and engraved glass panels on the front and back, realized in partnership with the legendary J. & L. Lobmeyr, to the conical brass case into which they fit with effortless precision. Together, they frame a light-flooded stage for the seemingly weightless, skeletonised in-house movement CS-T1, its brilliance further heightened by a colourless gloss finish applied to the interior of the case.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "brass",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Plate": "brass",
+    "Screws": "blued steel",
+    "Gear wheels": "polished brass",
+    "Bell": "Gold plated",
+    "Case": "nickel plated plated brass, inside colorless glossy lacquered",
+    "Weight": "about three kilos"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/collection"
+   ],
+   "hash": "672ffb71f4084b58"
+  },
+  {
+   "id": "BRD-0784/ornament-edition",
+   "name": "WALTZ Nº1 ORNAMENT EDITION",
+   "url": "https://www.carlsuchy.com/product/p/ornament-edition",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/69d4ef8189adf51f25c12a76/1788190175145/suhcy-web-images.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/69d4ef8189adf51f25c12a76/1788190175145/suhcy-web-images.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 2580000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Stainless Steel Case Silver/Black Dial The Waltz N&deg;1 Ornament Edition does not follow a decorative motif. Its dial is based on a geometric grid of concentric lines. The numerals 12, 3, 6 and 9 are not applied elements but integral components of this structure. The rotating Waltzing Disc at six o’clock completes the linear composition once every minute. Slender black hands integrate seamlessly into the composition without disrupting its graphic clarity. The ultra thin Calibre CSS-A1, with its geometrically skeletonised bridges, mirrors the dial. Construction becomes a continuous principle.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "Automatic",
+    "Optional": "alligator strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/waltz-no1",
+    "BRD-0784/collection"
+   ],
+   "hash": "63bed06dc37c0b69"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-moll-a3amm",
+   "name": "WALTZ Nº1 DAY & NIGHT",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-moll-a3amm",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/69d50d8cc24102654f4ebc3e/1788190223025/CS-SE-DayandNight.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/69d50d8cc24102654f4ebc3e/1788190223025/CS-SE-DayandNight.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1650000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Black Case Silver and Black Dial The Waltz N°1 Day & Night is the perfect companion for your discovery of Austria’s capital, uniting the versatile faces the city has to offer: Visit the wonderful imperial sights durig the day and set out for a night to remember in one of the many legendary night bars. SOLD OUT",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "Automatic",
+    "Optional": "alligator strap"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/collection"
+   ],
+   "hash": "047ecb4db9b47349"
+  },
+  {
+   "id": "BRD-0784/waltz-n1-moll-a3amm-em9sa",
+   "name": "WALTZ Nº1 SAUDI NIGHTS",
+   "url": "https://www.carlsuchy.com/product/p/waltz-n1-moll-a3amm-em9sa",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/69d5155e54fa6134bf2f37bf/1788190240782/CS-SE-Saudi.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/6874bddfd67feb72cd0927ba/69d5155e54fa6134bf2f37bf/1788190240782/CS-SE-Saudi.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1750000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Black (DLC) Stainless Steel Case Dark Green Dial Curated from the Waltz N°1 collection, the Waltz N°1 Saudi Nights features a deep green dial that reflects both the serenity of Saudi nights and the vibrant green symbolism of the nation. The dial is adorned with bespoke Hindu-Arabic numerals in an elegant Breguet style, specially designed and patented exclusively by 10tenlabs in collaboration with a local Saudi calligrapher. SOLD OUT",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Winding": "Automatic"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:23.649Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:23.649Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0784/collection"
+   ],
+   "hash": "244eadd998ffb721"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0784/vienna",
+   "name": "VIENNA",
+   "url": "https://www.carlsuchy.com/collection/vienna",
+   "description": "Explore the Vienna collection by Carl Suchy & Söhne, inspired by Viennese Modernism. Discover finely crafted timepieces blending elegance, craftsmanship, and city heritage.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/696a27a878619b61bf4bc6a6/1774879554110/Suchy-Vienna-cover-WEB-00-scaled.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0784/belvedere",
+   "name": "BELVEDERE",
+   "url": "https://www.carlsuchy.com/collection/belvedere",
+   "description": "Explore Carl Suchy & Söhne's Belvedere collection, featuring elegant Austrian watches blending craftsmanship, innovation, and timeless design. Perfect for any occasion.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/696a27c978619b61bf4bc6bd/1774543493496/BELVEDERE-TITAN-COLL3.png?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0784/waltz-no1",
+   "name": "WALTZ N°1",
+   "url": "https://www.carlsuchy.com/collection/waltz-no1",
+   "description": "Explore the Waltz N°1 by Carl Suchy & Söhne, a timepiece inspired by Viennese elegance and modern minimalism.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/696a27db78619b61bf4bc6c6/1774946020904/suhcy-waltz-black-white6.png?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0784/waltz-n1-skeleton",
+   "name": "WALTZ N°1 SKELETON",
+   "url": "https://www.carlsuchy.com/collection/waltz-n1-skeleton",
+   "description": "Discover the limited-edition Waltz Nº1 Skeleton watch, showcasing Viennese elegance with exquisite craftsmanship and openworked design by Carl Suchy & Söhne.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/696a27e9ac462a02e1228c80/1774948293315/WaltzN1_SkeletonBlue_Hero-copie-1920x1080-1.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0784/collection",
+   "name": "Timepieces",
+   "url": "https://www.carlsuchy.com/collection",
+   "description": "Explore Carl Suchy & Söhne’s collection of luxury watches and clocks, blending Viennese elegance with exceptional craftsmanship.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6874bdded67feb72cd092753/t/696a27787b1e0f31dcd9345a/1778250676556/carlsuchy-vienna-14.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

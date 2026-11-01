@@ -1,0 +1,1201 @@
+{
+ "brandId": "BRD-0943",
+ "brandName": "Ginault Watches",
+ "website": "https://ginault.com",
+ "crawledAt": "2026-11-01T07:18:49.703Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://ginault.com/wp-content/uploads/2016/11/ginault-logo-20161002-1.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://ginault.com/"
+ },
+ "attribution": "Images © Ginault Watches, from ginault.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0943/expeditioner-2nd-phase-pre-order",
+   "name": "EXPEDITIONER 2ND PHASE PRE-ORDER",
+   "url": "https://ginault.com/shop/expeditioner-2nd-phase-pre-order/",
+   "image": {
+    "url": "https://ginault.com/wp-content/uploads/2025/04/Product-Image-Expeditioner-Ocean-Blue-327789LSIPT2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://ginault.com/wp-content/uploads/2025/04/Product-Image-Expeditioner-Ocean-Blue-327789LSIPT2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 132500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [
+    {
+     "name": "Type",
+     "values": [
+      "Diver",
+      "Traveler"
+     ]
+    },
+    {
+     "name": "Dial",
+     "values": [
+      "Mysterious Black",
+      "Pearl White",
+      "Cherry Blossom",
+      "Ocean Blue"
+     ]
+    },
+    {
+     "name": "Crystal",
+     "values": [
+      "Flat Sapphire Crystal",
+      "With Cyclops"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Center Polished 93030G",
+      "All Brushed Gen. II 94530G"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "EXPEDITIONER 2ND PHASE PRE-ORDER",
+     "sku": null,
+     "priceMinor": 132500,
+     "compareAtMinor": 189200,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Type": "Diver, Traveler",
+    "Dial": "Mysterious Black, Pearl White, Cherry Blossom, Ocean Blue",
+    "Crystal": "Flat Sapphire Crystal, With Cyclops",
+    "Bracelet": "Center Polished 93030G, All Brushed Gen. II 94530G",
+    "Price range": "$1,325.00 through $1,441.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "6be16213e82d957a"
+  },
+  {
+   "id": "BRD-0943/trans-atlantic-phase-i-pre-order",
+   "name": "TRANS-ATLANTIC PHASE I PRE-ORDER",
+   "url": "https://ginault.com/shop/trans-atlantic-phase-i-pre-order/",
+   "image": {
+    "url": "https://ginault.com/wp-content/uploads/2025/10/PI-Trans-Atlantic-467789LSISC7-93030G.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://ginault.com/wp-content/uploads/2025/10/PI-Trans-Atlantic-467789LSISC7-93030G.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 169800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [
+    {
+     "name": "Crystal",
+     "values": [
+      "Flat Sapphire Crystal",
+      "With Cyclops"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Center Polished 93030G",
+      "All Brushed Gen. II 94530G"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "TRANS-ATLANTIC PHASE I PRE-ORDER",
+     "sku": null,
+     "priceMinor": 169800,
+     "compareAtMinor": 242500,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Crystal": "Flat Sapphire Crystal, With Cyclops",
+    "Bracelet": "Center Polished 93030G, All Brushed Gen. II 94530G",
+    "Price range": "$1,698.00 through $1,808.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "0fbffc01d3931313"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-ii",
+   "name": "OCEAN-ROVER II",
+   "url": "https://ginault.com/shop/ocean-rover-ii/",
+   "image": {
+    "url": "https://ginault.com/wp-content/uploads/2023/02/Ginault-Ocean-Rover-2-201175LSICN-Mobile-04.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://ginault.com/wp-content/uploads/2023/02/Ginault-Ocean-Rover-2-201175LSICN-Mobile-04.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 149900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [
+    {
+     "name": "Date Complication",
+     "values": [
+      "No Date",
+      "Date w/Cyclops"
+     ]
+    },
+    {
+     "name": "Bezel Color",
+     "values": [
+      "Black Ceramic Bezel",
+      "Blue Ceramic Bezel"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Date Complication": "No Date, Date w/Cyclops",
+    "Bezel Color": "Black Ceramic Bezel, Blue Ceramic Bezel",
+    "Price range": "$1,499.00 through $1,799.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "2220e3a066132abe"
+  },
+  {
+   "id": "BRD-0943/gen-ii-94530g-bracelet",
+   "name": "GEN. II 94530G BRACELET",
+   "url": "https://ginault.com/shop/gen-ii-94530g-bracelet/",
+   "image": {
+    "url": "https://ginault.com/wp-content/uploads/2023/05/93530G-Product-IG-01.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://ginault.com/wp-content/uploads/2023/05/93530G-Product-IG-01.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ginault.com/wp-content/uploads/2023/09/93530G-Product-IG-02.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ginault.com/wp-content/uploads/2023/05/93530G-Product-IG-03-1.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 29200,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Gen II 94530G bracelet , tighter mid-link tolerance, slightly re-profiled clasp for enhanced comfort and durability, 3 x 3 permanent link design allows a perfect fit even for the slender wrist.",
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "35b61f334507f1cd"
+  },
+  {
+   "id": "BRD-0943/phase-2-pre-order-ocean-rover-201175-201875",
+   "name": "PHASE 2 PRE-ORDER OCEAN-ROVER 201175 / 201875",
+   "url": "https://ginault.com/shop/phase-2-pre-order-ocean-rover-201175-201875/",
+   "image": null,
+   "images": [],
+   "priceMinor": 127900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Lume Color",
+     "values": [
+      "The Glowing Smurfs",
+      "Gold Sand"
+     ]
+    },
+    {
+     "name": "Cereamic Bezel Color",
+     "values": [
+      "Blue Ceramic Bezel w/Platinum Index",
+      "Black Ceramic Bezel w/Platinum Index"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Lume Color": "The Glowing Smurfs, Gold Sand",
+    "Cereamic Bezel Color": "Blue Ceramic Bezel w/Platinum Index, Black Ceramic Bezel w/Platinum Index"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4c2696edfc451716"
+  },
+  {
+   "id": "BRD-0943/phase-2-pre-order-ocean-rover-20107x",
+   "name": "PHASE 2 PRE-ORDER OCEAN-ROVER 20107X",
+   "url": "https://ginault.com/shop/phase-2-pre-order-ocean-rover-20107x/",
+   "image": null,
+   "images": [],
+   "priceMinor": 111900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Lume Color",
+     "values": [
+      "The Glowing Smurfs",
+      "Gold Sand"
+     ]
+    },
+    {
+     "name": "Ceramic Bezel Color",
+     "values": [
+      "Blue Ceramic Bezel w/Platinum Index",
+      "Black Ceramic Bezel w/Platinum Index"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Lume Color": "The Glowing Smurfs, Gold Sand",
+    "Ceramic Bezel Color": "Blue Ceramic Bezel w/Platinum Index, Black Ceramic Bezel w/Platinum Index"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c199d8fb2f17097a"
+  },
+  {
+   "id": "BRD-0943/balance-of-ocean-rover-201175-201875-pre-order",
+   "name": "BALANCE OF OCEAN-ROVER 201175 / 201875 PRE-ORDER",
+   "url": "https://ginault.com/shop/balance-of-ocean-rover-201175-201875-pre-order/",
+   "image": null,
+   "images": [],
+   "priceMinor": 79900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "f819e25da05e6130"
+  },
+  {
+   "id": "BRD-0943/balance-of-ocean-rover-20107x-pre-order",
+   "name": "BALANCE OF OCEAN-ROVER 20107X PRE-ORDER",
+   "url": "https://ginault.com/shop/balance-of-ocean-rover-20107x-pre-order/",
+   "image": null,
+   "images": [],
+   "priceMinor": 63900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "37f99a5e16f82e52"
+  },
+  {
+   "id": "BRD-0943/pre-order-ocean-rover-201175-201875",
+   "name": "PRE-ORDER OCEAN-ROVER 201175 / 201875",
+   "url": "https://ginault.com/shop/pre-order-ocean-rover-201175-201875/",
+   "image": null,
+   "images": [],
+   "priceMinor": 119900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [
+    {
+     "name": "Lume Color",
+     "values": [
+      "The Glowing Smurfs",
+      "Gold Sand"
+     ]
+    },
+    {
+     "name": "Cereamic Bezel Color",
+     "values": [
+      "Blue Ceramic Bezel w/Platinum Index",
+      "Black Ceramic Bezel w/Platinum Index"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Lume Color": "The Glowing Smurfs, Gold Sand",
+    "Cereamic Bezel Color": "Blue Ceramic Bezel w/Platinum Index, Black Ceramic Bezel w/Platinum Index"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "412852222ff67f12"
+  },
+  {
+   "id": "BRD-0943/pre-order-ocean-rover-20107x",
+   "name": "PRE-ORDER OCEAN-ROVER 20107X",
+   "url": "https://ginault.com/shop/pre-order-ocean-rover-20107x/",
+   "image": null,
+   "images": [],
+   "priceMinor": 103900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [
+    {
+     "name": "Lume Color",
+     "values": [
+      "The Glowing Smurfs",
+      "Gold Sand"
+     ]
+    },
+    {
+     "name": "Ceramic Bezel Color",
+     "values": [
+      "Blue Ceramic Bezel w/Platinum Index",
+      "Black Ceramic Bezel w/Platinum Index"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Lume Color": "The Glowing Smurfs, Gold Sand",
+    "Ceramic Bezel Color": "Blue Ceramic Bezel w/Platinum Index, Black Ceramic Bezel w/Platinum Index"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "9c524962d8a33d44"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-185066c1lvd",
+   "name": "OCEAN-ROVER 185066C1LVD",
+   "url": "https://ginault.com/shop/ocean-rover-185066c1lvd/",
+   "image": null,
+   "images": [],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Carrie Lafayette",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault",
+    "BRD-0943/carrie-lafayette-en",
+    "BRD-0943/thai-edition"
+   ],
+   "hash": "56ca5ec3959198a7"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-181270lsiln",
+   "name": "OCEAN-ROVER 181270LSILN",
+   "url": "https://ginault.com/shop/ocean-rover-181270lsiln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 139900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "0432821f1d8f9419"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-181175lsiln",
+   "name": "OCEAN-ROVER 181175LSILN",
+   "url": "https://ginault.com/shop/ocean-rover-181175lsiln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 149900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "42015e14785328fa"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-180260gsln",
+   "name": "OCEAN-ROVER 180260GSLN",
+   "url": "https://ginault.com/shop/ocean-rover-180260gsln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 139900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "c5a26f5baf0631f2"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-181070lsiln",
+   "name": "OCEAN-ROVER 181070LSILN",
+   "url": "https://ginault.com/shop/ocean-rover-181070lsiln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 129900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "ab99cbe9c0b7967a"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-181070gslid",
+   "name": "OCEAN-ROVER 181070GSLID",
+   "url": "https://ginault.com/shop/ocean-rover-181070gslid/",
+   "image": null,
+   "images": [],
+   "priceMinor": 129900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "97841a1d1d040c9f"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-181270gsln",
+   "name": "OCEAN-ROVER 181270GSLN",
+   "url": "https://ginault.com/shop/ocean-rover-181270gsln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 139900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "119a950c5c75db0c"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-181270gslid",
+   "name": "OCEAN-ROVER 181270GSLID",
+   "url": "https://ginault.com/shop/ocean-rover-181270gslid/",
+   "image": null,
+   "images": [],
+   "priceMinor": 139900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "27afdb85d065d6d8"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-180165c1ln",
+   "name": "OCEAN-ROVER 180165C1LN",
+   "url": "https://ginault.com/shop/ocean-rover-180165c1ln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 144900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "9912bcb65dd4b74f"
+  },
+  {
+   "id": "BRD-0943/prototype-ocean-rover-180165c1ln",
+   "name": "PROTOTYPE OCEAN-ROVER 180165C1LN",
+   "url": "https://ginault.com/shop/prototype-ocean-rover-180165c1ln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 144900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "3ff1f9e8bc73555a"
+  },
+  {
+   "id": "BRD-0943/prototype-ocean-rover-180260gsln",
+   "name": "PROTOTYPE OCEAN-ROVER 180260GSLN",
+   "url": "https://ginault.com/shop/prototype-ocean-rover-180260gsln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 139900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "350907cea9e1ef67"
+  },
+  {
+   "id": "BRD-0943/ocean-rover-181070gsln",
+   "name": "Ocean-Rover 181070GSLN",
+   "url": "https://ginault.com/shop/ocean-rover-181070gsln/",
+   "image": null,
+   "images": [],
+   "priceMinor": 129900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Ginault",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:18:49.703Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:18:49.703Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0943/ginault"
+   ],
+   "hash": "27c484936c4115fd"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0943/ginault",
+   "name": "Ginault",
+   "url": "https://ginault.com/product-category/ginault/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0943/carrie-lafayette-en",
+   "name": "Carrie Lafayette",
+   "url": "https://ginault.com/product-category/carrie-lafayette-en/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0943/thai-edition",
+   "name": "Thai Edition",
+   "url": "https://ginault.com/product-category/thai-edition/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

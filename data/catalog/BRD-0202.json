@@ -1,0 +1,6553 @@
+{
+ "brandId": "BRD-0202",
+ "brandName": "echo/neutra",
+ "website": "https://echoneutra.com",
+ "crawledAt": "2026-11-01T07:06:13.789Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://echoneutra.com/cdn/shop/files/logo-dark-payoff.svg?v=1726479821",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://echoneutra.com/"
+ },
+ "attribution": "Images © echo/neutra, from echoneutra.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0202/rivanera-w-w-limited-edition",
+   "name": "Rivanera W&W Limited Edition",
+   "url": "https://echoneutra.com/products/rivanera-w-w-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-CordovanNero_2026.png?v=1793006276",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-CordovanNero_2026.png?v=1793006276",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-06.png?v=1791381597",
+     "width": 2400,
+     "height": 2219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-10.png?v=1791381587",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-08.png?v=1791381600",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-16.png?v=1791384523",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-05.png?v=1791388862",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-11.png?v=1791381598",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-14.png?v=1791382027",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-03.png?v=1791388900",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-12.png?v=1791381597",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-RETRO.png?v=1791289098",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-W_W-Gomma_2026.png?v=1793006276",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 181000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "STRAPS INCLUDED First Strap Black Rubber Second Strap Black Horween shell cordovan",
+   "productType": "Watch",
+   "tags": [
+    "noAD",
+    "rivanera",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Second Strap Size",
+     "values": [
+      "SHORT | Fits wrists from 13.7cm to 17.7cm",
+      "REGULAR | Fits wrists from 16cm to 21.2cm",
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "SHORT | Fits wrists from 13.7cm to 17.7cm",
+     "sku": "RNSSMT",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "SHORT | Fits wrists from 13.7cm to 17.7cm"
+     ]
+    },
+    {
+     "title": "REGULAR | Fits wrists from 16cm to 21.2cm",
+     "sku": "RNSSMT",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    },
+    {
+     "title": "XL | Fits wrists from 18.3cm to 23.2",
+     "sku": "RNSSMT",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 5.5,
+    "waterResistanceM": 30,
+    "caliber": "ETA 7001",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Swiss ETA 7001 manual winding",
+    "Water resistance": "30m",
+    "Crown": "Push/pull type",
+    "CASE": "Titanium Grade 5",
+    "HEIGHT": "5,5mm (5,9mm with glass)",
+    "LUGWIDTH": "20mm",
+    "LUG2LUG": "40mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/rivanera"
+   ],
+   "hash": "0b896ccec9d2d80c"
+  },
+  {
+   "id": "BRD-0202/1956-chrono-gmt-black-sand",
+   "name": "1956 Chrono GMT Black & Sand",
+   "url": "https://echoneutra.com/products/1956-chrono-gmt-black-sand",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Nero_Contrasto-Vitello-04-2025.png?v=1745508114",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Nero_Contrasto-Vitello-04-2025.png?v=1745508114",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-NeroBeige-04.jpg?v=1747152739",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-NeroBeige-02.jpg?v=1747152739",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-NeroBeige-Mobile.jpg?v=1747123521",
+     "width": 1500,
+     "height": 1501
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Nero_Contrasto-Tropic-04-2025.png?v=1789545828",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 240000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Automatic watches designed and manufactured with the best materials and techniques, built to last. Swiss Made, designed in Italy.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-7H",
+    "collection 1956",
+    "feed-custom",
+    "noAD",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Vintage Black Calf Leather",
+      "Black tropical rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Vintage Black Calf Leather",
+     "sku": "CO7HBK",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Vintage Black Calf Leather"
+     ]
+    },
+    {
+     "title": "Black tropical rubber",
+     "sku": "CO7HBK",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black tropical rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": 14.8,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 62,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW532M b elaboré",
+    "Diameter": "40 mm",
+    "Water resistance": "100 m",
+    "Crown": "Push-pull",
+    "CASE": "316L stainless steel with satin and polished finishes",
+    "BEZEL": "Ceramic with telemeter scale",
+    "THICKNESS": "14.8 mm (including crystal) 12.7 mm without crystal",
+    "CASEBACK": "Steel caseback with embossed collection logo",
+    "LUG WIDTH": "20 mm",
+    "LUG-TO-LUG": "46 mm",
+    "GLASS": "Ultra-Domed Sapphire with double anti-reflective coating inside",
+    "FREQUENCY": "28,800 vibrations per hour (4 Hz)",
+    "JEWELS": "21 jewels",
+    "POWER RESERVE": "62 hours",
+    "FUNCTIONS": "Hours, Minutes, GMT and Central Chronograph Seconds, Small Seconds @9, 30-minute Chronograph @12, 12-hour Chronograph @6, Day/Night Indicator @9",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-chrono-gmt"
+   ],
+   "hash": "9a01d2144080e6db"
+  },
+  {
+   "id": "BRD-0202/1956-chrono-gmt-cappuccino",
+   "name": "1956 Chrono GMT Cappuccino",
+   "url": "https://echoneutra.com/products/1956-chrono-gmt-cappuccino",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino-Scamosciato.png?v=1789458388",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino-Scamosciato.png?v=1789458388",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino_04.png?v=1789459239",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino_03.png?v=1789459241",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino_01.png?v=1789459240",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino_05.png?v=1789459239",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino_07.png?v=1789459240",
+     "width": 2400,
+     "height": 2219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino-RETRO.png?v=1789458388",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino-Tropic.png?v=1789458388",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Cappuccino-Bracciale.png?v=1789458388",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 240000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Automatic watches designed and manufactured with the best materials and techniques, built to last. Swiss Made, designed in Italy.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-7H",
+    "collection 1956",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Vintage Beige Suede"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Vintage Beige Suede / Black tropical rubber",
+     "sku": "CO7HCP",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Vintage Beige Suede",
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "title": "Vintage Beige Suede / Metal bracelet for 1956",
+     "sku": "CO7HCP",
+     "priceMinor": 246000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Vintage Beige Suede",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": 14.8,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 62,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW532M b elaboré",
+    "Diameter": "40 mm",
+    "Water resistance": "100 m",
+    "Crown": "Push-pull",
+    "CASE": "316L stainless steel with satin and polished finishes",
+    "BEZEL": "Ceramic with telemeter scale",
+    "THICKNESS": "14.8 mm (including crystal)",
+    "CASEBACK": "Steel caseback with embossed collection logo",
+    "LUG WIDTH": "20 mm",
+    "LUG-TO-LUG": "46 mm",
+    "GLASS": "Ultra-Domed Sapphire with double anti-reflective coating inside",
+    "FREQUENCY": "28,800 vibrations per hour (4 Hz)",
+    "JEWELS": "21 jewels",
+    "POWER RESERVE": "62 hours",
+    "FUNCTIONS": "Hours, Minutes, GMT and Central Chronograph Seconds, Small Seconds @9, 30-minute Chronograph @12, 12-hour Chronograph @6, Day/Night Indicator @9",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-chrono-gmt"
+   ],
+   "hash": "e02bee2373da9361"
+  },
+  {
+   "id": "BRD-0202/1956-chrono-gmt-purple",
+   "name": "1956 Chrono GMT Purple",
+   "url": "https://echoneutra.com/products/1956-chrono-gmt-purple",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple-PelleBorgogna.png?v=1789570843",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple-PelleBorgogna.png?v=1789570843",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple_07.png?v=1789570835",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple_02.png?v=1789570867",
+     "width": 1305,
+     "height": 1205
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple_04.png?v=1789571081",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple_01.png?v=1789572240",
+     "width": 1305,
+     "height": 1205
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple_06.png?v=1789571105",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple_03.png?v=1789475308",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple_05.png?v=1789571093",
+     "width": 1305,
+     "height": 1205
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple-RETRO.png?v=1789570849",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple-Bracciale.png?v=1789475749",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-7H-Purple-Tropic.png?v=1789475749",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 240000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Automatic watches designed and manufactured with the best materials and techniques, built to last. Swiss Made, designed in Italy.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-7H",
+    "collection 1956",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Burgundy English Buffalo leather"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Burgundy English Buffalo leather / Black tropical rubber",
+     "sku": "CO7HPR",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Burgundy English Buffalo leather",
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "title": "Burgundy English Buffalo leather / Metal bracelet for 1956",
+     "sku": "CO7HPR",
+     "priceMinor": 246000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Burgundy English Buffalo leather",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": 14.8,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 62,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW532M b elaboré",
+    "Diameter": "40 mm",
+    "Water resistance": "100 m",
+    "Crown": "Push-pull",
+    "CASE": "316L stainless steel with satin and polished finishes",
+    "BEZEL": "Ceramic with telemeter scale",
+    "THICKNESS": "14.8 mm (including crystal)",
+    "CASEBACK": "Steel caseback with embossed collection logo",
+    "LUG WIDTH": "20 mm",
+    "LUG-TO-LUG": "46 mm",
+    "GLASS": "Ultra-Domed Sapphire with double anti-reflective coating inside",
+    "FREQUENCY": "28,800 vibrations per hour (4 Hz)",
+    "JEWELS": "21 jewels",
+    "POWER RESERVE": "62 hours",
+    "FUNCTIONS": "Hours, Minutes, GMT and Central Chronograph Seconds, Small Seconds @9, 30-minute Chronograph @12, 12-hour Chronograph @6, Day/Night Indicator @9",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-chrono-gmt"
+   ],
+   "hash": "b021ac45cca284fc"
+  },
+  {
+   "id": "BRD-0202/averau-ceramic-chrono-amaranth",
+   "name": "Averau Ceramic Chrono “Amaranth”",
+   "url": "https://echoneutra.com/products/averau-ceramic-chrono-amaranth",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-OneofaKind_soldatino.png?v=1782915916",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-OneofaKind_soldatino.png?v=1782915916",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-OneOfAKind-072026_01.png?v=1782914441",
+     "width": 1200,
+     "height": 780
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-OFK-01.png?v=1783087611",
+     "width": 2400,
+     "height": 1560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-OneOfAKind-072026_02.png?v=1782914441",
+     "width": 1200,
+     "height": 780
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-OFK-03.png?v=1783087611",
+     "width": 2400,
+     "height": 1560
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-OneOfAKind-072026_03.png?v=1782914439",
+     "width": 1200,
+     "height": 780
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-OFK-02.png?v=1783087612",
+     "width": 2400,
+     "height": 1560
+    }
+   ],
+   "priceMinor": 240000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "ARCHIVE 02 This piece is a one-of-a-kind watch. It takes shape during the exploration phase, where proportions, materials and details are tested and refined. Based on the Averau Ceramic 42 Chrono, it combines a matte black ceramic case with the TiFrame™ system in Grade 2 titanium, powered by the automatic Sellita SW510B-1 Elaboré calibre. For this unique piece, the main indices and hands receive a distinctive amaranth red accent, creating a precise visual tension against the deep matte surface of the dial. The result is a singular interpretation of the existing Averau Ceramic 42 Chronograph: familiar in its architecture, but instinctive, assertive and expressive in its presence on the wrist. Important: this piece is one of a kind. Only a single unit was produced.",
+   "productType": "Watch",
+   "tags": [
+    "noAD",
+    "one of a kind",
+    "watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 14.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "This piece is a one-of-a-kind watch.": "It takes shape during the exploration phase, where proportions, materials and details are tested and refined. Based on the Averau Ceramic 42 Chrono, it combines a matte black ceramic case with the TiFrame™ system in Grade 2 titanium, powered by the automatic Sellita SW510B-1 Elaboré calibre.",
+    "Important": "this piece is one of a kind. Only a single unit was produced.",
+    "Movement": "Sellita SW510B-1 automatic elaboré",
+    "Diameter": "42mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "14.6mm",
+    "LUG2LUG": "51.5mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/one-of-a-kind"
+   ],
+   "hash": "969c77fd8e22666d"
+  },
+  {
+   "id": "BRD-0202/averau-ceramic-chrono-sand",
+   "name": "AVERAU CERAMIC CHRONO SAND",
+   "url": "https://echoneutra.com/products/averau-ceramic-chrono-sand",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-Sand_Tecnico.png?v=1785941609",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-Sand_Tecnico.png?v=1785941609",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-Sand_07.png?v=1785855924",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6HSAND_01.png?v=1785940433",
+     "width": 1200,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-Sand_04.png?v=1785855923",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-Sand_05.png?v=1785855924",
+     "width": 2400,
+     "height": 2219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-Sand_06.png?v=1785855924",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6HSAND_02.png?v=1785942612",
+     "width": 1200,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau_42_soldatino_6H-retro.png?v=1785856131",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-Sand_Gomma.png?v=1785941609",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-6H-Sand_Vegan.png?v=1785941609",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 240000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The new sand-dial variant introduces a warm, understated tone that contrasts with the matte black ceramic case and Grade 2 titanium TiFrame™ system, while the Automatic Sellita SW510B Elaboré calibre preserves the technical identity of the collection.",
+   "productType": "Watch",
+   "tags": [
+    "*pop*",
+    "automatic",
+    "averau",
+    "chronograph",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "Black Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AC6HSD",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AC6HSD",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black Rubber",
+     "sku": "AC6HSD",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 14.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW510B-1 automatic elaboré",
+    "Diameter": "42mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "14.6mm",
+    "LUG2LUG": "51.5mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-42-ceramic"
+   ],
+   "hash": "5b0818ba78a5136c"
+  },
+  {
+   "id": "BRD-0202/averau-ceramic-3h-sand",
+   "name": "AVERAU CERAMIC 3H SAND",
+   "url": "https://echoneutra.com/products/averau-ceramic-3h-sand",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3H-Sand_Tecnico.png?v=1785943873",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3H-Sand_Tecnico.png?v=1785943873",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3H-Sand_09.png?v=1785943798",
+     "width": 2400,
+     "height": 2217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3H-Sand_04.png?v=1785943798",
+     "width": 2400,
+     "height": 2217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3H-Sand_06.png?v=1785943798",
+     "width": 2400,
+     "height": 2219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3H-Sand_08.png?v=1785943798",
+     "width": 2400,
+     "height": 2219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3HSAND_01.png?v=1785943797",
+     "width": 1200,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3HSAND_02.png?v=1785944473",
+     "width": 1200,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau_42_soldatino_3H-retro.png?v=1785943907",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3H-Sand_Gomma.png?v=1785943873",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau42-3H-Sand_Vegan.png?v=1785943873",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 118000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The new sand-dial variant introduces a warm, understated tone that contrasts with the matte black ceramic case and Grade 2 titanium TiFrame™ system, while the Automatic Sellita SW200 Elaboré calibre preserves the technical identity of the collection.",
+   "productType": "Watch",
+   "tags": [
+    "3-hands",
+    "averau",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "Black Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AC3HSD",
+     "priceMinor": 118000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AC3HSD",
+     "priceMinor": 118000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black Rubber",
+     "sku": "AC3HSD",
+     "priceMinor": 118000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 10.5,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboré",
+    "Diameter": "42mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "10.5mm",
+    "LUG2LUG": "51.5mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-42-ceramic"
+   ],
+   "hash": "c5469011d679ae33"
+  },
+  {
+   "id": "BRD-0202/rivanera-seconde-seconde",
+   "name": "Rivanera + seconde/seconde/",
+   "url": "https://echoneutra.com/products/rivanera-seconde-seconde",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-SecondeSeconde-Lucertola.png?v=1777553791",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-SecondeSeconde-Lucertola.png?v=1777553791",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-SecondeSeconde-Retro.png?v=1777553796",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_12_cf29b2fd-5b20-4776-858c-52dd2c174ea2.png?v=1777562220",
+     "width": 2400,
+     "height": 2217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_06_eb4aff29-abac-44f6-bc77-cf837240b15f.png?v=1777562417",
+     "width": 2400,
+     "height": 2219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_09_ec13e2ca-e881-4003-bede-e5b837bf7fe1.png?v=1777562393",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_08_8b6c422c-458e-495e-bbdb-f319bb97da81.png?v=1777562400",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_03_ab3c9d03-5c79-4f4d-8dd6-071ebf52bcc1.png?v=1777562459",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_07_a4a9e251-9e67-48c9-bffc-906dcba93605.png?v=1777562407",
+     "width": 2400,
+     "height": 2219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_04_bc1fe913-cac7-466b-81c9-3b86e583530b.png?v=1777562449",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_10_f433bbee-3125-4c2f-b7c3-81b6948ef9b5.png?v=1777562365",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_05_7fd85dff-933e-40d8-9c7f-5c22a94dd963.png?v=1777562446",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/secondeseconde-rivanera_11_87faed41-ff00-487f-9bda-a5c6eeab7ef2.png?v=1777562289",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 181000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "STRAPS INCLUDED First Strap Textured blue leather strap Second Strap Warm Grey Vintage Suede",
+   "productType": "Watch",
+   "tags": [
+    "noAD",
+    "rivanera",
+    "watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 5.5,
+    "waterResistanceM": 30,
+    "caliber": "ETA 7001",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Swiss ETA 7001 manual winding",
+    "Water resistance": "30m",
+    "Crown": "Push/pull type",
+    "CASE": "Titanium Grade 5",
+    "HEIGHT": "5,5mm (5,9mm with glass)",
+    "LUGWIDTH": "20mm",
+    "LUG2LUG": "40mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "STRAP SIZE": "Fits wrists from 16cm to 21.2cm",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c1769bdac257ebd0"
+  },
+  {
+   "id": "BRD-0202/rivanera-payne-s-grey-archive-01",
+   "name": "Rivanera “Payne’s Grey”",
+   "url": "https://echoneutra.com/products/rivanera-payne-s-grey-archive-01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_Soldatino.png?v=1776693573",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_Soldatino.png?v=1776693573",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_Retro.png?v=1776691312",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_05.png?v=1776702814",
+     "width": 2400,
+     "height": 2219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_01.png?v=1776702814",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_02.png?v=1776702814",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_03.png?v=1776702814",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_04.png?v=1776706447",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Payne_sGrey-01_042026_06.png?v=1776706447",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 181000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "ARCHIVE 01 This piece is a one-of-a-kind watch. It takes shape during the exploration phase, where proportions, materials and details are tested and refined. Defined by a deep Payne’s Grey dial and paired with a burgundy English buffalo leather strap, it establishes a subtle tension between surface and material. Once realised, it revealed a distinctly eclectic character — unexpected in its balance, more assertive in its presence, and deliberately unconventional. Important: this piece is one of a kind. Only a single unit was produced.",
+   "productType": "Watch",
+   "tags": [
+    "noAD",
+    "one of a kind"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 5.5,
+    "waterResistanceM": 30,
+    "caliber": "ETA 7001",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Important": "this piece is one of a kind. Only a single unit was produced.",
+    "Movement": "Swiss ETA 7001 manual winding",
+    "Water resistance": "30m",
+    "Crown": "Push/pull type",
+    "CASE": "Titanium Grade 5",
+    "HEIGHT": "5,5mm (5,9mm with glass)",
+    "LUGWIDTH": "20mm",
+    "LUG2LUG": "40mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/one-of-a-kind"
+   ],
+   "hash": "0aed1a98a4a22bc3"
+  },
+  {
+   "id": "BRD-0202/averau-39-moon-phase-big-moon-green-degrade",
+   "name": "AVERAU 39 Moon phase \"Big Moon\" Green Degradè",
+   "url": "https://echoneutra.com/products/averau-39-moon-phase-big-moon-green-degrade",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-Tecnico-2026.png?v=1773921015",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-Tecnico-2026.png?v=1773921015",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-02.png?v=1774533973",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-01.png?v=1774533973",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-Dial-2026.png?v=1774533948",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-Dual-2026.png?v=1774533948",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-Retro-2026.png?v=1774533948",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-VenganBianco-2026.png?v=1774007130",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-VenganNero-2026.png?v=1774007130",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-PelleNera-2026.png?v=1774007130",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-Bracciale-2026.png?v=1774007130",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 108500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A unique reinterpretation of the Moon phase complication. Powered by the Sellita SW280-1 Automatic movement in the elaboré grade.",
+   "productType": "Watch",
+   "tags": [
+    "automatic",
+    "averau",
+    "averau-39-moon-phase",
+    "moon-phase",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "White Vegan (BioVeg from Corn)",
+      "Black Vegan (BioVeg from Corn)",
+      "Black water buffalo leather",
+      "H-link bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AVMPBMGR",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "White Vegan (BioVeg from Corn)",
+     "sku": "AVMPBMGR",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AVMPBMGR",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black water buffalo leather",
+     "sku": "AVMPBMGR",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black water buffalo leather"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AVMPBMGR",
+     "priceMinor": 117000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "H-link bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW280-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW280-1 automatic elaboré",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "12.5mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "MOON PHASE": "subdial @6 with rotating “Big Moon” indicator",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-moon-phase"
+   ],
+   "hash": "55344ffd824c49c4"
+  },
+  {
+   "id": "BRD-0202/averau-39-3h-green-degrade",
+   "name": "AVERAU 39 3H Green Degradè",
+   "url": "https://echoneutra.com/products/averau-39-3h-green-degrade",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-Tecnico-2026.png?v=1774363402",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-Tecnico-2026.png?v=1774363402",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-02.png?v=1774533920",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-01.png?v=1774533920",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-Dial-2026.png?v=1774533920",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoonVerde-Dual-2026.png?v=1774533948",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-Retro-2026.png?v=1774533948",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-VeganNero-2026.png?v=1774363428",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-Bracciale-2026.png?v=1774363395",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-3HVerde-VeganBianco-2026.png?v=1774363431",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3HVerdeDegrade-BufaloNero.png?v=1775741512",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 84000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A contemporary tool watch: Swiss Made and designed in Italy, powered by the Swiss automatic Sellita SW200-1 elaboré movement.",
+   "productType": "Watch",
+   "tags": [
+    "3-hands",
+    "automatic",
+    "averau",
+    "averau-39-3h",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "H-link bracelet",
+      "White Vegan (BioVeg from Corn)",
+      "Black water buffalo leather"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AV3HGR",
+     "priceMinor": 84000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AV3HGR",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AV3HGR",
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "H-link bracelet"
+     ]
+    },
+    {
+     "title": "White Vegan (BioVeg from Corn)",
+     "sku": "AV3HGR",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black water buffalo leather",
+     "sku": "AV3HGR",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black water buffalo leather"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.3,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboré",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.3mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-3-hands"
+   ],
+   "hash": "52ad3b6fae6641d6"
+  },
+  {
+   "id": "BRD-0202/rivanera-studio-edition",
+   "name": "Rivanera Studio Edition",
+   "url": "https://echoneutra.com/products/rivanera-studio-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-Borgogna_2026.png?v=1793006092",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-Borgogna_2026.png?v=1793006092",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-05.png?v=1772700708",
+     "width": 2400,
+     "height": 2217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-04.png?v=1772700709",
+     "width": 2400,
+     "height": 2217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-Borgogna-02_6df1e484-5aa9-4cb5-b597-ca3e65ba4b9f.png?v=1793006136",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-03.png?v=1772700760",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-06.png?v=1772702448",
+     "width": 2400,
+     "height": 2217
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-07.png?v=1772702447",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-StudioEdition-Gomma_2026.png?v=1793006092",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 181000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "To mark the opening, an exclusive version of the Rivanera collection is introduced: Rivanera Studio Edition. The timepiece will be available exclusively at the new echo/neutra space Studio Milano , located at Via Gerolamo Morone 6, Milan. STRAPS INCLUDED Exclusive Strap Burgundy English Buffalo Leather Strap Second Strap Black Rubber",
+   "productType": "Watch",
+   "tags": [
+    "rivanera",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Second Strap Size",
+     "values": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "REGULAR | Fits wrists from 16cm to 21.2cm",
+     "sku": "RNSSSE",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 5.5,
+    "waterResistanceM": 30,
+    "caliber": "ETA 7001",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Swiss ETA 7001 manual winding",
+    "Water resistance": "30m",
+    "Crown": "Push/pull type",
+    "CASE": "Titanium Grade 5",
+    "HEIGHT": "5,5mm (5,9mm with glass)",
+    "LUGWIDTH": "20mm",
+    "LUG2LUG": "40mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/rivanera"
+   ],
+   "hash": "37144d31a75411e3"
+  },
+  {
+   "id": "BRD-0202/1956-chrono-alpine-green",
+   "name": "1956 Chrono Alpine Green",
+   "url": "https://echoneutra.com/products/1956-chrono-alpine-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-AlpineGreen-Tropic_5f9147ae-8237-4254-b3c0-b17db5c710a6.png?v=1769769232",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-AlpineGreen-Tropic_5f9147ae-8237-4254-b3c0-b17db5c710a6.png?v=1769769232",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-AlpineGreen-07.jpg?v=1769773386",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-AlpineGreen-01.jpg?v=1769769331",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-AlpineGreen-05.jpg?v=1769769331",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-AlpineGreen-04.jpg?v=1769769331",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-AlpineGreen-06.jpg?v=1769769331",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-AlpineGreen-02.jpg?v=1769769331",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-AlpineGreen-08.jpg?v=1769769331",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-AlpineGreen-03.jpg?v=1769769331",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-Chrono-AlpineGreen-Retro.png?v=1769773386",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-AlpineGreen-VintageLeather_855de639-cf67-4780-8c1f-4cf2f76e7445.png?v=1769769331",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-AlpineGreen-Bracciale_9f61a8cd-1cf9-4661-8e94-ff620647d885.png?v=1769769331",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 206000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The 1956 Chrono Alpine Green combines vintage charm and modern comfort, with black sub-dials, a ceramic bezel with telemeter scale, domed sapphire crystal, and a wrist-hugging design.",
+   "productType": "Watch",
+   "tags": [
+    "*pop*",
+    "1956",
+    "1956-chronograph",
+    "chronograph",
+    "collection 1956",
+    "feed-custom",
+    "hand-wound",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "\"Tobacco\" Vintage Suede",
+      "Black Vintage Leather",
+      "Mesh Milanese",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black tropical rubber / \"Tobacco\" Vintage Suede",
+     "sku": "CO5HGR-OS",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black tropical rubber",
+      "\"Tobacco\" Vintage Suede"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black Vintage Leather",
+     "sku": "CO5HGR",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black Vintage Leather"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Mesh Milanese",
+     "sku": "CO5HGR",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Mesh Milanese"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Metal bracelet for 1956",
+     "sku": "CO5HGR",
+     "priceMinor": 212000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 14.1,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW510M BH b hand-wound elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Push/pull type",
+    "THICKNESS": "14.1mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Sapphire fixed bezel with Telemeter",
+    "STRAPS": "2 X Straps included",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-chrono"
+   ],
+   "hash": "2d96f0fd8d9a38e7"
+  },
+  {
+   "id": "BRD-0202/rivanera-piccolo-gb",
+   "name": "Rivanera Piccolo GB",
+   "url": "https://echoneutra.com/products/rivanera-piccolo-gb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-GuillocheNero-Saffiano.png?v=1763474477",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-GuillocheNero-Saffiano.png?v=1763474477",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-03.jpg?v=1763655735",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-09.jpg?v=1763655735",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-01.jpg?v=1763717116",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-02.jpg?v=1763717226",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-08.jpg?v=1763655735",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-13.jpg?v=1763719190",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-16.jpg?v=1763719190",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-15.jpg?v=1763719190",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-GuillocheNero-Gomma.png?v=1763719190",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 198000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "STRAPS INCLUDED First Strap Black Rubber Second Strap Black Saffiano Leather",
+   "productType": "Watch",
+   "tags": [
+    "automatic",
+    "feed-custom",
+    "Rivanera-Piccolo",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Second Strap Size",
+     "values": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm",
+      "SHORT | Fits wrists from 13.7cm to 17.7cm",
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "REGULAR | Fits wrists from 16cm to 21.2cm",
+     "sku": "RN2HGB",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    },
+    {
+     "title": "SHORT | Fits wrists from 13.7cm to 17.7cm",
+     "sku": "RN2HGB",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "SHORT | Fits wrists from 13.7cm to 17.7cm"
+     ]
+    },
+    {
+     "title": "XL | Fits wrists from 18.3cm to 23.2",
+     "sku": "RN2HGB",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 26,
+    "lugWidthMm": 20,
+    "lugToLugMm": 33,
+    "thicknessMm": 6.9,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 46,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW1000, Automatic",
+    "CASE": "Grade 5 Titanium",
+    "SIZE": "26 × 33 mm",
+    "THICKNESS": "6.9 mm",
+    "WEIGHT": "29 g",
+    "LUG WIDTH": "20 mm",
+    "LUG-TO-LUG": "33 mm",
+    "GLASS": "Flat Sapphire",
+    "POWER RESERVE": "46 h",
+    "FUNCTIONS": "Hours, Minutes, Date @6",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/rivanera-piccolo"
+   ],
+   "hash": "4c08d074c4b8caf0"
+  },
+  {
+   "id": "BRD-0202/rivanera-piccolo-gw",
+   "name": "Rivanera Piccolo GW",
+   "url": "https://echoneutra.com/products/rivanera-piccolo-gw",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-GuillocheBianco-Cordovan.png?v=1763468809",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-GuillocheBianco-Cordovan.png?v=1763468809",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-12.jpg?v=1763655844",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-10.jpg?v=1763655844",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-01.jpg?v=1763717116",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-11.jpg?v=1763717226",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-02.jpg?v=1763717226",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-19.jpg?v=1763719067",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-16.jpg?v=1763719190",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-15.jpg?v=1763719190",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-GuillocheBianco-Gomma.png?v=1763719067",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 198000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "STRAPS INCLUDED First Strap Black Rubber Second Strap Black Horween shell cordovan",
+   "productType": null,
+   "tags": [
+    "*pop*",
+    "automatic",
+    "feed-custom",
+    "Rivanera-Piccolo",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Second Strap Size",
+     "values": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm",
+      "SHORT | Fits wrists from 13.7cm to 17.7cm",
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "REGULAR | Fits wrists from 16cm to 21.2cm",
+     "sku": "RN2HGW",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    },
+    {
+     "title": "SHORT | Fits wrists from 13.7cm to 17.7cm",
+     "sku": "RN2HGW",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "SHORT | Fits wrists from 13.7cm to 17.7cm"
+     ]
+    },
+    {
+     "title": "XL | Fits wrists from 18.3cm to 23.2",
+     "sku": "RN2HGW",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 26,
+    "lugWidthMm": 20,
+    "lugToLugMm": 33,
+    "thicknessMm": 6.9,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 46,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW1000, Automatic",
+    "Water resistance": "30m",
+    "CASE": "Grade 5 Titanium",
+    "SIZE": "26 × 33 mm",
+    "THICKNESS": "6.9 mm",
+    "WEIGHT": "29 g",
+    "LUG WIDTH": "20 mm",
+    "LUG-TO-LUG": "33 mm",
+    "GLASS": "Flat Sapphire",
+    "POWER RESERVE": "46 h",
+    "FUNCTIONS": "Hours, Minutes, Date @6",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/rivanera-piccolo"
+   ],
+   "hash": "b86af8b4ab3436c4"
+  },
+  {
+   "id": "BRD-0202/rivanera-piccolo-mb",
+   "name": "Rivanera Piccolo MB",
+   "url": "https://echoneutra.com/products/rivanera-piccolo-mb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-MusouBlack-Gomma.png?v=1763476609",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-MusouBlack-Gomma.png?v=1763476609",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-05_1a063719-a874-42bd-b3bd-92790f98829a.jpg?v=1763655589",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-07.jpg?v=1763655589",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-06.jpg?v=1763655589",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-piccolo-04.jpg?v=1763655589",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-18.jpg?v=1763718244",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-17.jpg?v=1763718244",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-15.jpg?v=1763719190",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Piccolo-16.jpg?v=1763719190",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/RivaneraPiccolo-MusouBlack-Saffiano.png?v=1763718244",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 198000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "STRAPS INCLUDED First Strap Black Rubber Second Strap Black Saffiano Leather",
+   "productType": "Watch",
+   "tags": [
+    "automatic",
+    "feed-custom",
+    "Rivanera-Piccolo",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Second Strap Size",
+     "values": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm",
+      "SHORT | Fits wrists from 13.7cm to 17.7cm",
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "REGULAR | Fits wrists from 16cm to 21.2cm",
+     "sku": "RN2HMB",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    },
+    {
+     "title": "SHORT | Fits wrists from 13.7cm to 17.7cm",
+     "sku": "RN2HMB",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "SHORT | Fits wrists from 13.7cm to 17.7cm"
+     ]
+    },
+    {
+     "title": "XL | Fits wrists from 18.3cm to 23.2",
+     "sku": "RN2HMB",
+     "priceMinor": 198000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 26,
+    "lugWidthMm": 20,
+    "lugToLugMm": 33,
+    "thicknessMm": 6.9,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 46,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW1000, Automatic",
+    "Water resistance": "30m",
+    "CASE": "Grade 5 Titanium",
+    "SIZE": "26 × 33 mm",
+    "THICKNESS": "6.9 mm",
+    "WEIGHT": "29 g",
+    "LUG WIDTH": "20 mm",
+    "LUG-TO-LUG": "33 mm",
+    "GLASS": "Flat Sapphire",
+    "POWER RESERVE": "46 h",
+    "FUNCTIONS": "Hours, Minutes, Date @6",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/rivanera-piccolo"
+   ],
+   "hash": "e06b6790dc345d43"
+  },
+  {
+   "id": "BRD-0202/1956-gmt-tennis-club-2025",
+   "name": "1956 GMT TENNIS CLUB | 2025",
+   "url": "https://echoneutra.com/products/1956-gmt-tennis-club-2025",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-TennisClub-10-2025.png?v=1763372783",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-TennisClub-10-2025.png?v=1763372783",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-TennisClub-04.png?v=1763372747",
+     "width": 2340,
+     "height": 2200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-TennisClub-01.png?v=1763372747",
+     "width": 2340,
+     "height": 2200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-TennisClub-02.png?v=1763372747",
+     "width": 2341,
+     "height": 2200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-TennisClub-06.png?v=1763372747",
+     "width": 2341,
+     "height": 2200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-TennisClub-10-2025-Bracciale.png?v=1763373977",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 160000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A special edition honoring the Padova Tennis Club, blending Swiss precision with colors and details inspired by its heritage. A timepiece of sport and elegance.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-GMT",
+    "collection 1956",
+    "feed-custom",
+    "hand-wound",
+    "noAD",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Blue & Red vintage suede",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue & Red vintage suede",
+     "sku": "CO4HTC-OS",
+     "priceMinor": 160000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blue & Red vintage suede"
+     ]
+    },
+    {
+     "title": "Metal bracelet for 1956",
+     "sku": "CO4HTC",
+     "priceMinor": 162000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.9,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW330-2",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW330 automatic elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.9mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Domed bi-color sapphire bezel,",
+    "FUNCTION": "independent central GMT 24H",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-gmt"
+   ],
+   "hash": "a141d2ab5bb5657c"
+  },
+  {
+   "id": "BRD-0202/1956-gmt-black",
+   "name": "1956 GMT BLACK",
+   "url": "https://echoneutra.com/products/1956-gmt-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-10-2025_1cac0359-c32e-4c1b-b799-2879306ab381.png?v=1762788010",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-10-2025_1cac0359-c32e-4c1b-b799-2879306ab381.png?v=1762788010",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-03.jpg?v=1762789956",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-02.jpg?v=1762789956",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-01.jpg?v=1762789956",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-10-2025-Bracciale.png?v=1762789956",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-10-2025-MeshMilanese.png?v=1762789956",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-10-2025-Tropic.png?v=1762789956",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Black-10-2025-Vintage.png?v=1762789956",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 156000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The 1956 GMT blends essential design and Swiss precision, featuring a 40 mm steel case, sapphire crystal, Sellita SW330 movement, and 100 m water resistance.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-GMT",
+    "collection 1956",
+    "feed-custom",
+    "hand-wound",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Vintage Beige Suede",
+      "Black Vintage Leather",
+      "Milanese mesh",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black tropical rubber / Vintage Beige Suede",
+     "sku": "CO4HBK",
+     "priceMinor": 156000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Vintage Beige Suede"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black Vintage Leather",
+     "sku": "CO4HBK",
+     "priceMinor": 156000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black Vintage Leather"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Milanese mesh",
+     "sku": "CO4HBK",
+     "priceMinor": 156000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Milanese mesh"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Metal bracelet for 1956",
+     "sku": "CO4HBK",
+     "priceMinor": 162000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.9,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW330-2",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW330 automatic elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.9mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Domed bi-color sapphire bezel,",
+    "STRAPS": "2 X Straps included",
+    "FUNCTION": "independent central GMT 24H",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-gmt"
+   ],
+   "hash": "29705cf328666c33"
+  },
+  {
+   "id": "BRD-0202/1956-gmt-khaki",
+   "name": "1956 GMT KHAKI",
+   "url": "https://echoneutra.com/products/1956-gmt-khaki",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Khaki-10-2025.png?v=1762788061",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Khaki-10-2025.png?v=1762788061",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Khaki-03.jpg?v=1762789920",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Khaki-01.jpg?v=1762789920",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Khaki-02.jpg?v=1762789920",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Khaki-10-2025-Bracciale.png?v=1762789920",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Khaki-10-2025-Tropic_0cec7092-9cb6-43e7-99a5-1e4c77c0274c.png?v=1762789920",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-GMT-Khaki-10-2025-MeshMilanese.png?v=1762789920",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 156000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The 1956 GMT blends essential design and Swiss precision, featuring a 40 mm steel case, sapphire crystal, Sellita SW330 movement, and 100 m water resistance.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-GMT",
+    "collection 1956",
+    "feed-custom",
+    "hand-wound",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Black vintage leather",
+      "Milanese mesh",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black tropical rubber / Black vintage leather",
+     "sku": "CO4HKH",
+     "priceMinor": 156000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black vintage leather"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Milanese mesh",
+     "sku": "CO4HKH",
+     "priceMinor": 156000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Milanese mesh"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Metal bracelet for 1956",
+     "sku": "CO4HKH",
+     "priceMinor": 162000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.9,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW330-2",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW330 automatic elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.9mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Domed bi-color sapphire bezel,",
+    "STRAPS": "2 X Straps included",
+    "FUNCTION": "independent central GMT 24H",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-gmt"
+   ],
+   "hash": "d63e9da76d121b90"
+  },
+  {
+   "id": "BRD-0202/averau-ceramic-chrono",
+   "name": "AVERAU CERAMIC CHRONO",
+   "url": "https://echoneutra.com/products/averau-ceramic-chrono",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-Nylon.png?v=1757523576",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-Nylon.png?v=1757523576",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-05.png?v=1757588688",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-09.png?v=1757588688",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-07.png?v=1757588688",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-06_360d12d4-f449-4d54-8bc7-a94dac77ee47.png?v=1757589902",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-11.png?v=1757588688",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-Rubber.png?v=1757588688",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-Vegan.png?v=1757588688",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 240000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The new AVERAU CERAMIC Automatic Chronograph Swiss Made combines a matte black ceramic case with the TiFrame™ system in Grade 2 titanium, powered by the Automatic Sellita SW510B Elaboré calibre, delivering elegance, precision, and durability.",
+   "productType": "Watch",
+   "tags": [
+    "automatic",
+    "averau",
+    "chronograph",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "Black Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AC6HBK",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AC6HBK",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black Rubber",
+     "sku": "AC6HBK",
+     "priceMinor": 240000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 14.6,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW510B-1 automatic elaboré",
+    "Diameter": "42mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "14.6mm",
+    "LUG2LUG": "51.5mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-42-ceramic"
+   ],
+   "hash": "b9fde77426c01e2b"
+  },
+  {
+   "id": "BRD-0202/averau-42-ceramic-3h",
+   "name": "AVERAU CERAMIC 3H",
+   "url": "https://echoneutra.com/products/averau-42-ceramic-3h",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-3H-Nylon_11fd2edf-a045-4e31-9279-c1bee8363a98.png?v=1757517982",
+    "width": 4761,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-3H-Nylon_11fd2edf-a045-4e31-9279-c1bee8363a98.png?v=1757517982",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-3H-06-LQ.png?v=1757589902",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-3H-08-LQ.png?v=1757589902",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-Chrono-06_360d12d4-f449-4d54-8bc7-a94dac77ee47.png?v=1757589902",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-3H-10-LQ.png?v=1757589902",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-3H-Rubber.png?v=1757589902",
+     "width": 4761,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-42-3H-Vegan.png?v=1757589902",
+     "width": 4761,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 118000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The new AVERAU Ceramic 3H Swiss Made combines a matte black ceramic case with the TiFrame™ system in Grade 2 titanium, powered by the Sellita SW200-1 Elaboré calibre, delivering elegance, precision, and durability.",
+   "productType": "Watch",
+   "tags": [
+    "3-hands",
+    "averau",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "Black Rubber"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AC3HBK",
+     "priceMinor": 118000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AC3HBK",
+     "priceMinor": 118000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black Rubber",
+     "sku": "AC3HBK",
+     "priceMinor": 118000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Rubber"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 10.5,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboré",
+    "Diameter": "42mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "10.5mm",
+    "LUG2LUG": "51.5mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-42-ceramic"
+   ],
+   "hash": "52e244fd54c22f3a"
+  },
+  {
+   "id": "BRD-0202/rivanera-white",
+   "name": "Rivanera White",
+   "url": "https://echoneutra.com/products/rivanera-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Bianco-VerdeScuro_2026.png?v=1793005774",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Bianco-VerdeScuro_2026.png?v=1793005774",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Bianco-13.jpg?v=1763546603",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Bianco-12.jpg?v=1762784909",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Bianco-06.jpg?v=1762784909",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Bianco-09.jpg?v=1762784909",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Bianco-07.jpg?v=1762784909",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Bianco-Gomma_2026.png?v=1793005774",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 181000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "STRAPS INCLUDED First Strap Black Rubber Second Strap Dark Green Horween shell cordovan",
+   "productType": "Watch",
+   "tags": [
+    "*pop*",
+    "rivanera",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Second Strap Size",
+     "values": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm",
+      "SHORT | Fits wrists from 13.7cm to 17.7cm",
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "REGULAR | Fits wrists from 16cm to 21.2cm",
+     "sku": "RNSSWH-R",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    },
+    {
+     "title": "SHORT | Fits wrists from 13.7cm to 17.7cm",
+     "sku": "RNSSWH-S",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "SHORT | Fits wrists from 13.7cm to 17.7cm"
+     ]
+    },
+    {
+     "title": "XL | Fits wrists from 18.3cm to 23.2",
+     "sku": "RNSSWH-XL",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 5.5,
+    "waterResistanceM": 30,
+    "caliber": "ETA 7001",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Swiss ETA 7001 manual winding",
+    "Water resistance": "30m",
+    "Crown": "Push/pull type",
+    "CASE": "Titanium Grade 5",
+    "HEIGHT": "5,5mm (5,9mm with glass)",
+    "LUGWIDTH": "20mm",
+    "LUG2LUG": "40mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/rivanera"
+   ],
+   "hash": "5c142454593834cc"
+  },
+  {
+   "id": "BRD-0202/1956-chrono-warm-gray",
+   "name": "1956 Chrono Warm Gray",
+   "url": "https://echoneutra.com/products/1956-chrono-warm-gray",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Gray-Vintage-06-2025.png?v=1750341061",
+    "width": 2883,
+    "height": 2664
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Gray-Vintage-06-2025.png?v=1750341061",
+     "width": 2883,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Grigio-06.jpg?v=1750341061",
+     "width": 2800,
+     "height": 2800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Grigio-02.jpg?v=1750341061",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Grigio-07.jpg?v=1750341061",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Grigio-05.jpg?v=1750341061",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Grigio-01.jpg?v=1750341061",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Gray-Tropic-06-2025.png?v=1750341061",
+     "width": 2883,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Gray-Bracciale-06-2025.png?v=1750341059",
+     "width": 2883,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Gray-MeshMilanese-06-2025.png?v=1750341059",
+     "width": 2883,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Gray-Racing-06-2025.png?v=1750329182",
+     "width": 2883,
+     "height": 2664
+    }
+   ],
+   "priceMinor": 206000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The 1956 Chrono Warm Grey combines vintage charm and modern comfort, with black sub-dials, a ceramic bezel with telemeter scale, domed sapphire crystal, and a wrist-hugging design.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-chronograph",
+    "chronograph",
+    "collection 1956",
+    "feed-custom",
+    "hand-wound",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black Tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Black Vintage leather & white stitching",
+      "Metal bracelet for 1956",
+      "Mesh Milanese",
+      "Racing Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black Tropical rubber / Black Vintage leather & white stitching",
+     "sku": "CO5HGY",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Tropical rubber",
+      "Black Vintage leather & white stitching"
+     ]
+    },
+    {
+     "title": "Black Tropical rubber / Metal bracelet for 1956",
+     "sku": "CO5HGY",
+     "priceMinor": 212000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    },
+    {
+     "title": "Black Tropical rubber / Mesh Milanese",
+     "sku": "CO5HGY",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Tropical rubber",
+      "Mesh Milanese"
+     ]
+    },
+    {
+     "title": "Black Tropical rubber / Racing Strap",
+     "sku": "CO5HGY",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Tropical rubber",
+      "Racing Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 14.1,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW510M BH b hand-wound elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Push/pull type",
+    "THICKNESS": "14.1mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Ceramic fixed bezel with Telemeter",
+    "STRAPS": "2 X Straps included",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-chrono"
+   ],
+   "hash": "dfa0a26988165794"
+  },
+  {
+   "id": "BRD-0202/1956-3h-warm-gray",
+   "name": "1956 3H Warm Gray",
+   "url": "https://echoneutra.com/products/1956-3h-warm-gray",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Gray-VintageW-06-2025.png?v=1750341045",
+    "width": 2883,
+    "height": 2664
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Gray-VintageW-06-2025.png?v=1750341045",
+     "width": 2883,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Grigio-06.jpg?v=1750341045",
+     "width": 2800,
+     "height": 2800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Grigio-01.jpg?v=1750341045",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Grigio-02.jpg?v=1750341045",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Grigio-05.jpg?v=1750341045",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Grigio-07.jpg?v=1750341045",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Grigio-08.jpg?v=1750341045",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Gray-BuffaloNero-06-2025.png?v=1750341045",
+     "width": 2883,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Gray-Bracciale1956-06-2025.png?v=1750341043",
+     "width": 2883,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Gray-MeshMilanese-06-2025.png?v=1750341043",
+     "width": 2883,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Gray-TropicNero-06-2025.png?v=1750341043",
+     "width": 2883,
+     "height": 2664
+    }
+   ],
+   "priceMinor": 102500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The warm grey 1956 combines vintage style, strength, and refinement, featuring a steel case, domed sapphire crystal, and engraved caseback. A timeless and elegant watch.",
+   "productType": "Watch",
+   "tags": [
+    "*pop*",
+    "1956",
+    "1956-3H",
+    "automatic",
+    "collection 1956",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Black Vintage leather & white stitching",
+      "Black water buffalo",
+      "Milanese mesh",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black tropical rubber / Black Vintage leather & white stitching",
+     "sku": "CO3HGY",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black Vintage leather & white stitching"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black water buffalo",
+     "sku": "CO3HGY",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black water buffalo"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Milanese mesh",
+     "sku": "CO3HGY",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Milanese mesh"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Metal bracelet for 1956",
+     "sku": "CO3HGY",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.9,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.9mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Ceramic fixed bezel",
+    "STRAPS": "2 X Straps included",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-3-hands"
+   ],
+   "hash": "f5fb8d6390728287"
+  },
+  {
+   "id": "BRD-0202/1956-chrono-white",
+   "name": "1956 Chrono White",
+   "url": "https://echoneutra.com/products/1956-chrono-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Bianco-Tropic-02-2025.png?v=1740483951",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Bianco-Tropic-02-2025.png?v=1740483951",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-White-08.png?v=1742553867",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-White-05.png?v=1742553867",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-White-04.png?v=1742553867",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-White-03.png?v=1742553867",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-White-09.png?v=1742553867",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-White-10.png?v=1742553867",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-White-07.png?v=1742553867",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Bianco-Bufalo-02-2025.png?v=1742553867",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Bianco-Racing-02-2025.png?v=1742553867",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Bianco-Bracciale-02-2025.png?v=1742553867",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 206000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A vintage-style timepiece inspired by the 50’s sport watches: Swiss Made with Hand-wound Sellita elaboré movement, Sapphire box-shaped glass, 100m WR, ceramic fixed bezel.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-chronograph",
+    "chronograph",
+    "collection 1956",
+    "feed-custom",
+    "hand-wound",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Racing strap",
+      "Black water buffalo",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black tropical rubber / Racing strap",
+     "sku": "CO5HFWH",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Racing strap"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black water buffalo",
+     "sku": "CO5HFWH",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black water buffalo"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Metal bracelet for 1956",
+     "sku": "CO5HFWH",
+     "priceMinor": 212000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 14.1,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW510M BH b hand-wound elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Push/pull type",
+    "THICKNESS": "14.1mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Ceramic fixed bezel with Telemeter",
+    "STRAPS": "2 X Straps included",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-chrono"
+   ],
+   "hash": "329a25d8bd6abded"
+  },
+  {
+   "id": "BRD-0202/1956-3h-khaki",
+   "name": "1956 3H Khaki",
+   "url": "https://echoneutra.com/products/1956-3h-khaki",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-khaki-tropical.png?v=1736851441",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-khaki-tropical.png?v=1736851441",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Khaki-01.jpg?v=1734519545",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Khaki-02.jpg?v=1734519523",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Khaki-04.jpg?v=1734519512",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Khaki-05.jpg?v=1734519489",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Ivory-08-1_6585d7c4-9246-4425-bdc4-acbf15ed422e.jpg?v=1734519467",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Khaki-03.jpg?v=1734519456",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Black-02_2362ffa4-3ed7-44d3-a0ea-d32c82c5f6f6.jpg?v=1734519445",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Black-07_04323aa9-9783-4c43-916b-272d90382527.jpg?v=1734519433",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Khaki-Milanese.png?v=1736851455",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-khaki-Metal.png?v=1736851460",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-khaki-vintage.png?v=1736851449",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 102500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swiss Made timepiece with Khaki glossy dial, automatic Swiss movement, Sapphire box-shaped glass, 100m WR, ceramic fixed bezel.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-3H",
+    "automatic",
+    "collection 1956",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Milanese mesh",
+      "Metal bracelet for 1956",
+      "Black vintage leather",
+      "Black water buffalo"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black tropical rubber / Milanese mesh",
+     "sku": "CO3HKH",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Milanese mesh"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Metal bracelet for 1956",
+     "sku": "CO3HKH",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black vintage leather",
+     "sku": "CO3HKH",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black vintage leather"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black water buffalo",
+     "sku": "CO3HKH",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black water buffalo"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.9,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.9mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Ceramic fixed bezel",
+    "STRAPS": "2 X Straps included",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-3-hands"
+   ],
+   "hash": "50dcfaa1480959ab"
+  },
+  {
+   "id": "BRD-0202/cristallo-professional-diver-white",
+   "name": "CRISTALLO Professional Diver White",
+   "url": "https://echoneutra.com/products/cristallo-professional-diver-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Bianco-Bracciale-11-2024.png?v=1732543971",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Bianco-Bracciale-11-2024.png?v=1732543971",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-01.jpg?v=1753348646",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-04.jpg?v=1753348646",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-03.jpg?v=1753348646",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-13.png?v=1732109286",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-14.png?v=1753348646",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-07.png?v=1753348646",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-10.png?v=1753348646",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-05.jpg?v=1753348646",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/EchoNeutra-CristalloBianco-1450x1450-02.jpg?v=1753348646",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Bianco-GommaNera-11-2024.png?v=1753348646",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Swiss Made professional diver designed for professional diving: a timepiece with a distinctive and strongly characterized design",
+   "productType": "Watch",
+   "tags": [
+    "cristallo",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "316 Steel bracelet",
+      "316 Steel bracelet + Rubber strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "316 Steel bracelet",
+     "sku": "CRPRWH",
+     "priceMinor": 145000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "316 Steel bracelet"
+     ]
+    },
+    {
+     "title": "316 Steel bracelet + Rubber strap",
+     "sku": "CRPRWH",
+     "priceMinor": 151000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "316 Steel bracelet + Rubber strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.9,
+    "waterResistanceM": 500,
+    "caliber": "Sellita SW279",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW279 automatic elaboré",
+    "Diameter": "42mm",
+    "Water resistance": "500m/1640ft",
+    "Crown": "Screw-down type",
+    "CASE": "316L steel with Helium Valve @9",
+    "THICKNESS": "13.9mm",
+    "LUG2LUG": "49mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "BEZEL": "Ceramic with no-deco times – 120 clicks",
+    "BUCKLE": "Folding buckle with diver extension",
+    "FUNCTIONS": "Small seconds @9, Power reserve @6",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/cristallo"
+   ],
+   "hash": "14721f0db8e90405"
+  },
+  {
+   "id": "BRD-0202/rivanera-gray",
+   "name": "Rivanera Gray",
+   "url": "https://echoneutra.com/products/rivanera-gray",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Grigio-CordovanNero_2026.png?v=1793005847",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Grigio-CordovanNero_2026.png?v=1793005847",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Grigio-03-1.webp?v=1763391443",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-112025_04.jpg?v=1763391443",
+     "width": 2001,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Grigio-06-1.webp?v=1763391443",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Grigio-Gomma_2026.png?v=1793005847",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Grigio-CordovanNero.png?v=1793005632",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 181000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "STRAPS INCLUDED First Strap Black Rubber Second Strap Black Horween shell cordovan",
+   "productType": "Watch",
+   "tags": [
+    "*pop*",
+    "rivanera",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Second Strap Size",
+     "values": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm",
+      "SHORT | Fits wrists from 13.7cm to 17.7cm",
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "REGULAR | Fits wrists from 16cm to 21.2cm",
+     "sku": "RNSSGY",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    },
+    {
+     "title": "SHORT | Fits wrists from 13.7cm to 17.7cm",
+     "sku": "RNSSGY",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "SHORT | Fits wrists from 13.7cm to 17.7cm"
+     ]
+    },
+    {
+     "title": "XL | Fits wrists from 18.3cm to 23.2",
+     "sku": "RNSSGY",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 5.5,
+    "waterResistanceM": 30,
+    "caliber": "ETA 7001",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Swiss ETA 7001 manual winding",
+    "Water resistance": "30m",
+    "Crown": "Push/pull type",
+    "CASE": "Titanium Grade 5",
+    "HEIGHT": "5,5mm (5,9mm with glass)",
+    "LUGWIDTH": "20mm",
+    "LUG2LUG": "40mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/rivanera"
+   ],
+   "hash": "b12f60ffd3b519bd"
+  },
+  {
+   "id": "BRD-0202/rivanera-black",
+   "name": "Rivanera Black",
+   "url": "https://echoneutra.com/products/rivanera-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Nero-CordovanNero_2026.png?v=1793005904",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Nero-CordovanNero_2026.png?v=1793005904",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Nero-02-1.webp?v=1763546631",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Nero-112025_01.jpg?v=1763546631",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Nero-05-1.webp?v=1762784890",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Nero-112025_02.jpg?v=1762784890",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Rivanera-Nero-Gomma_2026.png?v=1793005904",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 181000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "STRAPS INCLUDED First Strap Black Rubber Second Strap Black Saffiano leather",
+   "productType": "Watch",
+   "tags": [
+    "*pop*",
+    "rivanera",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Second Strap Size",
+     "values": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm",
+      "SHORT | Fits wrists from 13.7cm to 17.7cm",
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "REGULAR | Fits wrists from 16cm to 21.2cm",
+     "sku": "RNSSBK",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "REGULAR | Fits wrists from 16cm to 21.2cm"
+     ]
+    },
+    {
+     "title": "SHORT | Fits wrists from 13.7cm to 17.7cm",
+     "sku": "RNSSBK",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "SHORT | Fits wrists from 13.7cm to 17.7cm"
+     ]
+    },
+    {
+     "title": "XL | Fits wrists from 18.3cm to 23.2",
+     "sku": "RNSSBK",
+     "priceMinor": 181000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "XL | Fits wrists from 18.3cm to 23.2"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 5.5,
+    "waterResistanceM": 30,
+    "caliber": "ETA 7001",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Swiss ETA 7001 manual winding",
+    "Water resistance": "30m",
+    "Crown": "Push/pull type",
+    "CASE": "Titanium Grade 5",
+    "HEIGHT": "5,5mm (5,9mm with glass)",
+    "LUGWIDTH": "20mm",
+    "LUG2LUG": "40mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/rivanera"
+   ],
+   "hash": "96c74a52a5ab90d6"
+  },
+  {
+   "id": "BRD-0202/averau-39-moon-phase-big-moon-white",
+   "name": "AVERAU 39 Moon phase “Big Moon” White",
+   "url": "https://echoneutra.com/products/averau-39-moon-phase-big-moon-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Bianco-Tecnico.png?v=1732634742",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Bianco-Tecnico.png?v=1732634742",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1424.jpg?v=1738573106",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1144.jpg?v=1738573106",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1164.jpg?v=1738573106",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1367.jpg?v=1738573106",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Bianco-Cordura.png?v=1738573106",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Bianco-VeganNero.png?v=1738573106",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Bianco-VeganBianco.png?v=1738573106",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Bianco-Bracciale.png?v=1738573106",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU-BigMoon-White-Bufalo-2025.png?v=1776078440",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 108500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A modern reinterpretation of the Moon phase complication. Powered by the Sellita SW280-1 Automatic movement in the elaboré grade.",
+   "productType": "Watch",
+   "tags": [
+    "automatic",
+    "averau",
+    "averau-39-moon-phase",
+    "moon-phase",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "White Vegan (BioVeg from Corn)",
+      "Black Vegan (BioVeg from Corn)",
+      "Cordura",
+      "H-link bracelet",
+      "Black water buffalo leather"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AVMPBMWH",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "White Vegan (BioVeg from Corn)",
+     "sku": "AVMPBMWH",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "White Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AVMPBMWH",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Cordura",
+     "sku": "AVMPBMWH",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cordura"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AVMPBMWH",
+     "priceMinor": 117000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "H-link bracelet"
+     ]
+    },
+    {
+     "title": "Black water buffalo leather",
+     "sku": "AVMPBMWH",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black water buffalo leather"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW280-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW280-1 automatic elaboré",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "12.5mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "MOON PHASE": "subdial @6 with rotating “Big Moon” indicator",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-moon-phase"
+   ],
+   "hash": "ed5c91241eb9ea44"
+  },
+  {
+   "id": "BRD-0202/averau-39-3h-blue-degrade",
+   "name": "AVERAU 39 3H Blue degradé",
+   "url": "https://echoneutra.com/products/averau-39-3h-blue-degrade",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-BlueDegrade-Tecnico_758826f1-a48b-4f8f-83d8-fbc7faabaa8b.png?v=1732630789",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-BlueDegrade-Tecnico_758826f1-a48b-4f8f-83d8-fbc7faabaa8b.png?v=1732630789",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1423.jpg?v=1738332004",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1166.jpg?v=1738332004",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1140.jpg?v=1738332004",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1375.jpg?v=1738332004",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-39-3H-Blu-Degrade-04.jpg?v=1738332004",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-39-3H-Blu-Degrade-06.jpg?v=1738332004",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-39-3H-Blu-Degrade-07.jpg?v=1738332004",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-BlueDegrade-VeganNero.png?v=1738331999",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-BlueDegrade-Bracciale_91c5da0d-fffa-4ba1-8696-700d89de79e6.png?v=1738331999",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3HBluDegrade-BufaloNero.png?v=1775741154",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 84000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A contemporary tool watch: Swiss Made and designed in Italy, powered by the Swiss automatic Sellita SW200-1 elaboré movement.",
+   "productType": "Watch",
+   "tags": [
+    "3-hands",
+    "automatic",
+    "averau",
+    "averau-39-3h",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "H-link bracelet",
+      "Black water buffalo"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AV3HBL",
+     "priceMinor": 84000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AV3HBL",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AV3HBL",
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "H-link bracelet"
+     ]
+    },
+    {
+     "title": "Black water buffalo",
+     "sku": "AV3HBL",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black water buffalo"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.3,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboré",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.3mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-3-hands"
+   ],
+   "hash": "cab6659e395b8477"
+  },
+  {
+   "id": "BRD-0202/1956-3h-black",
+   "name": "1956 3H Black",
+   "url": "https://echoneutra.com/products/1956-3h-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Nero-VintageNero-11-2024.png?v=1736851623",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Nero-VintageNero-11-2024.png?v=1736851623",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3h-nero-06.jpg?v=1734344865",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3h-nero-02.jpg?v=1734344994",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3h-nero-03.jpg?v=1734344994",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3h-nero-05.jpg?v=1734344994",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3h-nero-07_5512eee3-7f54-4711-b4bc-e31f92737084.jpg?v=1734344994",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Nero-Bracciale-11-2024.png?v=1736851610",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Nero-BufaloNero-11-2024.png?v=1736851616",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Nero-MeshMilanese-11-2024.png?v=1736851595",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-3H-Nero-Racing-11-2024.png?v=1736851604",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 102500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swiss Made timepiece with Black glossy dial, automatic Swiss movement, Sapphire box-shaped glass, 100m WR, ceramic fixed bezel.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-3H",
+    "automatic",
+    "collection 1956",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Black vintage leather",
+      "Black water buffalo",
+      "Milanese mesh",
+      "Racing strap",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black tropical rubber / Black vintage leather",
+     "sku": "CO3HBK",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black vintage leather"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black water buffalo",
+     "sku": "CO3HBK",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black water buffalo"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Milanese mesh",
+     "sku": "CO3HBK",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Milanese mesh"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Racing strap",
+     "sku": "CO3HBK",
+     "priceMinor": 102500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Racing strap"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Metal bracelet for 1956",
+     "sku": "CO3HBK",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.9,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.9mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Ceramic fixed bezel",
+    "STRAPS": "2 X Straps included",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-3-hands"
+   ],
+   "hash": "e123e41cb041390b"
+  },
+  {
+   "id": "BRD-0202/averau-39-3h-white",
+   "name": "AVERAU 39 3H White | Full lume",
+   "url": "https://echoneutra.com/products/averau-39-3h-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-Bianco-Tecnico.png?v=1732630987",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-Bianco-Tecnico.png?v=1732630987",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1397.jpg?v=1738332112",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1168.jpg?v=1738332112",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1141.jpg?v=1738332112",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1378.jpg?v=1738332112",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU_Crown-02_601b6503-b22b-4af3-94f9-a8fcecfe35fc.jpg?v=1738332112",
+     "width": 1340,
+     "height": 1340
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/BraccialeAverau39-03_5d221b59-e128-4dcd-9645-ff7a152bf52d.png?v=1744364264",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1261-A.png?v=1769443300",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-Bianco-Bracciale.png?v=1769442104",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-Bianco-VeganNero.png?v=1769442104",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3H-Bianco-VeganBianco.png?v=1769442104",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3HBianco-BufaloNero.png?v=1775741154",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 84000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A contemporary tool watch: Swiss Made and designed in Italy, powered by the Swiss automatic Sellita SW200-1 elaboré movement.",
+   "productType": "Watch",
+   "tags": [
+    "*pop*",
+    "3-hands",
+    "automatic",
+    "averau",
+    "averau-39-3h",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "White Vegan (BioVeg from Corn)",
+      "Black Vegan (BioVeg from Corn)",
+      "H-link bracelet",
+      "Black water buffalo"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AV3HWH",
+     "priceMinor": 84000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "White Vegan (BioVeg from Corn)",
+     "sku": "AV3HWH",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AV3HWH",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AV3HWH",
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "H-link bracelet"
+     ]
+    },
+    {
+     "title": "Black water buffalo",
+     "sku": "AV3HWH",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black water buffalo"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.3,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboréc",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.3mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-3-hands"
+   ],
+   "hash": "64af6e70ca052cee"
+  },
+  {
+   "id": "BRD-0202/averau-39-big-moon-phase-black",
+   "name": "AVERAU 39 Moon phase \"Big Moon\"",
+   "url": "https://echoneutra.com/products/averau-39-big-moon-phase-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Nero-Tecnico.png?v=1732631362",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Nero-Tecnico.png?v=1732631362",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1419.jpg?v=1738332212",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1165.jpg?v=1738332212",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1145.jpg?v=1738332212",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1370.jpg?v=1738332212",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/MoonPhase-Bk-5-Square_b6a9886a-d455-4594-87e6-271ce5d9553a.png?v=1738332212",
+     "width": 1400,
+     "height": 1400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/MoonPhase-Bk-3-Square_fe30d02a-0786-454d-a2bd-9bf5721d677f.png?v=1738332212",
+     "width": 1400,
+     "height": 1400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/BraccialeAverau39-03_4840263b-113f-4ca3-9593-220fae1ef7cd.png?v=1744364269",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Nero-VeganBianco.png?v=1738332212",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Nero-VeganNero.png?v=1738332212",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Nero-BufaloNero.png?v=1738332212",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-BigMoon-Nero-Bracciale.png?v=1738332212",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 108500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A unique reinterpretation of the Moon phase complication. Powered by the Sellita SW280-1 Automatic movement in the elaboré grade.",
+   "productType": "Watch",
+   "tags": [
+    "automatic",
+    "averau",
+    "averau-39-moon-phase",
+    "moon-phase",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "White Vegan (BioVeg from Corn)",
+      "Black Vegan (BioVeg from Corn)",
+      "Black water buffalo leather",
+      "H-link bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AVMPBMBK",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "White Vegan (BioVeg from Corn)",
+     "sku": "AVMPBMBK",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AVMPBMBK",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black water buffalo leather",
+     "sku": "AVMPBMBK",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black water buffalo leather"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AVMPBMBK",
+     "priceMinor": 117000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "H-link bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW280-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW280-1 automatic elaboré",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "12.5mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "MOON PHASE": "subdial @6 with rotating “Big Moon” indicator",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-moon-phase"
+   ],
+   "hash": "579dbc2d000c0ab1"
+  },
+  {
+   "id": "BRD-0202/cristallo-professional-diver-blue",
+   "name": "CRISTALLO Professional Diver Blue",
+   "url": "https://echoneutra.com/products/cristallo-professional-diver-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Blu-Bracciale-11-2024.png?v=1732544090",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Blu-Bracciale-11-2024.png?v=1732544090",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Professional-Diver-Blue-09-scaled.jpg?v=1726824096",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Professional-Diver-Blue-06-scaled.jpg?v=1726824096",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Bracciale-gomma-blu-5.jpg?v=1726824096",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Bracciale-gomma-blu.jpg?v=1726824096",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Bracciale-gomma-blu-4.jpg?v=1726824096",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Professional-Diver-Blue-02-scaled.jpg?v=1726824096",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Professional-Diver-Blue-03-scaled.jpg?v=1726824096",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Professional-Diver-Blue-05-scaled.jpg?v=1726824096",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Professional-Diver-Blue-01-scaled.jpg?v=1726824096",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Cristallo-Blu-GommaBlu-11-2024.png?v=1732544106",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Swiss Made professional diver designed for professional diving: a timepiece with a distinctive and strongly characterized design",
+   "productType": "Watch",
+   "tags": [
+    "cristallo",
+    "feed-custom",
+    "noAD",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "316 Steel bracelet",
+      "316 Steel bracelet + Rubber strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "316 Steel bracelet",
+     "sku": "CRPRBL",
+     "priceMinor": 145000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "316 Steel bracelet"
+     ]
+    },
+    {
+     "title": "316 Steel bracelet + Rubber strap",
+     "sku": "CRPRBL-OS",
+     "priceMinor": 151000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "316 Steel bracelet + Rubber strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.9,
+    "waterResistanceM": 500,
+    "caliber": "Sellita SW279",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW279 automatic elaboré",
+    "Diameter": "42mm",
+    "Water resistance": "500m/1640ft",
+    "Crown": "Screw-down type",
+    "CASE": "316L steel with Helium Valve @9",
+    "THICKNESS": "13.9mm",
+    "LUG2LUG": "49mm",
+    "CRYSTAL": "Flat Sapphire glass",
+    "BEZEL": "Ceramic with no-deco times – 120 clicks",
+    "BUCKLE": "Folding buckle with diver extension",
+    "FUNCTIONS": "Small seconds @9, Power reserve @6",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/cristallo"
+   ],
+   "hash": "cd00d3b7129c2ea2"
+  },
+  {
+   "id": "BRD-0202/averau-39-3h-black",
+   "name": "AVERAU 39 3H Black",
+   "url": "https://echoneutra.com/products/averau-39-3h-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau39-Nero-TecnicoNero-11-2024.png?v=1732630533",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau39-Nero-TecnicoNero-11-2024.png?v=1732630533",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1401.jpg?v=1738331936",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1167.jpg?v=1738331936",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1146.jpg?v=1738331936",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1380.jpg?v=1738331936",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau39-Nero-Bracciale-11-2024.png?v=1738331936",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau39-Nero-VeganBianco-11-2024.png?v=1738331936",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau39-Nero-VeganNero-11-2024.png?v=1738331936",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-3HNero-BufaloNero.png?v=1775741154",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 84000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A contemporary tool watch: Swiss Made and designed in Italy, powered by the Swiss automatic Sellita SW200-1 elaboré movement.",
+   "productType": "Watch",
+   "tags": [
+    "3-hands",
+    "automatic",
+    "averau",
+    "averau-39-3h",
+    "feed-custom",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "H-link bracelet",
+      "White Vegan (BioVeg from Corn)",
+      "Black water buffalo"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AV3HBK",
+     "priceMinor": 84000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AV3HBK",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AV3HBK",
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "H-link bracelet"
+     ]
+    },
+    {
+     "title": "White Vegan (BioVeg from Corn)",
+     "sku": "AV3HBK",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black water buffalo",
+     "sku": "AV3HBK",
+     "priceMinor": 89000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black water buffalo"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.3,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW200-1 automatic elaboré",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "11.3mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-3-hands"
+   ],
+   "hash": "e534fcbc633fe273"
+  },
+  {
+   "id": "BRD-0202/averau-39-moon-phase-blue",
+   "name": "AVERAU 39 Moon phase Blue",
+   "url": "https://echoneutra.com/products/averau-39-moon-phase-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Blu-Tecnico.png?v=1732632738",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Blu-Tecnico.png?v=1732632738",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1413.jpg?v=1738332362",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1163.jpg?v=1738332362",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1354.jpg?v=1738332362",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1359.jpg?v=1738332362",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU39-Superluminova-BGW9-lume.jpg?v=1738332362",
+     "width": 1400,
+     "height": 1400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/AVERAU_Crown-02.jpg?v=1738332362",
+     "width": 1340,
+     "height": 1340
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/MoonPhase-Bk-3-Square_e73929fb-1050-41ea-ab89-00030b6eb165.png?v=1738332362",
+     "width": 1400,
+     "height": 1400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/BraccialeAverau39-03_3720b10c-26d9-43ba-b103-1a58c7e45230.png?v=1744364272",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Blu-VeganNero.png?v=1738332362",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Blu-BufaloNero.png?v=1738332362",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Blu-Bracciale.png?v=1738332362",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 108500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A modern reinterpretation of the Moon phase complication. Powered by the Sellita SW280-1 Automatic movement in the elaboré grade.",
+   "productType": "Watch",
+   "tags": [
+    "automatic",
+    "averau",
+    "averau-39-moon-phase",
+    "moon-phase",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "Black water buffalo leather",
+      "H-link bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AVMPBL",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AVMPBL",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black water buffalo leather",
+     "sku": "AVMPBL",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black water buffalo leather"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AVMPBL",
+     "priceMinor": 117000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "H-link bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW280-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW280-1 automatic elaboré",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "12.5mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "MOON PHASE": "Moon phase subdial with Northern and Southern Hemispheres",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-moon-phase"
+   ],
+   "hash": "49c5f4aaf881874b"
+  },
+  {
+   "id": "BRD-0202/averau-39-moon-phase-black",
+   "name": "AVERAU 39 Moon phase Black",
+   "url": "https://echoneutra.com/products/averau-39-moon-phase-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Nero-Tecnico.png?v=1732633006",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Nero-Tecnico.png?v=1732633006",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1408.jpg?v=1738332299",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1162.jpg?v=1738332299",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1142.jpg?v=1738332299",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/DSCF1364.jpg?v=1738332299",
+     "width": 1450,
+     "height": 1450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/MoonPhase-Bk-5-Square.png?v=1738332299",
+     "width": 1400,
+     "height": 1400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/MoonPhase-Bk-3-Square.png?v=1738332299",
+     "width": 1400,
+     "height": 1400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/BraccialeAverau39-03.png?v=1744364276",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Nero-Vegan.png?v=1738332299",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Nero-Bufalo.png?v=1738332299",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Averau-Moonphase-Nero-Bracciale.png?v=1738332299",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 108500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A modern reinterpretation of the Moon phase complication. Powered by the Sellita SW280-1 Automatic movement in the elaboré grade.",
+   "productType": "Watch",
+   "tags": [
+    "automatic",
+    "averau",
+    "averau-39-moon-phase",
+    "moon-phase",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Black textile",
+      "Black Vegan (BioVeg from Corn)",
+      "Black water buffalo leather",
+      "H-link bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black textile",
+     "sku": "AVMPBK",
+     "priceMinor": 108500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black textile"
+     ]
+    },
+    {
+     "title": "Black Vegan (BioVeg from Corn)",
+     "sku": "AVMPBK",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Vegan (BioVeg from Corn)"
+     ]
+    },
+    {
+     "title": "Black water buffalo leather",
+     "sku": "AVMPBK",
+     "priceMinor": 113000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black water buffalo leather"
+     ]
+    },
+    {
+     "title": "H-link bracelet",
+     "sku": "AVMPBK",
+     "priceMinor": 117000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "H-link bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW280-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW280-1 automatic elaboré",
+    "Diameter": "39mm",
+    "Water resistance": "100m",
+    "Crown": "Screw-down type",
+    "THICKNESS": "12.5mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Domed Sapphire crystal",
+    "MOON PHASE": "Moon phase subdial with Northern and Southern Hemispheres",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/averau",
+    "BRD-0202/averau-39-moon-phase"
+   ],
+   "hash": "d82005cea099a297"
+  },
+  {
+   "id": "BRD-0202/1956-chrono-black",
+   "name": "1956 Chrono Black",
+   "url": "https://echoneutra.com/products/1956-chrono-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Nero-Vintage.png?v=1736862157",
+    "width": 2400,
+    "height": 2218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Nero-Vintage.png?v=1736862157",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/IMG_4882.png?v=1726824044",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/5H-Black-02-square-opt.png?v=1734347140",
+     "width": 1455,
+     "height": 1455
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/5H-Black-07.png?v=1726824044",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/5H-Black-03.png?v=1726824044",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Big-crown.png?v=1726824044",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/IMG_4917.png?v=1726824044",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/Movimento-Sellita.png?v=1734347862",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Nero-Bracciale.png?v=1736862201",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Nero-MeshMilanese.png?v=1736862191",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Nero-BufaloNero.png?v=1736862197",
+     "width": 2400,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/files/1956-5H-Nero-Racing.png?v=1736862185",
+     "width": 2400,
+     "height": 2218
+    }
+   ],
+   "priceMinor": 206000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A vintage-style timepiece inspired by the 50’s sport watches: Swiss Made with Hand-wound Sellita elaboré movement, Sapphire box-shaped glass, 100m WR, ceramic fixed bezel.",
+   "productType": "Watch",
+   "tags": [
+    "1956",
+    "1956-chronograph",
+    "chronograph",
+    "collection 1956",
+    "feed-custom",
+    "hand-wound",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Included strap",
+     "values": [
+      "Black tropical rubber"
+     ]
+    },
+    {
+     "name": "Second strap",
+     "values": [
+      "Racing strap",
+      "Metal bracelet for 1956",
+      "Milanese mesh",
+      "Black water buffalo",
+      "Black vintage leather"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black tropical rubber / Racing strap",
+     "sku": "CO5HBK",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Racing strap"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Metal bracelet for 1956",
+     "sku": "CO5HBK",
+     "priceMinor": 212000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Metal bracelet for 1956"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Milanese mesh",
+     "sku": "CO5HBK",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Milanese mesh"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black water buffalo",
+     "sku": "CO5HBK",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black water buffalo"
+     ]
+    },
+    {
+     "title": "Black tropical rubber / Black vintage leather",
+     "sku": "CO5HBK",
+     "priceMinor": 206000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black tropical rubber",
+      "Black vintage leather"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 14.1,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW510M BH b hand-wound elaboré",
+    "Diameter": "40mm",
+    "Water resistance": "100m",
+    "Crown": "Push/pull type",
+    "THICKNESS": "14.1mm",
+    "LUG2LUG": "46mm",
+    "CRYSTAL": "Ultra-domed Sapphire glass",
+    "BEZEL": "Ceramic fixed bezel with Telemeter",
+    "STRAPS": "2 X Straps included",
+    "ITALY": "1-4 working days;",
+    "EU COUNTRIES": "1-4 working days;",
+    "UK": "2-5 working days;",
+    "USA": "2-5 working days;",
+    "OTHER COUNTRIES": "2-6 working days.",
+    "Please note": "The price you see includes all shipping costs and applicable duties.",
+    "You can shop with confidence": "we accept credit cards and electronic check payments."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:06:13.789Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:06:13.789Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0202/1956",
+    "BRD-0202/1956-chrono"
+   ],
+   "hash": "b47044ca4b142b15"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0202/1956",
+   "name": "1956",
+   "url": "https://echoneutra.com/collections/1956",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/cortina1956-banner.png?v=1753353739",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/1956-3-hands",
+   "name": "1956 3H",
+   "url": "https://echoneutra.com/collections/1956-3-hands",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/Coprtina-1956-solotempo-3H.webp?v=1753353168",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/1956-chrono",
+   "name": "1956 Chrono",
+   "url": "https://echoneutra.com/collections/1956-chrono",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/cortina-chrono.webp?v=1753353216",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/1956-chrono-gmt",
+   "name": "1956 Chrono GMT",
+   "url": "https://echoneutra.com/collections/1956-chrono-gmt",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/chrono-gmt-crown.png?v=1753353214",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/1956-gmt",
+   "name": "1956 GMT",
+   "url": "https://echoneutra.com/collections/1956-gmt",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/1956-GMT-KHAKI-Mobile-Ghiera.jpg?v=1762790246",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/averau",
+   "name": "Averau",
+   "url": "https://echoneutra.com/collections/averau",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/big-moon-hero.png?v=1738574133",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/averau-39-3-hands",
+   "name": "Averau 39 3 Hands",
+   "url": "https://echoneutra.com/collections/averau-39-3-hands",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/averau-3h-black-horizontal.webp?v=1738574824",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/averau-39-moon-phase",
+   "name": "Averau 39 Moon Phase",
+   "url": "https://echoneutra.com/collections/averau-39-moon-phase",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/averau-39-moonphase.webp?v=1738574801",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/averau-42-ceramic",
+   "name": "AVERAU Ceramic",
+   "url": "https://echoneutra.com/collections/averau-42-ceramic",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/Averau42-Home-2026.png?v=1786118645",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/cristallo",
+   "name": "Cristallo",
+   "url": "https://echoneutra.com/collections/cristallo",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/Cristallo-professional-diver-automatic-swiss-1.jpg?v=1727097288",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/one-of-a-kind",
+   "name": "One of a kind",
+   "url": "https://echoneutra.com/collections/one-of-a-kind",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/PezziUnici-Orizz.png?v=1783094591",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/rivanera",
+   "name": "Rivanera",
+   "url": "https://echoneutra.com/collections/rivanera",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/Rivanera-cover.jpg?v=1763739166",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0202/rivanera-piccolo",
+   "name": "Rivanera Piccolo",
+   "url": "https://echoneutra.com/collections/rivanera-piccolo",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0872/1822/5433/collections/RivaneraPicclo-Collection-112025.jpg?v=1763735864",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,652 @@
+{
+ "brandId": "BRD-0772",
+ "brandName": "Burnt Creek Watch Company",
+ "website": "https://burntcreekwatch.com",
+ "crawledAt": "2026-11-01T06:45:18.128Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://burntcreekwatch.com/cdn/shop/files/BURNT_CREEK_WATCH_COMPANY.png?v=1755294177",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://burntcreekwatch.com/"
+ },
+ "attribution": "Images © Burnt Creek Watch Company, from burntcreekwatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0772/sentinel-black-stainless-steel",
+   "name": "Sentinel Black - Stainless Steel Automatic",
+   "url": "https://burntcreekwatch.com/products/sentinel-black-stainless-steel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender_68deb422-2082-4e8a-869b-9ee7f3b77dd3.jpg?v=1774907722",
+    "width": 639,
+    "height": 999
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender_68deb422-2082-4e8a-869b-9ee7f3b77dd3.jpg?v=1774907722",
+     "width": 639,
+     "height": 999
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Sentinel blends clean, confident style with everyday dependability. Its crisp white dial is framed by a bold black rotating bezel, while silver hour markers and luminous hands keep the look sharp and highly legible in any light. A polished stainless-steel case and matching solid steel bracelet give the watch a refined presence that feels just as at home with a jacket as it does with rolled-up sleeves. Inside, the trusted Japanese Seiko NH-35 automatic movement delivers smooth, reliable performance with a 42-hour power reserve. Scratch-resistant mineral crystal, a sturdy stainless-steel build, and 50 meters of water resistance make the Sentinel more than just good-looking—it’s a solid, dependable watch built for daily wear. Stylish, capable, and reassuringly robust, the Sentinel lives up to its name. Movement : Japanese Seiko NH-35 Automatic with 42 hours reserve Dial : White face with silver hour markers and luminous hands and rotating black bezel Case : Polished stainless steel Crystal : Scratch-resistant mineral Dimensions: 42mm diameter, 12.5mm thickness Water Resistance: 50 meters Strap : Solid stainless-steel band Lead Time : Approximately 4 weeks",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "multi",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Japanese Seiko NH-35 Automatic with 42 hours reserve",
+    "Dial": "White face with silver hour markers and luminous hands and rotating black bezel",
+    "Case": "Polished stainless steel",
+    "Crystal": "Scratch-resistant mineral",
+    "Dimensions": "42mm diameter, 12.5mm thickness",
+    "Water Resistance": "50 meters",
+    "Strap": "Solid stainless-steel band",
+    "Lead Time": "Approximately 4 weeks"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:45:18.128Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:45:18.128Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "cfc180ba3bbd0ae6"
+  },
+  {
+   "id": "BRD-0772/burnt-creek-watch-co-tripoly-t-shirt",
+   "name": "Burnt Creek Watch Co. Tripoly T-Shirt",
+   "url": "https://burntcreekwatch.com/products/burnt-creek-watch-co-tripoly-t-shirt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/BCWCOSHIRTFRONT..png?v=1771446205",
+    "width": 590,
+    "height": 623
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/BCWCOSHIRTFRONT..png?v=1771446205",
+     "width": 590,
+     "height": 623
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/BCWCOSHIRTBACK.png?v=1771446211",
+     "width": 759,
+     "height": 774
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/B9FFBA6B-E241-488F-9F56-4E8708342C28.png?v=1772060100",
+     "width": 1024,
+     "height": 1536
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Charcoal Gray T‑Shirt — White Logo Tri‑poly blend for a soft, durable feel. Features a large BCWC name and logo across the back and a small BCWC name and logo on the front left chest.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "M",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "M"
+     ]
+    },
+    {
+     "title": "L",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "L"
+     ]
+    },
+    {
+     "title": "XL",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "XL"
+     ]
+    },
+    {
+     "title": "2XL",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "2XL"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:45:18.128Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:45:18.128Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9b1cf83eacf33691"
+  },
+  {
+   "id": "BRD-0772/manitou-swiss-quartz-field-watch",
+   "name": "Manitou - Quartz Field Watch",
+   "url": "https://burntcreekwatch.com/products/manitou-swiss-quartz-field-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender.jpg?v=1768663677",
+    "width": 1206,
+    "height": 1773
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender.jpg?v=1768663677",
+     "width": 1206,
+     "height": 1773
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG-2110.jpg?v=1769788860",
+     "width": 1000,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG-2098.heic?v=1769809210",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender_d0963daa-5f7d-46b9-b826-a938d32a2418.heic?v=1769809210",
+     "width": 2499,
+     "height": 3219
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/F216BFB2-5EA0-4C60-9D67-C0132D5D1967.jpg?v=1769824606",
+     "width": 2428,
+     "height": 2602
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/56DC8BD6-425C-444E-AA92-B66E96FCC44F.jpg?v=1769824605",
+     "width": 654,
+     "height": 812
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG-2179.heic?v=1769827785",
+     "width": 4001,
+     "height": 5081
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG-2171.heic?v=1769827784",
+     "width": 2967,
+     "height": 3831
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG-2178.heic?v=1769827785",
+     "width": 3232,
+     "height": 4439
+    }
+   ],
+   "priceMinor": 37000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built for daily wear and designed to look sharp anywhere you take it, the Manitou strikes the perfect balance between sleek style and real-world toughness. The clean black dial is accented with bold orange slots and paired with luminous hands and numerals for easy reading from early mornings to late nights. Inside, a Swiss Ronda 515 quartz movement delivers reliable, no-nonsense accuracy you can count on every day. A PVD-coated stainless-steel case and scratch-resistant sapphire crystal keep the profile slim while standing up to hard use, and at just 8.9mm thick, it wears comfortably under a jacket sleeve or on an active wrist. With 100 meters of water resistance and a durable black nylon strap, this is a high-quality everyday watch made to handle whatever the day brings—without ever looking out of place. Movement : Swiss Ronda 515 Quartz Dial : Black with orange slots, with luminescent hands and numerals Case : PVD coated stainless steel Glass : Sapphire Crystal Dimensions : 40mm diameter, 8.9 mm thick Water Resistance : Up to 10 bar (100 meters / 330 feet) Strap : Black Nylon Lead Time : In stock and ready to ship Manitou is often a footnote in the story of Theodore Roosevelt, but his role in the North Dakota Badlands deserves its own spotlight. While Roosevelt's time on the frontier and his ensuing conservation legacy are well known, Manitou was the steady partner beneath the saddle—carrying Roosevelt across rough country and through unforgiving weather. Tough, reliable, and sure-footed, Manitou embodied the same grit and resilience that shaped Roosevelt himself. Manitou's story reminds us that the making of a legend is rarely a solo effort, and that even the most famous journeys are shared with companions whose strength and loyalty helped make history possible.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Ronda 515",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Movement": "Swiss Ronda 515 Quartz",
+    "Dial": "Black with orange slots, with luminescent hands and numerals",
+    "Case": "PVD coated stainless steel",
+    "Glass": "Sapphire Crystal",
+    "Dimensions": "40mm diameter, 8.9 mm thick",
+    "Water Resistance": "Up to 10 bar (100 meters / 330 feet)",
+    "Strap": "Black Nylon",
+    "Lead Time": "In stock and ready to ship"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:45:18.128Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:45:18.128Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c3ac4fc8fcae57b9"
+  },
+  {
+   "id": "BRD-0772/swiss-automatic-black-leather-strap-black-face-copy",
+   "name": "Bullion - Automatic",
+   "url": "https://burntcreekwatch.com/products/swiss-automatic-black-leather-strap-black-face-copy",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender_7db37b83-232e-4f68-95ea-bbce2207d244.heic?v=1764812140",
+    "width": 2265,
+    "height": 2487
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender_7db37b83-232e-4f68-95ea-bbce2207d244.heic?v=1764812140",
+     "width": 2265,
+     "height": 2487
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender_f6646f1e-12ad-40bd-8615-0f236b623692.heic?v=1756695095",
+     "width": 3023,
+     "height": 3593
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/FullSizeRender_91411c29-b805-45f0-b5f6-50851cd51760.heic?v=1767808226",
+     "width": 2350,
+     "height": 1982
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_2256.jpg?v=1756619651",
+     "width": 3490,
+     "height": 2617
+    }
+   ],
+   "priceMinor": 69500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed for durability and precision, the Bullion features a Swiss Sellita SW200-1 automatic movement with a 50-hour power reserve. A solid stainless steel case with sapphire crystal protects the clean black dial, while 100 meters of water resistance ensures dependable everyday performance. Finished with a rugged sage green nylon strap, the Bullion delivers lasting quality in a refined 38mm profile. Movement : Swiss Sellita SW200-1 Automatic (26 jewels) with 50 hours of power reserve Dial : Black face with silver hour markers Case : Polished solid stainless steel with a see-through case back Crystal : Scratch-resistant sapphire crystal Dimensions : 38mm case diameter, 11.5mm thick Water Resistance : Up to 10 bar (100 meters / 330 feet) Strap : Sage Green Nylon Strap Lead Time : Approximately 4 weeks In November of 1965, a father and his adult son set out in deep snow and frigid cold while deer hunting in the Badlands of western North Dakota. When they reached the cliffs surrounding Bullion Butte, they decided to split up to cover more ground. The father went to the left and the son to the right. A couple hours later, the son reached the far side of the butte, but his father was nowhere in sight. After waiting for as long as his patience and the freezing temperatures would allow, he decided to walk back to where they had originally split up. From there, he followed his father’s tracks in the deep snow. Optimistic that his father’s delay may have been a result of him shooting a deer (maybe a big buck?), he wasn’t particularly worried - even with the sun beginning to sink in the sky. However, as he turned a corner and saw his father seated motionless in the snow, his heart sank. He called out but received no response. As he reached his father, it was apparent that he had passed away several hours earlier, likely from a heart attack while hiking in the deep snow. The two men in this story were the grandfather and great-grandfather of Burnt Creek Watch Company’s founders. To this day, anytime they catch a glimpse of Bullion Butte while exploring the Badlands, their thoughts go back to the story of their great-grandfather’s passing and what their grandfather went through that day. The Bullion watch was named in their honor.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Movement": "Swiss Sellita SW200-1 Automatic (26 jewels) with 50 hours of power reserve",
+    "Dial": "Black face with silver hour markers",
+    "Case": "Polished solid stainless steel with a see-through case back",
+    "Crystal": "Scratch-resistant sapphire crystal",
+    "Dimensions": "38mm case diameter, 11.5mm thick",
+    "Water Resistance": "Up to 10 bar (100 meters / 330 feet)",
+    "Strap": "Sage Green Nylon Strap",
+    "Lead Time": "Approximately 4 weeks"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:45:18.128Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:45:18.128Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "fcdee9e6c50b8747"
+  },
+  {
+   "id": "BRD-0772/plainsman-black-swiss-ronda-quartz-field-watch",
+   "name": "Plainsman Black - Quartz Field Watch",
+   "url": "https://burntcreekwatch.com/products/plainsman-black-swiss-ronda-quartz-field-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_0727.jpg?v=1764085393",
+    "width": 716,
+    "height": 1076
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_0727.jpg?v=1764085393",
+     "width": 716,
+     "height": 1076
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_8492.jpg?v=1764085393",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_0731.jpg?v=1764085379",
+     "width": 571,
+     "height": 591
+    }
+   ],
+   "priceMinor": 32500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built for everyday wear, the Plainsman blends rugged durability with easygoing versatility. Its stainless steel case and domed mineral crystal combine for a tough exterior, while 10 bar water resistance means it won’t flinch at rain, swims, or rough use. Powered by a reliable Swiss Ronda 515 quartz movement and finished with a black nylon strap, it transitions effortlessly from daily errands to outdoor escapes. Movement : Swiss Ronda 515 Quartz Dial : Gray with luminescent hands and numerals Case : Stainless steel Crystal : Domed scratch-resistant mineral Dimensions : 40mm diameter, 9.5mm thick Water Resistance : Up to 10 bar (100 meters / 330 feet) Strap : Black Nylon Lead Time : Approximately 4 weeks \" Anybody can love the mountains, but it takes a soul to love the prairie \" - Willa Cather",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Ronda 515",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "grey",
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Movement": "Swiss Ronda 515 Quartz",
+    "Dial": "Gray with luminescent hands and numerals",
+    "Case": "Stainless steel",
+    "Crystal": "Domed scratch-resistant mineral",
+    "Dimensions": "40mm diameter, 9.5mm thick",
+    "Water Resistance": "Up to 10 bar (100 meters / 330 feet)",
+    "Strap": "Black Nylon",
+    "Lead Time": "Approximately 4 weeks"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:45:18.128Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:45:18.128Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "736f781cd79c5759"
+  },
+  {
+   "id": "BRD-0772/swiss-ronda-quartz-field-watch-with-nylon-strap",
+   "name": "Plainsman - Quartz Field Watch",
+   "url": "https://burntcreekwatch.com/products/swiss-ronda-quartz-field-watch-with-nylon-strap",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/swissronda.png?v=1755810051",
+    "width": 805,
+    "height": 668
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/swissronda.png?v=1755810051",
+     "width": 805,
+     "height": 668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_8503.jpg?v=1756924603",
+     "width": 1200,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_8492.jpg?v=1764085393",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG-8834.heic?v=1758236681",
+     "width": 3024,
+     "height": 4032
+    }
+   ],
+   "priceMinor": 32500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built for everyday wear, the Plainsman blends rugged durability with easygoing versatility. Its stainless steel case and domed mineral crystal combine for a tough exterior, while 10 bar water resistance means it won’t flinch at rain, swims, or rough use. Powered by a reliable Swiss Ronda 515 quartz movement and finished with a sage green nylon strap, it transitions effortlessly from daily errands to outdoor escapes. Movement : Swiss Ronda 515 Quartz Dial : Gray with luminescent hands and numerals Case : Stainless steel Crystal : Domed scratch-resistant mineral Dimensions : 40mm diameter, 9.5mm thick Water Resistance : Up to 10 bar (100 meters / 330 feet) Strap : Sage Green Nylon Lead Time : Approximately 4 weeks \" Anybody can love the mountains, but it takes a soul to love the prairie \" - Willa Cather",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Ronda 515",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "grey",
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Movement": "Swiss Ronda 515 Quartz",
+    "Dial": "Gray with luminescent hands and numerals",
+    "Case": "Stainless steel",
+    "Crystal": "Domed scratch-resistant mineral",
+    "Dimensions": "40mm diameter, 9.5mm thick",
+    "Water Resistance": "Up to 10 bar (100 meters / 330 feet)",
+    "Strap": "Sage Green Nylon",
+    "Lead Time": "Approximately 4 weeks"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:45:18.128Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:45:18.128Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "441a2f3b340dd921"
+  },
+  {
+   "id": "BRD-0772/swiss-automatic-black-leather-strap-black-face",
+   "name": "Cutbank - Automatic",
+   "url": "https://burntcreekwatch.com/products/swiss-automatic-black-leather-strap-black-face",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_7051.jpg?v=1755202831",
+    "width": 1206,
+    "height": 976
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_7051.jpg?v=1755202831",
+     "width": 1206,
+     "height": 976
+    }
+   ],
+   "priceMinor": 69500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Cutbank blends refined style with everyday toughness, making it as dependable as it is good-looking. Its clean black dial with crisp silver hour markers delivers a timeless, understated aesthetic, while the black PVD–coated stainless-steel case adds a modern edge and extra durability. Powered by the Swiss Sellita SW200-1 automatic movement, the Cutbank offers smooth mechanical performance and a robust 50-hour power reserve you can rely on. Finished with a scratch-resistant sapphire crystal and rated to 100 meters of water resistance, this watch is built to handle daily wear with confidence. The 38mm case and slim 11.5mm profile strike a perfect balance between comfort and presence, pairing effortlessly with the genuine black leather strap. From the office to the weekend, the Cutbank is a sharp, dependable timepiece designed to look great and last. Movement : Swiss Sellita SW200-1 Automatic (26 jewels) with 50 hours of power reserve Dial : Black face with silver hour markers Case : Black PVD solid coated stainless-steel Crystal : Scratch-resistant sapphire crystal Dimensions : 38mm diameter, 11.5mm thick Water Resistance : Up to 10 bar (100 meters / 330 feet) Strap : Genuine black leather band Lead Time : Approximately 4 weeks",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Movement": "Swiss Sellita SW200-1 Automatic (26 jewels) with 50 hours of power reserve",
+    "Dial": "Black face with silver hour markers",
+    "Case": "Black PVD solid coated stainless-steel",
+    "Crystal": "Scratch-resistant sapphire crystal",
+    "Dimensions": "38mm diameter, 11.5mm thick",
+    "Water Resistance": "Up to 10 bar (100 meters / 330 feet)",
+    "Strap": "Genuine black leather band",
+    "Lead Time": "Approximately 4 weeks"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:45:18.128Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:45:18.128Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "30cdeffa08daadd0"
+  },
+  {
+   "id": "BRD-0772/stainless-steel-automatic-white-face",
+   "name": "Sentinel - Automatic",
+   "url": "https://burntcreekwatch.com/products/stainless-steel-automatic-white-face",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_6410.jpg?v=1755202625",
+    "width": 822,
+    "height": 672
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/IMG_6410.jpg?v=1755202625",
+     "width": 822,
+     "height": 672
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/D33AF2E3-2AC0-433B-B5B1-8663E8A6627B.jpg?v=1756620641",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/AA4A7D02-BEBE-419B-BC37-0DE26BC0B951.jpg?v=1756620641",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/sentinel_1.jpg?v=1760131844",
+     "width": 3023,
+     "height": 2881
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0764/0940/5677/files/sentinell_2.jpg?v=1760131856",
+     "width": 2250,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Sentinel blends clean, confident style with everyday dependability. Its crisp white dial is framed by a bold black rotating bezel, while silver hour markers and luminous hands keep the look sharp and highly legible in any light. A polished stainless-steel case and matching solid steel bracelet give the watch a refined presence that feels just as at home with a jacket as it does with rolled-up sleeves. Inside, the trusted Japanese Seiko NH-35 automatic movement delivers smooth, reliable performance with a 42-hour power reserve. Scratch-resistant mineral crystal, a sturdy stainless-steel build, and 50 meters of water resistance make the Sentinel more than just good-looking—it’s a solid, dependable watch built for daily wear. Stylish, capable, and reassuringly robust, the Sentinel lives up to its name. Movement : Japanese Seiko NH-35 Automatic with 42 hours reserve Dial : White face with silver hour markers and luminous hands and rotating black bezel Case : Polished stainless steel Crystal : Scratch-resistant mineral Dimensions: 42mm diameter, 12.5mm thickness Water Resistance: 50 meters Strap : Solid stainless-steel band Lead Time : Approximately 4 weeks",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "multi",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Japanese Seiko NH-35 Automatic with 42 hours reserve",
+    "Dial": "White face with silver hour markers and luminous hands and rotating black bezel",
+    "Case": "Polished stainless steel",
+    "Crystal": "Scratch-resistant mineral",
+    "Dimensions": "42mm diameter, 12.5mm thickness",
+    "Water Resistance": "50 meters",
+    "Strap": "Solid stainless-steel band",
+    "Lead Time": "Approximately 4 weeks"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:45:18.128Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:45:18.128Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3447f417737b698f"
+  }
+ ],
+ "collections": []
+}

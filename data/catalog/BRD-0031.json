@@ -1,0 +1,258 @@
+{
+ "brandId": "BRD-0031",
+ "brandName": "Alpharo Watches",
+ "website": "https://alpharo.co.uk",
+ "crawledAt": "2026-11-01T06:23:46.821Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://alpharo.co.uk/cdn/shop/files/Alpharo_Full_Logo.svg?v=1750701259",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://alpharo.co.uk/en-int"
+ },
+ "attribution": "Images © Alpharo Watches, from alpharo.co.uk",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0031/model-1",
+   "name": "Alpharo Model 1",
+   "url": "https://alpharo.co.uk/products/model-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Packshot-Bluee.jpg?v=1761332230",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Packshot-Bluee.jpg?v=1761332230",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Wristshot-pocketshote-2.jpg?v=1761331957",
+     "width": 1080,
+     "height": 1620
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Packshot-Blackf.jpg?v=1761332195",
+     "width": 1079,
+     "height": 1079
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Wristshote-6.jpg?v=1761331957",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Packshot-Whitee.jpg?v=1761332253",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Wristshot2e.jpg?v=1761331957",
+     "width": 1080,
+     "height": 1620
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Caseback1e.jpg?v=1761331988",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Lifestyle-group3e.jpg?v=1761331988",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Lifestyle-group1e.jpg?v=1760906227",
+     "width": 1620,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/files/Sideshote.jpg?v=1760988998",
+     "width": 1620,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Model 1 is the inaugural timepiece from Alpharo, and it breaks with convention in a deliberate, thoughtful way. Curved hands trace a spiral dial, each curve echoing the passage of time in a form that feels organic, flowing, and mathematical.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Maelstrom Blue",
+      "Galaxy Black",
+      "Cyclone White"
+     ]
+    },
+    {
+     "name": "Strap Option",
+     "values": [
+      "Black Buttero Leather",
+      "Navy Epsom Leather",
+      "Stainless Steel Milanese Mesh Bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Maelstrom Blue / Black Buttero Leather",
+     "sku": "WM1-MB-BB",
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Maelstrom Blue",
+      "Black Buttero Leather"
+     ]
+    },
+    {
+     "title": "Maelstrom Blue / Navy Epsom Leather",
+     "sku": "WM1-MB-NE",
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Maelstrom Blue",
+      "Navy Epsom Leather"
+     ]
+    },
+    {
+     "title": "Maelstrom Blue / Stainless Steel Milanese Mesh Bracelet",
+     "sku": "WM1-MB-MM",
+     "priceMinor": 71500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Maelstrom Blue",
+      "Stainless Steel Milanese Mesh Bracelet"
+     ]
+    },
+    {
+     "title": "Galaxy Black / Black Buttero Leather",
+     "sku": "WM1-GB-BB",
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Galaxy Black",
+      "Black Buttero Leather"
+     ]
+    },
+    {
+     "title": "Galaxy Black / Navy Epsom Leather",
+     "sku": "WM1-GB-NE",
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Galaxy Black",
+      "Navy Epsom Leather"
+     ]
+    },
+    {
+     "title": "Galaxy Black / Stainless Steel Milanese Mesh Bracelet",
+     "sku": "WM1-GB-MM",
+     "priceMinor": 71500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Galaxy Black",
+      "Stainless Steel Milanese Mesh Bracelet"
+     ]
+    },
+    {
+     "title": "Cyclone White / Black Buttero Leather",
+     "sku": "WM1-CW-BB",
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cyclone White",
+      "Black Buttero Leather"
+     ]
+    },
+    {
+     "title": "Cyclone White / Navy Epsom Leather",
+     "sku": "WM1-CW-NE",
+     "priceMinor": 69900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cyclone White",
+      "Navy Epsom Leather"
+     ]
+    },
+    {
+     "title": "Cyclone White / Stainless Steel Milanese Mesh Bracelet",
+     "sku": "WM1-CW-MM",
+     "priceMinor": 71500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cyclone White",
+      "Stainless Steel Milanese Mesh Bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.3,
+    "thicknessMm": 9.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 42,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diameter": "38 mm",
+    "Height": "9.8 mm (incl. crystal)",
+    "Lug-to-lug": "45.3 mm",
+    "Lug width": "20 mm",
+    "Water resistance": "5 ATM",
+    "Power Reserve": "42 hours",
+    "Frequency": "28,800 bph",
+    "Maelstrom Blue": "A translucent lacquer dial with a fumé gradient. The translucency of the blue lacquer shifts with changing light.",
+    "Cyclone White": "A bead-blasted silver dial that transitions from crisp white to metallic silver, revealing a subtle sparkle under direct sunlight.",
+    "Galaxy Black": "A charcoal sunburst dial with a fumé gradient. The radiating finish plays with light across the dial’s contoured surface."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:46.821Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:46.821Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0031/model-1"
+   ],
+   "hash": "8e9d55985ae5539d"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0031/model-1",
+   "name": "Model 1",
+   "url": "https://alpharo.co.uk/collections/model-1",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0967/7750/3059/collections/Lifestyle-group3e.jpg?v=1760870172",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

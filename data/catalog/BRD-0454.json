@@ -1,0 +1,4786 @@
+{
+ "brandId": "BRD-0454",
+ "brandName": "Paulin",
+ "website": "https://www.paulinwatches.com",
+ "crawledAt": "2026-11-01T08:16:20.503Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.paulinwatches.com/cdn/shop/files/230724_Paulin_favico_32x32.png?v=1692357637",
+  "width": 16,
+  "height": 16,
+  "kind": "icon",
+  "sourcePage": "https://www.paulinwatches.com/"
+ },
+ "attribution": "Images © Paulin, from paulinwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0454/wim-wall-clock",
+   "name": "Wim Wall Clock",
+   "url": "https://www.paulinwatches.com/products/wim-wall-clock",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Hero_ae7dab13-a29c-4bac-a04a-5fb24ce25833.png?v=1774270927",
+    "width": 3000,
+    "height": 3002
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Hero_ae7dab13-a29c-4bac-a04a-5fb24ce25833.png?v=1774270927",
+     "width": 3000,
+     "height": 3002
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03456_copy.jpg?v=1774440457",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03186_copy_2.jpg?v=1774440457",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06839copy.jpg?v=1774440457",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06841copy.jpg?v=1774440457",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03318_01_copy.jpg?v=1775051062",
+     "width": 5000,
+     "height": 3334
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03040_copy.jpg?v=1775051062",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02511_copy_2.jpg?v=1775214867",
+     "width": 5113,
+     "height": 3409
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03186_copy_2_486edf35-e7c7-498d-a9af-2d548b50a4ea.jpg?v=1775214867",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Blue_Blue_Red.png?v=1775214867",
+     "width": 2775,
+     "height": 4035
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Blue_Blue_Yellow.png?v=1775214867",
+     "width": 2775,
+     "height": 4035
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Blue_White_Red.png?v=1775214867",
+     "width": 2775,
+     "height": 4035
+    }
+   ],
+   "priceMinor": 12000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A cork and aluminium wall clock with a sweeping second hand. Featuring an update of our bespoke typeface Wim, originally designed for the Neo and now used on our Modul and Mara watches. With a choice of 27 possible hand combinations, you'll be able to create something that works for any room. Dial screen-printed in Glasgow by M.A.R.S Studio .",
+   "productType": "Clocks",
+   "tags": [
+    "Wall clock"
+   ],
+   "options": [
+    {
+     "name": "Hour Hand:",
+     "values": [
+      "Green",
+      "Blue",
+      "Yellow"
+     ]
+    },
+    {
+     "name": "Minute Hand:",
+     "values": [
+      "Yellow",
+      "Blue",
+      "White"
+     ]
+    },
+    {
+     "name": "Seconds Hand:",
+     "values": [
+      "Red",
+      "Yellow",
+      "Silver"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Green / Yellow / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "Yellow",
+      "Red"
+     ]
+    },
+    {
+     "title": "Green / Yellow / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "Yellow",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Green / Yellow / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "Yellow",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Green / Blue / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "Blue",
+      "Red"
+     ]
+    },
+    {
+     "title": "Green / Blue / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "Blue",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Green / Blue / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "Blue",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Green / White / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "White",
+      "Red"
+     ]
+    },
+    {
+     "title": "Green / White / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "White",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Green / White / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green",
+      "White",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Blue / Yellow / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Yellow",
+      "Red"
+     ]
+    },
+    {
+     "title": "Blue / Yellow / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Yellow",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Blue / Yellow / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Yellow",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Blue / Blue / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Blue",
+      "Red"
+     ]
+    },
+    {
+     "title": "Blue / Blue / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Blue",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Blue / Blue / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Blue",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Blue / White / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "White",
+      "Red"
+     ]
+    },
+    {
+     "title": "Blue / White / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "White",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Blue / White / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "White",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Yellow / Yellow / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "Yellow",
+      "Red"
+     ]
+    },
+    {
+     "title": "Yellow / Yellow / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "Yellow",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Yellow / Yellow / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "Yellow",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Yellow / Blue / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "Blue",
+      "Red"
+     ]
+    },
+    {
+     "title": "Yellow / Blue / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "Blue",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Yellow / Blue / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "Blue",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Yellow / White / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "White",
+      "Red"
+     ]
+    },
+    {
+     "title": "Yellow / White / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "White",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Yellow / White / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow",
+      "White",
+      "Silver"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 30,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "SKP Sweep",
+    "Battery Type": "1 x AA battery (UK only)",
+    "Glass": "No",
+    "Case": "Cork",
+    "Hands": "Gloss Lacquer on Brass",
+    "Blackplate & Dial": "Aluminium Composite",
+    "Fasteners": "A2 Stainless Steel",
+    "Outer Diameter": "300mm",
+    "Dial Diameter": "270mm",
+    "Thickness": "45mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/homeware",
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/things",
+    "BRD-0454/wall-clock"
+   ],
+   "hash": "0f86c1a84c6b56df"
+  },
+  {
+   "id": "BRD-0454/dazzle-wall-clock",
+   "name": "Dazzle Wall Clock",
+   "url": "https://www.paulinwatches.com/products/dazzle-wall-clock",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Hero.png?v=1772461579",
+    "width": 3000,
+    "height": 3002
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Hero.png?v=1772461579",
+     "width": 3000,
+     "height": 3002
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC01649_copy.jpg?v=1772461579",
+     "width": 4997,
+     "height": 3331
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00992.jpg?v=1772461579",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02444_copy.jpg?v=1772461579",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02447_copy.jpg?v=1772461579",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC01649_copy_ec230610-8a5c-4316-9277-b2af836213e9.jpg?v=1773333769",
+     "width": 4997,
+     "height": 3331
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00994.jpg?v=1773333769",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00995.jpg?v=1773333769",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00993.jpg?v=1773333769",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Paulin_Dazzle_Red.png?v=1773333769",
+     "width": 2775,
+     "height": 4035
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Paulin_Dazzle_Yellow_11e8c83e-f6ee-447d-beba-7b9658ad8de6.png?v=1773333769",
+     "width": 2775,
+     "height": 4035
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Paulin_Dazzle_Silver_f80cf242-bf7e-40ea-a3bd-1d6c37eb4421.png?v=1773333769",
+     "width": 2775,
+     "height": 4035
+    }
+   ],
+   "priceMinor": 23000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Dazzle Wall Clock is a collaboration between Paulin and Glasgow-based artist Rebecca McCormack Haigh . Each dial is screenprinted by Rebecca in Glasgow’s M.A.R.S Studio and housed in our best-selling cork clock body, with a choice of three second-hand colours. For the dial design, Rebecca drew from her existing practice, taking inspiration from Scottish artist Eduardo Paolozzi. She collaged together multiple geometric compositions before screenprinting, adding a linen texture in reference to her usual chosen material. Each clock is a limited edition of 50 pieces, printed as part of British Watchmakers’ Day.",
+   "productType": "Clocks",
+   "tags": [
+    "Wall clock"
+   ],
+   "options": [
+    {
+     "name": "Seconds Hand:",
+     "values": [
+      "Silver",
+      "Red",
+      "Yellow"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Silver",
+     "sku": null,
+     "priceMinor": 23000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Silver"
+     ]
+    },
+    {
+     "title": "Red",
+     "sku": null,
+     "priceMinor": 23000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red"
+     ]
+    },
+    {
+     "title": "Yellow",
+     "sku": null,
+     "priceMinor": 23000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 30,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "SKP Sweep",
+    "Battery Type": "1 x AA battery (UK only)",
+    "Glass": "No",
+    "Case": "Cork",
+    "Hands": "Gloss Lacquer on Brass",
+    "Blackplate & Dial": "Aluminium Composite",
+    "Fasteners": "A2 Stainless Steel",
+    "Outer Diameter": "300mm",
+    "Dial Diameter": "270mm",
+    "Thickness": "45mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/homeware",
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/things",
+    "BRD-0454/wall-clock"
+   ],
+   "hash": "bf6dbd5c379e8efe"
+  },
+  {
+   "id": "BRD-0454/geo-wall-clock",
+   "name": "Geo Wall Clock",
+   "url": "https://www.paulinwatches.com/products/geo-wall-clock",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Regular.png?v=1729006790",
+    "width": 3000,
+    "height": 3002
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Regular.png?v=1729006790",
+     "width": 3000,
+     "height": 3002
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06923copy.jpg?v=1761742909",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC05093_Paulin_New_Clocks_Trio_Straighten_Red_bg.jpg?v=1761742929",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06839copy.jpg?v=1774440457",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06841copy.jpg?v=1774440457",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06038copy_smaller.jpg?v=1761742909",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06066copy.jpg?v=1761747719",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06069copy_d7d20286-395c-4cf9-94d2-c23b4605b330.jpg?v=1761747800",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/orange-black-red_copy.png?v=1761747800",
+     "width": 2775,
+     "height": 4035
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/teal-black-red_copy.png?v=1761747800",
+     "width": 2775,
+     "height": 4035
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/teal-black-yellow_copy.png?v=1761747800",
+     "width": 2775,
+     "height": 4035
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/teal-red-red_copy.png?v=1761747800",
+     "width": 2775,
+     "height": 4035
+    }
+   ],
+   "priceMinor": 12000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A cork and aluminium wall clock with a sweeping second hand. Featuring our bespoke typeface Geo, inspired by the Art Deco forms of Glasgow’s own Charles Rennie Mackintosh. Choosing from our 27 possible hand combinations, you'll be able to create something that works for any room, whatever your style. Dial screen-printed in Glasgow by Matthew Rich of M.A.R.S Studio .",
+   "productType": "Clocks",
+   "tags": [
+    "Wall clock"
+   ],
+   "options": [
+    {
+     "name": "Hour Hand:",
+     "values": [
+      "Teal",
+      "Indigo",
+      "Orange"
+     ]
+    },
+    {
+     "name": "Minute Hand:",
+     "values": [
+      "Black",
+      "Red",
+      "Blue"
+     ]
+    },
+    {
+     "name": "Seconds Hand:",
+     "values": [
+      "Red",
+      "Yellow",
+      "Silver"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Teal / Black / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Black",
+      "Red"
+     ]
+    },
+    {
+     "title": "Teal / Black / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Black",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Teal / Red / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Red",
+      "Red"
+     ]
+    },
+    {
+     "title": "Teal / Red / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Red",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Indigo / Black / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Black",
+      "Red"
+     ]
+    },
+    {
+     "title": "Indigo / Black / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Black",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Indigo / Red / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Red",
+      "Red"
+     ]
+    },
+    {
+     "title": "Indigo / Red / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Red",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Orange / Black / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Black",
+      "Red"
+     ]
+    },
+    {
+     "title": "Orange / Black / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Black",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Orange / Red / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Red",
+      "Red"
+     ]
+    },
+    {
+     "title": "Orange / Red / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Red",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Teal / Black / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Black",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Teal / Red / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Red",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Teal / Blue / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Blue",
+      "Red"
+     ]
+    },
+    {
+     "title": "Teal / Blue / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Blue",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Teal / Blue / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Teal",
+      "Blue",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Indigo / Black / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Black",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Indigo / Red / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Red",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Indigo / Blue / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Blue",
+      "Red"
+     ]
+    },
+    {
+     "title": "Indigo / Blue / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Blue",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Indigo / Blue / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Indigo",
+      "Blue",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Orange / Black / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Black",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Orange / Red / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Red",
+      "Silver"
+     ]
+    },
+    {
+     "title": "Orange / Blue / Red",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Blue",
+      "Red"
+     ]
+    },
+    {
+     "title": "Orange / Blue / Yellow",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Blue",
+      "Yellow"
+     ]
+    },
+    {
+     "title": "Orange / Blue / Silver",
+     "sku": null,
+     "priceMinor": 12000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange",
+      "Blue",
+      "Silver"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 30,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "SKP Sweep",
+    "Battery Type": "1 x AA battery (UK only)",
+    "Glass": "No",
+    "Case": "Cork",
+    "Hands": "Gloss Lacquer on Brass",
+    "Blackplate & Dial": "Aluminium Composite",
+    "Fasteners": "A2 Stainless Steel",
+    "Outer Diameter": "300mm",
+    "Dial Diameter": "270mm",
+    "Thickness": "45mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/homeware",
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/things",
+    "BRD-0454/wall-clock"
+   ],
+   "hash": "ad0d8ba84580b8dc"
+  },
+  {
+   "id": "BRD-0454/mara-blue",
+   "name": "Mara Blue",
+   "url": "https://www.paulinwatches.com/products/mara-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Mara_Blue_Blue_Rubber_7a322d55-9cd7-4a1d-bb25-454ba5cabc1a.jpg?v=1755073480",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Mara_Blue_Blue_Rubber_7a322d55-9cd7-4a1d-bb25-454ba5cabc1a.jpg?v=1755073480",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03718_copy_blue_copy.jpg?v=1755099929",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Paulin_Mara_Back_caseback_copy_3099bbfe-5f75-451f-93f0-f4b2b2745c79.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03506_copy_2.jpg?v=1755099929",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Mara_Blue_Lume_Angled_copy.jpg?v=1755099929",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULiN_PROJECT_HEBRIDES_SCOTLAND_0088_copy.jpg?v=1755099929",
+     "width": 5472,
+     "height": 3648
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03207_copy_2.jpg?v=1755099929",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULiN_PROJECT_HEBRIDES_SCOTLAND_0033_copy.jpg?v=1755099929",
+     "width": 4683,
+     "height": 3122
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULiN_PROJECT_HEBRIDES_SCOTLAND_0066_bezzeled.jpg?v=1755099929",
+     "width": 5806,
+     "height": 3871
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03409_copy_2.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2668
+    }
+   ],
+   "priceMinor": 125000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Named after the Scots Gaelic word meaning ‘of the sea’, the Mara pairs technical ability with graphic clarity, offering the playful, recognisable Paulin aesthetic to depths of up to 300 metres. Protected by a double-domed sapphire crystal with three layers of anti-reflective coating, the lacquer painted dial features Paulin’s bespoke ‘Wim’ typeface, paired with a clean minute track and bold geometric hour markers. Framing the dial is a domed sapphire bezel, with Swiss Super-LumiNova printed on its underside for durability and legibility. The case features an overhanging, 120-click uni-directional bezel, screw-down crown, and closed caseback. With a diameter of 39.7mm and thickness of 13.5mm, the Mara has a sizable presence on the wrist but remains a versatile size for most wearers. Powering the watch the Swiss-made La Joux-Perret G101. Each watch is accompanied by two 20mm straps: a custom branded injection-moulded rubber strap, and a fabric strap made from recycled fishing nets lined with Italian Alcantara faux suede for comfort. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.7,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 300,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "rubber"
+   },
+   "specsRaw": {
+    "Each watch is accompanied by two 20mm straps": "a custom branded injection-moulded rubber strap, and a fabric strap made from recycled fishing nets lined with Italian Alcantara faux suede for comfort.",
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Double domed sapphire with 3 layers of anti-reflective coating",
+    "Water resistance": "30ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer and Super-LumiNova on brass",
+    "Case diameter": "39.7mm",
+    "Case thickness with crystal": "13.5mm",
+    "Case thickness without crystal": "10.8mm",
+    "Case lug to lug": "48mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/mara"
+   ],
+   "hash": "846fc07cfc91be74"
+  },
+  {
+   "id": "BRD-0454/mara-black",
+   "name": "Mara Black",
+   "url": "https://www.paulinwatches.com/products/mara-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Mara_Black_Black_Rubber_c7b03530-9e75-4c8d-8b09-0608ed8565bd.jpg?v=1755073595",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Mara_Black_Black_Rubber_c7b03530-9e75-4c8d-8b09-0608ed8565bd.jpg?v=1755073595",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03718_copy_black_copy.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Paulin_Mara_Back_caseback_copy_3099bbfe-5f75-451f-93f0-f4b2b2745c79.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03498_copy_3.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02905.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULiN_PROJECT_HEBRIDES_SCOTLAND_OUTAKES_0142_copy-BLACK_V_copy.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00283_copy_2.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2857
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02956_copy_copy_2.jpg?v=1755099954",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULiN_PROJECT_HEBRIDES_SCOTLAND_0014_copy.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03409_copy_2.jpg?v=1755099954",
+     "width": 4000,
+     "height": 2668
+    }
+   ],
+   "priceMinor": 125000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Named after the Scots Gaelic word meaning ‘of the sea’, the Mara pairs technical ability with graphic clarity, offering the playful, recognisable Paulin aesthetic to depths of up to 300 metres. Protected by a double-domed sapphire crystal with three layers of anti-reflective coating, the lacquer painted dial features Paulin’s bespoke ‘Wim’ typeface, paired with a clean minute track and bold geometric hour markers. Framing the dial is a domed sapphire bezel, with Swiss Super-LumiNova printed on its underside for durability and legibility. The case features an overhanging, 120-click uni-directional bezel, screw-down crown, and closed caseback. With a diameter of 39.7mm and thickness of 13.5mm, the Mara has a sizable presence on the wrist but remains a versatile size for most wearers. Powering the watch the Swiss-made La Joux-Perret G101. Each watch is accompanied by two 20mm straps: a custom branded injection-moulded rubber strap, and a fabric strap made from recycled fishing nets lined with Italian Alcantara faux suede for comfort. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.7,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 300,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "rubber"
+   },
+   "specsRaw": {
+    "Each watch is accompanied by two 20mm straps": "a custom branded injection-moulded rubber strap, and a fabric strap made from recycled fishing nets lined with Italian Alcantara faux suede for comfort.",
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Double domed sapphire with 3 layers of anti-reflective coating",
+    "Water resistance": "30ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer and Super-LumiNova on brass",
+    "Case diameter": "39.7mm",
+    "Case thickness with crystal": "13.5mm",
+    "Case thickness without crystal": "10.8mm",
+    "Case lug to lug": "48mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/mara"
+   ],
+   "hash": "e42a4b497991922f"
+  },
+  {
+   "id": "BRD-0454/modul-a-quartz",
+   "name": "Modul A Quartz",
+   "url": "https://www.paulinwatches.com/products/modul-a-quartz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_YELLOW_silver_mesh_3543febc-2a85-4afb-9785-a04703c4b5ea.jpg?v=1759831415",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_YELLOW_silver_mesh_3543febc-2a85-4afb-9785-a04703c4b5ea.jpg?v=1759831415",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_YELLOW_DIAL_01.png?v=1759831415",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01.png?v=1759831415",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BACK_01_f7b007df-7875-4193-b3f2-6f948dfee78d.png?v=1759832554",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_EXHIB_BACK_F06.jpg?v=1759832554",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_YELLOW_3-4_01.png?v=1759831415",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_2023_D115021_v2_e0f26dc3-4a29-4086-bc0a-e17eeec9e648.png?v=1759831415",
+     "width": 3531,
+     "height": 2354
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The compact and slim Modul features a bold colour palette and sleek tonneau-shaped case with a dual finish. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the Swiss-made Paulin ETA F06.105, custom decorated with laser etching techniques. At only 8.2mm thick and with premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Our current Modul range also includes a mechanical option, the ETA 7001, and a 39mm automatic , using the La Joux-Perret G101. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Paulin ETA F06.105",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul-quartz"
+   ],
+   "hash": "a2979f20dc959ef0"
+  },
+  {
+   "id": "BRD-0454/modul-d-automatic",
+   "name": "Modul D Automatic",
+   "url": "https://www.paulinwatches.com/products/modul-d-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/silver_mesh_lume_auto_black.png?v=1759830566",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/silver_mesh_lume_auto_black.png?v=1759830566",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/AUTO_S_Manual_Macro_copy.webp?v=1759830566",
+     "width": 4000,
+     "height": 3070
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULIN_Modul_D_Automatic_Wirst_01.jpg?v=1759830566",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_SIDE-ON_01_3b28d1ad-ff92-4615-8704-15788ab9ab54.jpg?v=1759830666",
+     "width": 5806,
+     "height": 3872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/caseback_6bbcbd6c-651c-49e7-a253-9ed37f0cbd09.jpg?v=1759830666",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02260_QUARTZ_landscape_2ca36cf3-5bba-4737-bfef-9e2095e9b58b.png?v=1759830566",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02316_37c099b6-4e62-4547-8d66-75df9304f873.jpg?v=1759831243",
+     "width": 3000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 95000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our latest iteration of the Modul features a brand new colour palette with hand-painted luminescent hands and numerals. The dial is housed in the distinctive dual-finished tonneau-shaped Modul case. The case is named after its modular construction, which was designed to accommodate a range of movement calibres. The black steel body that holds the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the reputable La Joux-Perret Automatic G101, with blued screws and Geneva stripes visible through the exhibition caseback. The larger case diameter of 39mm sits comfortably on the wrist due to its premium machined sapphire box-crystal, pronounced crown, and thickness of just 9.7mm. Also available in a 35mm case with either quartz movement, the ETA 955.112, or manual , the ETA 7001. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer and Super-LumiNova on brass",
+    "Case diameter": "39mm",
+    "Case thickness with crystal": "9.7mm",
+    "Case thickness without crystal": "7.7mm",
+    "Case lug to lug": "45mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/large-modul-automatic",
+    "BRD-0454/lume",
+    "BRD-0454/lume-modul",
+    "BRD-0454/modul-1"
+   ],
+   "hash": "ed5f846ce3ed74b4"
+  },
+  {
+   "id": "BRD-0454/modul-d-manual",
+   "name": "Modul D Manual",
+   "url": "https://www.paulinwatches.com/products/modul-d-manual",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ModulDMsilvermesh.png?v=1727703169",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ModulDMsilvermesh.png?v=1727703169",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/AUTO_S_Manual__black.webp?v=1728554463",
+     "width": 4000,
+     "height": 3070
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_3ef77c8c-700c-4a10-80d1-d31a9ef0aba7.png?v=1759831646",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_EXHIB_BACK_01_b1760b20-8508-4f78-af7a-c14130eb1fc7.png?v=1743002898",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BACK_01_d0717c28-4a97-418c-ad7b-7da0f9f66501.png?v=1743002820",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02260_QUARTZ_landscape_2.png?v=1743001736",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03258_copy_2.jpg?v=1743001736",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02316_37c099b6-4e62-4547-8d66-75df9304f873.jpg?v=1759831243",
+     "width": 3000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 104500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our latest iteration of the Modul features a brand new colour palette with hand-painted luminescent hands and numerals. The dial is housed in the distinctive dual-finished tonneau-shaped Modul case. The case is named after its modular construction, which was designed to accommodate a range of movement calibres. The black steel body that holds the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is a reliable ETA 7001, with striking blued screws and Geneva stripes. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Also available with a quartz movement, the ETA 955.112, and a 39mm automatic , using the La Joux-Perret G101. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "ETA 7001",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer and Super-LumiNovaon brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/lume",
+    "BRD-0454/lume-modul",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul"
+   ],
+   "hash": "c7d111c68ba202f5"
+  },
+  {
+   "id": "BRD-0454/modul-d-quartz",
+   "name": "Modul D Quartz",
+   "url": "https://www.paulinwatches.com/products/modul-d-quartz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Modul_D_Q_stainless_steel.png?v=1759831243",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Modul_D_Q_stainless_steel.png?v=1759831243",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/AUTO_S_Manual_Macro.webp?v=1759831243",
+     "width": 4000,
+     "height": 3070
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_3ef77c8c-700c-4a10-80d1-d31a9ef0aba7.png?v=1759831646",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BACK_01_f7b007df-7875-4193-b3f2-6f948dfee78d.png?v=1759832554",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_EXHIB_BACK_F06.jpg?v=1759832554",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02260_QUARTZ_landscape.jpg?v=1759831243",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03231.jpg?v=1759831243",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02316_37c099b6-4e62-4547-8d66-75df9304f873.jpg?v=1759831243",
+     "width": 3000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our latest iteration of the Modul features a brand new colour palette with hand-painted luminescent hands and numerals. The dial is housed in the distinctive dual-finished tonneau-shaped Modul case. The case is named after its modular construction, which was designed to accommodate a range of movement calibres. The black steel body that holds the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the Swiss-made Paulin ETA F06.105, custom decorated with laser etching techniques. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Also available with a manual movement, the ETA 7001, and a 39mm automatic , using the La Joux-Perret G101. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Paulin ETA F06.105",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer and Super-LumiNovaon brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/lume",
+    "BRD-0454/lume-modul",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul-quartz"
+   ],
+   "hash": "49ed4b8bcbf2f5c0"
+  },
+  {
+   "id": "BRD-0454/modul-e-automatic",
+   "name": "Modul E Automatic",
+   "url": "https://www.paulinwatches.com/products/modul-e-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ss_mesh_12dd465f-752e-4812-b6a8-0ddb41aa9a48.png?v=1759830666",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ss_mesh_12dd465f-752e-4812-b6a8-0ddb41aa9a48.png?v=1759830666",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/AUTO_MACRO.png?v=1759830666",
+     "width": 2104,
+     "height": 1615
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_SIDE-ON_01_3b28d1ad-ff92-4615-8704-15788ab9ab54.jpg?v=1759830666",
+     "width": 5806,
+     "height": 3872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Modul_E_Automatic_Wrist_01.jpg?v=1759830666",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/caseback_6bbcbd6c-651c-49e7-a253-9ed37f0cbd09.jpg?v=1759830666",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02260_QUARTZ_landscape_5dc0248d-511b-4f39-9af9-3da902746d38.png?v=1759830666",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02319_copy.jpg?v=1759831646",
+     "width": 3000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 95000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our latest iteration of the Modul features a brand new colour palette with hand-painted luminescent hands and numerals. The dial is housed in the distinctive dual-finished tonneau-shaped Modul case. The case is named after its modular construction, which was designed to accommodate a range of movement calibres. The black steel body that holds the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the reputable La Joux-Perret Automatic G101, with blued screws and Geneva stripes visible through the exhibition caseback. The larger case diameter of 39mm sits comfortably on the wrist due to its premium machined sapphire box-crystal, pronounced crown, and thickness of just 9.7mm. Also available in a 35mm case with either quartz movement, the ETA 955.112, or manual , the ETA 7001. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Brushed Rhodium with Super-LumiNova",
+    "Case diameter": "39mm",
+    "Case thickness with crystal": "9.7mm",
+    "Case thickness without crystal": "7.7mm",
+    "Case lug to lug": "45mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/large-modul-automatic",
+    "BRD-0454/lume",
+    "BRD-0454/lume-modul",
+    "BRD-0454/modul-1"
+   ],
+   "hash": "0d48fb1aea0876c0"
+  },
+  {
+   "id": "BRD-0454/modul-e-manual",
+   "name": "Modul E Manual",
+   "url": "https://www.paulinwatches.com/products/modul-e-manual",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ss_mesh_70ddac58-da1f-4964-845f-2cb82e6e1876.png?v=1728558630",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ss_mesh_70ddac58-da1f-4964-845f-2cb82e6e1876.png?v=1728558630",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/AUTO_S_Manual_Macro.png?v=1728554100",
+     "width": 2104,
+     "height": 1615
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_3ef77c8c-700c-4a10-80d1-d31a9ef0aba7.png?v=1759831646",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BACK_01_d0717c28-4a97-418c-ad7b-7da0f9f66501.png?v=1743002820",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_EXHIB_BACK_01_b1760b20-8508-4f78-af7a-c14130eb1fc7.png?v=1743002898",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02319_copy.jpg?v=1759831646",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02260_QUARTZ_landscape_923ac20d-2f30-45ac-a699-ca11cd6ad844.png?v=1743002219",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Modul_E_Manual_Wrist_01.jpg?v=1743002219",
+     "width": 3000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 104500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our latest iteration of the Modul features a brand new colour palette with hand-painted luminescent hands and numerals. The dial is housed in the distinctive dual-finished tonneau-shaped Modul case. The case is named after its modular construction, which was designed to accommodate a range of movement calibres. The black steel body that holds the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is a reliable ETA 7001, with striking blued screws and Geneva stripes. At only 8.2mm thick and with premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Also available with a quartz movement, the ETA 955.112, and a 39mm automatic , using the La Joux-Perret G101. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "ETA 7001",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Brushed Rhodium with Super-LumiNova",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/lume",
+    "BRD-0454/lume-modul",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul"
+   ],
+   "hash": "0b04572f9b2c6475"
+  },
+  {
+   "id": "BRD-0454/modul-e-quartz",
+   "name": "Modul E Quartz",
+   "url": "https://www.paulinwatches.com/products/modul-e-quartz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Modul_E_Q_stainless_mesh.png?v=1759831646",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Modul_E_Q_stainless_mesh.png?v=1759831646",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/AUTO_S_Quartz.png?v=1759831646",
+     "width": 2104,
+     "height": 1615
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_3ef77c8c-700c-4a10-80d1-d31a9ef0aba7.png?v=1759831646",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BACK_01_f7b007df-7875-4193-b3f2-6f948dfee78d.png?v=1759832554",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_EXHIB_BACK_F06.jpg?v=1759832554",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02260_QUARTZ_landscape.png?v=1759831646",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Modul_E_Wrist_01.jpg?v=1759831646",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02319_copy.jpg?v=1759831646",
+     "width": 3000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our latest iteration of the Modul features a brand new colour palette with hand-painted luminescent hands and numerals. The dial is housed in the distinctive dual-finished tonneau-shaped Modul case. The case is named after its modular construction, which was designed to accommodate a range of movement calibres. The black steel body that holds the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the Swiss-made Paulin ETA F06.105, custom decorated with laser etching techniques. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Also available with a manual movement, the ETA 7001, and a 39mm automatic , using the La Joux-Perret G101. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Paulin ETA F06.105",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Brushed Rhodium with Super-LumiNova",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/lume",
+    "BRD-0454/lume-modul",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul-quartz"
+   ],
+   "hash": "33786a5904d4d03c"
+  },
+  {
+   "id": "BRD-0454/oh-no-wall-clock",
+   "name": "OH no Wall Clock",
+   "url": "https://www.paulinwatches.com/products/oh-no-wall-clock",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OH_No.png?v=1729007883",
+    "width": 3000,
+    "height": 3002
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OH_No.png?v=1729007883",
+     "width": 3000,
+     "height": 3002
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03374_Recolour.webp?v=1729239982",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03389_Retouch.webp?v=1729240521",
+     "width": 2950,
+     "height": 1966
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06839copy.jpg?v=1774440457",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC06841copy.jpg?v=1774440457",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03374_12e3bc1c-5be8-4fc5-acda-c598e1d3a5c8.jpg?v=1728487556",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03374_copy_2.jpg?v=1728487556",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Paulin-Ohno-Sketches_1.png?v=1714145750",
+     "width": 3000,
+     "height": 2424
+    }
+   ],
+   "priceMinor": 17000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The OH no wall clock is a collaboration between Paulin and the San Jose type foundry, OH no . Our classic cork and aluminium wall clock features a nickel-plated handset with sweeping seconds, and bespoke typography and dial design by OH no. This is our second collaboration with the foundry, following the overwhelmingly positive response to the OH no Modul . The clock dial is a progression of the Modul design and features an expressive free-form layout referencing California’s colourful design history. Soft torn edges hark back to the analogue processes of Sister Corita Kent and Saul Bass, and the colourful layered design playfully tests the limits of legibility. To celebrate the overlaid nature of the design, we chose to use four layers of screen printing with differing levels of opacity. The dials were printed in Glasgow by Matthew Rich of M.A.R.S Studio and are part of a limited run of dials. You can read more about OH no and the design process here . Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Clocks",
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Silver"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Silver",
+     "sku": null,
+     "priceMinor": 17000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Silver"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 30,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "SKP Sweep",
+    "Battery Type": "1 x AA battery (UK only)",
+    "Glass": "No",
+    "Case": "Cork",
+    "Hands": "Brass",
+    "Blackplate & Dial": "Screenprinted Aluminium Composite",
+    "Fasteners": "A2 Stainless Steel",
+    "Outer Diameter": "300mm",
+    "Dial Diameter": "270mm",
+    "Thickness": "45mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/homeware",
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/oh-no-collaborations",
+    "BRD-0454/things",
+    "BRD-0454/wall-clock"
+   ],
+   "hash": "3fdc3bfc640e9e91"
+  },
+  {
+   "id": "BRD-0454/modul-b-quartz",
+   "name": "Modul B Quartz",
+   "url": "https://www.paulinwatches.com/products/modul-b-quartz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BROWN_silver_mesh_b42ad531-b53d-4756-bd4d-9ce78b3f1a70.jpg?v=1759831341",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BROWN_silver_mesh_b42ad531-b53d-4756-bd4d-9ce78b3f1a70.jpg?v=1759831341",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BROWN_DIAL_01.png?v=1759831341",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_04c2dbd8-497c-43a2-838b-0f00b6f190a2.png?v=1759831341",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BACK_01_f7b007df-7875-4193-b3f2-6f948dfee78d.png?v=1759832554",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_EXHIB_BACK_F06.jpg?v=1759832554",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BROWN_3-4_01.png?v=1759831341",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_2023_D115253copy_v1.png?v=1759831341",
+     "width": 2700,
+     "height": 1800
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The compact and slim Modul features a bold colour palette and sleek tonneau-shaped case with a dual finish. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the Swiss-made Paulin ETA F06.105, custom decorated with laser etching techniques. At only 8.2mm thick and with premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Our current Modul range also includes a mechanical option, the ETA 7001, and a 39mm automatic , using the La Joux-Perret G101. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Paulin ETA F06.105",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul-quartz"
+   ],
+   "hash": "c818e00661ab4224"
+  },
+  {
+   "id": "BRD-0454/oh-no-quartz-monochrome",
+   "name": "OH no Quartz Monochrome",
+   "url": "https://www.paulinwatches.com/products/oh-no-quartz-monochrome",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Small_PINK_silver_mesh_scaled_498d3445-365e-499d-89b9-a2f659c59d33.png?v=1759832305",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Small_PINK_silver_mesh_scaled_498d3445-365e-499d-89b9-a2f659c59d33.png?v=1759832305",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/macrob_w_0424d2e9-c0f6-4bfa-b3c3-196453850c50.png?v=1759832305",
+     "width": 2242,
+     "height": 1495
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_342be7e8-6fe5-4ac6-95b1-b366f3fe63dd.jpg?v=1759832305",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BACK_01_f7b007df-7875-4193-b3f2-6f948dfee78d.png?v=1759832554",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_EXHIB_BACK_F06.jpg?v=1759832554",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/mono.jpg?v=1759832305",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULIN_OHNO_collection_01.jpg?v=1759832305",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The OH no Modul is a collaboration between Paulin and the San Jose type foundry OH no . This partnership was born out of our mutual love of typography and our particular fondness for the font Obviously , used across Paulin’s identity. The watch was launched in California as part of San Francisco’s Wind Up Watch Fair. The expressive dial design references California’s design history, with a colour palette that takes cues from local design icons Sister Corita Kent and Saul Bass. In contrast to the uniform geometry of the original Modul, the dial features OH no’s free-form bespoke numerals. Their interlocking layout playfully tests legibility, with exaggerated emphasis on the 12, 3, 6 and 9. You can read more about OH no and the design process behind the collaboration here . Powering the watch is the Swiss-made Paulin ETA F06.105, custom decorated with laser etching techniques. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Paulin ETA F06.105",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/collaborations",
+    "BRD-0454/oh-no-collaboration",
+    "BRD-0454/oh-no-collaborations"
+   ],
+   "hash": "503886038f1e53be"
+  },
+  {
+   "id": "BRD-0454/oh-no-quartz-red",
+   "name": "OH no Quartz Red",
+   "url": "https://www.paulinwatches.com/products/oh-no-quartz-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Small_PINK_silver_mesh_scaled_28fa7731-b0af-46b0-ae3a-56aa9ef37c2a.png?v=1759832399",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Small_PINK_silver_mesh_scaled_28fa7731-b0af-46b0-ae3a-56aa9ef37c2a.png?v=1759832399",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/macrored_7bf35aa2-0b20-476b-90c9-75de9094784a.png?v=1759832399",
+     "width": 2242,
+     "height": 1495
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_2e059bc5-cd97-4a71-b18c-067d6981dba4.jpg?v=1759832399",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BACK_01_f7b007df-7875-4193-b3f2-6f948dfee78d.png?v=1759832554",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_EXHIB_BACK_F06.jpg?v=1759832554",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC08336_copy_90d2f24d-dffb-4769-b0c3-839fdfef7442.jpg?v=1759832399",
+     "width": 5000,
+     "height": 3335
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03172.jpg?v=1759832399",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2127_OHNO_Modul_Pair_60776190-1338-4ac2-8ad0-35611be8f609.jpg?v=1759832399",
+     "width": 3000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The OH no Modul is a collaboration between Paulin and the San Jose type foundry OH no . This partnership was born out of our mutual love of typography and our particular fondness for the font Obviously , used across Paulin’s identity. The watch was launched in California as part of San Francisco’s Wind Up Watch Fair. The expressive dial design references California’s design history, with a colour palette that takes cues from local design icons Sister Corita Kent and Saul Bass. In contrast to the uniform geometry of the original Modul, the dial features OH no’s free-form bespoke numerals. Their interlocking layout playfully tests legibility, with exaggerated emphasis on the 12, 3, 6 and 9. You can read more about OH no and the design process behind the collaboration here . Powering the watch is the Swiss-made Paulin ETA F06.105, custom decorated with laser etching techniques. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Paulin ETA F06.105",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/collaborations",
+    "BRD-0454/oh-no-collaboration",
+    "BRD-0454/oh-no-collaborations"
+   ],
+   "hash": "f3238c8bbad65b65"
+  },
+  {
+   "id": "BRD-0454/oh-no-quartz-blue",
+   "name": "OH no Quartz Blue",
+   "url": "https://www.paulinwatches.com/products/oh-no-quartz-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Small_BLUE_silvermesh_scaled.png?v=1759832554",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Small_BLUE_silvermesh_scaled.png?v=1759832554",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/macroblue_15a5933a-b219-4d2a-a54b-aa7858ad582a.png?v=1759832554",
+     "width": 2242,
+     "height": 1495
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_8c720545-5c89-4a36-b7f9-8efc091d86eb.jpg?v=1759832554",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BACK_01_f7b007df-7875-4193-b3f2-6f948dfee78d.png?v=1759832554",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_EXHIB_BACK_F06.jpg?v=1759832554",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2632_OHNO_MODUL_SMALL_QUARTZ_BLUE_3000_03800835-3063-4394-afb1-5acc9341ef9d.jpg?v=1759832554",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC03197.jpg?v=1759832554",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2127_OHNO_Modul_Pair_32cc7b66-138e-4bf6-a092-9bd3e3698d66.jpg?v=1759832554",
+     "width": 3000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The OH no Modul is a collaboration between Paulin and the San Jose type foundry OH no . This partnership was born out of our mutual love of typography and our particular fondness for the font Obviously , used across Paulin’s identity. The watch was launched in California as part of San Francisco’s Wind Up Watch Fair. The expressive dial design references California’s design history, with a colour palette that takes cues from local design icons Sister Corita Kent and Saul Bass. In contrast to the uniform geometry of the original Modul, the dial features OH no’s free-form bespoke numerals. Their interlocking layout playfully tests legibility, with exaggerated emphasis on the 12, 3, 6 and 9. You can read more about OH no and the design process behind the collaboration here . Powering the watch is the Swiss-made Paulin ETA F06.105, custom decorated with laser etching techniques. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Paulin ETA F06.105",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/collaborations",
+    "BRD-0454/oh-no-collaboration",
+    "BRD-0454/oh-no-collaborations"
+   ],
+   "hash": "d0c9a078d9c7b3d0"
+  },
+  {
+   "id": "BRD-0454/oh-no-automatic-red",
+   "name": "OH no Automatic Red",
+   "url": "https://www.paulinwatches.com/products/oh-no-automatic-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Large_PINK_silvermesh_scaled_2cb4e760-13be-4a2c-929f-6c25dc4e18b5.png?v=1759832350",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Large_PINK_silvermesh_scaled_2cb4e760-13be-4a2c-929f-6c25dc4e18b5.png?v=1759832350",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/macrored_8c72fb52-5791-4af7-b397-4bbedd7f0203.png?v=1759832350",
+     "width": 2242,
+     "height": 1495
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2713_3000_eae72b71-5541-45fd-b970-51ca06cf8d08.jpg?v=1759832350",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_SIDE-ON_01_786554ff-53f6-4a58-96d2-214ada98d554.jpg?v=1759832350",
+     "width": 5806,
+     "height": 3872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_EXHIB_CASEBACK_01_3000_790a60d2-7625-432d-a8d9-6021f3f1e245.jpg?v=1759832350",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULIN_OHNO_collection_02.jpg?v=1759832350",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 95000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The OH no Modul is a collaboration between Paulin and the San Jose type foundry OH no . This partnership was born out of our mutual love of typography and our particular fondness for the font Obviously , used across Paulin’s identity. The watch was launched in California as part of San Francisco’s Wind Up Watch Fair. The expressive dial design references California’s design history, with a colour palette that takes cues from local design icons Sister Corita Kent and Saul Bass. In contrast to the uniform geometry of the original Modul, the dial features OH no’s free-form bespoke numerals. Their interlocking layout playfully tests legibility, with exaggerated emphasis on the 12, 3, 6 and 9. You can read more about OH no and the design process behind the collaboration here . The watch is powered by the reliable Swiss-made La Joux-Perret G101, visible through an exhibition caseback. The case diameter is 39mm, which works for almost every wrist size, and at 9.7mm thick with a premium machined sapphire box-crystal and a pronounced crown, it’s a very comfortable wear. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "39mm",
+    "Case thickness with crystal": "9.7mm",
+    "Case thickness without crystal": "7.7mm",
+    "Case lug to lug": "45mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/collaborations",
+    "BRD-0454/oh-no-collaboration",
+    "BRD-0454/oh-no-collaborations"
+   ],
+   "hash": "545532a3e73de59b"
+  },
+  {
+   "id": "BRD-0454/oh-no-automatic-monochrome",
+   "name": "OH no Automatic Monochrome",
+   "url": "https://www.paulinwatches.com/products/oh-no-automatic-monochrome",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Large_MONO_silvermesh_scaled_35d79622-58fc-4186-8d8f-43dc4941b3ed.png?v=1759832258",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Large_MONO_silvermesh_scaled_35d79622-58fc-4186-8d8f-43dc4941b3ed.png?v=1759832258",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/macrob_w_bc461a4a-e207-4f95-9320-39508e83cf7f.png?v=1759832258",
+     "width": 2242,
+     "height": 1495
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_SIDE-ON_01_01e940fc-2a88-46a5-b44f-92c5c749cb06.jpg?v=1759832258",
+     "width": 5806,
+     "height": 3872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_EXHIB_CASEBACK_01_3000_2d52c988-4cd4-4e1b-a4de-500f50cadfc6.jpg?v=1759832258",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC07055_copy.jpg?v=1759832448",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC07289_copy.jpg?v=1759832258",
+     "width": 4000,
+     "height": 2668
+    }
+   ],
+   "priceMinor": 95000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The OH no Modul is a collaboration between Paulin and the San Jose type foundry OH no . This partnership was born out of our mutual love of typography and our particular fondness for the font Obviously , used across Paulin’s identity. The watch was launched in California as part of San Francisco’s Wind Up Watch Fair. The expressive dial design references California’s design history, with a colour palette that takes cues from local design icons Sister Corita Kent and Saul Bass. In contrast to the uniform geometry of the original Modul, the dial features OH no’s free-form bespoke numerals. Their interlocking layout playfully tests legibility, with exaggerated emphasis on the 12, 3, 6 and 9. You can read more about OH no and the design process behind the collaboration here . The watch is powered by the reliable Swiss-made La Joux-Perret G101, visible through an exhibition caseback. The case diameter is 39mm, which works for almost every wrist size, and at 9.7mm thick with a premium machined sapphire box-crystal and a pronounced crown, it’s a very comfortable wear. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "39mm",
+    "Case thickness with crystal": "9.7mm",
+    "Case thickness without crystal": "7.7mm",
+    "Case lug to lug": "45mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/collaborations",
+    "BRD-0454/oh-no-collaboration",
+    "BRD-0454/oh-no-collaborations"
+   ],
+   "hash": "a9734d48a666bd85"
+  },
+  {
+   "id": "BRD-0454/oh-no-automatic-blue",
+   "name": "OH no Automatic Blue",
+   "url": "https://www.paulinwatches.com/products/oh-no-automatic-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Large_BLUE_silvermesh_scaled_bbd1f732-1862-43a7-9a0f-b83160544819.png?v=1759832448",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/OHNO_Modul_Large_BLUE_silvermesh_scaled_bbd1f732-1862-43a7-9a0f-b83160544819.png?v=1759832448",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/macroblue_efbb4319-f614-4052-8abc-4bcd71148c72.png?v=1759832448",
+     "width": 2242,
+     "height": 1495
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2782_OHNO_Modul_Blue_Automatic_wrist_3000_Lighter_9896ca44-af82-488c-8609-aacbc1fcb9e8.jpg?v=1759832448",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_SIDE-ON_01_393bbaaf-9b4e-4a02-b8d5-ad314d8d1b57.jpg?v=1759832448",
+     "width": 5806,
+     "height": 3872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_EXHIB_CASEBACK_01_3000_e6e1bcce-4504-4e2b-ab36-222c049f5755.jpg?v=1759832448",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC07055_copy.jpg?v=1759832448",
+     "width": 3000,
+     "height": 2001
+    }
+   ],
+   "priceMinor": 95000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The OH no Modul is a collaboration between Paulin and the San Jose type foundry OH no . This partnership was born out of our mutual love of typography and our particular fondness for the font Obviously , used across Paulin’s identity. The watch was launched in California as part of San Francisco’s Wind Up Watch Fair. The expressive dial design references California’s design history, with a colour palette that takes cues from local design icons Sister Corita Kent and Saul Bass. In contrast to the uniform geometry of the original Modul, the dial features OH no’s free-form bespoke numerals. Their interlocking layout playfully tests legibility, with exaggerated emphasis on the 12, 3, 6 and 9. You can read more about OH no and the design process behind the collaboration here . The watch is powered by the reliable Swiss-made La Joux-Perret G101, visible through an exhibition caseback. The case diameter is 39mm, which works for almost every wrist size, and at 9.7mm thick with a premium machined sapphire box-crystal and a pronounced crown, it’s a very comfortable wear. Free shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "39mm",
+    "Case thickness with crystal": "9.7mm",
+    "Case thickness without crystal": "7.7mm",
+    "Case lug to lug": "45mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/collaborations",
+    "BRD-0454/oh-no-collaboration",
+    "BRD-0454/oh-no-collaborations"
+   ],
+   "hash": "f28e9d166713ad63"
+  },
+  {
+   "id": "BRD-0454/neo-gmt-c",
+   "name": "Neo GMT C",
+   "url": "https://www.paulinwatches.com/products/neo-gmt-c",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/mesh_be99f232-0b66-4177-bed0-7859db099716.png?v=1759831815",
+    "width": 1535,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/mesh_be99f232-0b66-4177-bed0-7859db099716.png?v=1759831815",
+     "width": 1535,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NeoGMTCmacro.jpg?v=1759831815",
+     "width": 3000,
+     "height": 2251
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_profile_gallery_new_052ec5cd-5583-4b87-b315-d2e605da51a7.png?v=1759831815",
+     "width": 990,
+     "height": 660
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_master_6da47fc4-5c1d-43b6-b15a-8c729f275820.png?v=1759831815",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/smalleropencaseback.png?v=1759831815",
+     "width": 3000,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2570_i.jpg?v=1759831815",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2432.jpg?v=1759831815",
+     "width": 3000,
+     "height": 2250
+    }
+   ],
+   "priceMinor": 66500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A take on the best-selling Neo collection, the Neo GMT offers the obvious – a GMT complication for a secondary time zone, and a new striking range of colours. With its vivid colour palette, bespoke typography and raised box-section crystal, the Neo GMT has an evocative vintage aesthetic. The dial is manufactured in the UK using aluminium, which is anodised and dyed, imbuing the metal with an incredible depth of colour and a distinctive, almost holographic finish. Anodised aluminium is a rarity in watchmaking due to the difficulty in producing a uniform finish. The automatic watch is powered by the robust Seiko NH34A, modified to remove the ghost-date position. At a comfortable 38mm case size, the Neo suits most wrist sizes. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 18,
+    "lugToLugMm": 48,
+    "thicknessMm": 11.6,
+    "waterResistanceM": 50,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Automatic Seiko NH34A",
+    "Lens": "Hesalite box section PVC",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Anodised aluminium",
+    "Case diameter": "38mm",
+    "Case thickness": "11.6mm",
+    "Without crystal": "9mm",
+    "Case lug to lug": "48mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/neo",
+    "BRD-0454/neo-gmt"
+   ],
+   "hash": "b02e539e112f618b"
+  },
+  {
+   "id": "BRD-0454/neo-gmt-b",
+   "name": "Neo GMT B",
+   "url": "https://www.paulinwatches.com/products/neo-gmt-b",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/steel_mesh.png?v=1759831862",
+    "width": 1535,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/steel_mesh.png?v=1759831862",
+     "width": 1535,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NeoGMTBmacro.jpg?v=1759831862",
+     "width": 3000,
+     "height": 2251
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_profile_gallery_new_e68375a9-69e1-472c-996c-7571591618f6.png?v=1759831862",
+     "width": 990,
+     "height": 660
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_master_bea4e47a-3e46-445b-8462-cca5fb3819cd.png?v=1759831862",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/smalleropencaseback_c66d6047-1601-466b-90e4-da37c308e8d6.png?v=1759831862",
+     "width": 3000,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2506_i.jpg?v=1759831862",
+     "width": 2630,
+     "height": 1752
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF2458copy.jpg?v=1759831862",
+     "width": 3000,
+     "height": 2250
+    }
+   ],
+   "priceMinor": 66500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A take on the best-selling Neo collection, the Neo GMT offers the obvious – a GMT complication for a secondary time zone, and a new striking range of colours. With its vivid colour palette, bespoke typography and raised box-section crystal, the Neo GMT has an evocative vintage aesthetic. The dial is manufactured in the UK using aluminium, which is anodised and dyed, imbuing the metal with an incredible depth of colour and a distinctive, almost holographic finish. Anodised aluminium is a rarity in watchmaking due to the difficulty in producing a uniform finish. The automatic watch is powered by the robust Seiko NH34A, modified to remove the ghost-date position. At a comfortable 38mm case size, the Neo suits most wrist sizes. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 18,
+    "lugToLugMm": 48,
+    "thicknessMm": 11.6,
+    "waterResistanceM": 50,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Automatic Seiko NH34A",
+    "Lens": "Hesalite box section PVC",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Anodised aluminium",
+    "Case diameter": "38mm",
+    "Case thickness": "11.6mm",
+    "Without crystal": "9mm",
+    "Case lug to lug": "48mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/neo",
+    "BRD-0454/neo-gmt"
+   ],
+   "hash": "1d8e5d821198d3c7"
+  },
+  {
+   "id": "BRD-0454/modul-a-automatic",
+   "name": "Modul A Automatic",
+   "url": "https://www.paulinwatches.com/products/modul-a-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/yellow.png?v=1759830856",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/yellow.png?v=1759830856",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ModulAmacro.jpg?v=1759830856",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF0920_LARGE_MODUL_A_WRIST_CROP.jpg?v=1759830856",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_SIDE-ON_01.jpg?v=1759830856",
+     "width": 5806,
+     "height": 3872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/caseback.jpg?v=1759830856",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF1490_Quartz_A_Large_A.jpg?v=1759830856",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF1656_MODUL_A_ALL_BLOCK_BLUE_BG.jpg?v=1759830856",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 95000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The newest addition to our collection, this upscaled Modul Automatic features the familiar bold colour palette and tonneau-shaped case of our original Quartz and Manual models, with a 39mm case diameter. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the reputable La Joux-Perret Automatic G101, with blued screws and Geneva stripes visible through the exhibition caseback. The 39mm case sits comfortably on most wrists, due to its premium machined sapphire box-crystal, pronounced crown, and thickness of just 9.7mm. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "39mm",
+    "Case thickness with crystal": "9.7mm",
+    "Case thickness without crystal": "7.7mm",
+    "Case lug to lug": "45mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/large-modul-automatic",
+    "BRD-0454/modul-1"
+   ],
+   "hash": "0af433bade97a871"
+  },
+  {
+   "id": "BRD-0454/modul-b-automatic",
+   "name": "Modul B Automatic",
+   "url": "https://www.paulinwatches.com/products/modul-b-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/brown.png?v=1759830927",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/brown.png?v=1759830927",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ModulBmarco.jpg?v=1759830927",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF0967_LARGE_MODUL_B_WRIST_CROP.jpg?v=1759830927",
+     "width": 5317,
+     "height": 3544
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/caseback_766155b2-7166-4edd-8f66-75038d10ad8b.jpg?v=1759830927",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_SIDE-ON_01_4d102665-7e55-4fcc-aab1-fff1859483ff.jpg?v=1759830927",
+     "width": 5806,
+     "height": 3872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF1752_LARGE_MODUL_B_w_MECH_B.jpg?v=1759830927",
+     "width": 4265,
+     "height": 3265
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF1705_LARGE_MODUL_B_i.jpg?v=1759830927",
+     "width": 3000,
+     "height": 2250
+    }
+   ],
+   "priceMinor": 95000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The largest addition to our collection, this upscaled Modul Automatic features the familiar bold colour palette and tonneau-shaped case of our original Quartz and Manual models, with a 39mm case diameter. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the reputable La Joux-Perret Automatic G101, with blued screws and Geneva stripes visible through the exhibition caseback. The 39mm case sits comfortably on most wrists, due to its premium machined sapphire box-crystal, pronounced crown, and thickness of just 9.7mm. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "39mm",
+    "Case thickness with crystal": "9.7mm",
+    "Case thickness without crystal": "7.7mm",
+    "Case lug to lug": "45mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/large-modul-automatic",
+    "BRD-0454/modul-1"
+   ],
+   "hash": "c383b07c95ee4cb6"
+  },
+  {
+   "id": "BRD-0454/copy-of-modul-c-automatic",
+   "name": "Modul C Automatic",
+   "url": "https://www.paulinwatches.com/products/copy-of-modul-c-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/pink_3d43fad2-a24e-4e52-85fa-6ae792f42a8e.png?v=1759831006",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/pink_3d43fad2-a24e-4e52-85fa-6ae792f42a8e.png?v=1759831006",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/ModulCmacro.jpg?v=1759831006",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF0935_LARGE_MODUL_C_PINK_WRIST_CROP_i.jpg?v=1759831006",
+     "width": 5869,
+     "height": 3911
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/LARGE_MODUL_SIDE-ON_01_188f6a65-1425-461a-9bed-c55dd19c7bed.jpg?v=1759831006",
+     "width": 5806,
+     "height": 3872
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/caseback_684c1cb1-5e70-4ea8-8195-1ccce92b3345.jpg?v=1759831006",
+     "width": 3000,
+     "height": 2001
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF1606_MODUL_Cs_ALL_i.jpg?v=1759831006",
+     "width": 3000,
+     "height": 2250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSCF1746_LARGE_MODUL_C_w_MECH_C_CROP.jpg?v=1759831006",
+     "width": 4212,
+     "height": 4211
+    }
+   ],
+   "priceMinor": 95000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The largest addition to our collection, this upscaled Modul Automatic features the familiar bold colour palette and tonneau-shaped case of our original Quartz and Manual models, with a 39mm case diameter. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the reputable La Joux-Perret Automatic G101, with blued screws and Geneva stripes visible through the exhibition caseback. The 39mm case sits comfortably on most wrists, due to its premium machined sapphire box-crystal, pronounced crown, and thickness of just 9.7mm. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "La Joux-Perret G101",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "39mm",
+    "Case thickness with crystal": "9.7mm",
+    "Case thickness without crystal": "7.7mm",
+    "Case lug to lug": "45mm",
+    "Strap width": "20mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/large-modul-automatic",
+    "BRD-0454/modul-1"
+   ],
+   "hash": "fe085520fb763ed0"
+  },
+  {
+   "id": "BRD-0454/modul-c-quartz",
+   "name": "Modul C Quartz",
+   "url": "https://www.paulinwatches.com/products/modul-c-quartz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_PINK_silver_mesh_5f587d24-39d6-4ad5-bb83-6d109d5b69e9.jpg?v=1759831503",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_PINK_silver_mesh_5f587d24-39d6-4ad5-bb83-6d109d5b69e9.jpg?v=1759831503",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_PINK_DIAL_01.png?v=1759831503",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_a8435185-b861-4a0f-b865-a4bdad9322f0.png?v=1759831503",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_BACK_01_f7b007df-7875-4193-b3f2-6f948dfee78d.png?v=1759832554",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_EXHIB_BACK_F06.jpg?v=1759832554",
+     "width": 4000,
+     "height": 2668
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_2023_D115275copy_v1.png?v=1759831503",
+     "width": 2700,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_QUARTZ_PINK_3-4_01_27d1fadc-7bed-42a8-b02d-1368fa4acbdb.png?v=1759831503",
+     "width": 3317,
+     "height": 2213
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The compact and slim Modul features a bold colour palette and sleek tonneau-shaped case with a dual finish. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is the Swiss-made Paulin ETA F06.105, custom decorated with laser etching techniques. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Our current Modul range also includes a mechanical option, the ETA 7001, and a 39mm automatic , using the La Joux-Perret G101. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Paulin ETA F06.105",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul-quartz"
+   ],
+   "hash": "79d4c8baab321139"
+  },
+  {
+   "id": "BRD-0454/modul-c-mechanical",
+   "name": "Modul C Manual",
+   "url": "https://www.paulinwatches.com/products/modul-c-mechanical",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_PINK_silver_mesh_b1a1d155-ad04-4d07-bb2e-ee320e0c18d3.jpg?v=1713965810",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_PINK_silver_mesh_b1a1d155-ad04-4d07-bb2e-ee320e0c18d3.jpg?v=1713965810",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_PINK_DIAL_01.png?v=1711620948",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_d239ad0c-29ec-49a3-b3e3-06bf98d17666.png?v=1711620948",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_EXHIB_BACK_01_b1760b20-8508-4f78-af7a-c14130eb1fc7.png?v=1743002898",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BACK_01_d2439ce4-2ba5-484e-aad8-c4d6b68ed738.png?v=1743002854",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_PINK_3-4_01.png?v=1743002854",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NeeksDSC09495_2_d6b133ff-c2b4-4756-b349-c205efaccd17.png?v=1743002853",
+     "width": 2167,
+     "height": 1445
+    }
+   ],
+   "priceMinor": 104500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The compact and slim Modul features a bold colour palette and sleek tonneau-shaped case with a dual finish. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is a reliable ETA 7001, with striking blued screws and Geneva stripes. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Our current Modul range also offers a quartz option, the ETA 955.112, and a 39mm automatic , using the La Joux-Perret G101. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "ETA 7001",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul"
+   ],
+   "hash": "cb35a6f4cfebbccf"
+  },
+  {
+   "id": "BRD-0454/modul-b-mechanical",
+   "name": "Modul B Manual",
+   "url": "https://www.paulinwatches.com/products/modul-b-mechanical",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BROWN_silver_mesh_603f3ee1-f5f3-4b59-9211-a46604d5302e.jpg?v=1713965721",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BROWN_silver_mesh_603f3ee1-f5f3-4b59-9211-a46604d5302e.jpg?v=1713965721",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BROWN_DIAL_01.png?v=1711620632",
+     "width": 4459,
+     "height": 2974
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_339ca845-9d12-4a87-9133-b98a74af44d0.png?v=1711620632",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_EXHIB_BACK_01_b1760b20-8508-4f78-af7a-c14130eb1fc7.png?v=1743002898",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BACK_01_d0717c28-4a97-418c-ad7b-7da0f9f66501.png?v=1743002820",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BROWN_3-4_01.png?v=1743002820",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_2023_D1154712_v2.png?v=1743002819",
+     "width": 3687,
+     "height": 2458
+    }
+   ],
+   "priceMinor": 104500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The compact and slim Modul features a bold colour palette and sleek tonneau-shaped case with a dual finish. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is a reliable ETA 7001, with striking blued screws and Geneva stripes. At only 8.2mm thick and with premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Our current Modul range also offers a quartz option, the ETA 955.112, and a 39mm automatic , using the La Joux-Perret G101. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "ETA 7001",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul"
+   ],
+   "hash": "066082c94c8daea0"
+  },
+  {
+   "id": "BRD-0454/modul-a-mechanical",
+   "name": "Modul A Manual",
+   "url": "https://www.paulinwatches.com/products/modul-a-mechanical",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_YELLOW_silver_mesh_c0b086c0-3df6-4dd9-b48c-9cedda5bacd6.jpg?v=1713965608",
+    "width": 1536,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_YELLOW_silver_mesh_c0b086c0-3df6-4dd9-b48c-9cedda5bacd6.jpg?v=1713965608",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_YELLOW_DIAL_01_66360978-9d01-4ff9-b35c-0060c27522cd.png?v=1711619434",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_SIDEON_01_2d642f60-7bd2-4baa-9e02-86422cb8a317.png?v=1711619434",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_EXHIB_BACK_01_b1760b20-8508-4f78-af7a-c14130eb1fc7.png?v=1743002898",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_BACK_01_caf4a023-2c8f-4df7-9169-a76b91a06b55.png?v=1743002898",
+     "width": 4544,
+     "height": 3031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/MODUL_MECH_YELLOW_3-4_01_53ad90e4-fbea-4f7b-85b4-ac541311614a.png?v=1743002898",
+     "width": 3317,
+     "height": 2213
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_2023_D115545copy_v1.png?v=1743002897",
+     "width": 2700,
+     "height": 2025
+    }
+   ],
+   "priceMinor": 104500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The compact and slim Modul features a bold colour palette and sleek tonneau-shaped case with a dual finish. The name comes from its modular construction, which is designed to accommodate different movement calibres. The black steel body that houses the movement is distinct from the brushed steel outer case and attached with two screws on either side. Powering the watch is a reliable ETA 7001, with striking blued screws and Geneva stripes. At only 8.2mm thick and with a premium machined sapphire box-crystal, it’s a comfortable wear across a wide variety of wrist sizes. Our current Modul range also offers a quartz option, the ETA 955.112, and a 39mm automatic , using the La Joux-Perret G101. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 40,
+    "thicknessMm": 8.2,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "ETA 7001",
+    "Lens": "Sapphire box section",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Lacquer on brass",
+    "Case diameter": "35mm",
+    "Case thickness with crystal": "8.2mm",
+    "Case thickness without crystal": "6.2mm",
+    "Case lug to lug": "40mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/modul-1",
+    "BRD-0454/modul"
+   ],
+   "hash": "cbabfc8f338aaf58"
+  },
+  {
+   "id": "BRD-0454/neo-d",
+   "name": "Neo D",
+   "url": "https://www.paulinwatches.com/products/neo-d",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NEO_D_-_RED_-_Masked.png?v=1759831959",
+    "width": 1535,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NEO_D_-_RED_-_Masked.png?v=1759831959",
+     "width": 1535,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULIN_New_Neo_D_Macro.png?v=1759831959",
+     "width": 4134,
+     "height": 2756
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_profile_gallery_new_46a22c9b-ba5a-4e8f-828a-98e106d9a4db.png?v=1759831959",
+     "width": 990,
+     "height": 660
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_closedcaseback_master_620e920a-27c8-4e69-8df8-252a035d702b.png?v=1759831959",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_opencaseback_master_f4423237-0291-42ff-a238-68fd6d25b281.png?v=1759831959",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_Neo_2024_Home18701_R1_Main.png?v=1759831959",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00117_Neo_D_i.png?v=1759831959",
+     "width": 4134,
+     "height": 2757
+    }
+   ],
+   "priceMinor": 60000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "With its vivid colour palette, bespoke typography and raised box-section crystal, the Neo has an evocative vintage aesthetic. The dial is manufactured in the UK using aluminium, which is anodised and dyed, imbuing the metal with an incredible depth of colour and a distinctive, almost holographic finish. Anodised aluminium is a rarity in watchmaking due to the difficulty in producing a uniform finish. The automatic watch is powered by the robust Seiko NH35A, modified to remove the ghost-date position. At a comfortable 38mm case size, the Neo suits most wrist sizes. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 18,
+    "lugToLugMm": 48,
+    "thicknessMm": 11.6,
+    "waterResistanceM": 50,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Automatic Seiko NH35A (modified to remove ghost-date)",
+    "Lens": "Hesalite box section PVC",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Anodised aluminium",
+    "Case diameter": "38mm",
+    "Case thickness": "11.6mm",
+    "Without crystal": "9mm",
+    "Case lug to lug": "48mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/neo",
+    "BRD-0454/neo-1"
+   ],
+   "hash": "0abafb675030eecd"
+  },
+  {
+   "id": "BRD-0454/neo-c-1",
+   "name": "Neo C",
+   "url": "https://www.paulinwatches.com/products/neo-c-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NEO_C_-_BLUE_-_Masked.png?v=1759832105",
+    "width": 1535,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NEO_C_-_BLUE_-_Masked.png?v=1759832105",
+     "width": 1535,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULIN_New_Neo_C_Macro.png?v=1759832105",
+     "width": 4134,
+     "height": 2756
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_profile_gallery_new_1b19c897-1c72-4c39-86d5-3d04af24fd4e.png?v=1759832105",
+     "width": 990,
+     "height": 660
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_opencaseback_master_18b1b331-a353-47bc-9b2f-c8d64b366d8d.png?v=1759832105",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_closedcaseback_master_4ed7ff1a-0194-41be-98bb-a68ee1aeacc6.png?v=1759832105",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_Neo_2024_Home18812_R1_Main.png?v=1759832105",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00213_Neo_C_iii.png?v=1759832105",
+     "width": 4134,
+     "height": 2757
+    }
+   ],
+   "priceMinor": 60000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "With its vivid colour palette, bespoke typography and raised box-section crystal, the Neo has an evocative vintage aesthetic. The dial is manufactured in the UK using aluminium, which is anodised and dyed, imbuing the metal with an incredible depth of colour and a distinctive, almost holographic finish. Anodised aluminium is a rarity in watchmaking due to the difficulty in producing a uniform finish. The automatic watch is powered by the robust Seiko NH35A, modified to remove the ghost-date position. At a comfortable 38mm case size, the Neo suits most wrist sizes. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 18,
+    "lugToLugMm": 48,
+    "thicknessMm": 11.6,
+    "waterResistanceM": 50,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Automatic Seiko NH35A (modified to remove ghost-date)",
+    "Lens": "Hesalite box section PVC",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Anodised aluminium",
+    "Case diameter": "38mm",
+    "Case thickness": "11.6mm",
+    "Without crystal": "9mm",
+    "Case lug to lug": "48mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/neo"
+   ],
+   "hash": "483289a713cfca50"
+  },
+  {
+   "id": "BRD-0454/neo-b-1",
+   "name": "Neo B",
+   "url": "https://www.paulinwatches.com/products/neo-b-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NEOB-GOLD-Masked-_stainless_steel_mesh_-v6.jpg?v=1759832053",
+    "width": 1535,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NEOB-GOLD-Masked-_stainless_steel_mesh_-v6.jpg?v=1759832053",
+     "width": 1535,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_profile_gallery_new_b5d64b60-3e63-48b8-8582-ee7e922656ee.png?v=1759832053",
+     "width": 990,
+     "height": 660
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULIN_New_Neo_B_Macro_v2.png?v=1759832053",
+     "width": 4134,
+     "height": 2756
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_closedcaseback_master_ec05d739-79e9-48ca-9f07-2ff06e3456f3.png?v=1759832053",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_opencaseback_master_70a83605-4fe4-461a-9b15-4281322d9388.png?v=1759832053",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00225_Neo_B_i.png?v=1759832053",
+     "width": 4134,
+     "height": 2757
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_Neo_2024_Home19212_ModelShots_d0dd20af-a6bd-48fc-9eca-03a286c0486e.png?v=1759832053",
+     "width": 3348,
+     "height": 2232
+    }
+   ],
+   "priceMinor": 60000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "With its vivid colour palette, bespoke typography and raised box-section crystal, the Neo has an evocative vintage aesthetic. The dial is manufactured in the UK using aluminium, which is anodised and dyed, imbuing the metal with an incredible depth of colour and a distinctive, almost holographic finish. Anodised aluminium is a rarity in watchmaking due to the difficulty in producing a uniform finish. The automatic watch is powered by the robust Seiko NH35A, modified to remove the ghost-date position. At a comfortable 38mm case size, the Neo suits most wrist sizes. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 18,
+    "lugToLugMm": 48,
+    "thicknessMm": 11.6,
+    "waterResistanceM": 50,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Automatic Seiko NH35A (modified to remove ghost-date)",
+    "Lens": "Hesalite box section PVC",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Anodised aluminium",
+    "Case diameter": "38mm",
+    "Case thickness": "11.6mm",
+    "Without crystal": "9mm",
+    "Case lug to lug": "48mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/neo",
+    "BRD-0454/neo-1"
+   ],
+   "hash": "c3d063dd2d7fb50a"
+  },
+  {
+   "id": "BRD-0454/neo-a-1",
+   "name": "Neo A",
+   "url": "https://www.paulinwatches.com/products/neo-a-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NEO_A_-_SILVER_-_Masked_-_v6.jpg?v=1759832011",
+    "width": 1535,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/NEO_A_-_SILVER_-_Masked_-_v6.jpg?v=1759832011",
+     "width": 1535,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/PAULIN_New_Neo_A_Macro.png?v=1759832011",
+     "width": 4134,
+     "height": 2756
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_profile_gallery_new_68093479-1696-40d0-b732-6672eefc5137.png?v=1759832011",
+     "width": 990,
+     "height": 660
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_closedcaseback_master_9f21dc36-bc0f-4ace-8ba2-d31d033fa024.png?v=1759832011",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Neo_NewCrown_opencaseback_master_2.png?v=1776250275",
+     "width": 1363,
+     "height": 908
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/SCastillo_Paulin_Neo_2024_Home19291_ModelShots.png?v=1759832011",
+     "width": 2953,
+     "height": 1961
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC00202_NeoA_i.png?v=1759832011",
+     "width": 4134,
+     "height": 2757
+    }
+   ],
+   "priceMinor": 60000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "With its vivid colour palette, bespoke typography and raised box-section crystal, the Neo has an evocative vintage aesthetic. The dial is manufactured in the UK using aluminium, which is anodised and dyed, imbuing the metal with an incredible depth of colour and a distinctive, almost holographic finish. Anodised aluminium is a rarity in watchmaking due to the difficulty in producing a uniform finish. The automatic watch is powered by the robust Seiko NH35A, modified to remove the ghost-date position. At a comfortable 38mm case size, the Neo suits most wrist sizes. Free Shipping. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Watches",
+   "tags": [
+    "Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 18,
+    "lugToLugMm": 48,
+    "thicknessMm": 11.6,
+    "waterResistanceM": 50,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "Automatic Seiko NH35A (modified to remove ghost-date)",
+    "Lens": "Hesalite box section PVC",
+    "Water resistance": "5ATM",
+    "Case": "316L stainless steel",
+    "Dial": "Anodised aluminium",
+    "Case diameter": "38mm",
+    "Case thickness": "11.6mm",
+    "Without crystal": "9mm",
+    "Case lug to lug": "48mm",
+    "Strap width": "18mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/clocks-and-watches",
+    "BRD-0454/neo",
+    "BRD-0454/neo-1"
+   ],
+   "hash": "9499dd1c1069872e"
+  },
+  {
+   "id": "BRD-0454/tessa-mackenzie-wall-clock-collection",
+   "name": "Tessa Mackenzie Clock Collection",
+   "url": "https://www.paulinwatches.com/products/tessa-mackenzie-wall-clock-collection",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/2_4bc44430-3845-4357-aaca-7442f2ebc279.png?v=1784562665",
+    "width": 2550,
+    "height": 3399
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/2_4bc44430-3845-4357-aaca-7442f2ebc279.png?v=1784562665",
+     "width": 2550,
+     "height": 3399
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Tessa.png?v=1729007600",
+     "width": 3000,
+     "height": 3002
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02224_i_ac7488a5-398d-4305-b732-e3fecf2631bf.png?v=1691853703",
+     "width": 3796,
+     "height": 2531
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/lansdcape2.png?v=1691853703",
+     "width": 3362,
+     "height": 2241
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/lansdcape1.png?v=1691854046",
+     "width": 3362,
+     "height": 2241
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/lansdcape3.png?v=1691854046",
+     "width": 3362,
+     "height": 2241
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02359_i.png?v=1691854046",
+     "width": 3999,
+     "height": 2666
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC02268_i.png?v=1691854046",
+     "width": 3831,
+     "height": 2554
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/4_89d66172-0322-486b-bfec-93f0b7aa2fd2.png?v=1691854046",
+     "width": 2658,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/5_f52504b6-7996-4bd4-a029-649293900ec5.png?v=1691854046",
+     "width": 2658,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/3_01329507-23c9-4eb4-95d7-593c9e624505.png?v=1691854046",
+     "width": 2658,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/1_7e9c2c6a-d4d0-458e-b6c4-0ac4582531c9.png?v=1691768322",
+     "width": 2658,
+     "height": 3543
+    }
+   ],
+   "priceMinor": 37900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Tessa Mackenzie Clock Collection is a collaboration between Paulin and glazier and illustrator, Tessa Mackenzie. The dials were screen printed in Tessa's studio in the East End of Glasgow. Tessa’s collection explores the process of designing for material. The work builds on an ongoing project; originally translating observational drawings into tapestry patterns, then to glass, and then Dibond. This playful process – a kind of visual game of telephone – aims to articulate the relationship between pattern and material. Each of the five dial designs is an edition of two and has been signed by the artist. The clock is made from cork and aluminium with a sweeping second hand. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": "Clocks",
+   "tags": [
+    "Clock",
+    "Wall clock"
+   ],
+   "options": [
+    {
+     "name": "Dial Edition",
+     "values": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "1",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "1"
+     ]
+    },
+    {
+     "title": "2",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "2"
+     ]
+    },
+    {
+     "title": "3",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "3"
+     ]
+    },
+    {
+     "title": "4",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "4"
+     ]
+    },
+    {
+     "title": "5",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "5"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 30,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "SKP Sweep",
+    "Battery Type": "1 x AA battery (UK only)",
+    "Glass": "No",
+    "Case": "Cork",
+    "Hands": "Gloss Lacquer on Brass",
+    "Blackplate & Dial": "Aluminium Composite",
+    "Fasteners": "A2 Stainless Steel",
+    "Outer Diameter": "300mm",
+    "Dial Diameter": "270mm",
+    "Thickness": "45mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/homeware",
+    "BRD-0454/fresh-faced",
+    "BRD-0454/things",
+    "BRD-0454/wall-clock"
+   ],
+   "hash": "00f2087cd7aa21e8"
+  },
+  {
+   "id": "BRD-0454/jim-ramsay-wall-clock-collection",
+   "name": "Jim Ramsay Clock Collection",
+   "url": "https://www.paulinwatches.com/products/jim-ramsay-wall-clock-collection",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Landscape3_a76636a7-7242-460a-9e99-060a43c212cd.png?v=1784562944",
+    "width": 3362,
+    "height": 2241
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Landscape3_a76636a7-7242-460a-9e99-060a43c212cd.png?v=1784562944",
+     "width": 3362,
+     "height": 2241
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Jim.png?v=1736335452",
+     "width": 2967,
+     "height": 2968
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC01842_i_277c2947-d5cb-4c2c-be55-f821a8c180d7.png?v=1691855731",
+     "width": 2909,
+     "height": 1939
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Landscape1_d60ab772-2b74-4cde-a319-c13656b55805.png?v=1691855731",
+     "width": 3362,
+     "height": 2241
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/Landscape2_3e70a9d4-fa0f-4818-beb4-f32fb87cbe78.png?v=1691855731",
+     "width": 3362,
+     "height": 2241
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC01909_i.jpg?v=1691855761",
+     "width": 3194,
+     "height": 2130
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/files/DSC01712_i.png?v=1691855761",
+     "width": 2834,
+     "height": 1889
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/5_005ea1f0-0fdb-4788-8544-d52d9d6f56d6.png?v=1691855731",
+     "width": 2658,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/2_dfbf114b-80e2-428a-b179-25482a41d7e2.png?v=1691855716",
+     "width": 2658,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/3_5b1fd645-46b4-4676-af3f-5b2a82a96162.png?v=1691855683",
+     "width": 2658,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/4_90d5af05-21f9-46d0-8b17-8310de6bc336.png?v=1691855683",
+     "width": 2658,
+     "height": 3543
+    }
+   ],
+   "priceMinor": 37900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Jim Ramsay Clock Collection is a collaboration between Paulin and the artist, Jim Ramsay. Each dial has been individually designed and screen-printed in Jim's studio in the East End of Glasgow. For this series of clock dials, Jim embraced the unpredictable nature of the screen printing process, improvising their layout and allowing glitches and overlaps to inform the outcome. His compositions are familiar but uncanny, drawing from his practice, where landscapes and urban scenes are abstracted into dreamscapes. Each of the five clocks is a one-off and has been signed by the artist. The clock is made from cork and aluminium with a sweeping second hand. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": null,
+   "tags": [
+    "Clock",
+    "Wall clock"
+   ],
+   "options": [
+    {
+     "name": "Dial Edition",
+     "values": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "1",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "1"
+     ]
+    },
+    {
+     "title": "2",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "2"
+     ]
+    },
+    {
+     "title": "3",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "3"
+     ]
+    },
+    {
+     "title": "4",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "4"
+     ]
+    },
+    {
+     "title": "5",
+     "sku": null,
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "5"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 30,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "SKP Sweep",
+    "Battery Type": "1 x AA battery (UK only)",
+    "Glass": "No",
+    "Case": "Cork",
+    "Hands": "Gloss Lacquer on Brass",
+    "Blackplate & Dial": "Aluminium Composite",
+    "Fasteners": "A2 Stainless Steel",
+    "Outer Diameter": "300mm",
+    "Dial Diameter": "270mm",
+    "Thickness": "45mm",
+    "Warranty": "24 months"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0454/homeware",
+    "BRD-0454/fresh-faced",
+    "BRD-0454/things",
+    "BRD-0454/wall-clock"
+   ],
+   "hash": "f14848e5c9dc3cd4"
+  },
+  {
+   "id": "BRD-0454/umbrella",
+   "name": "Umbrella",
+   "url": "https://www.paulinwatches.com/products/umbrella",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/Umbrella-front-on-white_8c0f3d90-87b6-4b11-aec6-e58eaff3b06f.png?v=1660128120",
+    "width": 2800,
+    "height": 2800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/Umbrella-front-on-white_8c0f3d90-87b6-4b11-aec6-e58eaff3b06f.png?v=1660128120",
+     "width": 2800,
+     "height": 2800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/Umbrella-front-on-blue_c4a62f6a-cd92-4080-89c8-9d3a7c276dc5.png?v=1660128120",
+     "width": 2800,
+     "height": 2800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/Umbrella-light-top_ea1535fb-886a-4aaf-bb77-379df2b08993.png?v=1660128120",
+     "width": 2800,
+     "height": 2800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/Umbrella-dark-top.png?v=1660128120",
+     "width": 2800,
+     "height": 2800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0664/2785/products/Pongee-square.png?v=1660128120",
+     "width": 2096,
+     "height": 2096
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "As the summer sunshine fades and the rainier seasons approach, keep yourself dry with our brand new brolly! Showcasing two original designs by Paulin collaborator KFRBS (Katie Forbes), these playful umbrellas will brighten even the gloomiest rainy day. Orders outside the UK will be subject to customs and taxes according to the destination country.",
+   "productType": null,
+   "tags": [
+    "umbrella"
+   ],
+   "options": [
+    {
+     "name": "Version",
+     "values": [
+      "Light",
+      "Dark"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Light",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Light"
+     ]
+    },
+    {
+     "title": "Dark",
+     "sku": null,
+     "priceMinor": 3000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Dark"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:16:20.503Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:16:20.503Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2705d56ec05d7e30"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0454/homeware",
+   "name": "Clocks",
+   "url": "https://www.paulinwatches.com/collections/homeware",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/clocks-and-watches",
+   "name": "Clocks and Watches",
+   "url": "https://www.paulinwatches.com/collections/clocks-and-watches",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/collaborations",
+   "name": "Collaborations",
+   "url": "https://www.paulinwatches.com/collections/collaborations",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/fresh-faced",
+   "name": "Fresh Faced",
+   "url": "https://www.paulinwatches.com/collections/fresh-faced",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/large-modul-automatic",
+   "name": "Large Modul Automatic",
+   "url": "https://www.paulinwatches.com/collections/large-modul-automatic",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/lume",
+   "name": "Lume",
+   "url": "https://www.paulinwatches.com/collections/lume",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/lume-modul",
+   "name": "Lume Modul",
+   "url": "https://www.paulinwatches.com/collections/lume-modul",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/mara",
+   "name": "Mara",
+   "url": "https://www.paulinwatches.com/collections/mara",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/modul-1",
+   "name": "Modul",
+   "url": "https://www.paulinwatches.com/collections/modul-1",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/modul",
+   "name": "Modul Manual",
+   "url": "https://www.paulinwatches.com/collections/modul",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/modul-quartz",
+   "name": "Modul Quartz",
+   "url": "https://www.paulinwatches.com/collections/modul-quartz",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/neo",
+   "name": "Neo",
+   "url": "https://www.paulinwatches.com/collections/neo",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/neo-1",
+   "name": "Neo",
+   "url": "https://www.paulinwatches.com/collections/neo-1",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/neo-gmt",
+   "name": "Neo GMT",
+   "url": "https://www.paulinwatches.com/collections/neo-gmt",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/oh-no-collaboration",
+   "name": "OH no Collaboration",
+   "url": "https://www.paulinwatches.com/collections/oh-no-collaboration",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/oh-no-collaborations",
+   "name": "OH no Collaborations",
+   "url": "https://www.paulinwatches.com/collections/oh-no-collaborations",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/things",
+   "name": "Things",
+   "url": "https://www.paulinwatches.com/collections/things",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0454/wall-clock",
+   "name": "wall clock",
+   "url": "https://www.paulinwatches.com/collections/wall-clock",
+   "description": null,
+   "image": null
+  }
+ ]
+}

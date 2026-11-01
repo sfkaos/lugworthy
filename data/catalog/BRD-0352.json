@@ -1,0 +1,475 @@
+{
+ "brandId": "BRD-0352",
+ "brandName": "Lōcī",
+ "website": "https://www.lociwatch.com",
+ "crawledAt": "2026-11-01T07:44:50.748Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.lociwatch.com/cdn/shop/files/Horiz_SmallShield_White_Large_8cd3fff6-f929-46ff-ac86-53f22db87f9e.png?v=1735347760",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.lociwatch.com/"
+ },
+ "attribution": "Images © Lōcī, from lociwatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0352/pacific-coast-highway-surfrider-beach",
+   "name": "Pacific Coast Highway - Surfrider Beach",
+   "url": "https://www.lociwatch.com/products/pacific-coast-highway-surfrider-beach",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-08_12-40-40_B_R8_S4_mod_lighter_WSR_dcfcdb54-277b-41bd-95de-085bfd168e90.jpg?v=1779372399",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-08_12-40-40_B_R8_S4_mod_lighter_WSR_dcfcdb54-277b-41bd-95de-085bfd168e90.jpg?v=1779372399",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/H6D2022_26509WSR.jpg?v=1776522357",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/H6D2022_26256modWSR.jpg?v=1776522357",
+     "width": 1500,
+     "height": 1510
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2024-01-0218-15-09_B_R8_S4_OEM.jpg?v=1776522357",
+     "width": 1500,
+     "height": 1125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1517-27-21_B_R8_S4_2mod.jpg?v=1776522357",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1413-40-58_B_R8_S4_mod.jpg?v=1776522357",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1420-05-12_B_R8_S4_mod.jpg?v=1776522357",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/Loci_Final_Big_Sur_Caseback_in_Hand_WSR_mod_square.jpg?v=1776521657",
+     "width": 2602,
+     "height": 2602
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1420-23-31_B_R8_S4_mod_79532a21-70f5-4202-8f65-6672f8d9a578.jpg?v=1704382080",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1515-54-59_B_R8_S4_V2mod_ede95a96-c1cf-4826-b3ad-1b2bfeee5eb2.jpg?v=1704382080",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Wear the spirit of the Pacific Coast Highway on your wrist. This watch is built for anything an outing on the world’s most iconic road, or anyplace else, can throw at it. Sporty and durable enough to hit the beach, go for a swim, even catch a few waves (and wipeouts). Compact and comfortable for a long day behind the wheel and taking in the sights. Casual but easily stylish enough for drinks and dinner at the end of the day. Designed in Los Angeles from a clean sheet, every component is precision-machined to our custom design specs. Then each watch is hand assembled, inspected and individually pressure-tested in the USA. So...Are you ready to hit the beach?",
+   "productType": "Watches",
+   "tags": [
+    "Automatic Watches",
+    "Quartz Watches"
+   ],
+   "options": [
+    {
+     "name": "Choose Your Movement Type:",
+     "values": [
+      "Swiss Automatic $895",
+      "Swiss Quartz $595"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Swiss Automatic $895",
+     "sku": null,
+     "priceMinor": 89500,
+     "compareAtMinor": 89500,
+     "available": true,
+     "options": [
+      "Swiss Automatic $895"
+     ]
+    },
+    {
+     "title": "Swiss Quartz $595",
+     "sku": null,
+     "priceMinor": 59500,
+     "compareAtMinor": 59500,
+     "available": true,
+     "options": [
+      "Swiss Quartz $595"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 10.8,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "fkm"
+   },
+   "specsRaw": {
+    "Choose Your Movement Type": "Choose Your Movement Type: Swiss Automatic $895 Swiss Quartz $595",
+    "Warranty": "3 Years",
+    "Dimensions": "Diameter 39.5mm x Total Height 10.8mm x Lug-to-Lug 48mm",
+    "Water Resistance": "100 meters (screw-down crown)",
+    "Case": "316L stainless steel",
+    "Movement (Automatic)": "Swiss-made Sellita SW 200-1 Automatic Winding",
+    "Movement (Quartz)": "Swiss-made Ronda 715 Quartz (5 Jewels)",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Strap": "FKM rubber / Custom-designed / 20mm lug width (tapers to 18mm at buckle) / Quick-release spring bars / Length: 115mm x 80mm",
+    "Lume": "Swiss X1 Grade Super-LumiNova",
+    "Caseback Artwork": "by Christian Schulz",
+    "Packaging": "Minimalistic, 100% recyclable",
+    "Build": "Fully assembled, inspected and individually pressure-tested in the USA"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:44:50.748Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:50.748Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0352/pacific-coast-highway"
+   ],
+   "hash": "d1f4fb5140d8112b"
+  },
+  {
+   "id": "BRD-0352/pacific-coast-highway-monterey-bay",
+   "name": "Pacific Coast Highway - Monterey Bay",
+   "url": "https://www.lociwatch.com/products/pacific-coast-highway-monterey-bay",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-08_16-27-01_B_R8_S4_mod_case_lighter_dial_vibrancy_WSR.jpg?v=1779372566",
+    "width": 2400,
+    "height": 2400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-08_16-27-01_B_R8_S4_mod_case_lighter_dial_vibrancy_WSR.jpg?v=1779372566",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/H6D2022_26508WSR.jpg?v=1776522001",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/H6D_2022_26500_mod_sq_crop_spots_removed_1a3f20fa-2631-4cb2-9a6d-adf087fdabb3.jpg?v=1776522214",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2024-01-0215-25-47_B_R8_S4_OEM.jpg?v=1776522001",
+     "width": 1500,
+     "height": 1125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/Loci_Pacific_Coast_Highway_Review_Live_Shots_Mainspring_9_LR_mod.jpg?v=1776522001",
+     "width": 5326,
+     "height": 3994
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/H6D2022_26257modWSR.jpg?v=1776522001",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/Loci_PacificCoastHighway_Review_LiveShots_Mainspring_7_LRmod.jpg?v=1776522001",
+     "width": 4253,
+     "height": 3190
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/Loci_Final_Big_Sur_Caseback_in_Hand_WSR_mod_square.jpg?v=1776521657",
+     "width": 2602,
+     "height": 2602
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1420-23-31_B_R8_S4_mod_d9b4642b-c614-4c64-ba67-da838f050328.jpg?v=1776522001",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1515-54-59_B_R8_S4_V2mod_3f396cbc-8667-466e-8f90-1beb5bad6864.jpg?v=1776522001",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1419-48-37_B_R8_S4_mod.jpg?v=1776522001",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1414-23-43_B_R8_S4_mod.jpg?v=1776522001",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Wear the spirit of the Pacific Coast Highway on your wrist. This watch is built for anything an outing on the world’s most iconic road, or anyplace else, can throw at it. Sporty and durable enough to hit the beach, go for a swim, even catch a few waves (and wipeouts). Compact and comfortable for a long day behind the wheel and taking in the sights. Casual but easily stylish enough for drinks and dinner at the end of the day. Designed in Los Angeles from a clean sheet, every component is precision-machined to our custom design specs. Then each watch is hand assembled, inspected and individually pressure-tested in the USA. So...Are you ready to dive in?",
+   "productType": "Watches",
+   "tags": [
+    "Automatic Watches",
+    "Quartz Watches"
+   ],
+   "options": [
+    {
+     "name": "Choose Your Movement Type:",
+     "values": [
+      "Swiss Automatic $895",
+      "Swiss Quartz $595"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Swiss Automatic $895",
+     "sku": null,
+     "priceMinor": 89500,
+     "compareAtMinor": 89500,
+     "available": true,
+     "options": [
+      "Swiss Automatic $895"
+     ]
+    },
+    {
+     "title": "Swiss Quartz $595",
+     "sku": null,
+     "priceMinor": 59500,
+     "compareAtMinor": 59500,
+     "available": true,
+     "options": [
+      "Swiss Quartz $595"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 10.8,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "fkm"
+   },
+   "specsRaw": {
+    "Choose Your Movement Type": "Choose Your Movement Type: Swiss Automatic $895 Swiss Quartz $595",
+    "Warranty": "3 Years",
+    "Dimensions": "Diameter 39.5mm x Total Height 10.8mm x Lug-to-Lug 48mm",
+    "Water Resistance": "100 meters (screw-down crown)",
+    "Case": "316L stainless steel",
+    "Movement (Automatic)": "Swiss-made Sellita SW 200-1 Automatic Winding",
+    "Movement (Quartz)": "Swiss-made Ronda 715 Quartz (5 Jewels)",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Strap": "FKM rubber / Custom-designed / 20mm lug width (tapers to 18mm at buckle) / Quick-release spring bars / Length: 115mm x 80mm",
+    "Lume": "Swiss X1 Grade Super-LumiNova",
+    "Caseback Artwork": "by Christian Schulz",
+    "Packaging": "Minimalistic, 100% recyclable",
+    "Build": "Fully assembled, inspected and individually pressure-tested in the USA"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:44:50.748Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:50.748Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0352/pacific-coast-highway"
+   ],
+   "hash": "ca9b36b66524d9c3"
+  },
+  {
+   "id": "BRD-0352/pacific-coast-highway-big-sur",
+   "name": "Pacific Coast Highway - Big Sur",
+   "url": "https://www.lociwatch.com/products/pacific-coast-highway-big-sur",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-08_16-39-57_B_R8_S4_mod_lighter_WSR.jpg?v=1779372675",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-08_16-39-57_B_R8_S4_mod_lighter_WSR.jpg?v=1779372675",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/H6D2022_26517WSR.jpg?v=1776521610",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2024-01-0220-27-28_B_R8_S4_OEM.jpg?v=1776521610",
+     "width": 1500,
+     "height": 1125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-2114-56-07_B_R8_S4_mod.jpg?v=1776521610",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/H6D2022_26258modWSR.jpg?v=1776521610",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/Loci_Final_Big_Sur_Pocket_WSR_mod_square.jpg?v=1776521657",
+     "width": 2832,
+     "height": 2832
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/Loci_Final_Big_Sur_Caseback_in_Hand_WSR_mod_square.jpg?v=1776521657",
+     "width": 2602,
+     "height": 2602
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1420-23-31_B_R8_S4_mod.jpg?v=1776521610",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1419-38-51_B_R8_S4_mod.jpg?v=1776521610",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1415-12-53_B_R8_S4_mod.jpg?v=1776521610",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0579/9454/3289/files/2023-12-1515-54-59_B_R8_S4_V2mod.jpg?v=1720621676",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Wear the spirit of the Pacific Coast Highway on your wrist. This watch is built for anything an outing on the world’s most iconic road, or anyplace else, can throw at it. Sporty and durable enough to hit the beach, go for a swim, even catch a few waves (and wipeouts). Compact and comfortable for a long day behind the wheel and taking in the sights. Casual but easily stylish enough for drinks and dinner at the end of the day. Designed in Los Angeles from a clean sheet, every component is precision-machined to our custom design specs. Then each watch is hand assembled, inspected and individually pressure-tested in the USA. So...Are you ready to hit the road?",
+   "productType": "Watches",
+   "tags": [
+    "Automatic Watches",
+    "Quartz Watches"
+   ],
+   "options": [
+    {
+     "name": "Choose Your Movement Type:",
+     "values": [
+      "Swiss Automatic $895",
+      "Swiss Quartz $595"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Swiss Automatic $895",
+     "sku": null,
+     "priceMinor": 89500,
+     "compareAtMinor": 89500,
+     "available": true,
+     "options": [
+      "Swiss Automatic $895"
+     ]
+    },
+    {
+     "title": "Swiss Quartz $595",
+     "sku": null,
+     "priceMinor": 59500,
+     "compareAtMinor": 59500,
+     "available": true,
+     "options": [
+      "Swiss Quartz $595"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 10.8,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "fkm"
+   },
+   "specsRaw": {
+    "Choose Your Movement Type": "Choose Your Movement Type: Swiss Automatic $895 Swiss Quartz $595",
+    "Warranty": "3 Years",
+    "Dimensions": "Diameter 39.5mm x Total Height 10.8mm x Lug-to-Lug 48mm",
+    "Water Resistance": "100 meters (screw-down crown)",
+    "Case": "316L stainless steel",
+    "Movement (Automatic)": "Swiss-made Sellita SW 200-1 (26 Jewels)",
+    "Movement (Quartz)": "Swiss-made Ronda 715 (5 Jewels)",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Strap": "FKM rubber / Custom-designed / 20mm lug width (tapers to 18mm at buckle) / Quick-release spring bars / Length: 115mm x 80mm",
+    "Lume": "Swiss X1 Grade Super-LumiNova",
+    "Caseback Artwork": "by Christian Schulz",
+    "Packaging": "Minimalistic, 100% recyclable",
+    "Build": "Fully assembled, inspected and individually pressure-tested in the USA"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:44:50.748Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:50.748Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0352/pacific-coast-highway"
+   ],
+   "hash": "b360bb0511a9623a"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0352/pacific-coast-highway",
+   "name": "The Pacific Coast Highway Collection",
+   "url": "https://www.lociwatch.com/collections/pacific-coast-highway",
+   "description": null,
+   "image": null
+  }
+ ]
+}

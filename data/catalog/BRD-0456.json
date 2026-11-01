@@ -1,0 +1,527 @@
+{
+ "brandId": "BRD-0456",
+ "brandName": "Pedral",
+ "website": "https://www.pedral.eu",
+ "crawledAt": "2026-11-01T08:17:10.781Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.pedral.eu/_next/image?url=%2Flogo.png&q=75&dpl=dpl_6Y3Px8FeRbFAmBjX8rJjxU3CLggp",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.pedral.eu/"
+ },
+ "attribution": "Images © Pedral, from pedral.eu",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0456/contour",
+   "name": "Pedral Contour",
+   "url": "https://www.pedral.eu/collections/contour",
+   "image": {
+    "url": "https://www.pedral.eu/images/contour-aurum-product-v2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.pedral.eu/images/contour-aurum-product-v2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 89500,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Contour doesn't sit on the wrist. It wraps it. Hundreds of articulated links move like fabric, finished with the care of a fine bracelet and shaped to form one continuous line from clasp to dial. Something meant to be touched as much as read.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.9,
+    "waterResistanceM": 50,
+    "caliber": "Ronda 1063",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Price": "€895 quartz · €1,000 Aurum · €1,950 hand-wound",
+    "Movement": "Ronda 1063, Swiss-made quartz — or ETA 7001, Swiss hand-wound, 2.5mm calibre height",
+    "Case": "35mm · 6.9mm thin · fully integrated scale-bracelet construction · 316L stainless steel (Aurum: gold-plated 316L stainless steel)",
+    "Dial": "Quartz: Aurum, natural lapis lazuli flecked with gold pyrite, no two dials alike. Hand-Wound: Onyx — a single sheet of genuine black onyx stone, cut in the same squarcle silhouette.",
+    "Bracelet": "Fully integrated, hundreds of brushed scales, no visible lugs",
+    "Crystal": "Sapphire",
+    "Water Resist.": "5 ATM / 50 meters",
+    "Edition": "Third drop · Nacre now fully allocated. Aurum and Onyx carry over from the second drop. The 39mm dials continue as Silhouette.",
+    "Also available": "Hand-Wound — €1,950",
+    "Selected": "Quartz · Nacre",
+    "The larger 39mm case is now its own watch": "Silhouette — the same integrated idea in a new proportion, on the Nyoka weave bracelet.",
+    "Read": "Contour: Three Drops, One Instinct"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:10.781Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:10.781Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0456/collections",
+    "BRD-0456/maestro",
+    "BRD-0456/triomphe",
+    "BRD-0456/okapi"
+   ],
+   "hash": "275ae3cc9417e120"
+  },
+  {
+   "id": "BRD-0456/maestro",
+   "name": "Pedral Maestro",
+   "url": "https://www.pedral.eu/collections/maestro",
+   "image": {
+    "url": "https://www.pedral.eu/images/maestro-ps-solaire-2.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.pedral.eu/images/maestro-ps-solaire-2.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "At 37mm, the monobloc tonneau case and fluted bezel frame the dial. A detail most will pass over. The same architecture comes in two expressions: the classic Maestro, with a textured sunburst dial, lumed Roman numerals and central seconds — and the Petite Seconde, with a guilloché dial, proprietary Roman numerals and a subsidiary seconds at six o'clock.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 47.5,
+    "thicknessMm": 9.8,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "Classic dials: Sellita SW200-1b · Petite Seconde: Sellita SW260 with small seconds · Swiss automatic · 38-hour power reserve",
+    "Case": "37mm tonneau · 9.8mm slim · 47.5mm lug-to-lug · 316L stainless steel · HV1200 scratch-resistant coating",
+    "Dial": "Lapis No.1: sunburst guilloché, Roman numerals, central seconds · Soul Blue & Aura Gold (Petite Seconde): guilloché, proprietary Roman numerals, small seconds at 6 o'clock",
+    "Crystal": "Sapphire front & back · 5× internal AR coating · scratch-resistant",
+    "Bracelet": "Integrated hexagonal links · 22.5mm at lugs, tapers to 18mm · HV1200 coating · quick-release",
+    "Strap": "Customised Epsom leather strap included · 20mm",
+    "Lume": "Swiss Super-LumiNova® BGW9 on hands and indices (classic dials)",
+    "Water Resist.": "100 meters / 330 feet",
+    "Warranty": "24-month international coverage",
+    "Edition": "Limited per dial · Each piece individually numbered · Never reissued",
+    "VAT": "Included for EU orders · Duties and taxes outside EU not included",
+    "Also available": "Aura Gold — €1,600 Lapis No.1 — €1,450",
+    "Selected": "Soul Blue",
+    "Read": "Watches and Art: Best of Both Worlds — The Boris Pjanić Capsule"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:10.781Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:10.781Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0456/collections",
+    "BRD-0456/contour",
+    "BRD-0456/etiquette",
+    "BRD-0456/triomphe",
+    "BRD-0456/silhouette",
+    "BRD-0456/okapi",
+    "BRD-0456/contour-seconds-society"
+   ],
+   "hash": "ae4fb6a3117926aa"
+  },
+  {
+   "id": "BRD-0456/silhouette",
+   "name": "Pedral Silhouette",
+   "url": "https://www.pedral.eu/collections/silhouette",
+   "image": {
+    "url": "https://www.pedral.eu/images/silhouette-ophion-v1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.pedral.eu/images/silhouette-ophion-v1.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 150000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Silhouette carries the same idea as Contour: a case and bracelet built as one continuous form, with no break in the line from lug to crown. Here it comes in a new proportion and a new weave. 39mm in diameter and 47.5mm lug to lug, it has a larger, more present footprint than Contour, and at 7.3mm thin the slimness that defines the line carries over. Built in 316L stainless steel, with the same integrated collar fusing case to bracelet.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 47.5,
+    "thicknessMm": 7.3,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9015",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Price": "Ophion: €1,500 Japanese · €2,200 Swiss · €2,200 Aventurine · €5,000 Ituri (fully allocated)",
+    "Movement": "Hand-wound · Swiss: La Joux-Perret LJP D101, 50-hour power reserve · Japanese (Ophion only): Miyota 9015 converted by Pedral from automatic to hand-winding",
+    "Case": "39mm · 47.5mm lug to lug · 7.3mm thin · 316L stainless steel (Ituri: gold-plated) · integrated collar fusing case to bracelet",
+    "Bracelet": "Integrated, Nyoka weave",
+    "Dial": "Ophion (purple): the Nyoka weave carried across the dial, pressed in real raised and recessed relief with a sunburst finish, no indices, no logo · Aventurine: natural stone with hand-set moissanite baguette indices · Ituri: hand-fired gold cloisonné enamel carrying the Okapi motif",
+    "Crystal": "Sapphire",
+    "Caseback": "Sapphire display caseback",
+    "Water Resist.": "5 ATM / 50 meters",
+    "Warranty": "24-month international coverage",
+    "Also available": "Aventurine — €2,200",
+    "Selected": "Ophion · Japanese Hand-Wound",
+    "Read": "Contour: Three Drops, One Instinct"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:10.781Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:10.781Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0456/collections"
+   ],
+   "hash": "b7b7217caca245dc"
+  },
+  {
+   "id": "BRD-0456/triomphe",
+   "name": "Pedral Triomphe",
+   "url": "https://www.pedral.eu/collections/triomphe",
+   "image": {
+    "url": "https://www.pedral.eu/images/triomphe-saphir-roman.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.pedral.eu/images/triomphe-saphir-roman.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 175000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Triomphe is a single architecture, expressed through an evolving series of dial editions. 38mm wide, 8.8mm thin. Each release is limited, allocation-based, and built for those who know exactly what they want.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 38,
+    "thicknessMm": 8.8,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW210",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Movement": "Sellita SW210-1B · Swiss hand-wound · Regulated ±5 s/day in 5 positions",
+    "Case": "38mm · 8.8mm thin · 38mm lug-to-lug · 316L marine-grade steel · 50m / 164ft",
+    "Dial": "Multi-layer guilloché (Carreau Tissé · sauté piqué · Vagues de Lumière) or natural stone, edition-dependent",
+    "Crystal": "Sapphire with Super-AR coating",
+    "Strap": "Hand-stitched Epsom leather · 20mm quick-swap",
+    "Hands": "Diamond-cut · Applied Roman numerals · Hebrew & Eastern Arabic numerals available made to order",
+    "Edition": "20 pieces per dial variant · Never reissued · By allocation",
+    "Selected": "Saphir Azur · Roman",
+    "Two dial expressions. The guilloché": "Carreau Tissé centre, satinée circulaire and sauté piqué borders, Vagues de Lumière moiré frame. Three recessed rings reference the Arc de Triomphe. The stone dial: each one unrepeatable. When an edition closes, it closes.",
+    "Read": "Three Scripts, One Watch: Why the Triomphee Speaks in Roman, Hebrew and Eastern Arabic"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:10.781Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:10.781Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0456/collections",
+    "BRD-0456/contour",
+    "BRD-0456/etiquette",
+    "BRD-0456/maestro",
+    "BRD-0456/silhouette",
+    "BRD-0456/okapi",
+    "BRD-0456/contour-seconds-society"
+   ],
+   "hash": "c695ac8d23555e1c"
+  },
+  {
+   "id": "BRD-0456/etiquette",
+   "name": "Pedral Étiquette",
+   "url": "https://www.pedral.eu/collections/etiquette",
+   "image": {
+    "url": "https://www.pedral.eu/images/etiquette-soiree-gold.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.pedral.eu/images/etiquette-soiree-gold.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 180000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "There are certain rules in watchmaking. Rules of proportion, symmetry, restraint and good taste. Étiquette acknowledges them — then politely ignores a few. Drawing from the architectural elegance of the Art Deco era, it reimagines the rectangular dress watch through exaggerated proportions, sculptural detailing and a healthy disregard for convention. At 27 × 43.7 mm, built on the golden ratio, and 6.9–7.3 mm thick (preliminary), its silhouette is deliberately unconventional: slim, elegant and slightly eccentric.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "multi",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Price": "€1,800",
+    "Movement": "La Joux-Perret LJP D101 · Swiss hand-wound · Hours and minutes · 50-hour power reserve",
+    "Case": "27 × 43.7mm · Golden ratio proportions · 6.9–7.3mm thick (preliminary) · Curved to follow the wrist · Subtly asymmetrical rectangle · 316L stainless steel",
+    "Case Detail": "Concentric CNC-machined grooves · Brushed surfaces, polished bevels",
+    "Dial": "Pedral signature inner dial frame · Soirée (black onyx, gold numerals) and Bourgogne: custom distorted Roman numerals · Nocturne (black onyx) and Ambiance: musical-note indices · Famille Royale (Royal Aubergine lacquer, champagne-gold numerals) reserved for existing owners",
+    "Hands": "Polished dress-watch hands",
+    "Crown": "Pedral signature geodesic crown",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Caseback": "Solid stainless steel",
+    "Water Resist.": "5 ATM / 50 metres",
+    "Strap": "Premium leather, lizard-pattern or Epsom · 20mm tapering to 18mm · Custom-fitted concealed lugs · Polished pin buckle",
+    "Status": "Pre-order · Estimated delivery late Q1 / early Q2 2027, in order of purchase · Final specifications subject to prototype development",
+    "Also available": "Bourgogne — €1,800 Nocturne — €1,800 Ambiance — €1,800",
+    "Estimated delivery": "late Q1 / early Q2 2027 · Delivered in order of purchase"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:10.781Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:10.781Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0456/collections"
+   ],
+   "hash": "78e61dfbe690823a"
+  },
+  {
+   "id": "BRD-0456/okapi",
+   "name": "Pedral Okapi Classique",
+   "url": "https://www.pedral.eu/collections/okapi",
+   "image": {
+    "url": "https://www.pedral.eu/images/okapi-classique.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.pedral.eu/images/okapi-classique.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 280000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Okapi is defined by balance and restraint. Its 37mm cushion case combines rounded contours with precise architectural lines — a silhouette that reads as neither vintage nor modern. The watch that began the studio.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 47,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "ETA 7001",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "ETA 7001 or La Joux-Perret LJP7380 · Swiss hand-wound · La Chaux-de-Fonds manufacture · Choice of calibre at reservation",
+    "Case": "37mm cushion-shaped · 7mm thin · 47mm lug-to-lug · 18mm lug width · 316L stainless steel · HV1200 scratch-resistant coating",
+    "Dial": "Deep blue frosted finish · Coin-edge fluted flange · Guilloché small seconds at 6 o'clock",
+    "Chapter Ring": "Slim steel with fine lacquer-filled markings",
+    "Hands": "Slender, spear-shaped. Clarity without excess.",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Water Resist.": "5 ATM / 50 meters",
+    "Strap": "18mm quick-release leather with butterfly clasp · Integrated steel bracelet option",
+    "Caseback": "Engraved \"Designed in Sweden\" · Sapphire exhibition window",
+    "Edition": "20 pieces · First run · Allocation-based · 3–6 months delivery",
+    "Read": "The Okapi Returns: Reimagining the Watch That Started Everything"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:17:10.781Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:17:10.781Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0456/collections",
+    "BRD-0456/contour",
+    "BRD-0456/etiquette",
+    "BRD-0456/maestro",
+    "BRD-0456/triomphe",
+    "BRD-0456/silhouette",
+    "BRD-0456/contour-seconds-society"
+   ],
+   "hash": "661f183680c94391"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0456/collections",
+   "name": "Six watches. One designer.",
+   "url": "https://www.pedral.eu/collections",
+   "description": "Explore all Pedral watch collections — Contour, Silhouette, Maestro, Triomphe, Okapi Classique, and the new Étiquette. Six watches. One independent designer. Worn in 30+ countries.",
+   "image": {
+    "url": "https://www.pedral.eu/images/maestro.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0456/contour",
+   "name": "Contour",
+   "url": "https://www.pedral.eu/collections/contour",
+   "description": "Contour: a 35mm, 6.9mm integrated-bracelet watch. €895 quartz, €1,000 Aurum, €1,950 hand-wound Onyx. Stockholm-designed. Third drop now available.",
+   "image": {
+    "url": "https://www.pedral.eu/images/contour-aurum-product-v2.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0456/etiquette",
+   "name": "Étiquette",
+   "url": "https://www.pedral.eu/collections/etiquette",
+   "description": "Étiquette: a 27 × 43.7mm golden-ratio rectangular dress watch, 6.9–7.3mm (preliminary), with concentric CNC-machined grooves and custom distorted Roman numerals. Swiss hand-wound LJP D101, €1,800. Pre-order now.",
+   "image": {
+    "url": "https://www.pedral.eu/images/etiquette-soiree-gold.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0456/maestro",
+   "name": "Maestro",
+   "url": "https://www.pedral.eu/collections/maestro",
+   "description": "A 37mm tonneau dress watch with a Sellita Swiss automatic movement — central seconds from €1,450, or the Petite Seconde with small seconds at €1,600. Stockholm-designed by an independent Swedish maker. No restocks.",
+   "image": {
+    "url": "https://www.pedral.eu/images/maestro-ps-solaire-2.png",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0456/triomphe",
+   "name": "Triomphe",
+   "url": "https://www.pedral.eu/collections/triomphe",
+   "description": "An 8.8mm ultra-thin dress watch with a Sellita Swiss hand-wound movement. Stockholm-designed by an independent Swedish maker. Editions of 20, no restocks.",
+   "image": {
+    "url": "https://www.pedral.eu/images/triomphe-saphir-roman.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0456/silhouette",
+   "name": "Silhouette",
+   "url": "https://www.pedral.eu/collections/silhouette",
+   "description": "Silhouette: a 39mm integrated-bracelet watch on the Nyoka weave, 7.3mm thin. New woven dial Ophion, hand-wound — Japanese €1,500, Swiss LJP D101 €2,200. Aventurine with hand-set moissanite, €2,200. Stockholm-designed.",
+   "image": {
+    "url": "https://www.pedral.eu/images/silhouette-ophion-v1.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0456/okapi",
+   "name": "Okapi Classique",
+   "url": "https://www.pedral.eu/collections/okapi",
+   "description": "A 37mm cushion dress watch. ETA 7001 or La Joux-Perret LJP7380 Swiss hand-wound. Stockholm-designed, independent Swedish maker. Edition of 20.",
+   "image": {
+    "url": "https://www.pedral.eu/images/okapi-classique.png",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0456/contour-seconds-society",
+   "name": "Contour × Seconds Society",
+   "url": "https://www.pedral.eu/collections/contour-seconds-society",
+   "description": "A 15-piece capsule collaboration with Seconds Society. Contour's integrated-bracelet quartz platform in a Sodalite dial. €895. Stockholm-designed.",
+   "image": {
+    "url": "https://www.pedral.eu/images/contour-seconds-society-sodalite.jpg",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

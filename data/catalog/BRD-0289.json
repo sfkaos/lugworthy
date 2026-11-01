@@ -1,0 +1,285 @@
+{
+ "brandId": "BRD-0289",
+ "brandName": "Holthinrichs Watches",
+ "website": "https://holthinrichs.com",
+ "crawledAt": "2026-11-01T07:29:28.318Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://holthinrichs.com/themes/holthin2027/images/logo/holthinrichswatches-logo-white.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://holthinrichs.com/"
+ },
+ "attribution": "Images © Holthinrichs Watches, from holthinrichs.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0289/lab-series-1-s",
+   "name": "Holthinrichs",
+   "url": "https://holthinrichs.com/collection/lab-series-1-s-1-gmt/lab-series-1-s/",
+   "image": {
+    "url": "https://holthinrichs.com/media/holthin2027/images/holthin_product_combinations_generated/originals/20260317-lab-series-1-s-gmt-lab-series-1-s-ls-1s-dial-defau-260307-carlfriedverwaayen-holthinrichs-packshot-la-260317-043520.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://holthinrichs.com/media/holthin2027/images/holthin_product_combinations_generated/originals/20260317-lab-series-1-s-gmt-lab-series-1-s-ls-1s-dial-defau-260307-carlfriedverwaayen-holthinrichs-packshot-la-260317-043520.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://holthinrichs.com/media/holthin2027/images/holthin_product_combinations_generated/originals/20260317-lab-series-1-s-gmt-lab-series-1-s-ls-1s-dial-defau-260307-carlfriedverwaayen-holthinrichs-sl1s-2a-def.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://holthinrichs.com/media/holthin2027/images/holthin_products/originals/20260708-lab-series-1-s-gmt-lab-series-1-s-1-gmt-pack-combo.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 590000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "The LAB Series 1.S features a Sub Second Patina Dial and is crafted from 3D printed titanium grade 5 with a blend of hand-finished and raw surfaces. This timepiece has a case diameter of 38.5 mm and a thickness of 9.85 mm. It features an in-house made domed copper-oxide patina dial and is powered by the Sellita SW360 movement with top-grade finishing. The strap is made from cognac Rooster feet leather. Limited to 100 pieces.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38.5,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 7.8,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW360",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Titanium grade 5 - 3D printed",
+    "Finish": "Selectively hand-finished brushing contrasted by raw & polished surfaces",
+    "Measurements": "Diameter38.5 mmThickness7.8 mmThickness including crystal9.85 mmLug-to-lug46 mm",
+    "Finishing": "Top grade featuring our own hand-carved and heat-treated rotor",
+    "Buckle": "Holthinrichs Titanium Grade 5 buckle and pin",
+    "Leadtime": "Completed in small batches until the end of 2026",
+    "LAB Series 1.GMT": "Available"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:29:28.318Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:29:28.318Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0289/collection",
+    "BRD-0289/lab-series-1-gmt"
+   ],
+   "hash": "bfad07a23e7e2e83"
+  },
+  {
+   "id": "BRD-0289/black-rhodium",
+   "name": "Signature Ornament / Signature Domed / Signature Black Rhodium",
+   "url": "https://holthinrichs.com/collection/signature-ornament/black-rhodium/",
+   "image": {
+    "url": "https://holthinrichs.com/media/holthin2027/images/holthin_product_combinations_generated/originals/20260317-signature-ornament-signature-domed-signature-black-260307-carlfriedverwaayen-holthinrichs-packshot-si.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://holthinrichs.com/media/holthin2027/images/holthin_product_combinations_generated/originals/20260317-signature-ornament-signature-domed-signature-black-260307-carlfriedverwaayen-holthinrichs-packshot-si.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://holthinrichs.com/media/holthin2027/images/holthin_products/originals/20260708-signature-ornament-260307-carlfriedverwaayen-holthinrichs-packshot-si.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 375000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Signature lines by Holthinrichs. Distinct design, where expressive curves and sharp angles result in refined contemporary elegance.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38.5,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 7.8,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW300-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": null,
+    "dialColor": "white",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Titanium Grade 5",
+    "Finish": "Contrasting raw, satin-brushed and polished finishes. Brand signature integrated in the crown of the watch",
+    "Measurements": "Diameter38.5mmThickness7.8mmThickness including crystal9.85mmLug-to-lug46mm",
+    "Dial design": "White pad-printed stripes",
+    "Shape": "SIGNATURE shape",
+    "Caliber": "Modified Sellita SW300",
+    "Plating": "White rhodium",
+    "Finishing": "Top grade finish with custom rotor 18k rose gold plated, brushing, frosting and high-gloss chamfers",
+    "Leadtime": "Expected delivery within 4 months. You will be contacted before delivery to coordinate your shipment.",
+    "White Rhodium": "To be restocked"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:29:28.318Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:29:28.318Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0289/collection",
+    "BRD-0289/white-rhodium",
+    "BRD-0289/14k-pale-gold",
+    "BRD-0289/18k-rose-gold"
+   ],
+   "hash": "9cc195a594bef688"
+  },
+  {
+   "id": "BRD-0289/white-ceramic-delft-blue-breguet",
+   "name": "SIGNATURE Ornament Delft Blue Breguet - White Ceramic Delft Blue Breguet",
+   "url": "https://holthinrichs.com/collection/signature-delft-blue/white-ceramic-delft-blue-breguet/",
+   "image": {
+    "url": "https://holthinrichs.com/media/holthin2027/images/holthin_product_combinations_generated/originals/20260317-signature-ornament-delft-blue-signature-delft-blue-260307-carlfriedverwaayen-holthinrichs-packshot-si.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://holthinrichs.com/media/holthin2027/images/holthin_product_combinations_generated/originals/20260317-signature-ornament-delft-blue-signature-delft-blue-260307-carlfriedverwaayen-holthinrichs-packshot-si.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://holthinrichs.com/media/holthin2027/images/holthin_products/originals/20260708-signature-ornament-delft-blue-260307-carlfriedverwaayen-holthinrichs-packshot-si.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 399000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "The Dutch city of Delft is world famous for being the birthplace of painter Johannes Vermeer, refined hand-painted Delft Blue pottery, and the renowned Delft University of Technology, which is now widely praised for its focus on engineering, product design and architecture. If that is not enough, the town also has a strong historical link to our royal family, being the stronghold for William 1 of Orange during the Eighty Years War. From here, he led the Dutch uprising against Carl V of Spain. This eventually led to our independence in 1648. Ever since, all royal family members are buried in the New Church on the market square in the city center of Delft.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38.5,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 7.8,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW300-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr5",
+    "crystal": null,
+    "dialColor": "blue",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Material": "Titanium Grade 5",
+    "Finish": "Contrasting raw, satin-brushed and polished finishes. Brand signature integrated in the crown of the watch",
+    "Measurements": "Diameter38.5mmThickness7.8mmThickness including crystal9.85mmLug-to-lug46mm",
+    "Dial design": "Our Breguet-inspired numerals pad-printed in Delft Blue ink",
+    "Shape": "SIGNATURE shape",
+    "Caliber": "Modified Sellita SW300",
+    "Plating": "White rhodium",
+    "Finishing": "Top grade finish with custom rotor 18k rose gold plated, brushing, frosting and high-gloss chamfers",
+    "Buckle": "Titanium Holthinrichs buckle and pin",
+    "Leadtime": "Made on request in 3-4 months"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:29:28.318Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:29:28.318Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0289/collection"
+   ],
+   "hash": "4cf921fdecb9f613"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0289/collection",
+   "name": "Holthinrichs Collection",
+   "url": "https://holthinrichs.com/collection/",
+   "description": "Discover the collection of different model timepieces handmade by Holthinrichs.",
+   "image": null
+  },
+  {
+   "id": "BRD-0289/lab-series-1-gmt",
+   "name": "LAB Series 1.S & 1.GMT",
+   "url": "https://holthinrichs.com/collection/lab-series-1-s-1-gmt/lab-series-1-gmt/",
+   "description": "At the end of this year we are celebrating our 10 year anniversary! With these two new LAB Series we are already kicking off the celebrations with the return of the Sub Second dial, and far-going, expressive patina in honour of Horlogerie Brut.",
+   "image": {
+    "url": "https://holthinrichs.com/holthin2027/images/holthin_product_combinations_generated/20260324-holthinrichs-lab-series-1-gmt-260307-carlfriedverwaayen-holthinrichs-packshot-la.png?ts=261101",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0289/white-rhodium",
+   "name": "SIGNATURE ORNAMENT",
+   "url": "https://holthinrichs.com/collection/signature-ornament/white-rhodium/",
+   "description": "Signature lines by Holthinrichs. Distinct design, where expressive curves and sharp angles result in refined contemporary elegance.",
+   "image": {
+    "url": "https://holthinrichs.com/holthin2027/images/holthin_product_combinations_generated/20260317-signature-ornament-signature-domed-signature-white-260307-carlfriedverwaayen-holthinrichs-packshot-si.png?ts=261101",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0289/14k-pale-gold",
+   "name": "SIGNATURE ORNAMENT",
+   "url": "https://holthinrichs.com/collection/signature-ornament/14k-pale-gold/",
+   "description": "Signature lines by Holthinrichs. Distinct design, where expressive curves and sharp angles result in refined contemporary elegance.",
+   "image": {
+    "url": "https://holthinrichs.com/holthin2027/images/holthin_product_combinations_generated/20260317-signature-ornament-signature-domed-signature-14k-p-260307-carlfriedverwaayen-holthinrichs-packshot-si.png?ts=261101",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0289/18k-rose-gold",
+   "name": "SIGNATURE ORNAMENT",
+   "url": "https://holthinrichs.com/collection/signature-ornament/18k-rose-gold/",
+   "description": "Signature lines by Holthinrichs. Distinct design, where expressive curves and sharp angles result in refined contemporary elegance.",
+   "image": {
+    "url": "https://holthinrichs.com/holthin2027/images/holthin_product_combinations_generated/20260317-signature-ornament-signature-domed-signature-18k-r-260307-carlfriedverwaayen-holthinrichs-packshot-si.png?ts=261101",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

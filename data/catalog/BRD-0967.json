@@ -1,0 +1,1049 @@
+{
+ "brandId": "BRD-0967",
+ "brandName": "Halda Watch Company",
+ "website": "https://www.haldawatches.com",
+ "crawledAt": "2026-11-01T07:23:56.516Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://www.haldawatches.com/wp-content/uploads/2019/08/Halda-1-black.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.haldawatches.com/"
+ },
+ "attribution": "Images © Halda Watch Company, from haldawatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0967/henning-xo",
+   "name": "HENNING XO",
+   "url": "https://www.haldawatches.com/product/henning-xo/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2023/09/1920S-XO-03-LB.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2023/09/1920S-XO-03-LB.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2023/09/Case-back-1920S-XO-03-LB.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 4550000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Halda Henning XO measures 40 mm in diameter and is made entirely in 18K solid gold with the tone of Swedish red gold, just like the old pocket watches. This timepiece will be produced in a limited edition of only 10 pieces and comes with an oak bark tanned leather bracelet from Böle Garveri – Handmade in Sweden. The movement was made in Sweden more than 100 years ago at the end of the 19th century. It has been further developed by today’s watchmakers at Halda Watch Co. A new bridge has been designed and decorated and new gearwheels have been made from scratch. All this in order to move the small second hand so that the winding stem and crown is on the right side like a traditional wristwatch. PLEASE NOTE: This timepiece is made to order upon your request, delivery time may vary. Contact info@haldasweden.com for more information.",
+   "productType": "Henning",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "PLEASE NOTE": "This timepiece is made to order upon your request, delivery time may vary. Contact info@haldasweden.com for more information."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/henning"
+   ],
+   "hash": "d606267f0b9bd015"
+  },
+  {
+   "id": "BRD-0967/race-pilot-octane-black",
+   "name": "RACE PILOT | OCTANE BLACK",
+   "url": "https://www.haldawatches.com/product/race-pilot-octane-black/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2022/06/RPM-06-TD-02-RS.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2022/06/RPM-06-TD-02-RS.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2022/06/Case-back-RP-Mech-DLC-black.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2022/06/Side-RP-Mech-DLC-black.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 981000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Limited edition of 25 pieces. Octane Black features a self-winding movement from ZENITH with date, sub-second and power reserve indicator. The 45mm case is processed out of titanium and finished with a black DLC coating. It is built to withstand a pressure equivalent to 10 ATM (100 meters). The Octane Black dial is made from 20 individually manufactured pieces carefully applied on a base of carbon fiber. For visual functionality, indexes and the tips of the hands are highlighted with Superluminova. The watch is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform in black DLC and a strap in natural rubber.",
+   "productType": "Race Pilot Black and White",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/race-pilot-black-white"
+   ],
+   "hash": "686af86b50fee93c"
+  },
+  {
+   "id": "BRD-0967/race-pilot-gold-gold-bezel",
+   "name": "RACE PILOT GOLD | GOLD BEZEL",
+   "url": "https://www.haldawatches.com/product/race-pilot-gold-gold-bezel/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/11/RP-II-Mech-Gold-Gold-bezel.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/11/RP-II-Mech-Gold-Gold-bezel.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-RP-Mech-Rose-Gold-kopia.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2021/08/Side-shot-Ruby-gold.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3525000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Halda Race Pilot features a self-winding movement from ZENITH with date, sub-second and power reserve indicator. Its platform and bezel are handcrafted in solid 18K gold and the 45mm case is processed out of titanium and finished with a black DLC coating. It is built to withstand a pressure equivalent to 10 ATM (100 meters). The Race Pilot Gold dial with gold hands and indexes is made from 20 individually manufactured pieces carefully applied on a base of carbon fiber. For visual functionality, indexes and the tips of the hands are highlighted with Superluminova. The watch is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform in solid 18K rose gold and a strap in natural rubber. PLEASE NOTE: This timepiece is made to order upon your request, delivery time may vary. Contact info@haldasweden.com for more information.",
+   "productType": "Race Pilot Gold MM",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "PLEASE NOTE": "This timepiece is made to order upon your request, delivery time may vary. Contact info@haldasweden.com for more information."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/race-pilot-gold-mm"
+   ],
+   "hash": "46bc6158fccaa5de"
+  },
+  {
+   "id": "BRD-0967/space-discovery-gravity",
+   "name": "SPACE DISCOVERY | MECHANICAL",
+   "url": "https://www.haldawatches.com/product/space-discovery-gravity/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2019/08/SD-SS-Mech-Rubber.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/08/SD-SS-Mech-Rubber.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Side-shot-SD-Mech.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-SD-Mech-kopia.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Space Discovery Mechanical features a self-winding high-beat movement from A. Schild operating at the frequency of 36.000bph (5Hz). Diameter of the watch is 45mm and the case and bezel are processed out of stainless steel. It houses a matte black dial with luminous hands and applied indexes as well as a quick-set date function with controlled by pushing the crown. The watch is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform and bracelet in natural rubber. This Halda timepiece is built to withstand a pressure equivalent to 10 ATM (100 meters).",
+   "productType": "Mechanical",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/mechanical",
+    "BRD-0967/space-discovery"
+   ],
+   "hash": "cb83acad0009a986"
+  },
+  {
+   "id": "BRD-0967/race-pilot-black-luminova-2",
+   "name": "RACE PILOT | BLACK LUMINOVA",
+   "url": "https://www.haldawatches.com/product/race-pilot-black-luminova-2/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Race-Pilot-Mechanical-Module-Steel-Face3-Steel-Bezel-Rubber.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Race-Pilot-Mechanical-Module-Steel-Face3-Steel-Bezel-Rubber.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Side-shot-RP-Mech.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-RP-Mech-kopia.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Halda Race Pilot features a self-winding movement from ZENITH with date, sub-second and power reserve indicator. The 45mm case is processed out of titanium and finished with a black DLC coating and a bezel in stainless steel. It is built to withstand a pressure equivalent to 10 ATM (100 meters). The Black Luminova dial is engine turned and made from 29 individually manufactured pieces and beautifully decorated with Côtes de Genève and Clous de Paris. For visual functionality, indexes, Arabic numerals and the tips of the hands are highlighted with Superluminova. The watch is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform and bracelet, both made in stainless steel.",
+   "productType": "Steel Bezel and Black Rubber",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/steel-bezel-and-black-rubber"
+   ],
+   "hash": "2302d34d04bb6872"
+  },
+  {
+   "id": "BRD-0967/race-pilot-gun-metal-2",
+   "name": "RACE PILOT | GUN METAL",
+   "url": "https://www.haldawatches.com/product/race-pilot-gun-metal-2/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Race-Pilot-Mechanical-Module-Steel-Face2-Steel-Bezel-Rubber.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Race-Pilot-Mechanical-Module-Steel-Face2-Steel-Bezel-Rubber.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Side-shot-RP-Mech.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-RP-Mech-kopia.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Halda Race Pilot features a self-winding movement from ZENITH with date, sub-second and power reserve indicator. The 45mm case is processed out of titanium and finished with a black DLC coating and a bezel in stainless steel. It is built to withstand a pressure equivalent to 10 ATM (100 meters). The Gun Metal dial is engine turned and made from 29 individually manufactured pieces and beautifully decorated with Côtes de Genève and Clous de Paris. For visual functionality, indexes, Arabic numerals and the tips of the hands are highlighted with Superluminova. The watch is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform in stainless steel and a bracelet in natural rubber.",
+   "productType": "Steel Bezel and Black Rubber",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/steel-bezel-and-black-rubber"
+   ],
+   "hash": "20a5102353f7afef"
+  },
+  {
+   "id": "BRD-0967/race-pilot-silver-geneva",
+   "name": "RACE PILOT | SILVER GENEVA",
+   "url": "https://www.haldawatches.com/product/race-pilot-silver-geneva/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Race-Pilot-Mechanical-Module-Steel-Face1-Steel-Bezel-Rubber.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Race-Pilot-Mechanical-Module-Steel-Face1-Steel-Bezel-Rubber.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Side-shot-RP-Mech.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-RP-Mech-kopia.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 890000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Halda Race Pilot features a self-winding movement from ZENITH with date, sub-second and power reserve indicator. The 45mm case is processed out of titanium and finished with a black DLC coating and a bezel in stainless steel. It is built to withstand a pressure equivalent to 10 ATM (100 meters). The Silver Geneva dial is engine turned and made from 29 individually manufactured pieces and beautifully decorated with Côtes de Genève and Clous de Paris. For visual functionality, indexes, Arabic numerals and the tips of the hands are highlighted with Superluminova. The watch is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform in stainless steel and a bracelet in natural rubber.",
+   "productType": "Steel Bezel and Black Rubber",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/steel-bezel-and-black-rubber"
+   ],
+   "hash": "428380a105486a96"
+  },
+  {
+   "id": "BRD-0967/race-pilot-cs",
+   "name": "RACE PILOT",
+   "url": "https://www.haldawatches.com/product/race-pilot-cs/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Race-Pilot-CS.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Race-Pilot-CS.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1000000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The mechanical module of the Race Pilot features a self-winding movement from Zenith. Diameter of the case is 45mm and it is available with a bezel in either stainless steel or titanium with a black DLC coating. The case of the Race Module is made of titanium with a black DLC coating. It is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform and a bracelet in either stainless steel or natural rubber. The watch is built to withstand a pressure equivalent to 10 ATM (100 meters).",
+   "productType": "Race Pilot CS",
+   "tags": [],
+   "options": [
+    {
+     "name": "BRACELET/ARMBAND",
+     "values": [
+      "Rubber",
+      "Steel"
+     ]
+    },
+    {
+     "name": "DIAL/URTAVLA",
+     "values": [
+      "Silver Geneva",
+      "Gun Metal",
+      "Black Luminova"
+     ]
+    },
+    {
+     "name": "BEZEL/RING",
+     "values": [
+      "Silver",
+      "Black"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "black",
+    "strapType": "rubber"
+   },
+   "specsRaw": {
+    "BRACELET/ARMBAND": "Rubber, Steel",
+    "DIAL/URTAVLA": "Silver Geneva, Gun Metal, Black Luminova",
+    "BEZEL/RING": "Silver, Black"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/race-pilot-cs"
+   ],
+   "hash": "c23b9395ee08a403"
+  },
+  {
+   "id": "BRD-0967/trackmaster-cs",
+   "name": "TRACKMASTER",
+   "url": "https://www.haldawatches.com/product/trackmaster-cs/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2020/01/HRT-CS-03-SS-01-SS-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2020/01/HRT-CS-03-SS-01-SS-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1396000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The mechanical module of the Trackmaster features a self-winding movement from Zenith. Diameter of the case is 45mm and it is available with a bezel in either stainless steel or titanium with a black DLC coating. The case of the Race Module is made of titanium with a black DLC coating. It is delivered in a handmade wooden box, featuring a military grade GPS unit, the unique and award-winning Halda time platform and a bracelet in either stainless steel or natural rubber. The watch is built to withstand a pressure equivalent to 10 ATM (100 meters).",
+   "productType": "Trackmaster CS",
+   "tags": [],
+   "options": [
+    {
+     "name": "BRACELET/ARMBAND",
+     "values": [
+      "Rubber",
+      "Steel"
+     ]
+    },
+    {
+     "name": "DIAL/URTAVLA",
+     "values": [
+      "Black Luminova",
+      "Gun Metal",
+      "Silver Geneva"
+     ]
+    },
+    {
+     "name": "BEZEL/RING",
+     "values": [
+      "Black",
+      "Silver"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "black",
+    "strapType": "rubber"
+   },
+   "specsRaw": {
+    "BRACELET/ARMBAND": "Rubber, Steel",
+    "DIAL/URTAVLA": "Black Luminova, Gun Metal, Silver Geneva",
+    "BEZEL/RING": "Black, Silver"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/trackmaster-cs"
+   ],
+   "hash": "ac51fadbb671fa16"
+  },
+  {
+   "id": "BRD-0967/trackmaster-race-set",
+   "name": "TRACKMASTER RACE SET",
+   "url": "https://www.haldawatches.com/product/trackmaster-race-set/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Halda-Race-Set-Trackmaster-3000x1500-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Halda-Race-Set-Trackmaster-3000x1500-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 650000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The case of the Race Module is made of titanium with a black DLC coating. Diameter of the case is 45mm and it is available with a bezel in either stainless steel or titanium with a black DLC coating. It is delivered in a handmade wooden box, featuring a military grade GPS unit, the unique and award-winning Halda time platform and a bracelet in either stainless steel or natural rubber. The watch is built to withstand a pressure equivalent to 10 ATM (100 meters).",
+   "productType": "Trackmaster DM",
+   "tags": [],
+   "options": [
+    {
+     "name": "BEZEL/RING",
+     "values": [
+      "Black",
+      "Silver"
+     ]
+    },
+    {
+     "name": "BRACELET/ARMBAND",
+     "values": [
+      "Rubber",
+      "Steel"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "rubber"
+   },
+   "specsRaw": {
+    "BEZEL/RING": "Black, Silver",
+    "BRACELET/ARMBAND": "Rubber, Steel"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/trackmaster-dm"
+   ],
+   "hash": "2fd42dd3bcc3c258"
+  },
+  {
+   "id": "BRD-0967/trackmaster-gold-cs",
+   "name": "TRACKMASTER | GOLD CS",
+   "url": "https://www.haldawatches.com/product/trackmaster-gold-cs/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/HRT-04-TD-03-RS-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/HRT-04-TD-03-RS-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-RP-Digi-Rose-Gold-kopia.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-RP-Mech-Rose-Gold-kopia.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2021/07/Side-shot-Ruby.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/11/Side-shot-RP-Rose-Gold-Digi.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3385000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The mechanical module of the Trackmaster Gold features a self-winding movement from Zenith and a dial with gold indexes carefully applied on a base of carbon fiber. Diameter of the case is 45mm case and the bezel is processed out of titanium with a black DLC coating. The digital module is made of titanium with a black DLC coating and gold pushers. It is delivered in a handmade wooden box, featuring a military grade GPS unit, the unique and award-winning Halda time platform in solid 18K rose gold and a strap in natural rubber. The watch is built to withstand a pressure equivalent to 10 ATM (100 meters). PLEASE NOTE: This timepiece is made to order upon your request, delivery time may vary. Contact info@haldasweden.com for more information.",
+   "productType": "Trackmaster Gold CS",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "PLEASE NOTE": "This timepiece is made to order upon your request, delivery time may vary. Contact info@haldasweden.com for more information."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/trackmaster-gold-cs"
+   ],
+   "hash": "01662ba048f445f2"
+  },
+  {
+   "id": "BRD-0967/hrp-space-discovery",
+   "name": "SPACE DISCOVERY",
+   "url": "https://www.haldawatches.com/product/hrp-space-discovery/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Halda-CS-SPACE-2500x1500.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Halda-CS-SPACE-2500x1500.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Side-shot-SD-Digi.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Side-shot-SD-Mech.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-SD-Mech-kopia.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-SD-Digi-kopia.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1100000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "The mechanical module of the Space Discovery features a self-winding high-beat movement from A. Schild operating at the frequency of 36.000bph (5Hz). The diameter is 45mm and the case and bezel are processed out of stainless steel. The case of the Space Module is made of TECAMAX™, a material certified by NASA. The watch is a limited edition of 128 pieces, it is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform and bracelet, both made in stainless steel. Space Strap in Velcro is also included. The watch is built to withstand a pressure equivalent to 10 ATM (100 meters). SOLD OUT – Space Discovery is out of stock for the moment but you are welcome to submit an application for a new version – SOLD OUT",
+   "productType": "Space Discovery HSD",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "In space": "domed Hesalite crystal.",
+    "On earth": "domed sapphire crystal."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/space-discovery-hsd"
+   ],
+   "hash": "455bb36cbabff3f9"
+  },
+  {
+   "id": "BRD-0967/race-pilot-black-octane",
+   "name": "RACE PILOT | OCTANE WHITE",
+   "url": "https://www.haldawatches.com/product/race-pilot-black-octane/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/RPM-05-TD-02-RS-1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/RPM-05-TD-02-RS-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Case-back-RP-Mech-DLC.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/12/Side-RP-Mech-DLC.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 981000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Limited edition of 25 pieces. Octane White features a self-winding movement from ZENITH with date, sub-second and power reserve indicator. The 45mm case is processed out of titanium and finished with a black DLC coating. It is built to withstand a pressure equivalent to 10 ATM (100 meters). The Octane White dial is made from 20 individually manufactured pieces carefully applied on a base of carbon fiber. For visual functionality, indexes and the tips of the hands are highlighted with Superluminova. The watch is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform in black DLC and a strap in natural rubber.",
+   "productType": "Race Pilot Black and White",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/race-pilot-black-white"
+   ],
+   "hash": "ec47972b3f66edea"
+  },
+  {
+   "id": "BRD-0967/race-pilot-gold",
+   "name": "RACE PILOT GOLD | DLC BEZEL",
+   "url": "https://www.haldawatches.com/product/race-pilot-gold/",
+   "image": {
+    "url": "https://www.haldawatches.com/wp-content/uploads/2018/11/RP-II-Mech-Gold-DLC-bezel.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2018/11/RP-II-Mech-Gold-DLC-bezel.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2019/07/Case-back-RP-Mech-Rose-Gold-kopia.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.haldawatches.com/wp-content/uploads/2021/07/Side-shot-Ruby.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3228000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Halda Race Pilot features a self-winding movement from ZENITH with date, sub-second and power reserve indicator. Its platform is handcrafted in solid 18K gold and the 45mm case and bezel are processed out of titanium and finished with a black DLC coating. It is built to withstand a pressure equivalent to 10 ATM (100 meters). The Race Pilot Gold dial with gold hands and indexes is made from 20 individually manufactured pieces carefully applied on a base of carbon fiber. For visual functionality, indexes and the tips of the hands are highlighted with Superluminova. The watch is delivered in a handmade wooden box, featuring the unique and award-winning Halda time platform in solid 18K rose gold and a strap in natural rubber. PLEASE NOTE: This timepiece is made to order upon your request, delivery time may vary. Contact info@haldasweden.com for more information.",
+   "productType": "Race Pilot Gold MM",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "PLEASE NOTE": "This timepiece is made to order upon your request, delivery time may vary. Contact info@haldasweden.com for more information."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:23:56.516Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:56.516Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0967/race-pilot-gold-mm"
+   ],
+   "hash": "86e7b7c055df85c2"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0967/henning",
+   "name": "Henning",
+   "url": "https://www.haldawatches.com/produkt-kategori/henning/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/race-pilot-black-white",
+   "name": "Race Pilot Black and White",
+   "url": "https://www.haldawatches.com/produkt-kategori/race-pilot-black-white/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/race-pilot-gold-mm",
+   "name": "Race Pilot Gold MM",
+   "url": "https://www.haldawatches.com/produkt-kategori/race-pilot-gold/race-pilot-gold-mm/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/mechanical",
+   "name": "Mechanical",
+   "url": "https://www.haldawatches.com/produkt-kategori/space-discovery/mechanical/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/space-discovery",
+   "name": "Space Discovery",
+   "url": "https://www.haldawatches.com/produkt-kategori/space-discovery/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/steel-bezel-and-black-rubber",
+   "name": "Steel Bezel and Black Rubber",
+   "url": "https://www.haldawatches.com/produkt-kategori/race-pilot/steel-bezel-and-black-rubber/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/race-pilot-cs",
+   "name": "Race Pilot CS",
+   "url": "https://www.haldawatches.com/produkt-kategori/race-pilot-cs/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/trackmaster-cs",
+   "name": "Trackmaster CS",
+   "url": "https://www.haldawatches.com/produkt-kategori/trackmaster/trackmaster-cs/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/trackmaster-dm",
+   "name": "Trackmaster DM",
+   "url": "https://www.haldawatches.com/produkt-kategori/trackmaster/trackmaster-dm/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/trackmaster-gold-cs",
+   "name": "Trackmaster Gold CS",
+   "url": "https://www.haldawatches.com/produkt-kategori/race-pilot-gold/trackmaster-gold-cs/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0967/space-discovery-hsd",
+   "name": "Space Discovery HSD",
+   "url": "https://www.haldawatches.com/produkt-kategori/space-discovery/space-discovery-hsd/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

@@ -1,0 +1,717 @@
+{
+ "brandId": "BRD-0898",
+ "brandName": "Exotheia",
+ "website": "https://www.exotheia.com",
+ "crawledAt": "2026-11-01T07:11:40.583Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.exotheia.com/cdn/shop/files/logo.png?v=1698942856",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.exotheia.com/"
+ },
+ "attribution": "Images © Exotheia, from exotheia.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0898/ceramic-nasa-red",
+   "name": "Ceramic NASA Red",
+   "url": "https://www.exotheia.com/products/ceramic-nasa-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-NASA-RED.jpg?v=1709373604",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-NASA-RED.jpg?v=1709373604",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 97700,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "cea1dc8c9eab6e02"
+  },
+  {
+   "id": "BRD-0898/ceramic-nasa-blue",
+   "name": "Ceramic NASA Blue",
+   "url": "https://www.exotheia.com/products/ceramic-nasa-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-NASA-BLUE.jpg?v=1709373468",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-NASA-BLUE.jpg?v=1709373468",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 97700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "a70cf6acec558cf2"
+  },
+  {
+   "id": "BRD-0898/ceramic-nasa-black",
+   "name": "Ceramic NASA white",
+   "url": "https://www.exotheia.com/products/ceramic-nasa-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-NASA-BLACK.jpg?v=1709373407",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-NASA-BLACK.jpg?v=1709373407",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 97700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "1f9af02814d8ee70"
+  },
+  {
+   "id": "BRD-0898/ceramic-interstellar-red",
+   "name": "Ceramic Interstellar Red",
+   "url": "https://www.exotheia.com/products/ceramic-interstellar-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-INTERSTELLAR-RED.jpg?v=1709373373",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-INTERSTELLAR-RED.jpg?v=1709373373",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 97700,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "57e94e4d715ac1c5"
+  },
+  {
+   "id": "BRD-0898/ceramic-abyss-black",
+   "name": "Ceramic Abyss Black",
+   "url": "https://www.exotheia.com/products/ceramic-abyss-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-ABYSS-BLACK.jpg?v=1709373248",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-ABYSS-BLACK.jpg?v=1709373248",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 97700,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "efea843031afe4b7"
+  },
+  {
+   "id": "BRD-0898/ceramic-dark-azure",
+   "name": "Ceramic Dark Azure",
+   "url": "https://www.exotheia.com/products/ceramic-dark-azure",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-DARK-AZURE.jpg?v=1709373291",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CERAMIC-DARK-AZURE.jpg?v=1709373291",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 97700,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "bd0d66a28ab77cb5"
+  },
+  {
+   "id": "BRD-0898/carbon-supernova-orange",
+   "name": "Carbon Supernova Orange",
+   "url": "https://www.exotheia.com/products/carbon-supernova-orange",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CARBON-SUPERNOVA-ORANGE.jpg?v=1709373195",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CARBON-SUPERNOVA-ORANGE.jpg?v=1709373195",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 97700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "542a1446293932b4"
+  },
+  {
+   "id": "BRD-0898/carbon-galaxy-azure",
+   "name": "Carbon Galaxy Azure",
+   "url": "https://www.exotheia.com/products/carbon-galaxy-azure",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CARBON-GALAXY-AZURE.jpg?v=1709373127",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-CARBON-GALAXY-AZURE.jpg?v=1709373127",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 97700,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "ca669066b33cc561"
+  },
+  {
+   "id": "BRD-0898/steel-cosmic-teal",
+   "name": "Black Nebula Teal",
+   "url": "https://www.exotheia.com/products/steel-cosmic-teal",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-BLACK-NEBULA-TEAL.jpg?v=1709372805",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-BLACK-NEBULA-TEAL.jpg?v=1709372805",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 85400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "32ebe0dd504441e2"
+  },
+  {
+   "id": "BRD-0898/carbon-black",
+   "name": "Dark Matter",
+   "url": "https://www.exotheia.com/products/carbon-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-BLACK-DARK-MATTER.jpg?v=1709373044",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-BLACK-DARK-MATTER.jpg?v=1709373044",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 92800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "15d78d57edc0639f"
+  },
+  {
+   "id": "BRD-0898/stellar-steel-red",
+   "name": "Mars Red",
+   "url": "https://www.exotheia.com/products/stellar-steel-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-MARS-RED.jpg?v=1709371640",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-MARS-RED.jpg?v=1709371640",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 85400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "b03c3b198c65e93a"
+  },
+  {
+   "id": "BRD-0898/stellar-steel-blue",
+   "name": "Alien Green",
+   "url": "https://www.exotheia.com/products/stellar-steel-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-ALIENGREEN.jpg?v=1709371585",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-ALIENGREEN.jpg?v=1709371585",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 85400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "1f308a78bcebed98"
+  },
+  {
+   "id": "BRD-0898/exo-solar-steel-black",
+   "name": "Cosmic Black",
+   "url": "https://www.exotheia.com/products/exo-solar-steel-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-COSMIC-BLACK.jpg?v=1709365719",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0782/7587/1043/files/EXO-FRONT-STEEL-COSMIC-BLACK.jpg?v=1709365719",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 85400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Presenting the Swiss Made space watch featuring a unique exoskeletal construction. Powered by the latest-generation Swiss movement, it boasts an endless source of energy. With a sapphire dial allowing light to penetrate like a deep black hole, it offers a glimpse into the mysteries of the universe.",
+   "productType": "Reward",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:11:40.583Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:11:40.583Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0898/exosolar"
+   ],
+   "hash": "ed3784e8870e0911"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0898/exosolar",
+   "name": "EXOSOLAR",
+   "url": "https://www.exotheia.com/collections/exosolar",
+   "description": null,
+   "image": null
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "brandId": "BRD-0789",
+ "brandName": "Cavasino",
+ "website": "https://www.cavasino-watches.com",
+ "crawledAt": "2026-11-01T06:47:23.762Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://cdn.prod.website-files.com/685e559953382243cbf0ea9e/68627fd47b52bf94dd61b498_logo-cavasino_beige.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.cavasino-watches.com/"
+ },
+ "attribution": "Images © Cavasino, from cavasino-watches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0789/dct-02",
+   "name": "DCT-02",
+   "url": "https://www.cavasino-watches.com/collections/dct-02",
+   "image": {
+    "url": "https://cdn.prod.website-files.com/685e559953382243cbf0ea9e/686be540b79ddf87c2a2b916_cavasino_thumbnail.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.prod.website-files.com/685e559953382243cbf0ea9e/686be540b79ddf87c2a2b916_cavasino_thumbnail.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "The DCT-02 is where I wanted to take the architecture of the DCR-01. Pushing it further while placing the maître artisan at the heart of its finishing.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "The Tourbillon Inaugural DCR-01": "a movement that elevates watchmaking tradition to new heights, requiring an extraordinary level of hand-finishing and craftsmanship."
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T06:47:23.762Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:23.762Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a88f8c467a2b0fc7"
+  },
+  {
+   "id": "BRD-0789/dcr-01",
+   "name": "DCR-01",
+   "url": "https://www.cavasino-watches.com/collections/dcr-01",
+   "image": {
+    "url": "https://cdn.prod.website-files.com/685e559953382243cbf0ea9e/686be540b79ddf87c2a2b916_cavasino_thumbnail.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.prod.website-files.com/685e559953382243cbf0ea9e/686be540b79ddf87c2a2b916_cavasino_thumbnail.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "The DCR-01 is the first movement created by the maison, limited to just 50 editions. It reflects a constant pursuit of innovation while preserving the rarity, craftsmanship and lasting value of an exceptional timepiece.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T06:47:23.762Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:23.762Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "aa78df35364541b9"
+  }
+ ],
+ "collections": []
+}

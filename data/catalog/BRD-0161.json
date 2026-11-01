@@ -1,0 +1,423 @@
+{
+ "brandId": "BRD-0161",
+ "brandName": "Corso",
+ "website": "https://corsowatches.com.br",
+ "crawledAt": "2026-11-01T06:54:55.889Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://corsowatches.com.br/cdn/shop/files/Marca_Corso_completo_PRETO.png?v=1790212477",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://corsowatches.com.br/en"
+ },
+ "attribution": "Images © Corso, from corsowatches.com.br",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0161/corso-crono",
+   "name": "CRONO",
+   "url": "https://corsowatches.com.br/products/corso-crono",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0259-3.jpg?v=1784236365",
+    "width": 1080,
+    "height": 1350
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0259-3.jpg?v=1784236365",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0249-3.jpg?v=1784236590",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0261-3.jpg?v=1784236789",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0257-3.jpg?v=1784236878",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0046_e0f8c5da-8a05-433d-b17d-9c6b5b516a5e.jpg?v=1784236919",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0289.jpg?v=1784236919",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0176-2.jpg?v=1784236919",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0179.jpg?v=1784236822",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0261-3_3df69c56-f41d-4f52-a40c-dfb12092bfcb.jpg?v=1784236822",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0276.jpg?v=1784236823",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0089_6444a62b-7c0b-4a3b-8807-c596ae020dfd.jpg?v=1784236822",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/Corso_Cronografo-0191-2.jpg?v=1784236717",
+     "width": 1080,
+     "height": 1350
+    }
+   ],
+   "priceMinor": 249700,
+   "currency": "BRL",
+   "availability": "in_stock",
+   "description": "Design autoral em caixa compacta de aço 316L . No interior, o movimento meca-quartz VK-64 combina a precisão do quartz com o pulsar de um cronógrafo mecânico. Cristal de safira duplamente abaulada com tratamento antirreflexo, pulseira em couro nobre sem costuras e mostrador em duas camadas com textura grainé.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Cor da caixa",
+     "values": [
+      "Bege",
+      "Preto",
+      "Branco",
+      "Salmão I",
+      "Verde"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bege",
+     "sku": "Crono_Bege",
+     "priceMinor": 249700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bege"
+     ]
+    },
+    {
+     "title": "Preto",
+     "sku": "Crono_Preto",
+     "priceMinor": 249700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Preto"
+     ]
+    },
+    {
+     "title": "Branco",
+     "sku": "Crono_Branco",
+     "priceMinor": 249700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Branco"
+     ]
+    },
+    {
+     "title": "Salmão I",
+     "sku": "Crono_Salmao",
+     "priceMinor": 249700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Salmão I"
+     ]
+    },
+    {
+     "title": "Verde",
+     "sku": "Crono_Verde",
+     "priceMinor": 249700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Verde"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Crystal": "Double-domed sapphire with internal anti-reflective coating",
+    "Case material": "316L Stainless Steel.",
+    "Case diameter": "38mm",
+    "Case length": "(Lug to Lug ): 44mm",
+    "Case thickness": "12.5mm",
+    "Dial": "Two-layer, sub-dials with grainé finish grainé",
+    "Strap": "Premium genuine leather, seamless",
+    "Water resistance": "5 ATM (50 meters)",
+    "Box color": "Bege",
+    "Quantity": "Decrease quantity Increase quantity",
+    "TECHNICAL SPECIFICATIONS Movement": "Meca-quartz VK-64",
+    "Movement": "Meca-quartz VK-64"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:54:55.889Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:54:55.889Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0161/corso-crono"
+   ],
+   "hash": "3eb0d322b90f08d0"
+  },
+  {
+   "id": "BRD-0161/classico",
+   "name": "CLÁSSICO",
+   "url": "https://corsowatches.com.br/products/classico",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/corso_relogios_05_5d4427ce-81fb-4851-a282-28e83771e063.png?v=1775861503",
+    "width": 3280,
+    "height": 4280
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/corso_relogios_05_5d4427ce-81fb-4851-a282-28e83771e063.png?v=1775861503",
+     "width": 3280,
+     "height": 4280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/corso_relogios_variantes_05_0a740c72-eb3d-4919-b655-5741bf002b32.png?v=1775861503",
+     "width": 3280,
+     "height": 4280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/corso_relogios_variantes_2_05.png?v=1775861503",
+     "width": 3280,
+     "height": 4280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/PFSC9837_ce83c986-3873-4d21-bd12-5314e4eb9f48.jpg?v=1775861503",
+     "width": 3481,
+     "height": 5221
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/PFSC9759.jpg?v=1775861503",
+     "width": 4000,
+     "height": 6000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/corso_relogios_04_04557521-2e33-4b6a-8f20-57f395d1f3ce.png?v=1775861503",
+     "width": 3280,
+     "height": 4280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/corso_relogios_variantes_04.png?v=1775861503",
+     "width": 3280,
+     "height": 4280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/PFSC9740-M.jpg?v=1775861503",
+     "width": 4000,
+     "height": 6000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/PFSC9857.jpg?v=1775861503",
+     "width": 3481,
+     "height": 5221
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/PFSC9767_65495c55-2c4c-4fb2-934b-cd6a67ae4716.jpg?v=1775861503",
+     "width": 4000,
+     "height": 6000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/corso_relogios_01_4a33b133-4045-4195-8ee3-f81ed65375d6.png?v=1775861503",
+     "width": 3280,
+     "height": 4280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0947/4093/9072/files/corso_relogios_variantes_01.png?v=1775861503",
+     "width": 3280,
+     "height": 4280
+    }
+   ],
+   "priceMinor": 149700,
+   "currency": "BRL",
+   "availability": "in_stock",
+   "description": "A elegância dos 38mm com a alma da precisão suíça. Um relógio atemporal em aço 316L e cristal de safira, com design totalmente autoral.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Cor do Dial",
+     "values": [
+      "Preto",
+      "Salmão",
+      "Cinza",
+      "Azul Petróleo",
+      "Cinza Chumbo",
+      "Azul",
+      "Verde"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Preto",
+     "sku": "Preto",
+     "priceMinor": 149700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Preto"
+     ]
+    },
+    {
+     "title": "Salmão",
+     "sku": "Salmão",
+     "priceMinor": 149700,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Salmão"
+     ]
+    },
+    {
+     "title": "Cinza",
+     "sku": "Cinza",
+     "priceMinor": 149700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cinza"
+     ]
+    },
+    {
+     "title": "Azul Petróleo",
+     "sku": "Azul Petróleo",
+     "priceMinor": 149700,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Azul Petróleo"
+     ]
+    },
+    {
+     "title": "Cinza Chumbo",
+     "sku": "Cinza Chumbo",
+     "priceMinor": 149700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cinza Chumbo"
+     ]
+    },
+    {
+     "title": "Azul",
+     "sku": "Azul",
+     "priceMinor": 149700,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Azul"
+     ]
+    },
+    {
+     "title": "Verde",
+     "sku": "Verde",
+     "priceMinor": 149700,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Verde"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Crystal": "Double domed sapphire with internal anti-reflective coating",
+    "Case material": "316L Stainless Steel",
+    "Case diameter": "38mm",
+    "Case length": "(Lug to Lug ): 43mm",
+    "Case height": "11.5mm",
+    "Dial": "Two-layer with grainé texture finish",
+    "Strap": "Premium seamless genuine leather",
+    "Water resistance": "5 ATM (50 meters) WARRANTY The Classic model comes with a 2-year warranty against manufacturing",
+    "Dial Color": "Preto",
+    "Quantity": "Decrease quantity Increase quantity",
+    "TECHNICAL SPECIFICATIONS Movement": "Quartz Ronda Caliber 762e - Swiss Parts",
+    "Movement": "Quartz Ronda Caliber 762e - Swiss Parts"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:54:55.889Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:54:55.889Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0161/relogios-novo-tema"
+   ],
+   "hash": "e62c554e780e50cd"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0161/relogios-novo-tema",
+   "name": "Corso Clássico",
+   "url": "https://corsowatches.com.br/collections/relogios-novo-tema",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0161/corso-crono",
+   "name": "Corso Crono",
+   "url": "https://corsowatches.com.br/collections/corso-crono",
+   "description": null,
+   "image": null
+  }
+ ]
+}

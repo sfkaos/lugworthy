@@ -1,0 +1,2428 @@
+{
+ "brandId": "BRD-1075",
+ "brandName": "Limes",
+ "website": "https://www.limes-uhren.de",
+ "crawledAt": "2026-11-01T07:44:01.117Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.limes-uhren.de/media/image/24/43/f0/logo55c1fa9564b6d.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.limes-uhren.de/"
+ },
+ "attribution": "Images © Limes, from limes-uhren.de",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1075/vollkalender-chronograph",
+   "name": "Vollkalender Chronograph",
+   "url": "https://www.limes-uhren.de/klassik/vollkalender-chronograph/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/92/27/24/limes-chrono-mondphase.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/92/27/24/limes-chrono-mondphase.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Der&nbsp; Vollkalender Chronograph mit Mondphase &nbsp;ist das Topmodell der Pharo Familie. Das 40,5mm&nbsp; ICKLER Manufaktur-Gehäuse…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 7751",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "08b5de92b9a4dbc6"
+  },
+  {
+   "id": "BRD-1075/finesse",
+   "name": "Finesse",
+   "url": "https://www.limes-uhren.de/klassik/finesse/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/1a/e4/ba/limes-Finesse-H.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/1a/e4/ba/limes-Finesse-H.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Hergestellt in Pforzheim / Deutschland | Gebläute Stahlzeiger | Guillochierte Zifferblätter | Offene Unruh | Ickler Uhrgehäuse | Schweizer Werke",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "3f14e7909507a77c"
+  },
+  {
+   "id": "BRD-1075/grossdatum-gangreserve",
+   "name": "Grossdatum Gangreserve",
+   "url": "https://www.limes-uhren.de/klassik/grossdatum-gangreserve/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/4d/9c/99/limes-grossdatum-gangreserve.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/4d/9c/99/limes-grossdatum-gangreserve.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Hergestellt in Pforzheim / Deutschland | Gebläute Stahlzeiger | Guillochiertes Zifferblatt | Ickler Uhrgehäuse | Schweizer Automatikwerk TOP",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 2892-2",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "cebd8346e7992d24"
+  },
+  {
+   "id": "BRD-1075/daydate",
+   "name": "DayDate",
+   "url": "https://www.limes-uhren.de/klassik/daydate/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/2d/c8/ed/limes-daydate.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/2d/c8/ed/limes-daydate.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Die DayDate ist schon seit Jahren ein beliebtes Mitglied der Pharo Familie. Filigrane Zifferblätter mit Tagesanzeige und feiner Guillochierung…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 2834",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "e8079f5f60b19d96"
+  },
+  {
+   "id": "BRD-1075/leviathan",
+   "name": "Leviathan",
+   "url": "https://www.limes-uhren.de/taucher/leviathan/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/5a/7a/60/Limes-Endurance-Leviathan-Diver-Watch-Taucheruhr-Germany.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/5a/7a/60/Limes-Endurance-Leviathan-Diver-Watch-Taucheruhr-Germany.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "LIMES - Uhren Made in Germany | Chronographen | Automatik | Handaufzug | Taucheruhren",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "5cb017ae62e109f5"
+  },
+  {
+   "id": "BRD-1075/neptun",
+   "name": "Neptun",
+   "url": "https://www.limes-uhren.de/taucher/neptun/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/36/b2/2f/Limes-Neptun-2022-Diver-Menu-Watch-Germany-shadow.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/36/b2/2f/Limes-Neptun-2022-Diver-Menu-Watch-Germany-shadow.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "LIMES - Uhren Made in Germany | Chronographen | Automatik | Handaufzug | Taucheruhren",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "7ecba6bd7c5a5f44"
+  },
+  {
+   "id": "BRD-1075/endurance-ii",
+   "name": "Endurance II",
+   "url": "https://www.limes-uhren.de/taucher/endurance-ii/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/65/1f/a8/Limes-Endurance-2-Diver-Watch-1-Menu-Taucheruhr-Germany-IcklerLuVLqg6GPqQwa.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/65/1f/a8/Limes-Endurance-2-Diver-Watch-1-Menu-Taucheruhr-Germany-IcklerLuVLqg6GPqQwa.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "LIMES - Uhren Made in Germany | Chronographen | Automatik | Handaufzug | Taucheruhren",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "4c0a382f26062c52"
+  },
+  {
+   "id": "BRD-1075/endurance-gmt",
+   "name": "Endurance GMT",
+   "url": "https://www.limes-uhren.de/taucher/endurance-gmt/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/c4/fc/f3/limes-endurance-gmtPSJNFnUbLKLGV.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/c4/fc/f3/limes-endurance-gmtPSJNFnUbLKLGV.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "LIMES - Uhren Made in Germany | Chronographen | Automatik | Handaufzug | Taucheruhren",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "f38ca8c3cae6aa51"
+  },
+  {
+   "id": "BRD-1075/nightflight",
+   "name": "Nightflight",
+   "url": "https://www.limes-uhren.de/pilot/nightflight/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/a8/05/e9/Limes-Nightflight-Pilot-Watch-Frontal-B-Final-SM.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/a8/05/e9/Limes-Nightflight-Pilot-Watch-Frontal-B-Final-SM.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "LIMES NIGHTFLIGHT LE Die neue limitierte Version zur Wiedereinführung der beliebten Fliegeruhr Nightflight hat mit einem Durchmesser von 37,8mm…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "e0e8ef1e94aa76ae"
+  },
+  {
+   "id": "BRD-1075/aviator",
+   "name": "Aviator",
+   "url": "https://www.limes-uhren.de/pilot/aviator/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/5b/ec/d6/U7817-LA1-2-Pilot-Watch-Limes-Aviator.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/5b/ec/d6/U7817-LA1-2-Pilot-Watch-Limes-Aviator.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "LIMES - Uhren Made in Germany | Chronographen | Automatik | Handaufzug | Taucheruhren",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "08e15d66454f1d05"
+  },
+  {
+   "id": "BRD-1075/nightflight-chronograph",
+   "name": "Nightflight Chronograph",
+   "url": "https://www.limes-uhren.de/pilot/nightflight-chronograph/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/40/7c/5d/Limes-Nightflight-Pilot-Watch-Frontal-B-Final-SM-Kopie.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/40/7c/5d/Limes-Nightflight-Pilot-Watch-Frontal-B-Final-SM-Kopie.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "LIMES - Uhren Made in Germany | Chronographen | Automatik | Handaufzug | Taucheruhren",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "6c27453836ea23b2"
+  },
+  {
+   "id": "BRD-1075/chyros",
+   "name": "Chyros",
+   "url": "https://www.limes-uhren.de/pilot/chyros/",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/0b/c5/8d/chyros-I.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/0b/c5/8d/chyros-I.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "LIMES - Uhren Made in Germany | Chronographen | Automatik | Handaufzug | Taucheruhren",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion",
+    "BRD-1075/aviator-lb",
+    "BRD-1075/nightflight-chronograph-s",
+    "BRD-1075/nightflight-limited-edition-ls",
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "71fd0a3afdc0ab2d"
+  },
+  {
+   "id": "BRD-1075/endurance-gmt-bl-r",
+   "name": "Endurance GMT . BL.R",
+   "url": "https://www.limes-uhren.de/taucher/endurance-gmt/340/endurance-gmt.-bl.r",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/d7/f3/b9/Limes-GMT-Endurance-2022-1000-Diver-Frontal1eELZLNL8xUx4.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/d7/f3/b9/Limes-GMT-Endurance-2022-1000-Diver-Frontal1eELZLNL8xUx4.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk Eta 2893-2 Elaborè Gehäuse ICKLER Tauchergehäuse , wasserdicht bis 30 ATM,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 2893-2",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk Eta 2893-2 Elaborè",
+    "Gehäuse": "ICKLER Tauchergehäuse, wasserdicht bis 30 ATM, Edelstahl gebürstet,Durchmesser 41,5mm, mit Krone 46mm, Länge 6-12: 50mm, Höhe 12,6 mmeinseitig drehbare Lünette mit blauer 60 Min Skala und Leuchtpunkt, entspiegeltes Saphirglas, massiver Gewindeboden, Schraubkrone mit I-Logo, Schraubstege",
+    "Zifferblatt": "Blau mit großen Leuchtindizes, Datum bei 6 Uhr, 2. Zeitzone",
+    "Zeiger": "Leuchtzeiger, roter GMT Zeiger",
+    "Band": "Natoband, Breite 20mm, Länge: 19 - 24cm",
+    "Artikel-Nr.": "U8778R-LG2BL-1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "9b5f260f6b099902"
+  },
+  {
+   "id": "BRD-1075/endurance-gmt-sw-r",
+   "name": "Endurance GMT .SW.R",
+   "url": "https://www.limes-uhren.de/taucher/endurance-gmt/341/endurance-gmt.sw.r",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/69/7e/8d/Limes-GMT-Endurance-2022-1000-Diver-Frontal.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/69/7e/8d/Limes-GMT-Endurance-2022-1000-Diver-Frontal.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk Eta 2893-2 Elaborè Gehäuse ICKLER Tauchergehäuse , wasserdicht bis 30 ATM,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 2893-2",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk Eta 2893-2 Elaborè",
+    "Gehäuse": "ICKLER Tauchergehäuse, wasserdicht bis 30 ATM, Edelstahl gebürstet,Durchmesser 41,5mm, mit Krone 46mm, Länge 6-12: 50mm, Höhe 12,6 mmeinseitig drehbare Lünette mit schwarzer 60 Min Skala und Leuchtpunkt, entspiegeltes Saphirglas, massiver Gewindeboden, Schraubkrone mit I-Logo, Schraubstege",
+    "Zifferblatt": "Schwarz mit großen Leuchtindizes, Datum bei 6 Uhr, 2. Zeitzone",
+    "Zeiger": "Leuchtzeiger, roter GMT Zeiger",
+    "Band": "Nataband, Breite 20mm, Länge: 19 - 24cm",
+    "Artikel-Nr.": "U8778R-LG2SW-1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "70c93510db62562c"
+  },
+  {
+   "id": "BRD-1075/pharo-chronograph-si-ls",
+   "name": "Pharo Chronograph . SI.LS",
+   "url": "https://www.limes-uhren.de/klassik/vollkalender-chronograph/5/pharo-chronograph.-si.ls",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/b5/dd/51/U6282C-LC1-1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/b5/dd/51/U6282C-LC1-1.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Dekoriertes Schweizer Chronographenwerk Eta 7751 TOP mit Vollkalender und Mondphase, gebläute Stahlschrauben,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 7751",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Dekoriertes Schweizer Chronographenwerk Eta 7751 TOP mit Vollkalender und Mondphase, gebläute Stahlschrauben, Genfer Streifen und Perlierung, Rotor mit LIMES Schriftzug",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert, Durchmesser 40,5mm, Höhe 14,3mm, elegante Cannelierung am Umfang, gewölbtes, beidseitig entspiegeltes Saphirglas, Gewindeboden mit Saphirglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Silbern, Clous-de-Paris und Sonnen-Guillochierungen",
+    "Zeiger": "Blaue Breguet Zeiger",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6282C-LC1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "1f59844a94a64e58"
+  },
+  {
+   "id": "BRD-1075/neptun-k",
+   "name": "Neptun . K",
+   "url": "https://www.limes-uhren.de/taucher/neptun/334/neptun.-k",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/1f/e2/0d/Limes-Neptun-web-2022.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/1f/e2/0d/Limes-Neptun-web-2022.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk Sellita SW 200-1 Gehäuse ICKLER Tauchergehäuse , wasserdicht bis 100 ATM,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk Sellita SW 200-1",
+    "Gehäuse": "ICKLER Tauchergehäuse, wasserdicht bis 100 ATM, Edelstahl gebürstet und poliert,Durchmesser 41,5mm, mit Krone 46mm, Länge 6-12: 50mm, Höhe 12,6 mmeinseitig drehbare Stahllünette mit Indexen und Leuchtpunkt, entspiegeltes Saphirglas, massiver Gewindeboden, Schraubkrone, Schraubstege",
+    "Zifferblatt": "Schwarz mit großen Leuchtindizes",
+    "Zeiger": "Leuchtzeiger",
+    "Band": "Kautschukband, Breite 20mm, Länge: 19 - 22,5cm",
+    "Artikel-Nr.": "U8778-LA4.2"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "f864109209711c95"
+  },
+  {
+   "id": "BRD-1075/nightflight-limited-edition-lb",
+   "name": "Nightflight Limited Edition LB",
+   "url": "https://www.limes-uhren.de/kollektion/345/nightflight-limited-edition-lb",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/dd/1c/48/Limes-Nightflight-Pilot-Watch-Frontal-B-FinalfqwNyIigUNax2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/dd/1c/48/Limes-Nightflight-Pilot-Watch-Frontal-B-FinalfqwNyIigUNax2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk ETA 2824-2 (Foto zeigt ETA 2824 TOP, Einbau auf Anfrage) Gehäuse ICKLER…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk ETA 2824-2 (Foto zeigt ETA 2824 TOP, Einbau auf Anfrage)",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 37,8mm, Höhe 9,5mm, flaches beidseitig entspiegeltes Saphirglas, Gewindeboden mit Durchsicht, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Schwarz, arabische Zahlen (Superluminova)",
+    "Zeiger": "Leuchtzeiger, weiß (Superluminova)",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18,5 - 22,5cm",
+    "Artikel-Nr.": "U7624-LA1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "042f0df419072eb1"
+  },
+  {
+   "id": "BRD-1075/aviator-ls",
+   "name": "Aviator LS",
+   "url": "https://www.limes-uhren.de/kollektion/291/aviator-ls",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/13/6a/5a/U7817-LA1-1NQXKX2QDVNI7x.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/13/6a/5a/U7817-LA1-1NQXKX2QDVNI7x.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk SW 200-1 Gehäuse ICKLER Manufakturgehäuse , Edelstahl, fein gebürstet und…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk SW 200-1",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 42mm, Höhe 9,5mm, flaches beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Schwarz, applizierte arabische Zahlen (poliert), Dreieck und Stundenindexe mit SL-Leuchtmasse",
+    "Zeiger": "Leuchtzeiger, poliert",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18,5 - 22,5cm",
+    "Artikel-Nr.": "U7817-LA1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "1ec1863d8bef76ff"
+  },
+  {
+   "id": "BRD-1075/pharo-grossdatum-ii-s-lb",
+   "name": "Pharo GroßDatum II . S . LB",
+   "url": "https://www.limes-uhren.de/klassik/grossdatum-gangreserve/325/pharo-grossdatum-ii.-s.-lb",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/76/f1/2f/limes-uhren-Pharo-grossdatum-lb-br.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/76/f1/2f/limes-uhren-Pharo-grossdatum-lb-br.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Dekoriertes Schweizer Automatikwerk, Großdatum mit Gangreserve - Basis ETA 2892-2 TOP, gebläute Stahlschrauben,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2892-2",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Dekoriertes Schweizer Automatikwerk, Großdatum mit Gangreserve - Basis ETA 2892-2 TOP, gebläute Stahlschrauben, Genfer Streifen und Perlierung, LIMES Schriftzug",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert und gebürstet, Durchmesser 40,5mm, Höhe 11mm, prägnante, vertikale Linien am Umfang, gewölbtes beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Silbern, Clous-de-Paris und Sonnen-Guillochierungen, feine römische Zahlen",
+    "Zeiger": "Gebläute Stahlzeiger",
+    "Band": "Braunes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6117-LA4.4S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "8ab5099944d09e4c"
+  },
+  {
+   "id": "BRD-1075/nightflight-limited-edition-ls",
+   "name": "Nightflight Limited Edition LS",
+   "url": "https://www.limes-uhren.de/kollektion/346/nightflight-limited-edition-ls",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/a3/8a/3b/Limes-Nightflight-Pilot-Watch-White-Dial-Frontal-Final.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/a3/8a/3b/Limes-Nightflight-Pilot-Watch-White-Dial-Frontal-Final.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk ETA 2824-2 (Foto zeigt ETA 2824 TOP, Einbau auf Anfrage) Gehäuse ICKLER…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk ETA 2824-2 (Foto zeigt ETA 2824 TOP, Einbau auf Anfrage)",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 37,8mm, Höhe 9,5mm, flaches beidseitig entspiegeltes Saphirglas, Gewindeboden mit Durchsicht, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Silberweiß, arabische Zahlen (Superluminova)",
+    "Zeiger": "Leuchtzeiger, türkis (Superluminova)",
+    "Band": "Braunes Leder, Breite 20mm, Armumfang: 18,5 - 22,5cm",
+    "Artikel-Nr.": "U7624-LA1.2"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "e326f36ddbecdc95"
+  },
+  {
+   "id": "BRD-1075/aviator-lb",
+   "name": "Aviator LB",
+   "url": "https://www.limes-uhren.de/kollektion/292/aviator-lb",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/ed/3f/5f/U7817-LA1-2shSnaL9nxKitx.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/ed/3f/5f/U7817-LA1-2shSnaL9nxKitx.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk SW 200-1 Gehäuse ICKLER Manufakturgehäuse , Edelstahl, fein gebürstet und…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk SW 200-1",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 42mm, Höhe 9,5mm, flaches beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Schwarz, applizierte arabische Zahlen (poliert), Dreieck und Stundenindexe mit SL-Leuchtmasse",
+    "Zeiger": "Leuchtzeiger, poliert",
+    "Band": "Braunes Leder, Breite 20mm, Armumfang: 18,5 - 22,5cm",
+    "Artikel-Nr.": "U7817-LA1.2"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "548058a2b31dc691"
+  },
+  {
+   "id": "BRD-1075/pharo-grossdatum-ii-s-ls",
+   "name": "Pharo GroßDatum II . S . LS",
+   "url": "https://www.limes-uhren.de/klassik/grossdatum-gangreserve/324/pharo-grossdatum-ii.-s.-ls",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/f1/fb/67/limes-uhren-Pharo-grossdatum-lb-sw.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/f1/fb/67/limes-uhren-Pharo-grossdatum-lb-sw.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Dekoriertes Schweizer Automatikwerk, Großdatum mit Gangreserve - Basis ETA 2892-2 TOP, gebläute Stahlschrauben,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2892-2",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Dekoriertes Schweizer Automatikwerk, Großdatum mit Gangreserve - Basis ETA 2892-2 TOP, gebläute Stahlschrauben, Genfer Streifen und Perlierung, LIMES Schriftzug",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert und gebürstet, Durchmesser 40,5mm, Höhe 11mm, prägnante, vertikale Linien am Umfang, gewölbtes, gewölbtes beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Silbern, Clous-de-Paris und Sonnen-Guillochierungen, feine römische Zahlen",
+    "Zeiger": "Thermisch gebläute Stahlzeiger, gefertigt von ICKLER in Pforzheim.",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6117-LA4.3S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "52314756f9476c6f"
+  },
+  {
+   "id": "BRD-1075/chyros-i-ls",
+   "name": "Chyros I . LS",
+   "url": "https://www.limes-uhren.de/kollektion/275/chyros-i.-ls",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/44/94/fe/limes-uhren-chyros-I.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/44/94/fe/limes-uhren-chyros-I.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk SW 200-1 Gehäuse ICKLER Manufakturgehäuse , Edelstahl, fein gebürstet und…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk SW 200-1",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 43mm, Höhe 10,5mm, markante Cannelierung am Umfang, gewölbtes beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Schwarz, applizierte Indexe",
+    "Zeiger": "Leuchtzeiger",
+    "Band": "Schwarzes Leder, Breite 22mm, Armumfang: 18,5 - 22,5cm",
+    "Artikel-Nr.": "U6017-LA3.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "da56af00e880185e"
+  },
+  {
+   "id": "BRD-1075/nightflight-chronograph-s",
+   "name": "Nightflight Chronograph S",
+   "url": "https://www.limes-uhren.de/kollektion/349/nightflight-chronograph-s",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/a7/74/54/Limes-Nightflight-Chronograph-Frontal-sm2MJutjlXcK5g3i.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/a7/74/54/Limes-Nightflight-Chronograph-Frontal-sm2MJutjlXcK5g3i.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk ETA 7750, modifiziert Gehäuse ICKLER Manufakturgehäuse , Edelstahl, fein…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Valjoux 7750",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk ETA 7750, modifiziert",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 37,8mm, Höhe 14,0mm, flaches beidseitig entspiegeltes Saphirglas, Schraubboden mit Durchsicht, klassische Zwiebelkrone, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Schwarz, arabische Zahlen (Superluminova, türkis)",
+    "Zeiger": "Leuchtzeiger, (Superluminova, türkis), rote Sekunde und Stopzeiger",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18,5 - 22,5cm",
+    "Artikel-Nr.": "U7624-LC1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "002907addd05daf0"
+  },
+  {
+   "id": "BRD-1075/nightflight-chronograph-w",
+   "name": "Nightflight Chronograph W",
+   "url": "https://www.limes-uhren.de/kollektion/350/nightflight-chronograph-w",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/2e/23/59/Limes-Nightflight-Chronograph-W-Frontal-sm2odEtuINPEAgUn.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/2e/23/59/Limes-Nightflight-Chronograph-W-Frontal-sm2odEtuINPEAgUn.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk ETA 7750, modifiziert Gehäuse ICKLER Manufakturgehäuse , Edelstahl, fein…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Valjoux 7750",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk ETA 7750, modifiziert",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 37,8mm, Höhe 14,0mm, flaches beidseitig entspiegeltes Saphirglas, Schraubenboden mit Durchsicht, klassische Zwiebelkrone, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Silberweiß, arabische Zahlen (Superluminova, türkis)",
+    "Zeiger": "Leuchtzeiger, (Superluminova, türkis), schwarze Sekunde und Stopzeiger",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18,5 - 22,5cm",
+    "Artikel-Nr.": "U7624-LC1.2"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "d660da9bfb49e145"
+  },
+  {
+   "id": "BRD-1075/pharo-chronograph-si-lb",
+   "name": "Pharo Chronograph . SI.LB",
+   "url": "https://www.limes-uhren.de/klassik/vollkalender-chronograph/6/pharo-chronograph.-si.lb",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/41/e7/69/U6282C-LC1-2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/41/e7/69/U6282C-LC1-2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Dekoriertes Schweizer Chronographenwerk Eta 7751 TOP mit Vollkalender und Mondphase, gebläute Stahlschrauben,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 7751",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Dekoriertes Schweizer Chronographenwerk Eta 7751 TOP mit Vollkalender und Mondphase, gebläute Stahlschrauben, Genfer Streifen und Perlierung, Rotor mit LIMES Schriftzug",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert, Durchmesser 40,5mm, Höhe 14,3mm, elegante Cannelierung am Umfang, gewölbtes, beidseitig entspiegeltes Saphirglas, Gewindeboden mit Saphirglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Silbernes oder Schwarzes Zifferblatt mit Leuchtpunkten, Clous-de-Paris und Sonnen-Guillochierungen",
+    "Zeiger": "Blaue Breguet Zeiger",
+    "Band": "Braunes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6282C-LC1.2"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "f4e24708a5113494"
+  },
+  {
+   "id": "BRD-1075/pharo-finesse-h-s-lb",
+   "name": "Pharo Finesse H . S . LB",
+   "url": "https://www.limes-uhren.de/klassik/finesse/326/pharo-finesse-h.-s.-lb",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/a7/a6/ea/limes-cartouche-handwound-ickler-case-leather-brown.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/a7/a6/ea/limes-cartouche-handwound-ickler-case-leather-brown.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Handaufzugswerk Eta 6498-1 Gehäuse ICKLER Manufakturgehäuse , Edelstahl, poliert,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 6498-1",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Handaufzugswerk Eta 6498-1",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert, Durchmesser 41,5mm, Höhe 10mm, elegante Cannelierung am Umfang, entspiegeltes, flaches Saphirglas, Gewindeboden mit Mineralglas, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Silberfarbig mit Clous-de-Paris und Sonnen-Guillochierung",
+    "Zeiger": "Thermisch gebläute Stahlzeiger, gefertigt von ICKLER in Pforzheim.",
+    "Band": "Braunes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6282C-LH1.2S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "a7cff53a69f35453"
+  },
+  {
+   "id": "BRD-1075/pharo-finesse-h-s-ls",
+   "name": "Pharo Finesse H . S . LS",
+   "url": "https://www.limes-uhren.de/klassik/finesse/327/pharo-finesse-h.-s.-ls",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/e5/ec/28/limes-cartouche-handwound-ickler-case.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/e5/ec/28/limes-cartouche-handwound-ickler-case.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Handaufzugswerk Eta 6498-1 Gehäuse ICKLER Manufakturgehäuse , Edelstahl, poliert,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 6498-1",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Handaufzugswerk Eta 6498-1",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert, Durchmesser 41,5mm, Höhe 10mm, elegante Cannelierung am Umfang, entspiegeltes, flaches Saphirglas, Gewindeboden mit Mineralglas, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Silberfarbig mit Clous-de-Paris und Sonnen-Guillochierung",
+    "Zeiger": "Gebläute Stahlzeiger",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6282C-LH1.1S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "7f45623ba7ab4441"
+  },
+  {
+   "id": "BRD-1075/leviathan-s",
+   "name": "Leviathan . S",
+   "url": "https://www.limes-uhren.de/taucher/leviathan/21/leviathan.-s",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/46/65/44/U8887B-LA1-1_600x600-Kopie-1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/46/65/44/U8887B-LA1-1_600x600-Kopie-1.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk Sellita SW 200-1 Gehäuse ICKLER Tauchergehäuse , wasserdicht bis 30 ATM,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk Sellita SW 200-1",
+    "Zifferblatt": "Schwarz mit großen Leuchtindizes",
+    "Zeiger": "Leuchtzeiger",
+    "Band": "Edelstahlband mit Taucherverlängerung und Sicherheitsfaltschließe, Breite 22mm, Länge: 16 - 22cm",
+    "Artikel-Nr.": "U8887B-LA1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "4aa33d5e1cc86e53"
+  },
+  {
+   "id": "BRD-1075/leviathan-l",
+   "name": "Leviathan . L",
+   "url": "https://www.limes-uhren.de/taucher/leviathan/22/leviathan.-l",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/d0/b2/a8/Limes-Endurance-Germany-Diver-Watch-Taucheruhr-U8887B-LA1-1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/d0/b2/a8/Limes-Endurance-Germany-Diver-Watch-Taucheruhr-U8887B-LA1-1.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk Sellita SW 200-1 Gehäuse ICKLER Tauchergehäuse , wasserdicht bis 30 ATM,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk Sellita SW 200-1",
+    "Zifferblatt": "Schwarz mit großen Leuchtindizes",
+    "Zeiger": "Leuchtzeiger",
+    "Band": "Lederband mit Kautschukmantel, Breite 22mm, Länge: 19 - 22cm",
+    "Artikel-Nr.": "U8887-LA1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "cb420d6cca29d932"
+  },
+  {
+   "id": "BRD-1075/pharo-balvis-ii-s-lb",
+   "name": "Pharo BalVis II . S . LB",
+   "url": "https://www.limes-uhren.de/klassik/finesse/332/pharo-balvis-ii.-s.-lb",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/de/cf/b3/U6117-LA3-2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/de/cf/b3/U6117-LA3-2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Dekoriertes Schweizer Automatikwerk ETA 2824-2 TOP mit offener Unruh , gebläute Stahlschrauben, Genfer Streifen…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Dekoriertes Schweizer Automatikwerk ETA 2824-2 TOP mit offener Unruh, gebläute Stahlschrauben, Genfer Streifen und Perlierung, Rotor mit LIMES Schriftzug",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert und gebürstet, Durchmesser 40,5mm, Höhe 11mm, prägnante, vertikale Linien am Umfang, gewölbtes, beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Versilbert, feine römische Zahlen, elegante Sonnen-Guillochierung",
+    "Zeiger": "Thermisch gebläute Stahlzeiger, gefertigt von ICKLER in Pforzheim.",
+    "Band": "Braunes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6117-LA3.2S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "1cb5d40753fff9aa"
+  },
+  {
+   "id": "BRD-1075/pharo-balvis-ii-s-ls",
+   "name": "Pharo BalVis II . S . LS",
+   "url": "https://www.limes-uhren.de/klassik/finesse/333/pharo-balvis-ii.-s.-ls",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/88/b5/79/U6117-LA3-1-S.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/88/b5/79/U6117-LA3-1-S.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Dekoriertes Schweizer Automatikwerk ETA 2824-2 TOP mit offener Unruh , gebläute Stahlschrauben, Genfer Streifen…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Dekoriertes Schweizer Automatikwerk ETA 2824-2 TOP mit offener Unruh, gebläute Stahlschrauben, Genfer Streifen und Perlierung, Rotor mit LIMES Schriftzug",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert und gebürstet, Durchmesser 40,5mm, Höhe 11mm, prägnante, vertikale Linien am Umfang, gewölbtes, gewölbtes beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Versilbert, feine römische Zahlen, elegante Sonnen-Guillochierung",
+    "Zeiger": "Thermisch gebläute Stahlzeiger, gefertigt von ICKLER in Pforzheim.",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6117-LA3.1S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "cadf46797f30fc7d"
+  },
+  {
+   "id": "BRD-1075/pharo-daydate-s-lb",
+   "name": "Pharo DayDate S . LB",
+   "url": "https://www.limes-uhren.de/klassik/daydate/323/pharo-daydate-s.-lb",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/e8/85/07/limes-uhren-Pharo-daydate.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/e8/85/07/limes-uhren-Pharo-daydate.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Dekoriertes Schweizer Automatikwerk ETA 2834 TOP Tag / Datum , gebläute Stahlschrauben, Genfer Streifen und…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2834",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Dekoriertes Schweizer Automatikwerk ETA 2834 TOP Tag / Datum, gebläute Stahlschrauben, Genfer Streifen und Perlierung, Rotor mit LIMES Schriftzug. Die Tagesanzeige ist in Deutsch oder Englisch erhältlich.",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert und gebürstet, Durchmesser 40,5mm, Höhe 11mm, vertikale Linien am Umfang, gewölbtes, gewölbtes beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Versilbert, feine römische Zahlen, elegante Clous-de-Paris-Guillochierung",
+    "Zeiger": "Thermisch gebläute Stahlzeiger, gefertigt von ICKLER in Pforzheim.",
+    "Band": "Braunes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6117-LA2.4S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "78189323a13338a0"
+  },
+  {
+   "id": "BRD-1075/pharo-daydate-s-ls",
+   "name": "Pharo DayDate S . LS",
+   "url": "https://www.limes-uhren.de/klassik/daydate/322/pharo-daydate-s.-ls",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/89/45/9d/limes-uhren-Pharo-daydate-lb-sw.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/89/45/9d/limes-uhren-Pharo-daydate-lb-sw.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Dekoriertes Schweizer Automatikwerk ETA 2834 TOP Tag / Datum , gebläute Stahlschrauben, Genfer Streifen und…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2834",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Dekoriertes Schweizer Automatikwerk ETA 2834 TOP Tag / Datum, gebläute Stahlschrauben, Genfer Streifen und Perlierung, Rotor mit LIMES Schriftzug. Die Tagesanzeige ist in Deutsch oder Englisch erhältlich.",
+    "Gehäuse": "ICKLER Manufakturgehäuse, Edelstahl, poliert und gebürstet, Durchmesser 40,5mm, Höhe 11mm, prägnante, vertikale Linien am Umfang, gewölbtes, gewölbtes beidseitig entspiegeltes Saphirglas, Gewindeboden mit Mineralglas, Krone mit Ickler Logo, wasserdicht bis 5 ATM",
+    "Zifferblatt": "Versilbert, feine römische Zahlen, elegante Clous-de-Paris-Guillochierung",
+    "Zeiger": "Thermisch gebläute Stahlzeiger, gefertigt von ICKLER in Pforzheim.",
+    "Band": "Schwarzes Leder, Breite 20mm, Armumfang: 18 - 22cm",
+    "Artikel-Nr.": "U6117-LA2.3S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "df9671c391197ad4"
+  },
+  {
+   "id": "BRD-1075/endurance-ii-b-l",
+   "name": "Endurance II . B.L",
+   "url": "https://www.limes-uhren.de/taucher/endurance-ii/300/endurance-ii.-b.l",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/6f/d2/34/Limes-Endurance-2-Diver-Watch-Blue-Blau-Taucheruhr-Germany-Ickler.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/6f/d2/34/Limes-Endurance-2-Diver-Watch-Blue-Blau-Taucheruhr-Germany-Ickler.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk Sellita SW 200-1 Gehäuse ICKLER Tauchergehäuse , wasserdicht bis 30 ATM,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk Sellita SW 200-1",
+    "Gehäuse": "ICKLER Tauchergehäuse, wasserdicht bis 30 ATM, Edelstahl gebürstet,Durchmesser 41,5mm, mit Krone 46mm, Länge 6-12: 50mm, Höhe 12,6 mmeinseitig drehbare Lünette mit blauer 60 Min Skala und Leuchtpunkt, entspiegeltes Saphirglas, massiver Gewindeboden, Schraubkrone mit I-Logo, Schraubstege",
+    "Zifferblatt": "Blau mit großen Leuchtindizes, Datum bei 6 Uhr, mit Logo",
+    "Zeiger": "Leuchtzeiger",
+    "Band": "Lederband mit Kautschukmantel, Breite 20mm, Länge: 19 - 22,5cm",
+    "Artikel-Nr.": "U8778-LA2.2"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "e81da1b555644546"
+  },
+  {
+   "id": "BRD-1075/endurance-ii-sw-l",
+   "name": "Endurance II . SW.L",
+   "url": "https://www.limes-uhren.de/taucher/endurance-ii/282/endurance-ii.-sw.l",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/35/04/8c/Limes-Endurance-2-Diver-Watch-1-Taucheruhr-Germany-Ickler.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/35/04/8c/Limes-Endurance-2-Diver-Watch-1-Taucheruhr-Germany-Ickler.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Technische Details Werk Schweizer Automatikwerk Sellita SW 200-1 Gehäuse ICKLER Tauchergehäuse , wasserdicht bis 100 ATM,…",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Werk": "Schweizer Automatikwerk Sellita SW 200-1",
+    "Gehäuse": "ICKLER Tauchergehäuse, wasserdicht bis 100 ATM, Edelstahl gebürstet,Durchmesser 41,5mm, mit Krone 46mm, Länge 6-12: 50mm, Höhe 12,6 mmeinseitig drehbare Lünette mit schwarzer 60 Min Skala und Leuchtpunkt, entspiegeltes Saphirglas, massiver Gewindeboden, Schraubkrone mit I-Logo, Schraubstege",
+    "Zifferblatt": "Schwarz mit großen Leuchtindizes",
+    "Zeiger": "Leuchtzeiger",
+    "Band": "Lederband mit Kautschukmantel, Breite 20mm, Länge: 19 - 22,5cm",
+    "Artikel-Nr.": "U8778-LA1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/kollektion"
+   ],
+   "hash": "959db0062b11cced"
+  },
+  {
+   "id": "BRD-1075/lederband-chyros-schwarz-22mm",
+   "name": "Lederband Chyros - schwarz",
+   "url": "https://www.limes-uhren.de/baender/119/lederband-chyros-schwarz-22mm",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/d3/e9/56/ba-01-22-swgr557fe34fc3ce3.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/d3/e9/56/ba-01-22-swgr557fe34fc3ce3.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Schwarzes Lederband mit grauer Naht Breite: 22mm Dornschließe: 20mm",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Breite": "22mm",
+    "Dornschließe": "20mm Zuletzt angesehen",
+    "Artikel-Nr.": "BA.01.22.SWGR",
+    "Lieferzeit": "1-2 Wochen"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "5c9d67bd92fe51e9"
+  },
+  {
+   "id": "BRD-1075/lederband-chyros-kroko-design-braun-22mm",
+   "name": "Lederband Chyros - Kroko-Design - braun",
+   "url": "https://www.limes-uhren.de/baender/136/lederband-chyros-kroko-design-braun-22mm",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/05/9e/3d/ba-02-22-br557fe359b955c.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/05/9e/3d/ba-02-22-br557fe359b955c.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Braunes Lederband mit Kroko-Design Breite: 22mm Dornschließe: 20mm",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Breite": "22mm",
+    "Dornschließe": "20mm Zuletzt angesehen",
+    "Artikel-Nr.": "BA.02.22.BR",
+    "Lieferzeit": "1-2 Wochen"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "56cc6da4d84de9c5"
+  },
+  {
+   "id": "BRD-1075/lederband-chyros-kroko-design-schwarz-22mm",
+   "name": "Lederband Chyros - Kroko Design - schwarz",
+   "url": "https://www.limes-uhren.de/baender/137/lederband-chyros-kroko-design-schwarz-22mm",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/eb/ea/c5/BA-02-22-SW.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/eb/ea/c5/BA-02-22-SW.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Schwarzes Lederband mit Kroko-Design Breite: 22mm Dornschließe: 20mm",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Breite": "22mm",
+    "Dornschließe": "20mm Zuletzt angesehen",
+    "Artikel-Nr.": "BA.02.22.SW",
+    "Lieferzeit": "1-2 Wochen"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "e6ff97166766165d"
+  },
+  {
+   "id": "BRD-1075/individuelle-bodengravur-fl-las-ind",
+   "name": "Individuelle Bodengravur FL.LAS-IND",
+   "url": "https://www.limes-uhren.de/199/individuelle-bodengravur-fl.las-ind",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/a0/c3/36/boden-gravur.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.limes-uhren.de/media/image/a0/c3/36/boden-gravur.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Individuelle Bodengravur Senden Sie uns den Text, den Sie graviert haben wollen",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Artikel-Nr.": "FL.LAS-IND",
+    "Lieferzeit": "1-2 Wochen"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:44:01.117Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:44:01.117Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1075/chyros-i-ls"
+   ],
+   "hash": "d83b9ae3b9ae6f4b"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1075/kollektion",
+   "name": "Kollektion",
+   "url": "https://www.limes-uhren.de/kollektion/",
+   "description": "LIMES - Uhren Made in Germany | Chronographen | Automatik | Handaufzug | Taucheruhren",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/24/43/f0/logo55c1fa9564b6d.png",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1075/aviator-lb",
+   "name": "Aviator LB",
+   "url": "https://www.limes-uhren.de/kollektion/292/aviator-lb",
+   "description": "Technische Details Werk Schweizer Automatikwerk SW 200-1 Gehäuse ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 42mm, H…",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/ed/3f/5f/U7817-LA1-2shSnaL9nxKitx.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1075/nightflight-chronograph-s",
+   "name": "Nightflight Chronograph S",
+   "url": "https://www.limes-uhren.de/kollektion/349/nightflight-chronograph-s",
+   "description": "Technische Details Werk Schweizer Automatikwerk ETA 7750, modifiziert Gehäuse ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchm…",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/a7/74/54/Limes-Nightflight-Chronograph-Frontal-sm2MJutjlXcK5g3i.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1075/nightflight-limited-edition-ls",
+   "name": "Nightflight Limited Edition LS",
+   "url": "https://www.limes-uhren.de/kollektion/346/nightflight-limited-edition-ls",
+   "description": "Technische Details Werk Schweizer Automatikwerk ETA 2824-2 (Foto zeigt ETA 2824 TOP, Einbau auf Anfrage) Gehäuse ICKLER Manufakturgehäuse, Edelstahl,…",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/a3/8a/3b/Limes-Nightflight-Pilot-Watch-White-Dial-Frontal-Final.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1075/chyros-i-ls",
+   "name": "Chyros I . LS",
+   "url": "https://www.limes-uhren.de/kollektion/275/chyros-i.-ls",
+   "description": "Technische Details Werk Schweizer Automatikwerk SW 200-1 Gehäuse ICKLER Manufakturgehäuse, Edelstahl, fein gebürstet und poliert, Durchmesser 43mm, H…",
+   "image": {
+    "url": "https://www.limes-uhren.de/media/image/44/94/fe/limes-uhren-chyros-I.jpg",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "brandId": "BRD-1368",
+ "brandName": "TWCO Technical Watches",
+ "website": "https://twcowatches.com",
+ "crawledAt": "2026-11-01T08:43:50.819Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://twcowatches.com/wp-content/uploads/2017/04/logo-wit-transparant-w100px.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://twcowatches.com/"
+ },
+ "attribution": "Images © TWCO Technical Watches, from twcowatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1368/air-controller-chronograph-stainless-steel-black-brown-strap",
+   "name": "Air Controller Chronograph (stainless steel + black + brown strap)",
+   "url": "https://twcowatches.com/product/air-controller-chronograph-stainless-steel-black-brown-strap/",
+   "image": {
+    "url": "https://twcowatches.com/wp-content/uploads/2019/04/Concept-Air-Controller-Chrono-plus-2-straps.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://twcowatches.com/wp-content/uploads/2019/04/Concept-Air-Controller-Chrono-plus-2-straps.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 39669,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:43:50.819Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:43:50.819Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1368/uncategorized"
+   ],
+   "hash": "2cab161ebca6c3d2"
+  },
+  {
+   "id": "BRD-1368/air-controller-chronograph-brown-leather-strap",
+   "name": "Air Controller Chronograph brown leather strap",
+   "url": "https://twcowatches.com/product/air-controller-chronograph-brown-leather-strap/",
+   "image": {
+    "url": "https://twcowatches.com/wp-content/uploads/2019/03/1_1-leather-strap-cognac-ACC-h800px.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://twcowatches.com/wp-content/uploads/2019/03/1_1-leather-strap-cognac-ACC-h800px.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 29752,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:43:50.819Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:43:50.819Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1368/uncategorized"
+   ],
+   "hash": "d4a03b9434359c52"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1368/uncategorized",
+   "name": "Uncategorized",
+   "url": "https://twcowatches.com/product-category/uncategorized/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

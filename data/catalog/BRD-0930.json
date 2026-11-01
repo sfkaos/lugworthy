@@ -1,0 +1,707 @@
+{
+ "brandId": "BRD-0930",
+ "brandName": "Gagà Laboratorio",
+ "website": "https://gagalaboratorio.com",
+ "crawledAt": "2026-11-01T07:15:38.171Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://gagalaboratorio.com/wp-content/uploads/2024/07/new-logo-gagalab-1.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://gagalaboratorio.com/"
+ },
+ "attribution": "Images © Gagà Laboratorio, from gagalaboratorio.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0930/superleggero",
+   "name": "Superleggero",
+   "url": "https://gagalaboratorio.com/product/superleggero/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2026/08/gaga-laboratorio-labormatic-superleggero.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2026/08/gaga-laboratorio-labormatic-superleggero.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 470000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "18480cc95b579fae"
+  },
+  {
+   "id": "BRD-0930/silver-grey-and-blue",
+   "name": "Silver Grey and Blue",
+   "url": "https://gagalaboratorio.com/product/silver-grey-and-blue/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2026/04/Silver-Grey-and-Blue.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2026/04/Silver-Grey-and-Blue.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Aqualab",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0930/aqualab"
+   ],
+   "hash": "365563467aca475e"
+  },
+  {
+   "id": "BRD-0930/aquamarine",
+   "name": "Aquamarine",
+   "url": "https://gagalaboratorio.com/product/aquamarine/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2026/04/aqualab-AQ01-01.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2026/04/aqualab-AQ01-01.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Aqualab",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0930/aqualab"
+   ],
+   "hash": "54b06764baf32ccf"
+  },
+  {
+   "id": "BRD-0930/aqualab-anthracite",
+   "name": "Anthracite",
+   "url": "https://gagalaboratorio.com/product/aqualab-anthracite/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2026/04/anthrax.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2026/04/anthrax.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Aqualab",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0930/aqualab"
+   ],
+   "hash": "e3692d3e32372aae"
+  },
+  {
+   "id": "BRD-0930/azzurro-rubber",
+   "name": "Azzurro",
+   "url": "https://gagalaboratorio.com/product/azzurro-rubber/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2026/02/azzurro-rubber-4.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2026/02/azzurro-rubber-4.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 400000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "645a2200f6e3733f"
+  },
+  {
+   "id": "BRD-0930/chamapagne-rubber",
+   "name": "Champagne",
+   "url": "https://gagalaboratorio.com/product/chamapagne-rubber/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2026/02/champ-rub.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2026/02/champ-rub.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 400000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "62cec015019cda04"
+  },
+  {
+   "id": "BRD-0930/thebauhaus-rubber",
+   "name": "Bauhaus",
+   "url": "https://gagalaboratorio.com/product/thebauhaus-rubber/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2026/02/bau-rubber-product.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2026/02/bau-rubber-product.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 400000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "cb5d6ea43c5989bd"
+  },
+  {
+   "id": "BRD-0930/cinquanta-rubber",
+   "name": "Cinquanta",
+   "url": "https://gagalaboratorio.com/product/cinquanta-rubber/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2026/02/Gagalaboratorio-watch-rubber.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2026/02/Gagalaboratorio-watch-rubber.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 400000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "451f8e7402639f1d"
+  },
+  {
+   "id": "BRD-0930/luce",
+   "name": "Luce",
+   "url": "https://gagalaboratorio.com/product/luce/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2025/07/luce-frontale-scaled.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2025/07/luce-frontale-scaled.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 430000,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a2058fca20a116e1"
+  },
+  {
+   "id": "BRD-0930/azzurro",
+   "name": "Azzurro",
+   "url": "https://gagalaboratorio.com/product/azzurro/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2025/05/labormatic-azzurro-product-1-scaled.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2025/05/labormatic-azzurro-product-1-scaled.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Labormatic Azzurro. Swiss Made watch with self-winding automatic movement. Made in Italy azur leather strap. Azur dial.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "471ac3db730d7b5f"
+  },
+  {
+   "id": "BRD-0930/thechampagne",
+   "name": "Champagne",
+   "url": "https://gagalaboratorio.com/product/thechampagne/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2025/05/labormatic-champagne-product-1-scaled.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2025/05/labormatic-champagne-product-1-scaled.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": "Labormatic Champagne. Swiss Made watch with self-winding automatic movement. Made in Italy cream leather strap. Champagne dial.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6e8985106ce3e18f"
+  },
+  {
+   "id": "BRD-0930/bauhaus",
+   "name": "Bauhaus",
+   "url": "https://gagalaboratorio.com/product/bauhaus/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2024/08/bau_04-scaled.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2024/08/bau_04-scaled.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Labormatic Bauhaus. Swiss Made watch with self-winding automatic movement. Made in Italy black leather strap. Grey dial.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "776169ebe36a9f14"
+  },
+  {
+   "id": "BRD-0930/cinquanta",
+   "name": "Cinquanta",
+   "url": "https://gagalaboratorio.com/product/cinquanta/",
+   "image": {
+    "url": "https://gagalaboratorio.com/wp-content/uploads/2024/10/cin_04-scaled.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2024/10/cin_04-scaled.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2024/07/section_002.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://gagalaboratorio.com/wp-content/uploads/2024/07/pp2-e1722383260962.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 390000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Breve descrizione del prodotto Labormatic Cinquanta. Swiss Made watch with self-winding automatic movement. Made in Italy light grey leather strap. Green dial.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:38.171Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:38.171Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b637837b17aa85fb"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0930/aqualab",
+   "name": "Aqualab",
+   "url": "https://gagalaboratorio.com/categoria-prodotto/aqualab/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

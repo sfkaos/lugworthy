@@ -1,0 +1,3304 @@
+{
+ "brandId": "BRD-1005",
+ "brandName": "Indie Watch",
+ "website": "https://indiewatch.com",
+ "crawledAt": "2026-11-01T07:33:02.169Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://indiewatch.com/assets/logos/logo-header.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://indiewatch.com/"
+ },
+ "attribution": "Images © Indie Watch, from indiewatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1005/lapislazuli",
+   "name": "Trencadís Lapislázuli",
+   "url": "https://indiewatch.com/trencadis/lapislazuli?correa=blue",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/renders--watch-blue.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/renders--watch-blue.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reloj IndieWatch Trencadís Lapislázuli: esfera de mosaico de lapislázuli natural sobre oro, homenaje a Gaudí. Edición limitada de 20 piezas, montado en Madrid. 499 €, envío gratuito y 3 años de garantía.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tributo a Antoni Gaudí.": "Dial de estructura tridimensional en relieve combinada con impresión por serigrafía. «El azul ultramar que Gaudí le robó al mar Mediterráneo»",
+    "Envío gratuito": "WORLDWIDE",
+    "Estuche de la colección": "estuche especial trencadís",
+    "Garantía 3 años": "Servicio en Madrid"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "2ab6f8e1eed618ea"
+  },
+  {
+   "id": "BRD-1005/cupula",
+   "name": "Trencadís Cúpula",
+   "url": "https://indiewatch.com/trencadis/cupula?correa=blue",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/cupula--watch-blue.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/cupula--watch-blue.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reloj IndieWatch Trencadís Cúpula: esfera de mosaico en azul, cian y negro con destello anaranjado, homenaje a la Casa Vicens de Gaudí. Edición numerada de 20 piezas, montado en España. 499 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tributo a Antoni Gaudí.": "Un diseño inspirado en las creaciones artesanales del modernismo histórico que aporta profundidad, color y un carácter único a la pieza",
+    "Envío gratuito": "WORLDWIDE",
+    "Estuche de la colección": "estuche especial trencadís",
+    "Garantía 3 años": "Servicio en Madrid"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "381abba1f6aed567"
+  },
+  {
+   "id": "BRD-1005/aiguamarina",
+   "name": "Trencadís Aiguamarina",
+   "url": "https://indiewatch.com/trencadis/aiguamarina?correa=black",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aiguamarina--watch-black.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aiguamarina--watch-black.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reloj IndieWatch Trencadís Aiguamarina: esfera de mosaico de esmalte azul aguamarina sobre vetas de oro, homenaje al Mediterráneo que se contempla desde la Torre Bellesguard de Gaudí. Edición numerada de 20 piezas, montado en España. 499 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tributo a Antoni Gaudí.": "Representación de la técnica \"trencadís\" original en aguamarina sobre vetas de doradas. «El Mediterráneo en calma que se contempla desde la torre de Bellesguard»",
+    "Envío gratuito": "WORLDWIDE",
+    "Estuche de la colección": "estuche especial trencadís",
+    "Garantía 3 años": "Servicio en Madrid"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "5d739c3a4efe1c21"
+  },
+  {
+   "id": "BRD-1005/bosque-encantado",
+   "name": "Trencadís Bosque Encantado",
+   "url": "https://indiewatch.com/trencadis/bosque-encantado?correa=green",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/bosque--watch-green.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/bosque--watch-green.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reloj IndieWatch Trencadís Bosque Encantado: esfera de mosaico de esmalte verde bosque sobre vetas de oro, homenaje a la columnata del Park Güell de Gaudí. Edición numerada de 20 piezas, montado en España. 499 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tributo a Antoni Gaudí.": "Dial de estructura tridimensional tintadas de verde bosque sobre vetas doradas. «El verdor encantado que Gaudí cultivó entre columnas de piedra»",
+    "Envío gratuito": "WORLDWIDE",
+    "Estuche de la colección": "estuche especial trencadís",
+    "Garantía 3 años": "Servicio en Madrid"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "fffe70615bb7a93c"
+  },
+  {
+   "id": "BRD-1005/carmesi",
+   "name": "Trencadís Carmesí",
+   "url": "https://indiewatch.com/trencadis/carmesi?correa=red",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/carmesi--watch-red.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/carmesi--watch-red.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reloj IndieWatch Trencadís Carmesí: esfera de mosaico de esmalte carmesí sobre base rugosa de negro profundo, homenaje a El Capricho de Gaudí. Edición numerada de 20 piezas, montado en España. 499 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tributo a Antoni Gaudí.": "Dial tridimensional serigrafiado en color carmesí sobre base rugosa de negro profundo. «El rojo encendido que Gaudí soñó para sus fantasías polícromas»",
+    "Envío gratuito": "WORLDWIDE",
+    "Estuche de la colección": "estuche especial trencadís",
+    "Garantía 3 años": "Servicio en Madrid"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "82e83c3cd855f59b"
+  },
+  {
+   "id": "BRD-1005/magic-drac",
+   "name": "Trencadís Magic Drac",
+   "url": "https://indiewatch.com/trencadis/magic-drac?correa=black",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/magicdrac--watch-black.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/magicdrac--watch-black.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reloj IndieWatch Trencadís Magic Drac: esfera de mosaico de esmalte polícromo sobre oro, homenaje al dragón de la escalinata del Park Güell de Gaudí. Edición numerada de 20 piezas, montado en España. 499 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tributo a Antoni Gaudí.": "Homenaje al Park Guell. Salamandra polícroma fragmentada: rojo, naranja, verde y amarillo sobre venas doradas.",
+    "Envío gratuito": "WORLDWIDE",
+    "Estuche de la colección": "estuche especial trencadís",
+    "Garantía 3 años": "Servicio en Madrid"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "f9a8013cc3937d0f"
+  },
+  {
+   "id": "BRD-1005/moonlight",
+   "name": "Trencadís Moonlight",
+   "url": "https://indiewatch.com/trencadis/moonlight?correa=black",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/moonlight--watch-black.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/moonlight--watch-black.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reloj IndieWatch Trencadís Moonlight: esfera de mosaico de blanco cerámico sobre vetas de oro rugoso, homenaje a la azotea de la Casa Milà de Gaudí. Edición numerada de 20 piezas, montado en España. 499 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tributo a Antoni Gaudí.": "Blanco perlado con venas grafito y dorado tenue. «La luz de luna que Gaudí perseguía sobre los tejados de Barcelona»",
+    "Envío gratuito": "WORLDWIDE",
+    "Estuche de la colección": "estuche especial trencadís",
+    "Garantía 3 años": "Servicio en Madrid"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "b084a4bf5c81a187"
+  },
+  {
+   "id": "BRD-1005/nightdream",
+   "name": "Trencadís NightDream",
+   "url": "https://indiewatch.com/trencadis/nightdream?correa=black",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/nightdream--watch-black.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/nightdream--watch-black.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reloj IndieWatch Trencadís NightDream: esfera de mosaico de esmalte negro profundo sobre base rugosa en oro, homenaje a la noche de la Barcelona modernista de Gaudí. Edición numerada de 20 piezas, montado en España. 499 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tributo a Antoni Gaudí.": "Negro azabache con venas doradas brillantes creando un efecto tridimensional. «La noche de Barcelona, rota y recompuesta en oro»",
+    "Envío gratuito": "WORLDWIDE",
+    "Estuche de la colección": "estuche especial trencadís",
+    "Garantía 3 años": "Servicio en Madrid"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "0e5345eda96c9461"
+  },
+  {
+   "id": "BRD-1005/strum-zl",
+   "name": "Strum Serie 113 El Piloto",
+   "url": "https://indiewatch.com/strum/strum-zl?correa=armis",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-zl--watch-burdeos.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-zl--watch-burdeos.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 52900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Piloto» en negro racing con subesferas tricolor y aguja roja. Caja cojín de acero, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "4c0316c5d30518c7"
+  },
+  {
+   "id": "BRD-1005/strum-x",
+   "name": "Strum Serie 113 El Cronometrador",
+   "url": "https://indiewatch.com/strum/strum-x?correa=armis",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-x--watch-negra.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-x--watch-negra.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 52900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Cronometrador» panda: esfera blanca, contadores negros y agujas rojas. Caja cojín de acero, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO",
+    "El panda nació en los cronómetros de pista": "fondo blanco y contadores negros para leer los tiempos de un vistazo. Las agujas rojas hacen el resto."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "be96676674df0719"
+  },
+  {
+   "id": "BRD-1005/strum-ks",
+   "name": "Strum Serie 113 El Copiloto",
+   "url": "https://indiewatch.com/strum/strum-ks?correa=armis",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-ks--watch-navy.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-ks--watch-navy.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 52900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Copiloto» en azul navy con aguja naranja y escala taquimétrica de 500 a 60. Caja cojín de acero, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "218a63a20bf0b539"
+  },
+  {
+   "id": "BRD-1005/strum-o",
+   "name": "Strum Serie 113 El Debutante",
+   "url": "https://indiewatch.com/strum/strum-o?correa=armis",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-o--watch-negra.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-o--watch-negra.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 52900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Debutante» en celeste con contadores negros. Caja cojín de acero, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO",
+    "El azul más joven de la serie": "celeste liso con dos contadores negros para que la lectura no pierda la seriedad racing. Primer semáforo, cielo limpio, todo por escribir."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "c928a6c444e873fc"
+  },
+  {
+   "id": "BRD-1005/strum-rosa",
+   "name": "Strum Serie 113 El Fotógrafo",
+   "url": "https://indiewatch.com/strum/strum-rosa?correa=armis",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-rosa--watch-negra.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-rosa--watch-negra.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 52900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Fotógrafo» en rosa pálido con contadores negros. Caja cojín de acero, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "78a0915dbaa03784"
+  },
+  {
+   "id": "BRD-1005/strum-vbr",
+   "name": "Strum Serie 113 El Mecánico",
+   "url": "https://indiewatch.com/strum/strum-vbr?correa=armis",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-vbr--watch-negra.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-vbr--watch-negra.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 52900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Mecánico» en verde británico con aguja de cronógrafo roja. Caja cojín de acero, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "b6084955d05dd894"
+  },
+  {
+   "id": "BRD-1005/strum-wr",
+   "name": "Strum Serie 113 El Ingeniero",
+   "url": "https://indiewatch.com/strum/strum-wr?correa=armis",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-wr--watch-negra.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-wr--watch-negra.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 52900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Ingeniero» en verde británico con contador de sector rojo. Caja cojín de acero, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "c8bde34e806ab456"
+  },
+  {
+   "id": "BRD-1005/strum-grc",
+   "name": "Strum Serie 113 El Comisario",
+   "url": "https://indiewatch.com/strum/strum-grc?correa=armis",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-grc--watch-armis.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-grc--watch-armis.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 52900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Comisario» en amarillo con contadores negros y agujas rojas. Caja cojín de acero, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "14dd9ad817588083"
+  },
+  {
+   "id": "BRD-1005/strum-mxk",
+   "name": "Strum Serie 113 El Gentleman",
+   "url": "https://indiewatch.com/strum/strum-mxk?correa=negra",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-mxk--watch-negra.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-mxk--watch-negra.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Gentleman» en oro sobre negro con agujas doradas. Caja cojín dorada, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO",
+    "Nada grita en este dial": "los contadores van en negro sobre negro y todo lo que brilla es oro. Es el más discreto de la serie, hasta que le da la luz."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "58cfa8fd631a52a5"
+  },
+  {
+   "id": "BRD-1005/strum-kuv",
+   "name": "Strum Serie 113 El Diseñador",
+   "url": "https://indiewatch.com/strum/strum-kuv?correa=gosbi-verde",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-kuv--watch-negra.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-kuv--watch-negra.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Diseñador» en verde bosque con contadores naranja y verde. Caja cojín dorada, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "38f54ee5e1021e75"
+  },
+  {
+   "id": "BRD-1005/strum-wqp",
+   "name": "Strum Serie 113 El Patrocinador",
+   "url": "https://indiewatch.com/strum/strum-wqp?correa=burdeos",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-bur-bur.01.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-bur-bur.01.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Patrocinador» en burgundy con estriado vertical y caja de oro rosa. Caja cojín, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "870aa034ebb96149"
+  },
+  {
+   "id": "BRD-1005/strum-mhj",
+   "name": "Strum Serie 113 El Cronista",
+   "url": "https://indiewatch.com/strum/strum-mhj?correa=negra",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-mhj--watch-negra.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/strum-mhj--watch-negra.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cronógrafo Strum Serie 113 «El Cronista» en azul eléctrico con caja de oro rosa. Caja cojín, cristal de zafiro, cuarzo japonés Miyota. Diseñado y ensamblado a mano en España. 449 €.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Fondo grabado": "Nº113 · CIRCUITO DEL JARAMA",
+    "Mecánica Miyota": "CRONÓGRAFO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "495d777f0a3253a1"
+  },
+  {
+   "id": "BRD-1005/delphos-ks",
+   "name": "Delphos Serie 193 Ónice",
+   "url": "https://indiewatch.com/delphos/delphos-ks?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-ks.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-ks.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Ónice (KS): reloj mecánico de vestir con caja cojín de acero 316L pulido a espejo, esfera negra lacada e índices en forma de estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "dc136bb58f1e0a68"
+  },
+  {
+   "id": "BRD-1005/delphos-kg",
+   "name": "Delphos Serie 193 Borgoña",
+   "url": "https://indiewatch.com/delphos/delphos-kg?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-kg.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-kg.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Borgoña (KG): reloj mecánico de vestir con esfera rojo carmesí en sunburst y fumé, caja cojín de acero 316L pulido a espejo e índices estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "8f10548a3d549deb"
+  },
+  {
+   "id": "BRD-1005/delphos-kp",
+   "name": "Delphos Serie 193 Ultramar",
+   "url": "https://indiewatch.com/delphos/delphos-kp?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-kp.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-kp.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Ultramar (KP): reloj mecánico de vestir con esfera azul sunburst y fumé, caja cojín de acero 316L pulido a espejo e índices estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "7d9f22622493f08e"
+  },
+  {
+   "id": "BRD-1005/delphos-xb",
+   "name": "Delphos Serie 193 Boreal",
+   "url": "https://indiewatch.com/delphos/delphos-xb?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-xb.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-xb.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Boreal (XB): reloj mecánico de vestir con esfera en degradado sunburst del verde esmeralda al índigo, caja cojín de acero 316L e índices estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "f8d880446b7926f6"
+  },
+  {
+   "id": "BRD-1005/delphos-kw",
+   "name": "Delphos Serie 193 Marfil",
+   "url": "https://indiewatch.com/delphos/delphos-kw?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-kw.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-kw.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Marfil (KW): reloj mecánico de vestir con esfera champán en sunburst, caja cojín de acero 316L pulido a espejo e índices estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "e9d0204e0e29921e"
+  },
+  {
+   "id": "BRD-1005/delphos-xd",
+   "name": "Delphos Serie 193 Crepúsculo",
+   "url": "https://indiewatch.com/delphos/delphos-xd?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-xd.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-xd.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Crepúsculo (XD): reloj mecánico de vestir con esfera en degradado sunburst del cobre al violeta, caja cojín de acero 316L e índices estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "cc301f3469220814"
+  },
+  {
+   "id": "BRD-1005/delphos-ku",
+   "name": "Delphos Serie 193 Pinar",
+   "url": "https://indiewatch.com/delphos/delphos-ku?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-ku.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-ku.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Pinar (KU): reloj mecánico de vestir con esfera verde bosque en sunburst y fumé, caja cojín de acero 316L pulido a espejo e índices estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "6598e054656554ad"
+  },
+  {
+   "id": "BRD-1005/delphos-bl",
+   "name": "Delphos Serie 193 Celeste",
+   "url": "https://indiewatch.com/delphos/delphos-bl?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-bl.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-bl.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Celeste (BL): reloj mecánico de vestir con esfera azul claro lacada sin degradado, caja cojín de acero 316L pulido a espejo e índices estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "c1eb55f94981f386"
+  },
+  {
+   "id": "BRD-1005/delphos-pk",
+   "name": "Delphos Serie 193 Pétalo",
+   "url": "https://indiewatch.com/delphos/delphos-pk?correa=vegetal",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-pk.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/delphos-193--watch-pk.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Delphos Serie 193 Pétalo (PK): reloj mecánico de vestir con esfera rosa empolvado mate, caja cojín de acero 316L pulido a espejo e índices estilete. Calibre automático base Seiko NH35 modificado, cristal de zafiro plano. Diseñado y ensamblado a mano en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre mecánico": "NH35 MODIFICADO · 21.600 A/H",
+    "Garantía": "3 AÑOS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "7c81df8eed497b6b"
+  },
+  {
+   "id": "BRD-1005/hydra-ha",
+   "name": "Hydra Serie 229 Valdevaqueros",
+   "url": "https://indiewatch.com/hydra/hydra-ha?correa=armis229",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-ha.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-ha.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Hydra Serie 229 Valdevaqueros (HA): reloj de buceo automático con esfera de nácar y acentos rojos, caja de acero de 41 mm, bisel giratorio y hermeticidad de 200 m. Calibre Miyota 8215, cristal de zafiro plano con cinco capas antirreflejos, brazalete de acero 316L. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre automático": "MIYOTA 8215 · 21.600 A/H",
+    "Hermeticidad": "20 ATM · 200 M"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "0e29f92220816f10"
+  },
+  {
+   "id": "BRD-1005/hydra-ht",
+   "name": "Hydra Serie 229 Poniente",
+   "url": "https://indiewatch.com/hydra/hydra-ht?correa=armis229",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-ht.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-ht.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Hydra Serie 229 Poniente (HT): reloj de buceo automático con esfera marrón cobre en sunburst e índices en crema, caja de acero de 41 mm, bisel giratorio y hermeticidad de 200 m. Calibre Miyota 8215, cristal de zafiro plano con cinco capas antirreflejos, brazalete de acero 316L. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre automático": "MIYOTA 8215 · 21.600 A/H",
+    "Hermeticidad": "20 ATM · 200 M"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "d1c6d70346607ada"
+  },
+  {
+   "id": "BRD-1005/hydra-hu",
+   "name": "Hydra Serie 229 Levante",
+   "url": "https://indiewatch.com/hydra/hydra-hu?correa=armis229",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-hu.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-hu.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Hydra Serie 229 Levante (HU): reloj de buceo automático con esfera roja en sunburst, caja de acero de 41 mm, bisel giratorio y hermeticidad de 200 m. Calibre Miyota 8215, cristal de zafiro plano con cinco capas antirreflejos, brazalete de acero 316L. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "El Levante es el viento del este": "térmico, racheado y brutal. Un rojo encendido como los atardeceres de la costa de Cádiz",
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre automático": "MIYOTA 8215 · 21.600 A/H",
+    "Hermeticidad": "20 ATM · 200 M"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "b91ff3755e9b8ee6"
+  },
+  {
+   "id": "BRD-1005/hydra-hw",
+   "name": "Hydra Serie 229 Los Lances",
+   "url": "https://indiewatch.com/hydra/hydra-hw?correa=armis229",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-hw.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-hw.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Hydra Serie 229 Los Lances (HW): reloj de buceo automático con esfera verde en sunburst e índices en crema, caja de acero de 41 mm, bisel giratorio y hermeticidad de 200 m. Calibre Miyota 8215, cristal de zafiro plano con cinco capas antirreflejos, brazalete de acero 316L. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre automático": "MIYOTA 8215 · 21.600 A/H",
+    "Hermeticidad": "20 ATM · 200 M"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "2d0f1a9323e1f891"
+  },
+  {
+   "id": "BRD-1005/hydra-hx",
+   "name": "Hydra Serie 229 Estrecho",
+   "url": "https://indiewatch.com/hydra/hydra-hx?correa=armis229",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-hx.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-hx.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Hydra Serie 229 Estrecho (HX): reloj de buceo automático con esfera azul en sunburst y degradado perimetral, caja de acero de 41 mm, bisel giratorio y hermeticidad de 200 m. Calibre Miyota 8215, cristal de zafiro plano con cinco capas antirreflejos, brazalete de acero 316L. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre automático": "MIYOTA 8215 · 21.600 A/H",
+    "Hermeticidad": "20 ATM · 200 M"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "63cc5ace9000a6ac"
+  },
+  {
+   "id": "BRD-1005/hydra-hy",
+   "name": "Hydra Serie 229 Carbono",
+   "url": "https://indiewatch.com/hydra/hydra-hy?correa=armis229",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-hy.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/hydra-229--watch-hy.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 47900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Hydra Serie 229 Carbono (HY): reloj de buceo automático con esfera negra texturizada y acentos turquesa, caja de acero de 41 mm, bisel giratorio y hermeticidad de 200 m. Calibre Miyota 8215, cristal de zafiro plano con cinco capas antirreflejos, brazalete de acero 316L. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Calibre automático": "MIYOTA 8215 · 21.600 A/H",
+    "Hermeticidad": "20 ATM · 200 M"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "71c40f89fd055cf6"
+  },
+  {
+   "id": "BRD-1005/aurora-kg",
+   "name": "Aurora Serie 421 Bitácora de Hielo",
+   "url": "https://indiewatch.com/aurora/aurora-kg?correa=ablau",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-kg--con-ablau-v2.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-kg--con-ablau-v2.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Aurora Serie 421 Bitácora de Hielo (KG), Edición Malaspina: cronógrafo mecaquartz Seiko VK64 con esfera blanca y subesferas azul marino, caja de acero de 42 mm, cristal de zafiro doble abombado, escala taquimétrica y fondo grabado con el coatí de la Expedición Malaspina. Correa Alligator vintage Italiano azul de Jacob Straps incluida. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Cronógrafo": "SEIKO VK64 MECAQUARTZ",
+    "Cristal": "ZAFIRO DOBLE ABOMBADO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "34090cbcf11315bf"
+  },
+  {
+   "id": "BRD-1005/aurora-lr",
+   "name": "Aurora Serie 421 Coral",
+   "url": "https://indiewatch.com/aurora/aurora-lr?correa=anegre",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-lr--con-anegre-v2.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-lr--con-anegre-v2.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Aurora Serie 421 Coral (LR), Edición Malaspina: cronógrafo mecaquartz Seiko VK64 con esfera salmón y segundero de cronógrafo rojo, caja de acero de 42 mm, cristal de zafiro doble abombado, escala taquimétrica y fondo grabado con el coatí de la Expedición Malaspina. Correa Alligator negra de Jacob Straps incluida. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Cronógrafo": "SEIKO VK64 MECAQUARTZ",
+    "Cristal": "ZAFIRO DOBLE ABOMBADO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "42eb748cf5185d62"
+  },
+  {
+   "id": "BRD-1005/aurora-od",
+   "name": "Aurora Serie 421 Andes",
+   "url": "https://indiewatch.com/aurora/aurora-od?correa=anegre",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-od--con-anegre-v2.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-od--con-anegre-v2.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Aurora Serie 421 Andes (OD), Edición Malaspina: cronógrafo mecaquartz Seiko VK64 con esfera blanca, subesferas negras y segundero de cronógrafo rojo, caja de acero negro de 42 mm, cristal de zafiro doble abombado, escala taquimétrica y fondo grabado con el coatí de la Expedición Malaspina. Correa Alligator negra de Jacob Straps incluida. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Cronógrafo": "SEIKO VK64 MECAQUARTZ",
+    "Cristal": "ZAFIRO DOBLE ABOMBADO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "809d832f553c12d1"
+  },
+  {
+   "id": "BRD-1005/aurora-om",
+   "name": "Aurora Serie 421 Encina",
+   "url": "https://indiewatch.com/aurora/aurora-om?correa=anegre",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-om--con-anegre-v2.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-om--con-anegre-v2.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 46900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Aurora Serie 421 Encina (OM), Edición Malaspina: cronógrafo mecaquartz Seiko VK64 con esfera verde bosque, subesferas crema y segundero de cronógrafo azul cielo, caja de acero con baño de oro de 24 K de 42 mm, cristal de zafiro doble abombado, escala taquimétrica y fondo grabado con el coatí de la Expedición Malaspina. Correa Alligator negra de Jacob Straps incluida. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Cronógrafo": "SEIKO VK64 MECAQUARTZ",
+    "Cristal": "ZAFIRO DOBLE ABOMBADO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "3ac03466c90efd4d"
+  },
+  {
+   "id": "BRD-1005/aurora-xq",
+   "name": "Aurora Serie 421 Observación Estelar",
+   "url": "https://indiewatch.com/aurora/aurora-xq?correa=anegre",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-xq--con-anegre-v2.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-xq--con-anegre-v2.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Aurora Serie 421 Observación Estelar (XQ), Edición Malaspina: cronógrafo mecaquartz Seiko VK64 con esfera negra, numerales blancos y segundero de cronógrafo rojo, caja de acero negro de 42 mm, cristal de zafiro doble abombado, escala taquimétrica y fondo grabado con el coatí de la Expedición Malaspina. Correa Alligator negra de Jacob Straps incluida. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Cronógrafo": "SEIKO VK64 MECAQUARTZ",
+    "Cristal": "ZAFIRO DOBLE ABOMBADO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "7fcc12e7db47b14f"
+  },
+  {
+   "id": "BRD-1005/aurora-yx",
+   "name": "Aurora Serie 421 Mar del Sur",
+   "url": "https://indiewatch.com/aurora/aurora-yx?correa=anegre",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-yx--con-anegre-v2.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/aurora-yx--con-anegre-v2.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Aurora Serie 421 Mar del Sur (YX), Edición Malaspina: cronógrafo mecaquartz Seiko VK64 con esfera azul noche, anillo turquesa y segundero de cronógrafo blanco, caja de acero con baño de oro de 24 K de 42 mm, cristal de zafiro doble abombado, escala taquimétrica y fondo grabado con el coatí de la Expedición Malaspina. Correa Alligator negra de Jacob Straps incluida. Diseñado y ensamblado en España.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño y montaje": "EN ESPAÑA",
+    "Cronógrafo": "SEIKO VK64 MECAQUARTZ",
+    "Cristal": "ZAFIRO DOBLE ABOMBADO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "671328644afed5eb"
+  },
+  {
+   "id": "BRD-1005/marcha-gh",
+   "name": "Marcha 383 Maravillas",
+   "url": "https://indiewatch.com/marcha/marcha-gh?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-gh--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-gh--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Marcha 383 Maravillas (GH): reloj de cuarzo Miyota 1L45 con esfera de esmalte gris cálido, numerales 12, 03 y 09 de metal negro aplicados y cortados en el borde, y pequeño segundero negro con marcas celeste. Caja de acero de 38 mm, cristal de zafiro plano y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "CUARZO MIYOTA 1L45",
+    "Cristal": "ZAFIRO PLANO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "f13b75d17c2d8f2f"
+  },
+  {
+   "id": "BRD-1005/marcha-ig",
+   "name": "Marcha 383 Caminos",
+   "url": "https://indiewatch.com/marcha/marcha-ig?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-ig--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-ig--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Marcha 383 Caminos (IG): reloj de cuarzo Miyota 1L45 con esfera de esmalte lila pálido, numerales 12, 03 y 09 de metal negro aplicados y cortados en el borde, y pequeño segundero negro con marcas coral. Caja de acero de 38 mm, cristal de zafiro plano y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "CUARZO MIYOTA 1L45",
+    "Cristal": "ZAFIRO PLANO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "aa4b95a46ba2d7f5"
+  },
+  {
+   "id": "BRD-1005/marcha-tw",
+   "name": "Marcha 383 Sol",
+   "url": "https://indiewatch.com/marcha/marcha-tw?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-tw--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-tw--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Marcha 383 Sol (TW): reloj de cuarzo Miyota 1L45 con esfera de esmalte coral, numerales 12, 03 y 09 de metal negro aplicados y cortados en el borde, y pequeño segundero blanco con marcas lavanda. Caja de acero de 38 mm, cristal de zafiro plano y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "CUARZO MIYOTA 1L45",
+    "Cristal": "ZAFIRO PLANO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "0a34cea091de8cbe"
+  },
+  {
+   "id": "BRD-1005/marcha-kd",
+   "name": "Marcha 383 Prosperidad",
+   "url": "https://indiewatch.com/marcha/marcha-kd?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-kd--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-kd--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Marcha 383 Prosperidad (KD): reloj de cuarzo Miyota 1L45 con esfera de esmalte negro absoluto, numerales 12, 03 y 09 en plata pulida aplicados y cortados en el borde, y pequeño segundero blanco. Caja de acero de 38 mm, cristal de zafiro plano y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "CUARZO MIYOTA 1L45",
+    "Cristal": "ZAFIRO PLANO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "b326e16d988193cc"
+  },
+  {
+   "id": "BRD-1005/marcha-og",
+   "name": "Marcha 383 Malasaña",
+   "url": "https://indiewatch.com/marcha/marcha-og?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-og--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-og--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Marcha 383 Malasaña (OG): reloj de cuarzo Miyota 1L45 con esfera de esmalte lavanda intensa, numerales 12, 03 y 09 en plata pulida aplicados y cortados en el borde, y pequeño segundero blanco con marcas topo. Caja de acero de 38 mm, cristal de zafiro plano y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "CUARZO MIYOTA 1L45",
+    "Cristal": "ZAFIRO PLANO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "5f4e1b8103bfcb06"
+  },
+  {
+   "id": "BRD-1005/marcha-yq",
+   "name": "Marcha 383 Zabaleta",
+   "url": "https://indiewatch.com/marcha/marcha-yq?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-yq--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-yq--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Marcha 383 Zabaleta (YQ): reloj de cuarzo Miyota 1L45 con esfera de esmalte azul noche, numerales 12, 03 y 09 en plata pulida aplicados y cortados en el borde, y pequeño segundero blanco con marcas pervinca. Caja de acero de 38 mm, cristal de zafiro plano y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "CUARZO MIYOTA 1L45",
+    "Cristal": "ZAFIRO PLANO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "a2822363eabfa4a1"
+  },
+  {
+   "id": "BRD-1005/marcha-pl",
+   "name": "Marcha 383 Lavapiés",
+   "url": "https://indiewatch.com/marcha/marcha-pl?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-pl--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-pl--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Marcha 383 Lavapiés (PL): reloj de cuarzo Miyota 1L45 con esfera de esmalte azul pervinca, numerales 12, 03 y 09 en plata pulida aplicados y cortados en el borde, y pequeño segundero blanco con marcas gris cálido. Caja de acero de 38 mm, cristal de zafiro plano y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "CUARZO MIYOTA 1L45",
+    "Cristal": "ZAFIRO PLANO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "daf5d3a885d01318"
+  },
+  {
+   "id": "BRD-1005/marcha-rs",
+   "name": "Marcha 383 Rastro",
+   "url": "https://indiewatch.com/marcha/marcha-rs?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-rs--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/marcha-rs--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Marcha 383 Rastro (RS): reloj de cuarzo Miyota 1L45 con esfera de esmalte topo, numerales 12, 03 y 09 de metal negro aplicados y cortados en el borde, y pequeño segundero blanco con marcas salvia. Caja de acero de 38 mm, cristal de zafiro plano y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "CUARZO MIYOTA 1L45",
+    "Cristal": "ZAFIRO PLANO",
+    "FECHA Sin ventana de fecha": "la esfera, limpia"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "e24f5c28d51ea0f9"
+  },
+  {
+   "id": "BRD-1005/swell-fc",
+   "name": "Swell 131 Cuatro Vientos",
+   "url": "https://indiewatch.com/swell/swell-fc?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fc--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fc--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swell 131 Cuatro Vientos (FC): reloj de piloto mecánico de carga manual con esfera de esmalte azul marino con fumé, números de dos cifras aplicados en oro y pequeño segundero a las 9. Caja de 42 mm de acero con baño de oro de 24 K, fondo de zafiro y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "MECÁNICO · CARGA MANUAL",
+    "Cristal": "ZAFIRO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "659339aa681b2f46"
+  },
+  {
+   "id": "BRD-1005/swell-fo",
+   "name": "Swell 131 Tablada",
+   "url": "https://indiewatch.com/swell/swell-fo?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fo--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fo--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swell 131 Tablada (FO): reloj de piloto mecánico de carga manual con esfera de esmalte ocre tostado con fumé, números de dos cifras aplicados en oro y pequeño segundero a las 9. Caja de 42 mm de acero con baño de oro de 24 K, fondo de zafiro y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "MECÁNICO · CARGA MANUAL",
+    "Cristal": "ZAFIRO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "68bd438a1134151c"
+  },
+  {
+   "id": "BRD-1005/swell-fr",
+   "name": "Swell 131 Autogiro",
+   "url": "https://indiewatch.com/swell/swell-fr?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fr--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fr--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swell 131 Autogiro (FR): reloj de piloto mecánico de carga manual con esfera de esmalte marfil con un fumé muy suave, números de dos cifras aplicados en oro, minutería en negro y pequeño segundero a las 9. Caja de 42 mm de acero con baño de oro de 24 K, fondo de zafiro y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "MECÁNICO · CARGA MANUAL",
+    "Cristal": "ZAFIRO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "f9951941317f0820"
+  },
+  {
+   "id": "BRD-1005/swell-ft",
+   "name": "Swell 131 Estima",
+   "url": "https://indiewatch.com/swell/swell-ft?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-ft--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-ft--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swell 131 Estima (FT): reloj de piloto mecánico de carga manual con esfera de esmalte verde oliva con fumé, números de dos cifras aplicados en oro y pequeño segundero a las 9. Caja de 42 mm de acero con baño de oro de 24 K, fondo de zafiro y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "MECÁNICO · CARGA MANUAL",
+    "Cristal": "ZAFIRO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "ef552b137121ebaa"
+  },
+  {
+   "id": "BRD-1005/swell-fu",
+   "name": "Swell 131 Altura",
+   "url": "https://indiewatch.com/swell/swell-fu?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fu--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fu--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swell 131 Altura (FU): reloj de piloto mecánico de carga manual con esfera de esmalte negro con fumé, números de dos cifras aplicados en oro y pequeño segundero a las 9. Caja de 42 mm de acero con baño de oro de 24 K, fondo de zafiro y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "MECÁNICO · CARGA MANUAL",
+    "Cristal": "ZAFIRO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "ff2bf56153e142b2"
+  },
+  {
+   "id": "BRD-1005/swell-fw",
+   "name": "Swell 131 Ascua",
+   "url": "https://indiewatch.com/swell/swell-fw?correa=nailon",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fw--con-nailon.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/swell-fw--con-nailon.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 43900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swell 131 Ascua (FW): reloj de piloto mecánico de carga manual con esfera de esmalte rojo con fumé, números de dos cifras aplicados en oro y pequeño segundero a las 9 con aguja de cobre. Caja de 42 mm de acero con baño de oro de 24 K, fondo de zafiro y correa de nailon negra. Diseñado en Madrid.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diseño": "EN MADRID",
+    "Movimiento": "MECÁNICO · CARGA MANUAL",
+    "Cristal": "ZAFIRO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "347dcead4c2537c7"
+  },
+  {
+   "id": "BRD-1005/triton-uf",
+   "name": "Tritón I Restinga",
+   "url": "https://indiewatch.com/triton/triton-uf?correa=rnegro",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/triton-uf--con-rnegro.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/triton-uf--con-rnegro.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 86900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Tritón I Restinga (UF): reloj de buceo automático Swiss Made de indie atelier, con esfera y bisel negros y amarillo de seguridad, índices aplicados con Super-LumiNova®, fecha a las 3, caja de acero de 38 mm hermética hasta 300 m y correa de caucho con desplegable de acero. Serie limitada de 50 unidades por modelo.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Origen": "SWISS MADE",
+    "Movimiento": "AUTOMÁTICO SUIZO",
+    "Serie": "50 POR MODELO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "ab2d94bc66db95cb"
+  },
+  {
+   "id": "BRD-1005/triton-wj",
+   "name": "Tritón I Tabarca",
+   "url": "https://indiewatch.com/triton/triton-wj?correa=rnegro",
+   "image": {
+    "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/triton-wj--con-rnegro.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://res.cloudinary.com/dokmupvde/image/upload/c_limit,f_webp,q_auto,w_1024/indiewatch_code/triton-wj--con-rnegro.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 86900,
+   "currency": "USD",
+   "availability": "preorder",
+   "description": "Tritón I Tabarca (WJ): reloj de buceo automático Swiss Made de indie atelier, con esfera azul marino, bisel blanco y azul y detalles en naranja, índices aplicados con Super-LumiNova®, fecha a las 3, caja de acero de 38 mm hermética hasta 300 m y correa de caucho con desplegable de acero. Serie limitada de 50 unidades por modelo.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Blanco y azul": "hay buceadores en el agua",
+    "Origen": "SWISS MADE",
+    "Movimiento": "AUTOMÁTICO SUIZO",
+    "Serie": "50 POR MODELO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:33:02.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:33:02.169Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1005/relojes"
+   ],
+   "hash": "56baac215a9831df"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1005/relojes",
+   "name": "Los relojes",
+   "url": "https://indiewatch.com/relojes",
+   "description": "Relojería independiente escogida con criterio.",
+   "image": null
+  }
+ ]
+}

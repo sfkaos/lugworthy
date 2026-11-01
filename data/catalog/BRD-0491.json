@@ -1,0 +1,2862 @@
+{
+ "brandId": "BRD-0491",
+ "brandName": "RZE Watches",
+ "website": "https://www.rzewatches.com",
+ "crawledAt": "2026-11-01T08:26:25.452Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.rzewatches.com/cdn/shop/files/RZE-logo-white-yellow.png?v=1676429080",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.rzewatches.com/"
+ },
+ "attribution": "Images © RZE Watches, from rzewatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0491/resolute-type-a-nimbus-grey",
+   "name": "Resolute Type A - Nimbus Grey",
+   "url": "https://www.rzewatches.com/products/resolute-type-a-nimbus-grey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/RZE-TypeA-Grey-2SQ.jpg?v=1793103538",
+    "width": 3061,
+    "height": 3061
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/RZE-TypeA-Grey-2SQ.jpg?v=1793103538",
+     "width": 3061,
+     "height": 3061
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "More than eight decades after it's conception, the Resolute Type A reimagines this historic aviation instrument through the lens of RZE’s modern tool watch philosophy: in lightweight, UltraHex™️ titanium built to go wherever adventure leads. Prioritizing legibility with crisp Arabic numerals, a high-contrast minute track, a lume integrated chapter ring, and the unmistakable triangle at 12, this adventure watch is designed to be read at a glance — even in turbulent conditions.",
+   "productType": "Automatic Watches",
+   "tags": [
+    "_label_NEW"
+   ],
+   "options": [
+    {
+     "name": "Strap Option",
+     "values": [
+      "Grey TecTuff® Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Grey TecTuff® Leather Strap",
+     "sku": "RZE-RESA-NG-TT-P",
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Grey TecTuff® Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/pilot-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-type-a"
+   ],
+   "hash": "25f66b069197109f"
+  },
+  {
+   "id": "BRD-0491/utd-8000-nb",
+   "name": "UTD-8000-NB",
+   "url": "https://www.rzewatches.com/products/utd-8000-nb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-NB.png?v=1765510920",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-NB.png?v=1765510920",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-NB-lume.png?v=1765202137",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/2.353577.png?v=1765202137",
+     "width": 1260,
+     "height": 1260
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed and tested in the harsh environment of the Canadian North, the UltraHex™ Titanium Digital (UTD) is resistant to water, dust, corrosion, scratches, shock, vibrations, and featuring an advanced custom module, fully operational even while the watch is fully exposed to extreme temperatures. The UTD-8000 combines the unparalleled level of comfort and reliability you've come to expect from RZE with a 'guaranteed for life' advanced multi-function module and arrives on an adventure ready, custom elasticized fabric strap and is compatible with our UltraHex™ Titanium Bracelet .",
+   "productType": "Quartz Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "BRACELET": "Available with RZE titanium bracelet coated with UltraHex™ and QUIKCLIQ™ on-the-fly buckle",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd"
+   ],
+   "hash": "e4fce6818004a90c"
+  },
+  {
+   "id": "BRD-0491/utd-8000-ckp",
+   "name": "UTD-8000-CKG",
+   "url": "https://www.rzewatches.com/products/utd-8000-ckp",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-CKG.png?v=1765202108",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-CKG.png?v=1765202108",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-CKG-lume.png?v=1765202108",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-CKPSQ.jpg?v=1765202108",
+     "width": 1633,
+     "height": 1633
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-CKPSQ2.jpg?v=1765202108",
+     "width": 1608,
+     "height": 1608
+    }
+   ],
+   "priceMinor": 37900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Building on RZE’s debut digital series, the UTD-8000, RZE introduces the UTD-8000-CKG, the first model in the collection to combine both Cerakote® and DLC surface treatments. Joining the main collection of six colour combinations and three displays, the UTD-8000-CKG represents the next evolution in RZE’s pursuit of durability and adventure-ready design elements. Please note, no discounts or offers applicable on Special Editions.",
+   "productType": "Quartz Watches",
+   "tags": [
+    "_label_Specials"
+   ],
+   "options": [
+    {
+     "name": "Strap Option",
+     "values": [
+      "OD Green Canvas Strap"
+     ]
+    },
+    {
+     "name": "Packaging Option",
+     "values": [
+      "Standard (with Toyo Box)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "OD Green Canvas Strap / Standard (with Toyo Box)",
+     "sku": "RZE-UTD-CKG-CV-TY",
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "OD Green Canvas Strap",
+      "Standard (with Toyo Box)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with DLC & Cerakote™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "CASE BACK": "Screw secured titanium caseback",
+    "PACKAGING": "RZE x Toyo Tool Box",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd",
+    "BRD-0491/utd-special-editions"
+   ],
+   "hash": "4997e962e71aff1c"
+  },
+  {
+   "id": "BRD-0491/utd-8000-ant",
+   "name": "UTD-8000-ANT",
+   "url": "https://www.rzewatches.com/products/utd-8000-ant",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC03139-Edit.jpg?v=1791576618",
+    "width": 2560,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC03139-Edit.jpg?v=1791576618",
+     "width": 2560,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-ANT.jpg?v=1791559816",
+     "width": 2160,
+     "height": 2700
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed and tested in the harsh environment of the Canadian North, the ‘Anthracite’ UTD-8000-ANT pairs a negative display with a deep charcoal grey dial, the colour of coal and brushed titanium steel, understated and built for everyday wear. Featuring our ‘nearly scratch-proof’ UltraHex™ coating, the UTD-8000-ANT holds its finish through every adventure.",
+   "productType": "Quartz Watches",
+   "tags": [
+    "_label_NEW"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd"
+   ],
+   "hash": "c30ff74ba6593d9a"
+  },
+  {
+   "id": "BRD-0491/utd-8080-st",
+   "name": "UTD-8080-ST",
+   "url": "https://www.rzewatches.com/products/utd-8080-st",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC01423.jpg?v=1791647863",
+    "width": 2560,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC01423.jpg?v=1791647863",
+     "width": 2560,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC01408.jpg?v=1791647694",
+     "width": 2560,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 39900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The UTD-8080-ST introduces the next generation of our UltraHex™ Titanium Digital platform, powered by the RZE-8080, a digital module developed in-house. Featuring a white Cerakote® case paired with black DLC accents, the UTD-8080-ST is a clean, technical expression of the UTD, highlighting the angular titanium case architecture with high contrast elements. Debuting new functions for daily tasks, travel and adventures, the RZE-8080 adds Dual Time, Multi-Alarm and a Timer to our 'guaranteed for life' everyday adventure companion. Delivering November 2026.",
+   "productType": "Quartz Watches",
+   "tags": [
+    "_label_Pre-Order"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with White Cerakote® + Shock Resistance",
+    "DISPLAY": "High-contrast FSTN LCD",
+    "MODULE": "RZE-8080 Multi-Function Digital Module, developed in-house",
+    "FUNCTIONS": "Time, Dual Time (DT), Multi-Alarm, Countdown Timer (TR), 1/100 sec stopwatch, Full auto-calendar to 2099, UltraGlow backlight",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm",
+    "WEIGHT": "51.9g"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/cerakote-series",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd"
+   ],
+   "hash": "e3c272cb20b3444a"
+  },
+  {
+   "id": "BRD-0491/utd-8000-pf",
+   "name": "UTD-8000-PF",
+   "url": "https://www.rzewatches.com/products/utd-8000-pf",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/ProjectForest.jpg?v=1790160946",
+    "width": 2560,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/ProjectForest.jpg?v=1790160946",
+     "width": 2560,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/IMG_3704.jpg?v=1790160958",
+     "width": 2560,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "introducing the UTD-8000-PF, a Project Forest Special Edition. Dedicated to making timeless impact, and ready to get dirty day one, arriving on our new custom black elastic strap, powered by a guaranteed-for-life module inside a titanium case, and featuring a green insert inspired by the trees planted over the years with Project Forest x RZE collaborations. 15% of every sale of the UTD-8000-PF goes directly to Project Forest for their work rewilding Canada, as we continue to support the Siksika Nation Community Shelterbelt Program . Orders ship immediately, with US orders will be fulfilled from within the United States.",
+   "productType": "Quartz Watches",
+   "tags": [
+    "_label_Specials"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd",
+    "BRD-0491/utd-8000-boldy-brushed"
+   ],
+   "hash": "753746a1398be3a7"
+  },
+  {
+   "id": "BRD-0491/utd-8000-stg",
+   "name": "UTD-8000-STG",
+   "url": "https://www.rzewatches.com/products/utd-8000-stg",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/RZEUTDPeakDesignFlatLay08.jpg?v=1789126759",
+    "width": 1071,
+    "height": 1341
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/RZEUTDPeakDesignFlatLay08.jpg?v=1789126759",
+     "width": 1071,
+     "height": 1341
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The UTD-8000-STG is an elevated expression of our purpose-built UltraHex™ Titanium Digital — fully brushed to highlight the case's angular design language. Designed to round out any RZE collection, the UTD-8000-STG pairs perfectly with the titanium bracelets from your Resolute or Resolute 36 , giving it an even more refined look. Arriving adventure-ready on a black elastic strap, it features our guaranteed-for-life digital module in a titanium case finished for the everyday.",
+   "productType": "Quartz Watches",
+   "tags": [
+    "_label_NEW"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd",
+    "BRD-0491/utd-8000-boldy-brushed"
+   ],
+   "hash": "791ddb36769588d6"
+  },
+  {
+   "id": "BRD-0491/utd-8000-ckt",
+   "name": "UTD-8000-CKT",
+   "url": "https://www.rzewatches.com/products/utd-8000-ckt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC00226.jpg?v=1788502690",
+    "width": 1638,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC00226.jpg?v=1788502690",
+     "width": 1638,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 37900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The UTD-8000-CKT is i nspired by the neutral tones of military field gear, outdoor equipment, and the dirt, mud, sand that you’ll inevitably find yourself in. Undeniably purpose-built, understated, and designed to blend in with the rest of the gear you trust on your toughest missions. From trailhead to tarmac, desert to downtown, it is a colourway intended to go almost anywhere without looking out of place. The Field Tan UTD-8000 arrives adventure-ready in the Blackcomb 2.0 , paired with a TecTuff® Strap with DLC titanium hardware, and an elastic strap for extra versatility. Please note, no discounts or offers apply on pre-orders and Special Editions.",
+   "productType": "Quartz Watches",
+   "tags": [
+    "_label_Specials"
+   ],
+   "options": [
+    {
+     "name": "Strap Option",
+     "values": [
+      "Nylon + Black Tectuff™ Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Nylon + Black Tectuff™ Leather Strap",
+     "sku": "RZE-UTD-CKT-NY-P",
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Nylon + Black Tectuff™ Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with DLC & Cerakote™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "CASE BACK": "Screw secured titanium caseback",
+    "PACKAGING": "RZE Blackcomb 2.0",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/cerakote-series",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd",
+    "BRD-0491/utd-special-editions"
+   ],
+   "hash": "fe04b82194629d31"
+  },
+  {
+   "id": "BRD-0491/utd-8000-bb",
+   "name": "UTD-8000-BB",
+   "url": "https://www.rzewatches.com/products/utd-8000-bb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/R0001479.jpg?v=1787305394",
+    "width": 2560,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/R0001479.jpg?v=1787305394",
+     "width": 2560,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/R0001489.jpg?v=1787263796",
+     "width": 2560,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The UTD-8000-BB is an elevated expression of our purpose-built UltraHex™ Titanium Digital — fully brushed for the first time to highlight the case's angular design language. Designed to round out any RZE collection, the UTD-8000-BB pairs perfectly with the titanium bracelets from your Resolute or Resolute 36 , giving it an even more refined look. Arriving adventure-ready on a black elastic strap, it features our guaranteed-for-life digital module in a titanium case finished for the everyday.",
+   "productType": "Quartz Watches",
+   "tags": [
+    "_label_NEW"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd",
+    "BRD-0491/utd-8000-boldy-brushed"
+   ],
+   "hash": "61c1bee589a34baa"
+  },
+  {
+   "id": "BRD-0491/utd-8000-dp",
+   "name": "UTD-8000-DP",
+   "url": "https://www.rzewatches.com/products/utd-8000-dp",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSCF0602_bc132cca-b644-4b04-822a-ff3abbf08cb6.jpg?v=1780059442",
+    "width": 2560,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSCF0602_bc132cca-b644-4b04-822a-ff3abbf08cb6.jpg?v=1780059442",
+     "width": 2560,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSCF0623-5.jpg?v=1780059478",
+     "width": 2872,
+     "height": 1915
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed and tested in the harsh environment of the Canadian North, the ' Deep Purple ' UTD-8000 pairs a negative display with a purple dial, inspired by the shades of purple and black of the most painful bruises - reminders that an impact occurred. Featuring our ' nearly scratch-proof ' UltraHex™ coating, the UTD-8000-DP will struggle to retain the battle scars of your adventures.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap Option",
+     "values": [
+      "Black Elastic Strap"
+     ]
+    },
+    {
+     "name": "Packaging Option",
+     "values": [
+      "Standard (with Blackcomb Pouch)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black Elastic Strap / Standard (with Blackcomb Pouch)",
+     "sku": "RZE-UTD-DP-NY-P",
+     "priceMinor": 27900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Elastic Strap",
+      "Standard (with Blackcomb Pouch)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "BRACELET": "Available with RZE titanium bracelet coated with UltraHex™ and QUIKCLIQ™ on-the-fly buckle",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd"
+   ],
+   "hash": "14121456bd18e4bb"
+  },
+  {
+   "id": "BRD-0491/utd-8000-cko",
+   "name": "UTD-8000-CKO",
+   "url": "https://www.rzewatches.com/products/utd-8000-cko",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/uuid_83C93DAB-3A02-45FF-B253-B143DD5C2BE8_code_001_library_3_type_1_mode_1_loc_true_cap_true.jpg?v=1777141181",
+    "width": 2560,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/uuid_83C93DAB-3A02-45FF-B253-B143DD5C2BE8_code_001_library_3_type_1_mode_1_loc_true_cap_true.jpg?v=1777141181",
+     "width": 2560,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 37900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Building on RZE’s debut digital series, the UTD-8000, RZE introduces the UTD-8000-CKO in High-Vis Cerakote® and DLC treatments. Designed for visibility in extreme conditions, or at the bottom of your pack, the UTD-8000-CKO includes a premium FKM strap for all-day comfort. The UTD-8000-CKO represents the next evolution in RZE’s pursuit of durability and adventure-ready design elements featuring a Cerakote® case and bezel. In addition to two straps, the High-Vis UTD-8000-CKO arrives adventure ready in our Blackcomb 2.0 , with an exclusive embroidered patch, an embroidered First Aid patch for labelling your gear, and a custom band-aid dispenser for scrapes and scratches. Just add a tourniquet, gauze, and some other essentials those extreme escapades. Please note, no discounts or offers apply on pre-orders and Special Editions.",
+   "productType": "Quartz Watches",
+   "tags": [
+    "_label_Specials"
+   ],
+   "options": [
+    {
+     "name": "Strap Option",
+     "values": [
+      "Nylon + Orange HexaFlex Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Nylon + Orange HexaFlex Strap",
+     "sku": "RZE-UTD-CKO-NY-P",
+     "priceMinor": 37900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Nylon + Orange HexaFlex Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with DLC & Cerakote™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "CASE BACK": "Screw secured titanium caseback",
+    "PACKAGING": "RZE Blackcomb 2.0 - Emergency Edition",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/cerakote-series",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd",
+    "BRD-0491/utd-special-editions"
+   ],
+   "hash": "4fae82039c41b696"
+  },
+  {
+   "id": "BRD-0491/resolute-type-a-carbon-black",
+   "name": "Resolute Type A - Carbon Black",
+   "url": "https://www.rzewatches.com/products/resolute-type-a-carbon-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC01074_be69bf83-a2c9-4990-877d-8351e4007e02.jpg?v=1773738495",
+    "width": 1064,
+    "height": 1064
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC01074_be69bf83-a2c9-4990-877d-8351e4007e02.jpg?v=1773738495",
+     "width": 1064,
+     "height": 1064
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "More than eight decades after it's conception, the Resolute Type A reimagines this historic aviation instrument through the lens of RZE’s modern tool watch philosophy: in lightweight, UltraHex™️ titanium built to go wherever adventure leads. Prioritizing legibility with crisp Arabic numerals, a high-contrast minute track, a lume integrated chapter ring, and the unmistakable triangle at 12, this adventure watch is designed to be read at a glance — even in turbulent conditions.",
+   "productType": "Automatic Watches",
+   "tags": [
+    "_label_NEW"
+   ],
+   "options": [
+    {
+     "name": "Strap Option",
+     "values": [
+      "Black TecTuff® Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black TecTuff® Leather Strap",
+     "sku": "RZE-RESA-CB-TT-P",
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black TecTuff® Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/pilot-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-type-a"
+   ],
+   "hash": "6d81a77ad46b52a7"
+  },
+  {
+   "id": "BRD-0491/resolute-type-a-medallion-yellow",
+   "name": "Resolute Type A - Medallion Yellow",
+   "url": "https://www.rzewatches.com/products/resolute-type-a-medallion-yellow",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/RZEPilotTypeAMedallionYellow.jpg?v=1776042294",
+    "width": 1347,
+    "height": 1347
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/RZEPilotTypeAMedallionYellow.jpg?v=1776042294",
+     "width": 1347,
+     "height": 1347
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "More than eight decades after it's conception, the Resolute Type A reimagines this historic aviation instrument through the lens of RZE’s modern tool watch philosophy: in lightweight, UltraHex™️ titanium built to go wherever adventure leads. Prioritizing legibility with crisp Arabic numerals, a high-contrast minute track, a lume integrated chapter ring, and the unmistakable triangle at 12, this adventure watch is designed to be read at a glance — even in turbulent conditions.",
+   "productType": "Automatic Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap Option",
+     "values": [
+      "Navy TecTuff® Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Navy TecTuff® Leather Strap",
+     "sku": "RZE-RESA-MY-TT-P",
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Navy TecTuff® Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/pilot-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-type-a"
+   ],
+   "hash": "ed3af622b97b23bb"
+  },
+  {
+   "id": "BRD-0491/resolute-type-a-polaris-white",
+   "name": "Resolute Type A - Polaris White",
+   "url": "https://www.rzewatches.com/products/resolute-type-a-polaris-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC00986_b0381fe3-b317-49b7-87a3-784856d20400.jpg?v=1773738650",
+    "width": 1365,
+    "height": 1365
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC00986_b0381fe3-b317-49b7-87a3-784856d20400.jpg?v=1773738650",
+     "width": 1365,
+     "height": 1365
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "More than eight decades after it's conception, the Resolute Type A reimagines this historic aviation instrument through the lens of RZE’s modern tool watch philosophy: in lightweight, UltraHex™️ titanium built to go wherever adventure leads. Prioritizing legibility with crisp Arabic numerals, a high-contrast minute track, a lume integrated chapter ring, and the unmistakable triangle at 12, this adventure watch is designed to be read at a glance — even in turbulent conditions.",
+   "productType": "Automatic Watches",
+   "tags": [
+    "_label_NEW"
+   ],
+   "options": [
+    {
+     "name": "Strap Option",
+     "values": [
+      "OD Green TecTuff® Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "OD Green TecTuff® Leather Strap",
+     "sku": "RZE-RESA-PW-TT-P",
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "OD Green TecTuff® Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/pilot-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-type-a"
+   ],
+   "hash": "6e11540289727b14"
+  },
+  {
+   "id": "BRD-0491/resolute-pro-white-enamel",
+   "name": "RESOLUTE - White Enamel",
+   "url": "https://www.rzewatches.com/products/resolute-pro-white-enamel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/Resolute-Pro-White.jpg?v=1699583359",
+    "width": 1280,
+    "height": 1280
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/Resolute-Pro-White.jpg?v=1699583359",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/Resolute-Pro-White-Lume.jpg?v=1699583359",
+     "width": 1280,
+     "height": 1280
+    }
+   ],
+   "priceMinor": 77900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Introducing the Resolute Pro; the most refined iteration of our titanium field watch that started it all. Crafted from ultra-durable, lightweight titanium, beautifully brushed and coated with our proprietary UltraHex™️, the Resolute Pro features an upgraded bracelet with 'on-the-fly' micro adjustment and a brilliant white enamel dial. Adding interest and depth, you'll be mesmerized by the applied logo and polish on the handset and indices, bringing an elevated level of craftsmanship to a tough titanium tool watch.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-pro"
+   ],
+   "hash": "27704b469f22248b"
+  },
+  {
+   "id": "BRD-0491/fortitude-gmt-nighthawk",
+   "name": "Fortitude GMT - Nighthawk",
+   "url": "https://www.rzewatches.com/products/fortitude-gmt-nighthawk",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/07-GMT-NIGHTHAWK.jpg?v=1752919609",
+    "width": 3779,
+    "height": 3779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/07-GMT-NIGHTHAWK.jpg?v=1752919609",
+     "width": 3779,
+     "height": 3779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/06-GMT-NIGHTHAWK-LUME.jpg?v=1752919609",
+     "width": 3779,
+     "height": 3779
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "One glance at the Fortitude GMT and you'll know why it's the pilot's watch. Featuring a jet turbine inspired bezel, signature hands & indexes, a sandwich dial with generous lume, and an extra-large crown, whether you're in the cockpit, jump seat or backseat, you'll always know when it's time for take-off. Prioritizing legibility, the custom handset for ‘local time’ and a prominent ‘home time’ hand ensures you'll never lose a minute crossing borders or timezones.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Packaging Options",
+     "values": [
+      "Eco Version (No Pouch Option)",
+      "Standard (with Pouch)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Eco Version (No Pouch Option)",
+     "sku": "RZE-FOR-NH-BR-NP",
+     "priceMinor": 69900,
+     "compareAtMinor": 69900,
+     "available": false,
+     "options": [
+      "Eco Version (No Pouch Option)"
+     ]
+    },
+    {
+     "title": "Standard (with Pouch)",
+     "sku": "RZE-FOR-NH-BR-P",
+     "priceMinor": 71900,
+     "compareAtMinor": 69900,
+     "available": false,
+     "options": [
+      "Standard (with Pouch)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Pro Tip": "The Fortitude GMT is protected from scratches and scrapes by UltraHex™ and with 100m of water resistance, it's pool adventure approved. Don't forget to pack your swim gear and a HexaFlex strap!"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/41mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/fortitude"
+   ],
+   "hash": "62528f7416174c0c"
+  },
+  {
+   "id": "BRD-0491/fortitude-gmt-crimson-red",
+   "name": "Fortitude GMT - Crimson Red",
+   "url": "https://www.rzewatches.com/products/fortitude-gmt-crimson-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/07-GMT-CRIMSONRED.jpg?v=1752919584",
+    "width": 3779,
+    "height": 3779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/07-GMT-CRIMSONRED.jpg?v=1752919584",
+     "width": 3779,
+     "height": 3779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/06-GMT-CRIMSONRED-LUME.jpg?v=1752919584",
+     "width": 3779,
+     "height": 3779
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "One glance at the Fortitude GMT and you'll know why it's the pilot's watch. Featuring a jet turbine inspired bezel, signature hands & indexes, a sandwich dial with generous lume, and an extra-large crown, whether you're in the cockpit, jump seat or backseat, you'll always know when it's time for take-off. Prioritizing legibility, the custom handset for ‘local time’ and a prominent ‘home time’ hand ensures you'll never lose a minute crossing borders or timezones.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Packaging Option",
+     "values": [
+      "Eco Version (No Pouch Option)",
+      "Standard (with Blackcomb Pouch)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Eco Version (No Pouch Option)",
+     "sku": "RZE-FOR-CR-BR-NP",
+     "priceMinor": 69900,
+     "compareAtMinor": 69900,
+     "available": false,
+     "options": [
+      "Eco Version (No Pouch Option)"
+     ]
+    },
+    {
+     "title": "Standard (with Blackcomb Pouch)",
+     "sku": "RZE-FOR-CR-BR-P",
+     "priceMinor": 71900,
+     "compareAtMinor": 69900,
+     "available": false,
+     "options": [
+      "Standard (with Blackcomb Pouch)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Pro Tip": "The Fortitude GMT is protected from scratches and scrapes by UltraHex™ and with 100m of water resistance, it's pool adventure approved. Don't forget to pack your swim gear and a HexaFlex strap!"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/41mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/fortitude"
+   ],
+   "hash": "2e69b1115f29adb2"
+  },
+  {
+   "id": "BRD-0491/fortitude-gmt-turboteal",
+   "name": "Fortitude GMT - TurboTeal",
+   "url": "https://www.rzewatches.com/products/fortitude-gmt-turboteal",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/07-GMT-TurboTeal.jpg?v=1752919559",
+    "width": 3779,
+    "height": 3779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/07-GMT-TurboTeal.jpg?v=1752919559",
+     "width": 3779,
+     "height": 3779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/06-GMT-TURBOTEAL-LUME.jpg?v=1752919559",
+     "width": 3779,
+     "height": 3779
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "One glance at the Fortitude GMT and you'll know why it's the pilot's watch. Featuring a jet turbine inspired bezel, signature hands & indexes, a sandwich dial with generous lume, and an extra-large crown, whether you're in the cockpit, jump seat or backseat, you'll always know when it's time for take-off. Prioritizing legibility, the custom handset for ‘local time’ and a prominent ‘home time’ hand ensures you'll never lose a minute crossing borders or timezones.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Packaging Options",
+     "values": [
+      "Eco Version (No Pouch Option)",
+      "Standard (with Pouch)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Eco Version (No Pouch Option)",
+     "sku": "RZE-FOR-TT-BR-NP",
+     "priceMinor": 69900,
+     "compareAtMinor": 69900,
+     "available": false,
+     "options": [
+      "Eco Version (No Pouch Option)"
+     ]
+    },
+    {
+     "title": "Standard (with Pouch)",
+     "sku": "RZE-FOR-TT-BR-P",
+     "priceMinor": 71900,
+     "compareAtMinor": 69900,
+     "available": false,
+     "options": [
+      "Standard (with Pouch)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Pro Tip": "The Fortitude GMT is protected from scratches and scrapes by UltraHex™ and with 100m of water resistance, it's pool adventure approved. Don't forget to pack your swim gear and a HexaFlex strap!"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/41mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/fortitude"
+   ],
+   "hash": "cb40eff71b78ec72"
+  },
+  {
+   "id": "BRD-0491/re-verified",
+   "name": "RE-VERIFIED WATCHES",
+   "url": "https://www.rzewatches.com/products/re-verified",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSCF0623-5.jpg?v=1780059478",
+    "width": 2872,
+    "height": 1915
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSCF0623-5.jpg?v=1780059478",
+     "width": 2872,
+     "height": 1915
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSCF0984.jpg?v=1740736267",
+     "width": 2048,
+     "height": 1365
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-MY.png?v=1775631393",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC00567.jpg?v=1765365884",
+     "width": 2048,
+     "height": 1365
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSCF6210.jpg?v=1763512928",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/01-Valour-Catalogue-04-blackbleustrap.jpg?v=1782038862",
+     "width": 3595,
+     "height": 3594
+    }
+   ],
+   "priceMinor": 19900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Choose an adventure tested timepiece and help us maximize our watches’ adventures and minimize their time in drawers. By purchasing a previously loved timepiece, you're helping us fulfill our commitment to product circularity. Learn more about our belief that NOTHING IS POSSIBLE",
+   "productType": "Automatic Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "AVAILABLE RE-VERIFIED PIECES",
+     "values": [
+      "UTD-8000-DP",
+      "Valour 38 Slate Grey (with black TecTuff™ strap)",
+      "UTD-8000-MY",
+      "Valour 38 Carbon Black (with Blue Hexaflex Strap)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "UTD-8000-DP",
+     "sku": null,
+     "priceMinor": 19900,
+     "compareAtMinor": 27900,
+     "available": true,
+     "options": [
+      "UTD-8000-DP"
+     ]
+    },
+    {
+     "title": "Valour 38 Slate Grey (with black TecTuff™ strap)",
+     "sku": null,
+     "priceMinor": 29900,
+     "compareAtMinor": 37900,
+     "available": true,
+     "options": [
+      "Valour 38 Slate Grey (with black TecTuff™ strap)"
+     ]
+    },
+    {
+     "title": "UTD-8000-MY",
+     "sku": null,
+     "priceMinor": 19900,
+     "compareAtMinor": 27900,
+     "available": true,
+     "options": [
+      "UTD-8000-MY"
+     ]
+    },
+    {
+     "title": "Valour 38 Carbon Black (with Blue Hexaflex Strap)",
+     "sku": null,
+     "priceMinor": 29900,
+     "compareAtMinor": 27900,
+     "available": true,
+     "options": [
+      "Valour 38 Carbon Black (with Blue Hexaflex Strap)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/re-verified-watches"
+   ],
+   "hash": "63bf79692e7901be"
+  },
+  {
+   "id": "BRD-0491/resolute-pro-medallion-yellow-enamel",
+   "name": "RESOLUTE - Medallion Yellow Enamel",
+   "url": "https://www.rzewatches.com/products/resolute-pro-medallion-yellow-enamel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/Resolute-Pro-Yellow.jpg?v=1711717632",
+    "width": 1280,
+    "height": 1280
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/Resolute-Pro-Yellow.jpg?v=1711717632",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/Resolute-Pro-Yellow_Lume.jpg?v=1711717632",
+     "width": 1280,
+     "height": 1280
+    }
+   ],
+   "priceMinor": 77900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Celebrating five years of adventures, the enamel dial Resolutes are the most refined iteration of our titanium field watch that started it all. Crafted from ultra-durable, lightweight titanium, beautifully brushed and coated with our proprietary UltraHex™️, the Resolute features an upgraded bracelet with 'on-the-fly' micro adjustment and a breathtaking black enamel dial. Adding interest and depth, you'll be mesmerized by the applied logo and polish on the handset and indices, bringing an elevated level of craftsmanship to a tough titanium tool watch.",
+   "productType": null,
+   "tags": [
+    "_label_NEW"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-pro"
+   ],
+   "hash": "2220f2d08438fa29"
+  },
+  {
+   "id": "BRD-0491/resolute-36-crystal-blue",
+   "name": "RESOLUTE 36 - Halcyon",
+   "url": "https://www.rzewatches.com/products/resolute-36-crystal-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-Halycon.png?v=1765200616",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-Halycon.png?v=1765200616",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-Halycon-lume.png?v=1765200616",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 68900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Combining our ‘built-to-last’ gear ethos with everyday elegance, the Resolute 36 is a reminder that adventure isn't just out there - it's right here. The most elevated iteration of the Resolute maintains its angular aesthetic in a thinner case with classic 36mm proportions. Featuring a multi-layered dial, crisp minute track, applied indices, and a polished edge bezel - the interest is beautifully stacked while harmoniously maintaining legibility.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/36mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/early-access",
+    "BRD-0491/field-watches",
+    "BRD-0491/resolute-collection"
+   ],
+   "hash": "ed631b380595d90e"
+  },
+  {
+   "id": "BRD-0491/resolute-36-crystal-red",
+   "name": "RESOLUTE 36 - Tempo",
+   "url": "https://www.rzewatches.com/products/resolute-36-crystal-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-02.png?v=1765200550",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-02.png?v=1765200550",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-lume_a8a841be-f892-425a-bb13-ac82ec0e831c.png?v=1765200550",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 68900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Combining our ‘built-to-last’ gear ethos with everyday elegance, the Resolute 36 is a reminder that adventure isn't just out there - it's right here . The most elevated iteration of the Resolute yet maintains its angular aesthetic in a thinner case with classic 36mm proportions. Featuring a multi-layered dial, crisp minute track, applied indices, and a polished edge bezel - the interest is beautifully stacked while harmoniously maintaining legibility.",
+   "productType": "Automatic Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/36mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/early-access",
+    "BRD-0491/field-watches",
+    "BRD-0491/resolute-collection"
+   ],
+   "hash": "689054ab81809386"
+  },
+  {
+   "id": "BRD-0491/resolute-36-crystal-green",
+   "name": "RESOLUTE 36 - Mojito",
+   "url": "https://www.rzewatches.com/products/resolute-36-crystal-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-Mojito.png?v=1765200510",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-Mojito.png?v=1765200510",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute36-lume.png?v=1765200530",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 68900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Combining our ‘built-to-last’ gear ethos with everyday elegance, the Resolute 36 is a reminder that adventure isn't just out there - it's right here . The most elevated iteration of the Resolute yet maintains its angular aesthetic in a thinner case with classic 36mm proportions. Featuring a multi-layered dial, crisp minute track, applied indices, and a polished edge bezel - the interest is beautifully stacked while harmoniously maintaining legibility.",
+   "productType": "Automatic Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/36mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/early-access",
+    "BRD-0491/field-watches",
+    "BRD-0491/resolute-collection"
+   ],
+   "hash": "de93e91789d36919"
+  },
+  {
+   "id": "BRD-0491/resolute-stratos",
+   "name": "RESOLUTE - Stratos",
+   "url": "https://www.rzewatches.com/products/resolute-stratos",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-stratos-01.png?v=1765200639",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-stratos-01.png?v=1765200639",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-enamelblack_lume.png?v=1765510270",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 77900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Celebrating five years of adventures, the enamel dial Resolutes are the most refined iteration of our titanium field watch that started it all. Crafted from ultra-durable, lightweight titanium, beautifully brushed and coated with our proprietary UltraHex™️, the Resolute features an upgraded bracelet with 'on-the-fly' micro adjustment and a breathtaking black enamel dial. Adding interest and depth, you'll be mesmerized by the applied logo and polish on the handset and indices, bringing an elevated level of craftsmanship to a tough titanium tool watch.",
+   "productType": "Automatic Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-pro",
+    "BRD-0491/special-editions"
+   ],
+   "hash": "c13f11cbea42983a"
+  },
+  {
+   "id": "BRD-0491/utd-8000-bkp",
+   "name": "UTD-8000-BKP",
+   "url": "https://www.rzewatches.com/products/utd-8000-bkp",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-BKP-strap.png?v=1765510920",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-BKP-strap.png?v=1765510920",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-BKP-lume.png?v=1765201977",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-BKPBracelet.png?v=1765201977",
+     "width": 3840,
+     "height": 3840
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed and tested in the harsh environment of the Canadian North, the UltraHex™ Titanium Digital (UTD) is resistant to water, dust, corrosion, scratches, shock, vibrations, and featuring an advanced custom module, fully operational even while the watch is fully exposed to extreme temperatures. The UTD-8000 combines the unparalleled level of comfort and reliability you've come to expect from RZE with a 'guaranteed for life' advanced multi-function module and arrives on an adventure ready, custom elasticized fabric strap and is compatible with our UltraHex™ Titanium Bracelet .",
+   "productType": "Quartz Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "BRACELET": "Available with RZE titanium bracelet coated with UltraHex™ and QUIKCLIQ™ on-the-fly buckle",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd"
+   ],
+   "hash": "7de02b7f2695906b"
+  },
+  {
+   "id": "BRD-0491/utd-8000-myn",
+   "name": "UTD-8000-MYN",
+   "url": "https://www.rzewatches.com/products/utd-8000-myn",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-MYN.png?v=1765202018",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-MYN.png?v=1765202018",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-BK-lume.png?v=1765202037",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-MYNBracelet.png?v=1765202037",
+     "width": 3840,
+     "height": 3840
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed and tested in the harsh environment of the Canadian North, the UltraHex™ Titanium Digital (UTD) is resistant to water, dust, corrosion, scratches, shock, vibrations, and featuring an advanced custom module, fully operational even while the watch is fully exposed to extreme temperatures. The UTD-8000 combines the unparalleled level of comfort and reliability you've come to expect from RZE with a 'guaranteed for life' advanced multi-function module and arrives on an adventure ready, custom elasticized fabric strap and is compatible with our UltraHex™ Titanium Bracelet .",
+   "productType": "Quartz Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "BRACELET": "Available with RZE titanium bracelet coated with UltraHex™ and QUIKCLIQ™ on-the-fly buckle",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd"
+   ],
+   "hash": "6b8631dc8c17d5c5"
+  },
+  {
+   "id": "BRD-0491/utd-8000-my",
+   "name": "UTD-8000-MY",
+   "url": "https://www.rzewatches.com/products/utd-8000-my",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-MY.png?v=1775631393",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-MY.png?v=1775631393",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-MY-lume.png?v=1765202163",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/2.353575.png?v=1765202163",
+     "width": 1260,
+     "height": 1260
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed and tested in the harsh environment of the Canadian North, the UltraHex™ Titanium Digital (UTD) is resistant to water, dust, corrosion, scratches, shock, vibrations, and featuring an advanced custom module, fully operational even while the watch is fully exposed to extreme temperatures. The UTD-8000 combines the unparalleled level of comfort and reliability you've come to expect from RZE with a 'guaranteed for life' advanced multi-function module and arrives on an adventure ready, custom elasticized fabric strap and is compatible with our UltraHex™ Titanium Bracelet .",
+   "productType": "Quartz Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "BRACELET": "Available with RZE titanium bracelet coated with UltraHex™ and QUIKCLIQ™ on-the-fly buckle",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd"
+   ],
+   "hash": "337e28ba7457a4fd"
+  },
+  {
+   "id": "BRD-0491/utd-8000-bk",
+   "name": "UTD-8000-BK",
+   "url": "https://www.rzewatches.com/products/utd-8000-bk",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-BK.png?v=1775631393",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-BK.png?v=1775631393",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/UTD-8000-BK-lume_8e8ea360-7edf-4eb5-89c5-8ee23fb3ecbf.png?v=1765202186",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/2.353579_baf8927d-4c0d-4993-a94f-fcbe0aaf3919.png?v=1765202186",
+     "width": 1260,
+     "height": 1260
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed and tested in the harsh environment of the Canadian North, the UltraHex™ Titanium Digital (UTD) is resistant to water, dust, corrosion, scratches, shock, vibrations, and featuring an advanced custom module, fully operational even while the watch is fully exposed to extreme temperatures. The UTD-8000 combines the unparalleled level of comfort and reliability you've come to expect from RZE with a 'guaranteed for life' advanced multi-function module and arrives on an adventure ready, custom elasticized fabric strap and is compatible with our UltraHex™ Titanium Bracelet .",
+   "productType": "Quartz Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49.5,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "CASE": "Solid Grade 2 Titanium with UltraHex™ Coating + Shock Resistance",
+    "LIGHT": "Aqua-marine LED Backlight (UltraGlow)",
+    "MOVEMENT": "Custom UTD-8000 Multi-Function Digital Module",
+    "BATTERY": "CR2032",
+    "BATTERY LIFE": "&gt; 3 years",
+    "WATER RESISTANCE": "200m (660ft) / 20ATM",
+    "LENS": "Sapphire crystal with inner-side Super-AR",
+    "STRAP": "Custom elasticized fabric strap",
+    "BRACELET": "Available with RZE titanium bracelet coated with UltraHex™ and QUIKCLIQ™ on-the-fly buckle",
+    "CASE BACK": "Screw secured titanium caseback",
+    "CASE SIZE": "43mm measured at the bezel (42mm at the case)",
+    "CASE THICKNESS": "13.4mm",
+    "LUG WIDTH": "20mm",
+    "LUG TO LUG": "49.5mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/43mm-case",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/utd"
+   ],
+   "hash": "754bddb21ee57e53"
+  },
+  {
+   "id": "BRD-0491/resolute-pro-forest-green",
+   "name": "RESOLUTE - Spruce Green",
+   "url": "https://www.rzewatches.com/products/resolute-pro-forest-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-ProjectForest-01.png?v=1775631393",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-ProjectForest-01.png?v=1775631393",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-enamelblack_lume.png?v=1765510270",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/letsrewildCanada_1d39033d-6d38-455b-8814-dc9a2227436f.jpg?v=1765510270",
+     "width": 1000,
+     "height": 1000
+    }
+   ],
+   "priceMinor": 77900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Project Forest Special Edition Celebrating five years of adventures, the enamel dial Resolutes are the most refined iteration of our titanium field watch that started it all. Crafted from ultra-durable, lightweight titanium, beautifully brushed and coated with our proprietary UltraHex™️, the Resolute features an upgraded bracelet with 'on-the-fly' micro adjustment and a breathtaking black enamel dial. Adding interest and depth, you'll be mesmerized by the applied logo and polish on the handset and indices, bringing an elevated level of craftsmanship to a tough titanium tool watch. The Spruce Green Special Edition nods to the White Spruce that makes up a portion of the forests in interior British Columbia and Alberta. In RZE's pursuit of being carbon negative, we developed a partnership with Project Forest whose mission is to capture carbon in the most efficient way possible - by rewilding Canada’s backyards. 15% of each sale is dedicated to supporting Project Forest's work with the community and Indigenous leaders of Cumberland House Cree Nation, to restore traditional land use and reestablish food bearing and culturally significant plants. You can learn more about the Food and Medicine Forest project here . Although not limited in number, each special edition will include a case-back engraving dedicated to Project Forest alongside a patch to signify the trees and shrubs that were planted on your behalf.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Packaging Option",
+     "values": [
+      "Standard (with Pouch)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard (with Pouch)",
+     "sku": "RZE-RES-SG-BR-P",
+     "priceMinor": 77900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard (with Pouch)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-pro",
+    "BRD-0491/special-editions"
+   ],
+   "hash": "7ce9f8702af1f90f"
+  },
+  {
+   "id": "BRD-0491/quest-voyage-30l",
+   "name": "QUEST - Voyage (30L)",
+   "url": "https://www.rzewatches.com/products/quest-voyage-30l",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3271copy2.jpg?v=1698490240",
+    "width": 1280,
+    "height": 1280
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3271copy2.jpg?v=1698490240",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3272copy.jpg?v=1698491451",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3269copy.jpg?v=1700554921",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3288_7278c4a1-b91a-47fb-8851-38ed52bdefb4.jpg?v=1700554921",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3274_e0ced04e-8a2b-42a7-b77d-f3fa5c5dbac0.jpg?v=1700554921",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3283_80c1b574-260a-4d5f-ab54-cfa1cb806f8c.jpg?v=1700554921",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3285_642b110d-1994-48de-b3d1-72bc35955f06.jpg?v=1700554921",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3300_e7dc88e4-7a80-4126-9531-6d6c2d7609db.jpg?v=1700554921",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3305_0769a015-bb57-40be-ad96-34a6188be79e.jpg?v=1700554921",
+     "width": 1920,
+     "height": 1280
+    }
+   ],
+   "priceMinor": 7900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed for everyday adventures where we often need a disposable bag, the QUEST- Voyage give you over 30L of carrying capacity. Packed with features that make it a perfect companion for your next run to the store, airport, gym or campsite, ‘bringing your own bag’ never looked so good.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Shell": "600D Recycled PET Canvas and 600D PVC Canvas",
+    "Handle": "Nylon Webbing",
+    "Capacity": "~30L",
+    "Height": "19”",
+    "Width": "13.75”",
+    "Depth": "6”",
+    "Folded": "9.75” x 6” x 2” (H x L x W)",
+    "Weight": "575gm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/bags-and-accessories",
+    "BRD-0491/cyber-monday-gear",
+    "BRD-0491/discount-applicable"
+   ],
+   "hash": "6bf12dab86e6eb39"
+  },
+  {
+   "id": "BRD-0491/quest-jaunt-25l",
+   "name": "QUEST - Jaunt (25L)",
+   "url": "https://www.rzewatches.com/products/quest-jaunt-25l",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3295copy2.jpg?v=1698491337",
+    "width": 1280,
+    "height": 1280
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3295copy2.jpg?v=1698491337",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3294copy.jpg?v=1698491337",
+     "width": 1280,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3296copy.jpg?v=1700555027",
+     "width": 1281,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3288.jpg?v=1700555027",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3274.jpg?v=1700555027",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3283.jpg?v=1700555027",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3285.jpg?v=1700555027",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3305.jpg?v=1700555027",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/DSC_3300.jpg?v=1700555027",
+     "width": 1920,
+     "height": 1280
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Designed for everyday adventures where we often need a disposable bag, the QUEST- Jaunt give you over 25L of carrying capacity. Packed with features that make it a perfect companion for your next run to the store, airport, gym or campsite, ‘bringing your own bag’ never looked so good.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Shell": "600D Recycled PET Canvas and 600D PVC Canvas",
+    "Handle": "Nylon Webbing",
+    "Capacity": "~25L",
+    "Height": "15.75",
+    "Width": "13.75”",
+    "Depth": "5.5”",
+    "Folded": "9.75” x 6” x 2” (H x L x W)",
+    "Weight": "500gm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/bags-and-accessories",
+    "BRD-0491/cyber-monday-gear",
+    "BRD-0491/discount-applicable"
+   ],
+   "hash": "8b16fec38663a7f4"
+  },
+  {
+   "id": "BRD-0491/resolute-pro-jet-black-enamel",
+   "name": "RESOLUTE - Jet Black Enamel",
+   "url": "https://www.rzewatches.com/products/resolute-pro-jet-black-enamel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-enamelblack.png?v=1765201131",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-enamelblack.png?v=1765201131",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/resolute-enamelblack_lume.png?v=1765510270",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/files/Resolute-Pro-Black_Date.jpg?v=1765510232",
+     "width": 1280,
+     "height": 1280
+    }
+   ],
+   "priceMinor": 77900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Celebrating five years of adventures, the enamel dial Resolutes are the most refined iteration of our titanium field watch that started it all. Crafted from ultra-durable, lightweight titanium, beautifully brushed and coated with our proprietary UltraHex™️, the Resolute features an upgraded bracelet with 'on-the-fly' micro adjustment and a breathtaking black enamel dial. Adding interest and depth, you'll be mesmerized by the applied logo and polish on the handset and indices, bringing an elevated level of craftsmanship to a tough titanium tool watch.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Date Option",
+     "values": [
+      "Date",
+      "No-Date"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Date",
+     "sku": "RZE-RES-JBD-BR-P",
+     "priceMinor": 77900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Date"
+     ]
+    },
+    {
+     "title": "No-Date",
+     "sku": "RZE-RES-JB-BR-P",
+     "priceMinor": 77900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "No-Date"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:26:25.452Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:26:25.452Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0491/40mm",
+    "BRD-0491/discount-applicable",
+    "BRD-0491/field-watches",
+    "BRD-0491/resolute-collection",
+    "BRD-0491/resolute-pro"
+   ],
+   "hash": "2338379fcb53d5c4"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0491/36mm",
+   "name": "36mm Case Size",
+   "url": "https://www.rzewatches.com/collections/36mm",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0491/40mm",
+   "name": "40mm Case Size",
+   "url": "https://www.rzewatches.com/collections/40mm",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0491/41mm",
+   "name": "41mm Case Size",
+   "url": "https://www.rzewatches.com/collections/41mm",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0491/43mm-case",
+   "name": "43mm Case Size",
+   "url": "https://www.rzewatches.com/collections/43mm-case",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0491/bags-and-accessories",
+   "name": "Bags and accessories",
+   "url": "https://www.rzewatches.com/collections/bags-and-accessories",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/2023-08_RZE_.Quest_7.jpg?v=1698489599",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/cerakote-series",
+   "name": "Cerakote® Series",
+   "url": "https://www.rzewatches.com/collections/cerakote-series",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/DSC00226.jpg?v=1788517277",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/cyber-monday-gear",
+   "name": "Cyber Monday Gear",
+   "url": "https://www.rzewatches.com/collections/cyber-monday-gear",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0491/discount-applicable",
+   "name": "DISCOUNT APPLICABLE",
+   "url": "https://www.rzewatches.com/collections/discount-applicable",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0491/early-access",
+   "name": "Early Access",
+   "url": "https://www.rzewatches.com/collections/early-access",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0491/field-watches",
+   "name": "Field Watches",
+   "url": "https://www.rzewatches.com/collections/field-watches",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/Field.jpg?v=1721451064",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/fortitude",
+   "name": "FORTITUDE",
+   "url": "https://www.rzewatches.com/collections/fortitude",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/NightHawk-22.jpg?v=1709210735",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/pilot-watches",
+   "name": "Pilot Watches",
+   "url": "https://www.rzewatches.com/collections/pilot-watches",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/pilot.jpg?v=1777951650",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/re-verified-watches",
+   "name": "RE-VERIFIED WATCHES",
+   "url": "https://www.rzewatches.com/collections/re-verified-watches",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/RZE_Stills_-34_copy.jpg?v=1700749925",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/resolute-collection",
+   "name": "RESOLUTE",
+   "url": "https://www.rzewatches.com/collections/resolute-collection",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/66-847A9383_copy.jpg?v=1721451106",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/resolute-pro",
+   "name": "RESOLUTE PRO",
+   "url": "https://www.rzewatches.com/collections/resolute-pro",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/RZE_Stills_-34_copy_ebe22631-856a-49ce-978d-441de3046cff.jpg?v=1721451126",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/resolute-type-a",
+   "name": "Resolute Type A",
+   "url": "https://www.rzewatches.com/collections/resolute-type-a",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/DSC01218.jpg?v=1773984549",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/special-editions",
+   "name": "Special Editions",
+   "url": "https://www.rzewatches.com/collections/special-editions",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0491/utd",
+   "name": "UltraHex™ Titanium Digital (UTD)",
+   "url": "https://www.rzewatches.com/collections/utd",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/DSC00019.webp?v=1785421032",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/utd-special-editions",
+   "name": "UTD Special Editions",
+   "url": "https://www.rzewatches.com/collections/utd-special-editions",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0275/3767/0255/collections/DSC00461_37e4784b-0790-4ef0-825c-40f503927167.jpg?v=1785421193",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0491/utd-8000-boldy-brushed",
+   "name": "UTD-8000 Boldy Brushed",
+   "url": "https://www.rzewatches.com/collections/utd-8000-boldy-brushed",
+   "description": null,
+   "image": null
+  }
+ ]
+}

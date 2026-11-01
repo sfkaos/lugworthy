@@ -1,0 +1,129 @@
+{
+ "brandId": "BRD-0916",
+ "brandName": "Forteller",
+ "website": "https://forteller-watches.com",
+ "crawledAt": "2026-11-01T07:14:17.295Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://forteller-watches.com/wp-content/uploads/2020/08/Forteller-Logo-Hvit-ingen-bakgrunn-150x108.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://forteller-watches.com/"
+ },
+ "attribution": "Images © Forteller, from forteller-watches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0916/engineer-diver",
+   "name": "Engineer Diver",
+   "url": "https://forteller-watches.com/cambrian-watch/product/engineer-diver/",
+   "image": {
+    "url": "https://forteller-watches.com/wp-content/uploads/2022/03/DSC00348-Edit-1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/DSC00348-Edit-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/DSC00351-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/DSC00352.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/DSC00350-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/DSC00346-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/DSC00343-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/IMG_20240104_155441_211-scaled.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/IMG_20240113_172952_058.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/IMG_20240513_213758_266.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://forteller-watches.com/wp-content/uploads/2022/03/DSC00355-1-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 26900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Forteller Engineer Diver Limited Edition. (Available again in December) For orders in Norway contact through Instagram or by e-mail . All watches are individually marked 0-99. Every watch comes with: Metal Bracelet Two 8mm half links Extra screws and spring bars for the bracelet Dive extension clasp Butterfly Clasp Orders with 1-5 watches also include: Travel case Screwdriver for bracelet Production is finished and the watches are ready for shipping. Fits: Approximately 5 3/4- 8.5 (15-22cm)inch wrists on Dive buckle (9 3/8(24cm) extended) Approximately 4- 8 3/8(10-21cm) inch wrists on butterfly buckle Dimensions: 42mm Case 41mm Bezel 48mm Lug to lug 20mm Lug width 12,2mm Thickness (11,1mm case height) 28mm tapered to 18mm bracelet 20,4mm signed dive clasp with 22mm total extension(12 positions) Weight: 135g-185g On the bracelet (Varies with wrist size) Other specs: Solid end links Solid 6mm links with screws Embossed screw-down crown 120 click polished ceramic dive bezel Swiss BGW9 superluminova lume Screw down caseback with sapphire window Double domed sapphire crystal with 3 layers of AR coatin Miyota 9039 2 year international warranty: The warranty covers manufacturing faults/defects that cause the watch to stop functioning as a watch. If you have any issues please send an e-mail and I will do my best to help even when warranty does not cover your issue. There are no free returns, if the product is shipped, you will have to pay the shipping charges upon returning the product. We also don&#8217;t accept used products in return as we cannot sell them anymore.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Black",
+      "Blue",
+      "Green",
+      "Red",
+      "White"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 12,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Color": "Black, Blue, Green, Red, White"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:14:17.295Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:14:17.295Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ae6616b8be433ab9"
+  }
+ ],
+ "collections": []
+}

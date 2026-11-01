@@ -1,0 +1,1312 @@
+{
+ "brandId": "BRD-0296",
+ "brandName": "Hult Watch Company",
+ "website": "https://hultwatches.com",
+ "crawledAt": "2026-11-01T07:31:16.073Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://hultwatches.com/cdn/shop/files/HULT_LOGO.png?v=1788896710",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://hultwatches.com/"
+ },
+ "attribution": "Images © Hult Watch Company, from hultwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0296/meridian-diver-teal",
+   "name": "Meridian Diver - Teal",
+   "url": "https://hultwatches.com/products/meridian-diver-teal",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Teal_Hult_Watch_company.jpg?v=1788901137",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Teal_Hult_Watch_company.jpg?v=1788901137",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Teal_Lume_Hult_Watch_company.jpg?v=1788901136",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian Diver"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness with crystal": "12mm",
+    "Lug-to-lug": "43,5mm",
+    "Specifications CASE Diameter": "37,4mm",
+    "Diameter": "37,4mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/meridian-diver"
+   ],
+   "hash": "43ac2a28b1659883"
+  },
+  {
+   "id": "BRD-0296/meridian-diver-brown",
+   "name": "Meridian Diver - Brown",
+   "url": "https://hultwatches.com/products/meridian-diver-brown",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Brown_Hult_Watch_company.jpg?v=1788901078",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Brown_Hult_Watch_company.jpg?v=1788901078",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Brwon_Lume_Hult_Watch_company.jpg?v=1788901076",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian Diver"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness with crystal": "12mm",
+    "Lug-to-lug": "43,5mm",
+    "Specifications CASE Diameter": "37,4mm",
+    "Diameter": "37,4mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/meridian-diver"
+   ],
+   "hash": "17e415d1ddc1cf91"
+  },
+  {
+   "id": "BRD-0296/meridian-diver-black",
+   "name": "Meridian Diver - Black",
+   "url": "https://hultwatches.com/products/meridian-diver-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Black_Hult_Watch_company.jpg?v=1788899563",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Black_Hult_Watch_company.jpg?v=1788899563",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Meridian_Diver_Black_Lume_Hult_Watch_company.jpg?v=1788899564",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian Diver"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness with crystal": "12mm",
+    "Lug-to-lug": "43,5mm",
+    "Specifications CASE Diameter": "37,4mm",
+    "Diameter": "37,4mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/meridian-diver"
+   ],
+   "hash": "fa6da78b026b6d65"
+  },
+  {
+   "id": "BRD-0296/meridian-tuxedo",
+   "name": "Meridian - Tuxedo",
+   "url": "https://hultwatches.com/products/meridian-tuxedo",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Tuxedo_Meridian_Hult_Watch_Company.jpg?v=1788641355",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Tuxedo_Meridian_Hult_Watch_Company.jpg?v=1788641355",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Tuxedo_Meridian_Lume_Hult_Watch_Company.jpg?v=1788724308",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_5.png?v=1783546538",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_2.jpg?v=1783282472",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_3.jpg?v=1783282473",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Meridian Tuxedo is defined by contrast. Its black and white dial emphasises the geometry of the sector-inspired layout, creating a distinctive yet carefully balanced appearance. Contrasting sandblasted and circular-brushed surfaces add physical depth, while polished applied numerals and hour markers lend a more refined character. The hands and applied elements are filled with Swiss Super-LumiNova BGW9 for clear blue illumination after dark. The monochrome dial is complemented by a sculpted 37mm stainless steel case with a short 43mm lug-to-lug length and slim profile. Equipped with the Miyota 9039 automatic movement, sapphire crystal and 150 metres of water resistance, Meridian Tuxedo combines dressier visual contrast with the capability of an everyday field watch.",
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 9.3,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "9,3mm",
+    "Thickness with crystal": "10,6mm",
+    "Lug-to-lug": "43mm",
+    "Specifications CASE Diameter": "37mm",
+    "Diameter": "37mm",
+    "Lug width": "20mm",
+    "The Meridian began with a clear intention": "to create a mid-size watch that feels refined without becoming delicate."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7d2a5255f0cca1f4"
+  },
+  {
+   "id": "BRD-0296/meridian-brown",
+   "name": "Meridian - Brown",
+   "url": "https://hultwatches.com/products/meridian-brown",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Brown_Meridian_Hult_Watch_Company.jpg?v=1788641355",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Brown_Meridian_Hult_Watch_Company.jpg?v=1788641355",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Brown_Meridian_Lume_Hult_Watch_Company.jpg?v=1788724308",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_5.png?v=1783546538",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_2.jpg?v=1783282472",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_3.jpg?v=1783282473",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Meridian Brown gives the traditional field watch a warmer and more distinctive character. The rich brown dial is divided into carefully finished concentric sections, combining soft sandblasted surfaces with a circular-brushed hour sector. Polished applied numerals and markers catch the light against the more subdued background, while Swiss Super-LumiNova BGW9 provides a clear blue glow in darker conditions. The 37mm stainless steel case is designed around comfort, proportion and visual lightness. Its 43mm lug-to-lug length sits neatly on the wrist, while the Miyota 9039 automatic movement, sapphire crystal and 150 metres of water resistance provide the durability expected from a true everyday watch.",
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 9.3,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "9,3mm",
+    "Thickness with crystal": "10,6mm",
+    "Lug-to-lug": "43mm",
+    "Specifications CASE Diameter": "37mm",
+    "Diameter": "37mm",
+    "Lug width": "20mm",
+    "The Meridian began with a clear intention": "to create a mid-size watch that feels refined without becoming delicate."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "75933d7adb98391d"
+  },
+  {
+   "id": "BRD-0296/meridian-cream",
+   "name": "Meridian - Cream",
+   "url": "https://hultwatches.com/products/meridian-cream",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Cream_Meridian_Hult_Watch_Company.jpg?v=1788641355",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Cream_Meridian_Hult_Watch_Company.jpg?v=1788641355",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Cream_Meridian_Lume_Hult_Watch_Company.jpg?v=1788724308",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_5.png?v=1783546538",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_2.jpg?v=1783282472",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_3.jpg?v=1783282473",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Meridian Cream presents the collection’s sector-inspired design in a softer, vintage-influenced colourway. The warm cream dial provides a clear backdrop for the polished applied numerals, hour markers and precisely proportioned hands. Sandblasted central and outer sections contrast with the circular-brushed hour sector, bringing depth and definition to the dial while preserving its calm and balanced appearance. Its 37mm stainless steel case measures 43mm from lug to lug and is shaped to follow the wrist comfortably. The Miyota 9039 automatic movement, sapphire crystal, Swiss Super-LumiNova BGW9 and 150 metres of water resistance make Meridian Cream as practical as it is refined.",
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 9.3,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "9,3mm",
+    "Thickness with crystal": "10,6mm",
+    "Lug-to-lug": "43mm",
+    "Specifications CASE Diameter": "37mm",
+    "Diameter": "37mm",
+    "Lug width": "20mm",
+    "The Meridian began with a clear intention": "to create a mid-size watch that feels refined without becoming delicate."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "aa771a1aef21361b"
+  },
+  {
+   "id": "BRD-0296/meridian-green",
+   "name": "Meridian - Green",
+   "url": "https://hultwatches.com/products/meridian-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Green_Meridian_Hult_Watch_Company.jpg?v=1788641355",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Green_Meridian_Hult_Watch_Company.jpg?v=1788641355",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Green_Meridian_Lume_Hult_Watch_Company.jpg?v=1788724308",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_5.png?v=1783546538",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_2.jpg?v=1783282472",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_3.jpg?v=1783282473",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Meridian Green pairs the purposeful character of a field watch with a deep, understated green dial. Contrasting sandblasted and circular-brushed finishes define its sector-inspired layout and create subtle variations in colour throughout the day. Polished applied numerals and hour markers add a refined point of contrast, with Swiss Super-LumiNova BGW9 illuminating the hands and dial after dark. The 37mm stainless steel case has a compact 43mm lug-to-lug length and a slim profile designed to sit comfortably on a wide range of wrists. Powered by the Miyota 9039 automatic movement and protected by sapphire crystal and 150 metres of water resistance, Meridian Green balances character with everyday versatility.",
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 9.3,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "9,3mm",
+    "Thickness with crystal": "10,6mm",
+    "Lug-to-lug": "43mm",
+    "Specifications CASE Diameter": "37mm",
+    "Diameter": "37mm",
+    "Lug width": "20mm",
+    "The Meridian began with a clear intention": "to create a mid-size watch that feels refined without becoming delicate."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "61bbcc8d0ab88671"
+  },
+  {
+   "id": "BRD-0296/meridian-blue",
+   "name": "Meridian - Blue",
+   "url": "https://hultwatches.com/products/meridian-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Blue_Meridian_Hult_Watch_Company_9a6be77e-1995-434e-a6e7-74844a3072b2.jpg?v=1788720446",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Blue_Meridian_Hult_Watch_Company_9a6be77e-1995-434e-a6e7-74844a3072b2.jpg?v=1788720446",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Blue_Meridian_Lume_Hult_Watch_Company.jpg?v=1788724308",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_5.png?v=1783546538",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_2.jpg?v=1783282472",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_3.jpg?v=1783282473",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Meridian Blue brings a rich blue tone to the collection’s structured, sector-inspired dial. Its colour shifts subtly as light moves across the contrasting surfaces, with sandblasted central and outer sections framing a circular-brushed hour sector. Polished applied numerals and markers introduce further depth and are filled, together with the hands, with Swiss Super-LumiNova BGW9. Its 37mm stainless steel case, short 43mm lug-to-lug length and slim profile create balanced proportions on the wrist. Inside, the Miyota 9039 automatic movement provides reliable timekeeping, while a sapphire crystal and 150 metres of water resistance make Meridian Blue ready for everyday wear.",
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 9.3,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "9,3mm",
+    "Thickness with crystal": "10,6mm",
+    "Lug-to-lug": "43mm",
+    "Specifications CASE Diameter": "37mm",
+    "Diameter": "37mm",
+    "Lug width": "20mm",
+    "The Meridian began with a clear intention": "to create a mid-size watch that feels refined without becoming delicate."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "344550174ffcc77c"
+  },
+  {
+   "id": "BRD-0296/meridian-black",
+   "name": "Meridian - Black",
+   "url": "https://hultwatches.com/products/meridian-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Black_Meridian_Hult_Watch_Company_64003ac5-c091-409b-9b02-7597555d1558.jpg?v=1788722722",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Black_Meridian_Hult_Watch_Company_64003ac5-c091-409b-9b02-7597555d1558.jpg?v=1788722722",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/Black_Meridian_Lume_Hult_Watch_Company.jpg?v=1788724309",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_5.png?v=1783546538",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_2.jpg?v=1783282472",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/PJ3700_RENDERS_3.jpg?v=1783282473",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Meridian Black combines the versatile character of a black dial with the depth and structure of a sector-inspired design. Contrasting sandblasted and circular-brushed surfaces allow the different sections of the dial to respond individually to the light, while polished applied numerals and hour markers provide a refined finish. Filled with Swiss Super-LumiNova BGW9, the hands and applied elements produce a crisp blue glow after dark. The balanced dial is housed in a 37mm stainless steel case measuring 43mm from lug to lug and approximately 10.6 mm thick. Powered by the Miyota 9039 automatic movement and offering 150 metres of water resistance, Meridian Black is designed as a dependable everyday watch with a restrained and timeless presence.",
+   "productType": null,
+   "tags": [
+    "coming-soon",
+    "Meridian"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43,
+    "thicknessMm": 9.3,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "9,3mm",
+    "Thickness with crystal": "10,6mm",
+    "Lug-to-lug": "43mm",
+    "Specifications CASE Diameter": "37mm",
+    "Diameter": "37mm",
+    "Lug width": "20mm",
+    "The Meridian began with a clear intention": "to create a mid-size watch that feels refined without becoming delicate."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5298130e19230f1b"
+  },
+  {
+   "id": "BRD-0296/aquatique-gmt-terra-two-tone",
+   "name": "Aquatique GMT - Terra Two-Tone",
+   "url": "https://hultwatches.com/products/aquatique-gmt-terra-two-tone",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5614.jpg?v=1762282483",
+    "width": 4160,
+    "height": 6240
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5614.jpg?v=1762282483",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF1515.jpg?v=1762282486",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2215.jpg?v=1762282498",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2832.jpg?v=1762282495",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2049.jpg?v=1762282495",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2130.jpg?v=1762282494",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF4884.jpg?v=1762282486",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF1149.jpg?v=1762282458",
+     "width": 1391,
+     "height": 2087
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF1094.jpg?v=1762282456",
+     "width": 1237,
+     "height": 1856
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF1090.jpg?v=1762282453",
+     "width": 1030,
+     "height": 1545
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF1200.jpg?v=1762282452",
+     "width": 865,
+     "height": 1297
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5630_e8073adc-a05f-4da8-b51e-6b5ba7e96698.jpg?v=1762715038",
+     "width": 4160,
+     "height": 6240
+    }
+   ],
+   "priceMinor": 62900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Aquatique GMT Terra Two Tone blends modern refinement with vintage charm. Featuring the same warm brown gradient dial with sandpaper texture as the Terra model, the Two Tone edition adds a steel case with gold-plated accents for a striking presence on the wrist. The 37.4mm case and 43.5mm lug-to-lug dimensions retain the elegant proportions of the Aquatique platform, while polished markers, painted numerals at 3, 9, and 12, and a date window at 6 o’clock offer balanced legibility. Super-LumiNova BGW9 ensures the bezel numerals, hands, and markers glow brightly after dark. With a two-tone 24-hour sapphire bezel and powered by the Miyota 9075 true GMT movement, the Terra Two Tone combines everyday versatility with elevated style.",
+   "productType": "Vintage diver watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "11,20mm",
+    "Thickness with crystal": "13,20mm",
+    "Lug-to-lug": "43,5mm",
+    "Specifications CASE Diameter": "37,4mm",
+    "Diameter": "37,4mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/aquatique-gmt"
+   ],
+   "hash": "237672a64d8d1f42"
+  },
+  {
+   "id": "BRD-0296/aquatique-gmt-terra",
+   "name": "Aquatique GMT - Terra",
+   "url": "https://hultwatches.com/products/aquatique-gmt-terra",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5563.jpg?v=1762282481",
+    "width": 4160,
+    "height": 6240
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5563.jpg?v=1762282481",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF1691.jpg?v=1762282486",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2223.jpg?v=1762282497",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2071.jpg?v=1762282495",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2182.jpg?v=1762282497",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5597_f4ef8b39-e247-4053-9739-12278ec474f8.jpg?v=1762713846",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5466_a2d4ec80-c339-4a90-a104-db4be8171ea6.jpg?v=1762714275",
+     "width": 2086,
+     "height": 3129
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF6519.jpg?v=1762713844",
+     "width": 1345,
+     "height": 2018
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF6499.jpg?v=1762713844",
+     "width": 1998,
+     "height": 2997
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF6557.jpg?v=1762713843",
+     "width": 1107,
+     "height": 1660
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF6495.jpg?v=1762713843",
+     "width": 933,
+     "height": 1400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF6643.jpg?v=1762713846",
+     "width": 4160,
+     "height": 6240
+    }
+   ],
+   "priceMinor": 62900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Aquatique GMT Terra captures warmth and character through a rich gradient dial with fine sandpaper texture, transitioning from deep brown at the edges to a lighter tone in the center. This distinctive finish pairs with vintage-inspired proportions — a 37.4mm case and 43.5mm lug-to-lug — for a balanced and wearable design. Polished triangle markers, painted numerals at 3, 9, and 12, and a date window at 6 o’clock ensure legibility and functionality. BGW9 Super-LumiNova coats the bezel numerals, hands, and markers for clear visibility in low light. Featuring a two-tone 24-hour sapphire bezel to separate day and night hours, and powered by the Miyota 9075 true GMT movement, the Terra is a versatile watch built for exploration near and far.",
+   "productType": "Vintage diver watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "11,20mm",
+    "Thickness with crystal": "13,20mm",
+    "Lug-to-lug": "43,5mm",
+    "Specifications CASE Diameter": "37,4mm",
+    "Diameter": "37,4mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/aquatique-gmt"
+   ],
+   "hash": "b0bedbee632c1db3"
+  },
+  {
+   "id": "BRD-0296/aquatique-gmt-graphite",
+   "name": "Aquatique GMT - Graphite",
+   "url": "https://hultwatches.com/products/aquatique-gmt-graphite",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5539.jpg?v=1762282482",
+    "width": 4160,
+    "height": 6240
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5539.jpg?v=1762282482",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF1451.jpg?v=1762282485",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2223.jpg?v=1762282497",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2071.jpg?v=1762282495",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF2182.jpg?v=1762282497",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF4445.jpg?v=1762282456",
+     "width": 1383,
+     "height": 2075
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5345.jpg?v=1762282497",
+     "width": 4160,
+     "height": 6240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5380.jpg?v=1762282463",
+     "width": 1972,
+     "height": 2958
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5265.jpg?v=1762282474",
+     "width": 2114,
+     "height": 3171
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5332.jpg?v=1762282472",
+     "width": 2141,
+     "height": 3211
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF1228.jpg?v=1762282459",
+     "width": 1516,
+     "height": 2274
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSF5557_adc07f97-0f10-4bb1-9fb7-1217dfec5add.jpg?v=1762715335",
+     "width": 4160,
+     "height": 6240
+    }
+   ],
+   "priceMinor": 62900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Aquatique GMT Graphite combines vintage-inspired proportions with modern functionality. Its 37.4mm case and 43.5mm lug-to-lug carry the timeless charm of mid-century tool watches, now enhanced with a true GMT complication. The dark grey sunray dial adds depth and refinement, while polished triangle markers and painted numerals at 3, 9, and 12 maintain clarity and balance. At 6 o’clock, a discreet date window adds practicality without breaking symmetry. With BGW9 Super-LumiNova on the bezel numerals, hands, and applied markers, the Graphite remains highly legible in all conditions. Finished with a two-tone 24-hour sapphire bezel and powered by the reliable Miyota 9075 true GMT movement, the Graphite is a versatile travel companion with understated elegance.",
+   "productType": "Vintage diver watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Thickness without crystal": "11,20mm",
+    "Thickness with crystal": "13,20mm",
+    "Lug-to-lug": "43,5mm",
+    "Specifications CASE Diameter": "37,4mm",
+    "Diameter": "37,4mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/aquatique-gmt"
+   ],
+   "hash": "58a51e55ce3bdc83"
+  },
+  {
+   "id": "BRD-0296/aquatique-forest-green",
+   "name": "Aquatique - Forest Green",
+   "url": "https://hultwatches.com/products/aquatique-forest-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSCF5695_39cc21e0-328c-4265-b91b-a168a03b8690.jpg?v=1751931720",
+    "width": 1365,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSCF5695_39cc21e0-328c-4265-b91b-a168a03b8690.jpg?v=1751931720",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Introducing Aquatique, a 37mm Diver watch – a stunning tribute to the vintage diver watches of the 1960s. At Hult Watch Company, we are passionate about creating reliable, yet affordable vintage-inspired timepieces with automatic movement that pay tribute to the classic diver watches of the past. And with its beautiful sunray dial, reliable automatic movement, and durable 316 stainless steel case, Aquatique is a perfect example of our dedication to craftsmanship and quality. But the real beauty of this watch lies in its attention to detail. The round sapphire bezel, midnight green sunray dial, and metallic hands are all adorned with Super-LumiNova C3, giving the watch the perfect vintage look and making it easy to read the time, even in the darkest places. The round sapphire bezel adds a stylish touch to the watch while also serving a functional purpose, and the painted markers on the sunray dial ensure that the time is visible at a glance. Inspired by the rugged and reliable diver watches of the past, Aquatique is built to withstand the elements. With a 200-meter water resistance rating this watch is ready for anything - whether you're diving into the depths of the ocean or just enjoying a day at the beach. The Jubilee bracelet, made out of 316L stainless steel, adds a touch of elegance to the watch, making it the perfect accessory for both casual and formal occasions. Embrace the vintage style of the 1960s with Aquatique - a timeless piece that combines classic design with modern performance. Whether you wear it as a statement piece or pair it with a casual outfit, this watch is sure to turn heads and make a statement.",
+   "productType": "Vintage diver watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diameter": "37,4mm",
+    "Thickness": "12,20mm including sapphire crystal",
+    "Lug-to-lug": "43,5mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/aquatique"
+   ],
+   "hash": "dae79182eaf057f6"
+  },
+  {
+   "id": "BRD-0296/aquatique-abyss-black",
+   "name": "Aquatique - Abyss Black",
+   "url": "https://hultwatches.com/products/aquatique-abyss-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSCF5690_82149aa9-7a32-47e8-901e-5d382abd042c.jpg?v=1751931625",
+    "width": 1365,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSCF5690_82149aa9-7a32-47e8-901e-5d382abd042c.jpg?v=1751931625",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Introducing Aquatique, a 37mm Diver watch – a stunning tribute to the vintage diver watches of the 1960s. At Hult Watch Company, we are passionate about creating reliable, yet affordable vintage-inspired timepieces with automatic movement that pay tribute to the classic diver watches of the past. And with its beautiful sunray dial, reliable automatic movement, and durable 316 stainless steel case, Aquatique is a perfect example of our dedication to craftsmanship and quality. But the real beauty of this watch lies in its attention to detail. The round sapphire bezel, black sunray dial, and metallic hands are all adorned with Super-LumiNova C3, giving the watch the perfect vintage look and making it easy to read the time, even in the darkest places. The round sapphire bezel adds a stylish touch to the watch while also serving a functional purpose, and the painted markers on the sunray dial ensure that the time is visible at a glance. Inspired by the rugged and reliable diver watches of the past, Aquatique is built to withstand the elements. With a 200-meter water resistance rating this watch is ready for anything - whether you're diving into the depths of the ocean or just enjoying a day at the beach. The Jubilee bracelet, made out of 316L stainless steel, adds a touch of elegance to the watch, making it the perfect accessory for both casual and formal occasions. Embrace the vintage style of the 1960s with Aquatique - a timeless piece that combines classic design with modern performance. Whether you wear it as a statement piece or pair it with a casual outfit, this watch is sure to turn heads and make a statement.",
+   "productType": "Vintage diver watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diameter": "37,4mm",
+    "Thickness": "12,20mm including sapphire crystal",
+    "Lug-to-lug": "43,5mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/aquatique"
+   ],
+   "hash": "921c4f95b96b9759"
+  },
+  {
+   "id": "BRD-0296/aquatique-arctic-white",
+   "name": "Aquatique - Arctic White",
+   "url": "https://hultwatches.com/products/aquatique-arctic-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSCF5699_9f19d87f-b710-44df-ab75-992605ce0553.jpg?v=1751931661",
+    "width": 1365,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSCF5699_9f19d87f-b710-44df-ab75-992605ce0553.jpg?v=1751931661",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Introducing Aquatique, a 37mm Diver watch – a stunning tribute to the vintage diver watches of the 1960s. At Hult Watch Company, we are passionate about creating reliable, yet affordable vintage-inspired timepieces with automatic movement that pay tribute to the classic diver watches of the past. And with its beautiful matte dial, reliable automatic movement, and durable 316 stainless steel case, Aquatique is a perfect example of our dedication to craftsmanship and quality. But the real beauty of this watch lies in its attention to detail. The round sapphire bezel, white matte dial, and metallic hands are all adorned with Super-LumiNova BGW9, giving the watch the perfect vintage look and making it easy to read the time, even in the darkest places. The round sapphire bezel adds a stylish touch to the watch while also serving a functional purpose, and the painted markers on the matte dial ensure that the time is visible at a glance. Inspired by the rugged and reliable diver watches of the past, Aquatique is built to withstand the elements. With a 200-meter water resistance rating this watch is ready for anything - whether you're diving into the depths of the ocean or just enjoying a day at the beach. The Jubilee bracelet, made out of 316L stainless steel, adds a touch of elegance to the watch, making it the perfect accessory for both casual and formal occasions. Embrace the vintage style of the 1960s with Aquatique - a timeless piece that combines classic design with modern performance. Whether you wear it as a statement piece or pair it with a casual outfit, this watch is sure to turn heads and make a statement.",
+   "productType": "Vintage diver watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diameter": "37,4mm",
+    "Thickness": "12,20mm including sapphire crystal",
+    "Lug-to-lug": "43,5mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/aquatique"
+   ],
+   "hash": "d5dcc749c781be2e"
+  },
+  {
+   "id": "BRD-0296/aquatique-marine-blue",
+   "name": "Aquatique - Marine Blue",
+   "url": "https://hultwatches.com/products/aquatique-marine-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSCF5685-Edit_cab6e57a-1eff-4bb0-be16-bab015e52c3f.jpg?v=1751931693",
+    "width": 1365,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0641/4857/0377/files/DSCF5685-Edit_cab6e57a-1eff-4bb0-be16-bab015e52c3f.jpg?v=1751931693",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Introducing Aquatique, a 37mm Diver watch – a stunning tribute to the vintage diver watches of the 1960s. At Hult Watch Company, we are passionate about creating reliable, yet affordable vintage-inspired timepieces with automatic movement that pay tribute to the classic diver watches of the past. And with its beautiful sunray dial, reliable automatic movement, and durable 316 stainless steel case, Aquatique is a perfect example of our dedication to craftsmanship and quality. But the real beauty of this watch lies in its attention to detail. The round sapphire bezel, blue sunray dial, and metallic hands are all adorned with Super-LumiNova C3, giving the watch the perfect vintage look and making it easy to read the time, even in the darkest places. The round sapphire bezel adds a stylish touch to the watch while also serving a functional purpose, and the painted markers on the sunray dial ensure that the time is visible at a glance. Inspired by the rugged and reliable diver watches of the past, Aquatique is built to withstand the elements. With a 200-meter water resistance rating this watch is ready for anything - whether you're diving into the depths of the ocean or just enjoying a day at the beach. The Jubilee bracelet, made out of 316L stainless steel, adds a touch of elegance to the watch, making it the perfect accessory for both casual and formal occasions. Embrace the vintage style of the 1960s with Aquatique - a timeless piece that combines classic design with modern performance. Whether you wear it as a statement piece or pair it with a casual outfit, this watch is sure to turn heads and make a statement.",
+   "productType": "Vintage diver watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.4,
+    "lugWidthMm": 20,
+    "lugToLugMm": 43.5,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diameter": "37,4mm",
+    "Thickness": "12,20mm including sapphire crystal",
+    "Lug-to-lug": "43,5mm",
+    "Lug width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:31:16.073Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:31:16.073Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0296/aquatique"
+   ],
+   "hash": "a3477fa45625daeb"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0296/aquatique",
+   "name": "Aquatique",
+   "url": "https://hultwatches.com/collections/aquatique",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0296/aquatique-gmt",
+   "name": "Aquatique - GMT",
+   "url": "https://hultwatches.com/collections/aquatique-gmt",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0296/meridian-diver",
+   "name": "Meridian Diver",
+   "url": "https://hultwatches.com/collections/meridian-diver",
+   "description": null,
+   "image": null
+  }
+ ]
+}

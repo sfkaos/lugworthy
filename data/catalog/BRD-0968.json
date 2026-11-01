@@ -1,0 +1,73 @@
+{
+ "brandId": "BRD-0968",
+ "brandName": "Haldimann",
+ "website": "https://www.haldimann.swiss",
+ "crawledAt": "2026-11-01T07:23:57.941Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.haldimann.swiss/images/content/eyecatcher/haldimann_horology_measuring_feeling_thinking.jpg",
+  "width": null,
+  "height": null,
+  "kind": "og_image",
+  "sourcePage": "https://www.haldimann.swiss/en/"
+ },
+ "attribution": "Images © Haldimann, from haldimann.swiss",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0968/index-php",
+   "name": "Collections",
+   "url": "https://www.haldimann.swiss/en/collections/index.php?section=MediaDir",
+   "image": {
+    "url": "https://www.haldimann.swiss/images/content/eyecatcher/haldimann_kollektion_h2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.haldimann.swiss/images/content/eyecatcher/haldimann_kollektion_h2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Haldimann's collections: Time is not only visible, but also sensually experienced.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Haldimann's collections": "Time is not only visible, but also sensually experienced."
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:23:57.941Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:23:57.941Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d5eaa3618a9b1c00"
+  }
+ ],
+ "collections": []
+}

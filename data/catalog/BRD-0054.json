@@ -1,0 +1,3179 @@
+{
+ "brandId": "BRD-0054",
+ "brandName": "Arcange Watches",
+ "website": "https://arcange-watches.com",
+ "crawledAt": "2026-11-01T06:27:27.039Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://arcange-watches.com/cdn/shop/files/logo-site.png?v=1751964086",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://arcange-watches.com/"
+ },
+ "attribution": "Images © Arcange Watches, from arcange-watches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0054/cm05-salmon",
+   "name": "CM05 Salmon",
+   "url": "https://arcange-watches.com/products/cm05-salmon",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN05.jpg?v=1778580728",
+    "width": 2222,
+    "height": 2782
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN05.jpg?v=1778580728",
+     "width": 2222,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/profil_75dd77e2-f692-497b-9af8-c4ddf2105dc9.jpg?v=1778580727",
+     "width": 2224,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Fond-de-boite_8f373953-4af0-4cc6-80e0-76ac63627147.jpg?v=1778580728",
+     "width": 2778,
+     "height": 3454
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM05-brown-french.jpg?v=1782330632",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM05-brown-english.jpg?v=1782330647",
+     "width": 2222,
+     "height": 2778
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM05-black-french.jpg?v=1782330664",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM05-black-english.jpg?v=1782330684",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM05-navy-blue-french.jpg?v=1782330700",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM05-navy-blue-english.jpg?v=1782330718",
+     "width": 2222,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 80300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [
+    "preorder"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Marron",
+      "Cuir Noir",
+      "Cuir Bleu Marine"
+     ]
+    },
+    {
+     "name": "Calendrier",
+     "values": [
+      "Français",
+      "Anglais"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Marron / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Marron",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Marron / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Marron",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Anglais"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38.5,
+    "lugWidthMm": 18,
+    "lugToLugMm": 45.5,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "38,5 mm",
+    "Épaisseur": "11,50 mm (verre bombé inclus)",
+    "Corne à corne": "45,5 mm",
+    "Entrecorne": "18 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "31,8 mm",
+    "Finition du cadran": "guilloché CNC grain d'orge, brossé circulaire",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9015 (modifié) automatique, 42h de réserve de marche",
+    "Fonctions": "heures, minutes, jour, date, mois et affichage des phases de lune (cycle lunaire réel de 29,5 jours)",
+    "Étanchéité": "50 mètres (5 ATM)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/selenograph"
+   ],
+   "hash": "a61ee4515175ddfa"
+  },
+  {
+   "id": "BRD-0054/cm04-syros-blue",
+   "name": "CM04 Syros Blue",
+   "url": "https://arcange-watches.com/products/cm04-syros-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN04.jpg?v=1778580680",
+    "width": 2222,
+    "height": 2783
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN04.jpg?v=1778580680",
+     "width": 2222,
+     "height": 2783
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/profil_897e0c83-cc3a-476e-a7ec-4a5f73b7191a.jpg?v=1778580679",
+     "width": 2224,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Fond-de-boite_2f1b58be-2f95-484a-a32c-ffdb692ea171.jpg?v=1778580680",
+     "width": 2778,
+     "height": 3454
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM04-medium-blue-french.jpg?v=1782329940",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM04-medium-blue-english.jpg?v=1782329960",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM04-navy-blue-french.jpg?v=1782329977",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM04-navy-blue-english.jpg?v=1782329991",
+     "width": 2222,
+     "height": 2783
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM04-black-french.jpg?v=1782330012",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM04-black-english.jpg?v=1782330027",
+     "width": 2222,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 80300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [
+    "preorder"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Bleu Marine",
+      "Cuir Bleu Moyen",
+      "Cuir Noir"
+     ]
+    },
+    {
+     "name": "Calendrier",
+     "values": [
+      "Français",
+      "Anglais"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Bleu Marine / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Moyen / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Moyen",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Moyen / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Moyen",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Anglais"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38.5,
+    "lugWidthMm": 18,
+    "lugToLugMm": 45.5,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "38,5 mm",
+    "Épaisseur": "11,50 mm (verre bombé inclus)",
+    "Corne à corne": "45,5 mm",
+    "Entrecorne": "18 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "31,8 mm",
+    "Finition du cadran": "guilloché CNC grain d'orge, brossé circulaire",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9015 (modifié) automatique, 42h de réserve de marche",
+    "Fonctions": "heures, minutes, jour, date, mois et affichage des phases de lune (cycle lunaire réel de 29,5 jours)",
+    "Étanchéité": "50 mètres (5 ATM)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/selenograph"
+   ],
+   "hash": "baa5f3780ae82579"
+  },
+  {
+   "id": "BRD-0054/cm03-eclipse",
+   "name": "CM03 Eclipse",
+   "url": "https://arcange-watches.com/products/cm03-eclipse",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN03.jpg?v=1778580647",
+    "width": 2222,
+    "height": 2782
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN03.jpg?v=1778580647",
+     "width": 2222,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/profil_d981f81d-5551-48d2-a3c7-57b503c1ded2.jpg?v=1778580646",
+     "width": 2224,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Fond-de-boite_f12d2d4c-9e48-4fe8-afec-13346be88a30.jpg?v=1778580647",
+     "width": 2778,
+     "height": 3454
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM03-navy-blue-french.jpg?v=1782329584",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM03-navy-blue-english.jpg?v=1782329612",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM03-black-french.jpg?v=1782329636",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM03-black-english.jpg?v=1782329653",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM03-brown-french.jpg?v=1782329672",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM03-brown-english.jpg?v=1782329687",
+     "width": 2222,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 80300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [
+    "preorder"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Noir",
+      "Cuir Marron",
+      "Cuir Bleu Marine"
+     ]
+    },
+    {
+     "name": "Calendrier",
+     "values": [
+      "Français",
+      "Anglais"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Noir / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Marron / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Marron",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Marron / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Marron",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Anglais"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38.5,
+    "lugWidthMm": 18,
+    "lugToLugMm": 45.5,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "38,5 mm",
+    "Épaisseur": "11,50 mm (verre bombé inclus)",
+    "Corne à corne": "45,5 mm",
+    "Entrecorne": "18 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "31,8 mm",
+    "Finition du cadran": "guilloché CNC grain d'orge, brossé circulaire",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9015 (modifié) automatique, 42h de réserve de marche",
+    "Fonctions": "heures, minutes, jour, date, mois et affichage des phases de lune (cycle lunaire réel de 29,5 jours)",
+    "Étanchéité": "50 mètres (5 ATM)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/selenograph"
+   ],
+   "hash": "3585136cc5f95802"
+  },
+  {
+   "id": "BRD-0054/cm02-ice-blue",
+   "name": "CM02 Ice Blue",
+   "url": "https://arcange-watches.com/products/cm02-ice-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN02.jpg?v=1778580611",
+    "width": 2222,
+    "height": 2782
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN02.jpg?v=1778580611",
+     "width": 2222,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/profil_9c9436d2-34a9-411f-8cff-f5ab7508c4b4.jpg?v=1778580610",
+     "width": 2224,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Fond-de-boite_bc02bc0b-10ab-4397-83d7-feb7af5da1d2.jpg?v=1778580611",
+     "width": 2778,
+     "height": 3454
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM02-medium-blue-french.jpg?v=1782325779",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM02-medium-blue-english.jpg?v=1782325812",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM02-navy-blue-french.jpg?v=1782325852",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM02-navy-blue-english.jpg?v=1782325867",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM02-black-french.jpg?v=1782325904",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM02-black-english_d4c442df-a1d3-43c7-8a5b-cd8f8f0fef28.jpg?v=1782325949",
+     "width": 2222,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 80300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [
+    "preorder"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Bleu Marine",
+      "Cuir Bleu Moyen",
+      "Cuir Noir"
+     ]
+    },
+    {
+     "name": "Calendrier",
+     "values": [
+      "Français",
+      "Anglais"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Bleu Marine / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Moyen / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Moyen",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Moyen / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Moyen",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Anglais"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38.5,
+    "lugWidthMm": 18,
+    "lugToLugMm": 45.5,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "38,5 mm",
+    "Épaisseur": "11,50 mm (verre bombé inclus)",
+    "Corne à corne": "45,5 mm",
+    "Entrecorne": "18 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "31,8 mm",
+    "Finition du cadran": "guilloché CNC grain d'orge, brossé circulaire",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9015 (modifié) automatique, 42h de réserve de marche",
+    "Fonctions": "heures, minutes, jour, date, mois et affichage des phases de lune (cycle lunaire réel de 29,5 jours)",
+    "Étanchéité": "50 mètres (5 ATM)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/selenograph"
+   ],
+   "hash": "a5c2e2b6fa1948e9"
+  },
+  {
+   "id": "BRD-0054/cm01-classic",
+   "name": "CM01 Classic",
+   "url": "https://arcange-watches.com/products/cm01-classic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN01-2.jpg?v=1778580549",
+    "width": 2222,
+    "height": 2782
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/MN01-2.jpg?v=1778580549",
+     "width": 2222,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01-biais-gauche.jpg?v=1778580547",
+     "width": 2222,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/profil.jpg?v=1778580546",
+     "width": 2224,
+     "height": 2782
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Fond-de-boite.jpg?v=1778580547",
+     "width": 2778,
+     "height": 3454
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01-medium-blue-french.jpg?v=1782324858",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01-navy-french.jpg?v=1782324877",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01-black-french.jpg?v=1782324894",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01-brown-french.jpg?v=1782324910",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01-medium-blue-english.jpg?v=1782324768",
+     "width": 2222,
+     "height": 2778
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01-navy-english.jpg?v=1782324794",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01-black.jpg?v=1782324812",
+     "width": 2222,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/CM01.jpg?v=1782324833",
+     "width": 2222,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 80300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [
+    "preorder"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Bleu Moyen",
+      "Cuir Bleu Marine",
+      "Cuir Noir",
+      "Cuir Marron"
+     ]
+    },
+    {
+     "name": "Calendrier",
+     "values": [
+      "Français",
+      "Anglais"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Bleu Moyen / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Moyen",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Moyen / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Moyen",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Noir / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Noir",
+      "Anglais"
+     ]
+    },
+    {
+     "title": "Cuir Marron / Français",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Marron",
+      "Français"
+     ]
+    },
+    {
+     "title": "Cuir Marron / Anglais",
+     "sku": null,
+     "priceMinor": 80300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Marron",
+      "Anglais"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38.5,
+    "lugWidthMm": 18,
+    "lugToLugMm": 45.5,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "38,5 mm",
+    "Épaisseur": "11,50 mm (verre bombé inclus)",
+    "Corne à corne": "45,5 mm",
+    "Entrecorne": "18 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "31,8 mm",
+    "Finition du cadran": "guilloché CNC grain d'orge, brossé circulaire",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9015 (modifié) automatique, 42h de réserve de marche",
+    "Fonctions": "heures, minutes, jour, date, mois et affichage des phases de lune (cycle lunaire réel de 29,5 jours)",
+    "Étanchéité": "50 mètres (5 ATM)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/selenograph"
+   ],
+   "hash": "643e1f58986d90ac"
+  },
+  {
+   "id": "BRD-0054/as06-salmon",
+   "name": "AS06 Salmon",
+   "url": "https://arcange-watches.com/products/as06-salmon",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS06_Leather_Anthra.jpg?v=1764688871",
+    "width": 2224,
+    "height": 2779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS06_Leather_Anthra.jpg?v=1764688871",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS06_3-4_Leather_Anthracite.jpg?v=1764688871",
+     "width": 1839,
+     "height": 2302
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/boitier-profil.jpg?v=1764688871",
+     "width": 3117,
+     "height": 3910
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Solid.jpg?v=1764688871",
+     "width": 3109,
+     "height": 3917
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Transparent.jpg?v=1764688871",
+     "width": 3109,
+     "height": 3911
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS06_1d868e15-798a-461e-bc84-387b86060c25.jpg?v=1764688871",
+     "width": 1840,
+     "height": 2300
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/publiAS06-7.jpg?v=1764688871",
+     "width": 3703,
+     "height": 4632
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-profil.jpg?v=1765549614",
+     "width": 4675,
+     "height": 4687
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-plein.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3162
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-de-boite-DP2.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3163
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-boucle.jpg?v=1765549614",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS06_portee.jpg?v=1764752169",
+     "width": 2224,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 59400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Anthracite",
+      "Cuir Bleu Marine",
+      "Cuir Marron Clair",
+      "Caoutchouc Noir",
+      "Caoutchouc Bleu Marine",
+      "Caoutchouc Gris",
+      "Caoutchouc Marron"
+     ]
+    },
+    {
+     "name": "Fond de boîte",
+     "values": [
+      "Plein",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "name": "Ecrin de voyage",
+     "values": [
+      "Bleu intérieur gris"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Anthracite / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Anthracite",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Anthracite / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Cuir Anthracite",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Bleu Marine",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Bleu Marine / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Cuir Bleu Marine",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Marron Clair / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Marron Clair",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Marron Clair / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Cuir Marron Clair",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Noir / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Noir",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Noir / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Noir",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu Marine / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu Marine",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu Marine / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu Marine",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Gris / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Gris",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Gris / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Gris",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Marron / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Marron",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Marron / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Marron",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 37.2,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "37.2 mm",
+    "Épaisseur": "9.70 mm (verre bombé inclus)",
+    "Corne à corne": "46 mm",
+    "Entrecorne": "20 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "30.5 mm",
+    "Finition du cadran": "soleillé, mat et guilloché (sur la minuterie). Index appliqués (PVD dark gun)",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9039 automatique, 42h de réserve de marche",
+    "Étanchéité": "100 mètres (10 ATM)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/watch"
+   ],
+   "hash": "f0d55dcac4d22046"
+  },
+  {
+   "id": "BRD-0054/as05-lacquered-green",
+   "name": "AS05-G Lacquered Green",
+   "url": "https://arcange-watches.com/products/as05-lacquered-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-G_Leather_Anthra.jpg?v=1764688881",
+    "width": 2224,
+    "height": 2779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-G_Leather_Anthra.jpg?v=1764688881",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-G_3-4_Leather_Anthracite.jpg?v=1764688881",
+     "width": 2544,
+     "height": 3199
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/boitier-profil_29b851c4-07b8-4402-ace6-56e130b62d9d.jpg?v=1765549614",
+     "width": 3117,
+     "height": 3910
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Solid_1ee52439-75a5-4d25-a397-9e326512082d.jpg?v=1764688881",
+     "width": 3109,
+     "height": 3917
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Transparent_8e0a4113-308b-45d0-8492-e743c9ac0666.jpg?v=1764688881",
+     "width": 3109,
+     "height": 3911
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-G_DESAT_3-4_V3_b226abfa-4286-450c-ae6e-7a75c4cb79cf.jpg?v=1764694138",
+     "width": 1842,
+     "height": 2303
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-G_3-4_V3_14214f55-b6d5-4e5f-8647-71641b212cd9.jpg?v=1764694138",
+     "width": 1839,
+     "height": 2303
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-profil.jpg?v=1765549614",
+     "width": 4675,
+     "height": 4687
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-plein.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3162
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-de-boite-DP2.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3163
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-boucle.jpg?v=1765549614",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-G-portee.jpg?v=1764752098",
+     "width": 2224,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 59400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "physique",
+   "tags": [],
+   "options": [
+    {
+     "name": "Boîtier",
+     "values": [
+      "PVD or rose 4N (double couche)",
+      "Acier"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Anthracite",
+      "Caoutchouc Noir",
+      "Caoutchouc Gris",
+      "Caoutchouc Marron"
+     ]
+    },
+    {
+     "name": "Fond de boîte",
+     "values": [
+      "Plein",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "PVD or rose 4N (double couche) / Cuir Anthracite / Plein",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Cuir Anthracite",
+      "Plein"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Cuir Anthracite / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Cuir Anthracite",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Noir / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Noir",
+      "Plein"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Noir / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Noir",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Gris / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Gris",
+      "Plein"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Gris / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Gris",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Marron / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Marron",
+      "Plein"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Marron / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Marron",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "Acier / Cuir Anthracite / Plein",
+     "sku": "22",
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Acier",
+      "Cuir Anthracite",
+      "Plein"
+     ]
+    },
+    {
+     "title": "Acier / Cuir Anthracite / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Cuir Anthracite",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Noir / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Noir",
+      "Plein"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Noir / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Noir",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Gris / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Gris",
+      "Plein"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Gris / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Gris",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Marron / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Marron",
+      "Plein"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Marron / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Marron",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 37.2,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "37.2 mm",
+    "Épaisseur": "9.70 mm (verre bombé inclus)",
+    "Corne à corne": "46 mm",
+    "Entrecorne": "20 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "30.5 mm",
+    "Finition du cadran": "laqué, mat et guilloché (sur la minuterie). Index appliqués",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9039 automatique, 42h de réserve de marche",
+    "Étanchéité": "100 mètres (10 ATM)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/watch"
+   ],
+   "hash": "aa898107b2ab37b2"
+  },
+  {
+   "id": "BRD-0054/as05-lacquered-black",
+   "name": "AS05-B Lacquered Black",
+   "url": "https://arcange-watches.com/products/as05-lacquered-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-B_Leather_Anthra.jpg?v=1764688790",
+    "width": 2224,
+    "height": 2779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-B_Leather_Anthra.jpg?v=1764688790",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-B_3-4_Leather_Anthracite.jpg?v=1764688790",
+     "width": 2545,
+     "height": 3199
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/boitier-profil_7a02d01f-b5e2-41e4-88bd-b3b5e1e01b0a.jpg?v=1764688790",
+     "width": 3117,
+     "height": 3910
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Solid_78354e92-c9e3-4c3f-a66f-540451cf476d.jpg?v=1764688790",
+     "width": 3109,
+     "height": 3917
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Transparent_3463ddbb-860a-4b87-953d-affe634b8456.jpg?v=1764688790",
+     "width": 3109,
+     "height": 3911
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-G_3-4_V2.jpg?v=1764692890",
+     "width": 1834,
+     "height": 2290
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-profil.jpg?v=1765549614",
+     "width": 4675,
+     "height": 4687
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-plein.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3162
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-de-boite-DP2.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3163
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-boucle.jpg?v=1765549614",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-B_portee.jpg?v=1764752026",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS05-B_DESAT_3-4_V3_51a2e541-5ed1-4f1c-83fd-ca985e1f4df3.jpg?v=1764752026",
+     "width": 1840,
+     "height": 2303
+    }
+   ],
+   "priceMinor": 59400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "physique",
+   "tags": [],
+   "options": [
+    {
+     "name": "Boîtier",
+     "values": [
+      "PVD or rose 4N (double couche)",
+      "Acier"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Anthracite",
+      "Caoutchouc Noir",
+      "Caoutchouc Gris",
+      "Caoutchouc Marron"
+     ]
+    },
+    {
+     "name": "Fond de boîte",
+     "values": [
+      "Plein",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "PVD or rose 4N (double couche) / Cuir Anthracite / Plein",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Cuir Anthracite",
+      "Plein"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Cuir Anthracite / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Cuir Anthracite",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Noir / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Noir",
+      "Plein"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Noir / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Noir",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Gris / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Gris",
+      "Plein"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Gris / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Gris",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Marron / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Marron",
+      "Plein"
+     ]
+    },
+    {
+     "title": "PVD or rose 4N (double couche) / Caoutchouc Marron / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "PVD or rose 4N (double couche)",
+      "Caoutchouc Marron",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "Acier / Cuir Anthracite / Plein",
+     "sku": "22",
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Acier",
+      "Cuir Anthracite",
+      "Plein"
+     ]
+    },
+    {
+     "title": "Acier / Cuir Anthracite / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Cuir Anthracite",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Noir / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Noir",
+      "Plein"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Noir / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Noir",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Gris / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Gris",
+      "Plein"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Gris / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Gris",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Marron / Plein",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Marron",
+      "Plein"
+     ]
+    },
+    {
+     "title": "Acier / Caoutchouc Marron / Transparent (+ 0.5mm d'épaisseur)",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Acier",
+      "Caoutchouc Marron",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 37.2,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "37.2 mm",
+    "Épaisseur": "9.70 mm (verre bombé inclus)",
+    "Corne à corne": "46 mm",
+    "Entrecorne": "20 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "30.5 mm",
+    "Finition du cadran": "laqué, mat et guilloché (sur la minuterie). Index appliqués",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9039 automatique, 42h de réserve de marche",
+    "Étanchéité": "100 mètres (10 ATM)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/watch"
+   ],
+   "hash": "e7ccaefea7005393"
+  },
+  {
+   "id": "BRD-0054/as04-paros-blue",
+   "name": "AS04 Paros Blue",
+   "url": "https://arcange-watches.com/products/as04-paros-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS04_Leather_Blue.jpg?v=1764688757",
+    "width": 2224,
+    "height": 2779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS04_Leather_Blue.jpg?v=1764688757",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS04_3-4_Leather_Blue_652a8b5c-b771-47c3-a4c0-1ae8e5a7cc3a.jpg?v=1765549614",
+     "width": 1845,
+     "height": 2304
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/boitier-profil_29b851c4-07b8-4402-ace6-56e130b62d9d.jpg?v=1765549614",
+     "width": 3117,
+     "height": 3910
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Solid_b9d07de7-b461-48c0-b7b5-17e09e65e9b4.jpg?v=1765549614",
+     "width": 3109,
+     "height": 3917
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Transparent_dfe37b4b-f962-4787-912e-adb0ab859fa6.jpg?v=1765549614",
+     "width": 3109,
+     "height": 3911
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-profil.jpg?v=1765549614",
+     "width": 4675,
+     "height": 4687
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS04_3-4_Cadran2_040e4697-cd0d-4484-a9df-cab09b14c645.jpg?v=1765549614",
+     "width": 1841,
+     "height": 2303
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-plein.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3162
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-de-boite-DP2.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3163
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-boucle.jpg?v=1765549614",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS04_portee.jpg?v=1765549614",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS04_Leather_Anthra.jpg?v=1765549614",
+     "width": 2224,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 59400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "physique",
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Bleu marine",
+      "Cuir Anthracite",
+      "Caoutchouc Bleu marine",
+      "Caoutchouc Bleu clair",
+      "Caoutchouc Gris"
+     ]
+    },
+    {
+     "name": "Fond de boîte",
+     "values": [
+      "Plein",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "name": "Ecrin de voyage",
+     "values": [
+      "Bleu intérieur gris"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Bleu marine / Plein / Bleu intérieur gris",
+     "sku": "9",
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Bleu marine",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Bleu marine / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Bleu marine",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Anthracite / Plein / Bleu intérieur gris",
+     "sku": "13",
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Anthracite",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Anthracite / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Anthracite",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu marine / Plein / Bleu intérieur gris",
+     "sku": "17",
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu marine",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu marine / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu marine",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu clair / Plein / Bleu intérieur gris",
+     "sku": "19",
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu clair",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu clair / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu clair",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Gris / Plein / Bleu intérieur gris",
+     "sku": "21",
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Gris",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Gris / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Gris",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 37.2,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "37.2 mm",
+    "Épaisseur": "9.70 mm (verre bombé inclus)",
+    "Corne à corne": "46 mm",
+    "Entrecorne": "20 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "30.5 mm",
+    "Finition du cadran": "soleillé et mat. Index appliqués (PVD dark gun)",
+    "Aiguilles": "Aiguilles alpha facettées",
+    "Movement": "Miyota 9039 automatique, 42h de réserve de marche",
+    "Étanchéité": "100 mètres (10 ATM)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/watch"
+   ],
+   "hash": "6179fbfa4c86a340"
+  },
+  {
+   "id": "BRD-0054/as03-field",
+   "name": "AS03 Field",
+   "url": "https://arcange-watches.com/products/as03-field",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS03_Leather_Honey.jpg?v=1764688660",
+    "width": 2224,
+    "height": 2779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS03_Leather_Honey.jpg?v=1764688660",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS03_3-4_Leather_Honey_109e9fe8-ef34-4f9a-aeae-870c36d0ba5e.jpg?v=1764688660",
+     "width": 2548,
+     "height": 3208
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/boitier-profil_ef1c2e97-841d-44cd-b2df-0bd066daf429.jpg?v=1764688660",
+     "width": 3117,
+     "height": 3910
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Solid_1ee52439-75a5-4d25-a397-9e326512082d.jpg?v=1764688881",
+     "width": 3109,
+     "height": 3917
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Transparent_8e0a4113-308b-45d0-8492-e743c9ac0666.jpg?v=1764688881",
+     "width": 3109,
+     "height": 3911
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS01_3-4_V10.jpg?v=1764692082",
+     "width": 1833,
+     "height": 2292
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS03_3-4_LUM.jpg?v=1764692082",
+     "width": 2561,
+     "height": 3199
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-profil.jpg?v=1765549614",
+     "width": 4675,
+     "height": 4687
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-de-boite-DP2.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3163
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-plein.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3162
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-boucle.jpg?v=1765549614",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS03_portee.jpg?v=1764751947",
+     "width": 2709,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 59400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "physique",
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Marron clair",
+      "Cuir Anthracite",
+      "Caoutchouc Noir",
+      "Caoutchouc Gris",
+      "Caoutchouc Marron",
+      "Caoutchouc Vert foncé"
+     ]
+    },
+    {
+     "name": "Fond de boîte",
+     "values": [
+      "Plein",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "name": "Ecrin de voyage",
+     "values": [
+      "Bleu intérieur gris"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Marron clair / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Marron clair",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Marron clair / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Marron clair",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Anthracite / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Anthracite",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Anthracite / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Cuir Anthracite",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Noir / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Noir",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Noir / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Noir",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Gris / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Gris",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Gris / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Gris",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Marron / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Marron",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Marron / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Marron",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Vert foncé / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Vert foncé",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Vert foncé / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Vert foncé",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 37.2,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "37.2 mm",
+    "Épaisseur": "9.70 mm (verre bombé inclus)",
+    "Corne à corne": "46 mm",
+    "Entrecorne": "20 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "30.5 mm",
+    "Finition du cadran": "Sablé et brossé circulaire. Index revêtus de SuperLuminova ® Old Radium",
+    "Aiguilles": "Aiguilles losange facettées revêtues de SuperLuminova ® Old Radium",
+    "Movement": "Miyota 9039 automatique, 42h de réserve de marche",
+    "Étanchéité": "100 mètres (10 ATM)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/watch"
+   ],
+   "hash": "22630caa99ff1cd3"
+  },
+  {
+   "id": "BRD-0054/as01-polar-grey",
+   "name": "AS01 Polar Grey",
+   "url": "https://arcange-watches.com/products/as01-polar-grey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS01_Leather_Blue.jpg?v=1764688595",
+    "width": 2224,
+    "height": 2779
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS01_Leather_Blue.jpg?v=1764688595",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS01_3-4_Leather_Blue.jpg?v=1764688595",
+     "width": 1839,
+     "height": 2298
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/boitier-profil_ff051bb8-badb-4302-9002-da781cac420f.jpg?v=1764690379",
+     "width": 3117,
+     "height": 3910
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Transparent_3b330d46-ec98-47b8-b907-b4fab9477e9c.jpg?v=1764690379",
+     "width": 3109,
+     "height": 3911
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/Caseback-Solid_692821ea-8f45-46e4-b583-1a3c343b8fba.jpg?v=1764690379",
+     "width": 3109,
+     "height": 3917
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS01_3-4_V10-photopea_2776790e-11ef-4fcc-8a81-eedc180130ac.jpg?v=1764690821",
+     "width": 1839,
+     "height": 2301
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-profil.jpg?v=1765549614",
+     "width": 4675,
+     "height": 4687
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-plein.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3162
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/fond-de-boite-DP2.jpg?v=1765549614",
+     "width": 2535,
+     "height": 3163
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/mobile-boucle.jpg?v=1765549614",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS01_portee.jpg?v=1764751866",
+     "width": 2224,
+     "height": 2779
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/AS01_Leather_Anthra.jpg?v=1764751866",
+     "width": 2224,
+     "height": 2779
+    }
+   ],
+   "priceMinor": 59400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "",
+   "productType": "physique",
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Bleu marine",
+      "Cuir Marron clair",
+      "Cuir Anthracite",
+      "Caoutchouc Noir",
+      "Caoutchouc Bleu marine",
+      "Caoutchouc Bleu clair",
+      "Caoutchouc Gris",
+      "Caoutchouc Marron"
+     ]
+    },
+    {
+     "name": "Fond de boîte",
+     "values": [
+      "Plein",
+      "Transparent (+ 0.5mm d'épaisseur)"
+     ]
+    },
+    {
+     "name": "Ecrin de voyage",
+     "values": [
+      "Bleu intérieur gris"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Bleu marine / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cuir Bleu marine",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Bleu marine / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Cuir Bleu marine",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Marron clair / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Cuir Marron clair",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Marron clair / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Cuir Marron clair",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Anthracite / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Cuir Anthracite",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Cuir Anthracite / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 61300,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Cuir Anthracite",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Noir / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Noir",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Noir / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Noir",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu marine / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu marine",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu marine / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu marine",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu clair / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu clair",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Bleu clair / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Bleu clair",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Gris / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Gris",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Gris / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Gris",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Marron / Plein / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Marron",
+      "Plein",
+      "Bleu intérieur gris"
+     ]
+    },
+    {
+     "title": "Caoutchouc Marron / Transparent (+ 0.5mm d'épaisseur) / Bleu intérieur gris",
+     "sku": null,
+     "priceMinor": 59400,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Caoutchouc Marron",
+      "Transparent (+ 0.5mm d'épaisseur)",
+      "Bleu intérieur gris"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 37.2,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Composition du boîtier": "Acier 316L",
+    "Diamètre": "37.2 mm",
+    "Épaisseur": "9.70 mm (verre bombé inclus)",
+    "Corne à corne": "46 mm",
+    "Entrecorne": "20 mm",
+    "Verre": "Saphir double dôme bombé, revêtement anti-reflet sur la face interne (5 couches)",
+    "Ouverture du cadran": "30.5 mm",
+    "Finition du cadran": "mat, brossé circulaire et guilloché (sur la minuterie)",
+    "Aiguilles": "Aiguilles alpha bleuies à chaud",
+    "Movement": "Miyota 9039 automatique, 42h de réserve de marche",
+    "Étanchéité": "100 mètres (10 ATM)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/watch"
+   ],
+   "hash": "da69f2ade79a59c3"
+  },
+  {
+   "id": "BRD-0054/gold-vieilli",
+   "name": "Bracelet gold vieilli",
+   "url": "https://arcange-watches.com/products/gold-vieilli",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_GOLD_11909_ALL_HD.jpg?v=1730498777",
+    "width": 2000,
+    "height": 2998
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_GOLD_11909_ALL_HD.jpg?v=1730498777",
+     "width": 2000,
+     "height": 2998
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_GOLD_11914_ALL_HD.jpg?v=1730498776",
+     "width": 2000,
+     "height": 2998
+    }
+   ],
+   "priceMinor": 5700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Tous les bracelets en cuir sont des cuirs de veau pleine fleur méticuleusement sélectionnés et fabriqués par une maroquinerie française réputée. 4 coloris sont disponibles. Chaque bracelet est interchangeable grâce aux pompes rapides.",
+   "productType": "physique",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matière": "Cuir de veau pleine fleur (cuir Barénia)",
+    "Doublure": "Cuir noir",
+    "Largeur entrecorne": "20mm",
+    "Longueur": "115/75mm (poignets de 15 à 20cm)",
+    "Boucle": "boucle ardillon gravée (face interne et externe) de 16mm",
+    "Attaches": "Pompes rapides (bracelet interchangeable sans outil)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/accessoires"
+   ],
+   "hash": "0386b1a88b80210d"
+  },
+  {
+   "id": "BRD-0054/taupe",
+   "name": "Bracelet taupe",
+   "url": "https://arcange-watches.com/products/taupe",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_TAUPE_11922_ALL_HD.jpg?v=1730504412",
+    "width": 2500,
+    "height": 3748
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_TAUPE_11922_ALL_HD.jpg?v=1730504412",
+     "width": 2500,
+     "height": 3748
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_TAUPE_11922_BALL_HD.jpg?v=1730504411",
+     "width": 2500,
+     "height": 3748
+    }
+   ],
+   "priceMinor": 5700,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Tous les bracelets en cuir sont des cuirs de veau pleine fleur méticuleusement sélectionnés et fabriqués par une maroquinerie française réputée. 4 coloris sont disponibles. Chaque bracelet est interchangeable grâce aux pompes rapides.",
+   "productType": "physique",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matière": "Cuir de veau pleine fleur (cuir Barénia)",
+    "Doublure": "Cuir noir",
+    "Largeur entrecorne": "20mm",
+    "Longueur": "115/75mm (poignets de 15 à 20cm)",
+    "Boucle": "boucle ardillon gravée (face interne et externe) de 16mm",
+    "Attaches": "Pompes rapides (bracelet interchangeable sans outil)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/accessoires"
+   ],
+   "hash": "3050cf952f6b06ec"
+  },
+  {
+   "id": "BRD-0054/bleu-marine",
+   "name": "Bracelet bleu marine",
+   "url": "https://arcange-watches.com/products/bleu-marine",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_MARINE_11903_All_HD_222.jpg?v=1730498103",
+    "width": 900,
+    "height": 1349
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_MARINE_11903_All_HD_222.jpg?v=1730498103",
+     "width": 900,
+     "height": 1349
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/1111.jpg?v=1730497977",
+     "width": 800,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 5700,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Tous les bracelets en cuir sont des cuirs de veau pleine fleur méticuleusement sélectionnés et fabriqués par une maroquinerie française réputée. 4 coloris sont disponibles. Chaque bracelet est interchangeable grâce aux pompes rapides.",
+   "productType": "physique",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matière": "Cuir de veau pleine fleur (cuir Barénia)",
+    "Doublure": "Cuir noir",
+    "Largeur entrecorne": "20mm",
+    "Longueur": "115/75mm (poignets de 15 à 20cm)",
+    "Boucle": "boucle ardillon gravée (face interne et externe) de 16mm",
+    "Attaches": "Pompes rapides (bracelet interchangeable sans outil)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/accessoires"
+   ],
+   "hash": "adaffaa03890c9d8"
+  },
+  {
+   "id": "BRD-0054/marron-clair",
+   "name": "Bracelet marron clair",
+   "url": "https://arcange-watches.com/products/marron-clair",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_MIEL_11893_ALL_HD_1.jpg?v=1730499229",
+    "width": 2500,
+    "height": 3748
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_MIEL_11893_ALL_HD_1.jpg?v=1730499229",
+     "width": 2500,
+     "height": 3748
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0907/3924/5397/files/ARCANGE_BRA_MIEL_11895_ALL_HD_1.jpg?v=1730499229",
+     "width": 2500,
+     "height": 3751
+    }
+   ],
+   "priceMinor": 5700,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Tous les bracelets en cuir sont des cuirs de veau pleine fleur méticuleusement sélectionnés et fabriqués par une maroquinerie française réputée. 4 coloris sont disponibles. Chaque bracelet est interchangeable grâce aux pompes rapides.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matière": "Cuir de veau pleine fleur (cuir Barénia)",
+    "Doublure": "Cuir noir",
+    "Largeur entrecorne": "20mm",
+    "Longueur": "115/75mm (poignets de 15 à 20cm)",
+    "Boucle": "boucle ardillon gravée (face interne et externe) de 16mm",
+    "Attaches": "Pompes rapides (bracelet interchangeable sans outil)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:27:27.039Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:27:27.039Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0054/accessoires"
+   ],
+   "hash": "40f2e1c38863e1ca"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0054/accessoires",
+   "name": "ACCESSOIRES",
+   "url": "https://arcange-watches.com/collections/accessoires",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0054/watch",
+   "name": "LA COLLECTION AUTOMATIC SECTOR",
+   "url": "https://arcange-watches.com/collections/watch",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0054/selenograph",
+   "name": "SELENOGRAPH",
+   "url": "https://arcange-watches.com/collections/selenograph",
+   "description": null,
+   "image": null
+  }
+ ]
+}

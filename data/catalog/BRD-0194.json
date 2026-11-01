@@ -1,0 +1,1609 @@
+{
+ "brandId": "BRD-0194",
+ "brandName": "DUG",
+ "website": "https://dug-glashuette.com",
+ "crawledAt": "2026-11-01T07:04:03.876Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://dug-glashuette.com/cdn/shop/files/Logo-Deutsche-Uhrenmanufaktur-Glashuette-White.png?height=150&v=1731585036",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://dug-glashuette.com/"
+ },
+ "attribution": "Images © DUG, from dug-glashuette.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0194/purist-37-typ-2",
+   "name": "Purist 37 Typ 2",
+   "url": "https://dug-glashuette.com/products/purist-37-typ-2",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2NS-LS.webp?v=1787873940",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2NS-LS.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist37_Type2_Onyx_Black_Steel_Bracelet_Angled_86f1ccf5-65d3-432e-953d-aa179c851bfb.webp?v=1787849047",
+     "width": 4000,
+     "height": 3684
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist37_Caseback_Blue_Leather_Angled_734bcd87-75f0-42e8-b6c6-9032bec676e4.webp?v=1787849046",
+     "width": 3864,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist37_Type2_Moon_White_Black_Leather_Angled_fa03bbc9-38bc-4b04-b4e9-1320bb3cbe34.webp?v=1787849048",
+     "width": 4000,
+     "height": 3684
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2NS-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2DS-LS.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2DS-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2NW-LS.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2NW-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2DW-LS.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2DW-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q2NB-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 149900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Die Purist 37 Typ 2 zeichnet sich durch ihr klassisches Erscheinungsbild mit Zahlindexen aus, optional ergänzt um eine Datumsanzeige auf 6 Uhr. • 3-teiliges Edelstahlgehäuse (37 mm) mit Saphirglas und Saphirglasboden • Automatikwerk DUG 200, auf Basis des Sellita SW 200 • Wasserdicht bis 100 Meter (10 ATM) • Hergestellt in Glashütte, Deutschland / Made in Germany",
+   "productType": "Uhr",
+   "tags": [
+    "Uhr"
+   ],
+   "options": [
+    {
+     "name": "Zifferblatt",
+     "values": [
+      "Onyxschwarz",
+      "Mondweiß",
+      "Königsblau"
+     ]
+    },
+    {
+     "name": "Datum",
+     "values": [
+      "ohne Datum",
+      "mit Datum (+100 €)"
+     ]
+    },
+    {
+     "name": "Armband",
+     "values": [
+      "Echtleder (Schwarz)",
+      "Edelstahlband (+100 €)",
+      "Echtleder (Blau)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Onyxschwarz / ohne Datum / Echtleder (Schwarz)",
+     "sku": "Q2NS-LS",
+     "priceMinor": 149900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "Q2NS-ES",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / mit Datum (+100 €) / Echtleder (Schwarz)",
+     "sku": "Q2DS-LS",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "mit Datum (+100 €)",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "Q2DS-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Mondweiß / ohne Datum / Echtleder (Schwarz)",
+     "sku": "Q2NW-LS",
+     "priceMinor": 149900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Mondweiß / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "Q2NW-ES",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Mondweiß / mit Datum (+100 €) / Echtleder (Schwarz)",
+     "sku": "Q2DW-LS",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "mit Datum (+100 €)",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Mondweiß / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "Q2DW-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "Q2NB-ES",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / ohne Datum / Echtleder (Blau)",
+     "sku": "Q2NB-LB",
+     "priceMinor": 149900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "ohne Datum",
+      "Echtleder (Blau)"
+     ]
+    },
+    {
+     "title": "Königsblau / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "Q2DB-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / mit Datum (+100 €) / Echtleder (Blau)",
+     "sku": "Q2DB-LB",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "mit Datum (+100 €)",
+      "Echtleder (Blau)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Referenz": "Q2NS-LS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:04:03.876Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:04:03.876Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0194/alle-uhren",
+    "BRD-0194/purist",
+    "BRD-0194/purist-37",
+    "BRD-0194/purist-typ-2"
+   ],
+   "hash": "88daaa48f0961f71"
+  },
+  {
+   "id": "BRD-0194/purist-37-typ-1",
+   "name": "Purist 37 Typ 1",
+   "url": "https://dug-glashuette.com/products/purist-37-typ-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1NS-LS.webp?v=1787873940",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1NS-LS.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist37_Type1_Royal_Blue_Blue_Leather_Angled_0ffa5fdc-eec2-4c17-8ffe-3e4b19338eee.webp?v=1787849039",
+     "width": 4000,
+     "height": 3684
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist37_Caseback_Blue_Leather_Angled_a5c747c8-fd0f-42fd-b681-55521cf2ed3a.webp?v=1787849040",
+     "width": 3864,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1NS-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1DS-LS.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1DS-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1NW-LS.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1NW-ES.webp?v=1787873939",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1DW-LS.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1DW-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1NB-ES.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Q1NB-LB.webp?v=1787873940",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 149900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Die Purist 37 Typ 1 zeichnet sich durch ihr klares Erscheinungsbild mit Strichindexen aus, optional ergänzt um eine Datumsanzeige auf 6 Uhr. • 3-teiliges Edelstahlgehäuse (37 mm) mit Saphirglas und Saphirglasboden • Automatikwerk DUG 200, auf Basis des Sellita SW 200 • Wasserdicht bis 100 Meter (10 ATM) • Hergestellt in Glashütte, Deutschland / Made in Germany",
+   "productType": "Uhr",
+   "tags": [
+    "Uhr"
+   ],
+   "options": [
+    {
+     "name": "Zifferblatt",
+     "values": [
+      "Onyxschwarz",
+      "Mondweiß",
+      "Königsblau"
+     ]
+    },
+    {
+     "name": "Datum",
+     "values": [
+      "ohne Datum",
+      "mit Datum (+100 €)"
+     ]
+    },
+    {
+     "name": "Armband",
+     "values": [
+      "Echtleder (Schwarz)",
+      "Edelstahlband (+100 €)",
+      "Echtleder (Blau)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Onyxschwarz / ohne Datum / Echtleder (Schwarz)",
+     "sku": "Q1NS-LS",
+     "priceMinor": 149900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "Q1NS-ES",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / mit Datum (+100 €) / Echtleder (Schwarz)",
+     "sku": "Q1DS-LS",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "mit Datum (+100 €)",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "Q1DS-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Mondweiß / ohne Datum / Echtleder (Schwarz)",
+     "sku": "Q1NW-LS",
+     "priceMinor": 149900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Mondweiß / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "Q1NW-ES",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Mondweiß / mit Datum (+100 €) / Echtleder (Schwarz)",
+     "sku": "Q1DW-LS",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "mit Datum (+100 €)",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Mondweiß / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "Q1DW-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "Q1NB-ES",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / ohne Datum / Echtleder (Blau)",
+     "sku": "Q1NB-LB",
+     "priceMinor": 149900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "ohne Datum",
+      "Echtleder (Blau)"
+     ]
+    },
+    {
+     "title": "Königsblau / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "Q1DB-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / mit Datum (+100 €) / Echtleder (Blau)",
+     "sku": "Q1DB-LB",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "mit Datum (+100 €)",
+      "Echtleder (Blau)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Referenz": "Q1NS-LS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:04:03.876Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:04:03.876Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0194/alle-uhren",
+    "BRD-0194/purist",
+    "BRD-0194/purist-37",
+    "BRD-0194/purist-typ-1"
+   ],
+   "hash": "b5c34ade6b295b35"
+  },
+  {
+   "id": "BRD-0194/purist-typ-2-california",
+   "name": "Purist Typ 2 California Dial",
+   "url": "https://dug-glashuette.com/products/purist-typ-2-california",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/DUG_Purist_Typ_2_California_Dial1.jpg?v=1777669424",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/DUG_Purist_Typ_2_California_Dial1.jpg?v=1777669424",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/DUG_Purist_Typ_2_California_Dial7.jpg?v=1777669424",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/DUG_Purist_Typ_2_California_Dial3.jpg?v=1777669427",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/DUG_Purist_Typ_2_California_Dial2.jpg?v=1777669423",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/DUG_Purist_Typ_2_California_Dial4.jpg?v=1777669425",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/DUG_Purist_Typ_2_California_Dial6.jpg?v=1777669424",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/DUG_Purist_Typ_2_California_Dial8.jpg?v=1777669424",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_Rueckansicht.jpg?v=1735403124",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_Flanke.jpg?v=1735403157",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Lederband_Schwarz.jpg?v=1764894127",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfofo_DUG_Verpackung.jpg?v=1735403157",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 174900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Die Purist Typ 2 mit California Dial verbindet eine markante, traditionsreiche Zifferblattgestaltung mit einer weißen Rehaut und klassischer Ausstrahlung. • 3-teiliges Edelstahlgehäuse (40 mm) mit Saphirglas und Saphirglasboden • Automatikwerk DUG 400, auf Basis des Sellita SW 400 • Wasserdicht bis 100 Meter (10 ATM) • Hergestellt in Glashütte, Deutschland / Made in Germany",
+   "productType": "Uhr",
+   "tags": [
+    "Uhr"
+   ],
+   "options": [
+    {
+     "name": "Zifferblatt",
+     "values": [
+      "Onyxschwarz - California Dial"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Onyxschwarz - California Dial",
+     "sku": "P2CS-LS",
+     "priceMinor": 174900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz - California Dial"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW 400",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Referenz": "P2CS-LS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:04:03.876Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:04:03.876Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0194/alle-uhren",
+    "BRD-0194/purist"
+   ],
+   "hash": "8bbcad9f6ae21dea"
+  },
+  {
+   "id": "BRD-0194/purist-typ-2",
+   "name": "Purist Typ 2",
+   "url": "https://dug-glashuette.com/products/purist-typ-2",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_P2NS-LS_Purist_2_Schwarz_ohne_Datum_Leder.jpg?v=1733221738",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_P2NS-LS_Purist_2_Schwarz_ohne_Datum_Leder.jpg?v=1733221738",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_2_ohne_Datum_Onyxschwarz_Edelstahlband.jpg?v=1735403124",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_Rueckansicht.jpg?v=1735403124",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Edelstahlband.jpg?v=1735403157",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_2_ohne_Datum_Mondweiss.jpg?v=1735403124",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_2_ohne_Datum_Mondweiss_Edelstahlband.jpg?v=1735403124",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_2_weiss_Flanke.jpg?v=1735403124",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_2_ohne_Datum_K_nigsblau.jpg?v=1735403124",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_2_ohne_Datum_Koenigsblau_Edelstahlband.jpg?v=1735403124",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_2_Blau_DUG_Logo.jpg?v=1735403124",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_2_mit_Datum_Onyxschwarz.jpg?v=1735403124",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_2_mit_Datum_Onyxschwarz_Edelstahlband.jpg?v=1735403124",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 159900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Die Purist Typ 2 zeichnet sich durch ihr klassisches Erscheinungsbild mit Zahlenindizes aus, optional ergänzt um eine Datumsanzeige bei 6 Uhr. • 3-teiliges Edelstahlgehäuse (40 mm) mit Saphirglas und Saphirglasboden • Automatikwerk DUG 400, auf Basis des Sellita SW 400 • Wasserdicht bis 100 Meter (10 ATM) • Hergestellt in Glashütte, Deutschland / Made in Germany",
+   "productType": "Uhr",
+   "tags": [
+    "Uhr"
+   ],
+   "options": [
+    {
+     "name": "Zifferblatt",
+     "values": [
+      "Onyxschwarz",
+      "Mondweiß",
+      "Königsblau",
+      "Tonkabraun",
+      "Granitgrau",
+      "Burgunderrot"
+     ]
+    },
+    {
+     "name": "Datum",
+     "values": [
+      "ohne Datum",
+      "mit Datum (+100 €)"
+     ]
+    },
+    {
+     "name": "Armband",
+     "values": [
+      "Echtleder (Schwarz)",
+      "Edelstahlband (+100 €)",
+      "Echtleder (Blau)",
+      "Echtleder (Braun)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Onyxschwarz / ohne Datum / Echtleder (Schwarz)",
+     "sku": "P2NS-LS",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P2NS-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / mit Datum (+100 €) / Echtleder (Schwarz)",
+     "sku": "P2DS-LS",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "mit Datum (+100 €)",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "P2DS-ES",
+     "priceMinor": 179900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Mondweiß / ohne Datum / Echtleder (Schwarz)",
+     "sku": "P2NW-LS",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Mondweiß / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P2NW-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Mondweiß / mit Datum (+100 €) / Echtleder (Schwarz)",
+     "sku": "P2DW-LS",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "mit Datum (+100 €)",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Mondweiß / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "P2DW-ES",
+     "priceMinor": 179900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P2NB-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / ohne Datum / Echtleder (Blau)",
+     "sku": "P2NB-LB",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "ohne Datum",
+      "Echtleder (Blau)"
+     ]
+    },
+    {
+     "title": "Königsblau / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "P2DB-ES",
+     "priceMinor": 179900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / mit Datum (+100 €) / Echtleder (Blau)",
+     "sku": "P2DB-LB",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "mit Datum (+100 €)",
+      "Echtleder (Blau)"
+     ]
+    },
+    {
+     "title": "Tonkabraun / ohne Datum / Echtleder (Braun)",
+     "sku": "P2NR-LR",
+     "priceMinor": 164900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Tonkabraun",
+      "ohne Datum",
+      "Echtleder (Braun)"
+     ]
+    },
+    {
+     "title": "Granitgrau / ohne Datum / Echtleder (Schwarz)",
+     "sku": "P2NG-LS",
+     "priceMinor": 164900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Granitgrau",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Granitgrau / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P2NG-ES",
+     "priceMinor": 174900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Granitgrau",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Burgunderrot / ohne Datum / Echtleder (Schwarz)",
+     "sku": "P2NV-LS",
+     "priceMinor": 164900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Burgunderrot",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Burgunderrot / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P2NV-ES",
+     "priceMinor": 174900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Burgunderrot",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW 400",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Referenz": "P2NS-LS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:04:03.876Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:04:03.876Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0194/alle-uhren",
+    "BRD-0194/purist",
+    "BRD-0194/purist-typ-2"
+   ],
+   "hash": "9e2b22d17c7db358"
+  },
+  {
+   "id": "BRD-0194/purist-typ-1",
+   "name": "Purist Typ 1",
+   "url": "https://dug-glashuette.com/products/purist-typ-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_1_ohne_Datum_Onyxschwarz.jpg?v=1731348648",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_1_ohne_Datum_Onyxschwarz.jpg?v=1731348648",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_1_ohne_Datum_Onyxschwarz_Edelstahlband.jpg?v=1735402550",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_Rueckansicht.jpg?v=1735403124",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Edelstahlband.jpg?v=1735403157",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_1_weiss_Flanke.jpg?v=1735403157",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_1_ohne_Datum_K_nigsblau.jpg?v=1735403157",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_1_ohne_Datum_Koenigsblau_Edelstahlband.jpg?v=1735403157",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_1_Blau_DUG_Logo.jpg?v=1735403157",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_1_mit_Datum_Onyxschwarz.jpg?v=1735403157",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_1_mit_Datum_Onyxschwarz_Edelstahlband.jpg?v=1735403157",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Purist_Flanke.jpg?v=1735403157",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/Produktfoto_Purist_Typ_1_ohne_Datum_Mondweiss.jpg?v=1735403157",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 159900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Die Purist Typ 1 zeichnet sich durch ihr klares Erscheinungsbild mit Strichindizes aus, optional ergänzt um eine Datumsanzeige bei 6 Uhr. • 3-teiliges Edelstahlgehäuse (40 mm) mit Saphirglas und Saphirglasboden • Automatikwerk DUG 400, auf Basis des Sellita SW 400 • Wasserdicht bis 100 Meter (10 ATM) • Hergestellt in Glashütte, Deutschland / Made in Germany",
+   "productType": "Uhr",
+   "tags": [
+    "Uhr"
+   ],
+   "options": [
+    {
+     "name": "Zifferblatt",
+     "values": [
+      "Onyxschwarz",
+      "Mondweiß",
+      "Königsblau",
+      "Tonkabraun",
+      "Granitgrau",
+      "Burgunderrot"
+     ]
+    },
+    {
+     "name": "Datum",
+     "values": [
+      "ohne Datum",
+      "mit Datum (+100 €)"
+     ]
+    },
+    {
+     "name": "Armband",
+     "values": [
+      "Echtleder (Schwarz)",
+      "Edelstahlband (+100 €)",
+      "Echtleder (Blau)",
+      "Echtleder (Braun)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Onyxschwarz / ohne Datum / Echtleder (Schwarz)",
+     "sku": "P1NS-LS",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P1NS-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / mit Datum (+100 €) / Echtleder (Schwarz)",
+     "sku": "P1DS-LS",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "mit Datum (+100 €)",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Onyxschwarz / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "P1DS-ES",
+     "priceMinor": 179900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Onyxschwarz",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Mondweiß / ohne Datum / Echtleder (Schwarz)",
+     "sku": "P1NW-LS",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Mondweiß / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P1NW-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Mondweiß / mit Datum (+100 €) / Echtleder (Schwarz)",
+     "sku": "P1DW-LS",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "mit Datum (+100 €)",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Mondweiß / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "P1DW-ES",
+     "priceMinor": 179900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mondweiß",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P1NB-ES",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / ohne Datum / Echtleder (Blau)",
+     "sku": "P1NB-LB",
+     "priceMinor": 159900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "ohne Datum",
+      "Echtleder (Blau)"
+     ]
+    },
+    {
+     "title": "Königsblau / mit Datum (+100 €) / Edelstahlband (+100 €)",
+     "sku": "P1DB-ES",
+     "priceMinor": 179900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "mit Datum (+100 €)",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Königsblau / mit Datum (+100 €) / Echtleder (Blau)",
+     "sku": "P1DB-LB",
+     "priceMinor": 169900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Königsblau",
+      "mit Datum (+100 €)",
+      "Echtleder (Blau)"
+     ]
+    },
+    {
+     "title": "Tonkabraun / ohne Datum / Echtleder (Braun)",
+     "sku": "P1NR-LR",
+     "priceMinor": 164900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Tonkabraun",
+      "ohne Datum",
+      "Echtleder (Braun)"
+     ]
+    },
+    {
+     "title": "Granitgrau / ohne Datum / Echtleder (Schwarz)",
+     "sku": "P1NG-LS",
+     "priceMinor": 164900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Granitgrau",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Granitgrau / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P1NG-ES",
+     "priceMinor": 174900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Granitgrau",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    },
+    {
+     "title": "Burgunderrot / ohne Datum / Echtleder (Schwarz)",
+     "sku": "P1NV-LS",
+     "priceMinor": 164900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Burgunderrot",
+      "ohne Datum",
+      "Echtleder (Schwarz)"
+     ]
+    },
+    {
+     "title": "Burgunderrot / ohne Datum / Edelstahlband (+100 €)",
+     "sku": "P1NV-ES",
+     "priceMinor": 174900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Burgunderrot",
+      "ohne Datum",
+      "Edelstahlband (+100 €)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW 400",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Referenz": "P1NS-LS"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:04:03.876Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:04:03.876Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0194/alle-uhren",
+    "BRD-0194/purist",
+    "BRD-0194/purist-typ-1"
+   ],
+   "hash": "8f3d2cad2753bc1b"
+  },
+  {
+   "id": "BRD-0194/geschenkgutschein",
+   "name": "Geschenkgutschein",
+   "url": "https://dug-glashuette.com/products/geschenkgutschein",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/50-EUR-Gutschein.jpg?v=1732475510",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/50-EUR-Gutschein.jpg?v=1732475510",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/100-EUR-Gutschein.jpg?v=1732475527",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/200-EUR-Gutschein.jpg?v=1732475541",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/1000-EUR-Gutschein.jpg?v=1732475735",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/files/500-EUR-Gutschein.jpg?v=1732475553",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 5692,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "DUG Glashütte Geschenkgutschein – Verschenken Sie Zeit & Präzision. Flexibel einlösbar für alle Uhren. Das perfekte Geschenk für Uhrenliebhaber!",
+   "productType": "Geschenkkarte",
+   "tags": [],
+   "options": [
+    {
+     "name": "Wert",
+     "values": [
+      "€ 50",
+      "€ 100",
+      "€ 200",
+      "€ 500",
+      "€ 1.000"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "€ 50",
+     "sku": null,
+     "priceMinor": 5692,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "€ 50"
+     ]
+    },
+    {
+     "title": "€ 100",
+     "sku": null,
+     "priceMinor": 11384,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "€ 100"
+     ]
+    },
+    {
+     "title": "€ 200",
+     "sku": null,
+     "priceMinor": 22768,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "€ 200"
+     ]
+    },
+    {
+     "title": "€ 500",
+     "sku": null,
+     "priceMinor": 56920,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "€ 500"
+     ]
+    },
+    {
+     "title": "€ 1.000",
+     "sku": null,
+     "priceMinor": 113839,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "€ 1.000"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "aBlogtoWatch über die DUG Purist": "Glashütter Qualität, starke Details – „Glashütte prestige at a value price.“",
+    "Zwei Varianten": "moderne Strichindizes (Typ 1) oder klassische Zahlenindizes (Typ 2).",
+    "Mehrere Zifferblattfarben": "– von klassischen Tönen bis zu ausgewählten Sonderfarben.",
+    "Optional": "mit Datumsanzeige bei 6 Uhr erhältlich.",
+    "Wahlweise": "mit Edelstahlarmband oder Echtlederband.",
+    "Andreas G.": "· Originalauszug",
+    "Andreas L.": "· Originalauszug",
+    "Eberhard H.": "· Originalauszug",
+    "Erik B.": "· Originalauszug",
+    "Felix d. R.": "· Übersetzter Auszug",
+    "Inderpreet S.": "· Übersetzter Auszug",
+    "Marco W.": "· Originalauszug",
+    "Marcus V.": "· Originalauszug",
+    "Martin S.": "· Originalauszug",
+    "Marvin G.": "· Übersetzter Auszug",
+    "Mathias M.": "· Originalauszug",
+    "Philip L.": "· Originalauszug",
+    "Randall Y.": "· Übersetzter Auszug",
+    "Teco F.": "· Übersetzter Auszug",
+    "Thomas H.": "· Originalauszug",
+    "Tobias L.": "· Originalauszug",
+    "Wilhelm J.": "· Originalauszug",
+    "Unsere Vision": "Eine hochwertige und bezahlbare Glashütter Uhr, die mechanische Uhrmacherkunst, Qualität und Made in Germany vereint. Mit Leidenschaft und Unterstützung wurde dieser Traum Wirklichkeit."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:04:03.876Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:04:03.876Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1efa7bd3977158c7"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0194/alle-uhren",
+   "name": "Alle Uhren",
+   "url": "https://dug-glashuette.com/collections/alle-uhren",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/collections/lKollektion.png?v=1729782387",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0194/purist",
+   "name": "Purist",
+   "url": "https://dug-glashuette.com/collections/purist",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0653/0590/3370/collections/2_65e4c088-3618-4cae-aca6-d567b077d74e.jpg?v=1731597523",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0194/purist-37",
+   "name": "Purist 37",
+   "url": "https://dug-glashuette.com/collections/purist-37",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0194/purist-typ-1",
+   "name": "Purist Typ 1",
+   "url": "https://dug-glashuette.com/collections/purist-typ-1",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0194/purist-typ-2",
+   "name": "Purist Typ 2",
+   "url": "https://dug-glashuette.com/collections/purist-typ-2",
+   "description": null,
+   "image": null
+  }
+ ]
+}

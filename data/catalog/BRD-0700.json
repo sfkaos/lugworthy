@@ -1,0 +1,675 @@
+{
+ "brandId": "BRD-0700",
+ "brandName": "Atelier Dorigo",
+ "website": "https://atelier-dorigo.com",
+ "crawledAt": "2026-11-01T06:30:14.003Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://atelier-dorigo.com/cdn/shop/files/Logo_DORIGO_noir_1.png?height=80&v=1752137131",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://atelier-dorigo.com/en"
+ },
+ "attribution": "Images © Atelier Dorigo, from atelier-dorigo.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0700/quarte",
+   "name": "QUARTE",
+   "url": "https://atelier-dorigo.com/products/quarte",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/DORIGO_RIPOSTA_ROUGE_22ecc8b5-06ef-4a28-a1ae-e300fc5e599f.jpg?v=1790799676",
+    "width": 1968,
+    "height": 2953
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/DORIGO_RIPOSTA_ROUGE_22ecc8b5-06ef-4a28-a1ae-e300fc5e599f.jpg?v=1790799676",
+     "width": 1968,
+     "height": 2953
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_TISSU_ROUGE_BD_sRVB.jpg?v=1791453483",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_VERSO_BD_sRVB.jpg?v=1791453484",
+     "width": 1365,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_GANT_ROUGE_BD_sRVB.jpg?v=1791453483",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 112900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Il est des élans que le temps n’efface pas. Une promesse, une présence, une espérance. Chacun porte en lui ce qu’il choisit de préserver. Certains gestes ne cherchent pas à conquérir. Ils existent pour protéger. La véritable force ne réside pas dans ce que l’on atteint, mais dans ce que l’on refuse d’abandonner. Matériaux d'Excellence Acier 316L poli-brossé Verre saphir anti-reflet pour la lunette et le fond Cuir pleine fleur grainé Mouvement mécanique à remontage automatique français robuste et précis. Livraison des premières pièces : mars / avril 2027",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 9.2,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Acier 316L": "poli-brossé",
+    "Verre saphir": "anti-reflet pour la lunette et le fond",
+    "Cuir pleine fleur": "grainé",
+    "Livraison des premières pièces": "mars / avril 2027",
+    "Paris": "10 Rue Fourcroy, 75017 Paris",
+    "Lille": "5 Rue du Curé Saint-Etienne, 59000 Lille",
+    "Matériau": "Acier recyclé 316L",
+    "Etanchéité": "5 ATM (50m)",
+    "Finition": "poli-satinée",
+    "Dimension": "36mm",
+    "Epaisseur": "9,2 mm",
+    "Type": "Automatique à remontage automatique 23 rubis",
+    "Fonctions": "Heure, minute, seconde",
+    "Réserve de marche": "44 heures",
+    "Fréquence": "4 Hz (28.800 alternances/heure)",
+    "Précision": "-4/+4s",
+    "Dimensions": "18 mm - 16 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:30:14.003Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:14.003Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0700/riposta"
+   ],
+   "hash": "2b34bc1afbdb6e7f"
+  },
+  {
+   "id": "BRD-0700/tierce",
+   "name": "TIERCE",
+   "url": "https://atelier-dorigo.com/products/tierce",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/DORIGO_RIPOSTA_MARRON_544c5f50-c3e3-4167-9a72-99900a030da0.jpg?v=1790799588",
+    "width": 1968,
+    "height": 2953
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/DORIGO_RIPOSTA_MARRON_544c5f50-c3e3-4167-9a72-99900a030da0.jpg?v=1790799588",
+     "width": 1968,
+     "height": 2953
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_TISSU_CHOCOLAT_BD_sRVB.jpg?v=1791453483",
+     "width": 1365,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_VERSO_BD_sRVB.jpg?v=1791453484",
+     "width": 1365,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_TISSU_GROUPE_BD_sRVB.jpg?v=1791453483",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 112900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Titre invite à une autre manière d’avancer, non pas en s’entêtant à suivre une ligne droite, mais en accueillant le mouvement lorsqu’il révèle une direction plus vraie. Les chemins les plus justes ne sont pas toujours les plus directs, mais ce sont souvent eux qui nous mènent vraiment vers l’essentiel. Matériaux d'Excellence Acier 316L poli-brossé Verre saphir anti-reflet pour la lunette et le fond Cuir pleine fleur grainé Mouvement mécanique à remontage automatique français robuste et précis. Livraison des premières pièces : mars / avril 2027",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 9.2,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Acier 316L": "poli-brossé",
+    "Verre saphir": "anti-reflet pour la lunette et le fond",
+    "Cuir pleine fleur": "grainé",
+    "Livraison des premières pièces": "mars / avril 2027",
+    "Paris": "10 Rue Fourcroy, 75017 Paris",
+    "Lille": "5 Rue du Curé Saint-Etienne, 59000 Lille",
+    "Matériau": "Acier recyclé 316L",
+    "Etanchéité": "5 ATM (50m)",
+    "Finition": "poli-satinée",
+    "Dimension": "36mm",
+    "Epaisseur": "9,2 mm",
+    "Type": "Automatique à remontage automatique 23 rubis",
+    "Fonctions": "Heure, minute, seconde",
+    "Réserve de marche": "44 heures",
+    "Fréquence": "4 Hz (28.800 alternances/heure)",
+    "Précision": "-4/+4s",
+    "Dimensions": "18 mm - 16 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:30:14.003Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:14.003Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0700/riposta"
+   ],
+   "hash": "981f84e74da7b1f0"
+  },
+  {
+   "id": "BRD-0700/seconde",
+   "name": "SECONDE",
+   "url": "https://atelier-dorigo.com/products/seconde",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/DORIGO_RIPOSTA_VERTE_badbe9a0-2d6a-4573-b034-f887831102d1.jpg?v=1790799268",
+    "width": 1968,
+    "height": 2953
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/DORIGO_RIPOSTA_VERTE_badbe9a0-2d6a-4573-b034-f887831102d1.jpg?v=1790799268",
+     "width": 1968,
+     "height": 2953
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_TISSU_VERTE_BD_sRVB.jpg?v=1791453483",
+     "width": 1365,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_VERSO_BD_sRVB.jpg?v=1791453484",
+     "width": 1365,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_GANT_GROUPE_BD_sRVB.jpg?v=1791453482",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 112900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Tenir la ligne même quand ça pousse. Seconde n’est pas un repli. C’est un appui. Quand la pression monte, le geste se raffermit. On ne recule pas, on tient. C’est une force sans bruit. Suffisante pour rester et avancer. Matériaux d'Excellence Acier 316L poli-brossé Verre saphir anti-reflet pour la lunette et le fond Cuir pleine fleur grainé Mouvement mécanique à remontage automatique français robuste et précis. Livraison des premières pièces : mars / avril 2027",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 9.2,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Acier 316L": "poli-brossé",
+    "Verre saphir": "anti-reflet pour la lunette et le fond",
+    "Cuir pleine fleur": "grainé",
+    "Livraison des premières pièces": "mars / avril 2027",
+    "Paris": "10 Rue Fourcroy, 75017 Paris",
+    "Lille": "5 Rue du Curé Saint-Etienne, 59000 Lille",
+    "Matériau": "Acier recyclé 316L",
+    "Etanchéité": "5 ATM (50m)",
+    "Finition": "poli-satinée",
+    "Dimension": "36mm",
+    "Epaisseur": "9,2 mm",
+    "Type": "Automatique à remontage automatique 23 rubis",
+    "Fonctions": "Heure, minute, seconde",
+    "Réserve de marche": "44 heures",
+    "Fréquence": "4 Hz (28.800 alternances/heure)",
+    "Précision": "-4/+4s",
+    "Dimensions": "18 mm - 16 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:30:14.003Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:14.003Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0700/riposta"
+   ],
+   "hash": "39f30cd78693136b"
+  },
+  {
+   "id": "BRD-0700/prime",
+   "name": "PRIME",
+   "url": "https://atelier-dorigo.com/products/prime",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/DORIGO_RIPOSTA_NOIRE_d33ad174-9eef-426c-8165-6b598759d620.jpg?v=1790798789",
+    "width": 1968,
+    "height": 2953
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/DORIGO_RIPOSTA_NOIRE_d33ad174-9eef-426c-8165-6b598759d620.jpg?v=1790798789",
+     "width": 1968,
+     "height": 2953
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_TISSU_NOIRE_BD_sRVB.jpg?v=1791453483",
+     "width": 1365,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_VERSO_BD_sRVB.jpg?v=1791453484",
+     "width": 1365,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/RIPOSTA_GANT_GROUPE_BD_sRVB.jpg?v=1791453482",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 112900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Parfois, tout se joue dans un souffle. Quand la distance disparaît, il ne reste plus que la vérité du geste. Être là, sans détour, sans recul Prime raconte ce moment-là. Là où l’on ne peut plus fuir. Là où l’on choisit d’être présent. Matériaux d'Excellence Acier 316L poli-brossé Verre saphir anti-reflet pour la lunette et le fond Cuir pleine fleur grainé Mouvement mécanique à remontage automatique français robuste et précis. Livraison des premières pièces : mars / avril 2027",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 9.2,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Acier 316L": "poli-brossé",
+    "Verre saphir": "anti-reflet pour la lunette et le fond",
+    "Cuir pleine fleur": "grainé",
+    "Livraison des premières pièces": "mars / avril 2027",
+    "Paris": "10 Rue Fourcroy, 75017 Paris",
+    "Lille": "5 Rue du Curé Saint-Etienne, 59000 Lille",
+    "Matériau": "Acier recyclé 316L",
+    "Etanchéité": "5 ATM (50m)",
+    "Finition": "poli-satinée",
+    "Dimension": "36mm",
+    "Epaisseur": "9,2 mm",
+    "Type": "Automatique à remontage automatique 23 rubis",
+    "Fonctions": "Heure, minute, seconde",
+    "Réserve de marche": "44 heures",
+    "Fréquence": "4 Hz (28.800 alternances/heure)",
+    "Précision": "-4/+4s",
+    "Dimensions": "18 mm - 16 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:30:14.003Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:14.003Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0700/riposta"
+   ],
+   "hash": "4a0ff0c2872be69c"
+  },
+  {
+   "id": "BRD-0700/ecliptica",
+   "name": "ECLIPTICA",
+   "url": "https://atelier-dorigo.com/products/ecliptica",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_ecliptica.webp?v=1760185176",
+    "width": 1024,
+    "height": 1536
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_ecliptica.webp?v=1760185176",
+     "width": 1024,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_ecliptica_porte.webp?v=1760185139",
+     "width": 2731,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_ecliptica_bras.webp?v=1760185149",
+     "width": 2731,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_ecliptica_porte_2.webp?v=1760185154",
+     "width": 2731,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_ecliptica_pack.webp?v=1760185158",
+     "width": 2048,
+     "height": 3072
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_ecliptica_base.webp?v=1760185165",
+     "width": 2048,
+     "height": 3072
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/dorigo_verso_bd_srvb_1.webp?v=1760185169",
+     "width": 1051,
+     "height": 1577
+    }
+   ],
+   "priceMinor": 393300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Ecliptica puise son inspiration dans les phénomènes célestes les plus fascinants. Son cadran noir profond évoque la mystérieuse beauté d'une éclipse totale, tandis que les rayures acier du fond créent un jeu de lumière rappelant les derniers rayons solaires perçant l'obscurité. Un instant magique où l'ombre et la lumière dansent ensemble. Matériaux d'Excellence Acier recyclé de haute qualité Verre saphir anti-rayure et anti-reflet Cuir responsable certifié Mouvement mécanique français robuste, précis et certifié. Existe aussi en : Acier",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Taille du poignet",
+     "values": [
+      "Standard (15.5 - 21.5 cm)",
+      "S (13.5 - 17 cm)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard (15.5 - 21.5 cm)",
+     "sku": "DO-N25-01-M",
+     "priceMinor": 393300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard (15.5 - 21.5 cm)"
+     ]
+    },
+    {
+     "title": "S (13.5 - 17 cm)",
+     "sku": "DO-N25-01-S",
+     "priceMinor": 393300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "S (13.5 - 17 cm)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Acier recyclé": "de haute qualité",
+    "Verre saphir": "anti-rayure et anti-reflet",
+    "Cuir responsable": "certifié",
+    "Existe aussi en": "Acier",
+    "Pre-sale": "Delivery March 2026 - Limited series of 100 pieces",
+    "Also available in": "Steel",
+    "Material": "316L recycled steel",
+    "Water resistance": "5 ATM (50m)",
+    "Finish": "Hand-polished satin",
+    "Dimensions": "36mm",
+    "Thickness": "9.05 mm",
+    "Type": "Automatic self-winding 23 jewels",
+    "Functions": "Hour, minute, second",
+    "Power reserve": "44 hours",
+    "Frequency": "4 Hz (28,800 vibrations/hour)",
+    "Accuracy": "-4/+4s",
+    "Matériau": "Acier recyclé 316L",
+    "Etanchéité": "5 ATM (50m)",
+    "Finition": "poli-satinée à la main",
+    "Dimension": "36mm",
+    "Epaisseur": "9,05 mm",
+    "Fonctions": "Heure, minute, seconde",
+    "Réserve de marche": "44 heures",
+    "Fréquence": "4 Hz (28.800 alternances/heure)",
+    "Précision": "-4/+4s",
+    "Paris": "10 Rue Fourcroy, 75017 Paris 07 87 08 57 25",
+    "Lille": "5 Rue du Curé Saint-Etienne, 59000 Lille 06 20 63 68 32",
+    "The Movement": "French Beating Heart",
+    "The Case": "An innovative architecture",
+    "The Dial": "Depth and Relief",
+    "The Bracelet": "Comfort & Elegance"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:30:14.003Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:14.003Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0700/accierra"
+   ],
+   "hash": "d8ed18e73bf81a6f"
+  },
+  {
+   "id": "BRD-0700/aurion",
+   "name": "AURION",
+   "url": "https://atelier-dorigo.com/products/aurion",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_aurion.webp?v=1760184902",
+    "width": 1024,
+    "height": 1536
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_aurion.webp?v=1760184902",
+     "width": 1024,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_aurion_porte_2.webp?v=1760184789",
+     "width": 2731,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_aurion_bras.webp?v=1760184848",
+     "width": 2731,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_aurion_porte.webp?v=1760184856",
+     "width": 2731,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_aurion_pack.webp?v=1760184878",
+     "width": 2048,
+     "height": 3072
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/atelier_dorigo_aurion_metal.webp?v=1760184884",
+     "width": 2048,
+     "height": 3072
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/files/dorigo_verso_bd_srvb_1.webp?v=1760185169",
+     "width": 1051,
+     "height": 1577
+    }
+   ],
+   "priceMinor": 393300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Aurion célèbre la renaissance perpétuelle du jour. Son cadran acier aux rayures noires évoque le contraste saisissant entre la nuit qui s'efface et la lumière naissante. Cette création symbolise l'énergie nouvelle de chaque nouveau jour, l'espoir qui renaît à chaque lever de soleil. Matériaux d'Excellence Acier recyclé de haute qualité Verre saphir anti-rayure et anti-reflet Cuir responsable certifié Mouvement mécanique français robuste, précis et certifié. Existe aussi en : Noir",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Taille du poignet",
+     "values": [
+      "Standard (15.5 - 21.5 cm)",
+      "S (13.5 - 17 cm)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard (15.5 - 21.5 cm)",
+     "sku": "DO-A25-01-M",
+     "priceMinor": 393300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard (15.5 - 21.5 cm)"
+     ]
+    },
+    {
+     "title": "S (13.5 - 17 cm)",
+     "sku": "DO-A25-01-S",
+     "priceMinor": 393300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "S (13.5 - 17 cm)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Acier recyclé": "de haute qualité",
+    "Verre saphir": "anti-rayure et anti-reflet",
+    "Cuir responsable": "certifié",
+    "Existe aussi en": "Noir",
+    "Pre-sale": "Delivery March 2026 - Limited series of 100 pieces",
+    "Also available in": "Black",
+    "Material": "316L recycled steel",
+    "Water resistance": "5 ATM (50m)",
+    "Finish": "Hand-polished satin",
+    "Dimensions": "36mm",
+    "Thickness": "9.05 mm",
+    "Type": "Automatic self-winding 23 jewels",
+    "Functions": "Hour, minute, second",
+    "Power reserve": "44 hours",
+    "Frequency": "4 Hz (28,800 vibrations/hour)",
+    "Accuracy": "-4/+4s",
+    "Matériau": "Acier recyclé 316L",
+    "Etanchéité": "5 ATM (50m)",
+    "Finition": "poli-satinée à la main",
+    "Dimension": "36mm",
+    "Epaisseur": "9,05 mm",
+    "Fonctions": "Heure, minute, seconde",
+    "Réserve de marche": "44 heures",
+    "Fréquence": "4 Hz (28.800 alternances/heure)",
+    "Précision": "-4/+4s",
+    "Paris": "10 Rue Fourcroy, 75017 Paris 07 87 08 57 25",
+    "Lille": "5 Rue du Curé Saint-Etienne, 59000 Lille 06 20 63 68 32",
+    "The Movement": "French Beating Heart",
+    "The Case": "An innovative architecture",
+    "The Dial": "Depth and Relief",
+    "The Bracelet": "Comfort & Elegance"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:30:14.003Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:14.003Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0700/accierra"
+   ],
+   "hash": "80e8a46294d09578"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0700/accierra",
+   "name": "COLLECTION ACCIERRA",
+   "url": "https://atelier-dorigo.com/collections/accierra",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/collections/atelier_dorigo_lancement.webp?v=1759832882",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0700/riposta",
+   "name": "RIPOSTA",
+   "url": "https://atelier-dorigo.com/collections/riposta",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0954/5472/4437/collections/RIPOSTA.gif?v=1790798509",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

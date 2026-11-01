@@ -1,0 +1,927 @@
+{
+ "brandId": "BRD-0855",
+ "brandName": "DeSanders",
+ "website": "https://desanders.no",
+ "crawledAt": "2026-11-01T07:00:00.450Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://desanders.no/cdn/shop/files/DeSanders_logo_trans.png?v=1687545208",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://desanders.no/"
+ },
+ "attribution": "Images © DeSanders, from desanders.no",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0855/optime-oceans-du-monde",
+   "name": "Optime - Oceans du monde",
+   "url": "https://desanders.no/products/optime-oceans-du-monde",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Optimestudioimagefinalnologosmall.jpg?v=1789497999",
+    "width": 1912,
+    "height": 1912
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Optimestudioimagefinalnologosmall.jpg?v=1789497999",
+     "width": 1912,
+     "height": 1912
+    }
+   ],
+   "priceMinor": 75000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Unique model designed to celebrate Optimes 10yr anniversary. Limited edition totaling only 210 watches, with all custom parts completely designed as \"one offs\" for this watch model. Functions Internal rotating bezel, operated by second crown Hours, minutes and seconds TMI mechanical movement Up to 41+ hours power reserve Case, dial and hands 41mm diameter 47mm lug to lug Polished, brushed and sand blasted finish Custom domed sapphire crystal glass 100m water resistance Screw down crowns Lume, BGW9 blue on dials and C3 green on hands Strap 20mm custom designed strap in FKM rubber. Tax / VAT is not included apart from to Norway, and is the responsibility of the customer.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 47,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2b8b5e82dcfcc786"
+  },
+  {
+   "id": "BRD-0855/grand-voyage-gmt-gold-deep-blue",
+   "name": "Grand Voyage GMT - Gold & deep blue",
+   "url": "https://desanders.no/products/grand-voyage-gmt-gold-deep-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/V2_Studiobilde_Grand_Voyage_Orient_express.jpg?v=1785519541",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/V2_Studiobilde_Grand_Voyage_Orient_express.jpg?v=1785519541",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Studiobilde_Grand_Voyage_Orient_express_back.jpg?v=1777494534",
+     "width": 2200,
+     "height": 1467
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Limited edition - Grand Voyage Limited to 150pcs pr color, with numbered backs First class experience Functions Automatic GMT movement Hours, minutes and seconds 24h GMT hand, second timezone TMI NH34 movement Up to 41+ hours power reserve Case, dial and hands 41mm diameter, 13mm thickness 47mm lug to lug Polished, brushed and sand blasted finish PVD gold plating Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue on dials and C3 green on hands Straps (1 extra strap included) Custom genuine leather \"croc pattern\" strap, quick release Extra leather strap 20mm strap width Tax / VAT is not included apart from to Norway, and is the responsibility of the customer.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "dfd71cd4a705caf0"
+  },
+  {
+   "id": "BRD-0855/grand-voyage-gmt-rosegold-emerald-green",
+   "name": "Grand Voyage GMT - Rose Gold & Deep Green",
+   "url": "https://desanders.no/products/grand-voyage-gmt-rosegold-emerald-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/V2_Studiobilde_Grand_Voyage_Flying_Scotsman.jpg?v=1785519508",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/V2_Studiobilde_Grand_Voyage_Flying_Scotsman.jpg?v=1785519508",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Studiobilde_Grand_Voyage_Flying_dutchman_back.jpg?v=1784916877",
+     "width": 2200,
+     "height": 1467
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Limited edition - Grand Voyage Limited to 150pcs pr color, with numbered backs First class experience Functions Automatic GMT movement Hours, minutes and seconds 24h GMT hand, second timezone TMI NH34 movement Up to 41+ hours power reserve Case, dial and hands 41mm diameter, 13mm thickness 47mm lug to lug Polished, brushed and sand blasted finish PVD gold plating Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue on dials and C3 green on hands Straps (1 extra strap included) Custom genuine leather \"croc pattern\" strap, quick release Extra leather strap 20mm strap width Tax / VAT is not included apart from to Norway, and is the responsibility of the customer.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "074233683874c318"
+  },
+  {
+   "id": "BRD-0855/coachbuilder-steel-blue-copy",
+   "name": "Coachbuilder - Steel Nero",
+   "url": "https://desanders.no/products/coachbuilder-steel-blue-copy",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_Steel_black.jpg?v=1762802274",
+    "width": 4240,
+    "height": 2832
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_Steel_black.jpg?v=1762802274",
+     "width": 4240,
+     "height": 2832
+    }
+   ],
+   "priceMinor": 47100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Functions Hours, minutes and seconds Tri-compax subdials, running seconds, chrono minutes and 24hr GMT (at 3hr). VK73 movement Chronograph movement (mechanical quartz) Case, dial and hands 43mm diameter, 17mm thickness 51mm lug to lug Steel case, brushed finish Black fume dial and bezel insert. Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue and C3 green Strap Custom rubber strap, quick release Custom buckle.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0855/coachbuilder"
+   ],
+   "hash": "d005c7500bce112c"
+  },
+  {
+   "id": "BRD-0855/coachbuilder-steel-blue",
+   "name": "Coachbuilder - Steel Blue",
+   "url": "https://desanders.no/products/coachbuilder-steel-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_Steel_blue_61c8b917-4159-4f31-b00a-ef33d156a2bd.jpg?v=1762802125",
+    "width": 4240,
+    "height": 2832
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_Steel_blue_61c8b917-4159-4f31-b00a-ef33d156a2bd.jpg?v=1762802125",
+     "width": 4240,
+     "height": 2832
+    }
+   ],
+   "priceMinor": 47100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Functions Hours, minutes and seconds Tri-compax subdials, running seconds, chrono minutes and 24hr GMT (at 3hr). VK73 movement Chronograph movement (mechanical quartz) Case, dial and hands 43mm diameter, 17mm thickness 51mm lug to lug Steel case, brushed finish Blue dial and bezel insert. Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue and C3 green Straps Custom rubber strap, quick release Custom buckle.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0855/coachbuilder"
+   ],
+   "hash": "bc649ca9f5ce7f99"
+  },
+  {
+   "id": "BRD-0855/coachbuilder-steel-panda",
+   "name": "Coachbuilder - Steel Opaline panda",
+   "url": "https://desanders.no/products/coachbuilder-steel-panda",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_Steel_panda.jpg?v=1762801880",
+    "width": 4240,
+    "height": 2832
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_Steel_panda.jpg?v=1762801880",
+     "width": 4240,
+     "height": 2832
+    }
+   ],
+   "priceMinor": 47100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Functions Hours, minutes and seconds Tri-compax subdials, running seconds, chrono minuttes and 24hr GMT (at 3hr). VK73 movement Chronograph movement (mechanical quartz) Case, dial and hands 43mm diameter, 17mm thickness 51mm lug to lug Steel case, brushed finish Silver \"white\" Opaline dial, black subdials and bezel insert. Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue and C3 green Straps Custom rubber strap, quick release Custom buckle.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0855/coachbuilder"
+   ],
+   "hash": "0e555a00b5ee15c3"
+  },
+  {
+   "id": "BRD-0855/coachbuilder-bronze-deep-blue",
+   "name": "Coachbuilder - Bronze Deep blue",
+   "url": "https://desanders.no/products/coachbuilder-bronze-deep-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_blue_916d292a-ddc1-43d9-b60a-0339872fd872.jpg?v=1762801764",
+    "width": 4240,
+    "height": 2832
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_blue_916d292a-ddc1-43d9-b60a-0339872fd872.jpg?v=1762801764",
+     "width": 4240,
+     "height": 2832
+    }
+   ],
+   "priceMinor": 47100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Functions Hours, minutes and seconds Tri-compax subdials, running seconds, chrono minuttes and 24hr GMT (at 3hr). VK73 movement Chronograph movement (mechanical quartz) Case, dial and hands 43mm diameter, 17mm thickness 51mm lug to lug Aluminum bronze case, brushed finish Deep blue dial and bezel insert. Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue and C3 green Straps Custom rubber strap, quick release Custom buckle.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0855/coachbuilder"
+   ],
+   "hash": "24e74cede366fec1"
+  },
+  {
+   "id": "BRD-0855/concept-v-dark-night-copy",
+   "name": "Coachbuilder - Bronze Nero",
+   "url": "https://desanders.no/products/concept-v-dark-night-copy",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_v001copy.jpg?v=1762800055",
+    "width": 4240,
+    "height": 2832
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/DeSanders_Coachbuilder_3_4_v001copy.jpg?v=1762800055",
+     "width": 4240,
+     "height": 2832
+    }
+   ],
+   "priceMinor": 47100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Functions Hours, minutes and seconds Tri-compax subdials, running seconds, chrono minuttes and 24hr GMT (at 3hr). VK73 movement Chronograph movement (mechanical quartz) Case, dial and hands 43mm diameter, 17mm thickness 51mm lug to lug Aluminum bronze case, brushed finish Dark grey to black fume dial. Black bezel insert. Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue and C3 green Straps Custom rubber strap, quick release Custom buckle.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0855/coachbuilder"
+   ],
+   "hash": "d5277aa77cfb2d91"
+  },
+  {
+   "id": "BRD-0855/concept-v-slate-grey-copy",
+   "name": "Concept V - Dark night",
+   "url": "https://desanders.no/products/concept-v-slate-grey-copy",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/black_main.jpg?v=1755547724",
+    "width": 1600,
+    "height": 1456
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/black_main.jpg?v=1755547724",
+     "width": 1600,
+     "height": 1456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/black_bracelet.jpg?v=1755559470",
+     "width": 1600,
+     "height": 1456
+    }
+   ],
+   "priceMinor": 99000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Functions Automatic chronograph movement Hours, minutes and seconds Bi-compax subdials, running seconds and chrono min. TMI NE86A movement Up to 41+ hours power reserve Case, dial and hands 42mm diameter, 17mm thickness 45mm lug to lug Stainless steel, polished and brushed finish Sapphire crystal glass 100m water resistance Black DLC coating Screw down crown Lume, BGW9 blue on dials and C3 green on hands Straps Custom black FKM quality rubber strap, quick release Butterfly clasp with additional adjustment. Bracelet sold out",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3f1623fc2f299e21"
+  },
+  {
+   "id": "BRD-0855/concept-v-emerald-green-copy",
+   "name": "Concept V - Slate Grey",
+   "url": "https://desanders.no/products/concept-v-emerald-green-copy",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Rosegold_grey_main.jpg?v=1755547576",
+    "width": 1600,
+    "height": 1456
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Rosegold_grey_main.jpg?v=1755547576",
+     "width": 1600,
+     "height": 1456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Rosegold_bracelet.jpg?v=1755558930",
+     "width": 1600,
+     "height": 1456
+    }
+   ],
+   "priceMinor": 99000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Functions Automatic chronograph movement Hours, minutes and seconds Bi-compax subdials, running seconds and chrono min. TMI NE86A movement Up to 41+ hours power reserve Case, dial and hands 42mm diameter, 17mm thickness 45mm lug to lug Stainless steel, polished and brushed finish Sapphire crystal glass 100m water resistance PVD 18K rose gold Screw down crown Lume, BGW9 blue on dials and C3 green on hands Straps Custom black FKM quality rubber strap, quick release Butterfly clasp with additional adjustment. Bracelet sold out",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "0829894e8f5e9b71"
+  },
+  {
+   "id": "BRD-0855/concept-v-deep-black-steel-copy",
+   "name": "Concept V - Emerald Green",
+   "url": "https://desanders.no/products/concept-v-deep-black-steel-copy",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Rosegold_green_main.jpg?v=1755547439",
+    "width": 1600,
+    "height": 1456
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Rosegold_green_main.jpg?v=1755547439",
+     "width": 1600,
+     "height": 1456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Rosegold_bracelet.jpg?v=1755558930",
+     "width": 1600,
+     "height": 1456
+    }
+   ],
+   "priceMinor": 99000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Functions Automatic chronograph movement Hours, minutes and seconds Bi-compax subdials, running seconds and chrono min. TMI NE86A movement Up to 41+ hours power reserve Case, dial and hands 42mm diameter, 17mm thickness 45mm lug to lug Stainless steel, polished and brushed finish Sapphire crystal glass 100m water resistance PVD 18K rose gold Screw down crown Lume, BGW9 blue on dials and C3 green on hands Straps Custom FKM quality rubber strap, quick release Butterfly clasp with additional adjustment.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "BRACELET + RUBBER STRAP",
+      "RUBBER STRAP"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "BRACELET + RUBBER STRAP",
+     "sku": null,
+     "priceMinor": 117500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "BRACELET + RUBBER STRAP"
+     ]
+    },
+    {
+     "title": "RUBBER STRAP",
+     "sku": null,
+     "priceMinor": 99000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "RUBBER STRAP"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "BRACELET + RUBBER STRAP BRACELET + RUBBER STRAP RUBBER STRAP"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5b96036738079f90"
+  },
+  {
+   "id": "BRD-0855/concept-v-deep-black-steel",
+   "name": "Concept V - Deep black Steel",
+   "url": "https://desanders.no/products/concept-v-deep-black-steel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Steel_main_4381ab52-d427-444e-9ec9-48cc2ff4819b.jpg?v=1755547064",
+    "width": 1600,
+    "height": 1456
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Steel_main_4381ab52-d427-444e-9ec9-48cc2ff4819b.jpg?v=1755547064",
+     "width": 1600,
+     "height": 1456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Steel_bracelet.jpg?v=1755558980",
+     "width": 1600,
+     "height": 1456
+    }
+   ],
+   "priceMinor": 99000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Functions Automatic chronograph movement Hours, minutes and seconds Bi-compax subdials, running seconds and chrono min. TMI NE86A movement Up to 41+ hours power reserve Case, dial and hands 42mm diameter, 17mm thickness 45mm lug to lug Stainless steel, polished and brushed finish Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue on dials and C3 green on hands Straps Custom black FKM quality rubber strap, quick release Butterfly clasp with additional adjustment. Bracelet sold out",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d382982fb1ca8fbd"
+  },
+  {
+   "id": "BRD-0855/black-pearl-voyage-gmt-exclusive-edition",
+   "name": "The Black Pearl - Voyage GMT, exclusive edition",
+   "url": "https://desanders.no/products/black-pearl-voyage-gmt-exclusive-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Black_PearlFin-01_close.jpg?v=1718231337",
+    "width": 2300,
+    "height": 1993
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Black_PearlFin-01_close.jpg?v=1718231337",
+     "width": 2300,
+     "height": 1993
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Black_PearlFin-04.jpg?v=1718231443",
+     "width": 1813,
+     "height": 1813
+    }
+   ],
+   "priceMinor": 84375,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Limited edition of 307 numbered watches. Automatic GMT movement with unique rotor Custom pirate map at the center of the dial Custom pirate themed elements all through watch, like sail ship GMT hand Case plated with Black DLC and 18kt rose gold 3 custom straps included. Free shipping",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Random serial number",
+      "Pick your serial number"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Random serial number",
+     "sku": null,
+     "priceMinor": 84375,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Random serial number"
+     ]
+    },
+    {
+     "title": "Pick your serial number",
+     "sku": null,
+     "priceMinor": 85900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pick your serial number"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Style": "Random serial number Random serial number Pick your serial number"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0855/voyage-gmt"
+   ],
+   "hash": "da22dcc98a1c9f81"
+  },
+  {
+   "id": "BRD-0855/copy-of-voyage-gmt-rose-gold-rootbeer",
+   "name": "Voyage GMT - Rose gold & Root beer",
+   "url": "https://desanders.no/products/copy-of-voyage-gmt-rose-gold-rootbeer",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Image3_small_0ef44387-cc5a-45b6-9b70-32b3ff291e99.jpg?v=1688378399",
+    "width": 1200,
+    "height": 801
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Image3_small_0ef44387-cc5a-45b6-9b70-32b3ff291e99.jpg?v=1688378399",
+     "width": 1200,
+     "height": 801
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Image4_small_0cea4f27-3114-4a4b-99fe-d30964ece56c.jpg?v=1688378399",
+     "width": 1200,
+     "height": 801
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Limited run now open for Pre-Order To show our gratitude to those who pre-order the watch we will create a upgraded new run of the watch, giving it a display caseback with a custom DeSanders rotor. Functions Automatic GMT movement Hours, minutes and seconds 24h GMT hand, second timezone TMI NH34 movement Up to 41+ hours power reserve Case, dial and hands 41mm diameter, 13mm thickness 47mm lug to lug Stainless steel with polished, brushed and sand blasted finish PVD rose gold plating Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue on dials and C3 green on hands Straps (2 straps included) Custom genuine leather \"croc pattern\" strap, quick release Custom leather strap with rough grain and white contrast stitches, quick release 20mm strap width",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0855/voyage-gmt"
+   ],
+   "hash": "6be2d3387e11c9f9"
+  },
+  {
+   "id": "BRD-0855/voyage-gmt-stainless-steel-blue",
+   "name": "Voyage GMT - Stainless steel & Blue",
+   "url": "https://desanders.no/products/voyage-gmt-stainless-steel-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Image1.jpg?v=1687536371",
+    "width": 2500,
+    "height": 1667
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Image1.jpg?v=1687536371",
+     "width": 2500,
+     "height": 1667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/files/Image2_small_a2ab90f1-44ab-4764-aa8c-b074404c02c6.jpg?v=1687806436",
+     "width": 1200,
+     "height": 800
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Limited run now open for Pre-Order To show our gratitude to those who pre-order the watch we will create a upgraded new run of the watch, giving it a display caseback with a custom DeSanders rotor. Functions Automatic GMT movement Hours, minutes and seconds 24h GMT hand, second timezone TMI NH34 movement Up to 41+ hours power reserve Case, dial and hands 41mm diameter, 13mm thickness 47mm lug to lug Stainless steel with polished, brushed and sand blasted finish Sapphire crystal glass 100m water resistance Screw down crown Lume, BGW9 blue on dials and C3 green on hands Straps (2 straps included) Custom genuine leather \"croc pattern\" strap, quick release Custom leather strap with rough grain and white contrast stitches, quick release 20mm strap width",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:00.450Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:00.450Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0855/voyage-gmt"
+   ],
+   "hash": "fcf259a951c439d7"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0855/coachbuilder",
+   "name": "Coachbuilder",
+   "url": "https://desanders.no/collections/coachbuilder",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0855/voyage-gmt",
+   "name": "Voyage GMT",
+   "url": "https://desanders.no/collections/voyage-gmt",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0783/7227/4481/collections/IMG3071.jpg?v=1784925701",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "brandId": "BRD-1048",
+ "brandName": "Konstantin Chaykin",
+ "website": "https://konstantinchaykin.com",
+ "crawledAt": "2026-11-01T07:39:57.055Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://konstantinchaykin.com/local/templates/kc/img/logos/logo-white.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://konstantinchaykin.com/"
+ },
+ "attribution": "Images © Konstantin Chaykin, from konstantinchaykin.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1048/new",
+   "name": "New watches",
+   "url": "https://konstantinchaykin.com/collections/new/",
+   "image": {
+    "url": "https://chaykin.ru/local/templates/kc/img/favicon/android-icon-192x192.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://chaykin.ru/local/templates/kc/img/favicon/android-icon-192x192.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "The Konstantin Chaykin Manufacture Premiere watchmaker, making custom and bespoke mechanical wrist watches, Interior clock.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:39:57.055Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:57.055Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f0fa08919ab0c4ab"
+  },
+  {
+   "id": "BRD-1048/historical-masterpieces",
+   "name": "Historical masterpieces",
+   "url": "https://konstantinchaykin.com/collections/historical-masterpieces/",
+   "image": {
+    "url": "https://chaykin.ru/upload/iblock/47f/etilv8ch176bn966i17wodws8czugbdv.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://chaykin.ru/upload/iblock/47f/etilv8ch176bn966i17wodws8czugbdv.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "The Konstantin Chaykin Manufacture Premiere watchmaker, making custom and bespoke mechanical wrist watches, Interior clock.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T07:39:57.055Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:57.055Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "42768e77fa7a7edf"
+  }
+ ],
+ "collections": []
+}

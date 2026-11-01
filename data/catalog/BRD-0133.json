@@ -1,0 +1,599 @@
+{
+ "brandId": "BRD-0133",
+ "brandName": "Canopy",
+ "website": "https://www.canopywatchco.com",
+ "crawledAt": "2026-11-01T06:46:12.767Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.canopywatchco.com/cdn/shop/files/Black_Canopy_4x_2.png?height=36&v=1790642094",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.canopywatchco.com/"
+ },
+ "attribution": "Images © Canopy, from canopywatchco.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0133/field-one-green",
+   "name": "Field One - Green",
+   "url": "https://www.canopywatchco.com/products/field-one-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/01_-_F1_Green.png?v=1790980359",
+    "width": 1254,
+    "height": 1254
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/01_-_F1_Green.png?v=1790980359",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/02_-_Isometric_Dial_Green.png?v=1790980358",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/03-Caseback.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/04-CaseProfile.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/05-PoppedBracelet.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 59900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Field One is Canopy’s titanium field watch: a 39mm Grade 2 titanium case and bracelet with a clear matte DLC coating (1200HV), a Miyota 9015 automatic movement, and 100 meters of water resistance. The green dial uses LumiCast numerals and indices with Super-LumiNova C3 X2 for legibility day and night. Specifications Case: Grade 2 titanium with clear matte DLC coating (1200HV) Diameter: 39mm · Thickness: 10mm · Lug-to-lug: 46mm Movement: Miyota 9015 automatic with hand-winding; hours, minutes, seconds, date Crystal: double-domed sapphire with anti-reflective coating Lume: Super-LumiNova C3 X2 LumiCast numerals and indices Caseback: forged carbon fiber · Crown: screw-down with forged carbon fiber insert Water resistance: 10ATM / 100 meters Bracelet: Grade 2 titanium with clear matte DLC, 20mm at the lugs tapering to 18mm Clasp: toolless micro-adjust, 7.5mm total adjustment in 1.5mm steps Designed in Minnesota and Texas. Covered by Canopy’s two-year International Limited Warranty .",
+   "productType": "Watch",
+   "tags": [
+    "FieldOne"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 10,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case": "Grade 2 titanium with clear matte DLC coating (1200HV)",
+    "Diameter": "39mm · Thickness: 10mm · Lug-to-lug: 46mm",
+    "Movement": "Miyota 9015 automatic with hand-winding; hours, minutes, seconds, date",
+    "Crystal": "double-domed sapphire with anti-reflective coating",
+    "Lume": "Super-LumiNova C3 X2 LumiCast numerals and indices",
+    "Caseback": "forged carbon fiber · Crown: screw-down with forged carbon fiber insert",
+    "Water resistance": "10ATM / 100 meters",
+    "Bracelet": "Grade 2 titanium with clear matte DLC, 20mm at the lugs tapering to 18mm",
+    "Clasp": "toolless micro-adjust, 7.5mm total adjustment in 1.5mm steps"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:12.767Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:12.767Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0133/field-one"
+   ],
+   "hash": "d0928fd22eb507d9"
+  },
+  {
+   "id": "BRD-0133/field-one-black",
+   "name": "Field One - Black",
+   "url": "https://www.canopywatchco.com/products/field-one-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/01_-_F1_Black.png?v=1790980358",
+    "width": 1254,
+    "height": 1254
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/01_-_F1_Black.png?v=1790980358",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/02-IsometricDialBlack.png?v=1790980358",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/03-Caseback.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/04-CaseProfile.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/05-PoppedBracelet.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 59900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Field One is Canopy’s titanium field watch: a 39mm Grade 2 titanium case and bracelet with a clear matte DLC coating (1200HV), a Miyota 9015 automatic movement, and 100 meters of water resistance. The black dial uses LumiCast numerals and indices with Super-LumiNova C3 X2 for legibility day and night. Specifications Case: Grade 2 titanium with clear matte DLC coating (1200HV) Diameter: 39mm · Thickness: 10mm · Lug-to-lug: 46mm Movement: Miyota 9015 automatic with hand-winding; hours, minutes, seconds, date Crystal: double-domed sapphire with anti-reflective coating Lume: Super-LumiNova C3 X2 LumiCast numerals and indices Caseback: forged carbon fiber · Crown: screw-down with forged carbon fiber insert Water resistance: 10ATM / 100 meters Bracelet: Grade 2 titanium with clear matte DLC, 20mm at the lugs tapering to 18mm Clasp: toolless micro-adjust, 7.5mm total adjustment in 1.5mm steps Designed in Minnesota and Texas. Covered by Canopy’s two-year International Limited Warranty .",
+   "productType": "Watch",
+   "tags": [
+    "FieldOne"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 10,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case": "Grade 2 titanium with clear matte DLC coating (1200HV)",
+    "Diameter": "39mm · Thickness: 10mm · Lug-to-lug: 46mm",
+    "Movement": "Miyota 9015 automatic with hand-winding; hours, minutes, seconds, date",
+    "Crystal": "double-domed sapphire with anti-reflective coating",
+    "Lume": "Super-LumiNova C3 X2 LumiCast numerals and indices",
+    "Caseback": "forged carbon fiber · Crown: screw-down with forged carbon fiber insert",
+    "Water resistance": "10ATM / 100 meters",
+    "Bracelet": "Grade 2 titanium with clear matte DLC, 20mm at the lugs tapering to 18mm",
+    "Clasp": "toolless micro-adjust, 7.5mm total adjustment in 1.5mm steps"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:12.767Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:12.767Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0133/field-one"
+   ],
+   "hash": "274bc81b70ae079c"
+  },
+  {
+   "id": "BRD-0133/field-one-blue",
+   "name": "Field One - Blue",
+   "url": "https://www.canopywatchco.com/products/field-one-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/01_-_F1_Blue.png?v=1790980359",
+    "width": 1254,
+    "height": 1254
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/01_-_F1_Blue.png?v=1790980359",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/02_-_Isometric_Dial_Blue.png?v=1790980358",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/03-Caseback.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/04-CaseProfile.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/05-PoppedBracelet.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 59900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Field One is Canopy’s titanium field watch: a 39mm Grade 2 titanium case and bracelet with a clear matte DLC coating (1200HV), a Miyota 9015 automatic movement, and 100 meters of water resistance. The blue dial uses LumiCast numerals and indices with Super-LumiNova C3 X2 for legibility day and night. Specifications Case: Grade 2 titanium with clear matte DLC coating (1200HV) Diameter: 39mm · Thickness: 10mm · Lug-to-lug: 46mm Movement: Miyota 9015 automatic with hand-winding; hours, minutes, seconds, date Crystal: double-domed sapphire with anti-reflective coating Lume: Super-LumiNova C3 X2 LumiCast numerals and indices Caseback: forged carbon fiber · Crown: screw-down with forged carbon fiber insert Water resistance: 10ATM / 100 meters Bracelet: Grade 2 titanium with clear matte DLC, 20mm at the lugs tapering to 18mm Clasp: toolless micro-adjust, 7.5mm total adjustment in 1.5mm steps Designed in Minnesota and Texas. Covered by Canopy’s two-year International Limited Warranty .",
+   "productType": "Watch",
+   "tags": [
+    "FieldOne"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 10,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case": "Grade 2 titanium with clear matte DLC coating (1200HV)",
+    "Diameter": "39mm · Thickness: 10mm · Lug-to-lug: 46mm",
+    "Movement": "Miyota 9015 automatic with hand-winding; hours, minutes, seconds, date",
+    "Crystal": "double-domed sapphire with anti-reflective coating",
+    "Lume": "Super-LumiNova C3 X2 LumiCast numerals and indices",
+    "Caseback": "forged carbon fiber · Crown: screw-down with forged carbon fiber insert",
+    "Water resistance": "10ATM / 100 meters",
+    "Bracelet": "Grade 2 titanium with clear matte DLC, 20mm at the lugs tapering to 18mm",
+    "Clasp": "toolless micro-adjust, 7.5mm total adjustment in 1.5mm steps"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:12.767Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:12.767Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0133/field-one"
+   ],
+   "hash": "efb05ac5a3cd63e5"
+  },
+  {
+   "id": "BRD-0133/field-one-orange",
+   "name": "Field One - Orange",
+   "url": "https://www.canopywatchco.com/products/field-one-orange",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/01_-_F1_Orange.png?v=1790980359",
+    "width": 1254,
+    "height": 1254
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/01_-_F1_Orange.png?v=1790980359",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/02_-_Isometric_Dial_Orange.png?v=1790980358",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/03-Caseback.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/04-CaseProfile.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/05-PoppedBracelet.png?v=1738181445",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 59900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Field One is Canopy’s titanium field watch: a 39mm Grade 2 titanium case and bracelet with a clear matte DLC coating (1200HV), a Miyota 9015 automatic movement, and 100 meters of water resistance. The orange dial uses LumiCast numerals and indices with Super-LumiNova C3 X2 for legibility day and night. Specifications Case: Grade 2 titanium with clear matte DLC coating (1200HV) Diameter: 39mm · Thickness: 10mm · Lug-to-lug: 46mm Movement: Miyota 9015 automatic with hand-winding; hours, minutes, seconds, date Crystal: double-domed sapphire with anti-reflective coating Lume: Super-LumiNova C3 X2 LumiCast numerals and indices Caseback: forged carbon fiber · Crown: screw-down with forged carbon fiber insert Water resistance: 10ATM / 100 meters Bracelet: Grade 2 titanium with clear matte DLC, 20mm at the lugs tapering to 18mm Clasp: toolless micro-adjust, 7.5mm total adjustment in 1.5mm steps Designed in Minnesota and Texas. Covered by Canopy’s two-year International Limited Warranty .",
+   "productType": "Watch",
+   "tags": [
+    "FieldOne"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 10,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case": "Grade 2 titanium with clear matte DLC coating (1200HV)",
+    "Diameter": "39mm · Thickness: 10mm · Lug-to-lug: 46mm",
+    "Movement": "Miyota 9015 automatic with hand-winding; hours, minutes, seconds, date",
+    "Crystal": "double-domed sapphire with anti-reflective coating",
+    "Lume": "Super-LumiNova C3 X2 LumiCast numerals and indices",
+    "Caseback": "forged carbon fiber · Crown: screw-down with forged carbon fiber insert",
+    "Water resistance": "10ATM / 100 meters",
+    "Bracelet": "Grade 2 titanium with clear matte DLC, 20mm at the lugs tapering to 18mm",
+    "Clasp": "toolless micro-adjust, 7.5mm total adjustment in 1.5mm steps"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:46:12.767Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:12.767Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0133/field-one"
+   ],
+   "hash": "87248ad0b10d5188"
+  },
+  {
+   "id": "BRD-0133/wake-one-black",
+   "name": "Wake One - Midnight",
+   "url": "https://www.canopywatchco.com/products/wake-one-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/wake-one-midnight-final-sale.jpg?v=1791919939",
+    "width": 4400,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/wake-one-midnight-final-sale.jpg?v=1791919939",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/1_7ded7029-4d72-4597-b227-a58c316e4f59.jpg?v=1784692176",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/2_4b4a1ef9-5077-474d-975b-857fff048fe9.jpg?v=1784692176",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/3_77c201dc-4e43-41d5-aa8f-d679ba625b93.jpg?v=1784692176",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/4_becde492-41d5-45df-8d32-577ca0fa1fde.jpg?v=1784692176",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/5_a4842a09-3c46-4ac8-8b2a-612ac7204003.jpg?v=1784692176",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/6_faac21da-03bc-4b89-857d-c2e6b0497705.jpg?v=1784692176",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/7_e82cbada-1080-4f6a-95de-6a32a76a1992.jpg?v=1784692176",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/8_032cb7ff-f41f-424f-843e-07af6ba3705a.jpg?v=1784692176",
+     "width": 4400,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 44900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Final sale. No returns or exchanges. Wake One is on clearance, and all sales are final. Canopy’s two-year limited warranty still applies. See our return policy for details. Wake One is Canopy’s original dive watch, designed from the ground up to blend pilot and dive watch design. Wake One Midnight pairs a 39mm case in 316L stainless steel with black DLC coating with a modified Swiss Sellita SW200-1 automatic movement, 200 meters of water resistance, and a forged carbon fiber bezel insert. Each watch is individually numbered out of 250. Specifications Case and bracelet: 316L stainless steel with black DLC coating Diameter: 39mm · Thickness: 12.8mm including domed crystal · Lug-to-lug: 46mm Movement: modified Swiss Sellita SW200-1 automatic, 41-hour power reserve Crystal: double-domed sapphire with anti-reflective coating · Exhibition sapphire caseback Bezel: unidirectional with forged carbon fiber insert · Crown: screw-down with forged carbon fiber insert Lume: Swiss Super-LumiNova C1 on hands, indices, and numerals Date window at 6 o’clock Water resistance: 20ATM / 200 meters Bracelet: 20mm at the lugs tapering to 18mm, on-the-fly toolless micro-adjust clasp Designed in Minnesota and Texas. Covered by Canopy’s two-year International Limited Warranty .",
+   "productType": "Watch",
+   "tags": [
+    "shsdparentproduct",
+    "spinimages=232",
+    "WakeOne",
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 12.8,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Final sale. No returns or exchanges.": "Wake One is on clearance, and all sales are final. Canopy’s two-year limited warranty still applies. See our return policy for details.",
+    "Case and bracelet": "316L stainless steel with black DLC coating",
+    "Diameter": "39mm · Thickness: 12.8mm including domed crystal · Lug-to-lug: 46mm",
+    "Movement": "modified Swiss Sellita SW200-1 automatic, 41-hour power reserve",
+    "Crystal": "double-domed sapphire with anti-reflective coating · Exhibition sapphire caseback",
+    "Bezel": "unidirectional with forged carbon fiber insert · Crown: screw-down with forged carbon fiber insert",
+    "Lume": "Swiss Super-LumiNova C1 on hands, indices, and numerals",
+    "Water resistance": "20ATM / 200 meters",
+    "Bracelet": "20mm at the lugs tapering to 18mm, on-the-fly toolless micro-adjust clasp"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:12.767Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:12.767Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0133/wake-one"
+   ],
+   "hash": "c77ce6b231a60c5e"
+  },
+  {
+   "id": "BRD-0133/wake-one-bracelet",
+   "name": "Wake One - Stainless",
+   "url": "https://www.canopywatchco.com/products/wake-one-bracelet",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/wake-one-stainless-final-sale.jpg?v=1791919939",
+    "width": 4400,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/wake-one-stainless-final-sale.jpg?v=1791919939",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/1_a6fd1ff0-42dc-42e2-a90f-2690f09c2a16.jpg?v=1784692217",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/2_89a19f38-22c1-49b5-91eb-cff4ea9e4b69.jpg?v=1784692217",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/3_6d19024f-29a8-4671-92c1-c269e1258022.jpg?v=1784692217",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/4_c2eb75d4-99a2-420f-9604-89e4189068ae.jpg?v=1784692217",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/5_3839c62d-c5ff-4f60-96ed-4c6c5b593b60.jpg?v=1784692217",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/6_6f881aed-b4b2-4077-8dbd-38b043f0120a.jpg?v=1784692217",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/7_c1873538-6157-4513-a1bc-a50b62a66657.jpg?v=1784692217",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/files/8_47aa19b0-2f83-440e-9dd4-946fb13d8b6a.jpg?v=1784692217",
+     "width": 4400,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 44900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Final sale. No returns or exchanges. Wake One is on clearance, and all sales are final. Canopy’s two-year limited warranty still applies. See our return policy for details. Wake One is Canopy’s original dive watch, designed from the ground up to blend pilot and dive watch design. It pairs a 39mm 316L stainless steel case with a modified Swiss Sellita SW200-1 automatic movement, 200 meters of water resistance, and a forged carbon fiber bezel insert. Each watch is individually numbered out of 250. Specifications Case and bracelet: 316L stainless steel Diameter: 39mm · Thickness: 12.8mm including domed crystal · Lug-to-lug: 46mm Movement: modified Swiss Sellita SW200-1 automatic, 41-hour power reserve Crystal: double-domed sapphire with anti-reflective coating · Exhibition sapphire caseback Bezel: unidirectional with forged carbon fiber insert · Crown: screw-down with forged carbon fiber insert Lume: Swiss Super-LumiNova C1 on hands, indices, and numerals Date window at 6 o’clock Water resistance: 20ATM / 200 meters Bracelet: 20mm at the lugs tapering to 18mm, on-the-fly toolless micro-adjust clasp Designed in Minnesota and Texas. Covered by Canopy’s two-year International Limited Warranty .",
+   "productType": "Watch",
+   "tags": [
+    "shsdparentproduct",
+    "spinimages=234",
+    "WakeOne",
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": 12.8,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Final sale. No returns or exchanges.": "Wake One is on clearance, and all sales are final. Canopy’s two-year limited warranty still applies. See our return policy for details.",
+    "Case and bracelet": "316L stainless steel",
+    "Diameter": "39mm · Thickness: 12.8mm including domed crystal · Lug-to-lug: 46mm",
+    "Movement": "modified Swiss Sellita SW200-1 automatic, 41-hour power reserve",
+    "Crystal": "double-domed sapphire with anti-reflective coating · Exhibition sapphire caseback",
+    "Bezel": "unidirectional with forged carbon fiber insert · Crown: screw-down with forged carbon fiber insert",
+    "Lume": "Swiss Super-LumiNova C1 on hands, indices, and numerals",
+    "Water resistance": "20ATM / 200 meters",
+    "Bracelet": "20mm at the lugs tapering to 18mm, on-the-fly toolless micro-adjust clasp"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:46:12.767Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:46:12.767Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0133/wake-one"
+   ],
+   "hash": "a0dc2e7f132f2db4"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0133/field-one",
+   "name": "Field One",
+   "url": "https://www.canopywatchco.com/collections/field-one",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/collections/mm-field-v2.jpg?v=1790656561",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0133/wake-one",
+   "name": "Wake One",
+   "url": "https://www.canopywatchco.com/collections/wake-one",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0609/0217/8998/collections/Canopy_Watch_Co_1_of_2_-2.jpg?v=1790656434",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

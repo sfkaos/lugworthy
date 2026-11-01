@@ -1,0 +1,97 @@
+{
+ "brandId": "BRD-0745",
+ "brandName": "Biotic",
+ "website": "https://bioticwatches.com",
+ "crawledAt": "2026-11-01T06:39:45.497Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://bioticwatches.com/wp-content/uploads/2025/07/logo-1.webp",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://bioticwatches.com/"
+ },
+ "attribution": "Images © Biotic, from bioticwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0745/biotic-formicidae-nature-inspired-field-watch",
+   "name": "Biotic Formicidae",
+   "url": "https://bioticwatches.com/product/biotic-formicidae-nature-inspired-field-watch",
+   "image": {
+    "url": "https://bioticwatches.com/wp-content/uploads/2025/07/Biotic-Formicidae-field-watch-1.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://bioticwatches.com/wp-content/uploads/2025/07/Biotic-Formicidae-field-watch-1.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "in_stock",
+   "description": "A 39 mm automatic field watch inspired by the navigation instincts of ants. Powered by the Miyota 9015 movement, it features dual screw-down crowns, an internal compass bezel, 200 m water resistance, and ant-themed design details — including a custom-illustrated sapphire caseback. Built for exploration, designed with purpose.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:39:45.497Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:39:45.497Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0745/shop",
+    "BRD-0745/shop-2",
+    "BRD-0745/biotic-watches"
+   ],
+   "hash": "0ccb3a7f76eb2b18"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0745/shop",
+   "name": "Biotic Watches Shop",
+   "url": "https://bioticwatches.com/shop",
+   "description": "Shop the Biotic Formicidae — a 39mm automatic field watch inspired by the resilience of ants. Swiss movement, sapphire crystal, 200m water resistance.",
+   "image": null
+  },
+  {
+   "id": "BRD-0745/shop-2",
+   "name": "Biotic Watches Shop",
+   "url": "https://bioticwatches.com/shop",
+   "description": "Shop the Biotic Formicidae — a 39mm automatic field watch inspired by the resilience of ants. Swiss movement, sapphire crystal, 200m water resistance.",
+   "image": null
+  },
+  {
+   "id": "BRD-0745/biotic-watches",
+   "name": "Biotic Watches Collection",
+   "url": "https://bioticwatches.com/product-category/biotic-watches",
+   "description": "Shop the Biotic Watches collection — nature-inspired automatic field watches designed in Singapore. Swiss movement, sapphire crystal, 200m water resistance.",
+   "image": null
+  }
+ ]
+}

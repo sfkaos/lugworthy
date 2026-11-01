@@ -1,0 +1,449 @@
+{
+ "brandId": "BRD-0701",
+ "brandName": "Atelier Holgur",
+ "website": "https://atelier-holgur.com",
+ "crawledAt": "2026-11-01T06:30:24.391Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://atelier-holgur.com/cdn/shop/files/RGB_holgur_colour_nobg.png?v=1649951544",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://atelier-holgur.com/"
+ },
+ "attribution": "Images © Atelier Holgur, from atelier-holgur.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0701/fromand-edition-fumee-silver-tide",
+   "name": "Frømand - Edition Fumée - Silver Tide",
+   "url": "https://atelier-holgur.com/products/fromand-edition-fumee-silver-tide",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Silver-Hero.png?v=1721315390",
+    "width": 3000,
+    "height": 1996
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Silver-Hero.png?v=1721315390",
+     "width": 3000,
+     "height": 1996
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/AtelierHolgur_SilverDial_Macro_Dial-SS.jpg?v=1717421102",
+     "width": 5400,
+     "height": 3600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/AtelierHolgur_SilverDial_Styled_1_HQ-SS.jpg?v=1717484208",
+     "width": 5400,
+     "height": 3600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/AtelierHolgur_SilverDial_Styled_2_HQ-SS.jpg?v=1717484208",
+     "width": 5400,
+     "height": 3600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/AtelierHolgur_SilverDial_Styled_3_HQ-SS.jpg?v=1717484208",
+     "width": 5400,
+     "height": 3600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/AtelierHolgur_SilverDial_Macro_Movement-SS.jpg?v=1717484209",
+     "width": 5400,
+     "height": 3600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/AtelierHolgur_SilverDial_Wristshot-SS.jpg?v=1717484209",
+     "width": 5400,
+     "height": 3600
+    }
+   ],
+   "priceMinor": 1150000,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "silver-tide",
+   "tags": [
+    "Frogman",
+    "spo-cs-disabled",
+    "spo-default",
+    "spo-disabled",
+    "spo-notify-me-enabled"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 300,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 86,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Material": "Grade 5 Titanium, polished and microblasted finish",
+    "Bezel": "Unidirectional dive bezel in black DLC, 120 clicks",
+    "Diameter": "40mm",
+    "Height": "13.5mm",
+    "Water resistance": "300m / 30atm",
+    "Glass": "sapphire crystal front/back with anti-reflective coating",
+    "Dial": "snailing with 3D applied Super-LumiNova®, sub-seconds",
+    "Hands": "Atelier Holgur sword style with 3D applied Super-LumiNova®",
+    "Details": "Schwarz-Etienne ASE 200 for Atelier Holgur",
+    "Power reserve": "86 hours",
+    "Winding rotor": "micro-rotor with bi-directional winding",
+    "Frequency": "3 Hz (21,600 Alt/h)",
+    "Movement parts": "198",
+    "Movement jewels": "33",
+    "Functions": "hours, minutes, seconds (hacking)",
+    "Daily wear strap": "with Hook & Loop fastener and pin system",
+    "Diving single loop strap": "with Hook & Loop fastener adjustment"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:30:24.391Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:24.391Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0701/edition-fumee"
+   ],
+   "hash": "08081629a187bf81"
+  },
+  {
+   "id": "BRD-0701/frogman-edition-fumee-red-coral",
+   "name": "Frømand - Edition Fumée - Red Coral",
+   "url": "https://atelier-holgur.com/products/frogman-edition-fumee-red-coral",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Red-Hero.png?v=1721315044",
+    "width": 3000,
+    "height": 1996
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Red-Hero.png?v=1721315044",
+     "width": 3000,
+     "height": 1996
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/AtelierHolgur_SilverDial_Macro_Movement-SS.jpg?v=1717484209",
+     "width": 5400,
+     "height": 3600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/holgur-red-diving.jpg?v=1721315361",
+     "width": 1600,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/holgur-red-wrist.jpg?v=1721315361",
+     "width": 1600,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/holgur-red-wrist3.jpg?v=1721315361",
+     "width": 1600,
+     "height": 1188
+    }
+   ],
+   "priceMinor": 1150000,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "red-coral",
+   "tags": [
+    "spo-cs-disabled",
+    "spo-default",
+    "spo-disabled",
+    "spo-notify-me-enabled"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 300,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 86,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Current delivery time": "2-3 weeks.",
+    "Material": "Grade 5 Titanium, polished and microblasted finish",
+    "Bezel": "Unidirectional dive bezel in black DLC, 120 clicks",
+    "Diameter": "40mm",
+    "Height": "13.5mm",
+    "Water resistance": "300m / 30atm",
+    "Glass": "sapphire crystal front/back with anti-reflective coating",
+    "Dial": "snailing with 3D applied Super-LumiNova®, sub-seconds",
+    "Hands": "Atelier Holgur sword style with 3D applied Super-LumiNova®",
+    "Details": "Schwarz-Etienne ASE 200 for Atelier Holgur",
+    "Power reserve": "86 hours",
+    "Winding rotor": "micro-rotor with bi-directional winding",
+    "Frequency": "3 Hz (21,600 Alt/h)",
+    "Movement parts": "198",
+    "Movement jewels": "33",
+    "Functions": "hours, minutes, seconds (hacking)",
+    "Daily wear strap": "with Hook & Loop fastener and pin system",
+    "Diving single loop strap": "with Hook & Loop fastener adjustment"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:30:24.391Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:24.391Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0701/edition-fumee"
+   ],
+   "hash": "67c1039772ecf4ac"
+  },
+  {
+   "id": "BRD-0701/frogman-edition-fumee-ocean-emerald",
+   "name": "Frømand - Edition Fumée - Ocean Emerald",
+   "url": "https://atelier-holgur.com/products/frogman-edition-fumee-ocean-emerald",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Green-Hero.png?v=1721315004",
+    "width": 3000,
+    "height": 1996
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Green-Hero.png?v=1721315004",
+     "width": 3000,
+     "height": 1996
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Holgur_Final_2728-S.jpg?v=1717484800",
+     "width": 3200,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/holgur-green-diving.jpg?v=1697360842",
+     "width": 1600,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/holgur-green-outofpool.jpg?v=1697360843",
+     "width": 1600,
+     "height": 1847
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/holgur-green-wrist.jpg?v=1697360842",
+     "width": 1600,
+     "height": 1818
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/holgur-red-lume.jpg?v=1697360842",
+     "width": 1600,
+     "height": 2072
+    }
+   ],
+   "priceMinor": 1150000,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "ocean-emerald",
+   "tags": [
+    "Frogman",
+    "spo-default",
+    "spo-disabled",
+    "spo-notify-me-enabled"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 300,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 86,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Material": "Grade 5 Titanium, polished and microblasted finish",
+    "Bezel": "Unidirectional dive bezel in black DLC, 120 clicks",
+    "Diameter": "40mm",
+    "Height": "13.5mm",
+    "Water resistance": "300m / 30atm",
+    "Glass": "sapphire crystal front/back with anti-reflective coating",
+    "Dial": "snailing with 3D applied Super-LumiNova®, sub-seconds",
+    "Hands": "Atelier Holgur sword style with 3D applied Super-LumiNova®",
+    "Details": "Schwarz-Etienne ASE 200 for Atelier Holgur",
+    "Power reserve": "86 hours",
+    "Winding rotor": "micro-rotor with bi-directional winding",
+    "Frequency": "3 Hz (21,600 Alt/h)",
+    "Movement parts": "198",
+    "Movement jewels": "33",
+    "Functions": "hours, minutes, seconds (hacking)",
+    "Daily wear strap": "with Hook & Loop fastener and pin system",
+    "Diving single loop strap": "with Hook & Loop fastener adjustment"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:30:24.391Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:24.391Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0701/edition-fumee"
+   ],
+   "hash": "fe9a64d2a4113f86"
+  },
+  {
+   "id": "BRD-0701/the-frogman",
+   "name": "Frømand",
+   "url": "https://atelier-holgur.com/products/the-frogman",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Black-Hero.png?v=1721314837",
+    "width": 3000,
+    "height": 1996
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/files/Black-Hero.png?v=1721314837",
+     "width": 3000,
+     "height": 1996
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/products/Holgur_back_black-2048_01.jpg?v=1721314930",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/products/EFFEKT_Agency-Holgur_Macro_3.jpg?v=1721314930",
+     "width": 3510,
+     "height": 3510
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/products/EFFEKT_Agency-Holgur_Macro_1.jpg?v=1721314930",
+     "width": 3510,
+     "height": 3510
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/products/EFFEKT_Agency-Holgur_Macro_8.jpg?v=1721314930",
+     "width": 3510,
+     "height": 3510
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/products/EFFEKT_Agency-Holgur_Beach_2.jpg?v=1721314930",
+     "width": 3588,
+     "height": 3588
+    }
+   ],
+   "priceMinor": 985000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "black",
+   "tags": [
+    "Frogman",
+    "spo-default",
+    "spo-enabled"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 300,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 86,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Current delivery time": "2-3 weeks.",
+    "Material": "Grade 5 Titanium, polished and microblasted finish",
+    "Bezel": "Unidirectional dive bezel in black DLC, 120 clicks",
+    "Diameter": "40mm",
+    "Height": "13.5mm",
+    "Water resistance": "300m / 30atm",
+    "Glass": "sapphire crystal front/back with anti-reflective coating",
+    "Dial": "snailing with 3D applied Super-LumiNova®, sub-seconds",
+    "Hands": "Atelier Holgur sword style with 3D applied Super-LumiNova®",
+    "Details": "Schwarz-Etienne ASE 200 for Atelier Holgur",
+    "Power reserve": "86 hours",
+    "Winding rotor": "micro-rotor with bi-directional winding",
+    "Frequency": "3 Hz (21,600 Alt/h)",
+    "Movement parts": "198",
+    "Movement jewels": "33",
+    "Functions": "hours, minutes, seconds (hacking)",
+    "Daily wear strap": "with Hook & Loop fastener and pin system",
+    "Diving single loop strap": "with Hook & Loop fastener adjustment"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:30:24.391Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:30:24.391Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0701/frogman"
+   ],
+   "hash": "3c2ab42f8f0de15b"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0701/edition-fumee",
+   "name": "Edition Fumée",
+   "url": "https://atelier-holgur.com/collections/edition-fumee",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/collections/holgur-green-cobra2.jpg?v=1721329458",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0701/frogman",
+   "name": "Frømand",
+   "url": "https://atelier-holgur.com/collections/frogman",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0586/9292/7686/collections/AtelierHolgur_SilverDial_Macro_Movement-SS.jpg?v=1721329087",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

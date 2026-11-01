@@ -1,0 +1,799 @@
+{
+ "brandId": "BRD-0271",
+ "brandName": "Halios",
+ "website": "https://halioswatches.com",
+ "crawledAt": "2026-11-01T07:24:12.902Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://halioswatches.com/cdn/shop/files/HALIOSLogo2LATEST2.png?v=1762907071",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://halioswatches.com/"
+ },
+ "attribution": "Images © Halios, from halioswatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0271/universa-ii-vs",
+   "name": "UNIVERSA II - Vitreous Enamel Series",
+   "url": "https://halioswatches.com/products/universa-ii-vs",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/UniEnamelBlue.jpg?v=1770760781",
+    "width": 710,
+    "height": 1140
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/UniEnamelBlue.jpg?v=1770760781",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/UniEnamelGrey.jpg?v=1770761116",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/placeholder.jpg?v=1770370033",
+     "width": 710,
+     "height": 1140
+    }
+   ],
+   "priceMinor": 109500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "DETAILS: › CASE AND BRACELET MATERIAL: Stainless steel › DIAMETER: 38mm › WATER RESISTANCE: 10 ATM. Screw-down crown, screw-down caseback › LUG-TO-LUG: 48mm › LUG WIDTH: 20mm › THICKNESS: 11.8mm including crystal › CALIBRE: SELLITA SW300-1 self-winding movement, no-date only › POWER RESERVE: 56 hours › DIAL MATERIAL: Lead-free vitreous enamel on 999 fine silver base plate › LUMINOUS MATERIAL: Superluminova C3 X1 (Blue Line), filled in champlevé marker reservoirs with pad-printed numerals › CRYSTAL: Sapphire, double-domed with anti-reflective coating › HANDS FINISHING: Brushed with polished edge chamfers › SHIPPING: Canada: free / USA: $25 / Everywhere else: $65",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "DIAL",
+     "values": [
+      "Sapphire",
+      "Turquoise",
+      "Jessamine",
+      "Mercury"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Sapphire",
+     "sku": null,
+     "priceMinor": 109500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sapphire"
+     ]
+    },
+    {
+     "title": "Turquoise",
+     "sku": null,
+     "priceMinor": 109500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Turquoise"
+     ]
+    },
+    {
+     "title": "Jessamine",
+     "sku": null,
+     "priceMinor": 109500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Jessamine"
+     ]
+    },
+    {
+     "title": "Mercury",
+     "sku": null,
+     "priceMinor": 109500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Mercury"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW300-1",
+    "movementType": "automatic",
+    "powerReserveH": 56,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:24:12.902Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:12.902Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "76f1d203e83ce347"
+  },
+  {
+   "id": "BRD-0271/universa-ii",
+   "name": "UNIVERSA II",
+   "url": "https://halioswatches.com/products/universa-ii",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/Uni5N.jpg?v=1770745532",
+    "width": 710,
+    "height": 1140
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/Uni5N.jpg?v=1770745532",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/UniGalvBlue.jpg?v=1770745728",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/placeholder.jpg?v=1770370033",
+     "width": 710,
+     "height": 1140
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "DETAILS: › CASE AND BRACELET MATERIAL: Stainless steel › DIAMETER: 38mm › WATER RESISTANCE: 10 ATM. Screw-down crown, screw-down caseback › LUG-TO-LUG: 48mm › LUG WIDTH: 20mm › THICKNESS: 11.8mm including crystal › CALIBRE: SELLITA SW300-1 self-winding movement, no-date only › POWER RESERVE: 56 hours › DIAL MATERIAL: Brass with galvanic (electrochemical) treatment › LUMINOUS MATERIAL: Superluminova C3 X1 (Blue Line) › CRYSTAL: Sapphire, double-domed with anti-reflective coating › HANDS FINISHING: Brushed with polished edge chamfers › SHIPPING: Canada: free / USA: $25 / Everywhere else: $65",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "DIAL",
+     "values": [
+      "5N Gold",
+      "Galvanic Blue",
+      "Variant 3 (TBA)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "5N Gold",
+     "sku": null,
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "5N Gold"
+     ]
+    },
+    {
+     "title": "Galvanic Blue",
+     "sku": null,
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Galvanic Blue"
+     ]
+    },
+    {
+     "title": "Variant 3 (TBA)",
+     "sku": null,
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Variant 3 (TBA)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 11.8,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW300-1",
+    "movementType": "automatic",
+    "powerReserveH": 56,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:24:12.902Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:12.902Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2746697a634c4b7f"
+  },
+  {
+   "id": "BRD-0271/seaforth-iv-gs",
+   "name": "SEAFORTH IV",
+   "url": "https://halioswatches.com/products/seaforth-iv-gs",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/BlueDiverStrap.jpg?v=1770357540",
+    "width": 710,
+    "height": 1140
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/BlueDiverStrap.jpg?v=1770357540",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/Blue12hrStrap.jpg?v=1770357657",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/Grey12hrStrap.jpg?v=1770357849",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/GreyDiverStrap.jpg?v=1770357965",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/GreyDiver.jpg?v=1770358544",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/Grey12hr_2af9b8a8-28ef-43c7-bdf6-511915d42429.jpg?v=1770358780",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/Blue12hr.jpg?v=1770358968",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/BlueDiver.jpg?v=1770359207",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/BlueFixed.jpg?v=1770359822",
+     "width": 722,
+     "height": 1154
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/SlateFixed.jpg?v=1770359967",
+     "width": 722,
+     "height": 1154
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/PlumFixed.jpg?v=1770361221",
+     "width": 710,
+     "height": 1140
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/2798/0920/files/PlumDiverStrap.jpg?v=1783623326",
+     "width": 710,
+     "height": 1140
+    }
+   ],
+   "priceMinor": 76500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "DETAILS: › CASE MATERIAL: Titanium › BRACELET MATERIAL: Titanium with stainless steel clasp › DIAMETER: 40mm (fixed bezel) or 41mm (rotating bezel) › WATER RESISTANCE: 20 ATM. Screw-down crown, screw-down caseback › LUG-TO-LUG: 46.5mm › LUG WIDTH: 20mm › THICKNESS: 12.4mm including crystal › ROTATING BEZEL: 120 stops, unidirectional › CALIBRE: SELLITA SW200-2 self-winding movement, no-date only › POWER RESERVE: 65 hours › DIAL MATERIAL: Brass with galvanic (electrochemical) treatment or multi-layer lacquer › LUMINOUS MATERIAL: Globolight XP dial markers, Superluminova C3 X1 (blue) › ROTATING BEZEL INSERT: Sapphire, with luminous markings › CRYSTAL: Sapphire, double-domed with anti-reflective coating › DEFAULT STRAP COLOURS: Black rubber for plum, pastel blue, yellow and pink dials; blue rubber for Sunburst Blue dial; grey rubber for Sunburst Grey dial › SHIPPING: Canada: free / USA: $25 / Everywhere else: $65",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "DIAL",
+     "values": [
+      "Sunburst Blue",
+      "Sunburst Plum",
+      "Sunburst Grey",
+      "Pastel Blue",
+      "Bahama Yellow",
+      "O.W.W.W. Pink"
+     ]
+    },
+    {
+     "name": "CASE",
+     "values": [
+      "Fixed Bezel / Titanium",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Rotating Bezel / 12-hour / Titanium"
+     ]
+    },
+    {
+     "name": "STRAP",
+     "values": [
+      "Rubber Strap Only",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Sunburst Blue / Fixed Bezel / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 76500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Blue",
+      "Fixed Bezel / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Sunburst Blue / Fixed Bezel / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Blue",
+      "Fixed Bezel / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Plum / Rotating Bezel / Elapsed Time / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Plum",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Sunburst Blue / Rotating Bezel / Elapsed Time / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Blue",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Blue / Rotating Bezel / 12-hour / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Blue",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Sunburst Blue / Rotating Bezel / 12-hour / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Blue",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Grey / Fixed Bezel / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 76500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Grey",
+      "Fixed Bezel / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Sunburst Grey / Fixed Bezel / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Grey",
+      "Fixed Bezel / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Grey / Rotating Bezel / Elapsed Time / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Grey",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Sunburst Grey / Rotating Bezel / Elapsed Time / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Grey",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Grey / Rotating Bezel / 12-hour / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Grey",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Sunburst Grey / Rotating Bezel / 12-hour / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Grey",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Plum / Fixed Bezel / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 76500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Plum",
+      "Fixed Bezel / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Sunburst Plum / Fixed Bezel / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Plum",
+      "Fixed Bezel / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Pastel Blue / Fixed Bezel / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 76500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pastel Blue",
+      "Fixed Bezel / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Pastel Blue / Fixed Bezel / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pastel Blue",
+      "Fixed Bezel / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Pastel Blue / Rotating Bezel / Elapsed Time / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pastel Blue",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Pastel Blue / Rotating Bezel / Elapsed Time / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pastel Blue",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Pastel Blue / Rotating Bezel / 12-hour / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pastel Blue",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Pastel Blue / Rotating Bezel / 12-hour / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pastel Blue",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Bahama Yellow / Fixed Bezel / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 76500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Bahama Yellow",
+      "Fixed Bezel / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Bahama Yellow / Fixed Bezel / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Bahama Yellow",
+      "Fixed Bezel / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Bahama Yellow / Rotating Bezel / Elapsed Time / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Bahama Yellow",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Bahama Yellow / Rotating Bezel / Elapsed Time / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Bahama Yellow",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Bahama Yellow / Rotating Bezel / 12-hour / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Bahama Yellow",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Bahama Yellow / Rotating Bezel / 12-hour / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Bahama Yellow",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "O.W.W.W. Pink / Fixed Bezel / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 76500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "O.W.W.W. Pink",
+      "Fixed Bezel / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "O.W.W.W. Pink / Fixed Bezel / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "O.W.W.W. Pink",
+      "Fixed Bezel / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "O.W.W.W. Pink / Rotating Bezel / Elapsed Time / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "O.W.W.W. Pink",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "O.W.W.W. Pink / Rotating Bezel / Elapsed Time / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "O.W.W.W. Pink",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "O.W.W.W. Pink / Rotating Bezel / 12-hour / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "O.W.W.W. Pink",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "O.W.W.W. Pink / Rotating Bezel / 12-hour / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "O.W.W.W. Pink",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Plum / Rotating Bezel / Elapsed Time / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Plum",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Plum / Rotating Bezel / 12-hour / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Plum",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Rubber Strap Only"
+     ]
+    },
+    {
+     "title": "Sunburst Plum / Rotating Bezel / 12-hour / Titanium / Titanium Bracelet + Rubber Strap",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Plum",
+      "Rotating Bezel / 12-hour / Titanium",
+      "Titanium Bracelet + Rubber Strap"
+     ]
+    },
+    {
+     "title": "Sunburst Blue / Rotating Bezel / Elapsed Time / Titanium / Rubber Strap Only",
+     "sku": null,
+     "priceMinor": 80500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sunburst Blue",
+      "Rotating Bezel / Elapsed Time / Titanium",
+      "Rubber Strap Only"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.5,
+    "thicknessMm": 12.4,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": 65,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:24:12.902Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:12.902Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "cd4b246f9b1b5b62"
+  }
+ ],
+ "collections": []
+}

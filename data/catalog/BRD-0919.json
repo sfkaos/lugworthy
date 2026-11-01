@@ -1,0 +1,211 @@
+{
+ "brandId": "BRD-0919",
+ "brandName": "Franchi Menotti",
+ "website": "https://franchimenotti.it",
+ "crawledAt": "2026-11-01T07:15:00.087Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://franchimenotti.it/wp-content/uploads/2021/06/logo-franchimenotti-light.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://franchimenotti.it/"
+ },
+ "attribution": "Images © Franchi Menotti, from franchimenotti.it",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0919/fm02",
+   "name": "FM02",
+   "url": "https://franchimenotti.it/shop/fm02/",
+   "image": {
+    "url": "https://franchimenotti.it/wp-content/uploads/2024/10/FM02-acciaio.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2024/10/FM02-acciaio.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2024/10/FM02-blu.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2024/10/FM02-nero.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2024/10/FM02-rosso.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2024/10/FM02-fondello.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2024/10/FM02-fibbia.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 65000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Disegnato in Italia concilia le linee della storica collezione anni &#8217;90 con un design più moderno.",
+   "productType": "FM02",
+   "tags": [],
+   "options": [
+    {
+     "name": "Colore",
+     "values": [
+      "Acciaio",
+      "Blu",
+      "Nero DLC",
+      "Rosso"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "FM02",
+     "sku": null,
+     "priceMinor": 65000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Colore": "Acciaio, Blu, Nero DLC, Rosso"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:00.087Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:00.087Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0919/fm02"
+   ],
+   "hash": "d7f654c7cceca5ab"
+  },
+  {
+   "id": "BRD-0919/fm01",
+   "name": "FM01",
+   "url": "https://franchimenotti.it/shop/fm01/",
+   "image": {
+    "url": "https://franchimenotti.it/wp-content/uploads/2023/10/franchi-menotti-fm01-02.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2023/10/franchi-menotti-fm01-02.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2023/10/franchi-menotti-fm01-03.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2023/10/franchi-menotti-fm01-04.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2023/10/franchi-menotti-fm01-05.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://franchimenotti.it/wp-content/uploads/2023/10/franchi-menotti-fm01-01.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Ogni Orologio è prodotto artigianalmente in Italia. Volevamo creare un prodotto diverso, non standardizzato, qualcosa di speciale. Grazie alle molte fasi di lavorazione manuale, ogni esemplare è, di fatto, un pezzo unico.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Colore quadrante",
+     "values": [
+      "Argento",
+      "Blu",
+      "Colore personalizzato",
+      "Nero",
+      "Rosso"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Colore quadrante": "Argento, Blu, Colore personalizzato, Nero, Rosso"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:15:00.087Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:15:00.087Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "02270495e42ee1ea"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0919/fm02",
+   "name": "FM02",
+   "url": "https://franchimenotti.it/categoria-prodotto/fm02/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

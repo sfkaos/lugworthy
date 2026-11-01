@@ -1,0 +1,1816 @@
+{
+ "brandId": "BRD-0547",
+ "brandName": "Timeless",
+ "website": "https://timeless-watch.ch",
+ "crawledAt": "2026-11-01T08:39:03.433Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/logo.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://timeless-watch.ch/"
+ },
+ "attribution": "Images © Timeless, from timeless-watch.ch",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0547/002-ara",
+   "name": "002-ARA",
+   "url": "https://timeless-watch.ch/product/002-ara/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2025/11/I1_Timeless_HMS_002_ARA_front1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/11/I1_Timeless_HMS_002_ARA_front1-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 150000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Garantie": "Garantie : 2 ans (à l'achat)",
+    "Modèle": "ara",
+    "Ref": "HMS 002-ARA Swiss Made",
+    "Number of versions": "1",
+    "Functions": "Hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "metallic clasp"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d6f37194a8350df5"
+  },
+  {
+   "id": "BRD-0547/002-ara-2",
+   "name": "002-ARA",
+   "url": "https://timeless-watch.ch/fr/product/002-ara/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2025/11/I1_Timeless_HMS_002_ARA_front1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/11/I1_Timeless_HMS_002_ARA_front1-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 150000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Garantie": "Garantie : 2 ans (à l'achat)",
+    "Modèle": "ara",
+    "Ref": "HMS 002-ARA Swiss Made",
+    "Nombre de versions": "1",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Bracelet en maille métallique"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7f380a43466bd5d4"
+  },
+  {
+   "id": "BRD-0547/001-azure",
+   "name": "001-Azure",
+   "url": "https://timeless-watch.ch/product/001-azure/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2025/06/HMS001-AZUR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/06/HMS001-AZUR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 135000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "azur",
+      "terra"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "azur, terra",
+    "Garantie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "HMS 001-AZUR Swiss Made",
+    "Number of versions": "2",
+    "Functions": "Hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "Ardillon buckle"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ef4247291fd6901d"
+  },
+  {
+   "id": "BRD-0547/001-azure-2",
+   "name": "001-AZUR",
+   "url": "https://timeless-watch.ch/fr/product/001-azure/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2025/06/HMS001-AZUR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/06/HMS001-AZUR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 135000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "azur",
+      "terra"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "azur, terra",
+    "Garantie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "HMS 001-AZUR Swiss Made",
+    "Nombre de versions": "2",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Boucle ardillon"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2dd37fa4185a9f42"
+  },
+  {
+   "id": "BRD-0547/003-ln1",
+   "name": "003 LN1",
+   "url": "https://timeless-watch.ch/product/003-ln1/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/Timeless_Soldat-787x1024-1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/Timeless_Soldat-787x1024-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/1-cover-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/3-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/4-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 0,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Timeless&#8217;s first collaboration with Label Noir, this exclusive edition revisits the HMS 003 in matt bead-blasted black, with a new hand-crafted bracelet. Timeless&#8217;s first collaboration with Label Noir, this exclusive edition revisits the HMS 003 in matt bead-blasted black, with a new hand-crafted bracelet.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Black/Black (black strap)",
+      "White/White (gray strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Black/Black (black strap), White/White (gray strap)",
+    "Garantie": "Garantie : 2 ans (à l'achat)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "66e6216fe152f57e"
+  },
+  {
+   "id": "BRD-0547/003-ln1-2",
+   "name": "003 LN1",
+   "url": "https://timeless-watch.ch/fr/product/003_ln1/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/Timeless_Soldat-787x1024-1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/Timeless_Soldat-787x1024-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/1-cover-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/3-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/11/4-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 0,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Première collaboration de Timeless avec Label Noir, cette édition exclusive revisite la HMS 003 en noir microbillé mat, avec un nouveau bracelet fait main. Première collaboration de Timeless avec Label Noir, cette édition exclusive revisite la HMS 003 en noir microbillé mat, avec un nouveau bracelet fait main.",
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Black/Black (black strap)",
+      "White/White (gray strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Black/Black (black strap), White/White (gray strap)",
+    "Garantie": "Garantie : 2 ans (à l'achat)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "74b1bd03bbd2ef3b"
+  },
+  {
+   "id": "BRD-0547/wh-w-br",
+   "name": "WH-W-BR",
+   "url": "https://timeless-watch.ch/product/wh-w-br/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-W-BR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-W-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone. The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "White/White (brown strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 WH-W-BR Swiss Made",
+    "Number of versions": "1",
+    "Functions": "hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "Custom deployant buckle"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "0f815ed4718f79b0"
+  },
+  {
+   "id": "BRD-0547/wh-w-br-2",
+   "name": "WH-W-BR",
+   "url": "https://timeless-watch.ch/fr/product/wh-w-br/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-W-BR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-W-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous. Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous.",
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "White/White (brown strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 WH-W-BR Swiss Made",
+    "Nombre de versions": "1",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Boucle déployante personnalisée"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "143eec97da579b4f"
+  },
+  {
+   "id": "BRD-0547/bk-a-bl",
+   "name": "BK-A-BL",
+   "url": "https://timeless-watch.ch/fr/product/bk-a-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BK-A-BL-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BK-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BK-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BK-A-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous. Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous.",
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Black/Antra (black strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 BK-A-BL Swiss Made",
+    "Nombre de versions": "1",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Boucle déployante personnalisée"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8d885764d284c485"
+  },
+  {
+   "id": "BRD-0547/bk-a-bl-2",
+   "name": "BK-A-BL",
+   "url": "https://timeless-watch.ch/product/bk-a-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BK-A-BL-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BK-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BK-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BK-A-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone. The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Black/Antra (black strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 BK-A-BL Swiss Made",
+    "Number of versions": "1",
+    "Functions": "hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "Custom deployant buckle"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "89544f966e462650"
+  },
+  {
+   "id": "BRD-0547/gr-a-bl",
+   "name": "GR-A-BL",
+   "url": "https://timeless-watch.ch/fr/product/gr-a-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-W-BR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-A-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-W-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous. Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous.",
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Green/White (brown strap)",
+      "Green/Antra (black strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Green/White (brown strap), Green/Antra (black strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 GR-W-BR Swiss Made",
+    "Nombre de versions": "2",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Boucle déployante personnalisée"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "92704b93249b300f"
+  },
+  {
+   "id": "BRD-0547/gr-a-bl-2",
+   "name": "GR-A-BL",
+   "url": "https://timeless-watch.ch/product/gr-a-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-W-BR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-A-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-GR-W-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone. The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Green/White (brown strap)",
+      "Green/Antra (black strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Green/White (brown strap), Green/Antra (black strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 GR-W-BR Swiss Made",
+    "Number of versions": "2",
+    "Functions": "hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "Custom deployant buckle"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "555f138037a9e1ed"
+  },
+  {
+   "id": "BRD-0547/wh-g-bl",
+   "name": "WH-G-BL",
+   "url": "https://timeless-watch.ch/product/wh-g-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BL-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone. The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "White/Antra (black strap)",
+      "White/Gold (brown strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "White/Antra (black strap), White/Gold (brown strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 WH-G-BL Swiss Made",
+    "Number of versions": "2",
+    "Functions": "hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "Custom deployant buckle"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6da832e6eae9c6ce"
+  },
+  {
+   "id": "BRD-0547/wh-g-bl-2",
+   "name": "WH-G-BL",
+   "url": "https://timeless-watch.ch/fr/product/wh-g-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BL-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-WH-G-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous. Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous.",
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "White/Antra (black strap)",
+      "White/Gold (brown strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "White/Antra (black strap), White/Gold (brown strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 WH-G-BL Swiss Made",
+    "Nombre de versions": "2",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Boucle déployante personnalisée"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e4be4f378c72fda0"
+  },
+  {
+   "id": "BRD-0547/br-a-bl",
+   "name": "BR-A-BL",
+   "url": "https://timeless-watch.ch/product/br-a-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-W-BR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-A-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-W-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone. The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Brown/White (brown strap)",
+      "Brown/Antra (black strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Brown/White (brown strap), Brown/Antra (black strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 BR-W-BR Swiss Made",
+    "Number of versions": "2",
+    "Functions": "hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "Custom deployant buckle"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "0e750e3c65878e84"
+  },
+  {
+   "id": "BRD-0547/br-a-bl-2",
+   "name": "BR-A-BL",
+   "url": "https://timeless-watch.ch/fr/product/br-a-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-W-BR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-A-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BR-W-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous. Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous.",
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Brown/White (brown strap)",
+      "Brown/Antra (black strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Brown/White (brown strap), Brown/Antra (black strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 BR-W-BR Swiss Made",
+    "Nombre de versions": "2",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Boucle déployante personnalisée"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "210e838bf98fe617"
+  },
+  {
+   "id": "BRD-0547/bl-a-bl",
+   "name": "BL-A-BL",
+   "url": "https://timeless-watch.ch/product/bl-a-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-W-BR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-A-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-W-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone. The second model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Blue/White (brown strap)",
+      "Blue/Antra (black strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Blue/White (brown strap), Blue/Antra (black strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 BL-W-BR Swiss Made",
+    "Number of versions": "2",
+    "Functions": "hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "Custom deployant buckle"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "005aa207b0872f2b"
+  },
+  {
+   "id": "BRD-0547/bl-a-bl-2",
+   "name": "BL-A-BL",
+   "url": "https://timeless-watch.ch/fr/product/bl-a-bl/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-W-BR-1-scaled.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-A-BL-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-A-BL-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-W-BR-1-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/HMS003-BL-W-BR-2-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous. Second modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous.",
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Blue/White (brown strap)",
+      "Blue/Antra (black strap)"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Blue/White (brown strap), Blue/Antra (black strap)",
+    "Garentie": "Garantie : 2 ans (à l'achat)",
+    "Ref": "003 BL-W-BR Swiss Made",
+    "Nombre de versions": "2",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Boucle déployante personnalisée"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "267dea1422177030"
+  },
+  {
+   "id": "BRD-0547/hms",
+   "name": "hms",
+   "url": "https://timeless-watch.ch/fr/product/hms/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/watch001_1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/watch001_1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/02.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/01.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/Timeless-001_3-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 115000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Premier modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous. Premier modèle de la marque Timeless, ce garde-temps en acier orné de fins détails plaqués en or rose et d’un verre saphir bombé sied à tous.",
+   "productType": "Uncategorized",
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Blanc",
+      "Noir"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Blanc, Noir",
+    "Garantie": "Guarantee: 2 years (upon purchase)",
+    "Ref": "001 Swiss Made",
+    "Nombre de versions": "2",
+    "Fonctions": "heures, minutes, secondes, date",
+    "Mouvement": "Swiss made STP 1-11",
+    "Fermoir": "Boucle ardillon polie",
+    "cornes à cornes": "46.1mm",
+    "Cuir de veau / largeur": "22mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f411b2c73b94b63f"
+  },
+  {
+   "id": "BRD-0547/hms-2",
+   "name": "hms",
+   "url": "https://timeless-watch.ch/product/hms/",
+   "image": {
+    "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/watch001_1.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/watch001_1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/02.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/01.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/Timeless-001_3-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2025/01/HMS-MOVEMENT.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2023/03/Timeless-Watch-HMS3-EXPa-scaled.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://timeless-watch.ch/wp-content/uploads/2020/09/05.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 115000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The first model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone. The first model of the Timeless brand, this steel timepiece is adorned with fine rose gold-plated details and a curved sapphire crystal that suits everyone.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Blanc",
+      "Noir"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Modèle": "Blanc, Noir",
+    "Garantie": "Guarantee: 2 years (upon purchase)",
+    "Ref": "001 Swiss Made",
+    "Number of versions": "2",
+    "Functions": "hours, minutes, seconds, date",
+    "Movement": "Swiss made STP 1-11",
+    "Fermoir": "Polished barb buckle",
+    "Lugs to Lugs": "46.1mm",
+    "Calf leather / width": "22m"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:39:03.433Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:39:03.433Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "37105a48926bc4e4"
+  }
+ ],
+ "collections": []
+}

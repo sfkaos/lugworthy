@@ -1,0 +1,4870 @@
+{
+ "brandId": "BRD-0970",
+ "brandName": "HappieWatch",
+ "website": "https://happiewatch.com",
+ "crawledAt": "2026-11-01T07:24:21.752Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://happiewatch.com/cdn/shop/files/hw_logo.png?v=1768424819",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://happiewatch.com/"
+ },
+ "attribution": "Images © HappieWatch, from happiewatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0970/happiewatch-black-mamba-steel-watch-venomous-red-dial",
+   "name": "HappieWatch Black Mamba Steel Watch — Venomous Red Dial",
+   "url": "https://happiewatch.com/products/happiewatch-black-mamba-steel-watch-venomous-red-dial",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_984d321a-5448-41e7-b4ce-f8a7b73b9258.jpg?v=1767112947",
+    "width": 800,
+    "height": 800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_984d321a-5448-41e7-b4ce-f8a7b73b9258.jpg?v=1767112947",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/xx-5-put.jpg?v=1767112947",
+     "width": 3098,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/d40ed6f9da413014b6ce19629d9c0454.jpg?v=1767113072",
+     "width": 790,
+     "height": 867
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/3_b5bb1523-42b3-46fc-b76c-8d1473137359.jpg?v=1767113079",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/95f0581a0562281cba0f0e72d84285b4.jpg?v=1767113086",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 26900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "happiewatch"
+   ],
+   "options": [
+    {
+     "name": "手表材质",
+     "values": [
+      "金属"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "金属",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "金属"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/featured-watches",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "37e5452ebc9b48f3"
+  },
+  {
+   "id": "BRD-0970/happiewatch-octopus",
+   "name": "HappieWatch “Crimson Octopus” Art Dial Watch — Limited Edition",
+   "url": "https://happiewatch.com/products/happiewatch-octopus",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/3.jpg?v=1766513359",
+    "width": 600,
+    "height": 600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/3.jpg?v=1766513359",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-HappieWatch-1623160120.jpg?v=1629267415",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-HappieWatch-1623160158.jpg?v=1629267415",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-HappieWatch-1623160184.jpg?v=1629267415",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-HappieWatch-1623160192.jpg?v=1629267415",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-HappieWatch-1623160211.jpg?v=1629267415",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-HappieWatch-1623160216.jpg?v=1629267415",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-HappieWatch-1623160230.jpg?v=1629267415",
+     "width": 2000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Crimson Octopus is a limited-edition HappieWatch art-dial watch. Select the available case-size and strap option shown in the product selector, then confirm the displayed measurements and strap guide before ordering.",
+   "productType": "watch",
+   "tags": [
+    "ANIMAL",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Leather Strap",
+      "Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Leather Strap",
+     "sku": "HS008FFZYV01",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Leather Strap"
+     ]
+    },
+    {
+     "title": "Metal Strap",
+     "sku": "HS008FFZYM01",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/test",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "cf245f075c802d6e"
+  },
+  {
+   "id": "BRD-0970/happiewatch-shark-bruce-limited-edition-unisex-watch",
+   "name": "HappieWatch “Deep Blue Fury” Shark Art Watch — Limited Edition",
+   "url": "https://happiewatch.com/products/happiewatch-shark-bruce-limited-edition-unisex-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/1.jpg?v=1762634237",
+    "width": 600,
+    "height": 600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/1.jpg?v=1762634237",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Shark-Bruce---Limited-Edition-HappieWatch-1623160336.jpg?v=1629267459",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Shark-Bruce---Limited-Edition-HappieWatch-1623160339.jpg?v=1629267459",
+     "width": 712,
+     "height": 712
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Shark-Bruce---Limited-Edition-HappieWatch-1623160342.jpg?v=1629267459",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Shark-Bruce---Limited-Edition-HappieWatch-1623160346.jpg?v=1629267459",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Shark-Bruce---Limited-Edition-HappieWatch-1623160350.jpg?v=1629267459",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Shark-Bruce---Limited-Edition-HappieWatch-1623160354.jpg?v=1629267459",
+     "width": 3360,
+     "height": 5040
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Shark-Bruce---Limited-Edition-HappieWatch-1623160355.jpg?v=1629267459",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Shark-Bruce---Limited-Edition-HappieWatch-1623160358.jpg?v=1629267459",
+     "width": 2000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Deep Blue Fury is a limited-edition HappieWatch shark art-dial watch. Select the available case-size and strap option shown in the product selector, then confirm the displayed measurements and strap guide before ordering.",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "ANIMAL",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Leather Strap",
+      "Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Leather Strap",
+     "sku": "HS005FFDBV06",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Leather Strap"
+     ]
+    },
+    {
+     "title": "Metal Strap",
+     "sku": "HS005FFZYM02",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/test",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "f5c894a1ab2cbd91"
+  },
+  {
+   "id": "BRD-0970/happiewatch-octopus-kraken-limited-edition-unisex-watch",
+   "name": "HappieWatch “Kraken Gaze” Octopus Art Watch — Limited Edition",
+   "url": "https://happiewatch.com/products/happiewatch-octopus-kraken-limited-edition-unisex-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/2.jpg?v=1762599895",
+    "width": 600,
+    "height": 600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/2.jpg?v=1762599895",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-Kraken-HappieWatch-1623160313.jpg?v=1629267436",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-Kraken-HappieWatch-1623160316.jpg?v=1629267436",
+     "width": 721,
+     "height": 625
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-Kraken-HappieWatch-1623160320_24894633-c4d3-4ae2-8327-40e9246b1a24.jpg?v=1629267436",
+     "width": 3360,
+     "height": 5040
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-Kraken-HappieWatch-1623160320.jpg?v=1629267436",
+     "width": 800,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-Kraken-HappieWatch-1623160323.jpg?v=1629267436",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-Kraken-HappieWatch-1623160326.jpg?v=1629267436",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-Kraken-HappieWatch-1623160329.jpg?v=1629267436",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Octopus-Kraken-HappieWatch-1623160331.jpg?v=1629267436",
+     "width": 2000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Kraken Gaze is a limited-edition HappieWatch octopus art-dial watch. Select the available case-size and strap option shown in the product selector, then confirm the displayed measurements and strap guide before ordering.",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "ANIMAL",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch",
+    "octopus"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Leather Strap",
+      "Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Leather Strap",
+     "sku": "HS005FFZYV04",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Leather Strap"
+     ]
+    },
+    {
+     "title": "Metal Strap",
+     "sku": "HS005FFZYM00",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/test",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "ca9e154a6a367fd4"
+  },
+  {
+   "id": "BRD-0970/happiewatch-chameleon-victor-limited-edition-unisex-watch",
+   "name": "HappieWatch The Chameleon Watch",
+   "url": "https://happiewatch.com/products/happiewatch-chameleon-victor-limited-edition-unisex-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/A-1_1_85da05d3-e37f-4d56-a1f1-e1e1d324395a.jpg?v=1774562866",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/A-1_1_85da05d3-e37f-4d56-a1f1-e1e1d324395a.jpg?v=1774562866",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/11-put_cc45473a-a355-49d0-882b-0ae61f2e5889.jpg?v=1774562866",
+     "width": 2048,
+     "height": 2061
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/222-put_a2bf4985-d808-4411-b7cf-fa955cf67e7a.jpg?v=1774562866",
+     "width": 2051,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Chameleon-Victor-HappieWatch-1623160090.jpg?v=1774562866",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Chameleon-Victor-HappieWatch-1623160102.jpg?v=1774562866",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Chameleon-Victor-HappieWatch-1623160107.jpg?v=1774562866",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Chameleon-Victor-HappieWatch-1623160117.jpg?v=1774562866",
+     "width": 2473,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1591892971_byte2909891byte_4a49a5856e84596c144f8c2d48dcfa56_iOS_w1440h1920.jpg?v=1774562875",
+     "width": 1440,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1591892971_byte3491733byte_e0e7721a28888ad43f828d2589159739_iOS_w1440h1920.jpg?v=1774562877",
+     "width": 1440,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1591892971_byte4488559byte_47f842953881b89901bb355f7f3d72f6_iOS_w1440h1920.jpg?v=1774562877",
+     "width": 1440,
+     "height": 1920
+    }
+   ],
+   "priceMinor": 24900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "ANIMAL",
+    "chameleon",
+    "green skin",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch",
+    "jungle",
+    "wild"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36*33mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": "HS008FFBSM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 8.8,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "brown",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "Dual Japanese quartz movements",
+    "Housing": "Mirror-finished, hand-polished 316L stainless steel",
+    "Dial": "3D cameo effect bronze dial",
+    "Glass": "Thickened sapphire crystal",
+    "Strap Options": "Vegan leather, Steel bracelet, Silicone",
+    "Lug Width": "20mm",
+    "Water Resistance": "3 ATM (30 meters / 100 feet)",
+    "Battery Life": "2+ years",
+    "Dimensions": "36 x 33 mm",
+    "Thickness": "8.8 mm",
+    "Weight": "40g (1.4oz) without strap What's in the Box?",
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/test",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "b333bfa1a74fbc78"
+  },
+  {
+   "id": "BRD-0970/2025-new-years-special-red-snake-pre-sale",
+   "name": "HappieWatch Medusa Crimson Edition: The Power of Desire",
+   "url": "https://happiewatch.com/products/2025-new-years-special-red-snake-pre-sale",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/t737x.jpg?v=1774565037",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/t737x.jpg?v=1774565037",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2025-New-Year_s-Special_Red-Snake-Watch_-A-Must-Have-Timepiece-HappieWatch-34248920.jpg?v=1774565037",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2025-New-Year_s-Special_Red-Snake-Watch_-A-Must-Have-Timepiece-HappieWatch-34248747.jpg?v=1774565037",
+     "width": 1658,
+     "height": 2266
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/20250417145127_1.jpg?v=1774565050",
+     "width": 4000,
+     "height": 5328
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/20250422143628_1.jpg?v=1774565050",
+     "width": 3024,
+     "height": 4032
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "2025 New Year Special",
+    "Fashion Accessory",
+    "New Year's Collection",
+    "Red Snake Watch",
+    "Timepiece"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36mm Silicone Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Silicone Strap",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Silicone Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "HappieWatch Medusa Crimson Edition": "The Power of Desire HappieWatch Medusa Crimson Edition: The Power of Desire",
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240111",
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "8bee685225182ff8"
+  },
+  {
+   "id": "BRD-0970/the-magician-rabbit-watch",
+   "name": "HappieWatch The Magician Rabbit Watch",
+   "url": "https://happiewatch.com/products/the-magician-rabbit-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/4_1_11.jpg?v=1774565862",
+    "width": 800,
+    "height": 800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/4_1_11.jpg?v=1774565862",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/4_7527f729-3a73-4dc8-b2e0-f7f6176d021a.jpg?v=1774565806",
+     "width": 4038,
+     "height": 5388
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/5_dd3342b9-b37f-493f-b278-0a7d219f412b.jpg?v=1774565806",
+     "width": 1166,
+     "height": 1777
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/7ffea82d93984d5b8aee74058f51609.jpg?v=1774565806",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/7_8e0d02ab-dfa2-4e84-9f19-0f287e36c5dd.jpg?v=1774565806",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/6_4e3d985e-eb84-43ca-ad95-7f50893d5045.jpg?v=1774565806",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/810c5088ee1f397690400f80b59c5949.jpg?v=1774565806",
+     "width": 4961,
+     "height": 4961
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/csy_1_2.jpg?v=1774565806",
+     "width": 1266,
+     "height": 1688
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/csy_1_1.jpg?v=1774565806",
+     "width": 1263,
+     "height": 1684
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_ef65f365-29be-4ea2-a14c-30fefaf3d055.jpg?v=1774565806",
+     "width": 1263,
+     "height": 1684
+    }
+   ],
+   "priceMinor": 24900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "41*39mm Metal Strap",
+      "36*33mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "41*39mm Metal Strap",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Metal Strap"
+     ]
+    },
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "ea66b919f77b2064"
+  },
+  {
+   "id": "BRD-0970/happiewatch-ghost-haiti-limited-edition-unisex-watch-1",
+   "name": "HappieWatch The Tiny Master Watch",
+   "url": "https://happiewatch.com/products/happiewatch-ghost-haiti-limited-edition-unisex-watch-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_5e376323-083e-432f-b1b9-f9139f6a5f66.jpg?v=1774638795",
+    "width": 714,
+    "height": 714
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_5e376323-083e-432f-b1b9-f9139f6a5f66.jpg?v=1774638795",
+     "width": 714,
+     "height": 714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Voodoo-Doll-HappieWatch-1623160011.jpg?v=1735577060",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Voodoo-Doll-HappieWatch-1623160014.jpg?v=1735577060",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Voodoo-Doll-HappieWatch-1623160018.jpg?v=1735577060",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Voodoo-Doll-HappieWatch-1623160021.jpg?v=1735577060",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Voodoo-Doll-HappieWatch-1623160035.jpg?v=1735577060",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_dddd5a27-0686-4378-bee9-b9f511fa6917.jpg?v=1735577096",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "全套服务包括： 1条硅胶表带（天蓝色） 1 条素食皮革表带/钢表链 1 观看 推针器 * 仅适用于钢表带 用户手册",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Leather Strap",
+     "sku": "HS008FFWDV01",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "全套服务包括": "1条硅胶表带（天蓝色） 1 条素食皮革表带/钢表链 1 观看 推针器 * 仅适用于钢表带 用户手册",
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "The Tiny Master's Dial": "An original artistic interpretation of the legendary evil sorcerer, capturing his iconic silhouette and glowing eyes.",
+    "Two Sizes Available": "Available in a classic 36mm or a larger 42mm case.",
+    "Premium Build & Movement": "Features a hand-polished 316L stainless steel case, a scratch-resistant sapphire crystal, and a reliable Japanese quartz movement."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "ef5a07177c5f4a68"
+  },
+  {
+   "id": "BRD-0970/pink-leopard",
+   "name": "HappieWatch Pink Panther Spirit：Where Wild Style Meets Art",
+   "url": "https://happiewatch.com/products/pink-leopard",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/f1_a6f70aa4-8543-4bba-9349-699b9686a537.jpg?v=1774517327",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/f1_a6f70aa4-8543-4bba-9349-699b9686a537.jpg?v=1774517327",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/f2_ec8cedc8-e0ed-408c-a60a-d83fb3218b39.jpg?v=1774517331",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/f3.jpg?v=1760642980",
+     "width": 2884,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/f5.jpg?v=1760642980",
+     "width": 3000,
+     "height": 3798
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Metal Strap 36*33mm",
+      "Leather Strap 36*33mm"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Metal Strap 36*33mm",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Metal Strap 36*33mm"
+     ]
+    },
+    {
+     "title": "Leather Strap 36*33mm",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Leather Strap 36*33mm"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "HappieWatch Pink Panther Spirit": "Where Wild Style Meets Art HappieWatch Pink Panther Spirit：Where Wild Style Meets Art",
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240111",
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "c223683d9d65018b"
+  },
+  {
+   "id": "BRD-0970/pink-bulldog-watch-for-bold-queens",
+   "name": "HappieWatch The Duchess – Pink Bulldog Watch for Bold Queens",
+   "url": "https://happiewatch.com/products/pink-bulldog-watch-for-bold-queens",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/XL-1_-put_3.jpg?v=1768833883",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/XL-1_-put_3.jpg?v=1768833883",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/17217073c52d21a33b91cb52902ed33.jpg?v=1768833883",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/af0138ecb0112ecc5344973a74cbca0.jpg?v=1768833883",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/DSC21.jpg?v=1768833471",
+     "width": 2832,
+     "height": 3776
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/138.jpg?v=1768833476",
+     "width": 1440,
+     "height": 1920
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Leather Strap",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "083ae7307607916d"
+  },
+  {
+   "id": "BRD-0970/new-grey",
+   "name": "HappieWatch “The Shadow Walker” — The Meteorite Cat of Silent Strength",
+   "url": "https://happiewatch.com/products/new-grey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/9982029abc6b3a4baf30e1008adb80b5_c4879e4a-a435-4ca2-bc24-3d0446e7c945.jpg?v=1768839486",
+    "width": 1600,
+    "height": 1600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/9982029abc6b3a4baf30e1008adb80b5_c4879e4a-a435-4ca2-bc24-3d0446e7c945.jpg?v=1768839486",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/bb3eaf3f8ba1d9da0a321f9b1f492ae3_87a291d1-e4f5-4fe2-bcf7-37836daed421.jpg?v=1768839491",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/A1.jpg?v=1768839410",
+     "width": 3840,
+     "height": 5208
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/A2_b6cbc45d-d570-4734-a615-2f23ab40969f.png?v=1768839410",
+     "width": 3750,
+     "height": 4842
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/04_9ea786f6-05bf-41cf-ae34-647a7f11d231.jpg?v=1768839410",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/05_eb42906d-5007-4c21-bdca-f1c00b3a35f2.jpg?v=1768839410",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "36*33mm Leather Strap",
+      "36*33mm Metal Strap",
+      "41*39mm Leather Strap",
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Leather Strap",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Leather Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Metal Strap",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "The Shadow Walker": "is inspired by the presence of a grey cat that moves like a meteor through silence: calm on the surface, profound in spirit. Its soft gaze carries understanding rather than demand, offering comfort without noise and strength without display."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "5b1c54e027858390"
+  },
+  {
+   "id": "BRD-0970/new-night-owl",
+   "name": "HappieWatch The Night Owl Watch",
+   "url": "https://happiewatch.com/products/new-night-owl",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/cbf7fcbc326007435f35d13a39a1c73_1c880e83-c58e-43e5-88be-0b0b55c9cb73.jpg?v=1774639401",
+    "width": 592,
+    "height": 592
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/cbf7fcbc326007435f35d13a39a1c73_1c880e83-c58e-43e5-88be-0b0b55c9cb73.jpg?v=1774639401",
+     "width": 592,
+     "height": 592
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2c6c802a59a0d0262914f5bd38d265b.jpg?v=1714374577",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/965c431c4dce38896e60c2aa4992229.jpg?v=1714374577",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/cede6a83b87b2a5a2c971aa2fe524a7.jpg?v=1714374578",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/ee47e85bae0a1d45344392526894e22.jpg?v=1714374579",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/cbf7fcbc326007435f35d13a39a1c73.jpg?v=1714374513",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 24900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "41*33mm Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "41*33mm Leather Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*33mm Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/trending-now"
+   ],
+   "hash": "40014b1e4dcf5a09"
+  },
+  {
+   "id": "BRD-0970/new-sunny",
+   "name": "HappieWatch The Sunflower Colorful Abstract Art Watch",
+   "url": "https://happiewatch.com/products/new-sunny",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0009.jpg?v=1755747902",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0009.jpg?v=1755747902",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0027.jpg?v=1755747906",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0022.jpg?v=1755747910",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0040.jpg?v=1755747913",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_2189.jpg?v=1755747918",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_2188.jpg?v=1755747921",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_2226.jpg?v=1755747924",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_2227.jpg?v=1755747927",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_2260.jpg?v=1755747930",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/New_Sunny-HappieWatch-34256357.jpg?v=1755747887",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "33*36mm Leather Strap",
+      "33*36mm Metal Strap",
+      "39*41mm Leather Strap",
+      "39*41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "33*36mm Leather Strap",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "33*36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "33*36mm Metal Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "33*36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "39*41mm Leather Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "39*41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "39*41mm Metal Strap",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "39*41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240116",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "d271ac1710c4da9a"
+  },
+  {
+   "id": "BRD-0970/new-gold-lucky-cat",
+   "name": "HappieWatch The Lucky Cat A Golden Charm Watch",
+   "url": "https://happiewatch.com/products/new-gold-lucky-cat",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_f3a98f6a-0e16-4333-be44-dc95ee1a3da7.jpg?v=1774639161",
+    "width": 665,
+    "height": 665
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_f3a98f6a-0e16-4333-be44-dc95ee1a3da7.jpg?v=1774639161",
+     "width": 665,
+     "height": 665
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_5a7b1049-6acb-4aab-91b0-26e31851b222.jpg?v=1714372106",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/3_69eb8553-3ba3-4bf6-9806-caa6c5a6bdb2.jpg?v=1714372108",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/4_3f059459-38d3-4638-8162-50624c3821e4.jpg?v=1714372107",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/5_fac181ee-0c8f-4980-b17d-947fd7b44675.jpg?v=1714372107",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/6_d86c0059-a881-425b-9c71-b71e16b52b57.jpg?v=1714372107",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_f7367022-ec99-447e-bed4-20a0d81f3a42.jpg?v=1714372015",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "36*33mm Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Leather Strap",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "7426a9ecdb9fc943"
+  },
+  {
+   "id": "BRD-0970/pink-owl",
+   "name": "HappieWatch Pink Owl Watch",
+   "url": "https://happiewatch.com/products/pink-owl",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/EX8A4330.jpg?v=1774639467",
+    "width": 592,
+    "height": 592
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/EX8A4330.jpg?v=1774639467",
+     "width": 592,
+     "height": 592
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/EX8A4357.jpg?v=1714291312",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/EX8A4392.jpg?v=1714291311",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/EX8A4393.jpg?v=1714291312",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/EX8A4407.jpg?v=1714291313",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Leather Strap36*33mm"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Leather Strap36*33mm",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Leather Strap36*33mm"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now"
+   ],
+   "hash": "72606cbcc3be141f"
+  },
+  {
+   "id": "BRD-0970/gold-drgon",
+   "name": "HappieWatch Gold Dragon - The Ultimate Luxury Watch",
+   "url": "https://happiewatch.com/products/gold-drgon",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/5x.jpg?v=1760644519",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/5x.jpg?v=1760644519",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/b2fa5a7e222845b6f27e1d8b61331d4e.png?v=1774566566",
+     "width": 1440,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/8x.jpg?v=1774566566",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/New_-Gold-Dragon-The-Ultimate-Luxury-Watch-HappieWatch-34250417.jpg?v=1774566566",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/New_-Gold-Dragon-The-Ultimate-Luxury-Watch-HappieWatch-34250560.jpg?v=1774566566",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/New_-Gold-Dragon-The-Ultimate-Luxury-Watch-HappieWatch-34250674.jpg?v=1774566566",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/J1.jpg?v=1760641706",
+     "width": 5000,
+     "height": 4841
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/J2.jpg?v=1760641707",
+     "width": 5000,
+     "height": 4841
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Stunning Design of the New Gold Dragon When you choose the new gold dragon watch, you’re not just getting a timepiece; you’re making a statement. Because it features intricate dragon designs and high-quality gold plating, this watch stands out from the crowd. However, what truly sets it apart is its attention to detail, ensuring that every glance at your wrist becomes an opportunity to impress. Unmatched Comfort and Durability This luxury watch doesn’t compromise on comfort or durability. So, whether you wear it daily or save it for special occasions, the new gold dragon watch will remain as beautiful as the day you bought it. And thanks to its water-resistant feature, you don’t have to worry about damaging it during unexpected rain showers. A Perfect Fashion Accessory Because trends come and go, but style remains forever, the new gold dragon watch is designed to complement any outfit. Whether paired with formal attire or casual clothing, this watch elevates your look effortlessly. So if you're looking for a timeless accessory that speaks volumes about your taste, this is the perfect choice.",
+   "productType": "watch",
+   "tags": [
+    "dragon design",
+    "fashion accessory",
+    "gold dragon",
+    "luxury timepiece",
+    "new watch"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "41mm Metal Strap",
+      "36mm Metal Strap",
+      "41mm Leather Strap",
+      "36mm Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "41mm Metal Strap",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Leather Strap",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "yellow",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "Golden Dragon of Fortune Dial": "An original HappieWatch design featuring a powerful golden dragon, a modern talisman for attracting wealth and success.",
+    "For the Ultimate Power Couple": "The perfect couples wristwatch for partners who are building their empire together and supporting each other's ambitions.",
+    "Two Sizes for a Perfect Fit": "Available in a classic 36mm or a larger 42mm case.",
+    "Premium Build & Movement": "Features a hand-polished 316L stainless steel case, a scratch-resistant sapphire crystal, and a reliable Japanese quartz movement."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240111",
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "09d5084ea3776dff"
+  },
+  {
+   "id": "BRD-0970/happiewatch-leopard-goldie-limited-edition-unisex-watch",
+   "name": "HappieWatch Panther Shadow – A Statement of Silent Confidence",
+   "url": "https://happiewatch.com/products/happiewatch-leopard-goldie-limited-edition-unisex-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/5_1.jpg?v=1774638575",
+    "width": 1250,
+    "height": 1250
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/5_1.jpg?v=1774638575",
+     "width": 1250,
+     "height": 1250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_9f15e395-13dc-47f1-8d9e-6db0990d54ca.jpg?v=1774638575",
+     "width": 1080,
+     "height": 1438
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1668866472_byte2012246byte_c3c7a297db0881368747df4442279df7_iOS_w1419h1892.jpg?v=1774638575",
+     "width": 1419,
+     "height": 1892
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/4_-_333.jpg?v=1774638575",
+     "width": 2240,
+     "height": 3360
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/6_1_daa76524-2f57-4d9e-af69-86df7e7b992f.jpg?v=1774638575",
+     "width": 3673,
+     "height": 5510
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/555.jpg?v=1774638575",
+     "width": 2240,
+     "height": 3360
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/666.jpg?v=1774638575",
+     "width": 2240,
+     "height": 3360
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/3_7eccd324-7a02-4262-8329-115b0438b43e.jpg?v=1774638575",
+     "width": 3768,
+     "height": 5088
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/4_b4886b0f-82dd-4793-a318-e4fef7c5df27.png?v=1774638575",
+     "width": 3660,
+     "height": 5280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/5_012b7066-a1f2-46e2-899a-965e62960b8e.jpg?v=1774638575",
+     "width": 1250,
+     "height": 1658
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "ANIMAL",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36*33mm Metal Strap",
+      "41*39mm Metal Strap",
+      "36*33mm Leather Strap",
+      "41*39mm Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Metal Strap",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "41*39mm Metal Strap"
+     ]
+    },
+    {
+     "title": "36*33mm Leather Strap",
+     "sku": "HS008FFJQV03",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Leather Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240116",
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/featured-watches",
+    "BRD-0970/test",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "2dcb40e20c2ad486"
+  },
+  {
+   "id": "BRD-0970/collaboration-qee-bear",
+   "name": "HappieWatch Time Trap Watch - Black Edition",
+   "url": "https://happiewatch.com/products/collaboration-qee-bear",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0051_e034ce69-96cd-45c9-b556-885afae9577b.jpg?v=1755745676",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0051_e034ce69-96cd-45c9-b556-885afae9577b.jpg?v=1755745676",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0059_4ad468a5-2fc4-40af-90cf-bd742b78ed53.jpg?v=1755745681",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0055_0df99df4-b9af-4b43-9c74-17a4b0b214f0.jpg?v=1755745683",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0063_6a32dade-d1d5-47b1-8aa1-df489402c97c.jpg?v=1755745687",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/IMG_3620.jpg?v=1755745664",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/QEE_1.jpg?v=1755745664",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Enjoy the fun moment with HappieWatch-Qee Bear on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "bear",
+    "happiewatch",
+    "qee",
+    "qee bear",
+    "watch",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36mm Leather Strap",
+      "41mm Leather Strap",
+      "36mm Metal Strap",
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Leather Strap",
+     "sku": "H204LMSKV03HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "H304LMSKV03HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "H204LMSKM02HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Metal Strap",
+     "sku": "H304LMSKM02HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240116",
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day2",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "d43693328308ebe3"
+  },
+  {
+   "id": "BRD-0970/new-arrival-rabbit",
+   "name": "HappieWatch The Lucky Rabbit Watch",
+   "url": "https://happiewatch.com/products/new-arrival-rabbit",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/3xx_dc21a5a1-1451-4306-8a90-f66e96306d2d.jpg?v=1762598578",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/3xx_dc21a5a1-1451-4306-8a90-f66e96306d2d.jpg?v=1762598578",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/xx-2-1-x.jpg?v=1762598547",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_ebba2cbf-5da0-4406-8c73-2da4355e4060.jpg?v=1762598547",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_9f689cee-6293-48d7-878b-1ba5713bc296.jpg?v=1762598547",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/02_1.jpg?v=1762598547",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/03_1.jpg?v=1762598547",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/04_1.jpg?v=1762598547",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/05_1.jpg?v=1762598547",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36mm Leather Strap",
+      "36mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Leather Strap",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 9.7,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "brown",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "Product Deails": ":",
+    "Dimensions": "36* 33mm",
+    "Thickness": "9.7mm",
+    "Movement": "Dual Japanese quartz movements",
+    "Battery Life": "2+ yrs",
+    "Glass": "Sapphire crystal (thickened)",
+    "Housing": "Hand-polished 316L stainless steel",
+    "Dial": "3D cameo effect bronze dial",
+    "Lug Width": "20mm",
+    "Strap": "Vegan leather (20mm)",
+    "Water Resistance": "3 ATM",
+    "Weight": "1.4oz/ 40g (without strap)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240111",
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "5adf02f1f7e65214"
+  },
+  {
+   "id": "BRD-0970/happiewatch-biohazard-poison-limited-edition-unisex-watch",
+   "name": "HappieWatch Goofy UFO Watch",
+   "url": "https://happiewatch.com/products/happiewatch-biohazard-poison-limited-edition-unisex-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_1_3d113392-f8b8-4a0f-b970-efae3277f440.jpg?v=1774560642",
+    "width": 1600,
+    "height": 1600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_1_3d113392-f8b8-4a0f-b970-efae3277f440.jpg?v=1774560642",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_1_3958e064-a094-4add-a650-319fb2d440f5.jpg?v=1774560642",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Poison-HappieWatch-1623160049.jpg?v=1774560642",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Poison-HappieWatch-1624428281.jpg?v=1774560642",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/99_2.jpg?v=1774560674",
+     "width": 1080,
+     "height": 1620
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Poison-HappieWatch-1624345012.jpg?v=1774560642",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Poison-HappieWatch-1624345010.jpg?v=1774560642",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_1_38e41578-0d24-4e55-9298-fc05e348578b.jpg?v=1774560642",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_1_0e3ac731-6e60-4c9a-9c92-2af153e50e4d.jpg?v=1774560642",
+     "width": 1600,
+     "height": 1600
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "CYBER",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "33mm Leather Strap",
+      "41mm Leather Strap",
+      "33mm Metal Strap",
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "33mm Leather Strap",
+     "sku": "HS012FFSHV04HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "33mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "HN104F3SHV04HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "33mm Metal Strap",
+     "sku": "HS012FFSHM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Metal Strap",
+     "sku": "HN104F3SHM00HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240116",
+    "BRD-0970/fathers-day2",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "6ad74a068bc214d5"
+  },
+  {
+   "id": "BRD-0970/fashion-line",
+   "name": "HappieWatch Time Trap Watch",
+   "url": "https://happiewatch.com/products/fashion-line",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/1_c8b7d2de-08f7-4e88-a32d-3e76f81358ba.jpg?v=1645179939",
+    "width": 600,
+    "height": 600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/1_c8b7d2de-08f7-4e88-a32d-3e76f81358ba.jpg?v=1645179939",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/2_7bbce3d6-b226-4f9d-9395-91e43bba0a3d.jpg?v=1645179939",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/3_5bcb50d8-9b0d-4647-9e3d-5adc70d19d3d.jpg?v=1645179939",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/4_1fd56763-6ea8-4221-b6b1-372e4838e0b6.jpg?v=1645179939",
+     "width": 600,
+     "height": 600
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "watch",
+   "tags": [
+    "bear",
+    "happiewatch",
+    "qee",
+    "qee bear",
+    "watch",
+    "watches"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36mm Leather Strap",
+      "41mm Leather Strap",
+      "36mm Metal Strap",
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Leather Strap",
+     "sku": "H204LMSKV03HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "H304LMSKV03HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "H204LMSKM02HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Metal Strap",
+     "sku": "H304LMSKM02HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day2",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "dd45266aaa147206"
+  },
+  {
+   "id": "BRD-0970/the-don-the-power-icon-art-watch",
+   "name": "HappieWatch “The Don” — The Power Icon Art Watch",
+   "url": "https://happiewatch.com/products/the-don-the-power-icon-art-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/t3.jpg?v=1768840311",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/t3.jpg?v=1768840311",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/t1.jpg?v=1768840311",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/STO3809-tuya_79751b1d-bf33-4305-96e7-bfcf33f902f8.jpg?v=1768840159",
+     "width": 1024,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/STO3804-tuya.jpg?v=1768840159",
+     "width": 2048,
+     "height": 3072
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_f84c254b-915f-4592-aecc-def93cf6ffb0.png?v=1768840159",
+     "width": 350,
+     "height": 570
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "Don Special Edition",
+    "fashion accessory",
+    "limited edition",
+    "luxury timepiece",
+    "watch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36*33mm Metal Strap",
+      "36*33mm Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "36*33mm Leather Strap",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "The Don": "is not a portrait—it is a symbol."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240111",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "397fc25b84aac0f4"
+  },
+  {
+   "id": "BRD-0970/king-kong",
+   "name": "HappieWatch The Urban King Watch",
+   "url": "https://happiewatch.com/products/king-kong",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/1_28c3fe84-22a9-4063-b287-9490669408fb.jpg?v=1645179166",
+    "width": 600,
+    "height": 600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/1_28c3fe84-22a9-4063-b287-9490669408fb.jpg?v=1645179166",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/3_0cacc56b-6a01-40d2-ac82-dc9103fe940a.jpg?v=1774567480",
+     "width": 3024,
+     "height": 4031
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/6_1.jpg?v=1774567484",
+     "width": 3628,
+     "height": 5443
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/4_1.jpg?v=1774567484",
+     "width": 3673,
+     "height": 5510
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/2_cc0c2af0-ff51-4d89-9df9-4791197b008d.jpg?v=1774567484",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/3_bc7cd137-7c0e-428d-905a-997f7034ec9b.jpg?v=1774567484",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/4_ee5d49f7-33f0-4359-bbf7-06ad0269fb1b.jpg?v=1774567484",
+     "width": 600,
+     "height": 600
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Enjoy the fun moment with HappieWatch The Urban King Watch on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "2021622",
+    "Independence Day"
+   ],
+   "options": [
+    {
+     "name": "Price Quantity",
+     "values": [
+      "36mm Leather Strap",
+      "41mm Leather Strap",
+      "36mm Metal Strap",
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Leather Strap",
+     "sku": "H104F2KJV06HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "H104F3KJV06HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "H104F2KJM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Metal Strap",
+     "sku": "H104F3KJM00HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "Intricately Textured Dial": "A stunning 3D dial featuring five unique engraving textures, showcasing our most advanced coloring and crafting techniques.",
+    "The Guardian's Gaze": "Our original artistic interpretation of King Kong as a powerful but gentle guardian.",
+    "Two Sizes Available": "Available in a classic 36mm or a larger 42mm case.",
+    "Premium Build & Movement": "Features a hand-polished 316L stainless steel case, a scratch-resistant sapphire crystal, and a reliable Japanese quartz movement."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fathers-day3",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "1d467f7afcb77b43"
+  },
+  {
+   "id": "BRD-0970/corgi-candi",
+   "name": "HappieWatch The Corgi Charming Dog Watch in Pink",
+   "url": "https://happiewatch.com/products/corgi-candi",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/corgi_ba0e6559-d62b-4fe9-90d4-f1ff3ca126f0.jpg?v=1645178374",
+    "width": 600,
+    "height": 600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/corgi_ba0e6559-d62b-4fe9-90d4-f1ff3ca126f0.jpg?v=1645178374",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/corgi_f440a2dc-80e2-4b03-a075-c13859cebc57.jpg?v=1645178414",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/1_1832750b-deca-43bc-9e84-04682a5b0117.jpg?v=1645178414",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/2_67d12336-1e40-4098-951d-6e76c4af8ace.jpg?v=1645178384",
+     "width": 600,
+     "height": 600
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Enjoy the fun moment with HappieWatch-Corgi on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "2021622",
+    "Independence Day"
+   ],
+   "options": [
+    {
+     "name": "Price Quantity",
+     "values": [
+      "36*33mm Leather Strap",
+      "41*39mm Leather Strap",
+      "36*33mm Metal Strap",
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Leather Strap",
+     "sku": "H104F2KJV06HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Leather Strap",
+     "sku": "H104F3KJV06HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": "H104F2KJM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Metal Strap",
+     "sku": "H104F3KJM00HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day3",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "601343918c779b19"
+  },
+  {
+   "id": "BRD-0970/happiewatch-t2021-collection-limited-edition-unisex-watch",
+   "name": "HappieWatch T-2021 Cyborgx Watch",
+   "url": "https://happiewatch.com/products/happiewatch-t2021-collection-limited-edition-unisex-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_1_30fbec82-faa9-429d-9e3b-509743bb99d8.jpg?v=1762292808",
+    "width": 1600,
+    "height": 1600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_1_30fbec82-faa9-429d-9e3b-509743bb99d8.jpg?v=1762292808",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/t2021_584d4b90-8e94-43ae-85f5-4e01fb501c51.jpg?v=1774566454",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0030.jpg?v=1774566454",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0016.jpg?v=1774566454",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/T2021_26dbd5da-4444-4a4b-b1fe-4a22b0cdb065.jpg?v=1774566454",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---T2021-HappieWatch-1624428391.jpg?v=1774566454",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---T2021-HappieWatch-1623160043.jpg?v=1762292808",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---T2021-HappieWatch-1624345178.jpg?v=1762292808",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---T2021-HappieWatch-1624345180.jpg?v=1762292808",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---T2021-HappieWatch-1623160052.jpg?v=1762292808",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/t2021_2bb4363e-ea8c-4d3c-9fcc-179dd9a4c249.jpg?v=1762292808",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_1_1d8a8b7b-2501-4468-a648-dd881f093304.jpg?v=1767950576",
+     "width": 1600,
+     "height": 1600
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "T-2021 Cyborgx The previous-generation T-2020 Terminator has been lost, so the future has sent the T2021 CyborgX . His mission is to find the T-2020, destroy it, and then take over human time. The HappieWatch T2021 CyborgX visually embodies the rebellious and agile spirit of fashion, with a delicate and dazzling surface. Enjoy the fun moment with HappieWatch-T2021 on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "CYBER",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "41mm Metal Strap",
+      "36mm Metal Strap",
+      "41mm Leather Strap",
+      "36mm Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "41mm Metal Strap",
+     "sku": "HN104F3JXM02HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "HN104F2JXM02HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "HN104F3JXV06HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Leather Strap",
+     "sku": "HN104F2JXV06HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "Playful & Mysterious Dial": "Features a unique and charming cosmonaut watch design that sparks imagination, making it a standout piece of wearable art in our space themed watches collection.",
+    "Two Sizes for All Explorers": "Available in a classic 36x33mm or a larger 42x39mm case to ensure a perfect fit for any dreamer.",
+    "Reliable Dual Movement": "Powered by two independent and precise Japanese quartz movements.",
+    "Built for Daily Adventures": "Features a hand-polished 316L stainless steel case and a thickened, scratch-resistant sapphire crystal.",
+    "Multiple Strap Choices": "Comes with your choice of premium vegan leather, a classic steel bracelet, or a comfortable silicone strap (20mm lug width). Plus, a free silicone strap is included with every watch!"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240116",
+    "BRD-0970/fathers-day2",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "909378f58d87c041"
+  },
+  {
+   "id": "BRD-0970/happiewatch-astronaut",
+   "name": "HappieWatch Yuri's Dream Astronaut Watch",
+   "url": "https://happiewatch.com/products/happiewatch-astronaut",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0057_701c3da7-f074-41d6-bc05-564224609d55.jpg?v=1755746728",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0057_701c3da7-f074-41d6-bc05-564224609d55.jpg?v=1755746728",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0060_d357c8da-1036-4404-9aa1-c455113402dd.jpg?v=1755746728",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0052_4abac2fe-fd97-40ac-84dd-a1adc787fc58.jpg?v=1755746728",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0061_6edde6e2-9c46-4dc1-b12b-1a9cd431c8a7.jpg?v=1755746728",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4117.jpg?v=1755746728",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch-Astronaut-HappieWatch-1624608399.jpg?v=1755746575",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch-Astronaut-HappieWatch-1624430043.jpg?v=1755746575",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/astro_63dac5a9-26da-470f-884b-47aea801bf0a.jpg?v=1755746575",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/astro2.jpg?v=1755746575",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch-Astronaut-HappieWatch-1624278438.jpg?v=1755746575",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/astro.jpg?v=1755746575",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4098.jpg?v=1755746590",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "[Details] Enjoy the fun moment with HappieWatch-Astronaut on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "happiewatch",
+    "watch",
+    "wristwatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36mm Leather Strap",
+      "41mm Leather Strap",
+      "36mm Metal Strap",
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Leather Strap",
+     "sku": "H104F2YHV01HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "H104F3YHV01HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "H104F2YHM01HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Metal Strap",
+     "sku": "H104F3YHM01HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fathers-day2",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "e35305a47748d8b6"
+  },
+  {
+   "id": "BRD-0970/happiewatch-the-corgi-rebel",
+   "name": "HappieWatch “The Corgi Rebel” — Modern Dog Watch with Attitude",
+   "url": "https://happiewatch.com/products/happiewatch-the-corgi-rebel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0053_10c9eefc-c61f-4d32-af93-42133cdf8e8c.jpg?v=1755746739",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0053_10c9eefc-c61f-4d32-af93-42133cdf8e8c.jpg?v=1755746739",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0058_cf86c734-dc7b-49b2-9224-c00e249fd682.jpg?v=1755746739",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0054_22638bdc-270a-4899-9bc7-d2ff60e7f1a7.jpg?v=1755746739",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0064_3f60a896-f1e2-42af-b4b0-02f53cb7bf04.jpg?v=1755746739",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4315_5ba7afc2-12e3-42d4-88f9-3b7ac764f002.jpg?v=1755746739",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch-Corgi-HappieWatch-1624608371.jpg?v=1755746581",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch-Corgi-HappieWatch-1624345304.jpg?v=1755746581",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/corgi_9baddc53-bb29-454a-9331-5790c63e9037.jpg?v=1755746581",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch-Corgi-HappieWatch-1624277679.jpg?v=1755746581",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch-Corgi-HappieWatch-1624277682.jpg?v=1755746581",
+     "width": 2473,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4299.jpg?v=1755746581",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4305.jpg?v=1755746581",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Enjoy the fun moment with HappieWatch-Corgi on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "ANIMAL",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "Independence Day",
+    "The Corgi Rebel"
+   ],
+   "options": [
+    {
+     "name": "Price Quantity",
+     "values": [
+      "36*33mm Leather Strap",
+      "36*33mm Metal Strap",
+      "41*39mm Leather Strap",
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Leather Strap",
+     "sku": "H104F2KJV06HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": "H104F2KJM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Leather Strap",
+     "sku": "H104F3KJV06HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Metal Strap",
+     "sku": "H104F3KJM00HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "The Corgi Rebel": "was created for those who appreciate contrast:"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day3",
+    "BRD-0970/featured-watches",
+    "BRD-0970/test",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "4c634d843949d281"
+  },
+  {
+   "id": "BRD-0970/happiewatch-leon-limited-edition-unisex-watch",
+   "name": "HappieWatch Leon the Foo Dog Watch",
+   "url": "https://happiewatch.com/products/happiewatch-leon-limited-edition-unisex-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0013.jpg?v=1755755061",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0013.jpg?v=1755755061",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0036.jpg?v=1755755065",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/foo.jpg?v=1755755051",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Foo-Dog-HappieWatch-1624344708.jpg?v=1755755051",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Foo-Dog-HappieWatch-1624344716.jpg?v=1755755051",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Foo-Dog-HappieWatch-1624344713.jpg?v=1755755051",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Foo-Dog-HappieWatch-1624428426.jpg?v=1755755051",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Foo-Dog-HappieWatch-1623160036.jpg?v=1755755051",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Foo-Dog-HappieWatch-1623160040.jpg?v=1755755051",
+     "width": 2473,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Foo Dog – Leon Everyone is drunk whereas I am sober; Everyone can be proud until hearing my roar. Leon is a stone lion who has absorbed the essence of heaven and earth. Despite he has points of a resemblance to Suan Ni (one of nine sons of Dragon who looks like a lion), actually he has a quirky heart. This watch is designed to be lively and agile on the dial. Among the decorative carving patterns, the golden bells are particularly dazzling. The auspicious cloud patterns and ethnic totems matched with Leon the Foo Dog perfectly. Together, HappieWatch-Foo Dog creates a rich visual impact and make your style dazzlingly layered with oriental charm. Enjoy the fun moment with HappieWatch-Foo Dog on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch",
+    "MYTHHOLOGY",
+    "Oriental Myth"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36mm Leather Strap",
+      "41mm Leather Strap",
+      "36mm Metal Strap",
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Leather Strap",
+     "sku": "HN104F2XSV06HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "HN104F3XSV06HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "HN104F2XSM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Metal Strap",
+     "sku": "HN104F3XSM00HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately.",
+    "Guardian Foo Dog Dial": "Our original artistic interpretation of Leon, a guardian lion with a rebellious, quirky spirit.",
+    "Intricate 3D Engraving": "The dial features a rich, multi-layered design with stunning decorative carving patterns.",
+    "Premium Build & Movement": "Features a hand-polished 316L stainless steel case, a scratch-resistant sapphire crystal, and a reliable Japanese quartz movement."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fathers-day",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "284d26c70e391451"
+  },
+  {
+   "id": "BRD-0970/happiewatch-bull-watch-fashion-watch",
+   "name": "Happiewatch The Sacred Bull of Five Colors — Power Meets Art",
+   "url": "https://happiewatch.com/products/happiewatch-bull-watch-fashion-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/41_1_8cc10e67-0740-4b20-ab32-4a4aa7558670.jpg?v=1774561156",
+    "width": 800,
+    "height": 800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/41_1_8cc10e67-0740-4b20-ab32-4a4aa7558670.jpg?v=1774561156",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/41_1.jpg?v=1774561156",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4257.jpg?v=1774561156",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Bull-HappieWatch-1624344531.jpg?v=1774561156",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Bull-HappieWatch-1624344536.jpg?v=1774561156",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/bull2.jpg?v=1774561156",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/bull_4f0b4073-ce7b-4fe6-8f7f-119ed076cb0a.jpg?v=1774561156",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/bull3.jpg?v=1774561156",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4245.jpg?v=1774561156",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4250.jpg?v=1774561156",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/IMG_4267.jpg?v=1774561156",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/36_1_85ab7982-9123-4651-b5c7-5ae5a16e93a8.jpg?v=1774561156",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch",
+    "MYTHOLOGY"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36*33mm Leather Strap",
+      "41*39mm Leather Strap",
+      "36*33mm Metal Strap",
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Leather Strap",
+     "sku": "H104F2SNV03HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Leather Strap",
+     "sku": "H104F3SNV03HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": "H104F2SNM02HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Metal Strap",
+     "sku": "H104F3SNM02HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240116",
+    "BRD-0970/fathers-day",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "3b75c449a3f43d23"
+  },
+  {
+   "id": "BRD-0970/duke-limited-edition",
+   "name": "HappieWatch The Duke Watch",
+   "url": "https://happiewatch.com/products/duke-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0012.jpg?v=1755754872",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0012.jpg?v=1755754872",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0029.jpg?v=1755754875",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Bulldog-Duke-HappieWatch-1624608880.jpg?v=1755754858",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Bulldog-Duke-HappieWatch-1624430013.jpg?v=1755754858",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Bulldog-Duke-HappieWatch-1624343696.jpg?v=1755754858",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Bulldog-Duke-HappieWatch-1624429874.jpg?v=1755754858",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Bulldog-Duke-HappieWatch-1624343694.jpg?v=1755754858",
+     "width": 1000,
+     "height": 1000
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Enjoy the fun moment with HappieWatch-Bulldog Duke on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "ANIMAL",
+    "bulldog",
+    "half-brown",
+    "half-white",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch",
+    "red ear"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36mm Leather Strap",
+      "41mm Leather Strap",
+      "36mm Metal Strap",
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Leather Strap",
+     "sku": "HN104F2FDV06HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "HN104F3FDV06HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "HN104F2FDM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Metal Strap",
+     "sku": "HN104F3FDM00HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day3",
+    "BRD-0970/featured-watches",
+    "BRD-0970/test",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "dff70eab6920e146"
+  },
+  {
+   "id": "BRD-0970/cody-limited-edition",
+   "name": "HappieWatch Dawn Owl – A Symbol of Calm Wisdom and New Beginnings",
+   "url": "https://happiewatch.com/products/cody-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_cdbc0ad2-2546-4c83-bc36-8a4e1ba53de5.jpg?v=1774637221",
+    "width": 1600,
+    "height": 1600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_cdbc0ad2-2546-4c83-bc36-8a4e1ba53de5.jpg?v=1774637221",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/35.jpg?v=1774637379",
+     "width": 1618,
+     "height": 2426
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Owl-Cody-HappieWatch-1623160085.jpg?v=1774637356",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Owl-Cody-HappieWatch-1624428463.jpg?v=1774637356",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Owl-Cody-HappieWatch-1623160080.jpg?v=1774637356",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Owl-Cody-HappieWatch-1624344921.jpg?v=1774637356",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Owl-Cody-HappieWatch-1624344924.jpg?v=1774637356",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/owl_660f247c-9ea5-4341-bdfe-e1e190fcb42a.jpg?v=1774637356",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_1fc085de-2868-44b2-8bb2-e7a409191981.jpg?v=1774637356",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_f3552d2e-cbde-467a-a192-6b0ed8f983a7.jpg?v=1774637356",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_2bf0265e-b126-4fc1-9f09-2776dcc2c446.jpg?v=1774637356",
+     "width": 1600,
+     "height": 1600
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "ANIMAL",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36x33mm Leather Strap",
+      "41x39mm Leather Strap",
+      "36x33mm Metal Strap",
+      "41x39mm  Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36x33mm Leather Strap",
+     "sku": "HN002FFYDV04HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36x33mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41x39mm Leather Strap",
+     "sku": "HN104F3YDV06HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41x39mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36x33mm Metal Strap",
+     "sku": "HN002FFYDM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36x33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41x39mm  Metal Strap",
+     "sku": "HN104F3YDM00HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41x39mm  Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day3",
+    "BRD-0970/featured-watches",
+    "BRD-0970/test",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "39f6b1d13426a904"
+  },
+  {
+   "id": "BRD-0970/ginger-limited-edition",
+   "name": "HappieWatch The Ginger Cat A Fiery Orange-Red Watch",
+   "url": "https://happiewatch.com/products/ginger-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0024.jpg?v=1755746938",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0024.jpg?v=1755746938",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0042.jpg?v=1755746942",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0007.jpg?v=1755746945",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0026.jpg?v=1755746948",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/ginger.jpg?v=1755746929",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Ginger-Cat-HappieWatch-1624428493.jpg?v=1755746929",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Ginger-Cat-HappieWatch-1623160088.jpg?v=1755746929",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Ginger-Cat-HappieWatch-1623160107.jpg?v=1755746929",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Ginger-Cat-HappieWatch-1623160181.jpg?v=1755746929",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Ginger-Cat-HappieWatch-1623160149.jpg?v=1755746929",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Ginger-Cat-HappieWatch-1623160203.jpg?v=1755746929",
+     "width": 2473,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "ANIMAL",
+    "cutie",
+    "ginger cat",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36*33mm Leather Strap",
+      "41*39mm Leather Strap",
+      "36*33mm Metal Strap",
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36*33mm Leather Strap",
+     "sku": "HN104F2JMV01HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Leather Strap",
+     "sku": "HN104F3JMV01HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36*33mm Metal Strap",
+     "sku": "HN104F2JMM01HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36*33mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41*39mm Metal Strap",
+     "sku": "HN104F3JMM01HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41*39mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day3",
+    "BRD-0970/test",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "744bc57acf67da04"
+  },
+  {
+   "id": "BRD-0970/the-tyrant-dragon-watch",
+   "name": "HappieWatch The Tyrant Dragon Watch",
+   "url": "https://happiewatch.com/products/the-tyrant-dragon-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_1_1fdfd5fd-80cd-4bd9-bee1-d11ad8c60fbb.jpg?v=1762293649",
+    "width": 1600,
+    "height": 1600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_1_1fdfd5fd-80cd-4bd9-bee1-d11ad8c60fbb.jpg?v=1762293649",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Top-Seller-Dragon-HappieWatch-34326195.jpg?v=1774566653",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/2_1_405c21ef-a098-4843-9e6e-758ef316e3ca.jpg?v=1774566653",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_1_d692fc71-ca2c-4ad9-b074-833b29b57674.jpg?v=1774566653",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/1_75029e9e-179c-41c7-92f1-5a7607d9820c.png?v=1774566653",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Top-Seller-Dragon-HappieWatch-34325743.jpg?v=1774566653",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Top-Seller-Dragon-HappieWatch-34325891.jpg?v=1774566653",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Top-Seller-Dragon-HappieWatch-34325911.jpg?v=1774566653",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Top-Seller-Dragon-HappieWatch-34326037.jpg?v=1774566653",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Top-Seller-Dragon-HappieWatch-34326541.jpg?v=1762293649",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Top-Seller-Dragon-HappieWatch-34326667.jpg?v=1762293649",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/Top-Seller-Dragon-HappieWatch-34326974.jpg?v=1762293649",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Enjoy the fun moment with HappieWatch-Dragon on your wrist. Watches inspired by street fashion.",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "China",
+    "clouds",
+    "Dragon",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch",
+    "MYTHHOLOGY",
+    "Oriental Myth"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "41mm Metal Strap",
+      "36mm Metal Strap",
+      "41mm Leather Strap",
+      "36mm Leather Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "41mm Metal Strap",
+     "sku": "HN104F3CLM01HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "HN104F2CLM01HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "HN104F3CLV01HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Leather Strap",
+     "sku": "HN104F2CLV01HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "be2dda9bc8e95f8e"
+  },
+  {
+   "id": "BRD-0970/happiewatch-snake-viper-limited-edition-unisex-watch",
+   "name": "HappieWatch Silver Serpent Watch",
+   "url": "https://happiewatch.com/products/happiewatch-snake-viper-limited-edition-unisex-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0011.jpg?v=1755748460",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0011.jpg?v=1755748460",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/0028.jpg?v=1755748464",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/snake_6bc572a9-04a9-452f-81ea-215622cb0abe.jpg?v=1755748447",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Snake-Viper-HappieWatch-1624428303.jpg?v=1755748447",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Snake-Viper-HappieWatch-1623160042.jpg?v=1755748447",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Snake-Viper-HappieWatch-1624345095.jpg?v=1755748447",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Snake-Viper-HappieWatch-1624345123.jpg?v=1755748447",
+     "width": 800,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/HappieWatch---Snake-Viper-HappieWatch-1623160062.jpg?v=1755748447",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/products/snake_1b54258b-a385-4193-ad2a-33b11e4d64b9.jpg?v=1755748447",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/image00001.jpg?v=1774566347",
+     "width": 1536,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/image00006.jpg?v=1774566349",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/files/image00010.jpg?v=1774566353",
+     "width": 2883,
+     "height": 3907
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": "watch",
+   "tags": [
+    "2021.03",
+    "2021622",
+    "happie watch",
+    "happiewatch",
+    "happy watch",
+    "happywatch",
+    "MYTHOLOGY"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "36mm Leather Strap",
+      "41mm Leather Strap",
+      "36mm Metal Strap",
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "36mm Leather Strap",
+     "sku": "HS012FFLSV06HW",
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Leather Strap"
+     ]
+    },
+    {
+     "title": "41mm Leather Strap",
+     "sku": "HN104F3LSV06HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Leather Strap"
+     ]
+    },
+    {
+     "title": "36mm Metal Strap",
+     "sku": "HS012FFLSM00HW",
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "36mm Metal Strap"
+     ]
+    },
+    {
+     "title": "41mm Metal Strap",
+     "sku": "HN104F3LSM00HW",
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "41mm Metal Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Free Standard Shipping": "US$99+; US$20 under US$99",
+    "Complimentary Silicone Strap Included": "One 270 × 20 mm strap per watch. Red or Orange, selected by HappieWatch based on availability. Not sold separately."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:24:21.752Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:24:21.752Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0970/20240116",
+    "BRD-0970/fashion-essentials",
+    "BRD-0970/fathers-day",
+    "BRD-0970/featured-watches",
+    "BRD-0970/trending-now",
+    "BRD-0970/best-sale"
+   ],
+   "hash": "a81ca3b631ffae26"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0970/20240111",
+   "name": "20240111首页展示",
+   "url": "https://happiewatch.com/collections/20240111首页展示",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0970/20240116",
+   "name": "20240116首页展示",
+   "url": "https://happiewatch.com/collections/20240116首页展示",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0970/fashion-essentials",
+   "name": "Couples Wristwatch",
+   "url": "https://happiewatch.com/collections/fashion-essentials",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0970/fathers-day",
+   "name": "Father's Day",
+   "url": "https://happiewatch.com/collections/fathers-day",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0970/fathers-day2",
+   "name": "Father's Day2",
+   "url": "https://happiewatch.com/collections/fathers-day2",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0970/fathers-day3",
+   "name": "Father's Day3",
+   "url": "https://happiewatch.com/collections/fathers-day3",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0970/featured-watches",
+   "name": "Featured Collection",
+   "url": "https://happiewatch.com/collections/featured-watches",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0477/6699/5109/collections/banner.jpg?v=1628488951",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0970/test",
+   "name": "test",
+   "url": "https://happiewatch.com/collections/test",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0970/trending-now",
+   "name": "Trending Now",
+   "url": "https://happiewatch.com/collections/trending-now",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0970/best-sale",
+   "name": "Unique Watches for Those Who Refuse the Ordinary",
+   "url": "https://happiewatch.com/collections/best-sale",
+   "description": null,
+   "image": null
+  }
+ ]
+}

@@ -1,0 +1,2803 @@
+{
+ "brandId": "BRD-0185",
+ "brandName": "DONE",
+ "website": "https://www.donewatches.ch",
+ "crawledAt": "2026-11-01T07:02:26.275Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.donewatches.ch/cdn/shop/files/Done_Logo_Black.png?v=1769502727",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.donewatches.ch/en"
+ },
+ "attribution": "Images © DONE, from donewatches.ch",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0185/mechanica-f03",
+   "name": "F03",
+   "url": "https://www.donewatches.ch/products/mechanica-f03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F03_Bra_Metal.png?v=1773409326",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F03_Bra_Metal.png?v=1773409326",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F03_FKM_Noir.png?v=1773409326",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/Done_F03_Black4_copy_44c43614-a3d6-4bc1-a810-96260ba39a09.webp?v=1790763084",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/Done_F03_Black_copy.webp?v=1790762968",
+     "width": 3600,
+     "height": 3600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F03_Cuir_Vintage_Noir.png?v=1773409326",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F03_Tissu_Noir.png?v=1773409326",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F03_Pose_Table_2_Carre_copy.webp?v=1790763491",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 181350,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Caoutchouc noir",
+      "Cuir noir",
+      "Bracelet métal PVD noir",
+      "Tissu Noir"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME2A-F03/R1D",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME2A-F03/L4D",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Bracelet métal PVD noir",
+     "sku": "ME2A-F03/M2",
+     "priceMinor": 185070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet métal PVD noir"
+     ]
+    },
+    {
+     "title": "Tissu Noir",
+     "sku": "ME2A-F03/F1A",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tissu Noir"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.8,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Black rubber Bracelet Black rubber Black leather Metal band with black PVD Black fabric",
+    "Diameter": "ø40mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "11.30mm",
+    "Lug-to-lug": "48.80mm",
+    "Lug width": "20mm",
+    "Dial & flange finish": "Sapphire - Opal black",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive numbering",
+    "Movement": "Soprod P024 skeleton black",
+    "Power reserve": "38 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/squelette-auto-40mm"
+   ],
+   "hash": "59d9de9f5f36f6ba"
+  },
+  {
+   "id": "BRD-0185/mechanica-chrono-nine-in-ten",
+   "name": "NINE IN TEN",
+   "url": "https://www.donewatches.ch/products/mechanica-chrono-nine-in-ten",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/NINE-IN-TEN_FKM_Noir.png?v=1773418468",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/NINE-IN-TEN_FKM_Noir.png?v=1773418468",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/NINE-IN-TEN_Studio_3Quarts_Pres_DONE_302ac008-18e2-4862-9eb2-7ad8993dfac6.jpg?v=1780010870",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/NINE-IN-TEN_Studio_3Quarts_Back_1.jpg?v=1773423388",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/NINE_IN_TEN_CLEARLY_1.jpg?v=1780320872",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/NINE-IN-TEN_Cuir_Vintage_Noir.png?v=1773423388",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/NINE-IN-TEN_Bra_Metal.png?v=1773423388",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 460350,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Référence ME4A-01/R1D",
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Caoutchouc noir",
+      "Bracelet métal",
+      "Cuir noir"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME4A-01/R1D",
+     "priceMinor": 460350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    },
+    {
+     "title": "Bracelet métal",
+     "sku": "ME4A-01/M1",
+     "priceMinor": 464070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet métal"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME4A-01/L4D",
+     "priceMinor": 460350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Black rubber Bracelet Black rubber Metal band Black leather",
+    "Diameter": "ø40mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "14.20mm (9.25mm without ice)",
+    "Lug-to-lug": "48.70mm",
+    "Lug width": "20mm",
+    "Dial & flange finish": "Sapphire - Opal black",
+    "Crystal": "\"Box\" sapphire crystal with anti-reflective coating",
+    "Case back": "Open and screwable with consecutive numbering",
+    "Movement": "The Joux-Perret L111 modified \"DONE\"",
+    "Power reserve": "60 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination.",
+    "NINE IN TEN": "the ninth project for the brand's tenth anniversary",
+    "In the foreground": "the column wheel, the silent architect of every chronograph trigger."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/chrono-nine-in-ten"
+   ],
+   "hash": "5bf1c4bced14fd35"
+  },
+  {
+   "id": "BRD-0185/superluminova-c2-ae",
+   "name": "Superluminova®",
+   "url": "https://www.donewatches.ch/products/superluminova®",
+   "image": null,
+   "images": [],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "BGW9 - Grade A",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2099f22d261accec"
+  },
+  {
+   "id": "BRD-0185/mechanica-b03",
+   "name": "B03",
+   "url": "https://www.donewatches.ch/products/mechanica-b03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_FKM_Bleu.png?v=1774460833",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_FKM_Bleu.png?v=1774460833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_FKM_Noir.png?v=1774460833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_FKM_Blanc.png?v=1774460833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_Alli_Noir.png?v=1774460833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_Alli_Marron.png?v=1774460833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_Rub_Dos_Studio_1.jpg?v=1775928804",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_FKM_Noir_1-1.jpg?v=1775928804",
+     "width": 1762,
+     "height": 1762
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_Rubber_Bleu_Studio_1-1.jpg?v=1775928687",
+     "width": 1125,
+     "height": 1125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_FKM_Bleu_1-1.jpg?v=1775928804",
+     "width": 1762,
+     "height": 1762
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/MECHANICA_B03_Nuit.jpg?v=1775928804",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_Alli_Noir_1-1.jpg?v=1775928687",
+     "width": 2001,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B03_Alli_Brun_1-1.jpg?v=1775928687",
+     "width": 2001,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 371535,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Caoutchouc bleu",
+      "Caoutchouc noir",
+      "Caoutchouc blanc",
+      "Cuir brun imitation alligator",
+      "Cuir noir imitation alligator"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Caoutchouc bleu",
+     "sku": "ME1T-B03/R2D",
+     "priceMinor": 371535,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc bleu"
+     ]
+    },
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME1T-B03/R1D",
+     "priceMinor": 371535,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    },
+    {
+     "title": "Caoutchouc blanc",
+     "sku": "ME1T-B03/R3D",
+     "priceMinor": 371535,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc blanc"
+     ]
+    },
+    {
+     "title": "Cuir brun imitation alligator",
+     "sku": "ME1T-B03/L3D",
+     "priceMinor": 371535,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir brun imitation alligator"
+     ]
+    },
+    {
+     "title": "Cuir noir imitation alligator",
+     "sku": "ME1T-B03/L1D",
+     "priceMinor": 371535,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir imitation alligator"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 43.8,
+    "lugWidthMm": 22,
+    "lugToLugMm": 51.6,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "ETA 6497-1",
+    "movementType": null,
+    "powerReserveH": 46,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": "silver",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Blue rubber Bracelet Blue rubber Black rubber White rubber Brown alligator-embossed leather Black alligator-embossed leather",
+    "Diameter": "ø43.80mm",
+    "Material": "Titanium Grade 5",
+    "Case thickness": "10.90mm",
+    "Lug-to-lug": "51.60mm",
+    "Lug width": "22mm",
+    "Dial & flange finish": "Silver opaline highlight",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive number",
+    "Movement": "Modified ETA 6497-1 \"DONE\"",
+    "Power reserve": "46 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather watch roll for 3 watches",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-manuel"
+   ],
+   "hash": "02e64128221790a0"
+  },
+  {
+   "id": "BRD-0185/mechanica-b02",
+   "name": "B02",
+   "url": "https://www.donewatches.ch/products/mechanica-b02",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Cuir_Microperfore.png?v=1773646935",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Cuir_Microperfore.png?v=1773646935",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Alli_Noir.png?v=1775053455",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Cuir_Noir-Rouge.png?v=1775053455",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_FKM_Noir.png?v=1773646935",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Cuir_Alli_Life_1.jpg?v=1774361860",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Cuir_Alli_Back_1.jpg?v=1774361862",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Cuir_Surpiqures_Rouges_Flan.jpg?v=1774361861",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Rub_Noir_Poignet_1.jpg?v=1774361862",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Rub_Noir_Pose_Flan_Carre.jpg?v=1774361861",
+     "width": 2000,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Cuir_Surpiqures_Rouges_Poignet.jpg?v=1774363312",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/B02_Cuir_Microperf_Flan.jpg?v=1774430920",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 325035,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir noir microperforé rouge",
+      "Cuir noir imitation alligator",
+      "Cuir noir surpiqures rouges",
+      "Caoutchouc noir"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir noir microperforé rouge",
+     "sku": "ME1T-B02-1/L6D",
+     "priceMinor": 325035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir microperforé rouge"
+     ]
+    },
+    {
+     "title": "Cuir noir imitation alligator",
+     "sku": "ME1T-B02-1/L1D",
+     "priceMinor": 325035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir imitation alligator"
+     ]
+    },
+    {
+     "title": "Cuir noir surpiqures rouges",
+     "sku": "ME1T-B02-1/L7D",
+     "priceMinor": 325035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir surpiqures rouges"
+     ]
+    },
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME1T-B02-1/R1D",
+     "priceMinor": 325035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 43.8,
+    "lugWidthMm": 22,
+    "lugToLugMm": 51.6,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "ETA 6497-1",
+    "movementType": null,
+    "powerReserveH": 46,
+    "caseMaterial": "titanium_gr5",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Black micro-perforated leather with red stitching Bracelet Black micro-perforated leather with red stitching Black alligator-embossed leather Black leather with red topstitching Black rubber",
+    "Diameter": "ø43.80mm",
+    "Material": "Titanium Grade 5",
+    "Case thickness": "10.90mm",
+    "Lug-to-lug": "51.60mm",
+    "Lug width": "22mm",
+    "Dial & flange finish": "Opal black rehaut",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive number",
+    "Movement": "Modified ETA 6497-1 \"DONE\"",
+    "Power reserve": "46 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-manuel"
+   ],
+   "hash": "74cc1eead0873cb1"
+  },
+  {
+   "id": "BRD-0185/mechanica-f02",
+   "name": "F02",
+   "url": "https://www.donewatches.ch/products/mechanica-f02",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F02_FKM_Noir.png?v=1773409227",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F02_FKM_Noir.png?v=1773409227",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F02_CloseUp_1_copy.webp?v=1790962813",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F02_Bra_Metal.png?v=1773409227",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F02_Cuir_Vintage_Noir.png?v=1773409227",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F02_Tissu_Noir.png?v=1773409227",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 181350,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Caoutchouc noir",
+      "Cuir noir",
+      "Tissu Noir",
+      "Bracelet métal"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME2A-F02/R1D",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME2A-F02/L4D",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Tissu Noir",
+     "sku": "ME2A-F02/F1A",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tissu Noir"
+     ]
+    },
+    {
+     "title": "Bracelet métal",
+     "sku": "ME2A-F02/M1",
+     "priceMinor": 185070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet métal"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.8,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Black rubber Bracelet Black rubber Black leather Black fabric Metal band",
+    "Diameter": "Ø40mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "11.30mm",
+    "Lug-to-lug": "48.80mm",
+    "Lug width": "20mm",
+    "Dial & flange finish": "Sapphire - Opal Black",
+    "Crystal": "Sapphire with anti-glare coating",
+    "Case back": "Open and screwed with consecutive numbering",
+    "Movement": "Soprod P024 skeleton black",
+    "Power reserve": "38 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 working days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 working days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/squelette-auto-40mm"
+   ],
+   "hash": "34df7096ebf09b08"
+  },
+  {
+   "id": "BRD-0185/mechanica-e04",
+   "name": "E04",
+   "url": "https://www.donewatches.ch/products/mechanica-e04",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E04_Milanais.png?v=1774940387",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E04_Milanais.png?v=1774940387",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E04_Satin_Noir.png?v=1774940387",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E04_Cuir_Vintage_Noir.png?v=1774940454",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E04_Cuir_Classique_Noir.png?v=1774940454",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 139035,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "La MECHANICA E04 incarne l’alliance parfaite entre le design raffiné et la précision horlogère suisse. Son mouvement squelette automatique, Swiss Made, dévoile un mécanisme sophistiqué qui fascine au premier regard. Dotée d’un boîtier en acier inoxydable 316L, cette montre est conçue pour résister au temps tout en offrant un style intemporel.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Milanais acier doré",
+      "Satin noir",
+      "Cuir noir",
+      "Cuir noir classique"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Milanais acier doré",
+     "sku": "ME3A-E04/M4",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Milanais acier doré"
+     ]
+    },
+    {
+     "title": "Satin noir",
+     "sku": "ME3A-E04/S3A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Satin noir"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME3A-E04/L4A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Cuir noir classique",
+     "sku": "ME3A-E04/L8A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir classique"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 43.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "skeleton",
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "Bracelet": "Rose gold-tone mesh bracelet Bracelet Rose gold-tone mesh bracelet Black satin Black leather Black classic leather",
+    "Diameter": "Ø35mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "10.60mm",
+    "Lug-to-lug": "43.70mm",
+    "Lug width": "18mm",
+    "Dial & flange finish": "Skeleton - Opal Black",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive numbering",
+    "Movement": "Soprod P024 skeleton black",
+    "Power reserve": "38 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-squelette-auto-35"
+   ],
+   "hash": "32b92464ce55db94"
+  },
+  {
+   "id": "BRD-0185/mechanica-e03",
+   "name": "E03",
+   "url": "https://www.donewatches.ch/products/mechanica-e03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E03_Satin_Blanc.png?v=1774940346",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E03_Satin_Blanc.png?v=1774940346",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E03_Cuir_Vintage_Brun.png?v=1774940346",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E03_Cuir_Classique_Blanc.png?v=1774940346",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E03_Milanais.png?v=1774940346",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 139035,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "La MECHANICA E03 incarne l’alliance parfaite entre le design raffiné et la précision horlogère suisse. Son mouvement squelette automatique, Swiss Made, dévoile un mécanisme sophistiqué qui fascine au premier regard. Dotée d’un boîtier en acier inoxydable 316L, cette montre est conçue pour résister au temps tout en offrant un style intemporel.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Satin blanc",
+      "Cuir brun",
+      "Cuir blanc classique",
+      "Milanais acier doré"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Satin blanc",
+     "sku": "ME3A-E03/S1A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Satin blanc"
+     ]
+    },
+    {
+     "title": "Cuir brun",
+     "sku": "ME3A-E03/L3A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir brun"
+     ]
+    },
+    {
+     "title": "Cuir blanc classique",
+     "sku": "ME3A-E03/L9A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir blanc classique"
+     ]
+    },
+    {
+     "title": "Milanais acier doré",
+     "sku": "ME3A-E03/M4",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Milanais acier doré"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 43.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "skeleton",
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "Bracelet": "White satin Bracelet White satin Brown leather White classic leather Rose gold-tone mesh bracelet",
+    "Diameter": "Ø35mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "10.60mm",
+    "Lug-to-lug": "43.70mm",
+    "Lug width": "18mm",
+    "Dial & flange finish": "Skeleton - Opaline white",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and secured with a consecutive number",
+    "Movement": "Soprod P024 skeleton silver-plated",
+    "Power reserve": "38 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-squelette-auto-35"
+   ],
+   "hash": "7e80bd8ed346035d"
+  },
+  {
+   "id": "BRD-0185/mechanica-e01",
+   "name": "E01",
+   "url": "https://www.donewatches.ch/products/mechanica-e01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E01_Satin_Blanc.png?v=1774940084",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E01_Satin_Blanc.png?v=1774940084",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E01_Cuir_Vintage_Brun.png?v=1774940084",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E01_Cuir_Classique_Blanc.png?v=1774940084",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E01_Milanais.png?v=1774940084",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 139035,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "La MECHANICA E01 incarne l’alliance parfaite entre le design raffiné et la précision horlogère suisse. Son mouvement squelette automatique, Swiss Made, dévoile un mécanisme sophistiqué qui fascine au premier regard. Dotée d’un boîtier en acier inoxydable 316L, cette montre est conçue pour résister au temps tout en offrant un style intemporel.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Satin blanc",
+      "Cuir brun",
+      "Cuir blanc classique",
+      "Milanais acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Satin blanc",
+     "sku": "ME3A-E01/S1A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Satin blanc"
+     ]
+    },
+    {
+     "title": "Cuir brun",
+     "sku": "ME3A-E01/L3A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir brun"
+     ]
+    },
+    {
+     "title": "Cuir blanc classique",
+     "sku": "ME3A-E01/L9A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir blanc classique"
+     ]
+    },
+    {
+     "title": "Milanais acier",
+     "sku": "ME3A-E01/M3",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Milanais acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 43.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "skeleton",
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "Bracelet": "White satin Bracelet White satin Brown leather White classic leather S-Steel mesh band",
+    "Diameter": "Ø35mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "10.60mm",
+    "Lug-to-lug": "43.70mm",
+    "Lug width": "18mm",
+    "Dial & flange finish": "Skeleton - Opal White",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive number",
+    "Movement": "Soprod P024 skeleton silver-plated",
+    "Power reserve": "38 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-squelette-auto-35"
+   ],
+   "hash": "1fdc0fc094181879"
+  },
+  {
+   "id": "BRD-0185/mechanica-d04",
+   "name": "D04",
+   "url": "https://www.donewatches.ch/products/mechanica-d04",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D04_Satin_Gris.png?v=1774939333",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D04_Satin_Gris.png?v=1774939333",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D04_Cuir_Vintage_Noir.png?v=1774939333",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D04_Cuir_Classique_Noir.png?v=1774939292",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D04_Milanais.png?v=1774939292",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 82770,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Satin gris",
+      "Cuir noir",
+      "Cuir noir classique",
+      "Milanais acier doré"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Satin gris",
+     "sku": "ME3A-D04/S2A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Satin gris"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME3A-D04/L4A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Cuir noir classique",
+     "sku": "ME3A-D04/L8A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir classique"
+     ]
+    },
+    {
+     "title": "Milanais acier doré",
+     "sku": "ME3A-D04/M4",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Milanais acier doré"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 43.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "Bracelet": "Grey satin Bracelet Grey satin Black leather Black classic leather Rose gold-tone mesh bracelet",
+    "Diameter": "Ø35mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "10.60mm",
+    "Lug-to-lug": "43.70mm",
+    "Lug width": "18mm",
+    "Dial & flange finish": "Sun-drenched anthracite - Opalescent anthracite",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive number",
+    "Movement": "Sellita SW200-1",
+    "Power reserve": "41 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-auto-35"
+   ],
+   "hash": "a28fcb8ba0f66891"
+  },
+  {
+   "id": "BRD-0185/mechanica-d03",
+   "name": "D03",
+   "url": "https://www.donewatches.ch/products/mechanica-d03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D03_Milanais.png?v=1774939233",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D03_Milanais.png?v=1774939233",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D03_Satin_Blanc.png?v=1774939233",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D03_Cuir_Vintage_Brun.png?v=1774939233",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D03_Cuir_Classique_Blanc.png?v=1774939233",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 82770,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Milanais acier doré",
+      "Satin blanc",
+      "Cuir brun",
+      "Cuir blanc classique"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Milanais acier doré",
+     "sku": "ME3A-D03/M4",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Milanais acier doré"
+     ]
+    },
+    {
+     "title": "Satin blanc",
+     "sku": "ME3A-D03/S1A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Satin blanc"
+     ]
+    },
+    {
+     "title": "Cuir brun",
+     "sku": "ME3A-D03/L3A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir brun"
+     ]
+    },
+    {
+     "title": "Cuir blanc classique",
+     "sku": "ME3A-D03/L9A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir blanc classique"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 43.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "Bracelet": "Rose gold-tone mesh bracelet Bracelet Rose gold-tone mesh bracelet White satin Brown leather White classic leather",
+    "Diameter": "Ø35mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "10.60mm",
+    "Lug-to-lug": "43.70mm",
+    "Lug width": "18mm",
+    "Dial & flange finish": "White mother-of-pearl - Opaline white",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive number",
+    "Movement": "Sellita SW200-1",
+    "Power reserve": "41 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-auto-35"
+   ],
+   "hash": "b5b741ab48b6dd2b"
+  },
+  {
+   "id": "BRD-0185/mechanica-d02",
+   "name": "D02",
+   "url": "https://www.donewatches.ch/products/mechanica-d02",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D02_Satin_Noir_fb46783d-aa3f-4af5-b7ef-3e54d4b1e0b0.png?v=1774939156",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D02_Satin_Noir_fb46783d-aa3f-4af5-b7ef-3e54d4b1e0b0.png?v=1774939156",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D02_Cuir_Vintage_Noir_0b8d0fd3-a156-4a08-805d-ecb05fbe146b.png?v=1774939156",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D02_Cuir_Classique_Noir_8542122d-1ded-43d9-9e2b-2d462cdeccea.png?v=1774939156",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D02_Milanais_34fd4f5c-5efd-46c8-b383-37cc7ebb682e.png?v=1774939156",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 82770,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Satin noir",
+      "Cuir noir",
+      "Cuir noir classique",
+      "Milanais acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Satin noir",
+     "sku": "ME3A-D02/S3A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Satin noir"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME3A-D02/L4A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Cuir noir classique",
+     "sku": "ME3A-D02/L8A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir classique"
+     ]
+    },
+    {
+     "title": "Milanais acier",
+     "sku": "ME3A-D02/M3",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Milanais acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 43.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "Bracelet": "Black satin Bracelet Black satin Black leather Black classic leather S-Steel mesh band",
+    "Diameter": "Ø35mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "10.60mm",
+    "Lug-to-lug": "43.70mm",
+    "Lug width": "18mm",
+    "Dial & flange finish": "Gloss black - Opal black",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive number",
+    "Movement": "Sellita SW200-1",
+    "Power reserve": "41 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (strap change without tools)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-auto-35"
+   ],
+   "hash": "eafc282d44363e64"
+  },
+  {
+   "id": "BRD-0185/mechanica-d01",
+   "name": "D01",
+   "url": "https://www.donewatches.ch/products/mechanica-d01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D01_Satin_Blanc.png?v=1774881690",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D01_Satin_Blanc.png?v=1774881690",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D01_Cuir_Vintage_Brun.png?v=1774881690",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D01_Cuir_Classique_Blanc.png?v=1774881690",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D01_Milanais.png?v=1774881690",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/Mechanica_Auto_35_d01.webp?v=1790975413",
+     "width": 2300,
+     "height": 2300
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D01_Satin_Banac_Life2.jpg?v=1774881690",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D01_Cuir_Brun_Life1.jpg?v=1774881690",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/D01_Cuir_Brun_Life2.jpg?v=1774881690",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 82770,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Satin blanc",
+      "Cuir brun",
+      "Cuir blanc classique",
+      "Milanais acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Satin blanc",
+     "sku": "ME3A-D01/S1A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Satin blanc"
+     ]
+    },
+    {
+     "title": "Cuir brun",
+     "sku": "ME3A-D01/L3A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir brun"
+     ]
+    },
+    {
+     "title": "Cuir blanc classique",
+     "sku": "ME3A-D01/L9A",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir blanc classique"
+     ]
+    },
+    {
+     "title": "Milanais acier",
+     "sku": "ME3A-D01/M3",
+     "priceMinor": 82770,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Milanais acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 43.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "Bracelet": "White satin Bracelet White satin Brown leather White classic leather S-Steel mesh band",
+    "Diameter": "Ø35mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "10.60mm",
+    "Lug-to-lug": "43.70mm",
+    "Lug width": "18mm",
+    "Dial & flange finish": "White mother-of-pearl - Opalescent white",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Opened and screwed with consecutive numbering",
+    "Movement": "Sellita SW200-1",
+    "Power reserve": "41 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (strap change without tools)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-auto-35"
+   ],
+   "hash": "35e1efb5f951996a"
+  },
+  {
+   "id": "BRD-0185/mechanica-c04",
+   "name": "C04",
+   "url": "https://www.donewatches.ch/products/mechanica-c04",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_Cuir_Vintage_Brun_fac90fdc-72e7-46ea-aead-638b4ef5ce71.png?v=1773822879",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_Cuir_Vintage_Brun_fac90fdc-72e7-46ea-aead-638b4ef5ce71.png?v=1773822879",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_Bra_Metal.png?v=1773822879",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_Cuir_Vintage_Noir.png?v=1773822879",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_FKM_Noir.png?v=1773822879",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_Cuir_Brun_Wrist.jpg?v=1774269358",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_Cuir_Noir_Wrist.jpg?v=1774269358",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_FKM_Noir_Wrist.jpg?v=1774269357",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C04_Metal_Wrist.jpg?v=1774269358",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 92070,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "La MECHANICA C04 Auto 40mm combine design classique intemporel et bracelets interchangeables pour s’adapter à chaque moment du quotidien.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir brun",
+      "Bracelet métal",
+      "Cuir noir",
+      "Caoutchouc noir"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir brun",
+     "sku": "ME2A-C04/L3A",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir brun"
+     ]
+    },
+    {
+     "title": "Bracelet métal",
+     "sku": "ME2A-C04/M1",
+     "priceMinor": 95790,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet métal"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME2A-C04/L4D",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME2A-C04/R1D",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.8,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW400-1",
+    "movementType": null,
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Brown leather Bracelet Brown leather Metal band Black leather Black rubber",
+    "Diameter": "ø40mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "11.30mm",
+    "Lug-to-lug": "48.80mm",
+    "Lug width": "20mm",
+    "Dial & flange finish": "Sun-bleached anthracite - Opal anthracite",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Opened and screwed with consecutive numbering",
+    "Movement": "Sellita SW400-1",
+    "Power reserve": "41 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (strap change without tools)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-auto"
+   ],
+   "hash": "e6f0de088f33f194"
+  },
+  {
+   "id": "BRD-0185/mechanica-c03",
+   "name": "C03",
+   "url": "https://www.donewatches.ch/products/mechanica-c03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_Tissu_Bleu.png?v=1773408893",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_Tissu_Bleu.png?v=1773408893",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_Tissu_Bleu_Life_5.jpg?v=1774001066",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_FKM_Bleu_Wrist.jpg?v=1774269269",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_Bra_Metal.png?v=1774029434",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_FKM_Bleu.png?v=1774029434",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_Cuir_Vintage_Brun.png?v=1774029434",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_Cuir_Brun_Wrist.jpg?v=1774269270",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_Metal_Wrist.jpg?v=1774269270",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C03_Tissu_Bleu_Wrist.jpg?v=1774269270",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 92070,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "La MECHANICA C03 Auto 40mm combine design classique intemporel et bracelets interchangeables pour s’adapter à chaque moment du quotidien.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Tissu Bleu",
+      "Cuir brun",
+      "Bracelet métal",
+      "Caoutchouc bleu"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Tissu Bleu",
+     "sku": "ME2A-C03/F2A",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tissu Bleu"
+     ]
+    },
+    {
+     "title": "Cuir brun",
+     "sku": "ME2A-C03/L3A",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir brun"
+     ]
+    },
+    {
+     "title": "Bracelet métal",
+     "sku": "ME2A-C03/M1",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet métal"
+     ]
+    },
+    {
+     "title": "Caoutchouc bleu",
+     "sku": "ME2A-C03/R2D",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc bleu"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.8,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW400-1",
+    "movementType": null,
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Blue fabric Bracelet Blue fabric Brown leather Metal band Blue rubber",
+    "Diameter": "ø40mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "11.30mm",
+    "Lug-to-lug": "48.80mm",
+    "Lug width": "20mm",
+    "Dial & flange finish": "Sun-drenched blue - Opal blue",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Opened and screwed with consecutive numbering",
+    "Movement": "Sellita SW400-1",
+    "Power reserve": "41 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (strap change without tools)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-auto"
+   ],
+   "hash": "8135ca8faf2db44b"
+  },
+  {
+   "id": "BRD-0185/mechanica-c02",
+   "name": "C02",
+   "url": "https://www.donewatches.ch/products/mechanica-c02",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_Cuir_Vintage_Noir.png?v=1773408823",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_Cuir_Vintage_Noir.png?v=1773408823",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_Caoutchouc_Noir.png?v=1774270167",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_Bra_Metal.png?v=1774270167",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_Tissu_Noir.png?v=1773408823",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_FKM_Noir_Wrist.jpg?v=1774269178",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_Tissu_Noir_Wrist.jpg?v=1774269177",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_Cuir_Noir_Wrist.jpg?v=1774269178",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C02_Metal_Wrist.jpg?v=1774269179",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 92070,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "La MECHANICA C02 Auto 40mm combine design classique intemporel et bracelets interchangeables pour s’adapter à chaque moment du quotidien.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir noir",
+      "Bracelet métal",
+      "Caoutchouc noir",
+      "Tissu Noir"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir noir",
+     "sku": "ME2A-C02/L4D",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Bracelet métal",
+     "sku": "ME2A-C02/M1",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet métal"
+     ]
+    },
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME2A-C02/R1D",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    },
+    {
+     "title": "Tissu Noir",
+     "sku": "ME2A-C02/F1A",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tissu Noir"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.8,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW400-1",
+    "movementType": null,
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Black leather Bracelet Black leather Metal band Black rubber Black fabric",
+    "Diameter": "ø40mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "11.30mm",
+    "Lug-to-lug": "48.80mm",
+    "Lug width": "20mm",
+    "Dial & flange finish": "Sunburst Black - Opal Black",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive numbering",
+    "Movement": "Sellita SW400-1",
+    "Power reserve": "41 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-auto"
+   ],
+   "hash": "a1c88d12ac9edbc5"
+  },
+  {
+   "id": "BRD-0185/mechanica-c01",
+   "name": "C01",
+   "url": "https://www.donewatches.ch/products/mechanica-c01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_Bra_Metal.png?v=1773675583",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_Bra_Metal.png?v=1773675583",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_Cuir_Vintage_Noir.png?v=1773831855",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_Tissu_Bleu.png?v=1773831855",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_FKM_Noir.png?v=1773831855",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_Cuir_Noir_Wrist.jpg?v=1774269093",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_FKM_Noir_Wrist.jpg?v=1774269093",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_Metal_Wrist.jpg?v=1774269093",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/C01_Tissu_Bleu_Wrist.jpg?v=1774269093",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 92070,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Sobre, intemporel. Le cadran argenté brossé soleil de la C01 est un grand classique qui s'impose naturellement dans toute collection",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Bracelet métal",
+      "Cuir noir",
+      "Caoutchouc noir",
+      "Tissu Bleu"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet métal",
+     "sku": "ME2A-C01/M1",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet métal"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME2A-C01/L4D",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME2A-C01/R1D",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    },
+    {
+     "title": "Tissu Bleu",
+     "sku": "ME2A-C01/F2A",
+     "priceMinor": 92070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tissu Bleu"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.8,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW400-1",
+    "movementType": null,
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Metal band Bracelet Metal band Black leather Black rubber Blue fabric",
+    "Diameter": "ø40mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "11.30mm",
+    "Lug-to-lug": "48.80mm",
+    "Lug width": "20mm",
+    "Dial & flange finish": "Sunray Silver - Opal White",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive numbering",
+    "Movement": "Sellita SW400-1",
+    "Power reserve": "41 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-auto"
+   ],
+   "hash": "4b9e801755928a02"
+  },
+  {
+   "id": "BRD-0185/mechanica-f01",
+   "name": "F01",
+   "url": "https://www.donewatches.ch/products/mechanica-f01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F01_FKM_Bleu.png?v=1773409140",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F01_FKM_Bleu.png?v=1773409140",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F01_FKM_Noir.png?v=1773409140",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F01_Bra_Metal.png?v=1773409140",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F01_Cuir_Vintage_Noir.png?v=1773409140",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/hf_20260705_093947_0110a55a-5570-4366-8b16-dae9b1a12584_copy.webp?v=1790527555",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F01_FKM_Bleu_Wrist.jpg?v=1774287493",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/F01_Bra_Metal_Wrist.jpg?v=1774287493",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 181350,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Caoutchouc bleu",
+      "Caoutchouc noir",
+      "Cuir noir",
+      "Bracelet métal"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Caoutchouc bleu",
+     "sku": "ME2A-F01/R2D",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc bleu"
+     ]
+    },
+    {
+     "title": "Caoutchouc noir",
+     "sku": "ME2A-F01/R1D",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caoutchouc noir"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME2A-F01/L4D",
+     "priceMinor": 181350,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Bracelet métal",
+     "sku": "ME2A-F01/M1",
+     "priceMinor": 185070,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet métal"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.8,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Bracelet": "Blue rubber Bracelet Blue rubber Black rubber Black leather Metal band",
+    "Diameter": "ø40mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "11.30mm",
+    "Lug-to-lug": "48.80mm",
+    "Lug width": "20mm",
+    "Dial & flange finish": "Sapphire - Opal white",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive number",
+    "Movement": "Soprod P024 skeleton silver-plated",
+    "Power reserve": "38 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (tool-free strap change)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/squelette-auto-40mm"
+   ],
+   "hash": "fff85209a2a2ceba"
+  },
+  {
+   "id": "BRD-0185/mechanica-e02-elegance-et-precision-suisse",
+   "name": "E02",
+   "url": "https://www.donewatches.ch/products/mechanica-e02-elegance-et-precision-suisse",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E02_Satin_Noir.png?v=1774940215",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E02_Satin_Noir.png?v=1774940215",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E02_Cuir_Vintage_Noir.png?v=1774940215",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E02_Cuir_Classique_Noir.png?v=1774940215",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/files/E02_Milanais.png?v=1774940215",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 139035,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "La MECHANICA E02 incarne l’alliance parfaite entre le design raffiné et la précision horlogère suisse. Son mouvement squelette automatique, Swiss Made, dévoile un mécanisme sophistiqué qui fascine au premier regard. Dotée d’un boîtier en acier inoxydable 316L, cette montre est conçue pour résister au temps tout en offrant un style intemporel.",
+   "productType": "Montre",
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Satin noir",
+      "Cuir noir",
+      "Cuir noir classique",
+      "Milanais acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Satin noir",
+     "sku": "ME3A-E02/S3A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Satin noir"
+     ]
+    },
+    {
+     "title": "Cuir noir",
+     "sku": "ME3A-E02/L4A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir"
+     ]
+    },
+    {
+     "title": "Cuir noir classique",
+     "sku": "ME3A-E02/L8A",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir noir classique"
+     ]
+    },
+    {
+     "title": "Milanais acier",
+     "sku": "ME3A-E02/M3",
+     "priceMinor": 139035,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Milanais acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 35,
+    "lugWidthMm": 18,
+    "lugToLugMm": 43.7,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 38,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "skeleton",
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "Bracelet": "Black satin Bracelet Black satin Black leather Black classic leather S-Steel mesh band",
+    "Diameter": "Ø35mm",
+    "Material": "316L Stainless Steel",
+    "Case thickness": "10.60mm",
+    "Lug-to-lug": "43.70mm",
+    "Lug width": "18mm",
+    "Dial & flange finish": "Skeleton - Opal Black",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Case back": "Open and screwed with consecutive number",
+    "Movement": "Soprod P024 skeleton black",
+    "Power reserve": "38 hours",
+    "Water resistance": "10 ATM (100M)",
+    "Spring bars": "Spring bars (strap change without tools)",
+    "Watch box": "Leather travel case",
+    "Switzerland": "delivery by Swiss Post within 2 to 3 business days.",
+    "International": "shipment handled by FedEx and delivered within 3 to 10 business days depending on the destination."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:26.275Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:26.275Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0185/mechanica-squelette-auto-35"
+   ],
+   "hash": "6ffbaa8cbcd99463"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0185/mechanica-auto",
+   "name": "AUTO 40",
+   "url": "https://www.donewatches.ch/collections/mechanica-auto",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/collections/C0X_Test_Site.jpg?v=1774946302",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0185/chrono-nine-in-ten",
+   "name": "CHRONO NINE IN TEN",
+   "url": "https://www.donewatches.ch/collections/chrono-nine-in-ten",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/collections/Collection_Chrono_Pres1.jpg?v=1775670751",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0185/mechanica-manuel",
+   "name": "MANUEL 44",
+   "url": "https://www.donewatches.ch/collections/mechanica-manuel",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/collections/DONE_B01_FACE_JOUR_SITE.jpg?v=1774946675",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0185/mechanica-auto-35",
+   "name": "MECHANICA AUTO 35",
+   "url": "https://www.donewatches.ch/collections/mechanica-auto-35",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/collections/C0X_Test_Site_ef775254-046c-4d8f-ab69-69896dd117e4.jpg?v=1774946199",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0185/mechanica-squelette-auto-35",
+   "name": "SQUELETTE AUTO 35",
+   "url": "https://www.donewatches.ch/collections/mechanica-squelette-auto-35",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/collections/F02_Test_Site_9b7a30bf-b40d-4797-847c-f56af62f13a8.jpg?v=1774946752",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0185/squelette-auto-40mm",
+   "name": "SQUELETTE AUTO 40",
+   "url": "https://www.donewatches.ch/collections/squelette-auto-40mm",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0934/8739/9257/collections/F02_Test_Site.jpg?v=1774946103",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

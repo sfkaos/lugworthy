@@ -1,0 +1,2210 @@
+{
+ "brandId": "BRD-0586",
+ "brandName": "Ventus Watches",
+ "website": "https://ventuswatches.com",
+ "crawledAt": "2026-11-01T08:48:40.169Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://ventuswatches.com/cdn/shop/t/3/assets/logo.png?v=50813081933034940531463602202",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://ventuswatches.com/"
+ },
+ "attribution": "Images © Ventus Watches, from ventuswatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0586/field-watch-one",
+   "name": "Field Watch One",
+   "url": "https://ventuswatches.com/products/field-watch-one",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/3MR6SALMONSTYLE2022-06-01VentusFW01-41411.jpg?v=1669082050",
+    "width": 2000,
+    "height": 1333
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/3MR6SALMONSTYLE2022-06-01VentusFW01-41411.jpg?v=1669082050",
+     "width": 2000,
+     "height": 1333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/3MR7FLATTENCLEANINGStyleShotGreen2022-06-01VentusFW01-41529copy.jpg?v=1669082050",
+     "width": 2000,
+     "height": 1333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/3MR2022-06-01VentusFW01-41627.jpg?v=1669082050",
+     "width": 2000,
+     "height": 1333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/2022-06-01VentusFW01-41652v2.jpg?v=1669705961",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/BlueVentusFW01FieldWatch2022-06-08.jpg?v=1669705961",
+     "width": 1333,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/CreamVentusFW01FieldWatch2022-06-08.jpg?v=1669705961",
+     "width": 1333,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/GreenVentusFW01FieldWatch2022-06-08.jpg?v=1669705961",
+     "width": 1333,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/LumeVentusFW01FieldWatch2022-06-08.jpg?v=1669705961",
+     "width": 1333,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/WhiteVentusFW01FieldWatch2022-06-08v2.jpg?v=1669705961",
+     "width": 1999,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Simply named, the Field Watch is meant to be our apt interpretation of what we'd like a field watch to be. Highly legible dial with lumed indices mean you can always rely on it to to tell time. Comes with a stainless steel bracelet to complement wherever the trails of life may take you. That said, it doesn't mean the watch doesn't have to be pretty, and we added some small touches like a lumed caseback to give a slight glimpse of the workhorse NH35 movement. The rehaut adds great depth and brings attention to the weathered stone texture of the dial. Priced at $269 for Black Friday Weekend, RRP of 299. 40mm Stainless Steel case, 46mm lug to lug length and 20mm lug width. 12.5mm Thick with integrated Stainless Steel bracelet. Seiko NH35 Movement Domed Sapphire Crystal Water Resistance of 200m Engraved logo on crown and lumed sapphire caseback Weathered Stone Dial with superluminova indices 1 Year international warranty",
+   "productType": null,
+   "tags": [
+    "fw 01"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Midnight Blue",
+      "Cool Copper",
+      "Forrest Teal",
+      "Artic White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Midnight Blue",
+     "sku": "FW01 Blue",
+     "priceMinor": 29999,
+     "compareAtMinor": 29900,
+     "available": true,
+     "options": [
+      "Midnight Blue"
+     ]
+    },
+    {
+     "title": "Cool Copper",
+     "sku": "FW02 Copper",
+     "priceMinor": 29900,
+     "compareAtMinor": 29900,
+     "available": true,
+     "options": [
+      "Cool Copper"
+     ]
+    },
+    {
+     "title": "Forrest Teal",
+     "sku": "FW03 teal",
+     "priceMinor": 29900,
+     "compareAtMinor": 29900,
+     "available": true,
+     "options": [
+      "Forrest Teal"
+     ]
+    },
+    {
+     "title": "Artic White",
+     "sku": "FW04 White",
+     "priceMinor": 29900,
+     "compareAtMinor": 29900,
+     "available": true,
+     "options": [
+      "Artic White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/field-watch-one"
+   ],
+   "hash": "c15b79ecbcdf44ca"
+  },
+  {
+   "id": "BRD-0586/mori-2-300m-steel-diver-m-8",
+   "name": "Mori 2 300m Steel Diver M-8",
+   "url": "https://ventuswatches.com/products/mori-2-300m-steel-diver-m-8",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Bezel-Blue-Orange-Steel-_2019-04-26_-Elshan-Ventus-Mori--5838LR.jpg?v=1575619813",
+    "width": 938,
+    "height": 1408
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Bezel-Blue-Orange-Steel-_2019-04-26_-Elshan-Ventus-Mori--5838LR.jpg?v=1575619813",
+     "width": 938,
+     "height": 1408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Blue-Oranege-Steel-_2019-04-26_-Elshan-Ventus-Mori--6805MR.jpg?v=1575866691",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_0ea8e50f-5dab-4f52-a52c-f85668bfd7fe.jpg?v=1575866691",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 31900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mori 2 retains the same classic design of the first Mori, with the addition of ceramic bezel inserts for some models. Build quality has also been improved to offer more value than before. New models have also been introduced, along with some of the previous favorites. Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass or Steel Case with Stainless Steel caseback Brass or Ceramic Insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-2-diver"
+   ],
+   "hash": "f80d96d3c8b3beb6"
+  },
+  {
+   "id": "BRD-0586/mori-2-300m-steel-diver-m-7",
+   "name": "Mori 2 300m Gunmetal PVD Diver M-7",
+   "url": "https://ventuswatches.com/products/mori-2-300m-steel-diver-m-7",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Black-Black-copy-darker-copy-MR_5c367398-e139-41c6-a281-28befebb7343.jpg?v=1575619777",
+    "width": 1334,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Black-Black-copy-darker-copy-MR_5c367398-e139-41c6-a281-28befebb7343.jpg?v=1575619777",
+     "width": 1334,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_475d8978-e6c2-4b0e-a649-5247498be785.jpg?v=1575619779",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 31900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mori 2 retains the same classic design of the first Mori, with the addition of ceramic bezel inserts for some models. Build quality has also been improved to offer more value than before. New models have also been introduced, along with some of the previous favorites. Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass or Steel Case with Stainless Steel caseback Brass or Ceramic Insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-2-diver"
+   ],
+   "hash": "ba948d97c85b0180"
+  },
+  {
+   "id": "BRD-0586/mori-2-300m-steel-diver-m-6",
+   "name": "Mori 2 300m Steel Diver M-6",
+   "url": "https://ventuswatches.com/products/mori-2-300m-steel-diver-m-6",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Black-Steel-_2019-04-26_-Elshan-Ventus-Mori--5829LR.jpg?v=1575619735",
+    "width": 938,
+    "height": 1408
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Black-Steel-_2019-04-26_-Elshan-Ventus-Mori--5829LR.jpg?v=1575619735",
+     "width": 938,
+     "height": 1408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_f6784ee2-fbeb-4ea7-aad2-0f37a4abb1a7.jpg?v=1575619745",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 31900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mori 2 retains the same classic design of the first Mori, with the addition of ceramic bezel inserts for some models. Build quality has also been improved to offer more value than before. New models have also been introduced, along with some of the previous favorites. Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass or Steel Case with Stainless Steel caseback Brass or Ceramic Insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-2-diver"
+   ],
+   "hash": "e1b6e530ef211890"
+  },
+  {
+   "id": "BRD-0586/mori-2-300m-brass-diver-m-5",
+   "name": "Mori 2 300m Brass Diver M-5",
+   "url": "https://ventuswatches.com/products/mori-2-300m-brass-diver-m-5",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Green-Bronze-_2019-04-26_-Elshan-Ventus-Mori--5917LR.jpg?v=1575619694",
+    "width": 938,
+    "height": 1408
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Green-Bronze-_2019-04-26_-Elshan-Ventus-Mori--5917LR.jpg?v=1575619694",
+     "width": 938,
+     "height": 1408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Bronze-Green-Mood-_2019-04-26_-Elshan-Ventus-Mori--6996LR.jpg?v=1575619699",
+     "width": 1920,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_1f779655-936f-49f8-b49a-042ccf6f010d.jpg?v=1575619704",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 31900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Mori 2 retains the same classic design of the first Mori, with the addition of ceramic bezel inserts for some models. Build quality has also been improved to offer more value than before. New models have also been introduced, along with some of the previous favorites. Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass or Steel Case with Stainless Steel caseback Brass or Ceramic Insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-2-diver"
+   ],
+   "hash": "734edee0f6fd47f7"
+  },
+  {
+   "id": "BRD-0586/mori-2-300m-brass-diver-m-4",
+   "name": "Mori 2 300m Brass Diver M-4",
+   "url": "https://ventuswatches.com/products/mori-2-300m-brass-diver-m-4",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Blue-Bronze-_2019-04-26_-Elshan-Ventus-Mori--5881LR.jpg?v=1575619645",
+    "width": 938,
+    "height": 1408
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Blue-Bronze-_2019-04-26_-Elshan-Ventus-Mori--5881LR.jpg?v=1575619645",
+     "width": 938,
+     "height": 1408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_85441b35-9de2-43f5-8d83-f70d9ee6bc97.jpg?v=1575619658",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 31900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mori 2 retains the same classic design of the first Mori, with the addition of ceramic bezel inserts for some models. Build quality has also been improved to offer more value than before. New models have also been introduced, along with some of the previous favorites. Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass or Steel Case with Stainless Steel caseback Brass or Ceramic Insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-2-diver"
+   ],
+   "hash": "2d22f73b7f9063db"
+  },
+  {
+   "id": "BRD-0586/mori-2-300m-diver-m-4",
+   "name": "Mori 2 300m Brass Diver M-3",
+   "url": "https://ventuswatches.com/products/mori-2-300m-diver-m-4",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/August-2016-Elshan-Ventus67429-FBO-copy-ws_dda9a6db-9ff0-4337-8758-7119bd72f400.jpg?v=1575619475",
+    "width": 987,
+    "height": 1480
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/August-2016-Elshan-Ventus67429-FBO-copy-ws_dda9a6db-9ff0-4337-8758-7119bd72f400.jpg?v=1575619475",
+     "width": 987,
+     "height": 1480
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_7c7a6d74-9591-4f7d-91a6-28b7fc2a9fe8.jpg?v=1575619485",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 31900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mori 2 retains the same classic design of the first Mori, with the addition of ceramic bezel inserts for some models. Build quality has also been improved to offer more value than before. New models have also been introduced, along with some of the previous favorites. Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass or Steel Case with Stainless Steel caseback Brass or Ceramic Insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-2-diver"
+   ],
+   "hash": "218f5b7e4dea7e54"
+  },
+  {
+   "id": "BRD-0586/mori-2-300m-diver-m-3",
+   "name": "Mori 2 300m Brass Diver M-2",
+   "url": "https://ventuswatches.com/products/mori-2-300m-diver-m-3",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-BBO_3593ffcd-089b-4d9a-b0dc-4b3365b36d9d.jpg?v=1575619422",
+    "width": 1736,
+    "height": 2603
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-BBO_3593ffcd-089b-4d9a-b0dc-4b3365b36d9d.jpg?v=1575619422",
+     "width": 1736,
+     "height": 2603
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_0b862c45-c22f-4ebb-a2c6-661a15b04fd8.jpg?v=1575619422",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 31900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Mori 2 retains the same classic design of the first Mori, with the addition of ceramic bezel inserts for some models. Build quality has also been improved to offer more value than before. New models have also been introduced, along with some of the previous favorites. Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass or Steel Case with Stainless Steel caseback Brass or Ceramic Insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-2-diver"
+   ],
+   "hash": "3cdee843c379102a"
+  },
+  {
+   "id": "BRD-0586/mori-2-300m-diver-m-1",
+   "name": "Mori 2 300m Brass Diver M-1",
+   "url": "https://ventuswatches.com/products/mori-2-300m-diver-m-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-FBO_a2cfe31b-f7f6-43cd-b07e-a330107f2086.jpg?v=1575619321",
+    "width": 1736,
+    "height": 2603
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-FBO_a2cfe31b-f7f6-43cd-b07e-a330107f2086.jpg?v=1575619321",
+     "width": 1736,
+     "height": 2603
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_62e5d9e9-1454-48d7-9f23-71987a880763.jpg?v=1575619321",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 31900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Mori 2 retains the same classic design of the first Mori, with the addition of ceramic bezel inserts for some models. Build quality has also been improved to offer more value than before. New models have also been introduced, along with some of the previous favorites. Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass or Steel Case with Stainless Steel caseback Brass or Ceramic Insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-2-diver"
+   ],
+   "hash": "31f6919e333c7ef9"
+  },
+  {
+   "id": "BRD-0586/northstar-n-08",
+   "name": "Northstar N-8 'Full Lume'",
+   "url": "https://ventuswatches.com/products/northstar-n-08",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/2019-11-04_-Ventus-one-watch-white-Elshan-Shane--16495MR.jpg?v=1575628551",
+    "width": 1333,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/2019-11-04_-Ventus-one-watch-white-Elshan-Shane--16495MR.jpg?v=1575628551",
+     "width": 1333,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/2019-11-04_-Ventus-one-watch-white-Elshan-Shane--16520MR.jpg?v=1575628553",
+     "width": 1368,
+     "height": 2053
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The brightest star in the constellation, the Northstar was an invaluable tool for navigation among sailors and explorers. Despite being replaced by modern GPS as a navigation tool, the Northstar remains an icon for human exploration and adventure. The Ventus Northstar was designed to pay tribute to the divers of the 60s who were at the forefront of sea exploration. The dive watch was a crucial component in their diving kit, it measured the length of their dive and the time to ascend. The Northstar features a slim and highly wearable cushion case to keep it from getting snagged on your dive equipment or even a shirt sleeve. A compact lug to lug length of only 45mm and 40mm diameter is reminiscent to the dive watches of the era. We offer the Northstar in both Brass and Stainless steel cases. Brass is a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. Despite its diminutive size, the Northstar was developed to offer the best specifications for an astounding price. The case is rated for 300m of water resistance, with a double domed sapphire crystal shielding the watch against any scrapes encountered during dives. This sapphire crystal has Anti-reflective coating on the inside to prevent unwanted glare. The use of ceramic inserts (N-1, 2, 5) offer added protection and will ensure your watch remains pristine no matter the abuse. The dial of the Northstar features a sunburst pattern and applied indices. These indices are filled with Swiss Superluminova C3 lume to offer the best glow. Each date wheel is reprinted to match the color of the dial, a step omitted by Swiss timepieces priced in the thousands. Specifications: Case: 316L Stainless Steel Water Resistance: 300m Dimensions: 40mm Diameter, 45mm Lug to Lug, 13mm Thick Lug Width: 20mm Movement: Seiko NH35 Automatic Crystal: Double domed Sapphire with inner AR coating Lume: Swiss Superluminova C3 Bezel Insert: Ceramic Package: 2 Slot Watch Roll Horween 'Distressed' Leather strap Warranty Card",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "6a93393005f92014"
+  },
+  {
+   "id": "BRD-0586/northstar-n-07",
+   "name": "Northstar N-7 'Forest green'",
+   "url": "https://ventuswatches.com/products/northstar-n-07",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/v3_gold_rosegreen-bronze-with-special-case-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20777-Ver2MR.jpg?v=1575616496",
+    "width": 1333,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/v3_gold_rosegreen-bronze-with-special-case-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20777-Ver2MR.jpg?v=1575616496",
+     "width": 1333,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/crop-v2_2019-03-06_-Elshan-Ventus-300m-Lume--1080-mr_bb277538-71d2-43d7-9d62-aed786ead55e.jpg?v=1575616496",
+     "width": 1333,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The brightest star in the constellation, the Northstar was an invaluable tool for navigation among sailors and explorers. Despite being replaced by modern GPS as a navigation tool, the Northstar remains an icon for human exploration and adventure. The Ventus Northstar was designed to pay tribute to the divers of the 60s who were at the forefront of sea exploration. The dive watch was a crucial component in their diving kit, it measured the length of their dive and the time to ascend. The Northstar features a slim and highly wearable cushion case to keep it from getting snagged on your dive equipment or even a shirt sleeve. A compact lug to lug length of only 45mm and 40mm diameter is reminiscent to the dive watches of the era. We offer the Northstar in both Brass and Stainless steel cases. Brass is a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. Despite its diminutive size, the Northstar was developed to offer the best specifications for an astounding price. The case is rated for 300m of water resistance, with a double domed sapphire crystal shielding the watch against any scrapes encountered during dives. This sapphire crystal has Anti-reflective coating on the inside to prevent unwanted glare. The use of ceramic inserts (N-1, 2, 5) offer added protection and will ensure your watch remains pristine no matter the abuse. The dial of the Northstar features a sunburst pattern and applied indices. These indices are filled with Swiss Superluminova C3 lume to offer the best glow. Each date wheel is reprinted to match the color of the dial, a step omitted by Swiss timepieces priced in the thousands. Specifications: Case: Brass Water Resistance: 300m Dimensions: 40mm Diameter, 45mm Lug to Lug, 13mm Thick Lug Width: 20mm Movement: Seiko NH35 Automatic Crystal: Double domed Sapphire with inner AR coating Lume: Swiss Superluminova C3 Bezel Insert: Brass Package: 2 Slot Watch Roll Horween 'Distressed' Leather strap Warranty Card",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "afca1dbf43ff2377"
+  },
+  {
+   "id": "BRD-0586/northstar-n-06",
+   "name": "Northstar N-6 'Azure Blue'",
+   "url": "https://ventuswatches.com/products/northstar-n-06",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/v3_gold_roseBronze-Blue-Dial_2018-09-18_-Elshan-Ventus-Vintage-Diver--20571-Ver2MR.jpg?v=1575616429",
+    "width": 1333,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/v3_gold_roseBronze-Blue-Dial_2018-09-18_-Elshan-Ventus-Vintage-Diver--20571-Ver2MR.jpg?v=1575616429",
+     "width": 1333,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/crop-v2_2019-03-06_-Elshan-Ventus-300m-Lume--1080-mr_0890edef-9bca-44b4-9baa-f171332aeae5.jpg?v=1575616429",
+     "width": 1333,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The brightest star in the constellation, the Northstar was an invaluable tool for navigation among sailors and explorers. Despite being replaced by modern GPS as a navigation tool, the Northstar remains an icon for human exploration and adventure. The Ventus Northstar was designed to pay tribute to the divers of the 60s who were at the forefront of sea exploration. The dive watch was a crucial component in their diving kit, it measured the length of their dive and the time to ascend. The Northstar features a slim and highly wearable cushion case to keep it from getting snagged on your dive equipment or even a shirt sleeve. A compact lug to lug length of only 45mm and 40mm diameter is reminiscent to the dive watches of the era. We offer the Northstar in both Brass and Stainless steel cases. Brass is a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. Despite its diminutive size, the Northstar was developed to offer the best specifications for an astounding price. The case is rated for 300m of water resistance, with a double domed sapphire crystal shielding the watch against any scrapes encountered during dives. This sapphire crystal has Anti-reflective coating on the inside to prevent unwanted glare. The use of ceramic inserts (N-1, 2, 5) offer added protection and will ensure your watch remains pristine no matter the abuse. The dial of the Northstar features a sunburst pattern and applied indices. These indices are filled with Swiss Superluminova C3 lume to offer the best glow. Each date wheel is reprinted to match the color of the dial, a step omitted by Swiss timepieces priced in the thousands. Specifications: Case: Brass Water Resistance: 300m Dimensions: 40mm Diameter, 45mm Lug to Lug, 13mm Thick Lug Width: 20mm Movement: Seiko NH35 Automatic Crystal: Double domed Sapphire with inner AR coating Lume: Swiss Superluminova C3 Bezel Insert: Brass Package: 2 Slot Watch Roll Horween 'Distressed' Leather strap Warranty Card",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "732697bf3fd7a0e5"
+  },
+  {
+   "id": "BRD-0586/northstar-n-05",
+   "name": "Northstar N-5 'Vintage Black'",
+   "url": "https://ventuswatches.com/products/northstar-n-05",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/v3_gold_roseBronze-Case-Black-Dial-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20332-Ver2MR.jpg?v=1575616387",
+    "width": 1333,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/v3_gold_roseBronze-Case-Black-Dial-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20332-Ver2MR.jpg?v=1575616387",
+     "width": 1333,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/crop-v2_2019-03-06_-Elshan-Ventus-300m-Lume--1080-mr_1ffe65ee-2d4b-4c65-9644-d6a1b37f9703.jpg?v=1575616387",
+     "width": 1333,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The brightest star in the constellation, the Northstar was an invaluable tool for navigation among sailors and explorers. Despite being replaced by modern GPS as a navigation tool, the Northstar remains an icon for human exploration and adventure. The Ventus Northstar was designed to pay tribute to the divers of the 60s who were at the forefront of sea exploration. The dive watch was a crucial component in their diving kit, it measured the length of their dive and the time to ascend. The Northstar features a slim and highly wearable cushion case to keep it from getting snagged on your dive equipment or even a shirt sleeve. A compact lug to lug length of only 45mm and 40mm diameter is reminiscent to the dive watches of the era. We offer the Northstar in both Brass and Stainless steel cases. Brass is a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. Despite its diminutive size, the Northstar was developed to offer the best specifications for an astounding price. The case is rated for 300m of water resistance, with a double domed sapphire crystal shielding the watch against any scrapes encountered during dives. This sapphire crystal has Anti-reflective coating on the inside to prevent unwanted glare. The use of ceramic inserts (N-1, 2, 5) offer added protection and will ensure your watch remains pristine no matter the abuse. The dial of the Northstar features a sunburst pattern and applied indices. These indices are filled with Swiss Superluminova C3 lume to offer the best glow. Each date wheel is reprinted to match the color of the dial, a step omitted by Swiss timepieces priced in the thousands. Specifications: Case: Brass Water Resistance: 300m Dimensions: 40mm Diameter, 45mm Lug to Lug, 13mm Thick Lug Width: 20mm Movement: Seiko NH35 Automatic Crystal: Double domed Sapphire with inner AR coating Lume: Swiss Superluminova C3 Bezel Insert: Ceramic Package: 2 Slot Watch Roll Horween 'Distressed' Leather strap Warranty Card",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "60bb219efd657de6"
+  },
+  {
+   "id": "BRD-0586/northstar-n-04",
+   "name": "Northstar N-4 'Stealth'",
+   "url": "https://ventuswatches.com/products/northstar-n-04",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Black-Watch-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20516-Ver2.jpg?v=1575616330",
+    "width": 1109,
+    "height": 1663
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Black-Watch-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20516-Ver2.jpg?v=1575616330",
+     "width": 1109,
+     "height": 1663
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/crop-v2_2019-03-06_-Elshan-Ventus-300m-Lume--1080-mr_58055672-0f1b-4bef-b83e-c985e369991a.jpg?v=1575616330",
+     "width": 1333,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The brightest star in the constellation, the Northstar was an invaluable tool for navigation among sailors and explorers. Despite being replaced by modern GPS as a navigation tool, the Northstar remains an icon for human exploration and adventure. The Ventus Northstar was designed to pay tribute to the divers of the 60s who were at the forefront of sea exploration. The dive watch was a crucial component in their diving kit, it measured the length of their dive and the time to ascend. The Northstar features a slim and highly wearable cushion case to keep it from getting snagged on your dive equipment or even a shirt sleeve. A compact lug to lug length of only 45mm and 40mm diameter is reminiscent to the dive watches of the era. We offer the Northstar in both Brass and Stainless steel cases. Brass is a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. Despite its diminutive size, the Northstar was developed to offer the best specifications for an astounding price. The case is rated for 300m of water resistance, with a double domed sapphire crystal shielding the watch against any scrapes encountered during dives. This sapphire crystal has Anti-reflective coating on the inside to prevent unwanted glare. The use of ceramic inserts (N-1, 2, 5) offer added protection and will ensure your watch remains pristine no matter the abuse. The dial of the Northstar features a sunburst pattern and applied indices. These indices are filled with Swiss Superluminova C3 lume to offer the best glow. Each date wheel is reprinted to match the color of the dial, a step omitted by Swiss timepieces priced in the thousands. Specifications: Case: 316L Stainless Steel PVD Gunmetal Water Resistance: 300m Dimensions: 40mm Diameter, 45mm Lug to Lug, 13mm Thick Lug Width: 20mm Movement: Seiko NH35 Automatic Crystal: Double domed Sapphire with inner AR coating Lume: Swiss Superluminova C3 Bezel Insert: Steel Package: 2 Slot Watch Roll Horween 'Distressed' Leather strap Warranty Card",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "9857442f33fa745b"
+  },
+  {
+   "id": "BRD-0586/northstar-n-03",
+   "name": "Northstar N-3  'Azure teal'",
+   "url": "https://ventuswatches.com/products/northstar-n-03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/New-Cyan-Teal-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20455-LowRes.jpg?v=1575616299",
+    "width": 1109,
+    "height": 1663
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/New-Cyan-Teal-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20455-LowRes.jpg?v=1575616299",
+     "width": 1109,
+     "height": 1663
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/crop-v2_2019-03-06_-Elshan-Ventus-300m-Lume--1080-mr_9d325e49-d727-4579-a85e-03719f1898dc.jpg?v=1575616299",
+     "width": 1333,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The brightest star in the constellation, the Northstar was an invaluable tool for navigation among sailors and explorers. Despite being replaced by modern GPS as a navigation tool, the Northstar remains an icon for human exploration and adventure. The Ventus Northstar was designed to pay tribute to the divers of the 60s who were at the forefront of sea exploration. The dive watch was a crucial component in their diving kit, it measured the length of their dive and the time to ascend. The Northstar features a slim and highly wearable cushion case to keep it from getting snagged on your dive equipment or even a shirt sleeve. A compact lug to lug length of only 45mm and 40mm diameter is reminiscent to the dive watches of the era. We offer the Northstar in both Brass and Stainless steel cases. Brass is a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. Despite its diminutive size, the Northstar was developed to offer the best specifications for an astounding price. The case is rated for 300m of water resistance, with a double domed sapphire crystal shielding the watch against any scrapes encountered during dives. This sapphire crystal has Anti-reflective coating on the inside to prevent unwanted glare. The use of ceramic inserts (N-1, 2, 5) offer added protection and will ensure your watch remains pristine no matter the abuse. The dial of the Northstar features a sunburst pattern and applied indices. These indices are filled with Swiss Superluminova C3 lume to offer the best glow. Each date wheel is reprinted to match the color of the dial, a step omitted by Swiss timepieces priced in the thousands. Specifications: Case: 316L Stainless Steel Water Resistance: 300m Dimensions: 40mm Diameter, 45mm Lug to Lug, 13mm Thick Lug Width: 20mm Movement: Seiko NH35 Automatic Crystal: Double domed Sapphire with inner AR coating Lume: Swiss Superluminova C3 Bezel Insert: Steel Package: 2 Slot Watch Roll Horween 'Distressed' Leather strap Warranty Card",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "4afa27e21e5cb269"
+  },
+  {
+   "id": "BRD-0586/northstar-n-2",
+   "name": "Northstar N-2 'Admiral Blue'",
+   "url": "https://ventuswatches.com/products/northstar-n-2",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/New-Blue-Watch_2018-09-18_-Elshan-Ventus-Vintage-Diver--20294-LowRes.jpg?v=1575616266",
+    "width": 1109,
+    "height": 1663
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/New-Blue-Watch_2018-09-18_-Elshan-Ventus-Vintage-Diver--20294-LowRes.jpg?v=1575616266",
+     "width": 1109,
+     "height": 1663
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/crop-v2_2019-03-06_-Elshan-Ventus-300m-Lume--1080-mr_ba7f29b3-808c-4eb1-bde9-94395f0aeaf1.jpg?v=1575616266",
+     "width": 1333,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The brightest star in the constellation, the Northstar was an invaluable tool for navigation among sailors and explorers. Despite being replaced by modern GPS as a navigation tool, the Northstar remains an icon for human exploration and adventure. The Ventus Northstar was designed to pay tribute to the divers of the 60s who were at the forefront of sea exploration. The dive watch was a crucial component in their diving kit, it measured the length of their dive and the time to ascend. The Northstar features a slim and highly wearable cushion case to keep it from getting snagged on your dive equipment or even a shirt sleeve. A compact lug to lug length of only 45mm and 40mm diameter is reminiscent to the dive watches of the era. We offer the Northstar in both Brass and Stainless steel cases. Brass is a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. Despite its diminutive size, the Northstar was developed to offer the best specifications for an astounding price. The case is rated for 300m of water resistance, with a double domed sapphire crystal shielding the watch against any scrapes encountered during dives. This sapphire crystal has Anti-reflective coating on the inside to prevent unwanted glare. The use of ceramic inserts (N-1, 2, 5) offer added protection and will ensure your watch remains pristine no matter the abuse. The dial of the Northstar features a sunburst pattern and applied indices. These indices are filled with Swiss Superluminova C3 lume to offer the best glow. Each date wheel is reprinted to match the color of the dial, a step omitted by Swiss timepieces priced in the thousands. Specifications: Case: 316L Stainless Steel Water Resistance: 300m Dimensions: 40mm Diameter, 45mm Lug to Lug, 13mm Thick Lug Width: 20mm Movement: Seiko NH35 Automatic Crystal: Double domed Sapphire with inner AR coating Lume: Swiss Superluminova C3 Bezel Insert: Ceramic Package: 2 Slot Watch Roll Horween 'Distressed' Leather strap Warranty Card",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "e3c887f51abd6704"
+  },
+  {
+   "id": "BRD-0586/ventus-watches-northstar",
+   "name": "Northstar N-1 'Fiery Orange'",
+   "url": "https://ventuswatches.com/products/ventus-watches-northstar",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Orange-NEW-changes-of-bezel-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20369-copy-Ver2.jpg?v=1575615551",
+    "width": 1109,
+    "height": 1663
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Orange-NEW-changes-of-bezel-_2018-09-18_-Elshan-Ventus-Vintage-Diver--20369-copy-Ver2.jpg?v=1575615551",
+     "width": 1109,
+     "height": 1663
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/crop-v2_2019-03-06_-Elshan-Ventus-300m-Lume--1080-mr.jpg?v=1575615551",
+     "width": 1333,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The brightest star in the constellation, the Northstar was an invaluable tool for navigation among sailors and explorers. Despite being replaced by modern GPS as a navigation tool, the Northstar remains an icon for human exploration and adventure. The Ventus Northstar was designed to pay tribute to the divers of the 60s who were at the forefront of sea exploration. The dive watch was a crucial component in their diving kit, it measured the length of their dive and the time to ascend. The Northstar features a slim and highly wearable cushion case to keep it from getting snagged on your dive equipment or even a shirt sleeve. A compact lug to lug length of only 45mm and 40mm diameter is reminiscent to the dive watches of the era. We offer the Northstar in both Brass and Stainless steel cases. Brass is a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. Despite its diminutive size, the Northstar was developed to offer the best specifications for an astounding price. The case is rated for 300m of water resistance, with a double domed sapphire crystal shielding the watch against any scrapes encountered during dives. This sapphire crystal has Anti-reflective coating on the inside to prevent unwanted glare. The use of ceramic inserts (N-1, 2, 5) offer added protection and will ensure your watch remains pristine no matter the abuse. The dial of the Northstar features a sunburst pattern and applied indices. These indices are filled with Swiss Superluminova C3 lume to offer the best glow. Each date wheel is reprinted to match the color of the dial, a step omitted by Swiss timepieces priced in the thousands. Specifications: Case: 316L Stainless Steel Water Resistance: 300m Dimensions: 40mm Diameter, 45mm Lug to Lug, 13mm Thick Lug Width: 20mm Movement: Seiko NH35 Automatic Crystal: Double domed Sapphire with inner AR coating Lume: Swiss Superluminova C3 Bezel Insert: Ceramic Package: 2 Slot Watch Roll Horween 'Distressed' Leather strap Warranty Card",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "81c6557627cb6580"
+  },
+  {
+   "id": "BRD-0586/stainless-steel-bracelet-for-northstar",
+   "name": "Stainless Steel Bracelet for Northstar",
+   "url": "https://ventuswatches.com/products/stainless-steel-bracelet-for-northstar",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/2019-11-04_-Ventus-one-watch-white-Elshan-Shane--16978-CropMR.jpg?v=1575628924",
+    "width": 2481,
+    "height": 1654
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/2019-11-04_-Ventus-one-watch-white-Elshan-Shane--16978-CropMR.jpg?v=1575628924",
+     "width": 2481,
+     "height": 1654
+    }
+   ],
+   "priceMinor": 4900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Stainless Steel bracelet with flip lock buckle. Solid end Links and polished chamfered edges. Screw pins for size adjustment. Will be shipped via registered mail if not purchased with a watch.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Stainless Steel",
+      "Black PVD Stainless Steel"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Stainless Steel",
+     "sku": "SSBRACELET",
+     "priceMinor": 4900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Stainless Steel"
+     ]
+    },
+    {
+     "title": "Black PVD Stainless Steel",
+     "sku": "SSBRACELETPVD",
+     "priceMinor": 4900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black PVD Stainless Steel"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/ventus-watches-northstar"
+   ],
+   "hash": "0e5290da62205acb"
+  },
+  {
+   "id": "BRD-0586/copy-of-mori-300m-diver-m-5-steel-blue-preorder",
+   "name": "Mori 300m Diver M-6 Gunmetal Steel",
+   "url": "https://ventuswatches.com/products/copy-of-mori-300m-diver-m-5-steel-blue-preorder",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Black-Black-copy-darker-copy-MR.jpg?v=1510674012",
+    "width": 1334,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Black-Black-copy-darker-copy-MR.jpg?v=1510674012",
+     "width": 1334,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_67d505ff-d496-4bc4-901d-f7dbcc938928.jpg?v=1510674012",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Horween Leather Strap Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement 316L Stainless Steel Case with Stainless Steel caseback 316L Stainless Steel Bezel with Aluminium insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-diver"
+   ],
+   "hash": "074edd0e9bc384fa"
+  },
+  {
+   "id": "BRD-0586/mori-300m-brass-diver-m-4-preorder-1",
+   "name": "Mori 300m Brass Diver M-4",
+   "url": "https://ventuswatches.com/products/mori-300m-brass-diver-m-4-preorder-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/August-2016-Elshan-Ventus67429-FBO-copy-ws.jpg?v=1510552456",
+    "width": 987,
+    "height": 1480
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/August-2016-Elshan-Ventus67429-FBO-copy-ws.jpg?v=1510552456",
+     "width": 987,
+     "height": 1480
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_7f961b95-f4b7-414b-9746-973375028063.jpg?v=1510552465",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "In stock and ready to ship Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Horween Leather Strap The Blue dial for this M-4 model is very subtle, for those looking for a brighter blue do consider the M-5 Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass Case with Stainless Steel caseback Brass Bezel with optional Aluminium insert Sandwich Dial C3 or BGW9 Superluminova Packaging Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Vintage leather strap",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-diver"
+   ],
+   "hash": "3050d00fa9cfcfdd"
+  },
+  {
+   "id": "BRD-0586/mori-300m-brass-diver-m-4-preorder",
+   "name": "Mori 300m Diver M-5 Steel Blue",
+   "url": "https://ventuswatches.com/products/mori-300m-brass-diver-m-4-preorder",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Silver-Blue-copy-darker-MR.jpg?v=1510591554",
+    "width": 1334,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Silver-Blue-copy-darker-MR.jpg?v=1510591554",
+     "width": 1334,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-blue_e2655642-1cf9-449d-a47e-308afbb742b7.jpg?v=1510591554",
+     "width": 1605,
+     "height": 2408
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "In stock and ready to ship Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Horween Leather Strap Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement 316L Stainless Steel Case with Stainless Steel caseback 316L Stainless Steel Bezel with Aluminium insert Sandwich Dial C3 or BGW9 Superluminova",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-diver"
+   ],
+   "hash": "cdb5fb754510d939"
+  },
+  {
+   "id": "BRD-0586/mori-300m-brass-diver-m-3-preorder",
+   "name": "Mori 300m Brass Diver M-3",
+   "url": "https://ventuswatches.com/products/mori-300m-brass-diver-m-3-preorder",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/August-2016-Elshan-Ventus67429-BBO-copy-3.jpg?v=1492515803",
+    "width": 987,
+    "height": 1480
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/August-2016-Elshan-Ventus67429-BBO-copy-3.jpg?v=1492515803",
+     "width": 987,
+     "height": 1480
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_fe68ad68-229e-45d0-ae63-191b4ea6fd8f.jpg?v=1492515803",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "In stock and ready to ship Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Horween Leather Strap Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass Case with Stainless Steel caseback Brass Bezel with optional Aluminium insert Sandwich Dial C3 or BGW9 Superluminova Packaging Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Vintage leather strap",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-diver"
+   ],
+   "hash": "625ba0bb6402868c"
+  },
+  {
+   "id": "BRD-0586/mori-300m-brass-diver-m-2v-preorder",
+   "name": "Mori 300m Brass Diver M-2V",
+   "url": "https://ventuswatches.com/products/mori-300m-brass-diver-m-2v-preorder",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-FBO.jpg?v=1477500475",
+    "width": 1366,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-FBO.jpg?v=1477500475",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb_be5320e0-588d-4639-940d-62e6d6e20206.jpg?v=1477500475",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "In stock and ready to ship Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Horween Leather Strap Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass Case with Stainless Steel caseback Brass Bezel with optional Aluminium insert Sandwich Dial C3 or BGW9 Superluminova Packaging Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Vintage leather strap",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-diver"
+   ],
+   "hash": "c64bb80e7ad0083b"
+  },
+  {
+   "id": "BRD-0586/mori-300m-brass-diver-m-1b-preorder",
+   "name": "Mori 300m Brass Diver M-1V",
+   "url": "https://ventuswatches.com/products/mori-300m-brass-diver-m-1b-preorder",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-BBO.jpg?v=1477500324",
+    "width": 1366,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-BBO.jpg?v=1477500324",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-Greeb.jpg?v=1477500333",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "In stock and ready to ship Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Horween Leather Strap Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass Case with Stainless Steel caseback Brass Bezel with optional Aluminium insert Sandwich Dial C3 or BGW9 Superluminova Packaging Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Vintage leather strap",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-diver"
+   ],
+   "hash": "b9e42c94223ef3a0"
+  },
+  {
+   "id": "BRD-0586/mori-300m-brass-diver-m-2b-preorder",
+   "name": "Mori 300m Brass Diver M-2B",
+   "url": "https://ventuswatches.com/products/mori-300m-brass-diver-m-2b-preorder",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-FBW.jpg?v=1492422809",
+    "width": 1366,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-FBW.jpg?v=1492422809",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-blue_e17497ab-d5cc-4da3-86ec-bfb46cc12c76.jpg?v=1492422809",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass Case with Stainless Steel caseback Brass Bezel with optional Aluminium insert Sandwich Dial C3 or BGW9 Superluminova Packaging Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Vintage leather strap",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-diver"
+   ],
+   "hash": "1dc86fc4f3146c48"
+  },
+  {
+   "id": "BRD-0586/mori-300m-brass-diver-m-1b-preorder-1",
+   "name": "Mori 300m Brass Diver M-1B",
+   "url": "https://ventuswatches.com/products/mori-300m-brass-diver-m-1b-preorder-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-BBW.jpg?v=1477500400",
+    "width": 1366,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67429-BBW.jpg?v=1477500400",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/MidRes-August-2016-Elshan-Ventus67146-lume-blue.jpg?v=1477500400",
+     "width": 1365,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Mōri Motonari “The legend of the three arrows” is a story about Mōri Motonari. In an effort to get his sons to work together, he gave them each an arrow to break. This was done easily, and he challenged his sons to repeat it with three arrows bound together. This proved to be unbreakable. Our Design Philosophy - Inspired by the past, built for the future From the lesson of Mōri Motonari, we wanted to design an awesome diver's watch by focusing on 3 aspects. The 'Three Arrows' story is reflected on the dial, when the dive bezel triangle, dial triangle and Ventus logo line up. Aesthetic Design The Ventus Mori was designed with the diving watches of the 1950s in mind. A highly legible dial and an unimposing case gives it a rugged elegance. The Mori is a watch that fits under your shirt cuff, yet tough enough to be taken on a dive. The case is also made from Brass, a material which patinas as you wear it. This makes each watch unique to its owner and every watch will have its own story to tell. The dial is produced with a sandwich effect which gives a sense of depth to it. The dial design was kept clean and legible, with a date wheel printed in matching colors to the luminous paint. Mechanical craftsmanship Even though the Mori looks like a watch from the 1950s, it has been designed with the latest advancements in technology. Its slim 12.5mm case (without crystal) is able to withstand a very respectable 300m of water pressure. To commemorate its vintage roots, the caseback features a diving helmet design that has been stamped to give it an amazing 3D effect. The double domed sapphire crystal ensures scratch resistance during dives. A 120 click unidirectional dive bezel keeps precise timing and the brightest C3 or BGW9 superluminova glows brightly in the murky depths. Inside, a reliable Seiko NH35 automatic movement ensures that your watch will run for years without ever needing a battery. Production Quality Each watch is built to last and this will be achieved through precise production and careful assembly techniques. Having worked with our production partner on many projects, we are confident that quality will exceed expectations. Specifications 41mm Case Diameter. 14mm height (12.5 excl crystal) 48mm Lug to Lug length. 20mm lug width 300m Water Resistant Double Domed Sapphire Crystal with inner AR coating Seiko NH35 Automatic Movement Brass Case with Stainless Steel caseback Brass Bezel with optional Aluminium insert Sandwich Dial C3 or BGW9 Superluminova Packaging Each watch comes with -Canvas watch roll in simple wooden box -Sailcloth style strap with brass buckle -Tropic Style Rubber strap -Vintage leather strap",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 30,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/mori-diver"
+   ],
+   "hash": "41a25bc7c270bb77"
+  },
+  {
+   "id": "BRD-0586/black-kite",
+   "name": "Black Kite B-01 Carbon Fiber",
+   "url": "https://ventuswatches.com/products/black-kite",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/White.jpg?v=1463601319",
+    "width": 1205,
+    "height": 1808
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/White.jpg?v=1463601319",
+     "width": 1205,
+     "height": 1808
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Jan-2016-Elshan-Carbon-Fibre40620-mark2-ws.jpg?v=1463601319",
+     "width": 854,
+     "height": 1280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/ccfc36f2f2d53be733ca0f1a86761e84_original.jpg?v=1463601319",
+     "width": 680,
+     "height": 453
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/d8b3d2aea3a176224122ef2538acf052_original.jpg?v=1463601319",
+     "width": 679,
+     "height": 453
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Forged with layers of carbon to produce a watch built for performance. Lighter yet stronger than any metal. We aimed to produce a timepiece that broke the boundaries of material technology. Normally used in watches or components costing thousands of dollars, we have made it accessible to most. After months of prototyping, the Black Kite was produced in a unique \"Darkwood\" carbon fiber. This carbon fiber is layered much like the patterns in wood and has an appearance unlike any other material. Beyond appearances, carbon fiber (or CFRP to be exact) is highly valued for the construction of modern aircraft. Lighter and stronger than even titanium, it exemplifies the technological advances of material engineering. Each watch comes packaged with a travel roll, box and warranty card. Specifications 42mm case, 50mm lug to lug length and 22mm lug width 13.5mm thick Darkwood Carbon Fiber case with inner steel structure Darkwood Carbon Fiber 20mm buckle 63 Grams without straps Seiko NH35 Automatic Movement : 24 jewels, 21600bph, hacking and winding Domed Sapphire Crystal with inner Anti-Reflective Coating. Hardest available glass to let you wear the watch without worry of scratches. Water Resistance of 100m with screwdown crown Engraved logo on crown and caseback Sandwich Dial BGW9 Superluminova or C1 (Vintage style) 1 Year International Warranty",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 13,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Seiko NH35 Automatic Movement": "24 jewels, 21600bph, hacking and winding"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/black-kite"
+   ],
+   "hash": "82b76853cec95165"
+  },
+  {
+   "id": "BRD-0586/caspian-c-01-vintage",
+   "name": "Caspian C-01 Vintage",
+   "url": "https://ventuswatches.com/products/caspian-c-01-vintage",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/vintagemedium.jpg?v=1466009570",
+    "width": 1366,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/vintagemedium.jpg?v=1466009570",
+     "width": 1366,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A reinterpretation of the classic WW2 pilot’s watch. Crafted from brass which develops a patina unique to you. Brass is one of the oldest alloys known to man and was used for its gold appearance when new. Over time and use, this bright gold weathers to a rustic brown. This weathering is based on the environment the watch is being worn in, making it truly personal to you. While keeping the design of the dial clean and true to the original pilot’s watch, a sandwich effect was created for the Caspian. This involves the use of 2 dial layers to create a slight layered effect which could be appreciated up close. 42mm Brass case, 50mm lug to lug length and 22mm lug width. 13.5mm Thick Brass case Seiko NH35 Automatic Movement : 24 jewels, 21600bph, hacking and winding Domed Sapphire Crystal Water Resistance of 100m Engraved logo on crown and caseback Sandwich Dial Vintage Lume Superluminova 1 Year international warranty Comes with travel roll, box and warranty card.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Seiko NH35 Automatic Movement": "24 jewels, 21600bph, hacking and winding"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/caspian"
+   ],
+   "hash": "170c7436a8c5bf88"
+  },
+  {
+   "id": "BRD-0586/caspian-c-01-type-b",
+   "name": "Caspian C-01 Type B",
+   "url": "https://ventuswatches.com/products/caspian-c-01-type-b",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/typebmedium.jpg?v=1466008607",
+    "width": 1366,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/typebmedium.jpg?v=1466008607",
+     "width": 1366,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A reinterpretation of the classic WW2 pilot’s watch. Crafted from brass which develops a patina unique to you. Brass is one of the oldest alloys known to man and was used for its gold appearance when new. Over time and use, this bright gold weathers to a rustic brown. This weathering is based on the environment the watch is being worn in, making it truly personal to you. While keeping the design of the dial clean and true to the original pilot’s watch, a sandwich effect was created for the Caspian. This involves the use of 2 dial layers to create a slight layered effect which could be appreciated up close. 42mm Brass case, 50mm lug to lug length and 22mm lug width. 13.5mm Thick Brass case Seiko NH35 Automatic Movement : 24 jewels, 21600bph, hacking and winding Domed Sapphire Crystal Water Resistance of 100m Engraved logo on crown and caseback Sandwich Dial Vintage Lume Superluminova 1 Year international warranty Comes with travel roll, box and warranty card.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Seiko NH35 Automatic Movement": "24 jewels, 21600bph, hacking and winding"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/caspian"
+   ],
+   "hash": "657fc9d4ced78a93"
+  },
+  {
+   "id": "BRD-0586/caspian-c-01-bgw9-lume",
+   "name": "Caspian C-01",
+   "url": "https://ventuswatches.com/products/caspian-c-01-bgw9-lume",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/c1bgw9medium.jpg?v=1466008647",
+    "width": 1366,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/c1bgw9medium.jpg?v=1466008647",
+     "width": 1366,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A reinterpretation of the classic WW2 pilot’s watch. Crafted from brass which develops a patina unique to you. Brass is one of the oldest alloys known to man and was used for its gold appearance when new. Over time and use, this bright gold weathers to a rustic brown. This weathering is based on the environment the watch is being worn in, making it truly personal to you. While keeping the design of the dial clean and true to the original pilot’s watch, a sandwich effect was created for the Caspian. This involves the use of 2 dial layers to create a slight layered effect which could be appreciated up close. 42mm Brass case, 50mm lug to lug length and 22mm lug width. 13.5mm Thick Brass case Seiko NH35 Automatic Movement : 24 jewels, 21600bph, hacking and winding Domed Sapphire Crystal Water Resistance of 100m Engraved logo on crown and caseback Sandwich Dial BGW9 Lume Superluminova 1 Year international warranty Comes with travel roll, box and warranty card.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Seiko NH35 Automatic Movement": "24 jewels, 21600bph, hacking and winding"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/caspian"
+   ],
+   "hash": "0bbe0ed54e6d5389"
+  },
+  {
+   "id": "BRD-0586/black-kite-b-03-carbon-fiber",
+   "name": "Black Kite B-03 Carbon Fiber",
+   "url": "https://ventuswatches.com/products/black-kite-b-03-carbon-fiber",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Yellow2.jpg?v=1463601506",
+    "width": 1205,
+    "height": 1808
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Yellow2.jpg?v=1463601506",
+     "width": 1205,
+     "height": 1808
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Jan-2016-Elshan-Carbon-Fibre40620-1.jpg?v=1463601506",
+     "width": 1256,
+     "height": 1883
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Jan-2016-Elshan-Carbon-Fibre39953-base1.jpg?v=1463601506",
+     "width": 1920,
+     "height": 1280
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Forged with layers of carbon to produce a watch built for performance. Lighter yet stronger than any metal. We aimed to produce a timepiece that broke the boundaries of material technology. Normally used in watches or components costing thousands of dollars, we have made it accessible to most. After months of prototyping, the Black Kite was produced in a unique \"Darkwood\" carbon fiber. This carbon fiber is layered much like the patterns in wood and has an appearance unlike any other material. Beyond appearances, carbon fiber (or CFRP to be exact) is highly valued for the construction of modern aircraft. Lighter and stronger than even titanium, it exemplifies the technological advances of material engineering. Each watch comes packaged with travel roll, box and warranty card . Specifications 42mm case, 50mm lug to lug length and 22mm lug width 13.5mm thick Darkwood Carbon Fiber case with inner steel structure Darkwood Carbon Fiber 20mm buckle 63 Grams without straps Seiko NH35 Automatic Movement : 24 jewels, 21600bph, hacking and winding Domed Sapphire Crystal with inner Anti-Reflective Coating. Hardest available glass to let you wear the watch without worry of scratches. Water Resistance of 100m with screwdown crown Engraved logo on crown and caseback Sandwich Dial BGW9 Superluminova or C1 (Vintage style) 1 Year International Warranty",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 13,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Seiko NH35 Automatic Movement": "24 jewels, 21600bph, hacking and winding"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/black-kite"
+   ],
+   "hash": "4487866c83e029df"
+  },
+  {
+   "id": "BRD-0586/black-kite-b-02-carbon-fiber",
+   "name": "Black Kite B-02 Carbon Fiber",
+   "url": "https://ventuswatches.com/products/black-kite-b-02-carbon-fiber",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Yellow.jpg?v=1463601455",
+    "width": 1205,
+    "height": 1808
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Yellow.jpg?v=1463601455",
+     "width": 1205,
+     "height": 1808
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Jan-2016-Elshan-Carbon-Fibre40620-3.jpg?v=1463601455",
+     "width": 1256,
+     "height": 1883
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/Jan-2016-Elshan-Carbon-Fibre40085-new-flare2.jpg?v=1463601455",
+     "width": 1920,
+     "height": 1280
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Forged with layers of carbon to produce a watch built for performance. Lighter yet stronger than any metal. We aimed to produce a timepiece that broke the boundaries of material technology. Normally used in watches or components costing thousands of dollars, we have made it accessible to most. After months of prototyping, the Black Kite was produced in a unique \"Darkwood\" carbon fiber. This carbon fiber is layered much like the patterns in wood and has an appearance unlike any other material. Beyond appearances, carbon fiber (or CFRP to be exact) is highly valued for the construction of modern aircraft. Lighter and stronger than even titanium, it exemplifies the technological advances of material engineering. Each watch comes packaged with travel roll, box and warranty card. . Specifications 42mm case, 50mm lug to lug length and 22mm lug width 13.5mm thick Darkwood Carbon Fiber case with inner steel structure Darkwood Carbon Fiber 20mm buckle 63 Grams without straps Seiko NH35 Automatic Movement : 24 jewels, 21600bph, hacking and winding Domed Sapphire Crystal with inner Anti-Reflective Coating. Hardest available glass to let you wear the watch without worry of scratches. Water Resistance of 100m with screwdown crown Engraved logo on crown and caseback Sandwich Dial BGW9 Superluminova or C1 (Vintage style) 1 Year International Warranty",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 13,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Seiko NH35 Automatic Movement": "24 jewels, 21600bph, hacking and winding"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/black-kite"
+   ],
+   "hash": "9438179abaa9d2a4"
+  },
+  {
+   "id": "BRD-0586/caspian-c-04",
+   "name": "Caspian C-04",
+   "url": "https://ventuswatches.com/products/caspian-c-04",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/2.jpg?v=1463600706",
+    "width": 630,
+    "height": 946
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/2.jpg?v=1463600706",
+     "width": 630,
+     "height": 946
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A reinterpretation of the classic WW2 pilot’s watch. The pilot watch (or Observation watch) was developed by the RLM (Reichs-Luftfahrtministerium, or Reich’s Ministry of Air Transport) in WW2 for use by navigators in conjunction with charts and other tools. One distinct feature of the watch was the triangle marker at 12 o’clock flanked by two dots. It gave a quick indication of the upward orientation of the dial during night flight. The triangle also functioned as a solar compass to find the earth’s true north when used with sextants, compass and data charts. While keeping the design of the dial clean and true to the original pilot’s watch, a sandwich effect was created for the Caspian. This involves the use of 2 dial layers to create a slight layered effect which could be appreciated up close. 42mm PVD Stainless Steel case, 50mm lug to lug length and 22mm lug width. 13.5mm Thick Seiko MechaQuartz Domed Sapphire Crystal Water Resistance of 100m Engraved logo on crown and caseback Sandwich Dial Orange Superluminova - Please note that this lume does not glow much 1 Year international warranty",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Seiko NH35 Automatic Movement": "24 jewels, 21600bph, hacking and winding"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/caspian"
+   ],
+   "hash": "67670e105eabcefc"
+  },
+  {
+   "id": "BRD-0586/caspian-c-03",
+   "name": "Caspian C-03",
+   "url": "https://ventuswatches.com/products/caspian-c-03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/1.jpg?v=1463601031",
+    "width": 630,
+    "height": 946
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/1.jpg?v=1463601031",
+     "width": 630,
+     "height": 946
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0845/7611/products/watch4.jpg?v=1463601045",
+     "width": 1335,
+     "height": 2004
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A reinterpretation of the classic WW2 pilot’s watch. The pilot watch (or Observation watch) was developed by the RLM (Reichs-Luftfahrtministerium, or Reich’s Ministry of Air Transport) in WW2 for use by navigators in conjunction with charts and other tools. One distinct feature of the watch was the triangle marker at 12 o’clock flanked by two dots. It gave a quick indication of the upward orientation of the dial during night flight. The triangle also functioned as a solar compass to find the earth’s true north when used with sextants, compass and data charts. While keeping the design of the dial clean and true to the original pilot’s watch, a sandwich effect was created for the Caspian. This involves the use of 2 dial layers to create a slight layered effect which could be appreciated up close. 42mm Brass case, 50mm lug to lug length and 22mm lug width. 13.5mm Thick Seiko MechaQuartz Domed Sapphire Crystal Water Resistance of 100m Engraved logo on crown and caseback Sandwich Dial BGW9 Superluminova or Orange Superluminova 1 Year international warranty",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Type",
+     "values": [
+      "Default Lume (BGW9)",
+      "Vintage Lume"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Default Lume (BGW9)",
+     "sku": null,
+     "priceMinor": 29900,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Default Lume (BGW9)"
+     ]
+    },
+    {
+     "title": "Vintage Lume",
+     "sku": null,
+     "priceMinor": 29900,
+     "compareAtMinor": 0,
+     "available": false,
+     "options": [
+      "Vintage Lume"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Seiko NH35 Automatic Movement": "24 jewels, 21600bph, hacking and winding"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:40.169Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:40.169Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0586/caspian"
+   ],
+   "hash": "9bb60a0c00407253"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0586/black-kite",
+   "name": "Black Kite",
+   "url": "https://ventuswatches.com/collections/black-kite",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0586/caspian",
+   "name": "Caspian",
+   "url": "https://ventuswatches.com/collections/caspian",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0586/field-watch-one",
+   "name": "Field Watch One",
+   "url": "https://ventuswatches.com/collections/field-watch-one",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/collections/3_MR_2022-06-01_Ventus_FW01_-41627.jpg?v=1669336610",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0586/mori-2-diver",
+   "name": "Mori 2 Diver",
+   "url": "https://ventuswatches.com/collections/mori-2-diver",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0586/mori-diver",
+   "name": "Mori Diver",
+   "url": "https://ventuswatches.com/collections/mori-diver",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0586/ventus-watches-northstar",
+   "name": "Ventus Watches Northstar",
+   "url": "https://ventuswatches.com/collections/ventus-watches-northstar",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0845/7611/collections/combined.png?v=1575628674",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

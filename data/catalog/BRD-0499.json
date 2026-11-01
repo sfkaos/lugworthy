@@ -1,0 +1,1280 @@
+{
+ "brandId": "BRD-0499",
+ "brandName": "Sconvolto",
+ "website": "https://www.sconvolto.com",
+ "crawledAt": "2026-11-01T08:28:02.520Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.sconvolto.com/cdn/shop/files/sconvolto_daquadrante_bianco.png?v=1613553604",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.sconvolto.com/"
+ },
+ "attribution": "Images © Sconvolto, from sconvolto.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0499/ammortizzato-tipo-f",
+   "name": "Ammortizzato Tipo F (pre-order)",
+   "url": "https://www.sconvolto.com/products/ammortizzato-tipo-f",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Ffloatfront.jpg?v=1603641018",
+    "width": 2447,
+    "height": 2447
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Ffloatfront.jpg?v=1603641018",
+     "width": 2447,
+     "height": 2447
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Ffloatside.jpg?v=1603641018",
+     "width": 2926,
+     "height": 2926
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Ffloat34.jpg?v=1603641018",
+     "width": 2577,
+     "height": 2577
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Ffloatback.jpg?v=1603641018",
+     "width": 2658,
+     "height": 2658
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Ffloatbuckle.jpg?v=1603641018",
+     "width": 2727,
+     "height": 2727
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_FFF.png?v=1603641018",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_FFL.png?v=1603529379",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_FFA.png?v=1603529379",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_FFD.png?v=1603529379",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_FAL.png?v=1603529379",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_FAA.png?v=1603529379",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_FAD.png?v=1603529379",
+     "width": 3403,
+     "height": 3403
+    }
+   ],
+   "priceMinor": 98900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Description Two-tone, two-layer dial with orange hands in an electric blue case inspired by Ferrari 250 GT Lusso. and so is the classy electric blue colour of the case. The Sconvolto logotype is moved all the way to the bottom of the dial to preserve its cleanliness, the open V leads the eyes to the date well, with its keen orange background. A s oft white leather and caoutchouc bracelet bring the signature Sconvolto buckle, black as the watch crown. Specifications Case: 7075-T651 heat treated aluminium alloy. Hand-polished, anodized and EPD coated. 41x55mm, 75 grams (including bracelet). Shatterproof, distortion-free PMMA crystal. Brass crown, PVD coated black. Bracelet: Italian calfskin and premium natural rubber. Steel buckle, PVD coated black. Movement: Miyota 9015, 24 jewels, 28800bph. 42hrs power reserve. 2 years warranty. Available only on Beautiful Machines website.",
+   "productType": "Watches",
+   "tags": [
+    "250",
+    "9015",
+    "blue",
+    "date",
+    "ferrari",
+    "lusso",
+    "Tipo F"
+   ],
+   "options": [
+    {
+     "name": "Colour",
+     "values": [
+      "Blue [default]",
+      "Red",
+      "Black",
+      "Gold"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "White [default]",
+      "Brown",
+      "Black",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue [default] / White [default]",
+     "sku": "AMM0_FFF0",
+     "priceMinor": 99900,
+     "compareAtMinor": 99900,
+     "available": false,
+     "options": [
+      "Blue [default]",
+      "White [default]"
+     ]
+    },
+    {
+     "title": "Blue [default] / Brown",
+     "sku": "AMM0_FFA0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Blue [default]",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Blue [default] / Black",
+     "sku": "AMM0_FFD0",
+     "priceMinor": 99400,
+     "compareAtMinor": 99400,
+     "available": false,
+     "options": [
+      "Blue [default]",
+      "Black"
+     ]
+    },
+    {
+     "title": "Blue [default] / Gray",
+     "sku": "AMM0_FFL0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Blue [default]",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Red / White [default]",
+     "sku": "AMM0_FAF0",
+     "priceMinor": 99900,
+     "compareAtMinor": 99900,
+     "available": false,
+     "options": [
+      "Red",
+      "White [default]"
+     ]
+    },
+    {
+     "title": "Red / Brown",
+     "sku": "AMM0_FAA0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Red",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Red / Black",
+     "sku": "AMM0_FAD0",
+     "priceMinor": 99400,
+     "compareAtMinor": 99400,
+     "available": false,
+     "options": [
+      "Red",
+      "Black"
+     ]
+    },
+    {
+     "title": "Red / Gray",
+     "sku": "AMM0_FAL0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Red",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Black / White [default]",
+     "sku": "AMM0_FDF0",
+     "priceMinor": 99900,
+     "compareAtMinor": 99900,
+     "available": false,
+     "options": [
+      "Black",
+      "White [default]"
+     ]
+    },
+    {
+     "title": "Black / Brown",
+     "sku": "AMM0_FDA0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Black",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Black / Black",
+     "sku": "AMM0_FDD0",
+     "priceMinor": 99400,
+     "compareAtMinor": 99400,
+     "available": false,
+     "options": [
+      "Black",
+      "Black"
+     ]
+    },
+    {
+     "title": "Black / Gray",
+     "sku": "AMM0_FDL0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Black",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Gold / White [default]",
+     "sku": "AMM0_FLF0",
+     "priceMinor": 99900,
+     "compareAtMinor": 99900,
+     "available": false,
+     "options": [
+      "Gold",
+      "White [default]"
+     ]
+    },
+    {
+     "title": "Gold / Brown",
+     "sku": "AMM0_FLA0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Gold",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Gold / Black",
+     "sku": "AMM0_FLD0",
+     "priceMinor": 99400,
+     "compareAtMinor": 99400,
+     "available": false,
+     "options": [
+      "Gold",
+      "Black"
+     ]
+    },
+    {
+     "title": "Gold / Gray",
+     "sku": "AMM0_FLL0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Gold",
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:28:02.520Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:28:02.520Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0499/sconvolto-ammortizzato"
+   ],
+   "hash": "dc0d8ea4a9529966"
+  },
+  {
+   "id": "BRD-0499/ammortizzato-tipo-l",
+   "name": "Ammortizzato Tipo L (pre-order)",
+   "url": "https://www.sconvolto.com/products/ammortizzato-tipo-l",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Lfloatfront.jpg?v=1603641028",
+    "width": 2482,
+    "height": 2482
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Lfloatfront.jpg?v=1603641028",
+     "width": 2482,
+     "height": 2482
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Lfloatside.jpg?v=1603641028",
+     "width": 2823,
+     "height": 2823
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Lfloat34.jpg?v=1603641028",
+     "width": 2608,
+     "height": 2608
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Lfloatback.jpg?v=1603641028",
+     "width": 2693,
+     "height": 2693
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Lfloatbuckle.jpg?v=1603641028",
+     "width": 2537,
+     "height": 2537
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_LLL.png?v=1603641028",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_LLA.png?v=1603529400",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_LLD.png?v=1603529400",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_LLF.png?v=1603529400",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_LFL.png?v=1603529400",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_LFA.png?v=1603529400",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_LFD.png?v=1603529400",
+     "width": 3403,
+     "height": 3403
+    }
+   ],
+   "priceMinor": 89900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Description Orange gold colour case. The dial design takes clues from Lancia Delta HF Integrale . Yellow indexes over the gloss and matte layers, with a large sub-seconds dial and orange hands . Crown and buckle are black, bracelet leather in grey. Specifications Case: 7075-T651 heat treated aluminium alloy. Hand-polished, anodized and EPD coated. 41x55mm, 75 grams (including bracelet). Shatterproof, distortion-free PMMA crystal. Brass crown, PVD coated black. Bracelet: Italian calfskin and premium natural rubber. Steel buckle, PVD coated black. Movement: Miyota 82S5, 21 jewels, 21600bph. 42hrs power reserve. 2 years warranty. Available only on Beautiful Machines website.",
+   "productType": "Watches",
+   "tags": [
+    "82S5",
+    "delta",
+    "gold",
+    "hf",
+    "lancia",
+    "small seconds",
+    "Tipo L"
+   ],
+   "options": [
+    {
+     "name": "Colour",
+     "values": [
+      "Gold [default]",
+      "Red",
+      "Blue",
+      "Black"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Grey [default]",
+      "Brown",
+      "White",
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Gold [default] / Grey [default]",
+     "sku": "AMM0_LLL0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Gold [default]",
+      "Grey [default]"
+     ]
+    },
+    {
+     "title": "Gold [default] / Brown",
+     "sku": "AMM0_LLA0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Gold [default]",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Gold [default] / White",
+     "sku": "AMM0_LLF0",
+     "priceMinor": 90900,
+     "compareAtMinor": 90900,
+     "available": false,
+     "options": [
+      "Gold [default]",
+      "White"
+     ]
+    },
+    {
+     "title": "Gold [default] / Black",
+     "sku": "AMM0_LLD0",
+     "priceMinor": 90400,
+     "compareAtMinor": 90400,
+     "available": false,
+     "options": [
+      "Gold [default]",
+      "Black"
+     ]
+    },
+    {
+     "title": "Red / Grey [default]",
+     "sku": "AMM0_LAL0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Red",
+      "Grey [default]"
+     ]
+    },
+    {
+     "title": "Red / Brown",
+     "sku": "AMM0_LAA0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Red",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Red / White",
+     "sku": "AMM0_LAF0",
+     "priceMinor": 90900,
+     "compareAtMinor": 90900,
+     "available": false,
+     "options": [
+      "Red",
+      "White"
+     ]
+    },
+    {
+     "title": "Red / Black",
+     "sku": "AMM0_LAD0",
+     "priceMinor": 90400,
+     "compareAtMinor": 90400,
+     "available": false,
+     "options": [
+      "Red",
+      "Black"
+     ]
+    },
+    {
+     "title": "Blue / Grey [default]",
+     "sku": "AMM0_LFL0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Grey [default]"
+     ]
+    },
+    {
+     "title": "Blue / Brown",
+     "sku": "AMM0_LFA0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Blue / White",
+     "sku": "AMM0_LFF0",
+     "priceMinor": 90900,
+     "compareAtMinor": 90900,
+     "available": false,
+     "options": [
+      "Blue",
+      "White"
+     ]
+    },
+    {
+     "title": "Blue / Black",
+     "sku": "AMM0_LFD0",
+     "priceMinor": 90400,
+     "compareAtMinor": 90400,
+     "available": false,
+     "options": [
+      "Blue",
+      "Black"
+     ]
+    },
+    {
+     "title": "Black / Grey [default]",
+     "sku": "AMM0_LDL0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Black",
+      "Grey [default]"
+     ]
+    },
+    {
+     "title": "Black / Brown",
+     "sku": "AMM0_LDA0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Black",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Black / White",
+     "sku": "AMM0_LDF0",
+     "priceMinor": 90900,
+     "compareAtMinor": 90900,
+     "available": false,
+     "options": [
+      "Black",
+      "White"
+     ]
+    },
+    {
+     "title": "Black / Black",
+     "sku": "AMM0_LDD0",
+     "priceMinor": 90400,
+     "compareAtMinor": 90400,
+     "available": false,
+     "options": [
+      "Black",
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:28:02.520Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:28:02.520Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0499/sconvolto-ammortizzato"
+   ],
+   "hash": "e8cd52a32dbacb5e"
+  },
+  {
+   "id": "BRD-0499/ammortizzato-tipo-d",
+   "name": "Ammortizzato Tipo D (pre-order)",
+   "url": "https://www.sconvolto.com/products/ammortizzato-tipo-d",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Dfloatfront.jpg?v=1603640991",
+    "width": 2426,
+    "height": 2426
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Dfloatfront.jpg?v=1603640991",
+     "width": 2426,
+     "height": 2426
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Dfloatside.jpg?v=1603640991",
+     "width": 2920,
+     "height": 2920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-dfloat34.jpg?v=1603640991",
+     "width": 2602,
+     "height": 2602
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Dfloatback.jpg?v=1603640993",
+     "width": 2708,
+     "height": 2708
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Dfloatbuckle.jpg?v=1603640993",
+     "width": 2395,
+     "height": 2395
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_DDD_1c5487f3-d762-4b0a-b54c-34de0513f886.png?v=1603640993",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_DAL_5dedc80a-09dd-48f1-82d4-490851aec72a.png?v=1603529357",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_DAA_e2968eb2-f1e3-4f93-b946-0a3fe748325f.png?v=1603529357",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_DAD_c3f83f42-38bc-466e-bfb0-a3a1fbd8341a.png?v=1603529357",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_DAF_b8d63c27-ff0e-4a8b-b4f8-d90f07593657.png?v=1603529357",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_DDA_0bc0ad7b-c201-4dd0-b21c-0b7f4b0a6a1d.png?v=1603529357",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_DDF_33bae6ed-ccf9-4855-bb0f-001425df826a.png?v=1603529357",
+     "width": 3403,
+     "height": 3403
+    }
+   ],
+   "priceMinor": 89900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Description: The red hour hand that recalls the rev limiter of the famous Contagiri per Competizione, with matching red caoutchouc accents on the black leather bracelet. The little black window contains a running seconds disk. Black crown and buckle. Specifications Case: 7075-T651 heat treated aluminium alloy. Hand-polished, anodized and EPD coated. 41x55mm, 75 grams (including bracelet). Shatterproof, distortion-free PMMA crystal. Brass crown, PVD coated black. Bracelet: Italian calfskin and premium natural rubber. Steel buckle, PVD coated black. Movement: Miyota 82S5, 21 jewels, 21600bph. 42hrs power reserve. 2 years warranty. Available only on Beautiful Machines website.",
+   "productType": "Watches",
+   "tags": [
+    "9015",
+    "black",
+    "competizione",
+    "contagiri",
+    "date",
+    "ducati",
+    "small seconds",
+    "Tipo D"
+   ],
+   "options": [
+    {
+     "name": "Colour",
+     "values": [
+      "Black [default]",
+      "Red",
+      "Blue",
+      "Gold"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Black [default]",
+      "Brown",
+      "White",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black [default] / Black [default]",
+     "sku": "AMM0_DDD0",
+     "priceMinor": 90400,
+     "compareAtMinor": 90400,
+     "available": false,
+     "options": [
+      "Black [default]",
+      "Black [default]"
+     ]
+    },
+    {
+     "title": "Black [default] / Brown",
+     "sku": "AMM0_DDA0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Black [default]",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Black [default] / White",
+     "sku": "AMM0_DDF0",
+     "priceMinor": 90900,
+     "compareAtMinor": 90900,
+     "available": false,
+     "options": [
+      "Black [default]",
+      "White"
+     ]
+    },
+    {
+     "title": "Black [default] / Gray",
+     "sku": "AMM0_DDL0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Black [default]",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Red / Black [default]",
+     "sku": "AMM0_DAD0",
+     "priceMinor": 90400,
+     "compareAtMinor": 90400,
+     "available": false,
+     "options": [
+      "Red",
+      "Black [default]"
+     ]
+    },
+    {
+     "title": "Red / Brown",
+     "sku": "AMM0_DAA0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Red",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Red / White",
+     "sku": "AMM0_DAF0",
+     "priceMinor": 90900,
+     "compareAtMinor": 90900,
+     "available": false,
+     "options": [
+      "Red",
+      "White"
+     ]
+    },
+    {
+     "title": "Red / Gray",
+     "sku": "AMM0_DAL0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Red",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Blue / Black [default]",
+     "sku": "AMM0_DFD0",
+     "priceMinor": 90400,
+     "compareAtMinor": 90400,
+     "available": false,
+     "options": [
+      "Blue",
+      "Black [default]"
+     ]
+    },
+    {
+     "title": "Blue / Brown",
+     "sku": "AMM0_DFA0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Blue / White",
+     "sku": "AMM0_DFF0",
+     "priceMinor": 90900,
+     "compareAtMinor": 90900,
+     "available": false,
+     "options": [
+      "Blue",
+      "White"
+     ]
+    },
+    {
+     "title": "Blue / Gray",
+     "sku": "AMM0_DFL0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Gold / Black [default]",
+     "sku": "AMM0_DLD0",
+     "priceMinor": 90400,
+     "compareAtMinor": 90400,
+     "available": false,
+     "options": [
+      "Gold",
+      "Black [default]"
+     ]
+    },
+    {
+     "title": "Gold / Brown",
+     "sku": "AMM0_DLA0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Gold",
+      "Brown"
+     ]
+    },
+    {
+     "title": "Gold / White",
+     "sku": "AMM0_DLF0",
+     "priceMinor": 90900,
+     "compareAtMinor": 90900,
+     "available": false,
+     "options": [
+      "Gold",
+      "White"
+     ]
+    },
+    {
+     "title": "Gold / Gray",
+     "sku": "AMM0_DLL0",
+     "priceMinor": 89900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Gold",
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:28:02.520Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:28:02.520Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0499/sconvolto-ammortizzato"
+   ],
+   "hash": "fb1f922472a0711a"
+  },
+  {
+   "id": "BRD-0499/ammortizzato-tipo-a",
+   "name": "Ammortizzato Tipo A (pre-order)",
+   "url": "https://www.sconvolto.com/products/ammortizzato-tipo-a",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Afloatfront.jpg?v=1603640946",
+    "width": 2403,
+    "height": 2403
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Afloatfront.jpg?v=1603640946",
+     "width": 2403,
+     "height": 2403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Afloatside.jpg?v=1603640946",
+     "width": 2907,
+     "height": 2907
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Afloat34.jpg?v=1603640946",
+     "width": 2623,
+     "height": 2623
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Afloatback.jpg?v=1603640946",
+     "width": 2697,
+     "height": 2697
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/Tipo-Afloatbuckle.jpg?v=1603640946",
+     "width": 2536,
+     "height": 2536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_AAA.png?v=1603640946",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_AAF.png?v=1603529318",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_AAD.png?v=1603529318",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_AAL.png?v=1603529318",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_AFA.png?v=1603529318",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_AFF.png?v=1603529318",
+     "width": 3403,
+     "height": 3403
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/products/var_AFD.png?v=1603529318",
+     "width": 3403,
+     "height": 3403
+    }
+   ],
+   "priceMinor": 98900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Description Inspired by Giulia GT Junior , the matte black dial with three hands and date is encased in bright red. The red seconds hand sweeps over a game of depths created by the various layers of the day window. The crown is black, so is the buckle on the other end of the golden brown bracelet that warms the wrist. Specifications Case : 7075-T651 heat treated aluminium alloy. Hand-polished, anodized and EPD coated. 41x55mm, 75 grams (including bracelet). Shatterproof, distortion-free PMMA crystal. Brass crown, PVD coated black. Bracelet: Italian calfskin and premium natural rubber. Steel buckle, PVD coated black. Movement: Miyota 9015, 24 jewels, 28800bph. 42hrs power reserve. 2 years warranty. Available only on Beautiful Machines website.",
+   "productType": "Watches",
+   "tags": [
+    "9015",
+    "alfa",
+    "date",
+    "giulia",
+    "red",
+    "Tipo A"
+   ],
+   "options": [
+    {
+     "name": "Colour",
+     "values": [
+      "Red [default]",
+      "Blue",
+      "Black",
+      "Gold"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Brown [default]",
+      "White",
+      "Black",
+      "Gray"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red [default] / Brown [default]",
+     "sku": "AMM0_AAA0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Red [default]",
+      "Brown [default]"
+     ]
+    },
+    {
+     "title": "Red [default] / White",
+     "sku": "AMM0_AAF0",
+     "priceMinor": 99900,
+     "compareAtMinor": 99900,
+     "available": false,
+     "options": [
+      "Red [default]",
+      "White"
+     ]
+    },
+    {
+     "title": "Red [default] / Black",
+     "sku": "AMM0_AAD0",
+     "priceMinor": 99400,
+     "compareAtMinor": 99400,
+     "available": false,
+     "options": [
+      "Red [default]",
+      "Black"
+     ]
+    },
+    {
+     "title": "Red [default] / Gray",
+     "sku": "AMM0_AAL0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Red [default]",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Blue / Brown [default]",
+     "sku": "AMM0_AFA0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Brown [default]"
+     ]
+    },
+    {
+     "title": "Blue / White",
+     "sku": "AMM0_AFF0",
+     "priceMinor": 99900,
+     "compareAtMinor": 99900,
+     "available": false,
+     "options": [
+      "Blue",
+      "White"
+     ]
+    },
+    {
+     "title": "Blue / Black",
+     "sku": "AMM0_AFD0",
+     "priceMinor": 99400,
+     "compareAtMinor": 99400,
+     "available": false,
+     "options": [
+      "Blue",
+      "Black"
+     ]
+    },
+    {
+     "title": "Blue / Gray",
+     "sku": "AMM0_AFL0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Blue",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Black / Brown [default]",
+     "sku": "AMM0_ADA0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Black",
+      "Brown [default]"
+     ]
+    },
+    {
+     "title": "Black / White",
+     "sku": "AMM0_ADF0",
+     "priceMinor": 99900,
+     "compareAtMinor": 99900,
+     "available": false,
+     "options": [
+      "Black",
+      "White"
+     ]
+    },
+    {
+     "title": "Black / Black",
+     "sku": "AMM0_ADD0",
+     "priceMinor": 99400,
+     "compareAtMinor": 99400,
+     "available": false,
+     "options": [
+      "Black",
+      "Black"
+     ]
+    },
+    {
+     "title": "Black / Gray",
+     "sku": "AMM0_ADL0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Black",
+      "Gray"
+     ]
+    },
+    {
+     "title": "Gold / Brown [default]",
+     "sku": "AMM0_ALA0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Gold",
+      "Brown [default]"
+     ]
+    },
+    {
+     "title": "Gold / White",
+     "sku": "AMM0_ALF0",
+     "priceMinor": 99900,
+     "compareAtMinor": 99900,
+     "available": false,
+     "options": [
+      "Gold",
+      "White"
+     ]
+    },
+    {
+     "title": "Gold / Black",
+     "sku": "AMM0_ALD0",
+     "priceMinor": 99400,
+     "compareAtMinor": 99400,
+     "available": false,
+     "options": [
+      "Gold",
+      "Black"
+     ]
+    },
+    {
+     "title": "Gold / Gray",
+     "sku": "AMM0_ALL0",
+     "priceMinor": 98900,
+     "compareAtMinor": 98900,
+     "available": false,
+     "options": [
+      "Gold",
+      "Gray"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:28:02.520Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:28:02.520Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0499/sconvolto-ammortizzato"
+   ],
+   "hash": "f66dd5ded5539b94"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0499/sconvolto-ammortizzato",
+   "name": "Sconvolto Ammortizzato",
+   "url": "https://www.sconvolto.com/collections/sconvolto-ammortizzato",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0228/2025/7828/collections/ammortizzato_w.png?v=1604274892",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "brandId": "BRD-1387",
+ "brandName": "VAULT",
+ "website": "https://www.vault.swiss",
+ "crawledAt": "2026-11-01T08:48:01.595Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://static.wixstatic.com/media/59a4be_463b196adeb44c539be9367dc7148fe0~mv2.png/v1/fill/w_95,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/VAULT%20Logo.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.vault.swiss/"
+ },
+ "attribution": "Images © VAULT, from vault.swiss",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1387/vault-ron-r1-2020-vtg-1",
+   "name": "VAULT RON R1 2020-VTG.1",
+   "url": "https://www.vault.swiss/product-page/vault-ron-r1-2020-vtg-1",
+   "image": {
+    "url": "https://static.wixstatic.com/media/59a4be_e6cdb243dc3c42b89148a570f95bc9cb~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/59a4be_e6cdb243dc3c42b89148a570f95bc9cb~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/59a4be_a499a294eb6045059234dbf999e71f98~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://static.wixstatic.com/media/59a4be_b236b11deb4b41ecbf25fff1387a0453~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 5900,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": "VAULT has created the R1-Ultimate composition sipping rum. Combining exquisite rums from across the globe and composed by our master blender Baldwin, the R1 delights with its complex flavours of vanilla, toffee and orange which are rounded off by a hint of dark chocolate and an incredibly smooth finish. This exclusive 500-piece limited series R1 rum by VAULT is hand-blended and hand-bottled in Switzerland. 33cl II 38% VOL",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:48:01.595Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:48:01.595Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "bf58f688cc556f43"
+  }
+ ],
+ "collections": []
+}

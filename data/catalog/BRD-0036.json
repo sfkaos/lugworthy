@@ -1,0 +1,1003 @@
+{
+ "brandId": "BRD-0036",
+ "brandName": "AMIDA",
+ "website": "https://www.amida-watches.com",
+ "crawledAt": "2026-11-01T06:23:58.364Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.amida-watches.com/cdn/shop/files/logo-black.png?v=1784142313",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.amida-watches.com/"
+ },
+ "attribution": "Images © AMIDA, from amida-watches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0036/digitrend-open-sapphire-black",
+   "name": "Digitrend OSII",
+   "url": "https://www.amida-watches.com/products/digitrend-open-sapphire-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/AMIDA-FICHE1.jpg?v=1782218938",
+    "width": 1800,
+    "height": 1800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/AMIDA-FICHE1.jpg?v=1782218938",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/1_a798c435-9a1b-4672-a612-35da98eeb7ba.png?v=1782218834",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/2_1cad9bf6-99ff-4ed5-9515-b2f29c8acd87.png?v=1782218835",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/AMIDA-FICHE2.jpg?v=1782218937",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/6.png?v=1782218835",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/3_11697dc0-907f-44f3-8d76-7bd97883eabc.png?v=1782218836",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida-open-sapphire-v2-lume.jpg?v=1784191025",
+     "width": 1440,
+     "height": 1440
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/4_d66e47f2-f869-4082-be9a-0b046155fccd.png?v=1782218835",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/5.png?v=1782218835",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/metal-bracelet.jpg?v=1784204618",
+     "width": 1959,
+     "height": 1959
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/alcantara-strap.jpg?v=1784202195",
+     "width": 1800,
+     "height": 1800
+    }
+   ],
+   "priceMinor": 515000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "montres",
+   "tags": [],
+   "options": [
+    {
+     "name": "Select your strap",
+     "values": [
+      "Alcantara",
+      "Metal Bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Alcantara",
+     "sku": "WG42AAW2.BEBNMM1A",
+     "priceMinor": 515000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Alcantara"
+     ]
+    },
+    {
+     "title": "Metal Bracelet",
+     "sku": "WG42AAW2.MASNMM",
+     "priceMinor": 550000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Metal Bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.6,
+    "lugWidthMm": 22,
+    "lugToLugMm": 39,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Select your strap": "Alcantara",
+    "Indication": "Jumping Hours · Scrolling Minutes",
+    "Display type": "LRD — Light Reflective Display with prism technology",
+    "Lume": "White C1 grade X1 BL Super-LumiNova on indices and framework accents",
+    "Caliber": "Soprod P024, Swiss automatic mechanical winding",
+    "Auxiliary module": "Jumping hour disc, developed in-house, 9 mechanical components, 8 screws",
+    "Module height": "2mm",
+    "Jewels": "23",
+    "Frequency": "28,800 vph (4 Hz)",
+    "Power reserve": "44 hours",
+    "Finishes": "Côtes de Genève, sandblasted and circular-grained skeletonized oscillating weight, rhodium-plated",
+    "Material": "316L stainless steel, satin-brushed and polished",
+    "Sapphire hood": "Single-block machined sapphire top shell",
+    "Crystal": "Sapphire with reflective prism",
+    "Dimensions": "39.6 mm (W) × 39.0 mm (L) × 15.6 mm (H)",
+    "Lug-to-lug": "39 mm",
+    "Water resistance": "5 ATM (50 meters)",
+    "Strap": "Charcoal Alcantara, lined in orange calfskin",
+    "Bracelet": "316L stainless steel (optional)",
+    "Lug width": "22 mm",
+    "Buckle": "Stainless steel, 18 mm",
+    "Weight": "110 grams",
+    "Quick release": "Fitted with quick-change spring bars"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:58.364Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:58.364Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0036/digitrend"
+   ],
+   "hash": "d5c8acfac9a50a42"
+  },
+  {
+   "id": "BRD-0036/digitrend-nasa-tribute",
+   "name": "Digitrend Nasa Tribute",
+   "url": "https://www.amida-watches.com/products/digitrend-nasa-tribute",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Nasa_01_Front_sRGB_Stitches.png?v=1764571522",
+    "width": 1920,
+    "height": 1920
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Nasa_01_Front_sRGB_Stitches.png?v=1764571522",
+     "width": 1920,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/AMIDA-NASA-HOME-PRODUCT.jpg?v=1782219824",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Nasa_02_Side_sRGB_b672dd7e-54d8-40c3-8914-7a2a9c98d7e0.png?v=1764571522",
+     "width": 1920,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Nasa_05_Back_sRGB_b323247d-a681-4bfd-baab-ae464a8bbdd0.png?v=1764571522",
+     "width": 1920,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Nasa_04_Strap_sRGB_Stitches.png?v=1764571522",
+     "width": 1920,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Nasa_06_Case_sRGB_e0ef0ef2-135b-48ee-ad74-2c2d9a1b100e.png?v=1764571522",
+     "width": 1920,
+     "height": 1919
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Nasa_03_3quarters_sRGB_72be996a-7f64-46dc-a243-69ff065d7c33.png?v=1764571522",
+     "width": 1919,
+     "height": 1920
+    }
+   ],
+   "priceMinor": 340000,
+   "currency": "CHF",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "montres",
+   "tags": [
+    "Limited Edition"
+   ],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Velcro"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Velcro",
+     "sku": "WG31DBW.VDNNMM1NS",
+     "priceMinor": 340000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Velcro"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.6,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 4.6,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Auxiliary Module": "Jumping hour disc developed in-house",
+    "with 9 mechanical components Jewels": "23 Rubies Frequency: 28,800 vph (4Hz)",
+    "Power reserve": "44 hours Movement Thickness: 4.6 mm Auxiliary Thickness: 2 mm Indications: Dual discs, for hours & minutes,",
+    "CASE Material": "316L Stainless steel black DLC",
+    "White Ceramic top shell Dimensions": "W 39.6 mm / L 39 mm / H 15.6 mm Water Resistant: 5 ATM (50 meters) Weight: 90 grams Lug Width: 22 mm BUCKLE Material: 316L Stainless steel, Black DLC",
+    "STRAP Material": "Bi-material strap, leather and technical fabric, velcro closing system Dimensions: 22 mm to 18 mm wide",
+    "Presenting the AMIDA Digitrend NASA Tribute": "Our commemoration to a pivotal era of human exploration",
+    "SPECIFICATIONS MOVEMENT CALIBER": "Soprod Newton P092, Swiss automatic",
+    "CALIBER": "Soprod Newton P092, Swiss automatic",
+    "Jewels": "23 Rubies",
+    "Frequency": "28,800 vph (4Hz)",
+    "Movement Thickness": "4.6 mm",
+    "Auxiliary Thickness": "2 mm",
+    "Indications": "Dual discs, for hours & minutes,",
+    "Material": "316L Stainless steel black DLC",
+    "Dimensions": "W 39.6 mm / L 39 mm / H 15.6 mm",
+    "Water Resistant": "5 ATM (50 meters)",
+    "Weight": "90 grams",
+    "Lug Width": "22 mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:23:58.364Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:58.364Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0036/archives",
+    "BRD-0036/digitrend"
+   ],
+   "hash": "23be4565d00c1e9f"
+  },
+  {
+   "id": "BRD-0036/digitrend-open-sapphire",
+   "name": "Digitrend OSI",
+   "url": "https://www.amida-watches.com/products/digitrend-open-sapphire",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Digitrend_open_sapphire_GPHG.webp?v=1757071274",
+    "width": 1800,
+    "height": 1800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Digitrend_open_sapphire_GPHG.webp?v=1757071274",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/5_d464884f-ad12-4ab8-be97-da0bc4a56469.jpg?v=1757071274",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/2_56f83219-325e-41b9-83c2-1a8cd808b284.jpg?v=1757071274",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/3_02ea1fca-b366-4550-8d5b-d498d16aadda.jpg?v=1757071274",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/4_cb573009-37ce-4cef-b74d-422bb59de42a.jpg?v=1757071274",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/6_293bfc34-4e64-485f-a799-1583a03cf618.jpg?v=1757071274",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/7.jpg?v=1757071274",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/8.jpg?v=1757071274",
+     "width": 1800,
+     "height": 1800
+    }
+   ],
+   "priceMinor": 450000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "montres",
+   "tags": [
+    "__label: Sold out"
+   ],
+   "options": [
+    {
+     "name": "Select your strap",
+     "values": [
+      "Metal Bracelet",
+      "Alcantara"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Metal Bracelet",
+     "sku": "WG41AAA.MASNMM",
+     "priceMinor": 485000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Alcantara",
+     "sku": "WG41AAA.BEBNMM1A",
+     "priceMinor": 450000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Alcantara"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.6,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 4.6,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Presenting the Amida Digitrend Open Sapphire": "Discover our future",
+    "Caliber": "Soprod NEWTON P092, Swiss automatic mechanical winding",
+    "Auxiliary Module": "Jumping hour disc developed in-house module with 9 mechanical components and 6 screws",
+    "Jewels": "23 rubies",
+    "Frequency": "28,800 vph (4 Hz)",
+    "Power reserve": "44 hours",
+    "Movement Thickness": "4.6mm",
+    "Auxiliary module": "2mm",
+    "Finishes": "Côtes de Genève , sandblasted, circular-grained skeletonized oscillating weight rhodium-plated finishes",
+    "Indications": "Dual discs, for hours and minutes (LRD – Light Reflective Display)",
+    "Material": "316L stainless steel, satin-brushed and polished with Open Sapphire top",
+    "Dimensions": "Width 39.6 mm / Length 39 mm / Height 15.6 mm",
+    "Crystal Sapphire": "crystal reflective prism",
+    "Water resistance": "5 ATM (50 meters)",
+    "Strap & Buckle": "Charcoal Alcantara lined in orange calfskin and metal bracelet",
+    "Lug width": "22mm",
+    "Weight": "110 grams"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:58.364Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:58.364Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0036/archives",
+    "BRD-0036/digitrend"
+   ],
+   "hash": "db16988cebc8ddce"
+  },
+  {
+   "id": "BRD-0036/digitrend-steel",
+   "name": "Digitrend Steel",
+   "url": "https://www.amida-watches.com/products/digitrend-steel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Digitrend_steel_GPHG_webp.jpg?v=1757587019",
+    "width": 1300,
+    "height": 1300
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Digitrend_steel_GPHG_webp.jpg?v=1757587019",
+     "width": 1300,
+     "height": 1300
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Caseback_Steel.jpg?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida_digitrend_steel_alcantara.jpg?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/3_84ab9e94-af88-4399-ae77-9392408b1105.png?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/2_2e79c834-cbd9-4e4e-b178-62812164c02b.png?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/5.jpg?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/4_a9a63c74-84cd-4217-9645-f82c077eabf2.jpg?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/4_2e3c1d6d-0bce-48d3-9bff-2a3862a557e1.png?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    }
+   ],
+   "priceMinor": 290000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "montres",
+   "tags": [],
+   "options": [
+    {
+     "name": "Select your strap",
+     "values": [
+      "Metal Bracelet",
+      "Alcantara"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Metal Bracelet",
+     "sku": "AMDITOE-STEEL-MET",
+     "priceMinor": 325000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Alcantara",
+     "sku": "AMDITOE-STEEL-AL",
+     "priceMinor": 290000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Alcantara"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.6,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 4.6,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Select your strap": "Metal Bracelet",
+    "Caliber": "Soprod NEWTON P092, Swiss automatic mechanical winding",
+    "Auxiliary Module": "Jumping hour disc developed in-house module with 9 mechanical components and 6 screws",
+    "Jewels": "23 rubies",
+    "Frequency": "28,800 vph (4 Hz)",
+    "Power reserve": "44 hours",
+    "Movement Thickness": "4.6mm",
+    "Auxiliary module": "2mm",
+    "Finishes": "Côtes de Genève , sandblasted, circular-grained skeletonized oscillating weight rhodium-plated finishes",
+    "Indications": "Dual discs, for hours and minutes (LRD – Light Reflective Display)",
+    "Material": "316L stainless steel, satin-brushed and polished",
+    "Dimensions": "Width 39.6 mm / Length 39 mm / Height 15.6 mm",
+    "Crystal Sapphire": "crystal reflective prism",
+    "Water resistance": "5 ATM (50 meters)",
+    "Strap & Buckle": "Charcoal Alcantara lined in orange calfskin and metal bracelet",
+    "Lug width": "22mm",
+    "Weight": "110 grams",
+    "AMIDA specialized in Jumping Hours products": "jumping hour disc and a trailing minutes disc. A Patent No.3,685,283 was filed on November 13, 1970, (same patent number that appears on the back of original Digitrend models)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:58.364Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:58.364Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0036/digitrend",
+    "BRD-0036/digitrend-classic-edition"
+   ],
+   "hash": "5c108d0f2b4e9ecf"
+  },
+  {
+   "id": "BRD-0036/digitrend-gold",
+   "name": "Digitrend Gold",
+   "url": "https://www.amida-watches.com/products/digitrend-gold",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida_digitrend_gold_bracelet.jpg?v=1727775607",
+    "width": 1800,
+    "height": 1800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida_digitrend_gold_bracelet.jpg?v=1727775607",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Caseback_Gold_4N.jpg?v=1732649740",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida_digitrend_gold_alcantara.jpg?v=1727775608",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Lifestyle_10_232205_1800x1800_97ffe5e8-0517-42bb-9ac9-6c538b69fcd5.jpg?v=1732023209",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/4_2e3c1d6d-0bce-48d3-9bff-2a3862a557e1.png?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    }
+   ],
+   "priceMinor": 350000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "montres",
+   "tags": [
+    "_label: Sold Out"
+   ],
+   "options": [
+    {
+     "name": "Select your strap",
+     "values": [
+      "Metal Bracelet",
+      "Alcantara"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Metal Bracelet",
+     "sku": "AMDITOE-4N-MET",
+     "priceMinor": 385000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Alcantara",
+     "sku": "AMDITOE-4N-AL",
+     "priceMinor": 350000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Alcantara"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.6,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 4.6,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Select your strap": "Metal Bracelet",
+    "Caliber": "Soprod NEWTON P092, Swiss automatic mechanical winding",
+    "Auxiliary Module": "Jumping hour disc developed in-house module with 9 mechanical components and 6 screws",
+    "Jewels": "23 rubies",
+    "Frequency": "28,800 vph (4 Hz)",
+    "Power reserve": "44 hours",
+    "Movement Thickness": "4.6mm",
+    "Auxiliary module": "2mm",
+    "Finishes": "Côtes de Genève , sandblasted, circular-grained skeletonized oscillating weight rhodium-plated finishes",
+    "Indications": "Dual discs, for hours and minutes (LRD – Light Reflective Display)",
+    "Material": "316L stainless steel, satin-brushed and polished with 4N Gold PVD coating",
+    "Dimensions": "Width 39.6 mm / Length 39 mm / Height 15.6 mm",
+    "Crystal Sapphire": "crystal reflective prism",
+    "Water resistance": "5 ATM (50 meters)",
+    "Strap & Buckle": "Charcoal Alcantara lined in orange calfskin and metal bracelet",
+    "Lug width": "22mm",
+    "Weight": "110 grams",
+    "AMIDA specialized in Jumping Hours products": "jumping hour disc and a trailing minutes disc. A Patent No.3,685,283 was filed on November 13, 1970, (same patent number that appears on the back of original Digitrend models)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:58.364Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:58.364Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0036/digitrend",
+    "BRD-0036/digitrend-classic-edition"
+   ],
+   "hash": "a1887d555d2a00bf"
+  },
+  {
+   "id": "BRD-0036/digitrend-black",
+   "name": "Digitrend Black",
+   "url": "https://www.amida-watches.com/products/digitrend-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida_digitrend_black_dlc_bracelet.jpg?v=1727775608",
+    "width": 1800,
+    "height": 1800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida_digitrend_black_dlc_bracelet.jpg?v=1727775608",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Caseback_Black.jpg?v=1732649740",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida_digitrend_black_alcantara.jpg?v=1727775607",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Lifestyle_09_232030_1800x1800_cc49add3-6c09-4d04-b6fc-4a5586c873d1.jpg?v=1732023116",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/1_0d122374-cb92-4f27-8240-1a5e4c8d4b8c.jpg?v=1730213041",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/3_399d4e89-b1cb-4ea7-83f3-d076f3f19f72.jpg?v=1730213042",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/2_f866ffec-6dae-4fa3-8ed5-cd3a7e37a701.jpg?v=1730213041",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Amida_Lifestyle_06_231871_1800x1800_0678543d-eb43-49cf-aec9-232bb03b8956.jpg?v=1732023116",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/4_2e3c1d6d-0bce-48d3-9bff-2a3862a557e1.png?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    }
+   ],
+   "priceMinor": 325000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "montres",
+   "tags": [],
+   "options": [
+    {
+     "name": "Select your strap",
+     "values": [
+      "Metal Bracelet",
+      "Alcantara"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Metal Bracelet",
+     "sku": "AMDITOE-BLACK-MET",
+     "priceMinor": 360000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Alcantara",
+     "sku": "AMDITOE-BLACK-AL",
+     "priceMinor": 325000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Alcantara"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.6,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 4.6,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Select your strap": "Metal Bracelet",
+    "Caliber": "Soprod NEWTON P092, Swiss automatic mechanical winding",
+    "Auxiliary Module": "Jumping hour disc developed in-house module with 9 mechanical components and 6 screws",
+    "Jewels": "23 rubies",
+    "Frequency": "28,800 vph (4 Hz)",
+    "Power reserve": "44 hours",
+    "Movement Thickness": "4.6mm",
+    "Auxiliary module": "2mm",
+    "Finishes": "Côtes de Genève , sandblasted, circular-grained skeletonized oscillating weight rhodium-plated finishes",
+    "Indications": "Dual discs, for hours and minutes (LRD – Light Reflective Display)",
+    "Material": "316L stainless steel, satin-brushed and polished with black DLC coating",
+    "Dimensions": "Width 39.6 mm / Length 39 mm / Height 15.6 mm",
+    "Crystal Sapphire": "crystal reflective prism",
+    "Water resistance": "5 ATM (50 meters)",
+    "Strap & Buckle": "Charcoal Alcantara lined in orange calfskin and metal bracelet",
+    "Lug width": "22mm",
+    "Weight": "110 grams",
+    "AMIDA specialized in Jumping Hours products": "jumping hour disc and a trailing minutes disc. A Patent No.3,685,283 was filed on November 13, 1970, (same patent number that appears on the back of original Digitrend models)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:58.364Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:58.364Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0036/digitrend",
+    "BRD-0036/digitrend-classic-edition"
+   ],
+   "hash": "6f2816195d8bfb08"
+  },
+  {
+   "id": "BRD-0036/digitrend-take-off-edition",
+   "name": "Digitrend Steel Take Off Edition",
+   "url": "https://www.amida-watches.com/products/digitrend-take-off-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Digitrend_steel_GPHG_webp.jpg?v=1757587019",
+    "width": 1300,
+    "height": 1300
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/Digitrend_steel_GPHG_webp.jpg?v=1757587019",
+     "width": 1300,
+     "height": 1300
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/amida_digitrend_steel_alcantara.jpg?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/3_84ab9e94-af88-4399-ae77-9392408b1105.png?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/2_2e79c834-cbd9-4e4e-b178-62812164c02b.png?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/1_5014697c-0b18-4805-bd07-9219cac0c7f1.png?v=1716461469",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/5.jpg?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/4_a9a63c74-84cd-4217-9645-f82c077eabf2.jpg?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/2.jpg?v=1716816368",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/4_2e3c1d6d-0bce-48d3-9bff-2a3862a557e1.png?v=1757587019",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/files/1.jpg?v=1716816369",
+     "width": 1800,
+     "height": 1800
+    }
+   ],
+   "priceMinor": 290000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "montres",
+   "tags": [
+    "__label: Sold out"
+   ],
+   "options": [
+    {
+     "name": "Select your strap",
+     "values": [
+      "Combo Alcantara strap and Metal bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Combo Alcantara strap and Metal bracelet",
+     "sku": "AMDITOE-1",
+     "priceMinor": 290000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Combo Alcantara strap and Metal bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.6,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 4.6,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Caliber": "Soprod NEWTON P092, Swiss automatic mechanical winding",
+    "Auxiliary Module": "Jumping hour disc developed in-house module with 9 mechanical components and 6 screws",
+    "Jewels": "23 rubies",
+    "Frequency": "28,800 vph (4 Hz)",
+    "Power reserve": "44 hours",
+    "Movement Thickness": "4.6mm",
+    "Auxiliary module": "2mm",
+    "Finishes": "Côtes de Genève , sandblasted, circular-grained skeletonized oscillating weight rhodium-plated finishes",
+    "Indications": "Dual discs, for hours and minutes (LRD – Light Reflective Display)",
+    "Material": "316L stainless steel, satin-brushed and polished",
+    "Dimensions": "Width 39.6 mm / Length 39 mm / Height 15.6 mm",
+    "Crystal Sapphire": "crystal reflective prism",
+    "Water resistance": "5 ATM (50 meters)",
+    "Strap & Buckle": "Charcoal Alcantara lined in orange calfskin and metal bracelet",
+    "Lug width": "22mm",
+    "Weight": "110 grams",
+    "AMIDA specialized in Jumping Hours products": "jumping hour disc and a trailing minutes disc. A Patent No.3,685,283 was filed on November 13, 1970, (same patent number that appears on the back of original Digitrend models)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:58.364Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:58.364Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0036/archives"
+   ],
+   "hash": "8db55484dbab8427"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0036/archives",
+   "name": "ARCHIVES",
+   "url": "https://www.amida-watches.com/collections/archives",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0036/digitrend",
+   "name": "DIGITREND",
+   "url": "https://www.amida-watches.com/collections/digitrend",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0815/8511/1379/collections/Amida_Lifestyle_06_231871_1800x1800_0678543d-eb43-49cf-aec9-232bb03b8956.jpg?v=1732531239",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0036/digitrend-classic-edition",
+   "name": "DIGITREND CLASSIC EDITION",
+   "url": "https://www.amida-watches.com/collections/digitrend-classic-edition",
+   "description": null,
+   "image": null
+  }
+ ]
+}

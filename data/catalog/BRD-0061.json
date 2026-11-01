@@ -1,0 +1,97 @@
+{
+ "brandId": "BRD-0061",
+ "brandName": "ARKEN",
+ "website": "https://arken.uk",
+ "crawledAt": "2026-11-01T06:28:45.600Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/589702eddb29d63750e55754/6abcdadd-3b72-45ef-b1b0-02c8147748ae/AALOGO.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://arken.uk/"
+ },
+ "attribution": "Images © ARKEN, from arken.uk",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0061/arkenalterum1122",
+   "name": "Arken Alterum",
+   "url": "https://arken.uk/watches/p/arkenalterum1122",
+   "image": {
+    "url": "http://static1.squarespace.com/static/589702eddb29d63750e55754/601d5fbef87d017749c565ce/6470908691b7ad29770d6741/1791550682390/Alterum_Black.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/589702eddb29d63750e55754/601d5fbef87d017749c565ce/6470908691b7ad29770d6741/1791550682390/Alterum_Black.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 63000,
+   "currency": "GBP",
+   "availability": "sold_out",
+   "description": "PRE-ORDER WINDOW IS NOW CLOSED Delivery time for orders may vary depending on total orders placed during the pre-order window. First come, first served. ESTIMATED DELIVERY Q4 2026 - Q2 2027 BLACK & ANTHRACITE VERSIONS WILL NO LONGER BE AVAILABLE ONLINE. INCLUDES STANDARD WARRANTY * *Warranty replacement or repair of the ARK-9015DT2 movement specifically extends beyond the policy provided and is reviewed on a case by case basis.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Color": "ANTHRACITE GREY BLACK SAGE GREY",
+    "SPECIFICATIONS CASE": "FULL TITANIUM CASE CONSTRUCTION WITH ANTI-SCRATCH TREATMENT",
+    "CALIBRE": "ARK-9015DT2 (MODIFIED BASE MIYOTA 9015 w/ 12 HOUR GMT HAND FUNCTION)",
+    "WATER RESISTANCE": "200m / 660ft",
+    "CRYSTAL": "ANTI-REFLECTIVE UNDERSIDE COATED SAPPHIRE",
+    "LUME": "SOLID BGW9 SUPER-LUMINOVA",
+    "PRIMARY CROWN": "SCREW-LOCKED",
+    "SECONDARY CROWN": "SCREW-LOCKED PUSHER",
+    "CASEBACK": "SCREW-LOCKED",
+    "STRAP": "CASE FIT QUICK RELEASE TAPERED NYLON STRAP",
+    "CASE": "FULL TITANIUM CASE CONSTRUCTION WITH ANTI-SCRATCH TREATMENT"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:28:45.600Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:45.600Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0061/watches"
+   ],
+   "hash": "9d78b27286d5caff"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0061/watches",
+   "name": "Store",
+   "url": "https://arken.uk/watches",
+   "description": null,
+   "image": {
+    "url": "http://static1.squarespace.com/static/589702eddb29d63750e55754/t/63ee3d3a0fcf290f26ad0497/1676557626749/arken+logo.png?format=1500w",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

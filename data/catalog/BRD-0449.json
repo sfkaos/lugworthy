@@ -1,0 +1,331 @@
+{
+ "brandId": "BRD-0449",
+ "brandName": "Papar Watch Company",
+ "website": "https://www.paparwatchco.com",
+ "crawledAt": "2026-11-01T08:15:34.617Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/6668aa69b6c64b15ddf80b3f/c36dcbe9-bd61-4bf9-a808-54691b6df034/papar+logo_low+res.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.paparwatchco.com/"
+ },
+ "attribution": "Images © Papar Watch Company, from paparwatchco.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0449/vuelte",
+   "name": "Vuelte",
+   "url": "https://www.paparwatchco.com/purchase/p/vuelte",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/6acf92e3bdcf6160773cd2f3/1792116355007/Vuelte_Sales_page+copy.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/6acf92e3bdcf6160773cd2f3/1792116355007/Vuelte_Sales_page+copy.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 115000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Diameter: 38mm Thickness: 8.8mm Lug-to-Lug: 45mm Case Material: 316L Steel Water Resistance: 100m Movement: Miyota 9039 Complication: Wandering Hour Packaging: Leather watch roll Initial Run: 100 numbered watches BUY IT HERE",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": 45,
+    "thicknessMm": 8.8,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diameter": "38mm",
+    "Thickness": "8.8mm",
+    "Lug-to-Lug": "45mm",
+    "Case Material": "316L Steel",
+    "Water Resistance": "100m",
+    "Movement": "Miyota 9039",
+    "Complication": "Wandering Hour",
+    "Packaging": "Leather watch roll",
+    "Initial Run": "100 numbered watches"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:15:34.617Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:15:34.617Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "51dc830fca1a22e0"
+  },
+  {
+   "id": "BRD-0449/anillo-gmt-steel",
+   "name": "Anillo GMT - Steel",
+   "url": "https://www.paparwatchco.com/purchase/p/anillo-gmt-steel",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/669f07635c2bb33e12465eaf/1787901796794/IMG_2923_rose_flat_v3.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/669f07635c2bb33e12465eaf/1787901796794/IMG_2923_rose_flat_v3.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 75000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "THE SPECS Diameter: 36mm Thickness: 12.1mm Lug-to-Lug: 43mm Case Material: 316L Steel Water Resistance: 100m Movement: Miyota 9075 Complication: Sub-dial GMT disc Sapphire crystal with AR coating Packaging: Leather watch roll Initial Run: 100 numbered watches Contact us for international shipping options.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": 43,
+    "thicknessMm": 12.1,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diameter": "36mm",
+    "Thickness": "12.1mm",
+    "Lug-to-Lug": "43mm",
+    "Case Material": "316L Steel",
+    "Water Resistance": "100m",
+    "Movement": "Miyota 9075",
+    "Complication": "Sub-dial GMT disc",
+    "Packaging": "Leather watch roll",
+    "Initial Run": "100 numbered watches"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:15:34.617Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:15:34.617Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c29a390d0a825cff"
+  },
+  {
+   "id": "BRD-0449/anillo-gmt-steel-e9dn8",
+   "name": "Cenote - Titanium + Blue",
+   "url": "https://www.paparwatchco.com/purchase/p/anillo-gmt-steel-e9dn8",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/6897e95a5432ee782075018b/1788063979893/papar_ceonte_titanium_full.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/6897e95a5432ee782075018b/1788063979893/papar_ceonte_titanium_full.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "NOW SHIPPING! THE SPECS Diameter: 40mm Thickness: 10.9mm Lug-to-Lug: 47mm Weight: 60g (including strap + buckle) Case Material: Titanium Bezel Insert Material: Matte blue ceramic Lume: Lumè (Superluminova Fumè) dial + lume hands Water Resistance: 200m Movement: Miyota 9015 Sapphire crystal with AR coating Strap: Sailcloth Buckle: Titanium Packaging: Leather watch roll Initial Run: 100 numbered watches Contact us for international shipping options.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 47,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "sailcloth"
+   },
+   "specsRaw": {
+    "Diameter": "40mm",
+    "Thickness": "10.9mm",
+    "Lug-to-Lug": "47mm",
+    "Weight": "60g (including strap + buckle)",
+    "Case Material": "Titanium",
+    "Bezel Insert Material": "Matte blue ceramic",
+    "Lume": "Lumè (Superluminova Fumè) dial + lume hands",
+    "Water Resistance": "200m",
+    "Movement": "Miyota 9015",
+    "Strap": "Sailcloth",
+    "Buckle": "Titanium",
+    "Packaging": "Leather watch roll",
+    "Initial Run": "100 numbered watches"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:15:34.617Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:15:34.617Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e58cbc7c609b0419"
+  },
+  {
+   "id": "BRD-0449/anillo-gmt-steel-e9dn8-yb7dw",
+   "name": "Cenote - Rose Gold Titanium",
+   "url": "https://www.paparwatchco.com/purchase/p/anillo-gmt-steel-e9dn8-yb7dw",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/6897eb2124cd830c6fb7bc08/1788063981764/ceonte_rosegold_full+%281%29.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/6897eb2124cd830c6fb7bc08/1788063981764/ceonte_rosegold_full+%281%29.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "NOW SHIPPING! THE SPECS Diameter: 40mm Thickness: 10.9mm Lug-to-Lug: 47mm Weight: 60g (including strap + buckle) Material: Rose Gold PVD coated Titanium Bezel Insert Material: Gloss black ceramic Movement: Miyota 9015 Sapphire crystal with AR coating Strap: Sailcloth Buckle: Titanium Packaging: Leather watch roll Initial Run: 100 numbered watches Contact us for international shipping options.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 47,
+    "thicknessMm": 10.9,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "sailcloth"
+   },
+   "specsRaw": {
+    "Diameter": "40mm",
+    "Thickness": "10.9mm",
+    "Lug-to-Lug": "47mm",
+    "Weight": "60g (including strap + buckle)",
+    "Material": "Rose Gold PVD coated Titanium",
+    "Bezel Insert Material": "Gloss black ceramic",
+    "Movement": "Miyota 9015",
+    "Strap": "Sailcloth",
+    "Buckle": "Titanium",
+    "Packaging": "Leather watch roll",
+    "Initial Run": "100 numbered watches"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:15:34.617Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:15:34.617Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8b51e6ed9bdd9175"
+  },
+  {
+   "id": "BRD-0449/anillo-gmt-rose-gold",
+   "name": "Anillo GMT - Rose Gold",
+   "url": "https://www.paparwatchco.com/purchase/p/anillo-gmt-rose-gold",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/669f0686a2489606ec4e0194/1787901796257/IMG_2923_rose_flat_v2.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6668aa69b6c64b15ddf80b3f/6678c13907c2cd08a7ca750d/669f0686a2489606ec4e0194/1787901796257/IMG_2923_rose_flat_v2.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 75000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "THE SPECS Diameter: 36mm Thickness: 12.1mm Lug-to-Lug: 43mm Case Material: 316L Steel (rose gold PVD) Water Resistance: 100m Movement: Miyota 9075 Complication: Sub-dial GMT disc Sapphire crystal with AR coating Packaging: Leather watch roll Initial Run: 100 numbered watches *Triangle on production watch is orange, not green Contact us for international shipping options.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": 43,
+    "thicknessMm": 12.1,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Diameter": "36mm",
+    "Thickness": "12.1mm",
+    "Lug-to-Lug": "43mm",
+    "Case Material": "316L Steel (rose gold PVD)",
+    "Water Resistance": "100m",
+    "Movement": "Miyota 9075",
+    "Complication": "Sub-dial GMT disc",
+    "Packaging": "Leather watch roll",
+    "Initial Run": "100 numbered watches"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:15:34.617Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:15:34.617Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f7da1fb2c270ac25"
+  }
+ ],
+ "collections": []
+}

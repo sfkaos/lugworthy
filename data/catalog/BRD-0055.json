@@ -1,0 +1,253 @@
+{
+ "brandId": "BRD-0055",
+ "brandName": "Ardath",
+ "website": "https://ardathwatches.ch",
+ "crawledAt": "2026-11-01T06:28:00.434Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://ardathwatches.ch/wp-content/uploads/2025/01/ARDATH_LOGO_WHITE.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://ardathwatches.ch/"
+ },
+ "attribution": "Images © Ardath, from ardathwatches.ch",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0055/reefguard",
+   "name": "Reefguard",
+   "url": "https://ardathwatches.ch/product/reefguard/",
+   "image": {
+    "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/prodotto-ardath-bob.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/prodotto-ardath-bob.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/02-prodotto.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/03-prodotto.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/04-prodotto.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/05-prodotto.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/06-prodotto.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/07-prodotto.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/08-prodotto.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/09/09-prodotto.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 149000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The iconic 1959 Reefguard reborn as a tribute to Bob Croft, Father of American Freediving. The iconic 1959 Reefguard reborn as a tribute to Bob Croft, Father of American Freediving.",
+   "productType": "Watches",
+   "tags": [
+    "REEFGUARD"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "mesh"
+   },
+   "specsRaw": {
+    "TWO-PIECE SCREW-IN TRIBUTE CASE BACK": "Engineered for precise alignment and enhanced water resistance. Individually numbered 001–300.",
+    "TOOL-LESS ADJUSTABLE CLASP": "Effortless on-the-fly sizing for changing wrist conditions, such as temperature or wetsuit thickness, without needing tools.",
+    "DOUBLE STRAP-PIN HOLES": "A second set of pin holes closes the gap between case and strap, giving Ardath’s FKM rubber and mesh straps, as well as other aftermarket options, a tighter, more integrated fit.",
+    "The Reefguard": "A Tribute Decades in the Making"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:00.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:00.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "eebad3729b0caeca"
+  },
+  {
+   "id": "BRD-0055/confetti",
+   "name": "Confetti",
+   "url": "https://ardathwatches.ch/product/confetti/",
+   "image": {
+    "url": "https://ardathwatches.ch/wp-content/uploads/2026/07/giallo-04.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2026/07/giallo-04.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 99000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A Swiss-made automatic watch, unconventionally small, unapologetically colorful. Seriously Fun. A Swiss-made automatic watch, unconventionally small, unapologetically colorful. Seriously Fun.",
+   "productType": "Watches",
+   "tags": [
+    "CONFETTI"
+   ],
+   "options": [
+    {
+     "name": "Reference",
+     "values": [
+      "P803C",
+      "P231C",
+      "P185C",
+      "WHITE",
+      "P3105C",
+      "P151C"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Reference": "P803C, P231C, P185C, WHITE, P3105C, P151C",
+    "Hands finish": "brushed",
+    "power reserve": "42 hours"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:00.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:00.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "46e494d7267fdb95"
+  },
+  {
+   "id": "BRD-0055/long-distance",
+   "name": "Long Distance",
+   "url": "https://ardathwatches.ch/product/long-distance/",
+   "image": {
+    "url": "https://ardathwatches.ch/wp-content/uploads/2025/01/Bianco_Bianco.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://ardathwatches.ch/wp-content/uploads/2025/01/Bianco_Bianco.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 340000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Swiss-made automatic dual time watch, limited to 300 numbered pieces showcasing the in-house “city display” complication. Swiss-made automatic dual time watch, limited to 300 numbered pieces showcasing the in-house “city display” complication",
+   "productType": "Watches",
+   "tags": [
+    "LONG DISTANCE"
+   ],
+   "options": [
+    {
+     "name": "Reference",
+     "values": [
+      "LX292",
+      "BL667"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "white",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Reference": "LX292, BL667",
+    "Dial finish": "blu sunray/matte white",
+    "Hands finish": "brushed",
+    "power reserve": "42 hours"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:00.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:00.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e4458c825b5cd85d"
+  }
+ ],
+ "collections": []
+}

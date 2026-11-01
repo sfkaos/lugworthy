@@ -1,0 +1,71 @@
+{
+ "brandId": "BRD-0742",
+ "brandName": "Bianchet",
+ "website": "https://www.bianchet.com",
+ "crawledAt": "2026-11-01T06:39:05.298Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://static.wixstatic.com/media/b017ad_7ccba1c2c5ba457280543641890c603a~mv2.jpg/v1/fill/w_2500,h_1592,al_c/b017ad_7ccba1c2c5ba457280543641890c603a~mv2.jpg",
+  "width": 2500,
+  "height": 1592,
+  "kind": "og_image",
+  "sourcePage": "https://www.bianchet.com/"
+ },
+ "attribution": "Images © Bianchet, from bianchet.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0742/rotondo",
+   "name": "BIANCHET SA",
+   "url": "https://www.bianchet.com/collections/rotondo",
+   "image": {
+    "url": "https://static.wixstatic.com/media/2954f2_f3826d42e2e842068496dbc6bf76304b%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/2954f2_f3826d42e2e842068496dbc6bf76304b%7Emv2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://static.wixstatic.com/media/2954f2_f3826d42e2e842068496dbc6bf76304b%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/2954f2_f3826d42e2e842068496dbc6bf76304b%7Emv2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T06:39:05.298Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:39:05.298Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8783c9f889bf90aa"
+  }
+ ],
+ "collections": []
+}

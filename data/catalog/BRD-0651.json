@@ -1,0 +1,424 @@
+{
+ "brandId": "BRD-0651",
+ "brandName": "Akhor",
+ "website": "https://akhor.ch",
+ "crawledAt": "2026-11-01T06:21:53.502Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://akhor.ch/akhor-logo.svg?v=2",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://akhor.ch/"
+ },
+ "attribution": "Images © Akhor, from akhor.ch",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0651/ak-10-au-jn",
+   "name": "Nour La Lumière Gold",
+   "url": "https://akhor.ch/watch/ak-10-au-jn",
+   "image": {
+    "url": "https://cdn.sanity.io/images/ske2w7um/production/5a975037e693ec540e26cf0f8bb64d77ac2f878d-3674x6559.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.sanity.io/images/ske2w7um/production/5a975037e693ec540e26cf0f8bb64d77ac2f878d-3674x6559.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "preorder",
+   "description": "Nour la Lumière introduces a Day/Night complication into AKHOR’s patented dual-disc architecture, here enhanced by a third, hand-engraved 5N gold disc. Beneath the suspended display, this large disc completes one full rotation every twenty-four hours, revealing the entire cycle of a desert sky. Dunes emerge in delicate bas-relief beneath a grazing glow. Stars appear suspended within the depth of the night sky. In the foreground, a dromedary and its rider cross the landscape in miniature painting, executed entirely by hand by a master artisan. A pictorial illusion of extraordinary precision, achieved on a surface measured in millimetres. Hidden within the case, a hand-engraved inscription in Arabic script –نور, meaning “light” – places the name of the creation in intimate proximity to the movement itself, a discreet signature known only to its owner. The 40 mm cushion-shaped case in 18-carat 5N red gold, paired with a bezel set with 120 baguette-cut diamonds (4.85 ct), radiates a warm amber glow reminiscent of the desert at first light. Powering this three-disc architecture is the AK10 calibre, the Maison’s hand-wound manufacture movement. Delivering a 60-hour power reserve, it provides the mechanical foundation for a creation that unites contemporary watchmaking with the enduring artistry of the Métiers d’Art.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": 60,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Frequency": "28,800 alternations/hour (4 Hz)",
+    "Power Reserve": "60 hours Display Hours/Minutes: hours / minutes (gold-plated hands with luminescent tips)",
+    "Seconds": "gold-plated seconds hand with AKHOR logo counterweight",
+    "Function(s)": "Day & Night Dial Three-disc construction; patented suspension system of the upper disc",
+    "Upper": "hand engraving, miniature-painted dromedary, dunes",
+    "Lower": "hand engraving, dunes, stars and moon in bas-relief Case Material: 5N 18K gold",
+    "Bezel": "Polished and set with 120 baguette-cut diamonds totaling 4.85 carats",
+    "Dimensions": "40mm - Thickness: 12,5mm",
+    "Crystal": "sapphire, internal anti-reflective coating",
+    "Water Resistance": "3 ATM / 30 meters Strap Material: hand-stitched blue alligator leather",
+    "Clasp": "Deployant clasp set with diamonds in 5N gold Certifications Poinçon de Genève",
+    "HAND-FINISHED DECORATION": "MANUAL BEVELS, SUNRAY CÔTES DE GENÈVE",
+    "AK-10-AU-JN": "198'000 CHF",
+    "Hours/Minutes": "hours / minutes (gold-plated hands with luminescent tips)",
+    "Material": "5N 18K gold",
+    "Sunburst Dial": "198'000 CHF"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:21:53.502Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:21:53.502Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "384ff3a75280ca8a"
+  },
+  {
+   "id": "BRD-0651/ak-10-steel",
+   "name": "STEEL",
+   "url": "https://akhor.ch/watch/ak-10-steel",
+   "image": {
+    "url": "https://cdn.sanity.io/images/ske2w7um/production/6413fe7f80cb61382eaa0a8a6b2c46b9830fba9c-2288x4029.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.sanity.io/images/ske2w7um/production/6413fe7f80cb61382eaa0a8a6b2c46b9830fba9c-2288x4029.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "preorder",
+   "description": "AKHOR STEEL - WHITE SUNBURST - Swiss Haute Horlogerie timepiece featuring the patented upper disc suspension system.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Frequency": "28,800 alternations/hour (4 Hz)",
+    "Power Reserve": "60 hours Display Hours/Minutes: Rhodied with luminescent tips",
+    "Seconds": "Counter-weight with AKHOR logo Dial Two-disc construction - lower and upper",
+    "Upper": "White sunburst motif",
+    "Lower": "White sunburst motif Case Material: Steel",
+    "Bezel": "polished",
+    "Dimensions": "39mm - Thickness: 11mm",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Water Resistance": "3 ATM / 30 meters Strap Material: Black alligator leather, square scales, hand-sewn",
+    "Clasp": "Deployant clasp in Steel Certifications Poinçon de Genève",
+    "HAND-FINISHED DECORATION": "MANUAL BEVELS, SUNRAY CÔTES DE GENÈVE",
+    "Steel Case and Bracelet": "28'800 CHF",
+    "Hours/Minutes": "Rhodied with luminescent tips",
+    "Material": "Steel",
+    "Sunburst Dial": "28'800 CHF"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:21:53.502Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:21:53.502Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1c8a58e50be78bba"
+  },
+  {
+   "id": "BRD-0651/ak-10-au-gold-brown-sunburst",
+   "name": "GOLD",
+   "url": "https://akhor.ch/watch/ak-10-au-gold-brown-sunburst",
+   "image": {
+    "url": "https://cdn.sanity.io/images/ske2w7um/production/bfacb21d616534c1426d7ace8e142838769e4665-1137x2000.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.sanity.io/images/ske2w7um/production/bfacb21d616534c1426d7ace8e142838769e4665-1137x2000.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "preorder",
+   "description": "A warm expression of balance and light, the AK-10-AU embodies the harmony between architectural precision and poetic restraint. Its brown sunburst dial reveals a subtle play of depth and radiance, enhanced by AKHOR's patented floating-dial structure. Crafted in 4N or 5N gold, the cushion-shaped case reflects timeless Geneva refinement, while the hand-finished AK10 calibre beats at 4 Hz with 60 hours of autonomy. A watch that celebrates the art of proportion - where every line, every reflection, is drawn to endure.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": 60,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Frequency": "28,800 alternations/hour (4 Hz)",
+    "Power Reserve": "60 hours Display Hours/Minutes: Gold 4N with luminescent tips",
+    "Seconds": "Counter-weight with AKHOR logo Dial Two-disc construction - lower and upper",
+    "Upper": "Brown sunburst motif",
+    "Lower": "Brown sunburst motif Case Material: Gold 4N/5N",
+    "Bezel": "polished",
+    "Dimensions": "39mm - Thickness: 11mm",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Water Resistance": "3 ATM / 30 meters Strap Material: Brown alligator leather, square scales, hand-sewn",
+    "Clasp": "Deployant clasp in Gold 4N/5N Certifications Poinçon de Genève",
+    "HAND-FINISHED DECORATION": "MANUAL BEVELS, SUNRAY CÔTES DE GENÈVE",
+    "Gold 4N/5N with Brown Sunburst Dial": "57'800 CHF",
+    "Hours/Minutes": "Gold 4N with luminescent tips",
+    "Material": "Gold 4N/5N",
+    "Sunburst Dial": "57'800 CHF"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:21:53.502Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:21:53.502Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "dc39d632e51c2892"
+  },
+  {
+   "id": "BRD-0651/ak-10-au-d-gold-blue",
+   "name": "GOLD DIAMOND",
+   "url": "https://akhor.ch/watch/ak-10-au-d-gold-blue",
+   "image": {
+    "url": "https://cdn.sanity.io/images/ske2w7um/production/59078c91ead94b19c6a93176bb8aa18de774baba-2383x4157.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.sanity.io/images/ske2w7um/production/59078c91ead94b19c6a93176bb8aa18de774baba-2383x4157.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "preorder",
+   "description": "AKHOR GOLD DIAMOND - BLUE DIAMOND DIAL - Swiss Haute Horlogerie timepiece featuring the patented upper disc suspension system.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": 60,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Frequency": "28,800 alternations/hour (4 Hz)",
+    "Power Reserve": "60 hours Display Hours/Minutes: Gold 4N with luminescent tips",
+    "Seconds": "Counter-weight with AKHOR logo Dial Two-disc construction - lower and upper",
+    "Upper": "230 brilliant-cut diamonds (approx. 0.70 ct)",
+    "Lower": "Blue sunburst motif Case Material: Gold 4N/5N",
+    "Bezel": "set with 120 diamonds (0.3 ct)",
+    "Dimensions": "39mm - Thickness: 11mm",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Water Resistance": "3 ATM / 30 meters Strap Material: Blue alligator leather, square scales, hand-sewn",
+    "Clasp": "Deployant clasp set with 76 diamonds (0.34 ct) in Gold 4N/5N Certifications Poinçon de Genève",
+    "HAND-FINISHED DECORATION": "MANUAL BEVELS, SUNRAY CÔTES DE GENÈVE",
+    "Gold 4N/5N with Blue Dial": "77'800 CHF",
+    "Hours/Minutes": "Gold 4N with luminescent tips",
+    "Material": "Gold 4N/5N",
+    "Sunburst Dial": "77'800 CHF"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:21:53.502Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:21:53.502Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "59b1f1b3c0001559"
+  },
+  {
+   "id": "BRD-0651/ak-10-pt-jn",
+   "name": "Nour La Lumière Platinum",
+   "url": "https://akhor.ch/watch/ak-10-pt-jn",
+   "image": {
+    "url": "https://cdn.sanity.io/images/ske2w7um/production/cb9a46fb277ff49b130c91cff85908700c1082c4-3674x6559.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.sanity.io/images/ske2w7um/production/cb9a46fb277ff49b130c91cff85908700c1082c4-3674x6559.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "preorder",
+   "description": "Nour la Lumière introduces a Day/Night complication into AKHOR’s patented dual-disc architecture, here enhanced by a third, hand-engraved platinum disc. Beneath the suspended display, this large disc completes one full rotation every twenty-four hours, revealing the entire cycle of a desert sky. Dunes emerge in delicate bas-relief beneath a grazing glow. Stars appear suspended within the depth of the night sky. In the foreground, a dromedary and its rider cross the landscape in miniature painting, executed entirely by hand by a master artisan. A pictorial illusion of extraordinary precision, achieved on a surface measured in millimetres. Hidden within the case, a hand-engraved inscription in Arabic script –نور, meaning “light” – places the name of the creation in intimate proximity to the movement itself, a discreet signature known only to its owner. The 40 mm cushion-shaped case in 18-carat 5N red gold, paired with a bezel set with 120 baguette-cut diamonds (4.85 ct), radiates a warm amber glow reminiscent of the desert at first light. Powering this three-disc architecture is the AK10 calibre, the Maison’s hand-wound manufacture movement. Delivering a 60-hour power reserve, it provides the mechanical foundation for a creation that unites contemporary watchmaking with the enduring artistry of the Métiers d’Art.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": 60,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Frequency": "28,800 alternations/hour (4 Hz)",
+    "Power Reserve": "60 hours Display Hours/Minutes: hours / minutes (rhodium-plated hands with luminescent tips)",
+    "Seconds": "rhodium-plated seconds hand with AKHOR logo counterweight",
+    "Function(s)": "Day & Night Dial Three-disc construction; patented suspension system of the upper disc",
+    "Upper": "hand engraving, miniature-painted dromedary, dunes",
+    "Lower": "hand engraving, dunes, stars and moon in bas-relief Case Material: Platinum",
+    "Bezel": "Polished and set with 120 baguette-cut diamonds totaling 4.85 carats",
+    "Dimensions": "40mm - Thickness: 12,5mm",
+    "Crystal": "Sapphire, internal anti-reflective coating",
+    "Water Resistance": "3 ATM / 30 meters Strap Material: hand-stitched blue alligator leather",
+    "Clasp": "Deployant clasp set with diamonds in Platinum Certifications Poinçon de Genève",
+    "HAND-FINISHED DECORATION": "MANUAL BEVELS, SUNRAY CÔTES DE GENÈVE",
+    "AK-10-PT-JN": "208'000 CHF",
+    "Hours/Minutes": "hours / minutes (rhodium-plated hands with luminescent tips)",
+    "Material": "Platinum",
+    "Sunburst Dial": "208'000 CHF"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:21:53.502Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:21:53.502Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "dde9c8213cb3c854"
+  },
+  {
+   "id": "BRD-0651/ak-10-d-vert-emeraude",
+   "name": "STEEL DIAMOND",
+   "url": "https://akhor.ch/watch/ak-10-d-vert-emeraude",
+   "image": {
+    "url": "https://cdn.sanity.io/images/ske2w7um/production/0813e7e1a00ad94f0c67be8da45d8475ba6060c6-1111x2000.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.sanity.io/images/ske2w7um/production/0813e7e1a00ad94f0c67be8da45d8475ba6060c6-1111x2000.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": "CHF",
+   "availability": "preorder",
+   "description": "AKHOR STEEL DIAMOND - GREEN SUNBURST - Swiss Haute Horlogerie timepiece featuring the patented upper disc suspension system.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 11,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Frequency": "28,800 alternations/hour (4 Hz)",
+    "Power Reserve": "60 hours Display Hours/Minutes: Rhodied with luminescent tips",
+    "Seconds": "Counter-weight with AKHOR logo Dial Two-disc construction - lower and upper",
+    "Upper": "Green sunburst motif",
+    "Lower": "White sunburst motif Case Material: Steel",
+    "Bezel": "set with 120 diamonds (0.3 ct)",
+    "Dimensions": "39mm - Thickness: 11mm",
+    "Crystal": "Sapphire with anti-reflective coating",
+    "Water Resistance": "3 ATM / 30 meters Strap Material: Green alligator leather, square scales, hand-sewn",
+    "Clasp": "Deployant clasp set with 76 diamonds (0.34 ct) in Steel Certifications Poinçon de Genève",
+    "HAND-FINISHED DECORATION": "MANUAL BEVELS, SUNRAY CÔTES DE GENÈVE",
+    "Steel Diamond with Green Sunburst": "38'800 CHF",
+    "Hours/Minutes": "Rhodied with luminescent tips",
+    "Material": "Steel",
+    "Sunburst Dial": "38'800 CHF"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:21:53.502Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:21:53.502Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ffb5fa8a16a7ddeb"
+  }
+ ],
+ "collections": []
+}

@@ -1,0 +1,1846 @@
+{
+ "brandId": "BRD-0541",
+ "brandName": "Tempore Lux Watches",
+ "website": "https://temporelux.com",
+ "crawledAt": "2026-11-01T08:36:50.358Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://temporelux.com/wp-content/uploads/2023/01/logo-elementor.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://temporelux.com/"
+ },
+ "attribution": "Images © Tempore Lux Watches, from temporelux.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0541/brazalete-aquatic-pro-600",
+   "name": "BRAZALETE AQUATIC PRO 600",
+   "url": "https://temporelux.com/producto/brazalete-aquatic-pro-600/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/04/AQUATIC-BRACELETS.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/AQUATIC-BRACELETS.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 15000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "DISPONIBLE Robusto Brazalete fabricado en acero de grado quirúrgico con cierre de trinquete desplegable de acero macizo con extensión para traje de buzo, ideal para trajes de neopreno. El mecanismo de extensión de la hebilla de trinquete proporciona una gran comodidad y seguridad para el buceo.",
+   "productType": "Accesorios",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 600,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "CAJA": "Caja de 43mm en acero de grado quirúrgico",
+    "CORONA": "Doble corona atornillada a la caja",
+    "BISEL": "Bisel interno bidireccional del mismo color que la esfera",
+    "MOVIMIENTO": "Suizo Automático La Joux-Perret G101",
+    "CRISTAL": "Cristal de zafiro abovedado con tratamiento antirreflejos",
+    "LUMEN": "SuperLuminova BGW9 en manecillas, marcadores horarios y triangulo del bisel",
+    "TRASERA": "Trasera roscada",
+    "WATER RESISTANT": "600M/60ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/aquatic-pro-600",
+    "BRD-0541/accesorios",
+    "BRD-0541/relojes"
+   ],
+   "hash": "14e050ee313286a7"
+  },
+  {
+   "id": "BRD-0541/reloj-aquatic-pro-600-orange-limited-edition",
+   "name": "AQUATIC PRO 600 Orange &#8211; Limited Edition",
+   "url": "https://temporelux.com/producto/reloj-aquatic-pro-600-orange-limited-edition/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-ORANGE-1500X1500-3.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-ORANGE-1500X1500-3.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-PRO-600-LIMITED-EDITION-ORANGE.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/AQUATIC-BRACELETS.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 114900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "AGOTADO ¿Quieres que te avisemos cuando vaya a estar disponible de nuevo? Escríbenos un correo a info@temporelux.com Cada reloj AQUATIC PRO 600 incluye una correa de nailon y caucho FKM híbrida de alta calidad, brazalete de acero Aquatic Pro. También incluye: caja de madera, manual, certificado de autenticidad y montaje con número de serie y tarjeta de garantía internacional de 3 años.",
+   "productType": "AQUATIC PRO 600",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 600,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 43mm en acero de grado quirúrgico",
+    "CORONA": "Doble corona atornillada a la caja",
+    "BISEL": "Bisel interno bidireccional del mismo color que la esfera",
+    "MOVIMIENTO": "Suizo Automático La Joux-Perret G101",
+    "CRISTAL": "Cristal de zafiro abovedado con tratamiento antirreflejos",
+    "LUMEN": "SuperLuminova BGW9 en manecillas, marcadores horarios y triangulo del bisel",
+    "TRASERA": "Trasera roscada",
+    "WATER RESISTANT": "600M/60ATM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/aquatic-pro-600",
+    "BRD-0541/relojes-2"
+   ],
+   "hash": "5d10a408bc423787"
+  },
+  {
+   "id": "BRD-0541/reloj-aquatic-pro-600-blue-limited-edition",
+   "name": "AQUATIC PRO 600 Blue &#8211; Limited Edition",
+   "url": "https://temporelux.com/producto/reloj-aquatic-pro-600-blue-limited-edition/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-AZUL-1500X1500-2.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-AZUL-1500X1500-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-PRO-600-BLUE-STRAP.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 114900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "AGOTADO ¿Quieres que te avisemos cuando vaya a estar disponible de nuevo? Escríbenos un correo a info@temporelux.com Cada reloj AQUATIC PRO 600 incluye una correa de nailon y caucho FKM híbrida de alta calidad y un brazalete de acero Aquatic Pro. También incluye: caja de madera, manual, certificado de autenticidad y montaje con número de serie y tarjeta de garantía internacional de 3 años.",
+   "productType": "AQUATIC PRO 600",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 600,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 43mm en acero de grado quirúrgico",
+    "CORONA": "Doble corona atornillada a la caja",
+    "BISEL": "Bisel interno bidireccional del mismo color que la esfera",
+    "MOVIMIENTO": "Suizo Automático La Joux-Perret G101",
+    "CRISTAL": "Cristal de zafiro abovedado con tratamiento antirreflejos",
+    "LUMEN": "SuperLuminova BGW9 en manecillas, marcadores horarios y triangulo del bisel",
+    "TRASERA": "Trasera roscada",
+    "WATER RESISTANT": "600M/60ATM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/aquatic-pro-600",
+    "BRD-0541/relojes-2"
+   ],
+   "hash": "a303500700edfcdf"
+  },
+  {
+   "id": "BRD-0541/reloj-aquatic-pro-600-black-limited-edition",
+   "name": "AQUATIC PRO 600 Black &#8211; Limited Edition",
+   "url": "https://temporelux.com/producto/reloj-aquatic-pro-600-black-limited-edition/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-AZUL-1500X1500-copia.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-AZUL-1500X1500-copia.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/AQUATIC-PRO-600-BLACK.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 114900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "AGOTADO ¿Quieres que te avisemos cuando vaya a estar disponible de nuevo? Escríbenos un correo a info@temporelux.com Cada reloj AQUATIC PRO 600 incluye una correa de nailon y caucho FKM híbrida de alta calidad y un brazalete de acero Aquatic Pro. También incluye: caja de madera, manual, certificado de autenticidad y montaje con número de serie y tarjeta de garantía internacional de 3 años.",
+   "productType": "AQUATIC PRO 600",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 600,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 43mm en acero de grado quirúrgico",
+    "CORONA": "Doble corona atornillada a la caja",
+    "BISEL": "Bisel interno bidireccional del mismo color que la esfera",
+    "MOVIMIENTO": "Suizo Automático La Joux-Perret G101",
+    "CRISTAL": "Cristal de zafiro abovedado con tratamiento antirreflejos",
+    "LUMEN": "SuperLuminova BGW9 en manecillas, marcadores horarios y triangulo del bisel",
+    "TRASERA": "Trasera roscada",
+    "WATER RESISTANT": "600M/60ATM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/aquatic-pro-600",
+    "BRD-0541/relojes-2"
+   ],
+   "hash": "76cc1693a31e22d7"
+  },
+  {
+   "id": "BRD-0541/racing-one-chrono-mechanical-06",
+   "name": "RACING ONE CHRONO-MECHANICAL 06",
+   "url": "https://temporelux.com/producto/racing-one-chrono-mechanical-06/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2025/02/RACING-ONE-06-2-II.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/RACING-ONE-06-2-II.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/RACING-ONE-06-2-II-1.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-Racing-One.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-RAcnig-One-II.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/tl-box-2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El RACING ONE ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse.",
+   "productType": "RACING ONE",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 41mm en acero inoxidable 316L de grado quirúrgico",
+    "MOVIMIENTO": "Movimiento Cronógrafo Seagull ST1901 de cuerda manual",
+    "CRISTAL": "Cristal de zafiro abombado con tratamiento antirreflejos",
+    "DIAL": "Rayos de sol",
+    "LUME": "Super-Luminova C3 aplicado en manecillas y marcadores horarios",
+    "TRASERA": "Trasera vista con cristal de zafiro",
+    "RESISTENTE AL AGUA": "100M/10ATM",
+    "BRAZALETE": "Brazalete en acero 316L pulido con cierre de mariposa oculto",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/racing-one"
+   ],
+   "hash": "d6a832c93811651e"
+  },
+  {
+   "id": "BRD-0541/racing-one-chrono-mechanical-solo-brazalete",
+   "name": "RACING ONE CHRONO-MECHANICAL &#8211; SOLO BRAZALETE &#8211; TODAS LAS VERSIONES",
+   "url": "https://temporelux.com/producto/racing-one-chrono-mechanical-solo-brazalete/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/11/Racing-One-01-Brazalete_.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/11/Racing-One-01-Brazalete_.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/tl-box-2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 59900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El RACING ONE ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse.",
+   "productType": "RACING ONE",
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "PLATA NEGRO",
+      "AZUL",
+      "ROJO",
+      "PLATA AZUL",
+      "VERDE",
+      "PLATA ROJO"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Color": "PLATA NEGRO, AZUL, ROJO, PLATA AZUL, VERDE, PLATA ROJO",
+    "CAJA": "Caja de 41mm en acero inoxidable 316L de grado quirúrgico",
+    "MOVIMIENTO": "Movimiento Cronógrafo Seagull ST1901 de cuerda manual",
+    "CRISTAL": "Cristal de zafiro abombado con tratamiento antirreflejos",
+    "DIAL": "Rayos de sol",
+    "LUME": "Super-Luminova C3 aplicado en manecillas y marcadores horarios",
+    "TRASERA": "Trasera vista con cristal de zafiro",
+    "RESISTENTE AL AGUA": "100M/10ATM",
+    "BRAZALETE": "Brazalete en acero 316L pulido con cierre de mariposa oculto",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/racing-one"
+   ],
+   "hash": "4375c59c7ae64813"
+  },
+  {
+   "id": "BRD-0541/v-one-swiss-automatic-05-naranja",
+   "name": "V ONE SWISS AUTOMATIC 05 NARANJA",
+   "url": "https://temporelux.com/producto/v-one-swiss-automatic-05-naranja/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/08/V-ONE-SWISS-AUTOMATIC-NARANJA.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/V-ONE-SWISS-AUTOMATIC-NARANJA.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/V-ONE-SWISS-AUTOMATIC-NARANJA-III.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/V-ONE-SWISS-AUTOMATIC-NARANJA-II.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/V-ONE-SWISS-AUTOMATIC-NARANJA-IV.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/V-ONE-SWISS-AUTOMATIC-NARANJA-V.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Vegan-roll-TL-1024x505-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "AGOTADO El Vintage One es un reloj inspirado en los relojes Diver de los años 70. Cuenta con movimiento mecánico automático Suizo con fechador. Se presenta con caja y brazalete de acero inoxidable. Tiene un Bisel de cerámica unidireccional de 120 clicks. La esfera de color naranja presenta índices luminosos. Las manecillas de horas, minutos y segundos van rellenos de Super-Luminova. Hermético hasta 30 ATM / 300 m.",
+   "productType": "Relojes",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes"
+   ],
+   "hash": "71457e2bd35d28d4"
+  },
+  {
+   "id": "BRD-0541/ocean-200-automatic-05-amarillo",
+   "name": "OCEAN 200 AUTOMATIC 05 AMARILLO",
+   "url": "https://temporelux.com/producto/ocean-200-automatic-05-amarillo/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/05/Ocean-200-Yellow-1-800x800-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/05/Ocean-200-Yellow-1-800x800-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/05/Ocean-200-Yellow-2-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-casebak-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/BACK-0CEAN-200-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/OCEAN-200-FKM-BLACK-Steel.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "¡ÚLTIMAS PIEZAS EN STOCK! El reloj OCEAN 200 ya forma parte de la historia de Tempore Lux. Esta colección no volverá a fabricarse. Si quieres estar informado sobre cualquier novedad relacionada con nuestras nuevas colecciones, date de alta en nuestra newsletter.",
+   "productType": "OCEAN 200",
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "OCEAN 200 AUTOMATIC 05 AMARILLO",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": 58900,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "El precio original era": "589,00 €.",
+    "El precio actual es": "499,00 €.",
+    "CAJA": "Caja de 41mm en acero de grado quirúrgico cepillado",
+    "MOVIMIENTO": "Swiss Automatic Sellita SW200-1",
+    "BISEL": "Bisel unidireccional de 120 clicks con inserto en aluminio anodizado del mismo color que la esfera",
+    "CRISTAL": "Cristal de zafiro",
+    "LUMEN": "SuperLuminova en manecillas, marcadores horarios y perla del bisel",
+    "CALENDARIO": "Calendario a las 3",
+    "TRASERA": "Atornillada con seis tornillos",
+    "CORONA": "Corona atornillada",
+    "WATER RESISTANT": "200M/20ATM",
+    "BRAZALETE": "Acero Inoxidable 316L con doble cierre desplegable de seguridad",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/ocean-200"
+   ],
+   "hash": "3c6591bd9a42da7f"
+  },
+  {
+   "id": "BRD-0541/racing-one-chrono-mechanical-05-verde",
+   "name": "RACING ONE CHRONO-MECHANICAL 05",
+   "url": "https://temporelux.com/producto/racing-one-chrono-mechanical-05-verde/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/04/Racing-One-05-Verde-15.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/Racing-One-05-Verde-15.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/RACING-ONE-05-2.1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/RACING-ONE-05-3.1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/RACING-ONE-05-4-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/RACING-ONE-05-1500_1500.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/11/Racing-One-verde-Brazalete.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-Racing-One.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-RAcnig-One-II.png.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/tl-box-2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El RACING ONE ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse.",
+   "productType": "RACING ONE",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 41mm en acero inoxidable 316L de grado quirúrgico",
+    "MOVIMIENTO": "Movimiento Cronógrafo Seagull ST1901 de cuerda manual",
+    "CRISTAL": "Cristal de zafiro abombado con tratamiento antirreflejos",
+    "DIAL": "Rayos de sol",
+    "LUME": "Super-Luminova C3 aplicado en manecillas y marcadores horarios",
+    "TRASERA": "Trasera vista con cristal de zafiro",
+    "RESISTENTE AL AGUA": "100M/10ATM",
+    "BRAZALETE": "Brazalete en acero 316L pulido con cierre de mariposa oculto",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/racing-one"
+   ],
+   "hash": "848e5852f094420e"
+  },
+  {
+   "id": "BRD-0541/ocean-200-automatic-04-rojo-2",
+   "name": "OCEAN 200 AUTOMATIC 04 ROJO",
+   "url": "https://temporelux.com/producto/ocean-200-automatic-04-rojo-2/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-red-3-800x800-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-red-3-800x800-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/Ocean-200-red-4-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-casebak-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/BACK-0CEAN-200-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/OCEAN-200-FKM-RED-Steel.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 58900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El OCEAN 200 ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse. Si quieres estar informado sobre cualquier novedad relacionada con esta colección, contáctanos a info@temporelux.com.",
+   "productType": "OCEAN 200",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "CAJA": "Caja de 41mm en acero de grado quirúrgico cepillado",
+    "MOVIMIENTO": "Swiss Automatic Sellita SW200-1",
+    "BISEL": "Bisel unidireccional de 120 clicks con inserto en aluminio anodizado del mismo color que la esfera",
+    "CRISTAL": "Cristal de zafiro",
+    "LUMEN": "SuperLuminova en manecillas, marcadores horarios y perla del bisel",
+    "CALENDARIO": "Calendario a las 3",
+    "TRASERA": "Atornillada con seis tornillos",
+    "CORONA": "Corona atornillada",
+    "WATER RESISTANT": "200M/20ATM",
+    "BRAZALETE": "Acero Inoxidable 316L con doble cierre desplegable de seguridad",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/ocean-200"
+   ],
+   "hash": "74a9fce04e1a560e"
+  },
+  {
+   "id": "BRD-0541/ocean-200-automatic-03-verde-2",
+   "name": "OCEAN 200 AUTOMATIC 03 VERDE",
+   "url": "https://temporelux.com/producto/ocean-200-automatic-03-verde-2/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/03/Ocean-200-Green-1-800_800_.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/Ocean-200-Green-1-800_800_.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-green-3-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-casebak-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/BACK-0CEAN-200-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/OCEAN-200-FKM-GREEN-steel.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "¡ÚLTIMAS PIEZAS EN STOCK! El reloj OCEAN 200 ya forma parte de la historia de Tempore Lux. Esta colección no volverá a fabricarse. Si quieres estar informado sobre cualquier novedad relacionada con nuestras nuevas colecciones, date de alta en nuestra newsletter.",
+   "productType": "OCEAN 200",
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "OCEAN 200 AUTOMATIC 03 VERDE",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": 58900,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "El precio original era": "589,00 €.",
+    "El precio actual es": "499,00 €.",
+    "CAJA": "Caja de 41mm en acero de grado quirúrgico cepillado",
+    "MOVIMIENTO": "Swiss Automatic Sellita SW200-1",
+    "BISEL": "Bisel unidireccional de 120 clicks con inserto en aluminio anodizado del mismo color que la esfera",
+    "CRISTAL": "Cristal de zafiro",
+    "LUMEN": "SuperLuminova en manecillas, marcadores horarios y perla del bisel",
+    "CALENDARIO": "Calendario a las 3",
+    "TRASERA": "Atornillada con seis tornillos",
+    "CORONA": "Corona atornillada",
+    "WATER RESISTANT": "200M/20ATM",
+    "BRAZALETE": "Acero Inoxidable 316L con doble cierre desplegable de seguridad",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/ocean-200"
+   ],
+   "hash": "14804b43057a5d5d"
+  },
+  {
+   "id": "BRD-0541/ocean-200-automatic-02-azul-2",
+   "name": "OCEAN 200 AUTOMATIC 02 AZUL",
+   "url": "https://temporelux.com/producto/ocean-200-automatic-02-azul-2/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-blue-2-800_800.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-blue-2-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-blue-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-casebak-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-blue-4-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/BACK-0CEAN-200-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/OCEAN-200-FKM-BLUE-Steel.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 58900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El OCEAN 200 ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse. Si quieres estar informado sobre cualquier novedad relacionada con esta colección, contáctanos a info@temporelux.com.",
+   "productType": "OCEAN 200",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "CAJA": "Caja de 41mm en acero de grado quirúrgico cepillado",
+    "MOVIMIENTO": "Swiss Automatic Sellita SW200-1",
+    "BISEL": "Bisel unidireccional de 120 clicks con inserto en aluminio anodizado del mismo color que la esfera",
+    "CRISTAL": "Cristal de zafiro",
+    "LUMEN": "SuperLuminova en manecillas, marcadores horarios y perla del bisel",
+    "CALENDARIO": "Calendario a las 3",
+    "TRASERA": "Atornillada con seis tornillos",
+    "CORONA": "Corona atornillada",
+    "WATER RESISTANT": "200M/20ATM",
+    "BRAZALETE": "Acero Inoxidable 316L con doble cierre desplegable de seguridad",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/ocean-200"
+   ],
+   "hash": "75ef3f44f99025c4"
+  },
+  {
+   "id": "BRD-0541/ocean-200-automatic-01-black-copia",
+   "name": "OCEAN 200 AUTOMATIC 01 NEGRO",
+   "url": "https://temporelux.com/producto/ocean-200-automatic-01-black-copia/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/03/OCEAN-200-BLACK-3-800_800.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/OCEAN-200-BLACK-3-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/Ocean-200-Black-2-800_800_.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/ocean-200-casebak-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/03/BACK-0CEAN-200-800_800.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/04/OCEAN-200-FKM-BLACK-Steel.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 58900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El OCEAN 200 ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse. Si quieres estar informado sobre cualquier novedad relacionada con esta colección, contáctanos a info@temporelux.com.",
+   "productType": "OCEAN 200",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "CAJA": "Caja de 41mm en acero de grado quirúrgico cepillado",
+    "MOVIMIENTO": "Swiss Automatic Sellita SW200-1",
+    "BISEL": "Bisel unidireccional de 120 clicks con inserto en aluminio anodizado del mismo color que la esfera",
+    "CRISTAL": "Cristal de zafiro",
+    "LUMEN": "SuperLuminova en manecillas, marcadores horarios y perla del bisel",
+    "CALENDARIO": "Calendario a las 3",
+    "TRASERA": "Atornillada con seis tornillos",
+    "CORONA": "Corona atornillada",
+    "WATER RESISTANT": "200M/20ATM",
+    "BRAZALETE": "Acero Inoxidable 316L con doble cierre desplegable de seguridad",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/ocean-200"
+   ],
+   "hash": "7c9dfb8e166be58d"
+  },
+  {
+   "id": "BRD-0541/brazalete-racing-one-con-cierre-de-mariposa-oculto",
+   "name": "BRAZALETE RACING ONE CON CIERRE DE MARIPOSA OCULTO",
+   "url": "https://temporelux.com/producto/brazalete-racing-one-con-cierre-de-mariposa-oculto/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-Racing-One.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-Racing-One.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-RAcnig-One-II.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-Racnig-One-VII.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6500,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "DISPONIBLE ENVÍO GRATIS A TODA ESPAÑA El deslumbrante brazalete de estilo “Racing” de la serie Racing One, está construido en acero macizo pulido de grado quirúrgico. Diseño exclusivo TEMPORE LUX. Medida: 20 mm Material: Acero 316L pulido",
+   "productType": "Accesorios",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Medida": "20 mm",
+    "Material": "Acero 316L pulido"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/accesorios"
+   ],
+   "hash": "f5f01a608dba1b7c"
+  },
+  {
+   "id": "BRD-0541/brazalete-racing-one-con-cierre-desplegable-doble-de-seguridad",
+   "name": "BRAZALETE RACING ONE CON CIERRE DESPLEGABLE DOBLE DE SEGURIDAD",
+   "url": "https://temporelux.com/producto/brazalete-racing-one-con-cierre-desplegable-doble-de-seguridad/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-Racnig-One-IV.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-Racnig-One-IV.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-Racnig-One-V.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Bracelet-Racnig-One-VI.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6500,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "DISPONIBLE ENVÍO GRATIS A TODA ESPAÑA El deslumbrante brazalete de estilo “Racing” de la serie Racing One, está construido en acero macizo pulido de grado quirúrgico. Diseño exclusivo TEMPORE LUX. Medida: 20 mm Material: Acero 316L pulido",
+   "productType": "Accesorios",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Medida": "20 mm",
+    "Material": "Acero 316L pulido"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/accesorios"
+   ],
+   "hash": "1d90edf26d795859"
+  },
+  {
+   "id": "BRD-0541/racing-one-chrono-mechanical-04-correa",
+   "name": "RACING ONE CHRONO-MECHANICAL 04",
+   "url": "https://temporelux.com/producto/racing-one-chrono-mechanical-04-correa/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/02/hhhcdcdcdch.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/hhhcdcdcdch.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Racing-one-04.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/azul-tumbado-1500_1500-2.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/junbdcjkdk.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-trasera-color-marron.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-04-1500-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-Racing-One.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-RAcnig-One-II.png.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/tl-box-2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El RACING ONE ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse.",
+   "productType": "RACING ONE",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 41mm en acero inoxidable 316L de grado quirúrgico",
+    "MOVIMIENTO": "Movimiento Cronógrafo Seagull ST1901 de cuerda manual",
+    "CRISTAL": "Cristal de zafiro abombado con tratamiento antirreflejos",
+    "DIAL": "Rayos de sol",
+    "LUME": "Super-Luminova C3 aplicado en manecillas y marcadores horarios",
+    "TRASERA": "Trasera vista con cristal de zafiro",
+    "RESISTENTE AL AGUA": "100M/10ATM",
+    "BRAZALETE": "Brazalete en acero 316L pulido con cierre de mariposa oculto",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/racing-one"
+   ],
+   "hash": "5c8c59b6e011441c"
+  },
+  {
+   "id": "BRD-0541/racing-one-chrono-mechanical-03",
+   "name": "RACING ONE CHRONO-MECHANICAL 03",
+   "url": "https://temporelux.com/producto/racing-one-chrono-mechanical-03/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/02/Sin-titulo-1.RACING-ONE-2023-CHRONO-MECHANICAL-03-V.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Sin-titulo-1.RACING-ONE-2023-CHRONO-MECHANICAL-03-V.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/RACING-ONE-2023-CHRONO-MECHANICAL-03-I.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/RACING-ONE-2023-CHRONO-MECHANICAL-03-II.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/RACING-ONE-2023-CHRONO-MECHANICAL-03-III.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/RACING-ONE-2023-CHRONO-MECHANICAL-03-IV.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/RACING-ONE-2023-CHRONO-MECHANICAL-brazalete_.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/tl-box-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-Racing-One.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-RAcnig-One-II.png.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El RACING ONE ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse.",
+   "productType": "RACING ONE",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 41mm en acero inoxidable 316L de grado quirúrgico",
+    "MOVIMIENTO": "Movimiento Cronógrafo Seagull ST1901 de cuerda manual",
+    "CRISTAL": "Cristal de zafiro abombado con tratamiento antirreflejos",
+    "DIAL": "Rayos de sol",
+    "LUME": "Super-Luminova C3 aplicado en manecillas y marcadores horarios",
+    "TRASERA": "Trasera vista con cristal de zafiro",
+    "RESISTENTE AL AGUA": "100M/10ATM",
+    "BRAZALETE": "Brazalete en acero 316L pulido con cierre de mariposa oculto",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/racing-one"
+   ],
+   "hash": "e84736f43c3f4a16"
+  },
+  {
+   "id": "BRD-0541/racing-one-chrono-mechanical-02",
+   "name": "RACING ONE CHRONO-MECHANICAL 02",
+   "url": "https://temporelux.com/producto/racing-one-chrono-mechanical-02/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-azul-222222.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-azul-222222.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Racing-azul-2023-II-1500_1500.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/azul-tumbado-1500_1500.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-one-02-Blue-2023-back.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/RACING-ONE-2023-CHRONO-MECHANICAL-03-IVv.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/brazalete-tumbado-azul-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-Racing-One.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-RAcnig-One-II.png.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/tl-box-2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El RACING ONE ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse.",
+   "productType": "RACING ONE",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 41mm en acero inoxidable 316L de grado quirúrgico",
+    "MOVIMIENTO": "Movimiento Cronógrafo Seagull ST1901 de cuerda manual",
+    "CRISTAL": "Cristal de zafiro abombado con tratamiento antirreflejos",
+    "DIAL": "Rayos de sol",
+    "LUME": "Super-Luminova C3 aplicado en manecillas y marcadores horarios",
+    "TRASERA": "Trasera vista con cristal de zafiro",
+    "RESISTENTE AL AGUA": "100M/10ATM",
+    "BRAZALETE": "Brazalete en acero 316L pulido con cierre de mariposa oculto",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/racing-one"
+   ],
+   "hash": "1a8f67cc8300c90a"
+  },
+  {
+   "id": "BRD-0541/racing-one-chrono-mechanical-01",
+   "name": "RACING ONE CHRONO-MECHANICAL 01",
+   "url": "https://temporelux.com/producto/racing-one-chrono-mechanical-01/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-1.1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-1.1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/Racing-One-1_.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/negri-tumbado.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/negro-trasera.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-trasera-color-negro-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/racing-01-1500-2.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-Racing-One.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/08/Bracelet-RAcnig-One-II.png.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2025/02/tl-box-2.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "NO DISPONIBLE El RACING ONE ya forma parte de la historia de Tempore Lux. La liquidación cerró el 5 de junio de 2026. Esta colección no volverá a fabricarse.",
+   "productType": "RACING ONE",
+   "tags": [],
+   "options": [
+    {
+     "name": "Movimiento",
+     "values": [
+      "Original ST1901",
+      "ST1901 Regulador Cuello Cisne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movimiento": "Original ST1901, ST1901 Regulador Cuello Cisne",
+    "CAJA": "Caja de 41mm en acero inoxidable 316L de grado quirúrgico",
+    "MOVIMIENTO": "Movimiento Cronógrafo Seagull ST1901 de cuerda manual",
+    "CRISTAL": "Cristal de zafiro abombado con tratamiento antirreflejos",
+    "DIAL": "Rayos de sol",
+    "LUME": "Super-Luminova C3 aplicado en manecillas y marcadores horarios",
+    "TRASERA": "Trasera vista con cristal de zafiro",
+    "RESISTENTE AL AGUA": "100M/10ATM",
+    "BRAZALETE": "Brazalete en acero 316L pulido con cierre de mariposa oculto",
+    "S.Luminova C3": "hands and bezel pearl",
+    "S.Luminova C1": "hour markers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/relojes",
+    "BRD-0541/racing-one"
+   ],
+   "hash": "5b3eeceb003c2dad"
+  },
+  {
+   "id": "BRD-0541/nuevo-brazalete-milanesa-tempore-lux-de-acero",
+   "name": "NUEVO BRAZALETE MILANESA TEMPORE LUX DE ACERO",
+   "url": "https://temporelux.com/producto/nuevo-brazalete-milanesa-tempore-lux-de-acero/",
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/02/TL-BRACELET-MESH.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://temporelux.com/wp-content/uploads/2023/02/TL-BRACELET-MESH.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 4500,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "EN STOCK ENVÍO GRATIS A TODA ESPAÑA Nuevo brazalete Tempore Lux elegante y sólido de estilo vintage hecho en acero con doble cierre desplegable de seguridad y eslabones para mayor facilidad de ajuste. Serie: Vintage One Medida: 24 mm",
+   "productType": "Accesorios",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Serie": "Vintage One",
+    "Medida": "24 mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:36:50.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:36:50.358Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0541/accesorios"
+   ],
+   "hash": "5800c194755c7fec"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0541/aquatic-pro-600",
+   "name": "AQUATIC PRO 600",
+   "url": "https://temporelux.com/category-product/relojes-2/aquatic-pro-600/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0541/accesorios",
+   "name": "Accesorios",
+   "url": "https://temporelux.com/category-product/accesorios/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0541/relojes",
+   "name": "Relojes",
+   "url": "https://temporelux.com/category-product/relojes/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0541/relojes-2",
+   "name": "Relojes",
+   "url": "https://temporelux.com/category-product/relojes-2/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0541/racing-one",
+   "name": "RACING ONE",
+   "url": "https://temporelux.com/category-product/relojes/racing-one/",
+   "description": null,
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/02/Racing-One-03-Red.png",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0541/ocean-200",
+   "name": "OCEAN 200",
+   "url": "https://temporelux.com/category-product/relojes/ocean-200/",
+   "description": null,
+   "image": {
+    "url": "https://temporelux.com/wp-content/uploads/2023/03/OCEAN-200-BLACK-3-800_800.png",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

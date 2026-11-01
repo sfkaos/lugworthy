@@ -1,0 +1,2080 @@
+{
+ "brandId": "BRD-0483",
+ "brandName": "Riley Watch Co",
+ "website": "https://www.rileywatchco.com",
+ "crawledAt": "2026-11-01T08:24:37.511Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.rileywatchco.com/cdn/shop/files/Riley_Watch_Co_54acf546-a6ca-4727-a0e8-831b8475c8cd.svg?v=1745062863",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.rileywatchco.com/"
+ },
+ "attribution": "Images © Riley Watch Co, from rileywatchco.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0483/riley-studio-lumis",
+   "name": "Lumis Day/Night Dial",
+   "url": "https://www.rileywatchco.com/products/riley-studio-lumis",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-04-21_at_09.46.48.png?v=1776761558",
+    "width": 1360,
+    "height": 2168
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-04-21_at_09.46.48.png?v=1776761558",
+     "width": 1360,
+     "height": 2168
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-04-21_at_09.44.46.png?v=1776761558",
+     "width": 1342,
+     "height": 2176
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-04-21_at_09.45.45.png?v=1776761558",
+     "width": 1348,
+     "height": 2156
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.28.40.png?v=1776760289",
+     "width": 3016,
+     "height": 2266
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.27.28.png?v=1776760289",
+     "width": 3332,
+     "height": 2280
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.27.35.png?v=1776760289",
+     "width": 3304,
+     "height": 2252
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.28.15.png?v=1776760289",
+     "width": 3174,
+     "height": 2374
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.27.16.png?v=1776760289",
+     "width": 3404,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.27.22.png?v=1776760289",
+     "width": 3486,
+     "height": 2320
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-04-21_at_09.56.23.png?v=1776761803",
+     "width": 3482,
+     "height": 1502
+    }
+   ],
+   "priceMinor": 21900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A dial that transitions from day to night — sunrise at 6am, sunset at 6pm. Part of the Riley Studio collection, Lumis is built around a simple idea — showing the transition from day to night on the wrist. The dial is designed to track the movement of time visually, with the sun rising at 6am and setting at 6pm, gradually shifting into night. As the day fades, the lower half of the dial reveals a darker landscape, creating a natural transition from daylight to evening. Each variant explores this concept through different colours and tones — from softer morning light to deeper, warmer finishes — while maintaining a clean, wearable design for everyday use. Powered by a Swiss movement and produced in limited numbers using our trusted manufacturing partners, Lumis sits slightly outside our core collection — a more experimental piece, without compromising on build quality. Specifications Swiss quartz movement (Ronda 515.24H) 38mm stainless steel case 9.25mm thickness 45mm lug-to-lug Multi-layer 3D dial construction K1 mineral crystal 20mm tapering to 18mm leather strap 5ATM water resistance Produced in limited runs — once sold out, this release won’t return.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Skyline Orbit",
+      "Alpine Dawn",
+      "Emberwood"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Skyline Orbit",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Skyline Orbit"
+     ]
+    },
+    {
+     "title": "Alpine Dawn",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Alpine Dawn"
+     ]
+    },
+    {
+     "title": "Emberwood",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Emberwood"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Ronda 515.24H",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Free shipping (US": "3–5 business days)",
+    "Style": "Skyline Orbit Alpine Dawn Emberwood"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/riley-studio"
+   ],
+   "hash": "483163c8893c2593"
+  },
+  {
+   "id": "BRD-0483/riley-studio-moonphase",
+   "name": "Riley Studio Moonphase",
+   "url": "https://www.rileywatchco.com/products/riley-studio-moonphase",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.20.48.png?v=1776759717",
+    "width": 1246,
+    "height": 2072
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.20.48.png?v=1776759717",
+     "width": 1246,
+     "height": 2072
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.20.18.png?v=1776759717",
+     "width": 1340,
+     "height": 2074
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.20.39.png?v=1776759717",
+     "width": 1266,
+     "height": 2042
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.20.32.png?v=1776759718",
+     "width": 1318,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.21.36.png?v=1776759717",
+     "width": 718,
+     "height": 474
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.21.28.png?v=1776759717",
+     "width": 694,
+     "height": 482
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.21.18.png?v=1776759717",
+     "width": 702,
+     "height": 464
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.21.11.png?v=1776759717",
+     "width": 720,
+     "height": 440
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-04-21at09.21.03.png?v=1776759717",
+     "width": 764,
+     "height": 670
+    }
+   ],
+   "priceMinor": 21900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Part of the Riley Studio collection, this moonphase design focuses on balance, detail, and everyday elegance. The dial combines layered textures with subtle contrast, bringing a classic complication into a clean, modern format. Specifications Swiss quartz moonphase movement (Ronda 708) 34mm stainless steel case 8.8mm thickness 40.5mm lug-to-lug Multi-layer brass dial with mother-of-pearl detailing K1 mineral crystal 16mm tapering to 14mm strap or mesh bracelet 5ATM water resistance Produced in small batches using our trusted manufacturing partners. As part of Riley Studio, it won’t be restocked once sold out.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Sunset Gold — Milanese Mesh",
+      "Rose Sunset — Rose Gold Milanese Mesh",
+      "Emerald Horizon — Deep Green Alligator Leather",
+      "Sky Blue Aurora — White Alligator Leather"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Sunset Gold — Milanese Mesh",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sunset Gold — Milanese Mesh"
+     ]
+    },
+    {
+     "title": "Rose Sunset — Rose Gold Milanese Mesh",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Rose Sunset — Rose Gold Milanese Mesh"
+     ]
+    },
+    {
+     "title": "Emerald Horizon — Deep Green Alligator Leather",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Emerald Horizon — Deep Green Alligator Leather"
+     ]
+    },
+    {
+     "title": "Sky Blue Aurora — White Alligator Leather",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sky Blue Aurora — White Alligator Leather"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Ronda 708",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Free shipping (US": "3–5 business days)",
+    "Style": "Sunset Gold — Milanese Mesh Rose Sunset — Rose Gold Milanese Mesh Emerald Horizon — Deep Green Alligator Leather Sky Blue Aurora — White Alligator Leather"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/riley-studio"
+   ],
+   "hash": "3c291f54a7e6bed9"
+  },
+  {
+   "id": "BRD-0483/bessie-fai-01",
+   "name": "Bessie FAI-01",
+   "url": "https://www.rileywatchco.com/products/bessie-fai-01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-10-21at12.39.36.png?v=1789900551",
+    "width": 1446,
+    "height": 2160
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-10-21at12.39.36.png?v=1789900551",
+     "width": 1446,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-10-21at12.39.06.png?v=1789900572",
+     "width": 1444,
+     "height": 2164
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-10-21at12.38.31.png?v=1761047618",
+     "width": 1446,
+     "height": 2168
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-10-21at12.38.38.png?v=1761047617",
+     "width": 1424,
+     "height": 2126
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-10-21at12.38.44.png?v=1761047618",
+     "width": 2646,
+     "height": 1970
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-10-21at12.39.12.png?v=1761047618",
+     "width": 1424,
+     "height": 2116
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-10-21at12.39.44.png?v=1761047617",
+     "width": 1378,
+     "height": 2106
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A Tribute to a Pioneer Introducing the Riley Bessie FAI-01 , hand-built in our Manchester workshop. This limited-edition chronograph combines vintage aviation character with a soft, modern colour palette — an elegant nod to the early days of flight and the fearless spirit of its namesake. The Story of Bessie Coleman Bessie Coleman was a trailblazing aviator and the first African American and Native American woman to earn a pilot’s licence. Denied entry to U.S. flight schools because of her race and gender, she travelled to France in 1921 to train with the Fédération Aéronautique Internationale , earning international recognition for her daring air shows and unwavering determination. The Bessie FAI-01 celebrates her courage and legacy, with “Bessie” printed above the date window and a nameplate inspired by the French flight school where she made history. Design & Movement Available in three striking yet refined colourways , the Bessie Aero houses a Japanese Miyota JP21 quartz movement for exceptional accuracy and reliability. Its compact 36 mm case and balanced dial layout feature two primary subdials — one for the day, one for 24-hour time — alongside a framed date window. Every watch is hand-assembled in England and limited to just 100 pieces per colourway . Key Details Movement: Japanese Quartz, Miyota JP21 Case Size: 36 mm Thickness: 9.8 mm Crystal: K1 Heat-Treated Strap: Genuine Leather Water Resistance: 5 ATM Availability Available now for a limited time only!",
+   "productType": "Watch",
+   "tags": [
+    "Bessie"
+   ],
+   "options": [
+    {
+     "name": "Colour",
+     "values": [
+      "Sky Blue",
+      "Cream Green Pink",
+      "Ice White Pink"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Sky Blue",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sky Blue"
+     ]
+    },
+    {
+     "title": "Cream Green Pink",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cream Green Pink"
+     ]
+    },
+    {
+     "title": "Ice White Pink",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Ice White Pink"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 9.8,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Movement": "Japanese Quartz, Miyota JP21",
+    "Case Size": "36 mm",
+    "Thickness": "9.8 mm",
+    "Crystal": "K1 Heat-Treated",
+    "Strap": "Genuine Leather",
+    "Water Resistance": "5 ATM",
+    "Free shipping (US": "3–5 business days)",
+    "Colour": "Sky Blue Cream Green Pink Ice White Pink"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/bessie-fai-01-chronograph"
+   ],
+   "hash": "f9bddbd7a26b2471"
+  },
+  {
+   "id": "BRD-0483/almond-rifleman-field-quartz",
+   "name": "Almond Rifleman Field - Quartz",
+   "url": "https://www.rileywatchco.com/products/almond-rifleman-field-quartz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1219_c83f42e9-947f-43fd-ba01-4457c490f606.jpg?v=1789899713",
+    "width": 3176,
+    "height": 3176
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1219_c83f42e9-947f-43fd-ba01-4457c490f606.jpg?v=1789899713",
+     "width": 3176,
+     "height": 3176
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1205_be9f8d01-eddb-4348-95ea-4dbc3c1b6a41.jpg?v=1789899800",
+     "width": 2984,
+     "height": 2984
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1213_f4ef9106-065f-4101-a517-d17110708c38.jpg?v=1789899827",
+     "width": 3125,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1209_98eb78f7-b19d-4c2c-97f8-9306ac208f4f.jpg?v=1789899851",
+     "width": 3155,
+     "height": 3155
+    }
+   ],
+   "priceMinor": 21900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Almond Rifleman Field – Quartz A statement of resilience. The Rifleman Field – Quartz is Riley’s tool-watch reimagined: built for durability, refined in design, and unapologetically bold. For those who tread the path less forgiving but demand a watch that’s both sharp in style and steadfast in performance. Rugged Form Meets Precision Function Rooted in the timeless legacy of 1940s military field watches, this timepiece honours heritage with purpose. Its clean dial features prominent numerals and a small seconds subdial for clarity, framed by a slim, strong case built for everyday ruggedness. The Quartz drive means instant precision, zero fuss. Key Specifications & Signature Details Feature Detail Movement Miyota Quartz — dependable, precise, and maintenance-light. Case Size 40 mm diameter — a confident presence on the wrist. Thickness 7.9 mm — slim enough to avoid bulk, robust enough to endure. Crystal K1 glass — a strong, clear option with a balance of durability and character. Band & Fit 20 mm lug width; supplied on a colourful NATO strap — flexible, secure, expressive. Water Resistance 5 ATM — safe for rain, splashes, everyday exposure. Colourways Available in vibrant hues: Salmon, Sky Blue, Jungle Green, Pumpkin, Fern — each variant offering character and contrast. Caseback Engraved “Almond” caseback — a discreet signature of craftsmanship. Why the Quartz Rifleman Stands Out Instant Readability — Clarity and simplicity in the dial design echo the field-watch tradition; you see the time you need, fast. Minimalist Durability — Slim profile, robust components, easy to wear under a sleeve or during active use. Colour as Character — Bold, expressive colourways give you the power to wear confidence. It’s not just a watch — it’s a style statement on your wrist. Low-Maintenance Reliability — Quartz movement means no winding, minimal care, yet accurate performance. The Riley Promise Built and delivered from the UK. U.S. customers pay no extra fees — the 10% import tariff is prepaid by Riley so the total you pay at checkout is the total you receive. All backed by a 30-day hassle-free return policy. Take It with You For the outdoors, the commute, moments of adventure—anywhere you want dependable style without compromise—the Almond Rifleman Field – Quartz is your companion. Tough, bold, and unashamedly expressive.",
+   "productType": "Watch",
+   "tags": [
+    "Almond",
+    "Rifleman"
+   ],
+   "options": [
+    {
+     "name": "Colour",
+     "values": [
+      "Salmon",
+      "Sky Blue",
+      "Jungle Green",
+      "Pumpkin",
+      "Fern"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Salmon",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Salmon"
+     ]
+    },
+    {
+     "title": "Sky Blue",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sky Blue"
+     ]
+    },
+    {
+     "title": "Jungle Green",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Jungle Green"
+     ]
+    },
+    {
+     "title": "Pumpkin",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Pumpkin"
+     ]
+    },
+    {
+     "title": "Fern",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Fern"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 7.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Feature": "Detail",
+    "Movement": "Miyota Quartz — dependable, precise, and maintenance-light.",
+    "Case Size": "40 mm diameter — a confident presence on the wrist.",
+    "Thickness": "7.9 mm — slim enough to avoid bulk, robust enough to endure.",
+    "Crystal": "K1 glass — a strong, clear option with a balance of durability and character.",
+    "Band & Fit": "20 mm lug width; supplied on a colourful NATO strap — flexible, secure, expressive.",
+    "Water Resistance": "5 ATM — safe for rain, splashes, everyday exposure.",
+    "Colourways": "Available in vibrant hues: Salmon, Sky Blue, Jungle Green, Pumpkin, Fern — each variant offering character and contrast.",
+    "Caseback": "Engraved “Almond” caseback — a discreet signature of craftsmanship.",
+    "Instant Readability": "— Clarity and simplicity in the dial design echo the field-watch tradition; you see the time you need, fast.",
+    "Minimalist Durability": "— Slim profile, robust components, easy to wear under a sleeve or during active use.",
+    "Colour as Character": "— Bold, expressive colourways give you the power to wear confidence. It’s not just a watch — it’s a style statement on your wrist.",
+    "Low-Maintenance Reliability": "— Quartz movement means no winding, minimal care, yet accurate performance.",
+    "Free shipping (US": "3–5 business days)",
+    "Colour": "Salmon Sky Blue Jungle Green Pumpkin Fern"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/almond"
+   ],
+   "hash": "0f8f9b8fbd68d304"
+  },
+  {
+   "id": "BRD-0483/almond-rifleman-field",
+   "name": "Almond Rifleman Field",
+   "url": "https://www.rileywatchco.com/products/almond-rifleman-field",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1179.jpg?v=1789891040",
+    "width": 2755,
+    "height": 2755
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1179.jpg?v=1789891040",
+     "width": 2755,
+     "height": 2755
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1199.jpg?v=1789890983",
+     "width": 2526,
+     "height": 2526
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1178.jpg?v=1789891011",
+     "width": 2553,
+     "height": 2553
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1183.jpg?v=1789891067",
+     "width": 2655,
+     "height": 2655
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1189.jpg?v=1789891097",
+     "width": 2601,
+     "height": 2601
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1224.jpg?v=1754570731",
+     "width": 2950,
+     "height": 2950
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1229.jpg?v=1754570731",
+     "width": 3185,
+     "height": 3185
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1237.jpg?v=1754570731",
+     "width": 3381,
+     "height": 3381
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1246.jpg?v=1754570731",
+     "width": 3544,
+     "height": 3544
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1233.jpg?v=1754570731",
+     "width": 3426,
+     "height": 3426
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2025-08-07_at_14.05.35.png?v=1754571985",
+     "width": 1268,
+     "height": 922
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2025-08-07_at_14.05.46.png?v=1754571983",
+     "width": 914,
+     "height": 1070
+    }
+   ],
+   "priceMinor": 24900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Almond Rifleman Field A field watch reimagined. The Rifleman Field is Riley’s rugged tribute to vintage military timepieces, infused with modern engineering and unmistakable style. Built for those who demand durability without sacrificing design. Built for the Journey Inspired by the functional field watches of the 1940s, the Almond Rifleman Field features military-style numerals and a 24-hour subdial that emphasises utility. It blends Riley’s signature colour flourishes with a strong, purposeful presence — ready for everyday wear or rough terrain. Specifications & Signature Features Feature Details Movement Automatic Miyota calibre — reliable, durable, engineered for precision. Case Size 40 mm diameter — a balanced size that’s substantial, yet wearable. Thickness 11.7 mm — solid build that still wears comfortably. Crystal Sapphire — scratch-resistant and clear under pressure. Water Resistance 5 ATM — resilient against daily exposure to rain, splashes, and moisture. Strap Options Available with a stainless steel bracelet or classic NATO straps — switch up style without compromising character. Lug width: 20 mm. Design Choices Multiple colourways such as Sky Blue, Salmon, Jungle Green, Pumpkin, and Fern — each with both steel bracelet and NATO strap options for contrast and personality. Exhibition Caseback See the movement at work — adds a touch of transparency to what is otherwise a rugged tool watch. Why the Rifleman Field Resonates Functional Heritage — Drawing direct inspiration from military field watches of mid-20th century, this is a tool watch with authentic roots. Versatility & Style — Whether you choose the steel bracelet or NATO strap, paired with vivid or muted dials, the Rifleman adapts to both rugged settings and style-conscious moments. Rugged Reliability — With sapphire crystal, automatic movement, and solid waterproofing, this is a watch built to endure. Colour Meets Character — Riley’s touch of flair comes through distinct colour options that nod to tradition yet stand out in a crowd. The Riley Assurance Built and shipped from the UK. For USA customers, Riley covers the 10% import tariff on all orders, so the price you see at checkout is the price you pay — no hidden fees. 30-day hassle-free returns ensure peace of mind. Own Your Field Piece The Almond Rifleman Field is more than just a watch—it’s what you wear when reliability counts, style matters, and heritage inspires. For those who move in all terrains, who value clarity, toughness, and bold colour, this is your instrument.",
+   "productType": "Watch",
+   "tags": [
+    "Almond",
+    "Rifleman"
+   ],
+   "options": [
+    {
+     "name": "Colour",
+     "values": [
+      "Sky Blue - Steel",
+      "Salmon - Steel",
+      "Jungle Green - Steel",
+      "Pumpkin - Steel",
+      "Fern - Steel",
+      "Salmon - NATO",
+      "Sky Blue - NATO",
+      "Jungle Green - NATO",
+      "Pumpkin - NATO",
+      "Fern - NATO"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Sky Blue - Steel",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sky Blue - Steel"
+     ]
+    },
+    {
+     "title": "Salmon - Steel",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Salmon - Steel"
+     ]
+    },
+    {
+     "title": "Jungle Green - Steel",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Jungle Green - Steel"
+     ]
+    },
+    {
+     "title": "Pumpkin - Steel",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Pumpkin - Steel"
+     ]
+    },
+    {
+     "title": "Fern - Steel",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Fern - Steel"
+     ]
+    },
+    {
+     "title": "Salmon - NATO",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Salmon - NATO"
+     ]
+    },
+    {
+     "title": "Sky Blue - NATO",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sky Blue - NATO"
+     ]
+    },
+    {
+     "title": "Jungle Green - NATO",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Jungle Green - NATO"
+     ]
+    },
+    {
+     "title": "Pumpkin - NATO",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Pumpkin - NATO"
+     ]
+    },
+    {
+     "title": "Fern - NATO",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Fern - NATO"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 11.7,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Feature": "Details",
+    "Movement": "Automatic Miyota calibre — reliable, durable, engineered for precision.",
+    "Case Size": "40 mm diameter — a balanced size that’s substantial, yet wearable.",
+    "Thickness": "11.7 mm — solid build that still wears comfortably.",
+    "Crystal": "Sapphire — scratch-resistant and clear under pressure.",
+    "Water Resistance": "5 ATM — resilient against daily exposure to rain, splashes, and moisture.",
+    "Strap Options": "Available with a stainless steel bracelet or classic NATO straps — switch up style without compromising character. Lug width: 20 mm.",
+    "Design Choices": "Multiple colourways such as Sky Blue, Salmon, Jungle Green, Pumpkin, and Fern — each with both steel bracelet and NATO strap options for contrast and personality.",
+    "Exhibition Caseback": "See the movement at work — adds a touch of transparency to what is otherwise a rugged tool watch.",
+    "Functional Heritage": "— Drawing direct inspiration from military field watches of mid-20th century, this is a tool watch with authentic roots.",
+    "Versatility & Style": "— Whether you choose the steel bracelet or NATO strap, paired with vivid or muted dials, the Rifleman adapts to both rugged settings and style-conscious moments.",
+    "Rugged Reliability": "— With sapphire crystal, automatic movement, and solid waterproofing, this is a watch built to endure.",
+    "Colour Meets Character": "— Riley’s touch of flair comes through distinct colour options that nod to tradition yet stand out in a crowd.",
+    "Free shipping (US": "3–5 business days)",
+    "Colour": "Sky Blue - Steel Salmon - Steel Jungle Green - Steel Pumpkin - Steel Fern - Steel Salmon - NATO Sky Blue - NATO Jungle Green - NATO Pumpkin - NATO Fern - NATO"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/almond"
+   ],
+   "hash": "db3ee8faceaf839d"
+  },
+  {
+   "id": "BRD-0483/deco-moon",
+   "name": "Deco Moon",
+   "url": "https://www.rileywatchco.com/products/deco-moon",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1157.jpg?v=1754058107",
+    "width": 2417,
+    "height": 2417
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1157.jpg?v=1754058107",
+     "width": 2417,
+     "height": 2417
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1161_c279cbec-a901-46eb-a603-6c6a87a1eab6.jpg?v=1754058424",
+     "width": 2298,
+     "height": 2298
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1170.jpg?v=1754058107",
+     "width": 2664,
+     "height": 2664
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2025-08-08_at_09.35.08.png?v=1754642167",
+     "width": 2190,
+     "height": 1106
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1167.jpg?v=1754642167",
+     "width": 3229,
+     "height": 3229
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2025-09-24_at_11.49.29.png?v=1758711044",
+     "width": 2168,
+     "height": 1434
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Introducing the Deco Moon A watch that recalls the glamour of the golden age—where dress and daring merged in the skies. The Deco Moon is Riley’s first moonphase complication, a square-Roman inspired piece through which elegance meets aviation’s vintage edge. It’s made for those who want a dress watch with a story. A Statement in Every Detail Ultra-slim, elegantly curved, and square in form, the Deco Moon is made to sit beautifully on the wrist. Its Moonphase display dominates the dial with grace, framed by bold Roman numerals and a case that bridges classic refinement and modern presence. Designed and hand-built in our Manchester workshop, this is watchmaking with both passion and precision. Key Specifications & Features Feature Details Movement Swiss Ronda 708 moonphase — accurate and elegant in function. Case Dimensions 36.5 × 36.0 mm – square profile; approx. 9.6 mm thick – slim and wearable. Crystal Sapphire crystal – clear, resilient, scratch-resistant. Strap Genuine leather strap with 22 mm lug width – comfort and tradition combined. Water Resistance 5 ATM – suitable for everyday wear and light moisture. Colourways Available Cream Dial, Salmon Dial, White Dial. Why the Deco Moon Captivates Vintage Dress with Character – The square-Roman moonphase look echoes the high style of aviation’s golden era, while the strong dial presence ensures it’s no delicate dress piece alone. Elegant Wearability – Its slim case height and curved design make it suitable under cuff or for more formal occasions. It balances boldness with wearable refinement. Swiss Precision & Craftsmanship – Powered by a Swiss movement, built by hand in Manchester—combining local craftsmanship with horological pedigree. Distinctive Aesthetic – The moonphase complication isn’t just functional; it’s the focal point. With Roman numerals and a substantial dial, the Deco Moon commands attention while remaining graceful. The Riley Promise Our Deco Moon is built and shipped from the UK. For US orders, Riley covers the 10% import tariff, so what you pay at checkout is what you receive—no surprises. 30-day hassle-free returns ensure you can confidently judge its fit, feel, and finishing. Own Your Moonlit Moment More than a timepiece, the Deco Moon is an invitation—to dress with intention, to carry heritage, to wear a complication with style. For those who appreciate that elegance is not about distraction but about proportion, poise, and presence, this is your evening signature.",
+   "productType": "Watch",
+   "tags": [
+    "Deco Moon"
+   ],
+   "options": [
+    {
+     "name": "Colour",
+     "values": [
+      "Cream Dial",
+      "Salmon Dial",
+      "White Dial"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cream Dial",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Cream Dial"
+     ]
+    },
+    {
+     "title": "Salmon Dial",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Salmon Dial"
+     ]
+    },
+    {
+     "title": "White Dial",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White Dial"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 36.5,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Ronda 708",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Feature": "Details",
+    "Movement": "Swiss Ronda 708 moonphase — accurate and elegant in function.",
+    "Case Dimensions": "36.5 × 36.0 mm – square profile; approx. 9.6 mm thick – slim and wearable.",
+    "Crystal": "Sapphire crystal – clear, resilient, scratch-resistant.",
+    "Strap": "Genuine leather strap with 22 mm lug width – comfort and tradition combined.",
+    "Water Resistance": "5 ATM – suitable for everyday wear and light moisture.",
+    "Colourways Available": "Cream Dial, Salmon Dial, White Dial.",
+    "Vintage Dress with Character": "– The square-Roman moonphase look echoes the high style of aviation’s golden era, while the strong dial presence ensures it’s no delicate dress piece alone.",
+    "Elegant Wearability": "– Its slim case height and curved design make it suitable under cuff or for more formal occasions. It balances boldness with wearable refinement.",
+    "Swiss Precision & Craftsmanship": "– Powered by a Swiss movement, built by hand in Manchester—combining local craftsmanship with horological pedigree.",
+    "Distinctive Aesthetic": "– The moonphase complication isn’t just functional; it’s the focal point. With Roman numerals and a substantial dial, the Deco Moon commands attention while remaining graceful.",
+    "Free shipping (US": "3–5 business days)",
+    "Colour": "Cream Dial Salmon Dial White Dial"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/deco-moon"
+   ],
+   "hash": "77d2b86d1376c315"
+  },
+  {
+   "id": "BRD-0483/riley-heritage-automatic",
+   "name": "Riley Heritage",
+   "url": "https://www.rileywatchco.com/products/riley-heritage-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.25.45.png?v=1786364908",
+    "width": 1360,
+    "height": 2098
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.25.45.png?v=1786364908",
+     "width": 1360,
+     "height": 2098
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.25.59.png?v=1786364908",
+     "width": 1294,
+     "height": 2010
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.24.49.png?v=1786364908",
+     "width": 1282,
+     "height": 1988
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.27.06.png?v=1786364908",
+     "width": 1604,
+     "height": 2200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.27.21.png?v=1786364909",
+     "width": 1912,
+     "height": 2218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.26.48.png?v=1786364908",
+     "width": 1602,
+     "height": 2250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.25.52.png?v=1786364908",
+     "width": 1330,
+     "height": 1976
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.25.37.png?v=1786364908",
+     "width": 1696,
+     "height": 2144
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.25.28.png?v=1786364908",
+     "width": 1612,
+     "height": 2022
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.25.18.png?v=1786364908",
+     "width": 1594,
+     "height": 1924
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.25.06.png?v=1786364908",
+     "width": 1484,
+     "height": 1850
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-08-10at13.24.56.png?v=1786364908",
+     "width": 1448,
+     "height": 2054
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Heritage, made for every day. The Riley Heritage returns with the same vintage-inspired dial designs and distinctive 1950s character, now powered by an exceptionally dependable Japanese Miyota quartz movement. The result is the slimmest, easiest-wearing Heritage we’ve made — just 9.65mm thick , accurate, reliable and ready to wear whenever you pick it up. And because you’re not paying extra for an automatic movement, we can offer it at a lower price without compromising the part you actually see: the watch itself. Same Heritage. Slimmer Watch. The appeal of the Heritage has always been its design. Its warm colours, railway-style minute track, beautifully proportioned numerals and understated 1950s influence remain at the heart of the watch. The new quartz edition retains that character while allowing us to reduce the case thickness and create a noticeably sleeker watch on the wrist. At 40mm across and only 9.65mm thick , it slips easily under a cuff and feels lighter and less bulky than its automatic predecessor. Inside is the Japanese Miyota 2315 quartz movement — a proven, accurate and low-maintenance movement designed to simply get on with the job. Specifications & Signature Features Feature Detail Movement Japanese Miyota 2315 quartz Function Hours, minutes, seconds and date Case Size 40mm Case Thickness 9.65mm Lug-to-Lug 46mm Crystal Sapphire glass Strap Genuine leather, 20mm tapering to 18mm Water Resistance 5 ATM Caseback Solid stainless-steel caseback Dial Brass dial with the same Heritage design and detailing Built Built in England Why Quartz? There’s a reason quartz transformed watchmaking. It is more accurate than a traditional mechanical movement , requires less maintenance and means you can leave your Heritage for a few days — or a few weeks — and pick it up again without having to reset and wind it. It also allows us to make the Heritage substantially slimmer. So if your priority is the design, quality and character of the watch rather than watching a mechanical rotor turn through the caseback, this is arguably the most usable Heritage we’ve ever made. Same Riley design. Sapphire crystal. Japanese movement. A slimmer case. Greater accuracy. Lower price. That feels like a pretty good trade. Vintage Character Without the Fuss The Heritage was designed to capture something we love about watches from the middle of the twentieth century: they were elegant, colourful and — importantly — wearable. Moving to quartz lets this version get closer to that philosophy. At less than 10mm thick, it has the proportions of a genuinely slim everyday watch while retaining the 40mm presence and unmistakable dial of the original Heritage. Dress it up. Wear it with jeans. Leave it on the bedside table for a fortnight and pick it straight back up. The Heritage is still the Heritage. It’s just easier to live with. The Riley Assurance Every Heritage is built and shipped from the UK and includes our 30-day hassle-free return policy . For customers in the United States, Riley prepays the applicable import tariff, so the price you pay at checkout is the price you pay for the watch — with no unexpected tariff bill when it arrives.",
+   "productType": "Watch",
+   "tags": [
+    "Heritage"
+   ],
+   "options": [
+    {
+     "name": "Model",
+     "values": [
+      "Aqua Silver Green",
+      "Sunburst",
+      "Deep Blue cream"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Aqua Silver Green",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Aqua Silver Green"
+     ]
+    },
+    {
+     "title": "Sunburst",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sunburst"
+     ]
+    },
+    {
+     "title": "Deep Blue cream",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Deep Blue cream"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 2315",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Feature": "Detail",
+    "Movement": "Japanese Miyota 2315 quartz",
+    "Function": "Hours, minutes, seconds and date",
+    "Case Size": "40mm",
+    "Case Thickness": "9.65mm",
+    "Lug-to-Lug": "46mm",
+    "Crystal": "Sapphire glass",
+    "Strap": "Genuine leather, 20mm tapering to 18mm",
+    "Water Resistance": "5 ATM",
+    "Caseback": "Solid stainless-steel caseback",
+    "Dial": "Brass dial with the same Heritage design and detailing",
+    "Built": "Built in England",
+    "Free shipping (US": "3–5 business days)",
+    "Model": "Aqua Silver Green Sunburst Deep Blue cream"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/heritage"
+   ],
+   "hash": "edac1c2ddf536b18"
+  },
+  {
+   "id": "BRD-0483/howard-hughes-scarface-chronograph-hh01-sf",
+   "name": "Howard Hughes Scarface Chronograph - HH01 SF",
+   "url": "https://www.rileywatchco.com/products/howard-hughes-scarface-chronograph-hh01-sf",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/HH01_SF.png?v=1742830028",
+    "width": 938,
+    "height": 1024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/HH01_SF.png?v=1742830028",
+     "width": 938,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-03-24at15.24.35.png?v=1742829946",
+     "width": 1576,
+     "height": 1058
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-03-24at15.24.23.png?v=1742829946",
+     "width": 1488,
+     "height": 1046
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-03-24at15.24.29.png?v=1742829946",
+     "width": 1576,
+     "height": 1048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2025-03-24at15.23.55.png?v=1742829946",
+     "width": 1670,
+     "height": 1088
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Please note the original numbered run of this model is sold out, and the currently stocked model uses our updated logo and caseback. Howard Hughes Scarface Chronograph ‒ HH01 SF A cinematic icon reinterpreted. The HH01 SF is not just a timepiece—it’s a statement piece inspired by the glamour, grit, and mythos of Hollywood’s gangster legend. It bridges vintage aviation chronograph aesthetics with the dark elegance of Scarface , offering you more than just time—it gives you presence. From Screen to Wrist When Howard Hughes produced Scarface (1932), he set a tone of ambition, danger, and style. The Scarface Edition takes that cinematic energy, fuses it with the heritage of the Howard Hughes HH01 Chronograph, and finishes it in gold, bold contrast, and exclusive rarity. The result? A striking wristwatch that channels power and luxury in equal measure. Key Features & Specifications Feature Detail Movement Japanese VK64 mecha-quartz – combines mechanical feel with quartz precision. Case Size 40 × 42 mm, stainless steel with gold plating – a presence that commands attention. Thickness Approx. 12 mm – weighty yet balanced in feel. Crystal Sapphire – clear, scratch-resistant, designed to endure. Strap Genuine leather, 22 mm at the lugs — refined but robust. Water Resistance Rated to 5 ATM — safe for everyday moisture, rain, or splashes. What Makes the HH01 SF Exceptional Cinematic Heritage & Style – Crafted to honour both Howard Hughes’ original Scarface and the iconic imagery of its later remakes, this model brings Hollywood intrigue to classic chronograph design. Retro Aviation DNA, Elevated – Uses the base HH01 platform: off-square case, bevelled chronograph inlay, bold dial layout — all reimagined in gold tone, giving it drama and refinement. Versatility in Statement – Whether styled with a classic leather strap or adorned in gold plating, this watch pairs bold luxury with heritage-inspired ruggedness. The Riley Promise Our HH01 Scarface Chronograph is built, shipped, and supported from the UK. Every order comes with fast worldwide shipping and a 30-day hassle-free return policy , ensuring you can wear your piece with confidence. Own a Piece of Legend The HH01 SF is not for the faint of presence—it’s for the bold. It’s for those who appreciate craftsmanship, style, story, and scarcity. If you want a timepiece that’s more than time—one that echoes legacy, ambition, and character—this is the one.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Feature": "Detail",
+    "Movement": "Japanese VK64 mecha-quartz – combines mechanical feel with quartz precision.",
+    "Case Size": "40 × 42 mm, stainless steel with gold plating – a presence that commands attention.",
+    "Thickness": "Approx. 12 mm – weighty yet balanced in feel.",
+    "Crystal": "Sapphire – clear, scratch-resistant, designed to endure.",
+    "Strap": "Genuine leather, 22 mm at the lugs — refined but robust.",
+    "Water Resistance": "Rated to 5 ATM — safe for everyday moisture, rain, or splashes.",
+    "Cinematic Heritage & Style": "– Crafted to honour both Howard Hughes’ original Scarface and the iconic imagery of its later remakes, this model brings Hollywood intrigue to classic chronograph design.",
+    "Versatility in Statement": "– Whether styled with a classic leather strap or adorned in gold plating, this watch pairs bold luxury with heritage-inspired ruggedness.",
+    "Free shipping (US": "3–5 business days)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8ea20e1da2104f46"
+  },
+  {
+   "id": "BRD-0483/jerrie-cobb-solar-jc01",
+   "name": "Jerrie Cobb Solar - JC01",
+   "url": "https://www.rileywatchco.com/products/jerrie-cobb-solar-jc01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1139.jpg?v=1789899963",
+    "width": 2171,
+    "height": 2171
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1139.jpg?v=1789899963",
+     "width": 2171,
+     "height": 2171
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1131.jpg?v=1789899936",
+     "width": 2193,
+     "height": 2193
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2024-04-30at14.27.36.png?v=1776596526",
+     "width": 1138,
+     "height": 1352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2024-04-30at14.26.37.png?v=1776596526",
+     "width": 1036,
+     "height": 1370
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_1130.jpg?v=1789899984",
+     "width": 2058,
+     "height": 2058
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2024-04-30at14.29.43.png?v=1753715327",
+     "width": 1232,
+     "height": 1352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2024-04-30at14.30.42.png?v=1753715327",
+     "width": 1160,
+     "height": 1336
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2024-04-30at14.42.40.png?v=1753715327",
+     "width": 1574,
+     "height": 1042
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2025-02-04_at_13.34.28.png?v=1753715327",
+     "width": 936,
+     "height": 1160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2024-04-30at14.35.06.png?v=1753715327",
+     "width": 1094,
+     "height": 1414
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2024-04-30at14.32.01.png?v=1753715327",
+     "width": 866,
+     "height": 1128
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2024-04-30at14.34.14.png?v=1753715327",
+     "width": 1046,
+     "height": 1394
+    }
+   ],
+   "priceMinor": 21900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Note: All of our watches are built and shipped from the UK, and so are subject to a tariff of 10% on shipments to the USA. We pay this tariff as we ship, so US customers won’t receive any unexpected fees on delivery. In other words, the price you see and pay at checkout is the price you pay for the watch, nothing more . Jerrie Cobb Solar ‒ JC01 A tribute to courage, a companion powered by light. The JC01 honours Jerrie Cobb — pioneer aviator, record-breaker, and one of the original Gemini astronaut trainees — with a watch that is as forward-looking as her legacy. Powered by the Stars Harnessing the sun’s energy, the JC01 uses a Seiko AS01 solar movement, converting daylight into precision, with a power reserve of approximately four months once fully charged. No battery changes, just perpetual motion. Specifications & Signature Details Feature Detail Movement Solar-powered: Seiko AS01 Solar, ensuring consistent, eco-aware performance. Case Size & Profile 38 mm diameter Crystal Mineral glass, chosen for clarity and balance between durability and vintage charm. Water Resistance 5 ATM — resilient for everyday encounters with water. Strap Genuine leather with quick-release spring bars and a folding clasp — comfort, elegance, and ease of use. Caseback Engraved — an understated touch of heritage and craftsmanship. Colour Options A vibrant palette: Deep Blue Cream, Bumblebee, Candyfloss, Ocean Green, Silver Aqua Green, Cream Yellow, Racing Green, Vintage Tan, Sunburst — something for every mood or style. Why the JC01 Resonates Honouring a Pioneer — Jerrie Cobb’s achievements in aviation and space-flight broke barriers. This watch captures that spirit: bold, uncompromised, visionary. Light-Powered Precision — No winding, no battery changes. Just let it see daylight and it keeps going — a timepiece that works in harmony with nature. Wearable Grace — At 38 mm by 9 mm, it combines presence with subtlety — equally at home under a shirt cuff or out during the day. Personality Through Colour — With a dozen striking colourways, the JC01 isn’t just about telling time — it’s about expressing identity. The Riley Promise Hand-built in the UK, the JC01 arrives with fast shipping and a 30-day return policy. Price shown covers global delivery (including the U.S.), so what you see is what you pay — no surprises. Own a Part of the Skies Our JC01 offers a rare union: heritage, sustainability, design. More than a watch — it’s a beacon of inspiration, proof that a legacy can shine as bright as the stars.",
+   "productType": "Watch",
+   "tags": [
+    "JC01",
+    "Jerrie Cobb"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Bumblebee",
+      "Blush Pink",
+      "Ocean Green",
+      "Vintage Tan"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bumblebee",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bumblebee"
+     ]
+    },
+    {
+     "title": "Blush Pink",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blush Pink"
+     ]
+    },
+    {
+     "title": "Ocean Green",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Ocean Green"
+     ]
+    },
+    {
+     "title": "Vintage Tan",
+     "sku": null,
+     "priceMinor": 21900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Vintage Tan"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "solar",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Feature": "Detail",
+    "Movement": "Solar-powered: Seiko AS01 Solar, ensuring consistent, eco-aware performance.",
+    "Case Size & Profile": "38 mm diameter",
+    "Crystal": "Mineral glass, chosen for clarity and balance between durability and vintage charm.",
+    "Water Resistance": "5 ATM — resilient for everyday encounters with water.",
+    "Strap": "Genuine leather with quick-release spring bars and a folding clasp — comfort, elegance, and ease of use.",
+    "Caseback": "Engraved — an understated touch of heritage and craftsmanship.",
+    "Colour Options": "A vibrant palette: Deep Blue Cream, Bumblebee, Candyfloss, Ocean Green, Silver Aqua Green, Cream Yellow, Racing Green, Vintage Tan, Sunburst — something for every mood or style.",
+    "Honouring a Pioneer": "— Jerrie Cobb’s achievements in aviation and space-flight broke barriers. This watch captures that spirit: bold, uncompromised, visionary.",
+    "Light-Powered Precision": "— No winding, no battery changes. Just let it see daylight and it keeps going — a timepiece that works in harmony with nature.",
+    "Wearable Grace": "— At 38 mm by 9 mm, it combines presence with subtlety — equally at home under a shirt cuff or out during the day.",
+    "Personality Through Colour": "— With a dozen striking colourways, the JC01 isn’t just about telling time — it’s about expressing identity.",
+    "Our JC01 offers a rare union": "heritage, sustainability, design. More than a watch — it’s a beacon of inspiration, proof that a legacy can shine as bright as the stars.",
+    "Free shipping (US": "3–5 business days)",
+    "Color": "Bumblebee Bumblebee Blush Pink Ocean Green Vintage Tan"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/jerrie-cobb-solar"
+   ],
+   "hash": "dd818fac8acfc362"
+  },
+  {
+   "id": "BRD-0483/howard-hughes-chronograph-hh02",
+   "name": "Howard Hughes FlyRacer Chronograph",
+   "url": "https://www.rileywatchco.com/products/howard-hughes-chronograph-hh02",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.17.12.png?v=1770747983",
+    "width": 962,
+    "height": 1320
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.17.12.png?v=1770747983",
+     "width": 962,
+     "height": 1320
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.18.58.png?v=1770748024",
+     "width": 880,
+     "height": 1340
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.18.03.png?v=1770748024",
+     "width": 928,
+     "height": 1358
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.20.03.png?v=1770748024",
+     "width": 878,
+     "height": 1352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.23.08.png?v=1770748024",
+     "width": 1016,
+     "height": 1358
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.20.57.png?v=1770748024",
+     "width": 894,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.24.51.png?v=1770748024",
+     "width": 1048,
+     "height": 1344
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.24.18.png?v=1770748024",
+     "width": 1040,
+     "height": 1316
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.23.46.png?v=1770748024",
+     "width": 1056,
+     "height": 1332
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.22.22.png?v=1770748024",
+     "width": 964,
+     "height": 1272
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot2026-02-10at18.21.42.png?v=1770748024",
+     "width": 1130,
+     "height": 1336
+    }
+   ],
+   "priceMinor": 24900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Introducing the Howard Hughes FlyRacer Chronograph The Howard Hughes FlyRacer Chronograph takes the aviation spirit of the original Hughes line and gives it a cleaner, sportier edge. With a slimmer 40mm case, tachymeter chapter ring and Seiko VK64 mecha-quartz movement, it’s built for everyday wear with a nod to the golden age of air racing. A Sleeker Sports Chronograph The FlyRacer has a slimmer feel on the wrist than the original Howard Hughes Chronograph, with applied indices, inset sub-dials and a sharp tachymeter scale around the outer dial. It keeps the character of the Hughes collection, but in a more refined, daily-wearable format. Specifications & Key Features Feature Detail Movement Japanese VK64 mecha-quartz — offering the tactile click of mechanical chronograph reset with quartz reliability. Case Diameter 40 mm — an optimal size that pairs presence with polish. Thickness 11 mm — slender enough for daily wear, yet substantial in hand. Crystal Sapphire — scratch-proof and clear. Water Resistance 5 ATM — safe from rain, splashes, and everyday exposure. Strap Genuine leather with dial-matching stitching and quick-release spring bars — comfort, style, and ease. Lug width: 21 mm. Extra Features 24-hour subdial, date display, lume on primary time hands. Design Varieties Available in multiple colour-ways: Classic Retro Cream, Toybox Yellow, Retro Military Green, Midnight Blue, Racing Green, Sky Blue Silver — each with its own distinct palette. Why the FlyRacer Resonates Subtle Sophistication – Its thinner, smaller case softens the silhouette slightly without losing edge: perfect under a cuff or on a weekend outing. Layered Depth – Inset subdials and applied indices give dimensionality; the tachymeter ring adds both function and vintage racing heritage. Precision & Versatility – The mecha-quartz movement provides accuracy, the chronograph and 24-hour complications add utility, and water resistance ensures ruggedness. Character & Colour – With several dial-and-case colour options, the FlyRacer becomes more than a timekeeper; it’s an expression of personal taste. The Riley Assurance Each FlyRacer arrives in a bespoke Riley Watch Co presentation box, backed by a 5-year warranty and a 30-day, no-questions-asked return policy . Every piece is crafted and shipped from the UK, which means what you see is the price you pay—even for international orders. Make a Statement Our FlyRacer is a rare blend of design nuance, mechanical flair, and vintage heart. It’s not just a watch—it’s a refined companion, one that complements both sharp tailoring and everyday journeys.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Sky Blue Silver",
+      "Racing Green",
+      "Classic Retro Cream",
+      "Toybox Yellow",
+      "Mojito",
+      "Glacier Blush"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Sky Blue Silver",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sky Blue Silver"
+     ]
+    },
+    {
+     "title": "Racing Green",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Racing Green"
+     ]
+    },
+    {
+     "title": "Classic Retro Cream",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Classic Retro Cream"
+     ]
+    },
+    {
+     "title": "Toybox Yellow",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Toybox Yellow"
+     ]
+    },
+    {
+     "title": "Mojito",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mojito"
+     ]
+    },
+    {
+     "title": "Glacier Blush",
+     "sku": null,
+     "priceMinor": 24900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Glacier Blush"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 21,
+    "lugToLugMm": null,
+    "thicknessMm": 11,
+    "waterResistanceM": 50,
+    "caliber": "Seiko VK64",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Feature": "Detail",
+    "Movement": "Japanese VK64 mecha-quartz — offering the tactile click of mechanical chronograph reset with quartz reliability.",
+    "Case Diameter": "40 mm — an optimal size that pairs presence with polish.",
+    "Thickness": "11 mm — slender enough for daily wear, yet substantial in hand.",
+    "Crystal": "Sapphire — scratch-proof and clear.",
+    "Water Resistance": "5 ATM — safe from rain, splashes, and everyday exposure.",
+    "Strap": "Genuine leather with dial-matching stitching and quick-release spring bars — comfort, style, and ease. Lug width: 21 mm.",
+    "Extra Features": "24-hour subdial, date display, lume on primary time hands.",
+    "Design Varieties": "Available in multiple colour-ways: Classic Retro Cream, Toybox Yellow, Retro Military Green, Midnight Blue, Racing Green, Sky Blue Silver — each with its own distinct palette.",
+    "Subtle Sophistication": "– Its thinner, smaller case softens the silhouette slightly without losing edge: perfect under a cuff or on a weekend outing.",
+    "Layered Depth": "– Inset subdials and applied indices give dimensionality; the tachymeter ring adds both function and vintage racing heritage.",
+    "Precision & Versatility": "– The mecha-quartz movement provides accuracy, the chronograph and 24-hour complications add utility, and water resistance ensures ruggedness.",
+    "Character & Colour": "– With several dial-and-case colour options, the FlyRacer becomes more than a timekeeper; it’s an expression of personal taste.",
+    "Free shipping (US": "3–5 business days)",
+    "Color": "Classic Retro Cream Sky Blue Silver Racing Green Classic Retro Cream Toybox Yellow Mojito Glacier Blush"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/howard-hughes-hh01-2"
+   ],
+   "hash": "f5e9fc2e2ef6c79d"
+  },
+  {
+   "id": "BRD-0483/amelia-earhart-automatic-ae01-gmt",
+   "name": "Amelia Earhart - AE01",
+   "url": "https://www.rileywatchco.com/products/amelia-earhart-automatic-ae01-gmt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/4.jpg?v=1786365894",
+    "width": 2888,
+    "height": 2888
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/4.jpg?v=1786365894",
+     "width": 2888,
+     "height": 2888
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/8.jpg?v=1786365894",
+     "width": 3456,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/1.jpg?v=1786365894",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6778.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6774.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6741.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6777.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6776.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6775.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6772.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6769.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/IMG_6768.jpg?v=1786365514",
+     "width": 5184,
+     "height": 3456
+    }
+   ],
+   "priceMinor": 22900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Amelia Earhart Quartz A slimmer, more accurate take on one of Riley’s most distinctive watches. Inspired by Amelia Earhart, the aircraft she flew and the extraordinary era of aviation she helped define, the Amelia Earhart returns with the same striking dial designs in a new, beautifully slim quartz case. At just 9.15mm thick , this is the thinnest and most wearable version we’ve produced — powered by a highly dependable Japanese Miyota quartz movement and protected by sapphire glass. The colours, details and aviation-inspired character remain. The bulk doesn’t. Built Around the Design The Amelia Earhart collection has always been about more than the movement inside it. Canary Yellow references Earhart's first aircraft, The Canary . The vivid red recalls her Lockheed Vega. Silver takes its cues from the aluminium skin of the Electra, while Sky Blue and Classic Cream draw from the visual language of aviation's golden age. Those designs remain the stars of the watch. By moving to a Japanese quartz movement, we've been able to put them into a case measuring just 9.15mm from front to back — creating a watch that feels noticeably lighter, slimmer and more comfortable on the wrist. Specifications & Signature Features Feature Detail Movement Japanese Miyota 2035 quartz Function Hours, minutes and seconds Case Size 40mm Case Thickness 9.15mm Lug-to-Lug 48mm Crystal Sapphire glass Strap Genuine leather, 20mm tapering to 18mm Water Resistance 5 ATM Caseback Solid stainless-steel caseback Dial Brass dial with aviation-inspired detailing Built Built in England Quartz, Deliberately We could have treated quartz as a way to simply make the Amelia Earhart cheaper. We didn't. We chose it because it changes the proportions of the watch. The compact Miyota 2035 allows the complete case to measure only 9.15mm thick. It also gives you the accuracy and convenience quartz is famous for: no winding, no resetting the watch after leaving it unworn and considerably greater timekeeping accuracy than a conventional automatic movement. For an everyday watch, those are real advantages. And because a quality Japanese quartz movement costs less than its mechanical equivalent, you get the same Riley design, sapphire crystal and build quality at a significantly more accessible price. You're paying for the watch you can see and wear — not simply paying more because there's an automatic movement hidden inside it. Same Amelia Earhart. Better Everyday Companion. Put the quartz and automatic editions side by side and the thing you'll notice first isn't the movement. It's the design. The dial, colours, polished details and aviation influence that made the original Amelia Earhart distinctive are all still there. What you gain is a case that's slimmer, a watch that's easier to wear, accuracy you don't have to think about and a lower price. For many owners, we'd argue that makes this the better everyday Amelia Earhart . The Riley Promise Every Amelia Earhart is built and shipped from the UK and includes our 30-day hassle-free return policy . For customers in the United States, Riley prepays the applicable import tariff, meaning the amount shown at checkout is the amount you pay for the watch — with no unexpected tariff charge on delivery.",
+   "productType": "Watch",
+   "tags": [
+    "AE01-GMT",
+    "Amelia Earhart"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Canary (Yellow)",
+      "Sky (Blue)",
+      "Classic Cream"
+     ]
+    },
+    {
+     "name": "Material",
+     "values": [
+      "Leather Strap (Quick Release Clasp)",
+      "Steel Mesh Band"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Canary (Yellow) / Leather Strap (Quick Release Clasp)",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Canary (Yellow)",
+      "Leather Strap (Quick Release Clasp)"
+     ]
+    },
+    {
+     "title": "Canary (Yellow) / Steel Mesh Band",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Canary (Yellow)",
+      "Steel Mesh Band"
+     ]
+    },
+    {
+     "title": "Sky (Blue) / Leather Strap (Quick Release Clasp)",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sky (Blue)",
+      "Leather Strap (Quick Release Clasp)"
+     ]
+    },
+    {
+     "title": "Sky (Blue) / Steel Mesh Band",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sky (Blue)",
+      "Steel Mesh Band"
+     ]
+    },
+    {
+     "title": "Classic Cream / Leather Strap (Quick Release Clasp)",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Classic Cream",
+      "Leather Strap (Quick Release Clasp)"
+     ]
+    },
+    {
+     "title": "Classic Cream / Steel Mesh Band",
+     "sku": null,
+     "priceMinor": 22900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Classic Cream",
+      "Steel Mesh Band"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 15,
+    "lugToLugMm": 48,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "Miyota 2035",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Feature": "Detail",
+    "Movement": "Japanese Miyota 2035 quartz",
+    "Function": "Hours, minutes and seconds",
+    "Case Size": "40mm",
+    "Case Thickness": "9.15mm",
+    "Lug-to-Lug": "48mm",
+    "Crystal": "Sapphire glass",
+    "Strap": "Genuine leather, 20mm tapering to 18mm",
+    "Water Resistance": "5 ATM",
+    "Caseback": "Solid stainless-steel caseback",
+    "Dial": "Brass dial with aviation-inspired detailing",
+    "Built": "Built in England",
+    "Free shipping (US": "3–5 business days)",
+    "Color": "Canary (Yellow) Canary (Yellow) Sky (Blue) Classic Cream Material: Leather Strap (Quick Release Clasp) Steel Mesh Band"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6ab49ef0d214cf7f"
+  },
+  {
+   "id": "BRD-0483/howard-hughes-chronograph-hh01",
+   "name": "Howard Hughes Chronograph - HH01",
+   "url": "https://www.rileywatchco.com/products/howard-hughes-chronograph-hh01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_10.31.25_b08c7d9c-1542-44fd-a265-f87c49fcc704.png?v=1771414554",
+    "width": 1324,
+    "height": 2090
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_10.31.25_b08c7d9c-1542-44fd-a265-f87c49fcc704.png?v=1771414554",
+     "width": 1324,
+     "height": 2090
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.24.49.png?v=1771414554",
+     "width": 1392,
+     "height": 2138
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.50.50.png?v=1771415940",
+     "width": 3082,
+     "height": 2134
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.47.46.png?v=1771415940",
+     "width": 3024,
+     "height": 2126
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.53.16.png?v=1771415940",
+     "width": 2454,
+     "height": 2086
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.26.20.png?v=1771415940",
+     "width": 1540,
+     "height": 2144
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.54.17.png?v=1771415940",
+     "width": 1394,
+     "height": 2118
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.25.04.png?v=1771415940",
+     "width": 1388,
+     "height": 2146
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.24.41.png?v=1771415940",
+     "width": 1426,
+     "height": 2144
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.52.18.png?v=1771415940",
+     "width": 3156,
+     "height": 2098
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2026-02-18_at_11.24.56.png?v=1771415940",
+     "width": 1398,
+     "height": 2136
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/files/Screenshot_2025-02-04_at_13.25.25.png?v=1771415940",
+     "width": 1038,
+     "height": 1434
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Note: All of our watches are built and shipped from the UK, and so are subject to a tariff of 10% on shipments to the USA. We pay this tariff as we ship, so US customers won’t receive any unexpected fees on delivery. In other words, the price you see and pay at checkout is the price you pay for the watch, nothing more. Note: Our Sky Blue Silver Model is available now for preorder, with shipping expected during the first or second week of November. We've only produced a run of 50, so preorder now if you want to secure one! Meet the Howard Hughes Chronograph ‒ HH01 A masterclass in vintage-inspired engineering, the HH01 is designed for those who appreciate bold character and refined precision. Conceived in homage to the golden era of aviation racers, and inspired by the Hughes H1 Racer, the HH01 merges athletic lines with ageless elegance. Elevate Your Wrist From its distinctive off-square case to the bevelled chronograph inlay, every detail of the HH01 has been crafted to command attention. Whether paired with one of our classic leather straps or presented in our retro aviation-inspired box, this timepiece is as much a conversation piece as it is a precision instrument. Specifications & Key Features Feature Details Movement Mecha-Quartz TMI VK64 – superb accuracy with mechanical build. Case Dimensions 40 × 42 mm, approx. 12 mm in height – a confident presence without compromise. Crystal Sapphire crystal – scratch resistant, ensuring clarity and durability. Water Resistance Rated to 5 ATM Strap Genuine leather, with 22 mm lug width – comfort and classic appeal. Design Updates (2025 Model) Enhanced caseback featuring “Built in England” inscription; updated logo stamping for finer detail. Why the HH01 is More Than Timekeeping Distinctive Aesthetic – With its bold case geometry and strong retro cues, the HH01 bridges heritage and modern style. Versatility of Colour – Available in variants such as Classic Retro Cream, Racing Green, Sky Blue Silver, Retro Military Green, Toybox Yellow, and Midnight Blue, allowing you to choose the hue that best speaks to your personality. Limited-Edition Scarface – For those seeking rarity, the Scarface edition is released in strictly limited quantity, making it a collector’s gem. The Riley Promise Hand-assembled in the UK, each HH01 is delivered with fast, global shipping and a commitment to quality—no hidden fees, transparent value. If your expectations aren’t met, our 30-day hassle-free return policy ensures peace of mind. Own Something Exceptional Our HH01 is more than a timepiece—it’s a statement. Whether worn to impress or collected for admiration, it’s built to endure, designed to inspire.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Toybox Yellow",
+      "Sky Blue Silver",
+      "Midnight Blue",
+      "Racing Green",
+      "Classic Retro Cream",
+      "Retro Military Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Toybox Yellow",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Toybox Yellow"
+     ]
+    },
+    {
+     "title": "Sky Blue Silver",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sky Blue Silver"
+     ]
+    },
+    {
+     "title": "Midnight Blue",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Midnight Blue"
+     ]
+    },
+    {
+     "title": "Racing Green",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Racing Green"
+     ]
+    },
+    {
+     "title": "Classic Retro Cream",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Classic Retro Cream"
+     ]
+    },
+    {
+     "title": "Retro Military Green",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Retro Military Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Feature": "Details",
+    "Movement": "Mecha-Quartz TMI VK64 – superb accuracy with mechanical build.",
+    "Case Dimensions": "40 × 42 mm, approx. 12 mm in height – a confident presence without compromise.",
+    "Crystal": "Sapphire crystal – scratch resistant, ensuring clarity and durability.",
+    "Water Resistance": "Rated to 5 ATM",
+    "Strap": "Genuine leather, with 22 mm lug width – comfort and classic appeal.",
+    "Design Updates (2025 Model)": "Enhanced caseback featuring “Built in England” inscription; updated logo stamping for finer detail.",
+    "Distinctive Aesthetic": "– With its bold case geometry and strong retro cues, the HH01 bridges heritage and modern style.",
+    "Versatility of Colour": "– Available in variants such as Classic Retro Cream, Racing Green, Sky Blue Silver, Retro Military Green, Toybox Yellow, and Midnight Blue, allowing you to choose the hue that best speaks to your personality.",
+    "Limited-Edition Scarface": "– For those seeking rarity, the Scarface edition is released in strictly limited quantity, making it a collector’s gem.",
+    "Free shipping (US": "3–5 business days)",
+    "Color": "Toybox Yellow Toybox Yellow Sky Blue Silver Midnight Blue Racing Green Classic Retro Cream Retro Military Green"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:24:37.511Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:37.511Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0483/howard-hughes-hh01",
+    "BRD-0483/howard-hughes-hh01-1"
+   ],
+   "hash": "91b9442eff8a277c"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0483/almond",
+   "name": "Almond",
+   "url": "https://www.rileywatchco.com/collections/almond",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0483/bessie-fai-01-chronograph",
+   "name": "Bessie FAI-01 Chronograph",
+   "url": "https://www.rileywatchco.com/collections/bessie-fai-01-chronograph",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/collections/Screenshot2025-10-21at12.39.36.png?v=1768908013",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0483/deco-moon",
+   "name": "Deco Moon",
+   "url": "https://www.rileywatchco.com/collections/deco-moon",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/collections/IMG_1170.jpg?v=1768908067",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0483/howard-hughes-hh01",
+   "name": "Howard Hughes HH01",
+   "url": "https://www.rileywatchco.com/collections/howard-hughes-hh01",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/collections/Screenshot_2025-12-05_at_16.06.16.png?v=1771415984",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0483/howard-hughes-hh01-1",
+   "name": "Howard Hughes HH01",
+   "url": "https://www.rileywatchco.com/collections/howard-hughes-hh01-1",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/collections/Screenshot_2025-12-05_at_16.06.16.png?v=1771415969",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0483/howard-hughes-hh01-2",
+   "name": "Howard Hughes HH02",
+   "url": "https://www.rileywatchco.com/collections/howard-hughes-hh01-2",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/collections/FullSizeRender.jpg?v=1770749102",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0483/jerrie-cobb-solar",
+   "name": "Jerrie Cobb Solar",
+   "url": "https://www.rileywatchco.com/collections/jerrie-cobb-solar",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/collections/Screenshot2024-04-30at14.26.37.png?v=1768908114",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0483/heritage",
+   "name": "Riley Heritage",
+   "url": "https://www.rileywatchco.com/collections/heritage",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0794/8127/4647/collections/Screenshot2025-06-05at14.46.21.png?v=1768908178",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0483/riley-studio",
+   "name": "Riley Studio",
+   "url": "https://www.rileywatchco.com/collections/riley-studio",
+   "description": null,
+   "image": null
+  }
+ ]
+}

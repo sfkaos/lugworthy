@@ -1,0 +1,2972 @@
+{
+ "brandId": "BRD-0063",
+ "brandName": "Arsène Lippens",
+ "website": "https://www.arsenelippens.com",
+ "crawledAt": "2026-11-01T06:29:05.357Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.arsenelippens.com/cdn/shop/files/AL_LOGO_FULL_BLUE.svg?v=1756758987",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.arsenelippens.com/"
+ },
+ "attribution": "Images © Arsène Lippens, from arsenelippens.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0063/artigiano-como-vip",
+   "name": "Artigiano Como",
+   "url": "https://www.arsenelippens.com/products/artigiano-como-vip",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/como_new.webp?v=1783454690",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/como_new.webp?v=1783454690",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ARTIGIANO_COMO_DETAIL4.webp?v=1775168745",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ARTIGIANO_COMO_WRIST_3.webp?v=1775168745",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Naamloos-1_0001_Caeback_Como.webp?v=1793053517",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Como_Product_Pic_1.webp?v=1781645680",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Como_Product_Pic_2.webp?v=1781645698",
+     "width": 1333,
+     "height": 1333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Como_Product_Pic_3.webp?v=1781685284",
+     "width": 888,
+     "height": 888
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Italian textile: Denim/Jeans",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano-vip"
+   ],
+   "hash": "185a7ef338c17ff6"
+  },
+  {
+   "id": "BRD-0063/artigiano-chianti-vip",
+   "name": "Artigiano Chianti",
+   "url": "https://www.arsenelippens.com/products/artigiano-chianti-vip",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/chianti_new.webp?v=1783454689",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/chianti_new.webp?v=1783454689",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_CHIANTI_DETAIL_4.webp?v=1775168441",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ARTIGIANO_CHIANTI_WRIST_1.webp?v=1775168441",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Naamloos-1_0002_Caeback_Chianti.webp?v=1793053517",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Chianti_Product_Pic_1.webp?v=1781647804",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Chianti_Product_Pic_2.webp?v=1781685388",
+     "width": 842,
+     "height": 842
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Chianti_Product_Pic_3.webp?v=1781685401",
+     "width": 1333,
+     "height": 1333
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Italian textile: Bamboo & Cotton",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano-vip"
+   ],
+   "hash": "825142ad5a455115"
+  },
+  {
+   "id": "BRD-0063/artigiano-portofino-vip",
+   "name": "Artigiano Portofino",
+   "url": "https://www.arsenelippens.com/products/artigiano-portofino-vip",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/portofino_new.webp?v=1783454689",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/portofino_new.webp?v=1783454689",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_PORTOFINO_DETAIL_4.webp?v=1775168591",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Portofino_Product_Pic_2.webp?v=1781685359",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Naamloos-1_0000_Caseback_Portofino.webp?v=1793053516",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Portofino_Product_Pic_1.webp?v=1781647943",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ARTIGIANO_PORTOFINO_WRIST_2.webp?v=1775168591",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Portofino_Product_Pic_3.webp?v=1781685334",
+     "width": 814,
+     "height": 815
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Portofino_Product_Pic_4.webp?v=1781685346",
+     "width": 1333,
+     "height": 1333
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Italian textile: Bamboo & Cotton",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano-vip"
+   ],
+   "hash": "aa0bafe7b616662a"
+  },
+  {
+   "id": "BRD-0063/artigiano-stelvio-vip",
+   "name": "Artigiano Stelvio",
+   "url": "https://www.arsenelippens.com/products/artigiano-stelvio-vip",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Soldier_Stelvio_Background_8fe1ea20-f28c-4158-bc58-7b6e818e50c7.webp?v=1792864534",
+    "width": 2880,
+    "height": 2880
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Soldier_Stelvio_Background_8fe1ea20-f28c-4158-bc58-7b6e818e50c7.webp?v=1792864534",
+     "width": 2880,
+     "height": 2880
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Stelvio_1-1__0002_MacroStelvio.webp?v=1793051024",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Stelvio_1-1__0000_WristStelvio.webp?v=1793051024",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Stelvio_1-1__0003_CasebackStelvio.webp?v=1793051024",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Stelvio_1-1__0001_FlatlayStelvio.webp?v=1793051024",
+     "width": 1600,
+     "height": 1600
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Italian textile: Bamboo & Cotton",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano-vip"
+   ],
+   "hash": "29a75a15400cea62"
+  },
+  {
+   "id": "BRD-0063/artigiano-bellagio-vip",
+   "name": "Artigiano Bellagio",
+   "url": "https://www.arsenelippens.com/products/artigiano-bellagio-vip",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Soldier_Bellagio_Background.webp?v=1792864482",
+    "width": 2880,
+    "height": 2880
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Soldier_Bellagio_Background.webp?v=1792864482",
+     "width": 2880,
+     "height": 2880
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Bellagio_MacroBellagio.webp?v=1793051421",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Bellagio_WristPicBellagio.webp?v=1793051420",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Bellagio_CasebackBellagio.webp?v=1793051420",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Bellagio_CollectionBellagio.webp?v=1793051420",
+     "width": 1600,
+     "height": 1600
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Italian textile: Bamboo & Cotton",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano-vip"
+   ],
+   "hash": "85dec24c534ba28e"
+  },
+  {
+   "id": "BRD-0063/artigiano-sashiko-denim",
+   "name": "Artigiano \"Sashiko Denim\"",
+   "url": "https://www.arsenelippens.com/products/artigiano-sashiko-denim",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/ARTIGIANO_SASHIKO_DENIM_SOLDIER.webp?v=1790525314",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/ARTIGIANO_SASHIKO_DENIM_SOLDIER.webp?v=1790525314",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/1.POSTS_2025_1-1.webp?v=1790526863",
+     "width": 1333,
+     "height": 1333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/IMG_6290_1-1.webp?v=1790526876",
+     "width": 1919,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/IMG_5924.webp?v=1791443803",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/IMG_6713_1-1.webp?v=1790526892",
+     "width": 1919,
+     "height": 1920
+    }
+   ],
+   "priceMinor": 234900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Hand stitched indexes",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano-sashiko-denim"
+   ],
+   "hash": "0e6f62c1dd2a7413"
+  },
+  {
+   "id": "BRD-0063/classico-serafico-edition",
+   "name": "Classico Serafico Edition",
+   "url": "https://www.arsenelippens.com/products/classico-serafico-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/SoldierPicSDA_53bc57f4-9e4f-45fd-8740-01328f34d35e.webp?v=1789330121",
+    "width": 2880,
+    "height": 2880
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/SoldierPicSDA_53bc57f4-9e4f-45fd-8740-01328f34d35e.webp?v=1789330121",
+     "width": 2880,
+     "height": 2880
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/SDA-product-07.webp?v=1789330925",
+     "width": 2880,
+     "height": 2880
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/SDA-product-06.webp?v=1789330926",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/SDA-product-05.webp?v=1789330925",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/SDA-product-caseback.webp?v=1789330925",
+     "width": 2880,
+     "height": 2880
+    }
+   ],
+   "priceMinor": 219500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Hand painted brass dial",
+    "Dial": "Individually hand-painted. Each dial is unique and may vary slightly from the piece shown. Movement: Manual Sellita 210-1b - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/classico-serafico"
+   ],
+   "hash": "d970ed24f615f2b5"
+  },
+  {
+   "id": "BRD-0063/artigiano-threads-of-arabian-heritage",
+   "name": "Artigiano Threads Of Arabian Heritage",
+   "url": "https://www.arsenelippens.com/products/artigiano-threads-of-arabian-heritage",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Untitled_design_-_1_c75a88b2-d74f-4d54-a407-d5dff85fc3be.png?v=1785256354",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Untitled_design_-_1_c75a88b2-d74f-4d54-a407-d5dff85fc3be.png?v=1785256354",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_0001_Wristshot_0599-TR.webp?v=1784797106",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_0000_MacroDial_0599-TR.webp?v=1784797106",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Untitled_design_b952313d-78a5-4e2d-a7bb-6544f8f58733.png?v=1784812494",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 154600,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Custom made silk dial Movement: Manual Sellita 210-1b - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano-threads-of-arabian-heritage"
+   ],
+   "hash": "7561254fe04adbeb"
+  },
+  {
+   "id": "BRD-0063/artigiano-como",
+   "name": "Artigiano Como",
+   "url": "https://www.arsenelippens.com/products/artigiano-como",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/como_new.webp?v=1783454690",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/como_new.webp?v=1783454690",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ARTIGIANO_COMO_DETAIL4.webp?v=1775168745",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ARTIGIANO_COMO_WRIST_3.webp?v=1775168745",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Naamloos-1_0001_Caeback_Como.webp?v=1793053517",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Como_Product_Pic_1.webp?v=1781645680",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Como_Product_Pic_2.webp?v=1781645698",
+     "width": 1333,
+     "height": 1333
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Como_Product_Pic_3.webp?v=1781685284",
+     "width": 888,
+     "height": 888
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Italian textile: Denim/Jeans",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano"
+   ],
+   "hash": "a91bedc2d770d295"
+  },
+  {
+   "id": "BRD-0063/artigiano-portofino",
+   "name": "Artigiano Portofino",
+   "url": "https://www.arsenelippens.com/products/artigiano-portofino",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/portofino_new.webp?v=1783454689",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/portofino_new.webp?v=1783454689",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_PORTOFINO_DETAIL_4.webp?v=1775168591",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Portofino_Product_Pic_2.webp?v=1781685359",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Naamloos-1_0000_Caseback_Portofino.webp?v=1793053516",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Portofino_Product_Pic_1.webp?v=1781647943",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ARTIGIANO_PORTOFINO_WRIST_2.webp?v=1775168591",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Portofino_Product_Pic_3.webp?v=1781685334",
+     "width": 814,
+     "height": 815
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Portofino_Product_Pic_4.webp?v=1781685346",
+     "width": 1333,
+     "height": 1333
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Italian textile: Bamboo & Cotton",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano"
+   ],
+   "hash": "57cfd7d850750976"
+  },
+  {
+   "id": "BRD-0063/artigiano-chianti",
+   "name": "Artigiano Chianti",
+   "url": "https://www.arsenelippens.com/products/artigiano-chianti",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/chianti_new.webp?v=1783454689",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/chianti_new.webp?v=1783454689",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_CHIANTI_DETAIL_4.webp?v=1775168441",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ARTIGIANO_CHIANTI_WRIST_1.webp?v=1775168441",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Naamloos-1_0002_Caeback_Chianti.webp?v=1793053517",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Chianti_Product_Pic_1.webp?v=1781647804",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Chianti_Product_Pic_2.webp?v=1781685388",
+     "width": 842,
+     "height": 842
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Chianti_Product_Pic_3.webp?v=1781685401",
+     "width": 1333,
+     "height": 1333
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Italian textile: Bamboo & Cotton",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/artigiano"
+   ],
+   "hash": "d402965a34a77509"
+  },
+  {
+   "id": "BRD-0063/scheletrato-blu-opaco",
+   "name": "Scheletrato Blu Opaco",
+   "url": "https://www.arsenelippens.com/products/scheletrato-blu-opaco",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Scheletrato-blue_leather.webp?v=1792863799",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Scheletrato-blue_leather.webp?v=1792863799",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0009_Product_Page_Pic5.webp?v=1775169063",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Scheletrato-blue_metal.webp?v=1792863799",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0012_Product_Page_Pic1.webp?v=1775169063",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/product_pic_2.webp?v=1775169063",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0011_Product_Page_Pic3.webp?v=1775169063",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0010_Product_Page_Pic4.webp?v=1775169063",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0008_Product_Page_Pic6.webp?v=1771503882",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 556300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Blue Navy Sailcloth",
+      "\"Beads Of Rice\" Metal Bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue Navy Sailcloth",
+     "sku": null,
+     "priceMinor": 556300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blue Navy Sailcloth"
+     ]
+    },
+    {
+     "title": "\"Beads Of Rice\" Metal Bracelet",
+     "sku": null,
+     "priceMinor": 574900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "\"Beads Of Rice\" Metal Bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm Glass: Domed Sapphire Glass",
+    "Dial finish": "Circular satin finished dial with triangle indices and 4 sub-dials.",
+    "Dial color": "Matte Blue Movement: Automatic Valjoux 7750 - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Domed Sapphire Glass",
+    "Movement": "Automatic Valjoux 7750 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/scheletrato-opaco"
+   ],
+   "hash": "a8d9996f6ce96e65"
+  },
+  {
+   "id": "BRD-0063/scheletrato-grigio-opaco",
+   "name": "Scheletrato Grigio Opaco",
+   "url": "https://www.arsenelippens.com/products/scheletrato-grigio-opaco",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Scheletrato-Grigio_leather.webp?v=1792863774",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Scheletrato-Grigio_leather.webp?v=1792863774",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0006_Product_Page_Pic9.webp?v=1775169091",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Scheletrato-Grigio_metal.webp?v=1792863774",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0007_Product_Page_Pic7.webp?v=1775169091",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/product_pic_2_30c44c05-5c1e-420e-87db-1d3ca1c08315.webp?v=1775169091",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0005_Product_Page_Pic10.webp?v=1771503882",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0004_Product_Page_Pic11.webp?v=1771503882",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/0003_Product_Page_Pic12.webp?v=1771503882",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 556300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Grey Sailcloth",
+      "\"Beads Of Rice\" Metal Bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Grey Sailcloth",
+     "sku": null,
+     "priceMinor": 556300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Grey Sailcloth"
+     ]
+    },
+    {
+     "title": "\"Beads Of Rice\" Metal Bracelet",
+     "sku": null,
+     "priceMinor": 574900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "\"Beads Of Rice\" Metal Bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm Glass: Domed Sapphire Glass",
+    "Dial finish": "Circular satin finished dial with triangle indices and 4 sub-dials.",
+    "Dial color": "Matte Grey Movement: Automatic Valjoux 7750 - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Domed Sapphire Glass",
+    "Movement": "Automatic Valjoux 7750 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/scheletrato-opaco"
+   ],
+   "hash": "b0af1f966ac975d9"
+  },
+  {
+   "id": "BRD-0063/classico-blu",
+   "name": "Classico Blu",
+   "url": "https://www.arsenelippens.com/products/classico-blu",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Soldier_Classico_Blu.webp?v=1783448885",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Soldier_Classico_Blu.webp?v=1783448885",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Classico_0001_blu_close.webp?v=1783453997",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Classico_0000_blu_wrist.webp?v=1783453996",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Naamloos-1_0001_Caeback_Como.webp?v=1793053517",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_CLASSICO_BLU_PIC3.webp?v=1775036673",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial": "Blue Grained texture dial Movement: Manual Sellita 210-1b - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/classico"
+   ],
+   "hash": "3168ce06743b727d"
+  },
+  {
+   "id": "BRD-0063/classico-grigio",
+   "name": "Classico Grigio",
+   "url": "https://www.arsenelippens.com/products/classico-grigio",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Soldier_Classico_Grigio.webp?v=1783449136",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Soldier_Classico_Grigio.webp?v=1783449136",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Classico_0003_grigio_close.webp?v=1783453997",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Classico_0002_grigio_wrist.webp?v=1783453997",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Naamloos-1_0000_Caseback_Portofino.webp?v=1793053516",
+     "width": 1600,
+     "height": 1600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_CLASSICO_GREY_PIC1.webp?v=1775037270",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 185500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "grey",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial": "Grey Grained texture dial Movement: Manual Sellita 210-1b - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/classico"
+   ],
+   "hash": "e1c2e665728bd4d0"
+  },
+  {
+   "id": "BRD-0063/visionario-flyback",
+   "name": "Visionario Flyback",
+   "url": "https://www.arsenelippens.com/products/visionario-flyback",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_PietreNere-Epson.webp?v=1772884274",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_PietreNere-Epson.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_PietreNere-Metal.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_Neve-Epson.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_Neve-Metal.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_Terracotta-Epson.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_Terracotta-Metal.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_Abete-Epson.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_Abete-Metal.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_BluCielo-Epson.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_BluCielo-Metal.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_Salmone-Epson.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_Visionario_MKII_Salmone-Metal.webp?v=1772884274",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 309100,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Abete",
+      "Pietre Nere",
+      "Blu Cielo",
+      "Terracotta",
+      "Sabbia",
+      "Salmone",
+      "Neve"
+     ]
+    },
+    {
+     "name": "Strap",
+     "values": [
+      "Epsom Leather",
+      "Metal Bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Abete / Epsom Leather",
+     "sku": null,
+     "priceMinor": 309100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Abete",
+      "Epsom Leather"
+     ]
+    },
+    {
+     "title": "Abete / Metal Bracelet",
+     "sku": null,
+     "priceMinor": 327600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Abete",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Pietre Nere / Epsom Leather",
+     "sku": null,
+     "priceMinor": 309100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pietre Nere",
+      "Epsom Leather"
+     ]
+    },
+    {
+     "title": "Pietre Nere / Metal Bracelet",
+     "sku": null,
+     "priceMinor": 327600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Pietre Nere",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Blu Cielo / Epsom Leather",
+     "sku": null,
+     "priceMinor": 309100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blu Cielo",
+      "Epsom Leather"
+     ]
+    },
+    {
+     "title": "Blu Cielo / Metal Bracelet",
+     "sku": null,
+     "priceMinor": 327600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blu Cielo",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Terracotta / Epsom Leather",
+     "sku": null,
+     "priceMinor": 309100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Terracotta",
+      "Epsom Leather"
+     ]
+    },
+    {
+     "title": "Terracotta / Metal Bracelet",
+     "sku": null,
+     "priceMinor": 327600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Terracotta",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Sabbia / Epsom Leather",
+     "sku": null,
+     "priceMinor": 309100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sabbia",
+      "Epsom Leather"
+     ]
+    },
+    {
+     "title": "Sabbia / Metal Bracelet",
+     "sku": null,
+     "priceMinor": 327600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sabbia",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Salmone / Epsom Leather",
+     "sku": null,
+     "priceMinor": 309100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Salmone",
+      "Epsom Leather"
+     ]
+    },
+    {
+     "title": "Salmone / Metal Bracelet",
+     "sku": null,
+     "priceMinor": 327600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Salmone",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Neve / Epsom Leather",
+     "sku": null,
+     "priceMinor": 309100,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Neve",
+      "Epsom Leather"
+     ]
+    },
+    {
+     "title": "Neve / Metal Bracelet",
+     "sku": null,
+     "priceMinor": 327600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Neve",
+      "Metal Bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm Glass: Domed Sapphire Glass",
+    "Dial finish": "Matt dial with applied Breguet numerals and applied triangle indices Movement: Automatic Valjoux 7750 Flyback movement - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Domed Sapphire Glass",
+    "Movement": "Automatic Valjoux 7750 Flyback movement - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/visionario-flyback"
+   ],
+   "hash": "5cc20ad214e7f076"
+  },
+  {
+   "id": "BRD-0063/artigiano-tokei-ronin-edition",
+   "name": "Tokei Ronin Community Edition",
+   "url": "https://www.arsenelippens.com/products/artigiano-tokei-ronin-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_SOLDIER_TOKEIRONIN.webp?v=1765487539",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_SOLDIER_TOKEIRONIN.webp?v=1765487539",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ATR1-102.webp?v=1765492644",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ATR1-103.webp?v=1765492644",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/Ratio_Website_Product.webp?v=1766011635",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ATR1-104.webp?v=1766011635",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_ATR1-105.webp?v=1766011635",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 129800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specs & Dimensions Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "9.9mm (glass included)",
+    "Lug width": "20mm Glass: High Domed Sapphire Glass",
+    "Dial finish": "Furry off-white texture",
+    "Applied Indices": "Brushed index with closed animal eye inspiration at 3 and 9 o'clock Movement: Manual Sellita 210-1b - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "High Domed Sapphire Glass",
+    "Movement": "Manual Sellita 210-1b - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/tokei-ronin-community-edition"
+   ],
+   "hash": "36a90edf0bfe71fc"
+  },
+  {
+   "id": "BRD-0063/salmone-1",
+   "name": "Visionario Salmone",
+   "url": "https://www.arsenelippens.com/products/salmone-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_SALMONE_SAFFIANO.webp?v=1757881622",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_SALMONE_SAFFIANO.webp?v=1757881622",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_SALMONE_NUBUCK.webp?v=1757881622",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_SALMONE_METAL.webp?v=1757881622",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 253500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm",
+    "Glass": "Domed Sapphire Glass",
+    "Dial finish": "Matt dial with applied Breguet numerals and applied triangle indices",
+    "Dial color": "Salmon Vigorosa Movement: Automatic La Joux Perret L113 - Mechanical",
+    "Power reserve": "60 hours",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Movement": "Automatic La Joux Perret L113 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/visionario"
+   ],
+   "hash": "fe2fc436a9f0a338"
+  },
+  {
+   "id": "BRD-0063/sabbia-1",
+   "name": "Visionario Sabbia",
+   "url": "https://www.arsenelippens.com/products/sabbia-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_SABBIA_SAFFIANO.webp?v=1757881687",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_SABBIA_SAFFIANO.webp?v=1757881687",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_SABBIA_NUBUCK.webp?v=1757881698",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_SABBIA_METAL.webp?v=1757881698",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 253500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm",
+    "Glass": "Domed Sapphire Glass",
+    "Dial finish": "Matt dial with applied Breguet numerals and applied triangle indices",
+    "Dial color": "Desert Yellow Movement: Automatic La Joux Perret L113 - Mechanical",
+    "Power reserve": "60 hours",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Movement": "Automatic La Joux Perret L113 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/visionario"
+   ],
+   "hash": "d68c9e4013a16d7a"
+  },
+  {
+   "id": "BRD-0063/pietre-nere-1",
+   "name": "Visionario Pietre Nere",
+   "url": "https://www.arsenelippens.com/products/pietre-nere-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_PIETRENERE_SAFFIANO.webp?v=1757881722",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_PIETRENERE_SAFFIANO.webp?v=1757881722",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_PIETRENERE_NUBUCK.webp?v=1757881735",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_PIETRENERE_METAL.webp?v=1757881735",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 253500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm",
+    "Glass": "Domed Sapphire Glass",
+    "Dial finish": "Matt dial with applied Breguet numerals and applied triangle indices",
+    "Dial color": "Onyx Black Movement: Automatic La Joux Perret L113 - Mechanical",
+    "Power reserve": "60 hours",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Movement": "Automatic La Joux Perret L113 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/visionario"
+   ],
+   "hash": "37d90d5f39b48455"
+  },
+  {
+   "id": "BRD-0063/sole-bianco",
+   "name": "Numerico Sole Bianco",
+   "url": "https://www.arsenelippens.com/products/sole-bianco",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SOLEBIANCO_SAFFIANO.webp?v=1757882813",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SOLEBIANCO_SAFFIANO.webp?v=1757882813",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SOLEBIANCO_NUBUCK.webp?v=1757882813",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 85300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": 45,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "44mm",
+    "Thickness": "9.11mm (glass included)",
+    "Lug width": "20mm Glass: Sapphire Glass",
+    "Dial finish": "Matt dial with printed Breguet numerals applied circular index",
+    "Dial color": "Snow White Movement: Quartz Ronda",
+    "Power reserve": "Approximately 45 months",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Sapphire Glass",
+    "Movement": "Quartz Ronda"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/numerico"
+   ],
+   "hash": "4eb0609c06326244"
+  },
+  {
+   "id": "BRD-0063/blu-mezzanotte",
+   "name": "Numerico Blu Mezzanotte",
+   "url": "https://www.arsenelippens.com/products/blu-mezzanotte",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_BLUMEZZANOTTE_SAFFIANO.webp?v=1757883136",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_BLUMEZZANOTTE_SAFFIANO.webp?v=1757883136",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_BLUMEZZANOTTE_NUBUCK.webp?v=1757883137",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 85300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": 45,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "44mm",
+    "Thickness": "9.11mm (glass included)",
+    "Lug width": "20mm Glass: Sapphire Glass",
+    "Dial finish": "Matt dial with printed Breguet numerals applied circular index",
+    "Dial color": "Midnight Blue Movement: Quartz Ronda",
+    "Power reserve": "Approximately 45 months",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Sapphire Glass",
+    "Movement": "Quartz Ronda"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/numerico"
+   ],
+   "hash": "47b09ecbb5880f7a"
+  },
+  {
+   "id": "BRD-0063/terracotta",
+   "name": "Visionario Terracotta",
+   "url": "https://www.arsenelippens.com/products/terracotta",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_TERRACOTTA_SAFFIANO.webp?v=1757881983",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_TERRACOTTA_SAFFIANO.webp?v=1757881983",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_TERRACOTTA_NUBUCK.webp?v=1757881999",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_TERRACOTTA_METAL.webp?v=1757881999",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 253500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm",
+    "Glass": "Domed Sapphire Glass",
+    "Dial finish": "Matt dial with applied Breguet numerals and applied triangle indices",
+    "Dial color": "Desert Terracotta Movement: Automatic La Joux Perret L113 - Mechanical",
+    "Power reserve": "60 hours",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Movement": "Automatic La Joux Perret L113 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/visionario"
+   ],
+   "hash": "764df23587256397"
+  },
+  {
+   "id": "BRD-0063/sabbia",
+   "name": "Numerico Sabbia",
+   "url": "https://www.arsenelippens.com/products/sabbia",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SABBIA_SAFFIANO.webp?v=1757883188",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SABBIA_SAFFIANO.webp?v=1757883188",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SABBIA_NUBUCK.webp?v=1757883189",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 85300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": 45,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "44mm",
+    "Thickness": "9.11mm (glass included)",
+    "Lug width": "20mm Glass: Sapphire Glass",
+    "Dial finish": "Matt dial with printed Breguet numerals applied circular index",
+    "Dial color": "Desert Yellow Movement: Quartz Ronda",
+    "Power reserve": "Approximately 45 months",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Sapphire Glass",
+    "Movement": "Quartz Ronda"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/numerico"
+   ],
+   "hash": "89d958a524726d2a"
+  },
+  {
+   "id": "BRD-0063/salmone",
+   "name": "Numerico Salmone",
+   "url": "https://www.arsenelippens.com/products/salmone",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SALMONE_SAFFIANO.webp?v=1757883278",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SALMONE_SAFFIANO.webp?v=1757883278",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_SALMONE_NUBUCK.webp?v=1757883278",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 85300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": 45,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "44mm",
+    "Thickness": "9.11mm (glass included)",
+    "Lug width": "20mm Glass: Sapphire Glass",
+    "Dial finish": "Matt dial with printed Breguet numerals applied circular index",
+    "Dial color": "Salmon Vigorosa Movement: Quartz Ronda",
+    "Power reserve": "Approximately 45 months",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Sapphire Glass",
+    "Movement": "Quartz Ronda"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/numerico"
+   ],
+   "hash": "971613eeb13998cf"
+  },
+  {
+   "id": "BRD-0063/pietre-nere",
+   "name": "Numerico Pietre Nere",
+   "url": "https://www.arsenelippens.com/products/pietre-nere",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_PIETRENERE_SAFFIANO.webp?v=1757883332",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_PIETRENERE_SAFFIANO.webp?v=1757883332",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_NUMERICO_PIETRENERE_NUBUCK.webp?v=1757883331",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 85300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": 45,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "37.5 mm",
+    "Lug to lug": "44mm",
+    "Thickness": "9.11mm (glass included)",
+    "Lug width": "20mm Glass: Sapphire Glass",
+    "Dial finish": "Matt dial with printed Breguet numerals applied circular index",
+    "Dial color": "Onyx Black Movement: Quartz Ronda",
+    "Power reserve": "Approximately 45 months",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Sapphire Glass",
+    "Movement": "Quartz Ronda"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/numerico"
+   ],
+   "hash": "141d07058aeaa71e"
+  },
+  {
+   "id": "BRD-0063/neve",
+   "name": "Visionario Neve",
+   "url": "https://www.arsenelippens.com/products/neve",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_NEVE_SAFFIANO_7277a82a-8fca-4a6e-a2c4-a8a093c07bad.webp?v=1757888325",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_NEVE_SAFFIANO_7277a82a-8fca-4a6e-a2c4-a8a093c07bad.webp?v=1757888325",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_NEVE_NUBUCK_cbf3cc65-f188-4232-af2c-a9c39dfee9ae.webp?v=1757888325",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_NEVE_METAL_1bef7f9f-9449-49a1-8961-e037b610ac23.webp?v=1757888325",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 253500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm",
+    "Glass": "Domed Sapphire Glass",
+    "Dial finish": "Matt dial with applied Breguet numerals and applied triangle indices",
+    "Dial color": "Snow White Movement: Automatic La Joux Perret L113 - Mechanical",
+    "Power reserve": "60 hours",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Movement": "Automatic La Joux Perret L113 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/visionario"
+   ],
+   "hash": "3b8d146d43189b01"
+  },
+  {
+   "id": "BRD-0063/blu-cielo",
+   "name": "Visionario Blu Cielo",
+   "url": "https://www.arsenelippens.com/products/blu-cielo",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_BLUCIELO_SAFFIANO.webp?v=1757882015",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_BLUCIELO_SAFFIANO.webp?v=1757882015",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_BLUCIELO_NUBUCK.webp?v=1757882015",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_BLUCIELO_METAL.webp?v=1757882015",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 253500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm",
+    "Glass": "Domed Sapphire Glass",
+    "Dial finish": "Matt dial with applied Breguet numerals and applied triangle indices",
+    "Dial color": "Sky Blue Movement: Automatic La Joux Perret L113 - Mechanical",
+    "Power reserve": "60 hours",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Movement": "Automatic La Joux Perret L113 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/visionario"
+   ],
+   "hash": "6401abd39a463e0b"
+  },
+  {
+   "id": "BRD-0063/abete",
+   "name": "Visionario Abete",
+   "url": "https://www.arsenelippens.com/products/abete",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_ABETE_SAFFIANO.webp?v=1757882040",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_ABETE_SAFFIANO.webp?v=1757882040",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_ABETE_NUBUCK.webp?v=1757882084",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_VISIONARIO_ABETE_METAL.webp?v=1757882084",
+     "width": 3200,
+     "height": 3200
+    }
+   ],
+   "priceMinor": 253500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 60,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm",
+    "Glass": "Domed Sapphire Glass",
+    "Dial finish": "Matt dial with applied Breguet numerals and applied triangle indices",
+    "Dial color": "Forest Green Movement: Automatic La Joux Perret L113 - Mechanical",
+    "Power reserve": "60 hours",
+    "Water resistance": "30m (3ATM)",
+    "Case material": "Stainless steel 316L",
+    "Movement": "Automatic La Joux Perret L113 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/visionario"
+   ],
+   "hash": "2249844e7f00acdd"
+  },
+  {
+   "id": "BRD-0063/scheletrato",
+   "name": "Scheletrato FAM-edition",
+   "url": "https://www.arsenelippens.com/products/scheletrato",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_SCHELETRATO_FAM_ALLIGATOR-WS.webp?v=1757860366",
+    "width": 3200,
+    "height": 3200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_SCHELETRATO_FAM_ALLIGATOR-WS.webp?v=1757860366",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_SCHELETRATO_FAM_METAL-WS.webp?v=1757860365",
+     "width": 3200,
+     "height": 3200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_SCHELETRATO_LEATHER_WRIST_1.webp?v=1760473924",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_SCHELETRATO_LEATHER_WRIST_2.webp?v=1760473924",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/files/AL_SCHELETRATO_METAL_WRIST_2.webp?v=1760473924",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 537800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Strap",
+     "values": [
+      "Blue Nappa Alligator Strap",
+      "Metal Bracelet"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue Nappa Alligator Strap",
+     "sku": null,
+     "priceMinor": 537800,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blue Nappa Alligator Strap"
+     ]
+    },
+    {
+     "title": "Metal Bracelet",
+     "sku": null,
+     "priceMinor": 537800,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Metal Bracelet"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.5,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Specifications Case material": "Stainless steel 316L",
+    "Case diameter": "39.5 mm",
+    "Lug to lug": "45.5mm",
+    "Thickness": "13.5mm (glass included)",
+    "Lug width": "20mm Glass: Domed Sapphire Glass",
+    "Dial finish": "Circular satin finished dial with triangle indices and 4 sub-dials.",
+    "Dial color": "Grey Movement: Automatic Valjoux 7750 - Mechanical",
+    "Power reserve": "48 hours",
+    "Water resistance": "50m (5ATM)",
+    "Case material": "Stainless steel 316L",
+    "Glass": "Domed Sapphire Glass",
+    "Movement": "Automatic Valjoux 7750 - Mechanical"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:29:05.357Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:29:05.357Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0063/scheletrato-fam-edition"
+   ],
+   "hash": "3e79455046740645"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0063/artigiano",
+   "name": "Artigiano",
+   "url": "https://www.arsenelippens.com/collections/artigiano",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/Trios_banner.webp?v=1781802230",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/artigiano-vip",
+   "name": "Artigiano",
+   "url": "https://www.arsenelippens.com/collections/artigiano-vip",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/Trios_banner_3bd5f35f-75fb-4a48-bb5d-fd3e197026d7.webp?v=1793129707",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/artigiano-threads-of-arabian-heritage",
+   "name": "Artigiano Threads Of Arabian Heritage",
+   "url": "https://www.arsenelippens.com/collections/artigiano-threads-of-arabian-heritage",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/MacroDial_0599-HERO.webp?v=1784794840",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/artigiano-sashiko-denim",
+   "name": "ARTIGIANO “SASHIKO DENIM”",
+   "url": "https://www.arsenelippens.com/collections/artigiano-sashiko-denim",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/Heropic_CollectionPage_PRECAMPAIGN.webp?v=1791545312",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/classico",
+   "name": "Classico",
+   "url": "https://www.arsenelippens.com/collections/classico",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/Hero_Precampaign_eb8c1ace-996a-4557-bacb-cd90c3f45cf3.webp?v=1784797754",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/classico-serafico",
+   "name": "Classico \"Serafico\"",
+   "url": "https://www.arsenelippens.com/collections/classico-serafico",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/Product_Frog.webp?v=1788760121",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/numerico",
+   "name": "Numerico",
+   "url": "https://www.arsenelippens.com/collections/numerico",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/numerico-hero_98e331a9-6e2e-46b6-b949-bee047f25f95.webp?v=1757363346",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/scheletrato-opaco",
+   "name": "Scheletrato",
+   "url": "https://www.arsenelippens.com/collections/scheletrato-opaco",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/HERO_FAM_v2_608d5898-3d45-4c2e-9b47-10376107fa42.webp?v=1788290167",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/scheletrato-fam-edition",
+   "name": "Scheletrato FAM-edition",
+   "url": "https://www.arsenelippens.com/collections/scheletrato-fam-edition",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/HERO_FAM_v2.webp?v=1758618922",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/tokei-ronin-community-edition",
+   "name": "Tokei Ronin Community Edition",
+   "url": "https://www.arsenelippens.com/collections/tokei-ronin-community-edition",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/AL_TOKEI_RONIN_HERO.webp?v=1765492021",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/visionario",
+   "name": "Visionario",
+   "url": "https://www.arsenelippens.com/collections/visionario",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/Visionario_hero.webp?v=1757363308",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0063/visionario-flyback",
+   "name": "Visionario Flyback",
+   "url": "https://www.arsenelippens.com/collections/visionario-flyback",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0962/2188/8853/collections/Visionario_hero_4fba4795-586e-414f-9b42-3fb3fc608ae3.webp?v=1772883441",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

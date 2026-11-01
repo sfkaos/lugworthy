@@ -1,0 +1,1725 @@
+{
+ "brandId": "BRD-0045",
+ "brandName": "AOR Watches",
+ "website": "https://aorwatches.com",
+ "crawledAt": "2026-11-01T06:24:53.359Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://aorwatches.com/wp-content/plugins/speedycache-pro/assets/images/image-palceholder.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://aorwatches.com/"
+ },
+ "attribution": "Images © AOR Watches, from aorwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0045/or-01-s-berilo",
+   "name": "OR &#8211; 01 S Berilo",
+   "url": "https://aorwatches.com/producto/or-01-s-berilo/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/08/Or-01-berilo.jpg?fit=1254%2C1254&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/08/Or-01-berilo.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 44 mms. Espesor de 11 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion OR-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "Or-01",
+   "tags": [],
+   "options": [
+    {
+     "name": "Marcador de horas",
+     "values": [
+      "Biselado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Biselado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "Or-01 , Skeleton"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/or-01",
+    "BRD-0045/skeleton"
+   ],
+   "hash": "3991a9871c11863a"
+  },
+  {
+   "id": "BRD-0045/or-01-esmeralda",
+   "name": "OR &#8211; 01 S Esmeralda",
+   "url": "https://aorwatches.com/producto/or-01-esmeralda/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/08/Or-01-esmeralda1.jpg?fit=1254%2C1254&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/08/Or-01-esmeralda1.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 44 mms. Espesor de 11 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion OR-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "Or-01",
+   "tags": [],
+   "options": [
+    {
+     "name": "Marcador de horas",
+     "values": [
+      "Grabado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Grabado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "Or-01 , Skeleton"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/or-01",
+    "BRD-0045/skeleton"
+   ],
+   "hash": "85b6005111ab70ce"
+  },
+  {
+   "id": "BRD-0045/or-01-s-zafiro",
+   "name": "OR &#8211; 01 S Zafiro",
+   "url": "https://aorwatches.com/producto/or-01-s-zafiro/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/08/OR-01-Zafirof.jpg?fit=1254%2C1254&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/08/OR-01-Zafirof.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 44 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion OR-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "Or-01",
+   "tags": [],
+   "options": [
+    {
+     "name": "Marcador de horas",
+     "values": [
+      "Grabado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Grabado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "Or-01 , Skeleton"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/or-01",
+    "BRD-0045/skeleton"
+   ],
+   "hash": "da220e48d832e313"
+  },
+  {
+   "id": "BRD-0045/or-01-s-zafiro-neon",
+   "name": "OR &#8211; 01 S Zafiro Neón",
+   "url": "https://aorwatches.com/producto/or-01-s-zafiro-neon/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/08/OR-01-z.jpg?fit=1254%2C1254&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/08/OR-01-z.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 44 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion OR-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "Or-01",
+   "tags": [],
+   "options": [
+    {
+     "name": "Cristal",
+     "values": [
+      "Biselado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Cristal": "Biselado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "Or-01 , Skeleton"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/or-01",
+    "BRD-0045/skeleton"
+   ],
+   "hash": "a31482bfa404950a"
+  },
+  {
+   "id": "BRD-0045/or-01-negro-profundo",
+   "name": "OR &#8211; 01 Negro profundo",
+   "url": "https://aorwatches.com/producto/or-01-negro-profundo/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/06/Or-01-rnp1.jpg?fit=1254%2C1254&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/06/Or-01-rnp1.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/06/Or-012.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/06/Or-013.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 44 mms. Espesor de 11 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion OR-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "Or-01",
+   "tags": [
+    "Solido"
+   ],
+   "options": [
+    {
+     "name": "Marcador de horas",
+     "values": [
+      "Grabado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Grabado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "Or-01 , Solido",
+    "Etiqueta": "Solido"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/or-01",
+    "BRD-0045/solido"
+   ],
+   "hash": "1c940f88f7a1527a"
+  },
+  {
+   "id": "BRD-0045/aor-01-s-esmeralda-neon",
+   "name": "AOR &#8211; 01 S-Esmeralda Neón",
+   "url": "https://aorwatches.com/producto/aor-01-s-esmeralda-neon/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/05/AOR-01-Esmeralda-Neon.jpg?fit=1254%2C1254&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/05/AOR-01-Esmeralda-Neon.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 229000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 41 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion Or-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, enmarcan los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "AOR-01",
+   "tags": [
+    "Skeleton"
+   ],
+   "options": [
+    {
+     "name": "Cristal",
+     "values": [
+      "Biselado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Cristal": "Biselado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Categorías": "AOR-01 , Neon , Skeleton",
+    "Etiqueta": "Skeleton",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/skeleton",
+    "BRD-0045/aor-01",
+    "BRD-0045/neon"
+   ],
+   "hash": "920e0b29a4471c59"
+  },
+  {
+   "id": "BRD-0045/aor-01-neon-menta",
+   "name": "AOR-01 Neón menta",
+   "url": "https://aorwatches.com/producto/aor-01-neon-menta/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/04/Or-01-Menta2.jpg?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/04/Or-01-Menta2.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 0,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina 3D de 41 mms. Caja espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses.",
+   "productType": "Neon",
+   "tags": [
+    "Neon"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Categorías": "Neon , Sin categorizar Etiqueta: Neon",
+    "Etiqueta": "Neon",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/neon"
+   ],
+   "hash": "1b27dc54b57ef012"
+  },
+  {
+   "id": "BRD-0045/aor-03-negro-profundo",
+   "name": "AOR-03 Graphite",
+   "url": "https://aorwatches.com/producto/aor-03-negro-profundo/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/03/Or-03-negro-profundo.jpg?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/03/Or-03-negro-profundo.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 329000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina 3d de 45 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses.",
+   "productType": "AOR-03",
+   "tags": [
+    "AOR-03"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Categorías": "AOR-03 , Solido Etiqueta: AOR-03",
+    "Etiqueta": "AOR-03",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "El precio original era": "$3,290.00.",
+    "El precio actual es": "$2,796.50."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/solido",
+    "BRD-0045/aor-03"
+   ],
+   "hash": "fb88ddae2dac3dc0"
+  },
+  {
+   "id": "BRD-0045/aor-03-s-berilo",
+   "name": "AOR-03 S-Berilo",
+   "url": "https://aorwatches.com/producto/aor-03-s-berilo/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2025/12/Or-03-Berilo.jpg?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2025/12/Or-03-Berilo.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 329000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina 3D de 45 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses.",
+   "productType": "AOR-03",
+   "tags": [
+    "AOR-03"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Categorías": "AOR-03 , Skeleton Etiqueta: AOR-03",
+    "Etiqueta": "AOR-03",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/skeleton",
+    "BRD-0045/aor-03"
+   ],
+   "hash": "88bc6d8b8b83e3d8"
+  },
+  {
+   "id": "BRD-0045/aor-03-s-esmeralda",
+   "name": "AOR-03 S-Esmeralda",
+   "url": "https://aorwatches.com/producto/aor-03-s-esmeralda/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2025/12/Or-03-esmeralda1.jpg?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2025/12/Or-03-esmeralda1.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 329000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody de resina 3D de 44mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. 3 meses sin intereses.",
+   "productType": "AOR-03",
+   "tags": [
+    "AOR-03"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Categorías": "AOR-03 , Skeleton Etiqueta: AOR-03",
+    "Etiqueta": "AOR-03",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/skeleton",
+    "BRD-0045/aor-03"
+   ],
+   "hash": "ada5bf93e4037e4a"
+  },
+  {
+   "id": "BRD-0045/aor-03-s-zafiro",
+   "name": "AOR-03 S-Zafiro",
+   "url": "https://aorwatches.com/producto/aor-03-s-zafiro/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2025/12/Or-03-zafiro.jpg?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2025/12/Or-03-zafiro.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2025/12/Or-3-onyx2.jpg?fit=1200%2C1200&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 279650,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina 3D de 45 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. 3 meses sin intereses.",
+   "productType": "AOR-03",
+   "tags": [
+    "AOR-03"
+   ],
+   "options": [],
+   "variants": [
+    {
+     "title": "AOR-03 S-Zafiro",
+     "sku": null,
+     "priceMinor": 279650,
+     "compareAtMinor": 329000,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "El precio original era": "$3,290.00.",
+    "El precio actual es": "$2,796.50.",
+    "Categorías": "AOR-03 , Skeleton Etiqueta: AOR-03",
+    "Etiqueta": "AOR-03",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/skeleton",
+    "BRD-0045/aor-03"
+   ],
+   "hash": "542443d8a6b6a68f"
+  },
+  {
+   "id": "BRD-0045/aor-01-s-berilo",
+   "name": "AOR-01 S-Berilo",
+   "url": "https://aorwatches.com/producto/aor-01-s-berilo/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Berilo.jpg?fit=1600%2C1600&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Berilo.jpg?fit=1600%2C1600&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Berilo-corona.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Berilo-tapa.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 41 mms. Espesor de 12 mms. Movimiento de cuarzo. Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion AOR-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "AOR-01",
+   "tags": [
+    "Skeleton"
+   ],
+   "options": [
+    {
+     "name": "Cristal",
+     "values": [
+      "Biselado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Cristal": "Biselado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "AOR-01 , Skeleton",
+    "Etiqueta": "Skeleton"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/skeleton",
+    "BRD-0045/aor-01"
+   ],
+   "hash": "52c46063fd05b084"
+  },
+  {
+   "id": "BRD-0045/aor-01-neon-verde",
+   "name": "AOR &#8211; 01 Verde volt",
+   "url": "https://aorwatches.com/producto/aor-01-neon-verde/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/6EE5D72A-CC32-4DF1-BB2C-E647D79B277C.png?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/6EE5D72A-CC32-4DF1-BB2C-E647D79B277C.png?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nv3.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nv2.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-ghost-Recuperado.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody de 41 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. 3 meses sin intereses. . El emblema de la firma cobra vida con la coleccion Or-1. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "AOR-01",
+   "tags": [
+    "Neon"
+   ],
+   "options": [
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "AOR-01 , Neon",
+    "Etiqueta": "Neon"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/aor-01",
+    "BRD-0045/neon"
+   ],
+   "hash": "7d8edc218856518b"
+  },
+  {
+   "id": "BRD-0045/aor-01-neon-pink",
+   "name": "AOR &#8211; 01 Rosa volt",
+   "url": "https://aorwatches.com/producto/aor-01-neon-pink/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-neon-pink.jpg?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-neon-pink.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-np32.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-np21.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-np11.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja de 41 mms. Caja espesor de 11 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion Or-1. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "AOR-01",
+   "tags": [
+    "Neon"
+   ],
+   "options": [
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "AOR-01 , Neon",
+    "Etiqueta": "Neon"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/aor-01",
+    "BRD-0045/neon"
+   ],
+   "hash": "963941781c7dce32"
+  },
+  {
+   "id": "BRD-0045/aor-01-ghost",
+   "name": "AOR &#8211; 01 Phantom",
+   "url": "https://aorwatches.com/producto/aor-01-ghost/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-ghost.jpg?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-ghost.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/05/AOR-01-Ghost-Neon-V.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-ghost1.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-ghost21.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-ghost-mano1.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-ghost-mano2.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 229000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 41 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida en la colección AOR-01. Cada reloj, con su inconfundible silueta cuadrada y su dial cóncavo inspirado en la forma del planeta, enmarca los cuatro puntos cardinales. Su diseño evoca los antiguos instrumentos de navegación y la imprescindible rosa de los vientos, símbolos de orientación, precisión y descubrimiento. La colección materializa una filosofía sustentada en tres pilares: diseño audaz, utilidad práctica y un espíritu explorador que impulsa a mirar siempre más allá del horizonte. Su arquitectura de caja unicuerpo refuerza esta visión, concentrando toda la atención en la pureza estructural de la caja y en la fuerza de su presencia.",
+   "productType": "AOR-01",
+   "tags": [
+    "Luminiscente"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Categorías": "AOR-01 , Luminiscente",
+    "Etiqueta": "Luminiscente",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/aor-01",
+    "BRD-0045/luminiscente"
+   ],
+   "hash": "480d90a2991a4ea2"
+  },
+  {
+   "id": "BRD-0045/aor-01-negro-profundo",
+   "name": "AOR &#8211; 01 Graphite",
+   "url": "https://aorwatches.com/producto/aor-01-negro-profundo/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/7A1644B3-3FCE-4158-A8EF-A8D1F331C54C.png?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/7A1644B3-3FCE-4158-A8EF-A8D1F331C54C.png?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/05/Aor-01npneonf.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/05/Aor-01npneona.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2026/05/Aor-01npneonp.jpg?fit=1254%2C1254&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-NP1.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-NP2.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-NP3.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-NP4.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-NP5.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-NP6.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 41 mms. Espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion AOR-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "AOR-01",
+   "tags": [
+    "Solido"
+   ],
+   "options": [
+    {
+     "name": "Marcador de horas",
+     "values": [
+      "Grabado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Grabado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "AOR-01 , Solido",
+    "Etiqueta": "Solido"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/solido",
+    "BRD-0045/aor-01"
+   ],
+   "hash": "6d6a65dcf0b4d57c"
+  },
+  {
+   "id": "BRD-0045/aor-01-s-esmeralda",
+   "name": "AOR &#8211; 01 S-Esmeralda",
+   "url": "https://aorwatches.com/producto/aor-01-s-esmeralda/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda.jpg?fit=1600%2C1600&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda.jpg?fit=1600%2C1600&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda-corona.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda-tapa.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda-perspectiva.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda-detalle.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda-mano.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda-mano2.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda-mano3.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Esmeralda-mano4.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 41 mms. Espesor de 11 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion Or-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, enmarcan los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "AOR-01",
+   "tags": [
+    "Skeleton"
+   ],
+   "options": [
+    {
+     "name": "Marcador de horas",
+     "values": [
+      "Grabado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Grabado, Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "AOR-01 , Skeleton",
+    "Etiqueta": "Skeleton"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/skeleton",
+    "BRD-0045/aor-01"
+   ],
+   "hash": "14454a175684d2a5"
+  },
+  {
+   "id": "BRD-0045/aor-01-s-zafiro",
+   "name": "AOR-01 S-Zafiro",
+   "url": "https://aorwatches.com/producto/aor-01-s-zafiro/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Zafiro.jpg?fit=1600%2C1600&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Zafiro.jpg?fit=1600%2C1600&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Zafiro-corona.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-Zafiro-tapa.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 41 mms. Caja espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra Tapa de acero inoxidable 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion Or-01. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "AOR-01",
+   "tags": [
+    "Skeleton"
+   ],
+   "options": [
+    {
+     "name": "Marcador de horas",
+     "values": [
+      "Grabado",
+      "Negro"
+     ]
+    },
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rigida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Grabado, Negro",
+    "Correa": "Blanda, Rigida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "AOR-01 , Skeleton",
+    "Etiqueta": "Skeleton"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/skeleton",
+    "BRD-0045/aor-01"
+   ],
+   "hash": "7ded5c4734dffa81"
+  },
+  {
+   "id": "BRD-0045/aor-01-neon-lima",
+   "name": "AOR &#8211; 01 Amarillo volt",
+   "url": "https://aorwatches.com/producto/aor-01-neon-lima/",
+   "image": {
+    "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/9AA9AC47-F83A-4CE6-8FA0-22BE944B4794.png?fit=1024%2C1024&ssl=1",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/9AA9AC47-F83A-4CE6-8FA0-22BE944B4794.png?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nl5.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nl3.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nl2.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nl1.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nl7.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nl6.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://i0.wp.com/aorwatches.com/wp-content/uploads/2020/03/Or-01-nl.jpg?fit=1024%2C1024&ssl=1",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 189000,
+   "currency": "MXN",
+   "availability": "in_stock",
+   "description": "Caja unibody en resina de 41 mms. Caja espesor de 12 mms. Movimiento de cuarzo Cristal Mineral. Correa de caucho negra. Tapa de acero inoxidable. 3 meses sin intereses. El emblema de la firma cobra vida con la coleccion Or-1. Cada reloj con su distintiva silueta cuadrada y su dial cóncavo tomando como inspiración el planeta, en marcando los 4 puntos cardinales, inspirada en los instrumentos de navegación y la indispensable rosa de los vientos. Materializa una filosofía construida sobre los pilares del diseño audaz, la utilidad practica y el espíritu explorador.",
+   "productType": "AOR-01",
+   "tags": [
+    "Neon"
+   ],
+   "options": [
+    {
+     "name": "Correa",
+     "values": [
+      "Blanda",
+      "Rígida"
+     ]
+    },
+    {
+     "name": "Tapa",
+     "values": [
+      "Plastico",
+      "Acero inoxidable"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Marcador de horas": "Negro",
+    "Correa": "Blanda, Rígida",
+    "Tapa": "Plastico, Acero inoxidable",
+    "Rango de precios": "desde $1,890.00 hasta $2,290.00",
+    "Categorías": "AOR-01 , Neon",
+    "Etiqueta": "Neon"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:24:53.359Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:24:53.359Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0045/aor-01",
+    "BRD-0045/neon"
+   ],
+   "hash": "964129da03b9d52c"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0045/or-01",
+   "name": "Or-01",
+   "url": "https://aorwatches.com/categoria-producto/or-01/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0045/skeleton",
+   "name": "Skeleton",
+   "url": "https://aorwatches.com/categoria-producto/skeleton/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0045/solido",
+   "name": "Solido",
+   "url": "https://aorwatches.com/categoria-producto/solido/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0045/aor-01",
+   "name": "AOR-01",
+   "url": "https://aorwatches.com/categoria-producto/aor-01/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0045/neon",
+   "name": "Neon",
+   "url": "https://aorwatches.com/categoria-producto/neon/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0045/aor-03",
+   "name": "AOR-03",
+   "url": "https://aorwatches.com/categoria-producto/aor-03/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0045/luminiscente",
+   "name": "Luminiscente",
+   "url": "https://aorwatches.com/categoria-producto/luminiscente/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

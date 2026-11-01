@@ -1,0 +1,1167 @@
+{
+ "brandId": "BRD-0192",
+ "brandName": "Duckworth Prestex",
+ "website": "https://www.prestex.com",
+ "crawledAt": "2026-11-01T07:03:15.553Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.prestex.com/cdn/shop/files/prestex-logo-black.png?v=1768914362",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.prestex.com/"
+ },
+ "attribution": "Images © Duckworth Prestex, from prestex.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0192/chronograph-42-quartz",
+   "name": "Chronograph 42 Quartz",
+   "url": "https://www.prestex.com/products/chronograph-42-quartz",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Duckworth-Prestex-Blue-Chrono-WBG.jpg?v=1771411359",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Duckworth-Prestex-Blue-Chrono-WBG.jpg?v=1771411359",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 66000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "42mm Quartz Chronograph The retro polished, cushion-style case is constructed out of durable 316L stainless steel. The watch is water resistant to 100m thanks to its screw-in case back and screw-down crown.The dual-layer dial construction adds visual depth, with the outer minute track and subdials being recessed slight",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": 48.5,
+    "thicknessMm": 13,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Functions": "Hours/minutes/seconds/30 minute chronograph/date",
+    "Dial": "Sunburst",
+    "Indices": "Applied, filled with BGW9 lume",
+    "Hands": "Brushed and polished steel with BGW9 lume strip",
+    "Sweep second": "Contrasting with brushed finish",
+    "Case Diameter": "42mm",
+    "Overall Case Thickness": "13mm",
+    "Lug to Lug Length": "48.5mm",
+    "Case Material": "316L solid stainless steel",
+    "Accuracy": "+/-20s per month"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2fafe6341ad3f225"
+  },
+  {
+   "id": "BRD-0192/nato-green-with-black-stripe",
+   "name": "Green nylon with Black Stripe",
+   "url": "https://www.prestex.com/products/nato-green-with-black-stripe",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/products/HKS-NATO-WBG-GN-BK.jpg?v=1622030724",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/products/HKS-NATO-WBG-GN-BK.jpg?v=1622030724",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Details This strap uses a premium 1.3mm thick nylon that is strong and durable. As an added flourish the central stripe is embossed into the weave. The rounded-edge hardware is brushed stainless steel.The buckle is slim so as to stop the strap being bulky, but strong enough to stand up to wear and tear. Both keepers",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Lug width": "20mm / 22mm Length: 300mm Material type: Slanted Premium Nylon Pattern: S tripe type 2 Clasp Type: Polished Stainless Steel Buckle and Keepers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "505592e4640b5451"
+  },
+  {
+   "id": "BRD-0192/blue-and-black-nato-with-grey-stripe",
+   "name": "Blue Nylon with Beige Stripe",
+   "url": "https://www.prestex.com/products/blue-and-black-nato-with-grey-stripe",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/products/HKS-NATO-WBG-BL-BG.jpg?v=1622030947",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/products/HKS-NATO-WBG-BL-BG.jpg?v=1622030947",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Details This strap uses a premium 1.3mm thick nylon that is strong and durable. The main weave is a mix of blue and black and as an added flourish the central beige stripe is embossed into the weave. The rounded-edge hardware is brushed stainless steel.The buckle is slim so as to stop the strap being bulky, but stron",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Lug width": "20mm / 22mm Length: 300mm Material type: Slanted Premium Nylon Pattern: S tripe type 2 Clasp Type: Polished Stainless Steel Buckle and Keepers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c6cfe28f72ba58e5"
+  },
+  {
+   "id": "BRD-0192/black-nato-with-brown-and-red-stripe",
+   "name": "Black Nylon with Brown and Red Stripe",
+   "url": "https://www.prestex.com/products/black-nato-with-brown-and-red-stripe",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/products/HKS-NATO-S36_-BK-RD-BG-WBG.jpg?v=1622031313",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/products/HKS-NATO-S36_-BK-RD-BG-WBG.jpg?v=1622031313",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Details This strap uses a premium 1.3mm thick nylon that is strong and durable. As an added flourish the central red stripe is flanked by brown stripes which are embossed into the weave. The rounded-edge hardware is brushed stainless steel.The buckle is slim so as to stop the strap being bulky, but strong enough to s",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Lug width": "20mm / 22mm Length: 300mm Material type: Slanted Premium Nylon Pattern: S tripe type 2 Clasp Type: Polished Stainless Steel Buckle and Keepers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c1485a8bc6d1a40d"
+  },
+  {
+   "id": "BRD-0192/black-with-sand-grey",
+   "name": "Black Nylon with Sand and Grey Stripe",
+   "url": "https://www.prestex.com/products/black-with-sand-grey",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/products/HKS-NATO-WBG-BK-BG-GY.jpg?v=1622031652",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/products/HKS-NATO-WBG-BK-BG-GY.jpg?v=1622031652",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Details This strap uses a premium 1.3mm thick nylon that is strong and durable. As an added flourish the central stripe is embossed into the weave. The rounded-edge hardware is brushed stainless steel.The buckle is slim so as to stop the strap being bulky, but strong enough to stand up to wear and tear. Both keepers",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Lug width": "20mm / 22mm Length: 300mm Material type: Slanted Premium Nylon Pattern: S tripe type 2 Clasp Type: Polished Stainless Steel Buckle and Keepers"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e1f28b0b48484897"
+  },
+  {
+   "id": "BRD-0192/royal-police-special-edition-rivington-gmt",
+   "name": "Rivington GMT Special Edition",
+   "url": "https://www.prestex.com/products/royal-police-special-edition-rivington-gmt",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Police-Rivington-Metal.jpg?v=1771327585",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Police-Rivington-Metal.jpg?v=1771327585",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 110000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Special Edition GMT automatic made for the Royalty & Specialist Protection Unit LIMITED EDTION - 1st 50 pieces now available for immediate delivery. The retro-style cushion-case is constructed out of durable 316L brushed stainless steel. This Special Editon GMT is water resistant to 200m and fitted with scratch res",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": 50,
+    "thicknessMm": 14,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Functions": "Hours/minutes/sweep seconds in purple",
+    "Dial": "Jet Black with Royal Crown emblem at 6 O'Clock",
+    "Applied indices": "Quarter Arabic with hour markers filled with BGW9 lume",
+    "Hands": "Brushed and polished steel with BGW9 lume strip",
+    "Bracelet": "Stainless steel 3-link brushed finish, with folding clasp and quick release",
+    "Case Diameter": "42mm - excluding winding crown.",
+    "Overall Case Thickness": "14mm",
+    "Lug to Lug Length": "50.0 mm",
+    "Case Material": "316L solid stainless steel polished and matt",
+    "Accuracy": "-10/+30s per day"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1b5c8fc0608463d6"
+  },
+  {
+   "id": "BRD-0192/lostock-quartz-chronograph",
+   "name": "Lostock Quartz Chronograph",
+   "url": "https://www.prestex.com/products/lostock-quartz-chronograph",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Prestex-Lostock-Silver-Stainless-Bracelet.jpg?v=1783426362",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Prestex-Lostock-Silver-Stainless-Bracelet.jpg?v=1783426362",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 66000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "LOSTOCK 40mm Quartz Chronograph (MODEL NUMBER D547) We are very proud to announce the arrival of our latest new series. A 40mm diameter round case, quartz chronograph. It is our very first round watch and our very first 40mm case size. It is named the 'LOSTOCK' after the residential suburb of Bolton of the same n",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Functions": "hours / minutes / seconds / 60 minute chronograph/ date",
+    "Hands": "BGW9 filled lume.",
+    "Indices": "applied with BGW9 lume ( printed on Bolton Blue)",
+    "Overall Case Thickness": "13mm",
+    "Accuracy": "-10/+20s per month"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3d5475478207bcfe"
+  },
+  {
+   "id": "BRD-0192/rivington-gmt",
+   "name": "Rivington GMT Automatic",
+   "url": "https://www.prestex.com/products/rivington-gmt",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Rivington-Green-Leather_07f2e287-8b94-4a20-a536-2c559d474a67.jpg?v=1774261629",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Rivington-Green-Leather_07f2e287-8b94-4a20-a536-2c559d474a67.jpg?v=1774261629",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Rivington - The True GMT Automatic The retro cushion-style case is constructed out of durable 316L brushed stainless steel. The Rivington is water resistant to 200m .The fume dial and distinctive waffle pattern distinguishes the Rivington, whilst the contrasting turquoise second hand and hour markers add a pop of colou",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": 50,
+    "thicknessMm": 14,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Functions": "Hours/minutes/sweep seconds in secondary colour",
+    "Dial": "Fumé with waffle pattern",
+    "Applied indices": "Quarter Arabic with hour markers filled with BGW9 lume",
+    "Hands": "Brushed and polished steel with BGW9 lume strip",
+    "Bracelet": "Stainless steel 3-link brushed finish, with folding clasp and quick release",
+    "Case Diameter": "42mm",
+    "Overall Case Thickness": "14mm",
+    "Lug to Lug Length": "50.0 mm",
+    "Case Material": "316L solid stainless steel polished and matt",
+    "Accuracy": "-10/+30s per day"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b577683afdaeeb92"
+  },
+  {
+   "id": "BRD-0192/belmont-300-meters",
+   "name": "Belmont 300 Automatic",
+   "url": "https://www.prestex.com/products/belmont-300-meters",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Orange-Rubber-Belmont-WBGv2.jpg?v=1771327146",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Orange-Rubber-Belmont-WBGv2.jpg?v=1771327146",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 75000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Belmont - Automatic Dive Watch The cushion-style case is constructed out of durable 316L brushed stainless steel and is water resistant to 300m .The fume dial and distinctive wave pattern distinguishes the Belmont, whilst the contrasting seconds hand and hour markers add a pop of colour to animate the look. The h",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": 50,
+    "thicknessMm": 13,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": "blue",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Functions": "Hours/minutes/seconds",
+    "Dial": "Orange, Green or Blue fume with the Blemont wave pattern",
+    "Indices": "Quarter arabic filled with BGW9 lume",
+    "Hands": "Brushed and polished steel with BGW9 lume strip",
+    "Bracelet or Strap": "Stainless steel 3-link brushed finish, with folding clasp and ratchet extension or Rubber in Blue, Black or Orange",
+    "Sweep second": "Contrasting colour",
+    "Case Diameter": "42mm",
+    "Overall Case Thickness": "13mm",
+    "Lug to Lug Length": "50.0 mm",
+    "Case Material": "316L solid stainless steel",
+    "Tolerance": "-10/+30s per day"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "0bbc06c4cb5744bf"
+  },
+  {
+   "id": "BRD-0192/bolton-classic-quartz-chrono",
+   "name": "Bolton Classic Quartz Chrono",
+   "url": "https://www.prestex.com/products/bolton-classic-quartz-chrono",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Bolton-Chrono-New-WBG.jpg?v=1771326184",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Bolton-Chrono-New-WBG.jpg?v=1771326184",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 65000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Bolton collection combines a stunning 'porcelain' white dial with Art Deco original Bolton numerals. The cushion shaped 316L stainless steel case uses a combination of brushed and polished finishes, and its restrained proportions mean that it should feel right at home on all wrist sizes. The screw-down crown helps",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.5,
+    "thicknessMm": 11,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "white",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial": "'Porcelain' effect , hi-gloss white",
+    "Indices": "Printed - original Art Deco Bolton numerals",
+    "Hands": "Blued steel 'leaf' hands",
+    "Case Diameter": "39mm (excluding crown)",
+    "Overall Case Thickness": "11mm",
+    "Lug to Lug length": "46.5mm",
+    "Lug Width": "20mm",
+    "Small Seconds": "Seiko VD 87 quartz movement",
+    "Chronograph": "Hattori VK64 quartz movement"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "696c13ce5d5a4830"
+  },
+  {
+   "id": "BRD-0192/verimatic-automatic-39mm-suede",
+   "name": "Verimatic 39mm",
+   "url": "https://www.prestex.com/products/verimatic-automatic-39mm-suede",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Verimatic-orange-brown-suede_e8fb9f81-8287-468a-8cd8-e587ba999974.jpg?v=1771416948",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Verimatic-orange-brown-suede_e8fb9f81-8287-468a-8cd8-e587ba999974.jpg?v=1771416948",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 77500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Verimatic Automatic Fumé The Duckworth Prestex Verimatic combines the elegance of a cushion-case and outer railroad track with a stunning textured Fumé dial, bold Arabic numerals and contrasting seconds hand. It all comes together to deliver a more relaxed vibe with a classical twist, making this a watch suitable for a",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.5,
+    "thicknessMm": 11,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "red",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Functions": "hours / minutes / seconds",
+    "Dial": "Textured fumé",
+    "Indices": "Printed with thickly applied BGW9 lume",
+    "Hands": "Brushed hour and minute hands with polished chamfer with applied BGW9 lume",
+    "Sweep second": "Brushed with applied BGW9 lume",
+    "Case Diameter": "39mm (excluding crown)",
+    "Overall Case Thickness": "11mm",
+    "Lug to Lug length": "46.5mm",
+    "Lug Width": "20mm",
+    "Accuracy": "-10/+30s per day"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a07648825058409c"
+  },
+  {
+   "id": "BRD-0192/broadgate-gmt",
+   "name": "Broadgate GMT Automatic",
+   "url": "https://www.prestex.com/products/broadgate-gmt",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/broadgate-green-black-rubber.jpg?v=1771413696",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/broadgate-green-black-rubber.jpg?v=1771413696",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 90000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "BROADGATE 40mm GMT Automatic Introducing our latest series. The Broadgate 40mm round case automatic GMT. Taking its name the from the world famous financial centre in the heart of the city of London . This is an urban timepiece par excellence. There are 5 fabulous options to choose from White with red accents Pal",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Functions": "hours / minutes / seconds / 24 hour hand /date",
+    "Hands": "BGW9 filled lume.",
+    "Indices": "Classic Prestex traditional arabic numeral font",
+    "Overall Case Thickness": "12.5 mm",
+    "Accuracy": "-10/+30s per day"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e214b64949d9ddc6"
+  },
+  {
+   "id": "BRD-0192/special-edition-of-prestex-original",
+   "name": "Prestex Original Automatic",
+   "url": "https://www.prestex.com/products/special-edition-of-prestex-original",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Bolton_White_Roman_Blk_Croco.png?v=1774096242",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Bolton_White_Roman_Blk_Croco.png?v=1774096242",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 77500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Prestex Original Automatic White Roman Dial Back in stock Mid November The Special Edition Prestex Original pays homage to the prestigious heritage of the Prestex brand founded over 100 years ago. Featuring a classic gloss white dial, this model showcases timeless Roman numerals in black with the vintage Prestex logo",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.5,
+    "thicknessMm": 11,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "white",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Functions": "hours/minutes/seconds",
+    "Dial": "'enamel' effect, gloss white",
+    "Indices": "Printed black roman numerals",
+    "Hands": "'leaf' hands in heated blue steel",
+    "Case Diameter": "39mm (excluding crown)",
+    "Overall Case Thickness": "11mm",
+    "Lug to Lug length": "46.5mm",
+    "Lug Width": "20mm",
+    "Small Seconds": "Automatic Miyota 82S5"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "041e4ebc4224fe8c"
+  },
+  {
+   "id": "BRD-0192/swiss-made-prestex-skeleton",
+   "name": "Prestex Skeleton Manual Wind",
+   "url": "https://www.prestex.com/products/swiss-made-prestex-skeleton",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Prestex-Skeleton-Blue-Hands-Watch-Front.jpg?v=1786011946",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Prestex-Skeleton-Blue-Hands-Watch-Front.jpg?v=1786011946",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 145000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Prestex Skeleton - Swiss Made The classic UNITAS 6497 hand assembled movement used in our Skeleton watch was originally designed for pocket watches. Due to its large size it is possible to see quite clearly, the workings of the movement. The Prestex Swiss Made Skeleton is a masterpiece of classical Swiss horology at",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1ca346527ac6190e"
+  },
+  {
+   "id": "BRD-0192/parker-mechanical-swiss-made",
+   "name": "Parker Mechanical",
+   "url": "https://www.prestex.com/products/parker-mechanical-swiss-made",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/parker-mechanical-wbg-dwp.jpg?v=1744672511",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/parker-mechanical-wbg-dwp.jpg?v=1744672511",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Parker Mechanical - Swiss Made Manual winding Parker rectangular case watch. The first mechanical watch in this iconic series. Branded simply PRESTEX on the dial this is a revised interpretation in a vintage style of a Prestex Classic, dating from 1935. The Swiss movement is clearly visitble through the circular sapph",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "eeec2799410e40f0"
+  },
+  {
+   "id": "BRD-0192/swiss-diver-300-metre",
+   "name": "Swiss Diver 300 Metre",
+   "url": "https://www.prestex.com/products/swiss-diver-300-metre",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/prestex-swiss-diver-orange-steel-mesh-watch-front.jpg?v=1786011816",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/prestex-swiss-diver-orange-steel-mesh-watch-front.jpg?v=1786011816",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Diver 300m Automatic - Swiss Made If PRESTEX had made a diving watch in the 1970s this is what it would have looked like. The new and exclusive diver 300m Swiss Made automatic. A highly robust sports watch with a uni-directional rotating ceramic bezel to indicate dive time. Taken from an original design in 1970 compl",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 17,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Functions": "hours / minutes / centre seconds",
+    "Hands and markers": "luminous",
+    "Overall Case Thickness": "17 mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "db602c134ad8ee4d"
+  },
+  {
+   "id": "BRD-0192/prestex-royale-quartz",
+   "name": "Prestex Royale Quartz",
+   "url": "https://www.prestex.com/products/prestex-royale-quartz",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Royale_Soldier_Black_strap.jpg?v=1771509040",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Royale_Soldier_Black_strap.jpg?v=1771509040",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 35000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Prestex Royale, a modern interpretation of a classic early 1950's Prestex The cushion shaped 316L stainless steel case uses a combination of brushed and polished finishes, and its restrained proportions mean that it should feel right at home on all wrist sizes. The screw-down crown helps the watch achieve an impr",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.5,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "silver",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial": "'sunburst' effect in silver",
+    "Indices": "Applied quarter Arabic and dagger applied hour markers in gold colour",
+    "Hands": "'Sword' hands and a fine sweep second in gold colour",
+    "Case Diameter": "39mm (excluding crown)",
+    "Overall Case Thickness": "12mm",
+    "Lug to Lug length": "46.5mm",
+    "Lug Width": "20mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1a9e5580403942e3"
+  },
+  {
+   "id": "BRD-0192/bolton-blue-automatic",
+   "name": "Bolton Automatic",
+   "url": "https://www.prestex.com/products/bolton-blue-automatic",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/blue-bolton-blue-leather-strap-watch.jpg?v=1786009884",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/blue-bolton-blue-leather-strap-watch.jpg?v=1786009884",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 77500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Bolton - Automatic Back in stock Mid November The first Bolton automatic was released in 2022 in a plain white 'enamel effect' dial with Bolton style numerals. In 2023 to mark the occasion of the Coronation of Charles III, we released 2 new Bolton models in Midnight Blue and Salmon Pink this time with exhibition",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.5,
+    "thicknessMm": 11,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Functions": "hours/minutes/seconds",
+    "Dial": "'enamel' white, midnight blue or salmon pink",
+    "Indices": "Printed white Prestex original art nouveau Bolton numerals",
+    "Hands": "'leaf' hands in heated blue steel or silver colour on blue dial",
+    "Case Diameter": "39mm (excluding crown)",
+    "Overall Case Thickness": "11mm",
+    "Lug to Lug length": "46.5mm",
+    "Lug Width": "20mm",
+    "Small Seconds": "Automatic Miyota 82S5"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5968ee7059e95217"
+  },
+  {
+   "id": "BRD-0192/big-date-automatic",
+   "name": "Big Date Automatic",
+   "url": "https://www.prestex.com/products/big-date-automatic",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/PrestexBigDateBrownStrap_6aada7b5-516b-41cc-a66b-fe8d8a51dab3.png?v=1781694292",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/PrestexBigDateBrownStrap_6aada7b5-516b-41cc-a66b-fe8d8a51dab3.png?v=1781694292",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 97500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "BIG DATE Coin Edge, Open Heart automatic A refined expression of traditional watchmaking, the Prestex Big Date Automatic Open Heart combines classical design with contemporary mechanical detail. The beautifully textured dial features a prominent big date display at 12 o’clock, offering enhanced legibility while maintai",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ee74e020ca73edaa"
+  },
+  {
+   "id": "BRD-0192/parker-roman-r",
+   "name": "Parker Roman",
+   "url": "https://www.prestex.com/products/parker-roman-r",
+   "image": {
+    "url": "https://www.prestex.com/cdn/shop/files/Parker-Classic-Brown-Leather-Strap_135383a8-5d0e-45fa-92da-9351b3837ada.png?v=1783685309",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.prestex.com/cdn/shop/files/Parker-Classic-Brown-Leather-Strap_135383a8-5d0e-45fa-92da-9351b3837ada.png?v=1783685309",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Discover the Prestex Parker Roman, a British designed Swiss made rectangular dress watch inspired by an original 1930s Prestex design with sapphire crystal.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 24,
+    "lugWidthMm": 20,
+    "lugToLugMm": 40,
+    "thicknessMm": 7.5,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "salmon",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Functions": "hours / minutes / seconds",
+    "Dial": "Cream, Salmon Pink and Midnight Blue",
+    "Indices": "Polished applied - Bolton original font",
+    "Hands": "Polished",
+    "Case Dimensions": "24mm by 31mm (lug to lug 40mm)",
+    "Overall Case Thickness": "7.5 mm",
+    "Lug Width": "20mm",
+    "Case": "316L solid stainless steel"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:03:15.553Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:03:15.553Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "83feab4a6444edd4"
+  }
+ ],
+ "collections": []
+}

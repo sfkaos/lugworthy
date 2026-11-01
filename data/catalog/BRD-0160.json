@@ -1,0 +1,462 @@
+{
+ "brandId": "BRD-0160",
+ "brandName": "Corniche",
+ "website": "https://cornichewatches.com",
+ "crawledAt": "2026-11-01T06:54:18.641Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://cornichewatches.com/wp-content/themes/corniche_2.0/images/start/Logo_white.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://cornichewatches.com/"
+ },
+ "attribution": "Images © Corniche, from cornichewatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0160/visionnaire",
+   "name": "Visionnaire",
+   "url": "https://cornichewatches.com/shop/visionnaire/",
+   "image": null,
+   "images": [],
+   "priceMinor": 35000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Visionnaire combines classic Art Deco proportions with modern sportiness in a compact rectangular case. Its sculpted flanks bring strength and subtle sporty character, and every Visionnaire features a sapphire crystal with seven-layer anti-reflective coating and a hardened, anti-fingerprint top layer. Each watch comes in beautiful, gift-worthy packaging.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Type",
+     "values": [
+      "Visionnaire OC Limited Edition",
+      "Visionnaire in Rose Gold with Sand dial",
+      "Visionnaire in Steel with Aventurine dial",
+      "Visionnaire in Steel with bracelet",
+      "Visionnaire in Yellow Gold with bracelet",
+      "Sandblasted Steel with Green dial",
+      "Sandblasted Steel with Mother of Pearl dial",
+      "Visionnaire Green Mother of Pearl",
+      "Visionnaire Nocturne"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 24,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Type": "Visionnaire OC Limited Edition, Visionnaire in Rose Gold with Sand dial, Visionnaire in Steel with Aventurine dial, Visionnaire in Steel with bracelet, Visionnaire in Yellow Gold with bracelet, Sandblasted Steel with Green dial, Sandblasted Steel with Mother of Pearl dial, Visionnaire Green Mother of Pearl, Visionnaire Nocturne",
+    "Case Size": "24 mm x 39.5 mm x 7.4 mm",
+    "Dial": "Textured with hand-applied luminous numerrals",
+    "Hands": "Dauphine with BGW9 luminous material",
+    "Hour markers": "Elongated with BGW9 luminous material",
+    "Crystal": "Sapphire, 7-layer AR + hardened / anti-fingerprint coat",
+    "Strap": "Japanese cotton-hemp by Fujikinbai",
+    "Strap circumference": "15,5-20 cm",
+    "Lug Width": "18 mm",
+    "Movement": "Miyota Quartz",
+    "Water Resistance": "Waterproof up to 5ATM",
+    "Delivery": "1-3 Business days"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:54:18.641Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:54:18.641Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5996fa425d410180"
+  },
+  {
+   "id": "BRD-0160/la-grande-corniche",
+   "name": "La Grande Corniche",
+   "url": "https://cornichewatches.com/shop/la-grande-corniche/",
+   "image": null,
+   "images": [],
+   "priceMinor": 69500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our latest addition is our take on the quintessential luxury sports watch. Featuring an automatic movement, a beautiful integrated steel bracelet and exquisite next-level finishing, it’s quite simply the perfect mix of sport and elegance. Comes in a beautiful black textured travel case.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "type",
+     "values": [
+      "La Grande Corniche Automatic Bleu Marine Dial",
+      "La Grande Corniche Automatic Olive Verte Dial",
+      "La Grande Corniche Automatic Salmon Dial",
+      "La Grande Corniche Chronograph",
+      "La Grande Corniche Automatic Horizon Bleu",
+      "La Grande Corniche Automatic Azur Bleu"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "type": "La Grande Corniche Automatic Bleu Marine Dial, La Grande Corniche Automatic Olive Verte Dial, La Grande Corniche Automatic Salmon Dial, La Grande Corniche Chronograph, La Grande Corniche Automatic Horizon Bleu, La Grande Corniche Automatic Azur Bleu",
+    "Case Size": "39 mm x 11.5 mm.",
+    "Dial": "Ceramic with hand-applied polished markers",
+    "Strap": "Genuine leather with a beautiful alligator texture",
+    "Lug Width": "20 mm",
+    "Movement": "Seiko VK64 Hybrid (sweeping hand)",
+    "Clasp": "Deployant bucke",
+    "Water Resistance": "Waterproof up to 5 ATM",
+    "Packaging": "Piano lacquered presentation box",
+    "Delivery": "Free Express Shipping (3-5 business days worldwide)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:54:18.641Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:54:18.641Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5fb349c0d622d698"
+  },
+  {
+   "id": "BRD-0160/gmt",
+   "name": "GMT+1® Four-Watch Case",
+   "url": "https://cornichewatches.com/shop/gmt/",
+   "image": {
+    "url": "https://cornichewatches.com/wp-content/uploads/2021/01/Shop_Cognac_1_thumbforbag.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cornichewatches.com/wp-content/uploads/2021/01/Shop_Cognac_1_thumbforbag.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 0,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Type",
+     "values": [
+      "Black",
+      "Brown"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Type": "Black, Brown",
+    "Delivery": "1-3 Business days"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:54:18.641Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:54:18.641Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f6b1fbb06885796d"
+  },
+  {
+   "id": "BRD-0160/chronograph",
+   "name": "Heritage Chronograph",
+   "url": "https://cornichewatches.com/shop/chronograph/",
+   "image": null,
+   "images": [],
+   "priceMinor": 42500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "As many elder siblings will attest to, the introduction of a new family member often comes with its complications. Our latest addition to the Heritage lineage is no exception. However, with the new Heritage Chronograph, things are complicated in the best of ways thanks to the addition of our first-ever complication: Seiko’s renowned VK64 Hybrid Movement. And as looks matter too, you’ll find a stunning pitch black dial and a perfectly sized case that together equal its intricate interior. Complicated yet surprisingly straightforward. Dare we say it’s the best of two worlds?",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Type",
+     "values": [
+      "Heritage Chronograph in Rose Gold",
+      "Heritage Chronograph in Stainless Steel",
+      "Heritage Chronograph in Steel with Blue dial",
+      "Heritage Chronograph Blue Suede",
+      "Heritage Chronograph Steel White Dial",
+      "Heritage Chronograph Rose Gold Cream Dial",
+      "Heritage Chronograph SJCFP 2019",
+      "Heritage Chronograph Obscur",
+      "Heritage Chronograph Roquebrune",
+      "Heritage Chronograph Courchevel",
+      "Vert Militaire Chronograph",
+      "Heritage Black Chronograph",
+      "Corniche Heritage Fantôme Chronograph",
+      "Heritage Visage Chronograph",
+      "Heritage in Yellow Gold with Green dial",
+      "Limited Edition Heritage 1945 Chronograph",
+      "L’Été Sans Fin in Stainless Steel with Orange dial",
+      "L’Été Sans Fin in Stainless Steel with Azur Blue dial",
+      "Limited Edition Sand Militaire",
+      "Fantôme II Chronograph",
+      "Monochrome Chronograph",
+      "Bleu Ardoise Chronograph",
+      "Demande Spéciale Chronograph",
+      "Corniche Conifère Chronograph",
+      "Demande Spèciale II",
+      "Demande Spèciale III",
+      "L'heure d'Or Chronograph",
+      "Nocturne Chronograph",
+      "Demande Spèciale IV",
+      "Bluebird Chronograph",
+      "Mon Coeur Chronograph",
+      "Demande Spèciale V",
+      "Paloma Beach Chronograph",
+      "Nocturne II Chronograph",
+      "Limited Edition Obscur II Chronograph",
+      "Heritage Chronograph Demande Spéciale VI",
+      "Noir Blanc Chronograph",
+      "ORG Chronograph",
+      "Conifère II Chronograph",
+      "ORG II Chronograph",
+      "Sand Militaire Deux Chronograph",
+      "Limited Mirage Chronograph",
+      "Visage Chronograph Steel",
+      "Visage Chronograph Rose",
+      "ORG Exclusive White MOP",
+      "Visage II Chrono LE 150 Steel",
+      "Visage II Chrono LE 150 Rose Gold",
+      "ORG Exclusive White MOP Chronograph",
+      "Obscur III Chronograph"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Seiko VK64",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Type": "Heritage Chronograph in Rose Gold, Heritage Chronograph in Stainless Steel, Heritage Chronograph in Steel with Blue dial, Heritage Chronograph Blue Suede, Heritage Chronograph Steel White Dial, Heritage Chronograph Rose Gold Cream Dial, Heritage Chronograph SJCFP 2019, Heritage Chronograph Obscur, Heritage Chronograph Roquebrune, Heritage Chronograph Courchevel, Vert Militaire Chronograph, Heritage Black Chronograph, Corniche Heritage Fantôme Chronograph, Heritage Visage Chronograph, Heritage in Yellow Gold with Green dial, Limited Edition Heritage 1945 Chronograph, L’Été Sans Fin in Stainless Steel with Orange dial, L’Été Sans Fin in Stainless Steel with Azur Blue dial, Limited Edition Sand Militaire, Fantôme II Chronograph, Monochrome Chronograph, Bleu Ardoise Chronograph, Demande Spéciale Chronograph, Corniche Conifère Chronograph, Demande Spèciale II, Demande Spèciale III, L'heure d'Or Chronograph, Nocturne Chronograph, Demande Spèciale IV, Bluebird Chronograph, Mon Coeur Chronograph, Demande Spèciale V, Paloma Beach Chronograph, Nocturne II Chronograph, Limited Edition Obscur II Chronograph, Heritage Chronograph Demande Spéciale VI, Noir Blanc Chronograph, ORG Chronograph, Conifère II Chronograph, ORG II Chronograph, Sand Militaire Deux Chronograph, Limited Mirage Chronograph, Visage Chronograph Steel, Visage Chronograph Rose, ORG Exclusive White MOP, Visage II Chrono LE 150 Steel, Visage II Chrono LE 150 Rose Gold, ORG Exclusive White MOP Chronograph, Obscur III Chronograph",
+    "Case Size": "39 mm x 11.5 mm.",
+    "Dial": "Ceramic with hand-applied polished markers",
+    "Strap": "Genuine leather with a beautiful alligator texture",
+    "Lug Width": "20 mm",
+    "Movement": "Seiko VK64 Hybrid (sweeping hand)",
+    "Clasp": "Deployant bucke",
+    "Water Resistance": "Waterproof up to 5 ATM",
+    "Packaging": "Piano lacquered presentation box",
+    "Delivery": "Free Express Shipping (3-5 business days worldwide)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:54:18.641Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:54:18.641Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7dc4e1b0c1329767"
+  },
+  {
+   "id": "BRD-0160/historique",
+   "name": "Historique",
+   "url": "https://cornichewatches.com/shop/historique/",
+   "image": null,
+   "images": [],
+   "priceMinor": 259500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Historique features a classic two-tone dial &#8211; a hallmark often found on vintage pieces from the past. Our slightly modernised take features an Eggshel White center and a polished Cercle d’Acier ring in steel, clearly inspired by watches from the past and also a signature look from our C-series. Additionally, the watch features polished steel or rose gold markers and hands which creates a special effect against the shimmering brushed silver beneath",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Type",
+     "values": [
+      "Corniche Historique Rose Gold White Dial",
+      "Corniche Historique Stainless Steel White Dial",
+      "Corniche Historique Automatic Stainless Steel White Dial",
+      "Historique Club des Sports Courchevel",
+      "Historique Paloma Beach"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 37.5,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Type": "Corniche Historique Rose Gold White Dial, Corniche Historique Stainless Steel White Dial, Corniche Historique Automatic Stainless Steel White Dial, Historique Club des Sports Courchevel, Historique Paloma Beach",
+    "Case size": "37.5mm x 9mm",
+    "Dial": "Ceramic with hand-applied polished markers",
+    "Crystal": "Hesalite crystal",
+    "Strap": "Genuine leather",
+    "Movement": "Miyota Quartz",
+    "Lug Width": "18 mm",
+    "Buckle": "Classic buckle",
+    "Packaging": "Vintage style slide out box",
+    "Water Resistance": "Waterproof up to 3 ATM",
+    "Delivery": "1-3 Business days"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:54:18.641Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:54:18.641Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0160/watch"
+   ],
+   "hash": "58ef4ee2ab7d48f2"
+  },
+  {
+   "id": "BRD-0160/heritage-36",
+   "name": "Heritage 36",
+   "url": "https://cornichewatches.com/shop/heritage-36/",
+   "image": null,
+   "images": [],
+   "priceMinor": 36500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Heritage 36 combines classic details with a completely revamped gold case. Featuring a sleeker and more elegant look than ever before, its redesigned curved lugs offer the perfect fit with a snug dark brown leather strap. Brand new pointed hour markers and delicate dauphine hands ensure the perfect proportions whilst the blue anodized hands of the white dial version provide an exciting contrast we’ve all grown to love. The Heritage 36’s stylish looks makes it the perfect dress watch &#8211; but then again, it’ll look just as good on the beach.",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Type",
+     "values": [
+      "Heritage 36 Rose Gold Cream White Dial",
+      "Heritage 36 Yellow Gold Black Dial",
+      "Heritage 36 Steel White Dial",
+      "Heritage 36 Etaupe Rose Gold",
+      "Heritage 36 Etaupe Steel"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 36,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": 6,
+    "waterResistanceM": null,
+    "caliber": "Miyota 2025",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Type": "Heritage 36 Rose Gold Cream White Dial, Heritage 36 Yellow Gold Black Dial, Heritage 36 Steel White Dial, Heritage 36 Etaupe Rose Gold, Heritage 36 Etaupe Steel",
+    "Case Size": "36 mm - the classic size.",
+    "Case Thickness": "6 mm",
+    "Dial": "Ceramic with hand-applied polished markers",
+    "Glass": "Sapphire glass which is impossible to scratch.",
+    "Strap": "Genuine leather with a beautiful crocodile pattern",
+    "Lug Width": "18mm",
+    "Movement": "Miyota 2025 Quartz",
+    "Clasp": "Butterfly-style for ultimate comfort and ease-of-use",
+    "Water Resistance": "Waterproof up to 5ATM",
+    "Delivery": "1-3 Business days"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:54:18.641Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:54:18.641Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0160/watch"
+   ],
+   "hash": "140b5de4864aad6b"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0160/watch",
+   "name": "watch",
+   "url": "https://cornichewatches.com/product-category/watch/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

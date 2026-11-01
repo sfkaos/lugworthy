@@ -1,0 +1,519 @@
+{
+ "brandId": "BRD-0874",
+ "brandName": "DÉDALE",
+ "website": "https://www.dedale-watch.com",
+ "crawledAt": "2026-11-01T06:58:26.225Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.dedale-watch.com/cdn/shop/files/logo-montres-dedale-bleu-abyssal.png?v=1774775780",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.dedale-watch.com/"
+ },
+ "attribution": "Images © DÉDALE, from dedale-watch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0874/wp-01-papa",
+   "name": "WP-01 PAPA",
+   "url": "https://www.dedale-watch.com/products/wp-01-papa",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-papa.webp?v=1775209736",
+    "width": 1700,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-papa.webp?v=1775209736",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-papa-wingsteel.webp?v=1775209807",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-papa-side.webp?v=1775209911",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/waypoint-wp-01-papa-wingsteel.webp?v=1775933358",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-papa-elegant.jpg?v=1789892273",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/papa-wingsteel.gif?v=1792047336",
+     "width": 540,
+     "height": 540
+    }
+   ],
+   "priceMinor": 175000,
+   "currency": "EUR",
+   "availability": "preorder",
+   "description": ".dw-table { width: 100%; border-collapse: collapse; font-size: 14px; line-height: normal; } .dw-table td { padding: 8px 16px; border-bottom: 1px solid #e0e0e0; } .dw-table td:first-child { border-right: 1px solid #e0e0e0; } .dw-details { border: 1px solid #e0e0e0; margin-top: 20px; font-size: 14px; line-height: normal; } .dw-details summary { padding: 8px 16px; cursor: pointer; font-weight: bold; list-style: none; display: flex; align-items: center; justify-content: space-between; user-select: none; } .dw-details[data-open] summary { border-bottom: 1px solid #e0e0e0; } .dw-details summary:hover { background-color: #eeeeee; } .dw-details summary::after { content: '▼'; transition: transform 0.3s ease; display: inline-block; } .dw-details[data-open] summary::after { transform: rotate(180deg); } .dw-details .dw-table tr:last-child td { border-bottom: none; } .dw-details-body { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.35s ease; } .dw-details[data-open] .dw-details-body { grid-template-rows: 1fr; } .dw-details-body-inner { overflow: hidden; } DIAMÈTRE 39 mm CADRAN Argenté brossé / émail VERRE Saphir double dôme MOUVEMENT Automatique TMI NE86 ÉTANCHÉITÉ 10 bar 299,2 inHg 10 132,5 hPa 10 atm 100 m 145 psi ASSEMBLAGE France ÉDITION LIMITÉE 150 exemplaires numérotés DÉTAILS SUPER-LUMINOVA® C3 Grade X2 ANTIREFLET SAPHIR Légèrement bleuté LUNETTE Bidirectionnelle 60 clics INSERT DE LUNETTE Saphir COURONNE Vissée RÉSISTANCE AU MAGNÉTISME ISO 764-2020 RÉSERVE DE MARCHE &gt; 45 heures document.querySelectorAll('.dw-details').forEach(function(details) { var summary = details.querySelector('summary'); var body = details.querySelector('.dw-details-body'); if (!summary || !body) return; // S'assurer que open reste toujours présent (contenu visible dans le DOM) // L'état ouvert/fermé est géré uniquement par data-open via CSS grid details.setAttribute('open', ''); var animating = false; summary.addEventListener('click', function(e) { e.preventDefault(); if (animating) return; animating = true; if (details.hasAttribute('data-open')) { // Fermeture body.style.gridTemplateRows = '0fr'; body.addEventListener('transitionend', function handler() { body.removeEventListener('transitionend', handler); details.removeAttribute('data-open'); body.style.gridTemplateRows = ''; animating = false; }); } else { // Ouverture details.setAttribute('data-open', ''); void body.offsetHeight; body.addEventListener('transitionend', function handler() { body.removeEventListener('transitionend', handler); animating = false; }); } }); }); .dw-waterproofing-row { cursor: default; } .dw-waterproofing-row td:last-child { overflow: hidden; } .dw-waterproofing-trigger { display: block; position: relative; width: 100%; height: 20px; line-height: 20px; overflow: hidden; } .dw-waterproofing-propeller { position: relative; display: inline-block; width: 120px; height: 20px; vertical-align: top; transform-origin: -32px 10px; transform: rotate(0deg); transition: transform 0.48s cubic-bezier(0.22, 0.61, 0.36, 1); } .dw-waterproofing-blade { position: absolute; left: 0; top: 0; width: 90px; height: 20px; display: flex; align-items: center; justify-content: flex-start; padding: 0; margin: 0; line-height: 20px; white-space: nowrap; transform-origin: -32px 10px; backface-visibility: hidden; -webkit-backface-visibility: hidden; } .dw-waterproofing-blade-1 { transform: rotate(0deg); } .dw-waterproofing-blade-2 { transform: rotate(60deg); } .dw-waterproofing-blade-3 { transform: rotate(120deg); } .dw-waterproofing-blade-4 { transform: rotate(180deg); } .dw-waterproofing-blade-5 { transform: rotate(240deg); } .dw-waterproofing-blade-6 { transform: rotate(300deg); } @media (prefers-reduced-motion: reduce) { .dw-waterproofing-propeller { transition: none; } } document.querySelectorAll('.dw-waterproofing-row').forEach(function(row) { var propeller = row.querySelector('.dw-waterproofing-propeller'); if (!propeller) return; var timer = null; var initialTimer = null; va",
+   "productType": "Chronoscope",
+   "tags": [],
+   "options": [
+    {
+     "name": "Choix du bracelet",
+     "values": [
+      "Cuir noir italien",
+      "WingSteel"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir noir italien",
+     "sku": null,
+     "priceMinor": 175000,
+     "compareAtMinor": 195000,
+     "available": true,
+     "options": [
+      "Cuir noir italien"
+     ]
+    },
+    {
+     "title": "WingSteel",
+     "sku": null,
+     "priceMinor": 199900,
+     "compareAtMinor": 219900,
+     "available": true,
+     "options": [
+      "WingSteel"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 45,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "DIAMÈTRE": "39 mm",
+    "CADRAN": "Argenté brossé / émail",
+    "VERRE": "Saphir double dôme",
+    "MOUVEMENT": "Automatique TMI NE86",
+    "ÉTANCHÉITÉ": "10 bar 299,2 inHg 10 132,5 hPa 10 atm 100 m 145 psi",
+    "ASSEMBLAGE": "France",
+    "ÉDITION LIMITÉE": "150 exemplaires numérotés",
+    "ANTIREFLET SAPHIR": "Légèrement bleuté",
+    "LUNETTE": "Bidirectionnelle 60 clics",
+    "INSERT DE LUNETTE": "Saphir",
+    "COURONNE": "Vissée",
+    "RÉSISTANCE AU MAGNÉTISME": "ISO 764-2020",
+    "RÉSERVE DE MARCHE": "> 45 heures",
+    "Un instrument de prise de décision": ".",
+    "Hors Union Européenne": "frais de livraison en sus calculés au moment de passer la commande."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:58:26.225Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:58:26.225Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0874/montre-pilote"
+   ],
+   "hash": "5ddbbc443b833e70"
+  },
+  {
+   "id": "BRD-0874/wp-01-sidus",
+   "name": "WP-01 SIDUS",
+   "url": "https://www.dedale-watch.com/products/wp-01-sidus",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-sidus.webp?v=1775209975",
+    "width": 1700,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-sidus.webp?v=1775209975",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-sidus-wingsteel.webp?v=1775210039",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-sidus-side.webp?v=1775210155",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/waypoint-wp-01-sidus-wingsteel.webp?v=1775933318",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-sidus-meteorite-cuir.jpg?v=1775551440",
+     "width": 1700,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 199900,
+   "currency": "EUR",
+   "availability": "preorder",
+   "description": ".dw-table { width: 100%; border-collapse: collapse; font-size: 14px; line-height: normal; } .dw-table td { padding: 8px 16px; border-bottom: 1px solid #e0e0e0; } .dw-table td:first-child { border-right: 1px solid #e0e0e0; } .dw-details { border: 1px solid #e0e0e0; margin-top: 20px; font-size: 14px; line-height: normal; } .dw-details summary { padding: 8px 16px; cursor: pointer; font-weight: bold; list-style: none; display: flex; align-items: center; justify-content: space-between; user-select: none; } .dw-details[data-open] summary { border-bottom: 1px solid #e0e0e0; } .dw-details summary:hover { background-color: #eeeeee; } .dw-details summary::after { content: '▼'; transition: transform 0.3s ease; display: inline-block; } .dw-details[data-open] summary::after { transform: rotate(180deg); } .dw-details .dw-table tr:last-child td { border-bottom: none; } .dw-details-body { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.35s ease; } .dw-details[data-open] .dw-details-body { grid-template-rows: 1fr; } .dw-details-body-inner { overflow: hidden; } DIAMÈTRE 39 mm CADRAN Météorite / émail VERRE Saphir double dôme MOUVEMENT Automatique TMI NE86 ÉTANCHÉITÉ 10 bar 299,2 inHg 10 132,5 hPa 10 atm 100 m 145 psi ASSEMBLAGE France ÉDITION LIMITÉE 30 exemplaires numérotés DÉTAILS SUPER-LUMINOVA® C3 Grade X2 ANTIREFLET SAPHIR Légèrement bleuté LUNETTE Bidirectionnelle 60 clics INSERT DE LUNETTE Saphir COURONNE Vissée RÉSISTANCE AU MAGNÉTISME ISO 764-2020 RÉSERVE DE MARCHE &gt; 45 heures document.querySelectorAll('.dw-details').forEach(function(details) { var summary = details.querySelector('summary'); var body = details.querySelector('.dw-details-body'); if (!summary || !body) return; // S'assurer que open reste toujours présent (contenu visible dans le DOM) // L'état ouvert/fermé est géré uniquement par data-open via CSS grid details.setAttribute('open', ''); var animating = false; summary.addEventListener('click', function(e) { e.preventDefault(); if (animating) return; animating = true; if (details.hasAttribute('data-open')) { // Fermeture body.style.gridTemplateRows = '0fr'; body.addEventListener('transitionend', function handler() { body.removeEventListener('transitionend', handler); details.removeAttribute('data-open'); body.style.gridTemplateRows = ''; animating = false; }); } else { // Ouverture details.setAttribute('data-open', ''); void body.offsetHeight; body.addEventListener('transitionend', function handler() { body.removeEventListener('transitionend', handler); animating = false; }); } }); }); .dw-waterproofing-row { cursor: default; } .dw-waterproofing-row td:last-child { overflow: hidden; } .dw-waterproofing-trigger { display: block; position: relative; width: 100%; height: 20px; line-height: 20px; overflow: hidden; } .dw-waterproofing-propeller { position: relative; display: inline-block; width: 120px; height: 20px; vertical-align: top; transform-origin: -32px 10px; transform: rotate(0deg); transition: transform 0.48s cubic-bezier(0.22, 0.61, 0.36, 1); } .dw-waterproofing-blade { position: absolute; left: 0; top: 0; width: 90px; height: 20px; display: flex; align-items: center; justify-content: flex-start; padding: 0; margin: 0; line-height: 20px; white-space: nowrap; transform-origin: -32px 10px; backface-visibility: hidden; -webkit-backface-visibility: hidden; } .dw-waterproofing-blade-1 { transform: rotate(0deg); } .dw-waterproofing-blade-2 { transform: rotate(60deg); } .dw-waterproofing-blade-3 { transform: rotate(120deg); } .dw-waterproofing-blade-4 { transform: rotate(180deg); } .dw-waterproofing-blade-5 { transform: rotate(240deg); } .dw-waterproofing-blade-6 { transform: rotate(300deg); } @media (prefers-reduced-motion: reduce) { .dw-waterproofing-propeller { transition: none; } } document.querySelectorAll('.dw-waterproofing-row').forEach(function(row) { var propeller = row.querySelector('.dw-waterproofing-propeller'); if (!propeller) return; var timer = null; var initialTimer = null; var angl",
+   "productType": "Chronoscope",
+   "tags": [],
+   "options": [
+    {
+     "name": "Choix du bracelet",
+     "values": [
+      "Cuir noir italien",
+      "WingSteel"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir noir italien",
+     "sku": null,
+     "priceMinor": 199900,
+     "compareAtMinor": 228000,
+     "available": true,
+     "options": [
+      "Cuir noir italien"
+     ]
+    },
+    {
+     "title": "WingSteel",
+     "sku": null,
+     "priceMinor": 224900,
+     "compareAtMinor": 253000,
+     "available": true,
+     "options": [
+      "WingSteel"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 45,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "DIAMÈTRE": "39 mm",
+    "CADRAN": "Météorite / émail",
+    "VERRE": "Saphir double dôme",
+    "MOUVEMENT": "Automatique TMI NE86",
+    "ÉTANCHÉITÉ": "10 bar 299,2 inHg 10 132,5 hPa 10 atm 100 m 145 psi",
+    "ASSEMBLAGE": "France",
+    "ÉDITION LIMITÉE": "30 exemplaires numérotés",
+    "ANTIREFLET SAPHIR": "Légèrement bleuté",
+    "LUNETTE": "Bidirectionnelle 60 clics",
+    "INSERT DE LUNETTE": "Saphir",
+    "COURONNE": "Vissée",
+    "RÉSISTANCE AU MAGNÉTISME": "ISO 764-2020",
+    "RÉSERVE DE MARCHE": "> 45 heures",
+    "Un instrument de prise de décision": ".",
+    "Hors Union Européenne": "frais de livraison en sus calculés au moment de passer la commande."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:58:26.225Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:58:26.225Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0874/montre-pilote"
+   ],
+   "hash": "ce53bf002a8260d0"
+  },
+  {
+   "id": "BRD-0874/wp-01-november",
+   "name": "WP-01 NOVEMBER",
+   "url": "https://www.dedale-watch.com/products/wp-01-november",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-november.webp?v=1775209566",
+    "width": 1700,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-november.webp?v=1775209566",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-november-wingsteel.webp?v=1775209675",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/dedale-waypoint-november-side.webp?v=1775064970",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-november-bracelet-cuir.webp?v=1775064970",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/waypoint-wp-01-november-wingsteel.webp?v=1775933377",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-november-close-up.gif?v=1791283303",
+     "width": 540,
+     "height": 540
+    }
+   ],
+   "priceMinor": 175000,
+   "currency": "EUR",
+   "availability": "preorder",
+   "description": ".dw-table { width: 100%; border-collapse: collapse; font-size: 14px; line-height: normal; } .dw-table td { padding: 8px 16px; border-bottom: 1px solid #e0e0e0; } .dw-table td:first-child { border-right: 1px solid #e0e0e0; } .dw-details { border: 1px solid #e0e0e0; margin-top: 20px; font-size: 14px; line-height: normal; } .dw-details summary { padding: 8px 16px; cursor: pointer; font-weight: bold; list-style: none; display: flex; align-items: center; justify-content: space-between; user-select: none; } .dw-details[data-open] summary { border-bottom: 1px solid #e0e0e0; } .dw-details summary:hover { background-color: #eeeeee; } .dw-details summary::after { content: '▼'; transition: transform 0.3s ease; display: inline-block; } .dw-details[data-open] summary::after { transform: rotate(180deg); } .dw-details .dw-table tr:last-child td { border-bottom: none; } .dw-details-body { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.35s ease; } .dw-details[data-open] .dw-details-body { grid-template-rows: 1fr; } .dw-details-body-inner { overflow: hidden; } DIAMÈTRE 39 mm CADRAN Noir solleillé satiné VERRE Saphir double dôme MOUVEMENT Automatique TMI NE86 ÉTANCHÉITÉ 10 bar 299,2 inHg 10 132,5 hPa 10 atm 100 m 145 psi ASSEMBLAGE France ÉDITION LIMITÉE 150 exemplaires numérotés DÉTAILS SUPER-LUMINOVA® C3 Grade X2 ANTIREFLET SAPHIR Légèrement bleuté LUNETTE Bidirectionnelle 60 clics INSERT DE LUNETTE Saphir COURONNE Vissée RÉSISTANCE AU MAGNÉTISME ISO 764-2020 RÉSERVE DE MARCHE &gt; 45 heures document.querySelectorAll('.dw-details').forEach(function(details) { var summary = details.querySelector('summary'); var body = details.querySelector('.dw-details-body'); if (!summary || !body) return; // S'assurer que open reste toujours présent (contenu visible dans le DOM) // L'état ouvert/fermé est géré uniquement par data-open via CSS grid details.setAttribute('open', ''); var animating = false; summary.addEventListener('click', function(e) { e.preventDefault(); if (animating) return; animating = true; if (details.hasAttribute('data-open')) { // Fermeture body.style.gridTemplateRows = '0fr'; body.addEventListener('transitionend', function handler() { body.removeEventListener('transitionend', handler); details.removeAttribute('data-open'); body.style.gridTemplateRows = ''; animating = false; }); } else { // Ouverture details.setAttribute('data-open', ''); void body.offsetHeight; body.addEventListener('transitionend', function handler() { body.removeEventListener('transitionend', handler); animating = false; }); } }); }); .dw-waterproofing-row { cursor: default; } .dw-waterproofing-row td:last-child { overflow: hidden; } .dw-waterproofing-trigger { display: block; position: relative; width: 100%; height: 20px; line-height: 20px; overflow: hidden; } .dw-waterproofing-propeller { position: relative; display: inline-block; width: 120px; height: 20px; vertical-align: top; transform-origin: -32px 10px; transform: rotate(0deg); transition: transform 0.48s cubic-bezier(0.22, 0.61, 0.36, 1); } .dw-waterproofing-blade { position: absolute; left: 0; top: 0; width: 90px; height: 20px; display: flex; align-items: center; justify-content: flex-start; padding: 0; margin: 0; line-height: 20px; white-space: nowrap; transform-origin: -32px 10px; backface-visibility: hidden; -webkit-backface-visibility: hidden; } .dw-waterproofing-blade-1 { transform: rotate(0deg); } .dw-waterproofing-blade-2 { transform: rotate(60deg); } .dw-waterproofing-blade-3 { transform: rotate(120deg); } .dw-waterproofing-blade-4 { transform: rotate(180deg); } .dw-waterproofing-blade-5 { transform: rotate(240deg); } .dw-waterproofing-blade-6 { transform: rotate(300deg); } @media (prefers-reduced-motion: reduce) { .dw-waterproofing-propeller { transition: none; } } document.querySelectorAll('.dw-waterproofing-row').forEach(function(row) { var propeller = row.querySelector('.dw-waterproofing-propeller'); if (!propeller) return; var timer = null; var initialTimer = null; var",
+   "productType": "Chronoscope",
+   "tags": [],
+   "options": [
+    {
+     "name": "Choix du bracelet",
+     "values": [
+      "Cuir noir italien",
+      "WingSteel"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir noir italien",
+     "sku": null,
+     "priceMinor": 175000,
+     "compareAtMinor": 195000,
+     "available": true,
+     "options": [
+      "Cuir noir italien"
+     ]
+    },
+    {
+     "title": "WingSteel",
+     "sku": null,
+     "priceMinor": 199900,
+     "compareAtMinor": 219900,
+     "available": true,
+     "options": [
+      "WingSteel"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 45,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "DIAMÈTRE": "39 mm",
+    "CADRAN": "Noir solleillé satiné",
+    "VERRE": "Saphir double dôme",
+    "MOUVEMENT": "Automatique TMI NE86",
+    "ÉTANCHÉITÉ": "10 bar 299,2 inHg 10 132,5 hPa 10 atm 100 m 145 psi",
+    "ASSEMBLAGE": "France",
+    "ÉDITION LIMITÉE": "150 exemplaires numérotés",
+    "ANTIREFLET SAPHIR": "Légèrement bleuté",
+    "LUNETTE": "Bidirectionnelle 60 clics",
+    "INSERT DE LUNETTE": "Saphir",
+    "COURONNE": "Vissée",
+    "RÉSISTANCE AU MAGNÉTISME": "ISO 764-2020",
+    "RÉSERVE DE MARCHE": "> 45 heures",
+    "Un instrument de prise de décision": ".",
+    "Hors Union Européenne": "frais de livraison en sus calculés au moment de passer la commande."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:58:26.225Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:58:26.225Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0874/montre-pilote"
+   ],
+   "hash": "e5f0408fee90c476"
+  },
+  {
+   "id": "BRD-0874/wp-01-alfa-zulu",
+   "name": "WP-01 ALFA ZULU",
+   "url": "https://www.dedale-watch.com/products/wp-01-alfa-zulu",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-alfa-zulu.webp?v=1775209579",
+    "width": 1700,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-alfa-zulu.webp?v=1775209579",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-alfa-zulu-wingsteel.webp?v=1775209611",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/waypoint-wp-01-alfa-zulu-side.webp?v=1776850746",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-alfa-zulu-vintage.jpg?v=1775064499",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/wp-01-alfa-zulu-bombardier.jpg?v=1775064499",
+     "width": 1700,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/files/waypoint-wp-01-alfa-zulu-wingsteel.webp?v=1775551455",
+     "width": 1700,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 175000,
+   "currency": "EUR",
+   "availability": "preorder",
+   "description": ".dw-table { width: 100%; border-collapse: collapse; font-size: 14px; line-height: normal; } .dw-table td { padding: 8px 16px; border-bottom: 1px solid #e0e0e0; } .dw-table td:first-child { border-right: 1px solid #e0e0e0; } .dw-details { border: 1px solid #e0e0e0; margin-top: 20px; font-size: 14px; line-height: normal; } .dw-details summary { padding: 8px 16px; cursor: pointer; font-weight: bold; list-style: none; display: flex; align-items: center; justify-content: space-between; user-select: none; } .dw-details[data-open] summary { border-bottom: 1px solid #e0e0e0; } .dw-details summary:hover { background-color: #eeeeee; } .dw-details summary::after { content: '▼'; transition: transform 0.3s ease; display: inline-block; } .dw-details[data-open] summary::after { transform: rotate(180deg); } .dw-details .dw-table tr:last-child td { border-bottom: none; } .dw-details-body { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.35s ease; } .dw-details[data-open] .dw-details-body { grid-template-rows: 1fr; } .dw-details-body-inner { overflow: hidden; } DIAMÈTRE 39 mm CADRAN Grainé - marron dégradé fait main VERRE Saphir double dôme MOUVEMENT Automatique TMI NE86 ÉTANCHÉITÉ 10 bar 299,2 inHg 10 132,5 hPa 10 atm 100 m 145 psi ASSEMBLAGE France ÉDITION LIMITÉE 150 exemplaires numérotés DÉTAILS SUPER-LUMINOVA® \"Old Radium\" Grade X1 ANTIREFLET SAPHIR Incolore LUNETTE Bidirectionnelle 60 clics INSERT DE LUNETTE Saphir COURONNE Vissée RÉSISTANCE AU MAGNÉTISME ISO 764-2020 RÉSERVE DE MARCHE &gt; 45 heures document.querySelectorAll('.dw-details').forEach(function(details) { var summary = details.querySelector('summary'); var body = details.querySelector('.dw-details-body'); if (!summary || !body) return; // S'assurer que open reste toujours présent (contenu visible dans le DOM) // L'état ouvert/fermé est géré uniquement par data-open via CSS grid details.setAttribute('open', ''); var animating = false; summary.addEventListener('click', function(e) { e.preventDefault(); if (animating) return; animating = true; if (details.hasAttribute('data-open')) { // Fermeture body.style.gridTemplateRows = '0fr'; body.addEventListener('transitionend', function handler() { body.removeEventListener('transitionend', handler); details.removeAttribute('data-open'); body.style.gridTemplateRows = ''; animating = false; }); } else { // Ouverture details.setAttribute('data-open', ''); void body.offsetHeight; body.addEventListener('transitionend', function handler() { body.removeEventListener('transitionend', handler); animating = false; }); } }); }); .dw-waterproofing-row { cursor: default; } .dw-waterproofing-row td:last-child { overflow: hidden; } .dw-waterproofing-trigger { display: block; position: relative; width: 100%; height: 20px; line-height: 20px; overflow: hidden; } .dw-waterproofing-propeller { position: relative; display: inline-block; width: 120px; height: 20px; vertical-align: top; transform-origin: -32px 10px; transform: rotate(0deg); transition: transform 0.48s cubic-bezier(0.22, 0.61, 0.36, 1); } .dw-waterproofing-blade { position: absolute; left: 0; top: 0; width: 90px; height: 20px; display: flex; align-items: center; justify-content: flex-start; padding: 0; margin: 0; line-height: 20px; white-space: nowrap; transform-origin: -32px 10px; backface-visibility: hidden; -webkit-backface-visibility: hidden; } .dw-waterproofing-blade-1 { transform: rotate(0deg); } .dw-waterproofing-blade-2 { transform: rotate(60deg); } .dw-waterproofing-blade-3 { transform: rotate(120deg); } .dw-waterproofing-blade-4 { transform: rotate(180deg); } .dw-waterproofing-blade-5 { transform: rotate(240deg); } .dw-waterproofing-blade-6 { transform: rotate(300deg); } @media (prefers-reduced-motion: reduce) { .dw-waterproofing-propeller { transition: none; } } document.querySelectorAll('.dw-waterproofing-row').forEach(function(row) { var propeller = row.querySelector('.dw-waterproofing-propeller'); if (!propeller) return; var timer = null; var initialTime",
+   "productType": "Chronoscope",
+   "tags": [],
+   "options": [
+    {
+     "name": "Choix du bracelet",
+     "values": [
+      "Marron cuir italien",
+      "WingSteel"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Marron cuir italien",
+     "sku": null,
+     "priceMinor": 175000,
+     "compareAtMinor": 195000,
+     "available": true,
+     "options": [
+      "Marron cuir italien"
+     ]
+    },
+    {
+     "title": "WingSteel",
+     "sku": null,
+     "priceMinor": 199900,
+     "compareAtMinor": 219900,
+     "available": true,
+     "options": [
+      "WingSteel"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 45,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "DIAMÈTRE": "39 mm",
+    "CADRAN": "Grainé - marron dégradé fait main",
+    "VERRE": "Saphir double dôme",
+    "MOUVEMENT": "Automatique TMI NE86",
+    "ÉTANCHÉITÉ": "10 bar 299,2 inHg 10 132,5 hPa 10 atm 100 m 145 psi",
+    "ASSEMBLAGE": "France",
+    "ÉDITION LIMITÉE": "150 exemplaires numérotés",
+    "ANTIREFLET SAPHIR": "Incolore",
+    "LUNETTE": "Bidirectionnelle 60 clics",
+    "INSERT DE LUNETTE": "Saphir",
+    "COURONNE": "Vissée",
+    "RÉSISTANCE AU MAGNÉTISME": "ISO 764-2020",
+    "RÉSERVE DE MARCHE": "> 45 heures",
+    "Un instrument de prise de décision": ".",
+    "Hors Union Européenne": "frais de livraison en sus calculés au moment de passer la commande."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:58:26.225Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:58:26.225Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0874/montre-pilote"
+   ],
+   "hash": "87182983b8190c8b"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0874/montre-pilote",
+   "name": "WAYPOINT",
+   "url": "https://www.dedale-watch.com/collections/montre-pilote",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0984/4267/4551/collections/waypoint-7794667.jpg?v=1774896398",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

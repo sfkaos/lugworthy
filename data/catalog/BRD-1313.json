@@ -1,0 +1,731 @@
+{
+ "brandId": "BRD-1313",
+ "brandName": "Sphaera",
+ "website": "https://www.sphaerawatchco.com",
+ "crawledAt": "2026-11-01T08:33:42.590Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.sphaerawatchco.com/cdn/shop/files/Sphaera_horizontal_Logo_black.png?v=1707902556",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.sphaerawatchco.com/"
+ },
+ "attribution": "Images © Sphaera, from sphaerawatchco.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1313/meridian",
+   "name": "Meridian",
+   "url": "https://www.sphaerawatchco.com/products/meridian",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Meridian-1.jpg?v=1728128998",
+    "width": 2160,
+    "height": 2160
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Meridian-1.jpg?v=1728128998",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC07309.jpg?v=1728129019",
+     "width": 1728,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC08033_4ac108ea-f72a-48c8-b579-831bd4ce926d.jpg?v=1730149251",
+     "width": 2160,
+     "height": 2700
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/MERIDIAN-3.jpg?v=1728129046",
+     "width": 3996,
+     "height": 3996
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC08040.jpg?v=1730149083",
+     "width": 2160,
+     "height": 2700
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC07301.jpg?v=1728129044",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC07976.jpg?v=1730148999",
+     "width": 2160,
+     "height": 2700
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC07305.jpg?v=1728551278",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC08029.jpg?v=1730149163",
+     "width": 2160,
+     "height": 2700
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC08045_77cbf2f9-8ee5-4992-834a-7ead1eaebf93.jpg?v=1730149230",
+     "width": 2160,
+     "height": 2700
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC07861.jpg?v=1728509057",
+     "width": 2160,
+     "height": 2700
+    }
+   ],
+   "priceMinor": 175000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The new Meridian continues the tradition of the field watch within the SPHAERA collection. The tradition of a robust and practical instrument. The dial offers perfect readability and a timeless, straightforward design. The time is immediately recognizable at first glance. The case and the delicate finish of the brushed and polished stainless steel edges bring their own elegant suppleness. The appealing small seconds and the discreet indices help here. The watch's sophistication comes to the fore at second glance. The Meridian is the stereotype of a watch that is brushed for pure functionality and yet stylishly elegant. The perfect companion for any occasion, whether worn with an army jacket or a blazer.",
+   "productType": "Wristwatch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Band color",
+     "values": [
+      "Black",
+      "Gray",
+      "Beige",
+      "Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 175000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Gray",
+     "sku": null,
+     "priceMinor": 175000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray"
+     ]
+    },
+    {
+     "title": "Beige",
+     "sku": null,
+     "priceMinor": 175000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Beige"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 175000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW216",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Case material": "316l Stainless Steel",
+    "Strap": "Handmade finest Goatskin Leather strap",
+    "Band color": "Black Black Gray Beige Green",
+    "Movement": "Swiss Made Sellita SW216 with Decorated Côte de Genève bridges",
+    "Water Resistance": "100 Meters / 10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:33:42.590Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:33:42.590Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1313/meridian",
+    "BRD-1313/new-releases"
+   ],
+   "hash": "7a599e3c3fe3beb7"
+  },
+  {
+   "id": "BRD-1313/rare-editions-blue-moon",
+   "name": "RARE Editions Blue Moon",
+   "url": "https://www.sphaerawatchco.com/products/rare-editions-blue-moon",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Sphaera_EPOCH_Blue-Moon.jpg?v=1774878988",
+    "width": 2160,
+    "height": 2160
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Sphaera_EPOCH_Blue-Moon.jpg?v=1774878988",
+     "width": 2160,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Blue-Moon-wristshot.jpg?v=1724074170",
+     "width": 1080,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC07391.jpg?v=1724074171",
+     "width": 2160,
+     "height": 2700
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/20240420_C1367.00_05_15_22.Still002.jpg?v=1717965205",
+     "width": 3840,
+     "height": 2160
+    }
+   ],
+   "priceMinor": 240833,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Introducing the Blue Moon — a timepiece as unique as the celestial event it honors. Available exclusively for pre-order during the Blue Moon phase (until Wednesday, August 21), this watch is limited to just 10 pieces during this release. The dial is a masterpiece in itself, featuring a stunning sunburst effect created by spinning the dial at low speed while applying a linear brush at high speed. The result is a mesmerizing gradient that transitions from deep dark blue to a soft light blue, capturing the essence of a Blue Moon. This watch not only celebrates the first super moon of the year on August 19 but also makes a striking accessory for any cocktail hour. And here's something extra special—it's Sphaera's very first blue dial, launched on a Blue Monday, under a Blue Moon. Equipped with a high grade in house modified La Joux-Perret Automatic Movement with 70 hours of Power Reserve. Once the Blue Moon fades, so does this opportunity. Next Blue Moon : 31 May 2026",
+   "productType": "Wristwatch",
+   "tags": [
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Next Blue Moon": "31 May 2026"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:33:42.590Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:33:42.590Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1313/new-releases"
+   ],
+   "hash": "31858a5e2990e4a2"
+  },
+  {
+   "id": "BRD-1313/rare-editions-blue-damast",
+   "name": "Rare Editions Blue Damast",
+   "url": "https://www.sphaerawatchco.com/products/rare-editions-blue-damast",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Rare-Editions-Blue-Damast_1_front_e0b2d432-588d-4539-98aa-a07254c28068.jpg?v=1718034358",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Rare-Editions-Blue-Damast_1_front_e0b2d432-588d-4539-98aa-a07254c28068.jpg?v=1718034358",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/RareEditionBlueDamast_Caseback.jpg?v=1718034390",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Rare-Editions-Blue-Damast-Dial-Macro.jpg?v=1718010968",
+     "width": 2160,
+     "height": 2701
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Rare-Edition-Blue-Damast_nubukstrap.jpg?v=1718034390",
+     "width": 3200,
+     "height": 3201
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/RareEditionBlueDamast_Packaging.jpg?v=1718034390",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/RareEditionBlueDamast_Wristshot.jpg?v=1718034390",
+     "width": 960,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Sphaera-Rare-Edition-Hero-Shot.jpg?v=1717968454",
+     "width": 2160,
+     "height": 2700
+    }
+   ],
+   "priceMinor": 405900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "The Blue Damast is the wonderful result of a collaboration with the Salzburger Messerschmiede Duo A. Anglberger & A. Fellner. Each dial has a unique pattern making each watch individual, meaning no two dials are alike. The dial is made out of Damascus Steel, hand-forged out of high quality Austrian tool steel. Hand polishing, etching and tempered coloring gives them their final dark blue/ grey color. The result of long hours of forging and hammering produces around 8 dials, where 3 go to waste during the grinding of the top layer of the dial to just 0.3 mm. Leaving us with a limited run of only 5 pieces. Equipped with a high grade in house modified La Joux-Perret Automatic Movement with 70 hours of Power Reserve. Contact Us for Inquiries",
+   "productType": "Wristwatch",
+   "tags": [
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:33:42.590Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:33:42.590Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1313/new-collection",
+    "BRD-1313/new-releases"
+   ],
+   "hash": "152c423a10f8586d"
+  },
+  {
+   "id": "BRD-1313/epoch-sport-monochrome",
+   "name": "EPOCH Sport Monochrome",
+   "url": "https://www.sphaerawatchco.com/products/epoch-sport-monochrome",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Sport_1.jpg?v=1708941240",
+    "width": 4265,
+    "height": 4266
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Sport_1.jpg?v=1708941240",
+     "width": 4265,
+     "height": 4266
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC05595-3.jpg?v=1717969712",
+     "width": 1728,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Sport_2.jpg?v=1717969751",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Sport_5.jpg?v=1717969751",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Sport_3_2.jpg?v=1717969751",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Sport_4.jpg?v=1717969751",
+     "width": 1000,
+     "height": 1000
+    }
+   ],
+   "priceMinor": 155000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Sphaera EPOCH Sport Monochrome embodies self-confidence and restraint in equal measure. With its aesthetics and strong character, it is the ideal companion. Whether suit or jeans, it simply fits. With its elegance, the EPOCH Sport Monochrome is adaptable and suitable for any occasion.The timeless design is modern, sporty and confident.",
+   "productType": null,
+   "tags": [
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "sailcloth"
+   },
+   "specsRaw": {
+    "Strap": "Hirsch Hybrid Strap with Caoutchouc core and black recycled PET ocean sailcloth",
+    "Water Resistance": "200 Meters / 20 ATM",
+    "Movement": "Swiss Made Automatic STP 1-21, 26 Jewels"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:33:42.590Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:33:42.590Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1313/epoch-sport",
+    "BRD-1313/new-collection",
+    "BRD-1313/new-releases"
+   ],
+   "hash": "0172d9e5e80baae4"
+  },
+  {
+   "id": "BRD-1313/epoch-classic-rusty",
+   "name": "EPOCH Classic Rusty",
+   "url": "https://www.sphaerawatchco.com/products/epoch-classic-rusty",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Classic_1.jpg?v=1708941228",
+    "width": 4265,
+    "height": 4266
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Classic_1.jpg?v=1708941228",
+     "width": 4265,
+     "height": 4266
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC05632.jpg?v=1717969790",
+     "width": 1728,
+     "height": 2160
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Classic_2.jpg?v=1717969830",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Classic_4.jpg?v=1717969830",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/EPOCH-Classic_3.jpg?v=1717969830",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC04934.jpg?v=1709061520",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 155000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "The Sphaera EPOCH Classic stands for rustic charm and authenticity. Its unique industrial aesthetic speaks for itself. An outdoor watch with character and patina for new adventures. With its aged screws and brass hands, the EPOCH Classic Rusty embodies the rugged beauty of the good old times. It is a loving homage to the great innovations in technology.",
+   "productType": null,
+   "tags": [
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Strap": "Handmade Waxed Leather Strap",
+    "Movement": "Swiss Made Automatic STP 1-21, 26 Jewels",
+    "Water Resistance": "200 Meters / 20 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:33:42.590Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:33:42.590Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1313/epoch-classic",
+    "BRD-1313/new-collection",
+    "BRD-1313/new-releases"
+   ],
+   "hash": "abaf6e2fdea8bfa5"
+  },
+  {
+   "id": "BRD-1313/desk-diver-hesalite",
+   "name": "Desk Diver Hesalite",
+   "url": "https://www.sphaerawatchco.com/products/desk-diver-hesalite",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Desk-DIver-Hesalite-2.jpg?v=1709118997",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Desk-DIver-Hesalite-2.jpg?v=1709118997",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/b4bf9a_a314d7c089ee4a8098c707e8fa9e8950_mv2.jpg?v=1709118997",
+     "width": 759,
+     "height": 759
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/b4bf9a_179c55d227144a60bd8b3f60ea43d477_mv2.jpg?v=1709118997",
+     "width": 607,
+     "height": 759
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/IMG_1582_1.jpg?v=1709118997",
+     "width": 3213,
+     "height": 4016
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Desk-Diver-Saphir-4_d0a75037-964a-42ea-acf5-d2580df9344b.jpg?v=1709118997",
+     "width": 1200,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "After two years of intensive development and many discussions among like-minded people, the first watch from our Manufactory saw the light of day. The Desk Diver holds up a mirror to the often so serious watch industry and alludes with a wink to the diver's watches that are usually worn at the desk. But this is where the adventure begins: the Desk Diver allows us to experience the stories that we later tell with pride. This is the last production batch of Desk Divers. 100 pieces produced in total!",
+   "productType": null,
+   "tags": [
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "But this is where the adventure begins": "the Desk Diver allows us to experience the stories that we later tell with pride.",
+    "Strap": "Handmade olive green Rip-Stop Strap",
+    "Water Resistance": "100 Meters / 10 ATM",
+    "Movement": "Swiss Made Automatic STP 1-21, 26 Jewels"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:33:42.590Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:33:42.590Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1313/desk-diver"
+   ],
+   "hash": "8d2fe5ee996748b8"
+  },
+  {
+   "id": "BRD-1313/desk-diver-sapphire",
+   "name": "Desk Diver Sapphire",
+   "url": "https://www.sphaerawatchco.com/products/desk-diver-sapphire",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Desk-Diver-Saphir-1_afd7020b-f5c2-4dcb-a514-db97fc7926a9.jpg?v=1709809007",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Desk-Diver-Saphir-1_afd7020b-f5c2-4dcb-a514-db97fc7926a9.jpg?v=1709809007",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/DSC02794.jpg?v=1709809007",
+     "width": 2160,
+     "height": 2700
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Desk-Diver-Saphir-2.jpg?v=1709809007",
+     "width": 4768,
+     "height": 4768
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Desk-Diver-Saphir-3.jpg?v=1709809007",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/files/Desk-Diver-Saphir-4.jpg?v=1709809007",
+     "width": 1200,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 140000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "After two years of intensive development and many discussions among like-minded people, the first watch from our Manufactory saw the light of day. The Desk Diver holds up a mirror to the often so serious watch industry and alludes with a wink to the diver's watches that are usually worn at the desk. But this is where the adventure begins: the Desk Diver allows us to experience the stories that we later tell with pride. This is the last production batch of Desk Divers. 100 pieces produced in total!",
+   "productType": null,
+   "tags": [
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "But this is where the adventure begins": "the Desk Diver allows us to experience the stories that we later tell with pride.",
+    "SPECIFICATIONS Movement": "Swiss Made Automatic STP 1-21, 26 Jewels",
+    "Strap": "Handmade olive green Rip-Stop Strap",
+    "Water Resistance": "100 Meters / 10 ATM",
+    "Movement": "Swiss Made Automatic STP 1-21, 26 Jewels"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:33:42.590Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:33:42.590Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1313/desk-diver"
+   ],
+   "hash": "69f8693448ec5a27"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1313/desk-diver",
+   "name": "Desk Diver",
+   "url": "https://www.sphaerawatchco.com/collections/desk-diver",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/collections/Desk-Diver-Top-Slideshow-Website.jpg?v=1708609789",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1313/epoch-classic",
+   "name": "EPOCH Classic",
+   "url": "https://www.sphaerawatchco.com/collections/epoch-classic",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/collections/rick-muigo-SX9IouL_qOg-unsplash.jpg?v=1708609769",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1313/epoch-sport",
+   "name": "EPOCH Sport",
+   "url": "https://www.sphaerawatchco.com/collections/epoch-sport",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/collections/non-jSnDp17OQNM-unsplash.jpg?v=1708609758",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1313/meridian",
+   "name": "Meridian",
+   "url": "https://www.sphaerawatchco.com/collections/meridian",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1313/new-collection",
+   "name": "New Collection",
+   "url": "https://www.sphaerawatchco.com/collections/new-collection",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0565/6490/8131/collections/domino-p2WUEFGrAdA-unsplash.jpg?v=1708944764",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1313/new-releases",
+   "name": "New Releases",
+   "url": "https://www.sphaerawatchco.com/collections/new-releases",
+   "description": null,
+   "image": null
+  }
+ ]
+}

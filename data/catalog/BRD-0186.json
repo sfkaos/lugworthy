@@ -1,0 +1,96 @@
+{
+ "brandId": "BRD-0186",
+ "brandName": "Donut Watch Co.",
+ "website": "https://donut.watch",
+ "crawledAt": "2026-11-01T07:02:29.358Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://donut.watch/cdn/shop/files/R0009516_smaller.jpg?v=1793391332",
+  "width": 1200,
+  "height": 629,
+  "kind": "og_image",
+  "sourcePage": "https://donut.watch/"
+ },
+ "attribution": "Images © Donut Watch Co., from donut.watch",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0186/the-jack-o-lantern",
+   "name": "the jack o' lantern",
+   "url": "https://donut.watch/products/the-jack-o-lantern",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1002/2394/2944/files/jol-1.jpg?v=1793369215",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1002/2394/2944/files/jol-1.jpg?v=1793369215",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1002/2394/2944/files/jol-2.jpg?v=1793369215",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1002/2394/2944/files/jol-3.jpg?v=1793369215",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1002/2394/2944/files/jol-4.jpg?v=1793369215",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1002/2394/2944/files/jol-5.jpg?v=1793369215",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1002/2394/2944/files/jol-6.jpg?v=1793369215",
+     "width": 1600,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 64900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:02:29.358Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:02:29.358Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "cf5fd53831a8a96e"
+  }
+ ],
+ "collections": []
+}

@@ -1,0 +1,746 @@
+{
+ "brandId": "BRD-0398",
+ "brandName": "MT&W Watches",
+ "website": "https://mtw.watch",
+ "crawledAt": "2026-11-01T08:01:36.444Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://mtw.watch/cdn/shop/files/Transparent-PNG_3c3b03fd-e25d-4e7e-968c-fc4a938e7a73.png?v=1735223011",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://mtw.watch/"
+ },
+ "attribution": "Images © MT&W Watches, from mtw.watch",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0398/oracle-gmt-zilver",
+   "name": "Oracle GMT Zilver",
+   "url": "https://mtw.watch/products/oracle-gmt-zilver",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_8112.jpg?v=1773985940",
+    "width": 3809,
+    "height": 4769
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_8112.jpg?v=1773985940",
+     "width": 3809,
+     "height": 4769
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_8113.jpg?v=1773985940",
+     "width": 5092,
+     "height": 4163
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_8114.jpg?v=1773985943",
+     "width": 4584,
+     "height": 5101
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_8115.jpg?v=1773985940",
+     "width": 4526,
+     "height": 4482
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_8116.jpg?v=1773985940",
+     "width": 5220,
+     "height": 4218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9402_4f660a00-5f41-4e67-9be8-a0c52049d9ed.jpg?v=1773985939",
+     "width": 3290,
+     "height": 2996
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9966_86aeba99-31b4-4f85-a490-9f9780121748.jpg?v=1773985939",
+     "width": 3014,
+     "height": 3014
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9967_e074ad88-5ed3-439c-bda6-b51d6b034917.jpg?v=1773985939",
+     "width": 3491,
+     "height": 3491
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_8117.jpg?v=1773985940",
+     "width": 3809,
+     "height": 4769
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed with the perfect balance of practicality and ease, the watch comes with a contemporary 40mm bezel diameter and 48mm lug to lug size, making it the ideal accessory for daily wear. At a mere 12mm thickness, it nestles comfortably on your wrist. The Seiko NH34 GMT automatic movement with date ensures dependable and precise timekeeping, making the Oracle GMT the ultimate timepiece for any escapade or event. The sapphire crystal with an anti-reflective coating on the inside guarantees that the watch face remains effortlessly legible, while the sapphire crystal bezel insert adorned with BGW9 Swiss Superluminova numerals enhances its robustness and functionality. Crafted to endure, the Oracle GMT showcases a 316L stainless steel case and bracelet and a micro-adjustment clasp for a secure and snug fit. With a water resistance of up to 200 metres, it is ready to accompany you on all your thrilling adventures. Adorning the Oracle GMT serves as a testament to the abiding allure and splendour of ancient customs. It forges a connection to a rich heritage and culture that continues to captivate and astound us to this day. MOVEMENT Japanese Seiko NH34 GMT Mechanical DIMENSIONS Bezel Width - 40mm excluding crown Case Thickness - 12.6 mm including crystal Lug to Lug - 48mm MATERIALS Case - 316L Stainless Steel CRYSTAL Sapphire Crystal with Anti-Reflective coating Bezel Sapphire Crystal with BGW9 Swiss Superluminova DIAL Black and Silver with BGW9 and Old Radium Swiss Superluminova Bracelet 316L Stainless Steel with Quick-Release system WATER RESISTANCE 20 ATM / 200 Meters WEIGHT 148g WARRANTY 24 Month Warranty from the purchase date",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": 12.6,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Regular Price": "$349.00",
+    "Sale Price": "$349.00",
+    "Unit Price": "/per"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:01:36.444Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:01:36.444Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0398/mt-w"
+   ],
+   "hash": "d15e3dea1cd49dc4"
+  },
+  {
+   "id": "BRD-0398/oracle-gmt-orche",
+   "name": "Oracle GMT Orche",
+   "url": "https://mtw.watch/products/oracle-gmt-orche",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0511.jpg?v=1746250386",
+    "width": 3672,
+    "height": 4394
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0511.jpg?v=1746250386",
+     "width": 3672,
+     "height": 4394
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0512.jpg?v=1746250386",
+     "width": 4616,
+     "height": 4993
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0573.jpg?v=1746250386",
+     "width": 2519,
+     "height": 3114
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9395.jpg?v=1746250386",
+     "width": 3981,
+     "height": 4344
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9400.jpg?v=1746250386",
+     "width": 4260,
+     "height": 3812
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9402.jpg?v=1746250386",
+     "width": 3290,
+     "height": 2996
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9966.jpg?v=1746250386",
+     "width": 3014,
+     "height": 3014
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9967.jpg?v=1746250386",
+     "width": 3491,
+     "height": 3491
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_9968.jpg?v=1746250386",
+     "width": 3211,
+     "height": 3988
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Designed with the perfect balance of practicality and ease, the watch comes with a contemporary 40mm bezel diameter and 48mm lug to lug size, making it the ideal accessory for daily wear. At a mere 12mm thickness, it nestles comfortably on your wrist. The Seiko NH34 GMT automatic movement with date ensures dependable and precise timekeeping, making the Oracle GMT the ultimate timepiece for any escapade or event. The sapphire crystal with an anti-reflective coating on the inside guarantees that the watch face remains effortlessly legible, while the sapphire crystal bezel insert adorned with BGW9 Swiss Superluminova numerals enhances its robustness and functionality. Crafted to endure, the Oracle GMT showcases a 316L stainless steel case and bracelet and a micro-adjustment clasp for a secure and snug fit. With a water resistance of up to 200 metres, it is ready to accompany you on all your thrilling adventures. Adorning the Oracle GMT serves as a testament to the abiding allure and splendour of ancient customs. It forges a connection to a rich heritage and culture that continues to captivate and astound us to this day. MOVEMENT Japanese Seiko NH34 GMT Mechanical DIMENSIONS Bezel Width - 40mm excluding crown Case Thickness - 12.6 mm including crystal Lug to Lug - 48mm MATERIALS Case - 316L Stainless Steel CRYSTAL Sapphire Crystal with Anti-Reflective coating Bezel Sapphire Crystal with Old Radium Swiss Superluminova DIAL Black with Old Radium Swiss Superluminova Bracelet 316L Stainless Steel with Quick-Release system WATER RESISTANCE 20 ATM / 200 Meters WEIGHT 148g WARRANTY 24 Month Warranty from purchase date",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": 12.6,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Regular Price": "$349.00",
+    "Sale Price": "$349.00",
+    "Unit Price": "/per"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:01:36.444Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:01:36.444Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0398/mt-w"
+   ],
+   "hash": "da50ce9633c26d8b"
+  },
+  {
+   "id": "BRD-0398/oracle-gmt-black",
+   "name": "Oracle GMT Black",
+   "url": "https://mtw.watch/products/oracle-gmt-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0560.jpg?v=1742576253",
+    "width": 3518,
+    "height": 3518
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0560.jpg?v=1742576253",
+     "width": 3518,
+     "height": 3518
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/MTW-Oracle-GMT-4.webp?v=1742576253",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0563.jpg?v=1742576253",
+     "width": 3674,
+     "height": 3674
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0561.jpg?v=1742576253",
+     "width": 4597,
+     "height": 4597
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0562.jpg?v=1742576253",
+     "width": 3693,
+     "height": 3693
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0567.jpg?v=1742576253",
+     "width": 2937,
+     "height": 2937
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0564.jpg?v=1742576250",
+     "width": 3014,
+     "height": 3014
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0565.jpg?v=1742576250",
+     "width": 3491,
+     "height": 3491
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/files/IMG_0566.jpg?v=1742576250",
+     "width": 3497,
+     "height": 3497
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed with the perfect balance of practicality and ease, the watch comes with a contemporary 40mm bezel diameter and 48mm lug to lug size, making it the ideal accessory for daily wear. At a mere 12mm thickness, it nestles comfortably on your wrist. The Seiko NH34 GMT automatic movement with date ensures dependable and precise timekeeping, making the Oracle GMT the ultimate timepiece for any escapade or event. The sapphire crystal with an anti-reflective coating on the inside guarantees that the watch face remains effortlessly legible, while the sapphire crystal bezel insert adorned with BGW9 Swiss Superluminova numerals enhances its robustness and functionality. Crafted to endure, the Oracle GMT showcases a 316L stainless steel case and bracelet and a micro-adjustment clasp for a secure and snug fit. With a water resistance of up to 200 metres, it is ready to accompany you on all your thrilling adventures. Adorning the Oracle GMT serves as a testament to the abiding allure and splendour of ancient customs. It forges a connection to a rich heritage and culture that continues to captivate and astound us to this day. MOVEMENT Japanese Seiko NH34 GMT Mechanical DIMENSIONS Bezel Width - 40mm excluding crown Case Thickness - 12.6 mm including crystal Lug to Lug - 48mm MATERIALS Case - 316L Stainless Steel CRYSTAL Sapphire Crystal with Anti-Reflective coating Bezel Sapphire Crystal with BGW9 Swiss Superluminova DIAL Black with BGW9 Swiss Superluminova Bracelet 316L Stainless Steel with Quick-Release system WATER RESISTANCE 20 ATM / 200 Meters WEIGHT 148g WARRANTY 24 Month Warranty from purchase date",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": 12.6,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Regular Price": "$349.00",
+    "Sale Price": "$349.00",
+    "Unit Price": "/per"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:01:36.444Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:01:36.444Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0398/mt-w-oracle-gmt-black",
+    "BRD-0398/mt-w"
+   ],
+   "hash": "fc14347b3e2c5443"
+  },
+  {
+   "id": "BRD-0398/vintage-grey",
+   "name": "MT&W Steel Grey Vintage Chronograph Watch",
+   "url": "https://mtw.watch/products/vintage-grey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/blackwatchblackbandfront.jpg?v=1663296033",
+    "width": 3500,
+    "height": 3499
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/blackwatchblackbandfront.jpg?v=1663296033",
+     "width": 3500,
+     "height": 3499
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/blackwatchblackbandside.jpg?v=1663296034",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/blackwatchblackbandflat.jpg?v=1663296034",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/blackwatchblackbandback.jpg?v=1663296034",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/IMG_4003resize.png?v=1664948679",
+     "width": 2766,
+     "height": 4150
+    }
+   ],
+   "priceMinor": 24800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Steel Grey watch is designed as a love letter to the vintage sports timepieces of the 1970s. Engraved with the MT&W emblem, its polished stainless steel case complements the monochrome colourway of its 40mm dial and bezel. The combination of subtle grey tones and bold white markings bring to mind the rev counters and pressure gauges found in classic Formula 1 cockpits.",
+   "productType": null,
+   "tags": [
+    "__tab1:steel-grey-specification"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Regular Price": "$248.00",
+    "Sale Price": "$248.00",
+    "Unit Price": "/per"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:01:36.444Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:01:36.444Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0398/mt-w"
+   ],
+   "hash": "60ff199cd8c65149"
+  },
+  {
+   "id": "BRD-0398/oceanic",
+   "name": "MT&W Oceanic Vintage Chronograph Watch with Unique Patina",
+   "url": "https://mtw.watch/products/oceanic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/bluewatchbrownbandfront.jpg?v=1663295924",
+    "width": 3500,
+    "height": 3501
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/bluewatchbrownbandfront.jpg?v=1663295924",
+     "width": 3500,
+     "height": 3501
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/bluewatchbrownbandside.jpg?v=1663295924",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/bluewatchbrownbandflat.jpg?v=1663295924",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/bluewatchbrownbandback.jpg?v=1664948502",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/IMG-1677_1.jpg?v=1664948502",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/IMG_40063.png?v=1664948501",
+     "width": 3328,
+     "height": 3328
+    }
+   ],
+   "priceMinor": 24800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Oceanic watch is a revival of the timeless sports watch designs of the 1970s. Inspired by the jet-set style of the era, this 40mm chronograph timepiece combines golden subdials with a deep blue backdrop for a nautical theme. Crafted from stainless steel and hardened domed crystal, its vintage design is stamped with the MT&W crest and finished with our unique aged patina effect.",
+   "productType": null,
+   "tags": [
+    "__tab1:oceanic-specification"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Regular Price": "$248.00",
+    "Sale Price": "$248.00",
+    "Unit Price": "/per"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:01:36.444Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:01:36.444Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0398/mt-w"
+   ],
+   "hash": "4ac2006ef515f049"
+  },
+  {
+   "id": "BRD-0398/racing-green",
+   "name": "MT&W Racing Green Vintage Chronograph Watch with Unique Patina",
+   "url": "https://mtw.watch/products/racing_green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greenwatchbrownbandfront.jpg?v=1663295985",
+    "width": 3500,
+    "height": 3499
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greenwatchbrownbandfront.jpg?v=1663295985",
+     "width": 3500,
+     "height": 3499
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greenwatchbrownbandside.jpg?v=1663295986",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greenwatchbrownbandflat.jpg?v=1663295985",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greenwatchbrownbandback.jpg?v=1663295985",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/IMG_42403.heic?v=1664949011",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 24800,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Racing Green watch is a celebration of the golden age of sports timepieces, with a metallic green dial that nods to the vibrant hues of classic 20th-century sports cars. The three subdials add to the vintage aesthetic of the design with our signature aged patina effect, while the 40mm stainless steel case is finished with an engraved MT&W crest.",
+   "productType": null,
+   "tags": [
+    "__tab1:racing-green-specification"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Regular Price": "$248.00",
+    "Sale Price": "$248.00",
+    "Unit Price": "/per"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:01:36.444Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:01:36.444Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0398/mt-w"
+   ],
+   "hash": "68e5122b9856f3fb"
+  },
+  {
+   "id": "BRD-0398/eclipse",
+   "name": "MT&W Eclipse Vintage Chronograph Watch with Unique Patina",
+   "url": "https://mtw.watch/products/eclipse",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/BeigeWatchBlackBandFrontl.jpg?v=1663294932",
+    "width": 3500,
+    "height": 3500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/BeigeWatchBlackBandFrontl.jpg?v=1663294932",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/BeigeWatchBlackBandSide.jpg?v=1663294932",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/BeigeWatchBlackBandFlat.jpg?v=1663294932",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/BeigeWatchBlackBandBack.jpg?v=1663294932",
+     "width": 3500,
+     "height": 3499
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/E3A6291E-EE62-4B3C-8848-FACAEEF1DCB0.jpg?v=1663294932",
+     "width": 700,
+     "height": 775
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/d9edc525-6ed2-4103-b6ac-46cfd248f5682.jpg?v=1664947807",
+     "width": 828,
+     "height": 839
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/MTandW__Time_is_Precious_Modern_Vintage_Watch_2.gif?v=1664947807",
+     "width": 520,
+     "height": 293
+    }
+   ],
+   "priceMinor": 24800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Reminiscent of classic sports timepieces from the 1970s, the Eclipse watch combines vintage details with a striking combination of light and dark tones. Crafted from stainless steel with a hardened crystal lens, it's 40mm design is inspired by the cosmos – contrasting a black bezel and subdials with a golden patina centre and subtle red accents.",
+   "productType": null,
+   "tags": [
+    "__tab1:eclipse-specification"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Regular Price": "$248.00",
+    "Sale Price": "$248.00",
+    "Unit Price": "/per"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:01:36.444Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:01:36.444Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0398/mt-w"
+   ],
+   "hash": "1c3e36ba4146e143"
+  },
+  {
+   "id": "BRD-0398/whitepanda",
+   "name": "MT&W White Panda Vintage Chronograph Watch with Unique Patina",
+   "url": "https://mtw.watch/products/whitepanda",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greywatchbrownbandfront.jpg?v=1663294715",
+    "width": 3500,
+    "height": 3500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greywatchbrownbandfront.jpg?v=1663294715",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greywatchbrownbandside.jpg?v=1663294715",
+     "width": 3500,
+     "height": 3500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greywatchbrownbandflat.jpg?v=1663294715",
+     "width": 4447,
+     "height": 4447
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/greywatchbrownbandback.jpg?v=1663294696",
+     "width": 3500,
+     "height": 3499
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/IMG_5370.jpg?v=1664948863",
+     "width": 4032,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/products/IMG_1378_2_AdobeCreativeCloudExpress.gif?v=1664948887",
+     "width": 534,
+     "height": 748
+    }
+   ],
+   "priceMinor": 24800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The W Panda is our reinterpretation of a classic chronograph design, inspired by the coveted timepieces of the 1970s. Set within a 40mm stainless steel case, its defining feature is its golden dial – which contrasts with the subtle grey tone of its three subdials. The finishing touch is our signature aged patina effect, giving it a true vintage feel.",
+   "productType": null,
+   "tags": [
+    "__tab1:w-panda-specification"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Regular Price": "$248.00",
+    "Sale Price": "$248.00",
+    "Unit Price": "/per"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:01:36.444Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:01:36.444Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0398/mt-w"
+   ],
+   "hash": "d68e844057a0cbf9"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0398/mt-w-oracle-gmt-black",
+   "name": "MT&W Oracle GMT Black",
+   "url": "https://mtw.watch/collections/mt-w-oracle-gmt-black",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0593/3498/3873/collections/IMG_0888_3_6a9d7816-9948-4599-be68-ff0dc550c592.png?v=1735224913",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0398/mt-w",
+   "name": "MT&W Watches",
+   "url": "https://mtw.watch/collections/mt-w",
+   "description": null,
+   "image": null
+  }
+ ]
+}

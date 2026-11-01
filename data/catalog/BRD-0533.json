@@ -1,0 +1,4436 @@
+{
+ "brandId": "BRD-0533",
+ "brandName": "Studio Underd0g",
+ "website": "https://underd0g.com",
+ "crawledAt": "2026-11-01T08:34:55.480Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://underd0g.com/cdn/shop/files/20250903_Studio_Underd0g_Social_Share.jpg?v=1756913767",
+  "width": 1200,
+  "height": 628,
+  "kind": "og_image",
+  "sourcePage": "https://underd0g.com/"
+ },
+ "attribution": "Images © Studio Underd0g, from underd0g.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0533/02cbb",
+   "name": "Cali Blue (Gen2)",
+   "url": "https://underd0g.com/products/02cbb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02CBB_Product_Card.png?v=1790869437",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02CBB_Product_Card.png?v=1790869437",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Hacking seconds, for 1 Hacker Way.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02CBB_G2_M_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02CBB_G2_S_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02CBB_G2_L_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e1ec76ba51e33f54"
+  },
+  {
+   "id": "BRD-0533/herb-suede",
+   "name": "Herb Washed Suede",
+   "url": "https://underd0g.com/products/herb-suede",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Herb_Strap-Product-Card.png?v=1788265768",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Herb_Strap-Product-Card.png?v=1788265768",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "02SERIES",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02HERB-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02HERB-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02HERB-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-straps"
+   ],
+   "hash": "ba383c98a0e660b2"
+  },
+  {
+   "id": "BRD-0533/02mahe-ea",
+   "name": "Mantis (Gen2) Exclusive Access",
+   "url": "https://underd0g.com/products/02mahe_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAHE_Product_Card.png?v=1787237217",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAHE_Product_Card.png?v=1787237217",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "What’s green and goes tick in the night?",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02MAHE_G2_M_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02MAHE_G2_S_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02MAHE_G2_L_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "39c9f78076721566"
+  },
+  {
+   "id": "BRD-0533/02mahe",
+   "name": "Mantis (Gen2)",
+   "url": "https://underd0g.com/products/02mahe",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAHE_Product_Card.png?v=1787237217",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAHE_Product_Card.png?v=1787237217",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "What’s green and goes tick in the night?",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02MAHE_G2_M",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02MAHE_G2_S",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02MAHE_G2_L",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b4de5eac03ba90ca"
+  },
+  {
+   "id": "BRD-0533/02nibu-ea",
+   "name": "Nightshade (Gen2) Exclusive Access",
+   "url": "https://underd0g.com/products/02nibu_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02NIBU_FRONT.png?v=1782986031",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02NIBU_FRONT.png?v=1782986031",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A purple heart, on your sleeve.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02NIBU_G2_M_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02NIBU_G2_S_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02NIBU_G2_L_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-exclusive-access",
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "5852e553c606ac2c"
+  },
+  {
+   "id": "BRD-0533/02rlb-ea",
+   "name": "Red L0lly (Gen2) Exclusive Access",
+   "url": "https://underd0g.com/products/02rlb_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02RLB_FRONT.png?v=1782986031",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02RLB_FRONT.png?v=1782986031",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A cool pop of colour.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02RLB_G2_M_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02RLB_G2_S_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02RLB_G2_L_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-exclusive-access",
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "2ec3012af56528e7"
+  },
+  {
+   "id": "BRD-0533/02sbmi-ea",
+   "name": "Steffany Blue (Gen2) Exclusive Access",
+   "url": "https://underd0g.com/products/02sbmi_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02SBMI_FRONT.png?v=1782986031",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02SBMI_FRONT.png?v=1782986031",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "As iconic as it is ironic.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02SBMI_G2_M_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02SBMI_G2_S_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02SBMI_G2_L_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-exclusive-access",
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "014e2819f7e43b73"
+  },
+  {
+   "id": "BRD-0533/02plcb-ea",
+   "name": "Pink Lem0nade (Gen2) Exclusive Access",
+   "url": "https://underd0g.com/products/02plcb_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02PLCB_FRONT.png?v=1782986031",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02PLCB_FRONT.png?v=1782986031",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A nifty twist of precision, and a distinctively sweet finish.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02PLCB_G2_M_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02PLCB_G2_S_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02PLCB_G2_L_EA",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-exclusive-access",
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "ae7b97a6ebf08c16"
+  },
+  {
+   "id": "BRD-0533/burgundy-gaucho-cowhide",
+   "name": "Burgundy Gaucho Cowhide",
+   "url": "https://underd0g.com/products/burgundy-gaucho-cowhide",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Burgundy_Strap_Product_Card.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Burgundy_Strap_Product_Card.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "02SERIES",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02BURGUNDY-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02BURGUNDY-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02BURGUNDY-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-straps"
+   ],
+   "hash": "67a2401797a4e7ea"
+  },
+  {
+   "id": "BRD-0533/coffee-bean-washed-suede",
+   "name": "Coffee Bean Washed Suede",
+   "url": "https://underd0g.com/products/coffee-bean-washed-suede",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Coffee_Bean_Strap_Product_Card.png?v=1783266757",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Coffee_Bean_Strap_Product_Card.png?v=1783266757",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "02SERIES",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02COFFEE-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02COFFEE-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02COFFEE-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-straps"
+   ],
+   "hash": "1057b4a7cfee77cc"
+  },
+  {
+   "id": "BRD-0533/midnight-washed-suede",
+   "name": "Midnight Washed Suede",
+   "url": "https://underd0g.com/products/midnight-washed-suede",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Midnight_Strap_Product_Card.png?v=1783266742",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Midnight_Strap_Product_Card.png?v=1783266742",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "02SERIES",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02MIDNIGHT-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02MIDNIGHT-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02MIDNIGHT-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-straps"
+   ],
+   "hash": "b64a731f2dabb47c"
+  },
+  {
+   "id": "BRD-0533/02nibu",
+   "name": "Nightshade (Gen2)",
+   "url": "https://underd0g.com/products/02nibu",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02NIBU_FRONT.png?v=1782986031",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02NIBU_FRONT.png?v=1782986031",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A purple heart, on your sleeve.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Core Range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02NIBU_G2_M",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02NIBU_G2_S",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02NIBU_G2_L",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series"
+   ],
+   "hash": "b3a1877c2895ec55"
+  },
+  {
+   "id": "BRD-0533/02rlb",
+   "name": "Red L0lly (Gen2)",
+   "url": "https://underd0g.com/products/02rlb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02RLB_FRONT.png?v=1782986031",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02RLB_FRONT.png?v=1782986031",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A cool pop of colour.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Core Range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02RLB_G2_M",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02RLB_G2_S",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02RLB_G2_L",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series"
+   ],
+   "hash": "a89c6b65aa585e09"
+  },
+  {
+   "id": "BRD-0533/02sbmi",
+   "name": "Steffany Blue (Gen2)",
+   "url": "https://underd0g.com/products/02sbmi",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02SBMI_FRONT.png?v=1782986031",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02SBMI_FRONT.png?v=1782986031",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "As iconic as it is ironic.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Core Range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02SBMI_G2_M",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02SBMI_G2_S",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02SBMI_G2_L",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series"
+   ],
+   "hash": "8f6ec64f98e62cd5"
+  },
+  {
+   "id": "BRD-0533/02plcb",
+   "name": "Pink Lem0nade (Gen2)",
+   "url": "https://underd0g.com/products/02plcb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02PLCB_FRONT.png?v=1782986031",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02PLCB_FRONT.png?v=1782986031",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A nifty twist of precision, and a distinctively sweet finish.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Core Range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02PLCB_G2_M",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02PLCB_G2_S",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02PLCB_G2_L",
+     "priceMinor": 120000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series"
+   ],
+   "hash": "c3bc46906eac3570"
+  },
+  {
+   "id": "BRD-0533/01bpb-ea",
+   "name": "Burnt Pepper0ni (Gen3) Exclusive Access",
+   "url": "https://underd0g.com/products/01bpb_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01BPBBurntPepper0niPizza-LeatherStrap.png?v=1771843174",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01BPBBurntPepper0niPizza-LeatherStrap.png?v=1771843174",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 92500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Thank you for expressing your interest in this product. As a gesture of our gratitude, you have been given Exclusive Access to this password protected product page. Please do not share this access page or password.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01BPB_G3_M_EA",
+     "priceMinor": 92500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01BPB_G3_S_EA",
+     "priceMinor": 92500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01BPB_G3_L_EA",
+     "priceMinor": 92500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/pizza-party-2"
+   ],
+   "hash": "cf062265909c6572"
+  },
+  {
+   "id": "BRD-0533/01mpt-ea",
+   "name": "Classic Cheese (Gen3) Exclusive Access",
+   "url": "https://underd0g.com/products/01mpt_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01MPT_Classic_Cheese_Pizza.png?v=1776074767",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01MPT_Classic_Cheese_Pizza.png?v=1776074767",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 82500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Thank you for expressing your interest in this product. As a gesture of our gratitude, you have been given Exclusive Access to this password protected product page. Please do not share this access page or password.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01MPT_G3_M_EA",
+     "priceMinor": 82500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01MPT_G3_S_EA",
+     "priceMinor": 82500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01MPT_G3_L_EA",
+     "priceMinor": 82500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/pizza-party-2"
+   ],
+   "hash": "670deefb965a9886"
+  },
+  {
+   "id": "BRD-0533/03chb",
+   "name": "Champagne & Caviar",
+   "url": "https://underd0g.com/products/03chb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB_Back.png?v=1762274785",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 220000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A watch worth its salt.",
+   "productType": "Watches",
+   "tags": [
+    "03SERIES"
+   ],
+   "options": [
+    {
+     "name": "Strap size",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "03CHB_M",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "03CHB_S",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "03CHB_L",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "66595c964df8ae63"
+  },
+  {
+   "id": "BRD-0533/03chb-ea",
+   "name": "Champagne & Caviar Exclusive Access",
+   "url": "https://underd0g.com/products/03chb_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB_Back.png?v=1762274785",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 220000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A watch worth its salt.",
+   "productType": "Watches",
+   "tags": [
+    "03SERIES",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "03CHB_M_EA",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "03CHB_S_EA",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "03CHB_L_EA",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "bbeb5bfc8bc5e4dc"
+  },
+  {
+   "id": "BRD-0533/02mig",
+   "name": "The Mim0sa",
+   "url": "https://underd0g.com/products/02mig",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa.png?v=1760435309",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa.png?v=1760435309",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan_Back_fd366176-c761-40a8-994e-5f6259910998.png?v=1760435329",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 130000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "One of Britain's oldest watch companies and one of its youngest have joined forces to create a watch that feels as fresh as it does timeless: The Gimlet.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES"
+   ],
+   "options": [
+    {
+     "name": "Strap size",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02MIG_M",
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02MIG_S",
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02MIG_L",
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/cocktail-collection"
+   ],
+   "hash": "df1f3065bc151114"
+  },
+  {
+   "id": "BRD-0533/02mig-ea",
+   "name": "The Mim0sa Exclusive Access",
+   "url": "https://underd0g.com/products/02mig_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa.png?v=1760435309",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa.png?v=1760435309",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan_Back_fd366176-c761-40a8-994e-5f6259910998.png?v=1760435329",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 130000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "One of Britain's oldest watch companies and one of its youngest have joined forces to create a watch that feels as fresh as it does timeless: The Gimlet.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Strap size",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02MIG_EA_M",
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02MIG_EA_S",
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02MIG_EA_L",
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/cocktail-collection"
+   ],
+   "hash": "187e02dd15aaef5f"
+  },
+  {
+   "id": "BRD-0533/02maox-ea",
+   "name": "The Manhattan Exclusive Access",
+   "url": "https://underd0g.com/products/02maox_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan.png?v=1759159664",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan.png?v=1759159664",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa_Back.png?v=1758535253",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 130000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The 02SERIES Manhattan, limited to just 300 pieces, will be made available exclusively during WindUp Watch Fair NYC 2025 on a first come first serve basis .",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/cocktail-collection"
+   ],
+   "hash": "4df005f21685d2e3"
+  },
+  {
+   "id": "BRD-0533/02gig",
+   "name": "The Gimlet",
+   "url": "https://underd0g.com/products/02gig",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02GIG_Gimlet.png?v=1736768292",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02GIG_Gimlet.png?v=1736768292",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02GIG_Gimlet_Back.png?v=1736768292",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 130000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Gimlet, limited to just 200 pieces, was made available exclusively during British Watchmakers’ Day 2025 on a first come first serve basis . It is now SOLD OUT . The Gimlet marks the first watch in a Cocktail Collection. If you'd like to hear about the expansion of this series, please Express Interest below.",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/cocktail-collection"
+   ],
+   "hash": "b02265c86a63d3fc"
+  },
+  {
+   "id": "BRD-0533/02maox",
+   "name": "The Manhattan",
+   "url": "https://underd0g.com/products/02maox",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan.png?v=1759159664",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan.png?v=1759159664",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa_Back.png?v=1758535253",
+     "width": 2400,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 130000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The 02SERIES Manhattan, limited to just 300 pieces, will be made available exclusively during WindUp Watch Fair NYC 2025 on a first come first serve basis .",
+   "productType": "Watches",
+   "tags": [
+    "02SERIES"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/cocktail-collection"
+   ],
+   "hash": "bfd15b40ad615e12"
+  },
+  {
+   "id": "BRD-0533/black-badalassi-pueblo-calfskin",
+   "name": "Black Badalassi Pueblo Calfskin",
+   "url": "https://underd0g.com/products/black-badalassi-pueblo-calfskin",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Black_Strap_Product_Card.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Black_Strap_Product_Card.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "02SERIES",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02BLACK-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02BLACK-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02BLACK-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-straps"
+   ],
+   "hash": "bbadcb2f1bbb6ec1"
+  },
+  {
+   "id": "BRD-0533/beige-premium-suede-strap-02",
+   "name": "Beige Premium Suede",
+   "url": "https://underd0g.com/products/beige-premium-suede-strap-02",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Beige_Strap_Product_Card.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Beige_Strap_Product_Card.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "02SERIES",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02BEIGE-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02BEIGE-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02BEIGE-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-straps"
+   ],
+   "hash": "8a6c8a42f4d44824"
+  },
+  {
+   "id": "BRD-0533/tan-brown-badalassi-wax-calfskin",
+   "name": "Tan Badalassi Wax Calfskin",
+   "url": "https://underd0g.com/products/tan-brown-badalassi-wax-calfskin",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Brown_Strap_Product_Card.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Brown_Strap_Product_Card.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "02SERIES",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02BROWN-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02BROWN-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02BROWN-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-straps"
+   ],
+   "hash": "05c39e1ef5934ee2"
+  },
+  {
+   "id": "BRD-0533/olive-green-badalassi-wax-calfskin",
+   "name": "Olive Badalassi Wax Calfskin",
+   "url": "https://underd0g.com/products/olive-green-badalassi-wax-calfskin",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Green_Strap_Product_Card.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/18mm_Green_Strap_Product_Card.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "02SERIES",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "02GREEN-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "02GREEN-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "02GREEN-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/02series-straps"
+   ],
+   "hash": "f970c386f713d3c9"
+  },
+  {
+   "id": "BRD-0533/forest-green-epsom-calfskin-strap-01-03",
+   "name": "Forest Green Epsom Calfskin",
+   "url": "https://underd0g.com/products/forest-green-epsom-calfskin-strap-01-03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Forest_Green_Strap_Product_Card.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Forest_Green_Strap_Product_Card.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "01SERIES",
+    "01SERIES (Gen3)",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01GREEN-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01GREEN-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01GREEN-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-straps"
+   ],
+   "hash": "d042ccc38727470c"
+  },
+  {
+   "id": "BRD-0533/black-epsom-calfskin-strap-01-03",
+   "name": "Black Epsom Calfskin",
+   "url": "https://underd0g.com/products/black-epsom-calfskin-strap-01-03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Black_Strap_Product_Card.png?v=1783266758",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Black_Strap_Product_Card.png?v=1783266758",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "01SERIES",
+    "01SERIES (Gen3)",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01BLACK-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01BLACK-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01BLACK-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-straps"
+   ],
+   "hash": "058c40614de0b253"
+  },
+  {
+   "id": "BRD-0533/beige-epsom-calfskin-strap-01-03",
+   "name": "Beige Epsom Calfskin",
+   "url": "https://underd0g.com/products/beige-epsom-calfskin-strap-01-03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Brown_Strap_Product_Card-1.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Brown_Strap_Product_Card-1.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "01SERIES",
+    "01SERIES (Gen3)",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Taper Size | | Taper Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01BEIGE-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01BEIGE-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01BEIGE-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-straps"
+   ],
+   "hash": "125318e49219b2c4"
+  },
+  {
+   "id": "BRD-0533/taupe-epsom-calfskin-strap-01-03",
+   "name": "Taupe Epsom Calfskin",
+   "url": "https://underd0g.com/products/taupe-epsom-calfskin-strap-01-03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Taupe_Strap_Product_Card.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Taupe_Strap_Product_Card.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "01SERIES",
+    "01SERIES (Gen3)",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01TAUPE-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01TAUPE-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01TAUPE-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-straps"
+   ],
+   "hash": "e5b40fa742f231c4"
+  },
+  {
+   "id": "BRD-0533/chocolate-brow-alran-goatskin-strap-01-03",
+   "name": "Chocolate Brown Horween Calfskin",
+   "url": "https://underd0g.com/products/chocolate-brow-alran-goatskin-strap-01-03",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Brown_Strap_Product_Card.png?v=1783266756",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Brown_Strap_Product_Card.png?v=1783266756",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "We've collaborated with The Strap Tailor to create a number of bespoke straps to pair with your new watch! The Strap Tailor's leather is sourced from the best tanneries in the world and is of exceptional quality. These handmade straps come with a signed buckle and feature quick-release spring-bars.",
+   "productType": "Watch Bands",
+   "tags": [
+    "01SERIES",
+    "01SERIES (Gen3)",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01BROWN-TST-Standard",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01BROWN-TST-Small",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01BROWN-TST-Large",
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-straps"
+   ],
+   "hash": "52cc08bad7354de7"
+  },
+  {
+   "id": "BRD-0533/01series-03series-milanese-mesh",
+   "name": "Stainless Steel Milanese Mesh",
+   "url": "https://underd0g.com/products/01series-03series-milanese-mesh",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Mesh_Strap_Product_Card.png?v=1783266755",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/20mm_Mesh_Strap_Product_Card.png?v=1783266755",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 10000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "This high quality Stainless Steel Milanese Mesh strap features quick-release spring bars and has been designed to pair perfectly with your Studio Underd0g Chronograph. To maintain a vintage aesthetic, the Mesh strap tapers from 20mm (at the lug) to 16mm at the buckle.",
+   "productType": "Watch Bands",
+   "tags": [
+    "01SERIES",
+    "01SERIES (Gen3)",
+    "Stocked"
+   ],
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      "One Size (adjustable)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "One Size (adjustable)",
+     "sku": "01MESH-TST-Onesize",
+     "priceMinor": 10000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "One Size (adjustable)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-straps"
+   ],
+   "hash": "4b4299f063120055"
+  },
+  {
+   "id": "BRD-0533/01avb-ea",
+   "name": "Av0cado (Gen3) Exclusive Access",
+   "url": "https://underd0g.com/products/01avb_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01AVB_Av0cado.png?v=1745148486",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01AVB_Av0cado.png?v=1745148486",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01AVB_OPEN.jpg?v=1746704219",
+     "width": 1890,
+     "height": 1890
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01AVB_CLOSED.jpg?v=1746704219",
+     "width": 1890,
+     "height": 1890
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Thank you for expressing your interest in this product. As a gesture of our gratitude, you have been given Exclusive Access to this password protected product page. Please do not share this access page or password.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Caseback",
+     "values": [
+      "Open",
+      "Closed"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Open",
+     "sku": "01AVB_G3_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Open"
+     ]
+    },
+    {
+     "title": "Closed",
+     "sku": "01AVB_G3_CL_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Closed"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/unoriginals-ea"
+   ],
+   "hash": "001d30ea041b0c57"
+  },
+  {
+   "id": "BRD-0533/01gufg-ea",
+   "name": "Guacam0le (Gen3) Exclusive Access",
+   "url": "https://underd0g.com/products/01gufg_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GUFGGuacam0le.png?v=1745310357",
+    "width": 2400,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GUFGGuacam0le.png?v=1745310357",
+     "width": 2400,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GUFG_OPEN.jpg?v=1746704220",
+     "width": 1890,
+     "height": 1890
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GUFG_CLOSED.jpg?v=1746704219",
+     "width": 1890,
+     "height": 1890
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Thank you for expressing your interest in this product. As a gesture of our gratitude, you have been given Exclusive Access to this password protected product page. Please do not share this access page or password.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Caseback",
+     "values": [
+      "Open",
+      "Closed"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Open",
+     "sku": "01GUFG_G3_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Open"
+     ]
+    },
+    {
+     "title": "Closed",
+     "sku": "01GUFG_G3_CL_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Closed"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/unoriginals-ea"
+   ],
+   "hash": "9cb487532a57f862"
+  },
+  {
+   "id": "BRD-0533/01mcbr-ea",
+   "name": "Mint Ch0c Chip (Gen3) Exclusive Access",
+   "url": "https://underd0g.com/products/01mcbr_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01MCBR_Product_Card_52168231-a0b0-4495-9049-ce5e2e103119.png?v=1783351280",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01MCBR_Product_Card_52168231-a0b0-4495-9049-ce5e2e103119.png?v=1783351280",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Thank you for expressing your interest in this product. As a gesture of our gratitude, you have been given Exclusive Access to this password protected product page. Please do not share this access page or password.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01MCBR_G3_M_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01MCBR_G3_S_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01MCBR_G3_L_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-exclusive-access",
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "27cd5df5a6f7eeec"
+  },
+  {
+   "id": "BRD-0533/01gpb-ea",
+   "name": "Go0fy Panda (Gen3) Exclusive Access",
+   "url": "https://underd0g.com/products/01gpb_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GPB_Product_Card.png?v=1783351280",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GPB_Product_Card.png?v=1783351280",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Thank you for expressing your interest in this product. As a gesture of our gratitude, you have been given Exclusive Access to this password protected product page. Please do not share this access page or password.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01GPB_G3_M_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01GPB_G3_S_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01GPB_G3_L_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-exclusive-access",
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "21a767c92c81d0ae"
+  },
+  {
+   "id": "BRD-0533/01dst-ea",
+   "name": "Desert Sky (Gen3) Exclusive Access",
+   "url": "https://underd0g.com/products/01dst_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01DST_Product_Card_c649bb0e-9fe2-47ab-8c79-55e7cd6ce295.png?v=1783351280",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01DST_Product_Card_c649bb0e-9fe2-47ab-8c79-55e7cd6ce295.png?v=1783351280",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Thank you for expressing your interest in this product. As a gesture of our gratitude, you have been given Exclusive Access to this password protected product page. Please do not share this access page or password.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01DST_G3_M_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01DST_G3_S_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01DST_G3_L_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-exclusive-access",
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "5f05a118df547f42"
+  },
+  {
+   "id": "BRD-0533/01wmb-ea",
+   "name": "Watermel0n (Gen3) Exclusive Access",
+   "url": "https://underd0g.com/products/01wmb_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01WMB_Product_Card_30492dce-8e73-4dc8-a5af-5fc46d6f72a9.png?v=1783351280",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01WMB_Product_Card_30492dce-8e73-4dc8-a5af-5fc46d6f72a9.png?v=1783351280",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Thank you for expressing your interest in this product. As a gesture of our gratitude, you have been given Exclusive Access to this password protected product page. Please do not share this access page or password.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Exclusive Access"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01WMB_G3_M_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01WMB_G3_S_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01WMB_G3_L_EA",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-exclusive-access",
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "bf2c8859f2f56d47"
+  },
+  {
+   "id": "BRD-0533/01mcbr",
+   "name": "Mint Ch0c Chip (Gen3)",
+   "url": "https://underd0g.com/products/01mcbr",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01MCBR_Product_Card_52168231-a0b0-4495-9049-ce5e2e103119.png?v=1783351280",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01MCBR_Product_Card_52168231-a0b0-4495-9049-ce5e2e103119.png?v=1783351280",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "One scoop of watchmaking, two scoops of unlikely.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Core Range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01MCBR_G3_M",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01MCBR_G3_S",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01MCBR_G3_L",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series"
+   ],
+   "hash": "832a2fb937f088cc"
+  },
+  {
+   "id": "BRD-0533/01gpb",
+   "name": "Go0fy Panda (Gen3)",
+   "url": "https://underd0g.com/products/01gpb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GPB_Product_Card.png?v=1783351280",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GPB_Product_Card.png?v=1783351280",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Not endangered. Just in demand.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Core Range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01GPB_G3_M",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01GPB_G3_S",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01GPB_G3_L",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series"
+   ],
+   "hash": "8de9e9f7837bf59a"
+  },
+  {
+   "id": "BRD-0533/01dst",
+   "name": "Desert Sky (Gen3)",
+   "url": "https://underd0g.com/products/01dst",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01DST_Product_Card_c649bb0e-9fe2-47ab-8c79-55e7cd6ce295.png?v=1783351280",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01DST_Product_Card_c649bb0e-9fe2-47ab-8c79-55e7cd6ce295.png?v=1783351280",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Sand, sky, and sneakers?",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "Core Range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01DST_G3_M",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01DST_G3_S",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01DST_G3_L",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series"
+   ],
+   "hash": "ebc46b6b0cf9e369"
+  },
+  {
+   "id": "BRD-0533/01wmb",
+   "name": "Watermel0n (Gen3)",
+   "url": "https://underd0g.com/products/01wmb",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01WMB_Product_Card_30492dce-8e73-4dc8-a5af-5fc46d6f72a9.png?v=1783351280",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01WMB_Product_Card_30492dce-8e73-4dc8-a5af-5fc46d6f72a9.png?v=1783351280",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 80000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Underd0g original, with a little extra juice.",
+   "productType": "Watches",
+   "tags": [
+    "01SERIES (Gen3)",
+    "core range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "01WMB_G3_M",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "01WMB_G3_S",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "01WMB_G3_L",
+     "priceMinor": 80000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series"
+   ],
+   "hash": "289de468658fdd61"
+  },
+  {
+   "id": "BRD-0533/03sab-ea",
+   "name": "Salm0n Exclusive Access",
+   "url": "https://underd0g.com/products/03sab_ea",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03SAB_Product_Page.png?v=1783351284",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03SAB_Product_Page.png?v=1783351284",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 220000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Why can’t horology be a little bit more playful from time to time? In an industry that typically takes itself very seriously, Studio Underd0g offers a fresh perspective. We’ve used current-day machining techniques to emulate a mid-century vintage silhouette, while integrating a refreshingly modern dial. The varied size of the sub-dials is offset by the branding and movement details, which allows the chronograph seconds hand to pass through uninterrupted. Idiosyncratic, yet balanced. Dimensions: Case dimensions : D38.5mm * W13.6mm (10.8mm excluding crystal) Additional dimensions: 20mm Lug width, 44.5mm Lug to lug Architecture: 3-part case construction Material : 316L Stainless Steel Crystal : Sapphire crystals (Double domed front and flat exhibition back) Lume: Super-LumiNova C3 Water-resistance : 5 ATM Movement type : Sellita Cam-Operated Monopusher Manual Winding SW510 M (Spécial / Elaboré 5 ±5 s/d) beating at a Frequency of 28,800 Vibrations/h and a Power Reserve of 63 Hours. Band : 20mm tapered to 16mm Dial: 2-layer with a metallic radial sunray base dial and coarse dégradé top dial International customers (outside of the UK): For tax and duties information please see the 'shipping details' tab on this page.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "03SAB_M_EA",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "03SAB_S_EA",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "03SAB_L_EA",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": "SW510",
+    "movementType": null,
+    "powerReserveH": 63,
+    "caseMaterial": "other",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case dimensions": ":",
+    "Material": ":",
+    "Crystal": ":",
+    "Water-resistance": ":",
+    "Movement type": ":",
+    "Band": ":",
+    "International customers (outside of the UK)": "For tax and duties information please see the 'shipping details' tab on this page."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/01series-02series-03series-exclusive-access"
+   ],
+   "hash": "b6c40970e3e64f31"
+  },
+  {
+   "id": "BRD-0533/03sab",
+   "name": "Salm0n",
+   "url": "https://underd0g.com/products/03sab",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03SAB_Product_Page.png?v=1783351284",
+    "width": 1200,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03SAB_Product_Page.png?v=1783351284",
+     "width": 1200,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 220000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A dial so tasty, even grizzlies would fight you for it.",
+   "productType": "Watches",
+   "tags": [
+    "03SERIES",
+    "core range"
+   ],
+   "options": [
+    {
+     "name": "Choose your strap size | | Size:",
+     "values": [
+      "Standard",
+      "Small",
+      "Large"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Standard",
+     "sku": "03SAB_M",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Standard"
+     ]
+    },
+    {
+     "title": "Small",
+     "sku": "03SAB_S",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Small"
+     ]
+    },
+    {
+     "title": "Large",
+     "sku": "03SAB_L",
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Large"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "US Customers Please Note": "All US orders are shipped as part of a bulk shipment, with Studio Underd0g acting as the importer of record."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:34:55.480Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:34:55.480Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0533/03series"
+   ],
+   "hash": "0c97bf76113626a5"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0533/01series",
+   "name": "01SERIES",
+   "url": "https://underd0g.com/collections/01series",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/01series-straps",
+   "name": "01SERIES / 03SERIES Straps",
+   "url": "https://underd0g.com/collections/01series_straps",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/01series-exclusive-access",
+   "name": "01SERIES Exclusive Access",
+   "url": "https://underd0g.com/collections/01series-exclusive-access",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/02series",
+   "name": "02SERIES",
+   "url": "https://underd0g.com/collections/02series",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/02series-exclusive-access",
+   "name": "02SERIES Exclusive Access",
+   "url": "https://underd0g.com/collections/02series-exclusive-access",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/02series-straps",
+   "name": "02SERIES Straps",
+   "url": "https://underd0g.com/collections/02series_straps",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/03series",
+   "name": "03SERIES",
+   "url": "https://underd0g.com/collections/03series",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/cocktail-collection",
+   "name": "Cocktail Collection",
+   "url": "https://underd0g.com/collections/cocktail-collection",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/01series-02series-03series-exclusive-access",
+   "name": "Exclusive Access",
+   "url": "https://underd0g.com/collections/01series-02series-03series-exclusive-access",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/pizza-party-2",
+   "name": "Pizza Party 2.0 Exclusive Access",
+   "url": "https://underd0g.com/collections/pizza-party-2",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0533/unoriginals-ea",
+   "name": "The Unoriginals Exclusive Access",
+   "url": "https://underd0g.com/collections/unoriginals_ea",
+   "description": null,
+   "image": null
+  }
+ ]
+}

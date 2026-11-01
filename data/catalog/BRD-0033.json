@@ -1,0 +1,1023 @@
+{
+ "brandId": "BRD-0033",
+ "brandName": "Alsta",
+ "website": "https://alstawatch.com",
+ "crawledAt": "2026-11-01T06:23:49.643Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://alstawatch.com/cdn/shop/files/80th_Ann_Logo.png?v=1768822508",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://alstawatch.com/en-us"
+ },
+ "attribution": "Images © Alsta, from alstawatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0033/nautoscaph-all-red",
+   "name": "NAUTOSCAPH ALL RED",
+   "url": "https://alstawatch.com/products/nautoscaph-all-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph-IV_Red_01.webp?v=1790946060",
+    "width": 648,
+    "height": 864
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph-IV_Red_01.webp?v=1790946060",
+     "width": 648,
+     "height": 864
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "With 300-meter water resistance, a screw-down crown, and C3 Super-LumiNova ensuring visibility in the darkest depths, every detail is meticulously engineered for reliability. The unidirectional rotating bezel provides a precise tool for divers, while the watch’s case—stainless steel—balances durability with an elegance that evolves over time. The dial selection reflects a bold, adventurous spirit: All Red.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "593eef94485ec134"
+  },
+  {
+   "id": "BRD-0033/nautoscaph-blue-shark",
+   "name": "NAUTOSCAPH BLUE SHARK",
+   "url": "https://alstawatch.com/products/nautoscaph-blue-shark",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph-IV_BlueShark_Front_1.webp?v=1791283184",
+    "width": 4898,
+    "height": 4898
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph-IV_BlueShark_Front_1.webp?v=1791283184",
+     "width": 4898,
+     "height": 4898
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "With 300-meter water resistance, a screw-down crown, and C3 Super-LumiNova ensuring visibility in the darkest depths, every detail is meticulously engineered for reliability. The unidirectional rotating bezel provides a precise tool for divers, while the watch’s case—stainless steel—balances durability with an elegance that evolves over time. The dial selection reflects a bold, adventurous spirit: Blue Shark",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "769fdfac66a7d6e3"
+  },
+  {
+   "id": "BRD-0033/nautoscaph-black",
+   "name": "NAUTOSCAPH BLACK",
+   "url": "https://alstawatch.com/products/nautoscaph-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Nautoscaph-IV-front.webp?v=1790950417",
+    "width": 896,
+    "height": 896
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Nautoscaph-IV-front.webp?v=1790950417",
+     "width": 896,
+     "height": 896
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "With 300-meter water resistance, a screw-down crown, and C3 Super-LumiNova ensuring visibility in the darkest depths, every detail is meticulously engineered for reliability. The unidirectional rotating bezel provides a precise tool for divers, while the watch’s case—stainless steel—balances durability with an elegance that evolves over time. The dial selection reflects a bold, adventurous spirit: Matte Black",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "166d719f81ba344a"
+  },
+  {
+   "id": "BRD-0033/nautoscaph-bronze-white",
+   "name": "NAUTOSCAPH BRONZE WHITE",
+   "url": "https://alstawatch.com/products/nautoscaph-bronze-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph_IV_Bronze_White_Front.webp?v=1791213512",
+    "width": 2576,
+    "height": 3434
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph_IV_Bronze_White_Front.webp?v=1791213512",
+     "width": 2576,
+     "height": 3434
+    }
+   ],
+   "priceMinor": 62500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The unidirectional rotating bezel provides a precise tool for divers, while the watch’s case—high-grade bronze—balances durability with an elegance that evolves over time. The dial selection reflects a bold, adventurous spirit: the ever-changing patina of bronze in White. With 300-meter water resistance, a screw-down crown, and C3 Super-LumiNova ensuring visibility in the darkest depths, every detail is meticulously engineered for reliability.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f408db8b7a09c4bf"
+  },
+  {
+   "id": "BRD-0033/nautoscaph-bronze-anacapri",
+   "name": "NAUTOSCAPH BRONZE ANACAPRI",
+   "url": "https://alstawatch.com/products/nautoscaph-bronze-anacapri",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph-V_Anacapri_01.webp?v=1790953022",
+    "width": 2576,
+    "height": 3434
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph-V_Anacapri_01.webp?v=1790953022",
+     "width": 2576,
+     "height": 3434
+    }
+   ],
+   "priceMinor": 62500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The unidirectional rotating bezel provides a precise tool for divers, while the watch’s case—high-grade bronze—balances durability with an elegance that evolves over time. The dial selection reflects a bold, adventurous spirit: the ever-changing patina of bronze in Anacapri. With 300-meter water resistance, a screw-down crown, and C3 Super-LumiNova ensuring visibility in the darkest depths, every detail is meticulously engineered for reliability.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ff85e0afea989ec8"
+  },
+  {
+   "id": "BRD-0033/nautoscaph-bronze-porcelana",
+   "name": "NAUTOSCAPH BRONZE PORCELANA",
+   "url": "https://alstawatch.com/products/nautoscaph-bronze-porcelana",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph_V_Porcelana_Front.webp?v=1791211489",
+    "width": 2576,
+    "height": 3434
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Nautoscaph_V_Porcelana_Front.webp?v=1791211489",
+     "width": 2576,
+     "height": 3434
+    }
+   ],
+   "priceMinor": 62500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The unidirectional rotating bezel provides a precise tool for divers, while the watch’s case—high-grade bronze—balances durability with an elegance that evolves over time. The dial selection reflects a bold, adventurous spirit: the ever-changing patina of bronze in Porcelana. With 300-meter water resistance, a screw-down crown, and C3 Super-LumiNova ensuring visibility in the darkest depths, every detail is meticulously engineered for reliability.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e4a0c039692cfeb1"
+  },
+  {
+   "id": "BRD-0033/valet-tray",
+   "name": "Valet Tray",
+   "url": "https://alstawatch.com/products/valet-tray",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/AlstaValetTrayTop.png?v=1788340302",
+    "width": 1536,
+    "height": 1024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/AlstaValetTrayTop.png?v=1788340302",
+     "width": 1536,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Valet_Tray_Angled.png?v=1788340332",
+     "width": 1536,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Valet_Tray_Front.png?v=1788340332",
+     "width": 1536,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Valet_Tray_Detailed.png?v=1788340333",
+     "width": 1536,
+     "height": 1024
+    }
+   ],
+   "priceMinor": 7500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Leather": "Exterior",
+    "Suede": "Textured interior",
+    "Foldable": "Flat to structured",
+    "Embossed": "Logo & shark",
+    "Leather exterior": "A refined and durable outer finish, crafted from high-quality leather.",
+    "Button grommets": "Positioned at the corners. Fastened, they form clean, raised sides.",
+    "Embossed branding": "The Alsta logo embossed into the suede interior, with the Alsta Shark opposite it."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "00535b6ccee77acc"
+  },
+  {
+   "id": "BRD-0033/hooper-bracelet",
+   "name": "HOOPER BRACELET",
+   "url": "https://alstawatch.com/products/hooper-bracelet",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_strap_product_lossless.webp?v=1791290963",
+    "width": 2252,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_strap_product_lossless.webp?v=1791290963",
+     "width": 2252,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_clasp.webp?v=1791291906",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_watch_side.webp?v=1791291905",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-hooper-bracelet-outline.png?v=1780404843",
+     "width": 4400,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 11000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Crafted from solid 316L stainless steel, its signature “porthole” links create a rhythm of light and shadow across the wrist, balancing sculptural form with fluid articulation. Each surface is meticulously finished, combining fine brushing with polished accents to achieve a level of depth typically reserved for high horology.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Twin": "Safety push-buttons",
+    "Micro": "Adjustment",
+    "Deployant clasp": "Folds closed flush beneath the wrist for a clean, uninterrupted line.",
+    "Twin safety push-buttons": "Opens only when both buttons are pressed, so it stays shut until you choose.",
+    "Discreet micro-adjustment": "Fine-tune the fit through the day without tools or removing links."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b7680b838040ece2"
+  },
+  {
+   "id": "BRD-0033/nautoscaph-bronze",
+   "name": "NAUTOSCAPH BRONZE",
+   "url": "https://alstawatch.com/products/nautoscaph-bronze",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-white-front.png?v=1780401333",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-white-front.png?v=1780401333",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-white-side.png?v=1780401351",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-white-rear.png?v=1780401367",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-white-angled.png?v=1780401386",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-white-dial-detail.png?v=1780401434",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-white-bracelet.png?v=1780401455",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-white-lume.png?v=1780401471",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-black-front.png?v=1780401503",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-black-side.png?v=1780401523",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-black-rear.png?v=1780401679",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-black-angled.png?v=1780401724",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-bronze-black-dial-detail.png?v=1780401781",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 62500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The unidirectional rotating bezel provides a precise tool for divers, while the watch’s case—high-grade bronze—balances durability with an elegance that evolves over time. The dial selection reflects a bold, adventurous spirit: the ever-changing patina of bronze in Black, White, Porcelana, and Anacapri casing. With 300-meter water resistance, a screw-down crown, and C3 Super-LumiNova ensuring visibility in the darkest depths, every detail is meticulously engineered for reliability.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial",
+     "values": [
+      "Black",
+      "White",
+      "Porcelana",
+      "Anacapri"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black",
+     "sku": "AWC/AN/18",
+     "priceMinor": 62500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "White",
+     "sku": "AWC/AN/17",
+     "priceMinor": 62500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White"
+     ]
+    },
+    {
+     "title": "Porcelana",
+     "sku": "AWC/AN/15/001/100",
+     "priceMinor": 62500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Porcelana"
+     ]
+    },
+    {
+     "title": "Anacapri",
+     "sku": "AWC/AN/14/001/100",
+     "priceMinor": 62500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Anacapri"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "bronze",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Choose your payment plan": "Different payment plans may be shown depending on the purchase amount and credit score.",
+    "Complete your checkout": "The amount will be charged based on the payment plan you chose.",
+    "Dimensions": "40mm diameter, 51.3mm lug-to-lug, 16.2mm thick (with crystal)",
+    "Case Material": "High-grade bronze",
+    "Water Resistance": "300m (30 ATM), exceeding ISO 6425 dive watch standards",
+    "Crown": "Screw -down for enhanced underwater security",
+    "Anti-Magnetism": "Resistant up to 4,800 A/m (ISO 764 compliant)",
+    "Bronze Case": "Black, White, Porcelana, and Anacapri",
+    "Luminescence": "C3 Super-LumiNova for superior low-light readability",
+    "Movement": "Seiko NH35A automatic movement with time and date function",
+    "Crystal": "Scratch-resistant sapphire",
+    "Functions": "Hours · Minutes · Seconds · Date",
+    "Dial": "White, Porelana and Anacapri"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "002d06dc4d4ebc1e"
+  },
+  {
+   "id": "BRD-0033/new-superautomatic-2025",
+   "name": "SUPERAUTOMATIC",
+   "url": "https://alstawatch.com/products/new-superautomatic-2025",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-superautomatic-25-front.webp?v=1789990072",
+    "width": 4400,
+    "height": 4400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-superautomatic-25-front.webp?v=1789990072",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-superautomatic-25-side.webp?v=1789990072",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-superautomatic-25-dial-close.webp?v=1789990073",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-superautomatic-25-angled.webp?v=1789990072",
+     "width": 4400,
+     "height": 4400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-superautomatic-25-bracelet.webp?v=1789990072",
+     "width": 4400,
+     "height": 4400
+    }
+   ],
+   "priceMinor": 109500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Superautomatic 2025 is Alsta’s most refined edition yet — a fusion of classic dive-watch design and modern Swiss performance. It houses the Swiss Made Sellita SW200-1 automatic movement, renowned for its reliability, precision, and 38-hour power reserve. The thinner 13.2mm profile delivers improved wearability, while the matte black dial and bold aluminium bezel remain true to the original’s character.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case": "316L marine-grade brushed stainless steel with polished edges",
+    "Dimensions": "38mm diameter · 43mm lug-to-lug · 20mm lug size · 13.2mm thick",
+    "Crown": "Screw-down, polished stainless steel · Bi-directional winding",
+    "Bezel": "Black aluminium insert with silver 15-minute timing scale",
+    "Dial": "Matte black with applied C3 Super-LumiNova indices",
+    "Hands": "Tapered sword hands with C3 Super-LumiNova",
+    "Glass": "Domed scratch-resistant sapphire crystal",
+    "Caseback": "Two-part stainless steel · Engraved",
+    "Water Resistance": "999ft / 300m (30 ATM)",
+    "Functions": "Hours · Minutes · Seconds · Date"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4059502ca9d176be"
+  },
+  {
+   "id": "BRD-0033/motoscaphe",
+   "name": "MOTOSCAPHE",
+   "url": "https://alstawatch.com/products/motoscaphe",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Motoscaphe_01_1.png?v=1753968269",
+    "width": 647,
+    "height": 647
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Alsta_Motoscaphe_01_1.png?v=1753968269",
+     "width": 647,
+     "height": 647
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/2Alsta_Motoscaphe_transparent_e8df2653-56c9-45c8-9cf2-6cd2140e7353.png?v=1738848074",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/3Alsta_Motoscaphe_transparent_8f74cbd2-f0b0-4b80-a3f5-5af00e6a9086.png?v=1738848074",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/4Alsta_Motoscaphe_transparent_f14ac1dc-2981-40fe-b165-3f26d94f7cd9.png?v=1738848074",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/6Alsta_Motoscaphe_transparent_dff3abe4-53c1-4431-b018-7ca48720f1cf.png?v=1738848074",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/5Alsta_Motoscaphe_transparent_bce9ffa8-c0a9-4bb4-9602-62f41796851f.png?v=1738848074",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/7Alsta_Motoscaphe_transparent_27316588-932a-44d4-a786-a32246cfdd06.png?v=1738848074",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Riding a motorcycle is more than just transportation—it’s a pursuit of freedom, an unfiltered connection to the road, the machine, and the passage of time itself. The Motoscaphe 120 is the first and only purpose-built tool watch for motorcyclists , designed with the same precision, durability, and mechanical integrity that define the finest riding machines. Inspired by the kinetic poetry of speed, the Motoscaphe 120 features a left-hand (destro) crown for unparalleled wrist comfort, a 12-hour bidirectional bezel for tracking time on long journeys, and a water resistance of 300 meters , ensuring resilience in all conditions. Whether worn on the open road or as an everyday companion, this watch is a tribute to the riders, explorers, and seekers of the horizon .",
+   "productType": null,
+   "tags": [
+    "Motoscaphe",
+    "Stainless Steel",
+    "Watches"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Dimensions": "40mm diameter, 51.3mm lug-to-lug, 16.2mm thick (with crystal)",
+    "Strap": "Black perforated rally strap with signed steel pin-buckle",
+    "Case": "316L marine grade stainless steel with solid engraved caseback",
+    "Crown": "Screw down stainless steel",
+    "Water resistance": "300m",
+    "Anti-magnetism": "Field strength of 4,800 A/m (ISO 764 compliant)",
+    "Dial": "Sunburst black",
+    "Luminescence": "C3 Super-LumiNova with blue transmission",
+    "Movement": "Seiko NH35A, automatic, time and date",
+    "Crystal": "Sapphire"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0033/motoscaphe",
+    "BRD-0033/stainless-steel"
+   ],
+   "hash": "1d74b8bce997364b"
+  },
+  {
+   "id": "BRD-0033/nautoscaph-new",
+   "name": "NAUTOSCAPH",
+   "url": "https://alstawatch.com/products/nautoscaph-new",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Nautoscaph_Black_F.png?v=1790001167",
+    "width": 896,
+    "height": 896
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/Nautoscaph_Black_F.png?v=1790001167",
+     "width": 896,
+     "height": 896
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-black-side.png?v=1780399621",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-black-back.png?v=1780399642",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-black-angled.png?v=1780399660",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-black-dial-detail.png?v=1780399688",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-black-bracelet.png?v=1780399859",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-black-front-lume.png?v=1780399890",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-great-white-front.png?v=1780399916",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-great-white-side.png?v=1780399987",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-great-white-rear.png?v=1780400005",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-great-white-angled.png?v=1780400031",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0749/8773/3271/files/alsta-nautoscaph-iv-great-white-dial-detail.png?v=1780400055",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "With 300-meter water resistance, a screw-down crown, and C3 Super-LumiNova ensuring visibility in the darkest depths, every detail is meticulously engineered for reliability. The unidirectional rotating bezel provides a precise tool for divers, while the watch’s case—stainless steel—balances durability with an elegance that evolves over time. The dial selection reflects a bold, adventurous spirit: from the deep hues of Blue Shark and Great White to the striking tones of Tropic (Orange) and All Red in steel.",
+   "productType": null,
+   "tags": [
+    "Nautoscaphe",
+    "Watches"
+   ],
+   "options": [
+    {
+     "name": "Dial",
+     "values": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Orange",
+      "All Red"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black",
+     "sku": "AWC/AN/7/001/400",
+     "priceMinor": 59500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Silver",
+     "sku": "AWC/AN/9/001/100",
+     "priceMinor": 59500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Silver"
+     ]
+    },
+    {
+     "title": "Blue",
+     "sku": "AWC/AN/10/001/100",
+     "priceMinor": 59500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue"
+     ]
+    },
+    {
+     "title": "Orange",
+     "sku": "AWC/AN/11/01/50",
+     "priceMinor": 59500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "All Red",
+     "sku": "AWC/AN/16",
+     "priceMinor": 59500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "All Red"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 300,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "multi",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Choose your payment plan": "Different payment plans may be shown depending on the purchase amount and credit score.",
+    "Complete your checkout": "The amount will be charged based on the payment plan you chose.",
+    "Dimensions": "40mm diameter, 51.3mm lug-to-lug, 16.2mm thick (with crystal)",
+    "Case Material": "316L stainless steel",
+    "Water Resistance": "300m (30 ATM), exceeding ISO 6425 dive watch standards",
+    "Crown": "Screw -down for enhanced underwater security",
+    "Anti-Magnetism": "Resistant up to 4,800 A/m (ISO 764 compliant)",
+    "Dial": "Blue Shark, Great White, Black, Tropic (Orange), and All Red",
+    "Luminescence": "C3 Super-LumiNova for superior low-light readability",
+    "Movement": "Seiko NH35A automatic movement with time and date function",
+    "Crystal": "Scratch-resistant sapphire",
+    "Functions": "Hours · Minutes · Seconds · Date"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:23:49.643Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:23:49.643Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ec01dc6b290210c2"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0033/motoscaphe",
+   "name": "Motoscaphe",
+   "url": "https://alstawatch.com/collections/motoscaphe",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0033/stainless-steel",
+   "name": "Stainless Steel",
+   "url": "https://alstawatch.com/collections/stainless-steel",
+   "description": null,
+   "image": null
+  }
+ ]
+}

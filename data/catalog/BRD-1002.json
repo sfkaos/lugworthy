@@ -1,0 +1,991 @@
+{
+ "brandId": "BRD-1002",
+ "brandName": "Ikigai Watches",
+ "website": "https://ikigaiwatches.com",
+ "crawledAt": "2026-11-01T07:32:30.261Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://ikigaiwatches.com/cdn/shop/files/LOGO.png?v=1616645460",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://ikigaiwatches.com/"
+ },
+ "attribution": "Images © Ikigai Watches, from ikigaiwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1002/prototype-sale-model-s",
+   "name": "PROTOTYPE SALE: MODEL S 38MM(+ BRACELET)",
+   "url": "https://ikigaiwatches.com/products/prototype-sale-model-s",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/B7288528-06EA-433B-B059-F574D470C49E.jpg?v=1793273091",
+    "width": 1206,
+    "height": 2144
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/B7288528-06EA-433B-B059-F574D470C49E.jpg?v=1793273091",
+     "width": 1206,
+     "height": 2144
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/B358227D-E6DC-4C50-8EAA-8BD86539CBD2.jpg?v=1793273092",
+     "width": 1206,
+     "height": 2144
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/E401F64A-6AEB-4EA1-AA4F-EE3A2FF21E38.jpg?v=1793273092",
+     "width": 1206,
+     "height": 2144
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/IMG_1494.jpg?v=1793273134",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/9460A8B3-2352-438E-A61A-D75CA2A53407.jpg?v=1793273134",
+     "width": 1206,
+     "height": 2144
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/IMG_1521.jpg?v=1793277815",
+     "width": 4284,
+     "height": 5712
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Ikigai Watches",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Blue",
+      "Black",
+      "Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue",
+     "sku": null,
+     "priceMinor": 45000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blue"
+     ]
+    },
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 45000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Green",
+     "sku": null,
+     "priceMinor": 45000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "fa8a6698444e1738"
+  },
+  {
+   "id": "BRD-1002/stefan-m-blue",
+   "name": "Stefan M.blue",
+   "url": "https://ikigaiwatches.com/products/stefan-m-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/crane_black_and_white_c5df8f04-e29d-42d5-84a9-2c913d0f5502.png?v=1756221147",
+    "width": 2523,
+    "height": 2468
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/crane_black_and_white_c5df8f04-e29d-42d5-84a9-2c913d0f5502.png?v=1756221147",
+     "width": 2523,
+     "height": 2468
+    }
+   ],
+   "priceMinor": 38500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "34804cb0de7d1c47"
+  },
+  {
+   "id": "BRD-1002/lorenzo-kame-horizon-blue",
+   "name": "Ethan Horizon Blue",
+   "url": "https://ikigaiwatches.com/products/lorenzo-kame-horizon-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_97.png?v=1741100090",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_97.png?v=1741100090",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 47500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f527580dcf5b1b5e"
+  },
+  {
+   "id": "BRD-1002/maru-reloaded",
+   "name": "MARU: RELOADED SERIES",
+   "url": "https://ikigaiwatches.com/products/maru-reloaded",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/1_352dcabc-41f9-4726-8f9b-e0d7389d09fe.png?v=1781696516",
+    "width": 3125,
+    "height": 3125
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/1_352dcabc-41f9-4726-8f9b-e0d7389d09fe.png?v=1781696516",
+     "width": 3125,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/2_b763fe83-1b6b-4c71-8230-abc561fe6485.png?v=1781696545",
+     "width": 3125,
+     "height": 3125
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/3_c1430d82-8717-4753-ada1-b3bf721d54c1.png?v=1781696561",
+     "width": 3125,
+     "height": 3125
+    }
+   ],
+   "priceMinor": 55000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "MARU: RELOADED — OUR FIRST WATCH, BUILT BETTER The Maru was our very first watch — launched on Kickstarter in 2022 and fully funded in just five minutes . Originally, it was meant to be a one-time release. But the overwhelming demand never stopped. After countless requests, the Maru is back. The Reloaded Series is our way of giving back — a chance for new fans to own Ikigai’s very first model, and for long-time supporters to see it return, rebuilt with subtle upgrades.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Selection",
+     "values": [
+      "Lunar Eclipse",
+      "Deep Ocean",
+      "Fresh Mint"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Lunar Eclipse",
+     "sku": null,
+     "priceMinor": 55000,
+     "compareAtMinor": 55000,
+     "available": false,
+     "options": [
+      "Lunar Eclipse"
+     ]
+    },
+    {
+     "title": "Deep Ocean",
+     "sku": null,
+     "priceMinor": 55000,
+     "compareAtMinor": 55000,
+     "available": true,
+     "options": [
+      "Deep Ocean"
+     ]
+    },
+    {
+     "title": "Fresh Mint",
+     "sku": null,
+     "priceMinor": 55000,
+     "compareAtMinor": 55000,
+     "available": false,
+     "options": [
+      "Fresh Mint"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "MARU": "RELOADED marks its return — rebuilt with subtle upgrades, refined details, and the same unmistakable spirit.",
+    "The Reloaded Series": "is our way of giving back — a chance for new fans to own Ikigai’s very first model, and for long-time supporters to see it return, rebuilt with subtle upgrades."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1002/homepage-watches",
+    "BRD-1002/ikigai-maru-200m"
+   ],
+   "hash": "3bdb27a75c9d641f"
+  },
+  {
+   "id": "BRD-1002/maru-fresh-mint-sapphire",
+   "name": "Maru Fresh Mint Sapphire",
+   "url": "https://ikigaiwatches.com/products/maru-fresh-mint-sapphire",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/6155G-3D-B_e6af8c4b-111b-4a5e-9931-c9c7a3f8bb2c.jpg?v=1755531630",
+    "width": 5000,
+    "height": 3485
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/6155G-3D-B_e6af8c4b-111b-4a5e-9931-c9c7a3f8bb2c.jpg?v=1755531630",
+     "width": 5000,
+     "height": 3485
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/6155G-9H-B.jpg?v=1755531640",
+     "width": 5000,
+     "height": 3485
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Private preorder 01",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5cb53903b705f43b"
+  },
+  {
+   "id": "BRD-1002/kame-200m-pink-panther-limited-edition-launch",
+   "name": "Kame 200m \"Pink Panther\"",
+   "url": "https://ikigaiwatches.com/products/kame-200m-pink-panther-limited-edition-launch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Copy_of_Copy_of_3_days_left_1.png?v=1750946143",
+    "width": 1080,
+    "height": 1350
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Copy_of_Copy_of_3_days_left_1.png?v=1750946143",
+     "width": 1080,
+     "height": 1350
+    }
+   ],
+   "priceMinor": 65000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Pink Panther brings a bold splash of personality to your collection — a colorway you likely haven’t seen before. At its heart, a crisp white dial with a subtle metallic sheen catches the light with elegance. As your eye travels outward, the dial seamlessly fades into a radiant, metallic purple-pink gradient — striking, playful, yet sophisticated. It's a color built for collectors who want something daring and different. Fun, but never unserious.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Features": "Quick Release/ Screws/ On the fly Micro Adjust"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1002/homepage-watches",
+    "BRD-1002/kame-200m"
+   ],
+   "hash": "2c6fd144d31c7e35"
+  },
+  {
+   "id": "BRD-1002/kame-200m-mystic-purple",
+   "name": "Kame 200m \"Mystic Purple\"",
+   "url": "https://ikigaiwatches.com/products/kame-200m-mystic-purple",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_-_2025-03-04T225315.316.png?v=1741100115",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_-_2025-03-04T225315.316.png?v=1741100115",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_96.png?v=1741100115",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_94.png?v=1741100115",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_88.png?v=1741100115",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_89.png?v=1741100115",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_87.png?v=1741100115",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 55000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Mystic Purple : A vibrant, deep purple hue with a captivating metallic shimmer that dances elegantly under varying light conditions. This color transitions from a dark, almost royal purple in dim settings to a brighter, more luminous violet when illuminated, creating a dynamic and ever-changing visual effect. The rich undertones and subtle reflective quality add depth and dimension, evoking a sense of mystery and refined luxury. Sea Turtle Inspired Design: ALL NEW Ikigai Scale Bracelet: Fully designed by Ikigai Features: Quick Release/ Screws/ On the fly Micro Adjust Gallery: Video Reviews:",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Features": "Quick Release/ Screws/ On the fly Micro Adjust",
+    "Case": "Brushed/Polished/ Sandblasted 316L Stainless Steel",
+    "Bezel": "120-click unidirectional Sapphire",
+    "Crystal": "Single Domed Sapphire crystal with inner AR coating",
+    "Lume": "BGW9 Swiss Made Super-LumiNova®",
+    "Water Resistance": "200m Dimensions Diameter: 40mm",
+    "Lug to lug": "47mm",
+    "Thickness": "12mm",
+    "Specifications Movement": "Miyota 9039 (Regulated)",
+    "Movement": "Miyota 9039 (Regulated)",
+    "Dimensions Diameter": "40mm",
+    "Lug width": "20mm",
+    "Diameter": "40mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1002/homepage-watches",
+    "BRD-1002/kame-200m"
+   ],
+   "hash": "81bfa60cea49a4a5"
+  },
+  {
+   "id": "BRD-1002/kame-200m-solar-flare",
+   "name": "Kame 200m \"Solar Flare\"",
+   "url": "https://ikigaiwatches.com/products/kame-200m-solar-flare",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_-_2025-03-04T225207.007.png?v=1741100062",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_-_2025-03-04T225207.007.png?v=1741100062",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_98.png?v=1741100062",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_93.png?v=1741100062",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_90.png?v=1741100062",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_91.png?v=1741100062",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_87.png?v=1741100115",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 55000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Solar Flare : A radiant golden hue with a rich gradient that mimics the brilliance of sunlight, transitioning from a fiery gold center to a darker, burnt amber edge. This dynamic color evokes the intensity and energy of a solar eruption, with a subtle metallic shimmer that adds depth and vibrancy. The warm, luminous tones create a striking visual impact, exuding power and bold sophistication. Sea Turtle Inspired Design: ALL NEW Ikigai Scale Bracelet: Fully designed by Ikigai Features: Quick Release/ Screws/ On the fly Micro Adjust Gallery: Video Reviews:",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Features": "Quick Release/ Screws/ On the fly Micro Adjust",
+    "Case": "Brushed/Polished/ Sandblasted 316L Stainless Steel",
+    "Bezel": "120-click unidirectional Sapphire",
+    "Crystal": "Single Domed Sapphire crystal with inner AR coating",
+    "Lume": "BGW9 Swiss Made Super-LumiNova®",
+    "Water Resistance": "200m Dimensions Diameter: 40mm",
+    "Lug to lug": "47mm",
+    "Thickness": "12mm",
+    "Video Reviews": "View full details",
+    "Specifications Movement": "Miyota 9039 (Regulated)",
+    "Movement": "Miyota 9039 (Regulated)",
+    "Dimensions Diameter": "40mm",
+    "Lug width": "20mm",
+    "Diameter": "40mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1002/homepage-watches",
+    "BRD-1002/kame-200m"
+   ],
+   "hash": "7df56c398ad06a10"
+  },
+  {
+   "id": "BRD-1002/kame-200m-horizon-blue",
+   "name": "Kame 200m \"Horizon Blue\"",
+   "url": "https://ikigaiwatches.com/products/kame-200m-horizon-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_-_2025-03-04T225240.629.png?v=1741100090",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_-_2025-03-04T225240.629.png?v=1741100090",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_97.png?v=1741100090",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_85.png?v=1741100090",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_86.png?v=1741100090",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/files/Untitled_design_87.png?v=1741100115",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 55000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Horizon Blue is inspired by the tranquil hues of the open sea and the infinite sky at dawn. Its striking blue sunburst dial shimmers with light, mimicking the gentle ripples of water, while the luminous accents evoke the glow of the horizon as it transitions from day to night. This vivid shade of blue brings a sense of depth, elegance, and adventure to the timepiece. Sea Turtle Inspired Design: ALL NEW Ikigai Scale Bracelet: Fully designed by Ikigai Features: Quick Release/ Screws/ On the fly Micro Adjust Gallery: Video Reviews:",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 47,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Features": "Quick Release/ Screws/ On the fly Micro Adjust",
+    "Case": "Brushed/Polished/ Sandblasted 316L Stainless Steel",
+    "Bezel": "120-click unidirectional Sapphire",
+    "Crystal": "Single Domed Sapphire crystal with inner AR coating",
+    "Lume": "BGW9 Swiss Made Super-LumiNova®",
+    "Water Resistance": "200m Dimensions Diameter: 40mm",
+    "Lug to lug": "47mm",
+    "Thickness": "12mm",
+    "Specifications Movement": "Miyota 9039 (Regulated)",
+    "Movement": "Miyota 9039 (Regulated)",
+    "Dimensions Diameter": "40mm",
+    "Lug width": "20mm",
+    "Diameter": "40mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1002/homepage-watches",
+    "BRD-1002/kame-200m"
+   ],
+   "hash": "bf1c0b66f62df031"
+  },
+  {
+   "id": "BRD-1002/test",
+   "name": "Test",
+   "url": "https://ikigaiwatches.com/products/test",
+   "image": null,
+   "images": [],
+   "priceMinor": 40000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2599855d9b1214f6"
+  },
+  {
+   "id": "BRD-1002/maru-200m-burgundy-red",
+   "name": "Maru 200m \"Lunar Eclipse\" (SOLD OUT)",
+   "url": "https://ikigaiwatches.com/products/maru-200m-burgundy-red",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_59.png?v=1677326254",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_59.png?v=1677326254",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_60.png?v=1677326257",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_56_cee4fbdb-0095-47aa-837f-d5991ff4c09e.png?v=1677326263",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "An elegant rendition of the Maru boasting a dial reminiscent of wine hues. Showcasing a sophisticated matte Burgundy Red dial paired with a black stainless steel bezel, this combination is flawlessly suited for formal occasions and refined attire. SUPER-LUMINOVA C3 CASE When the sun sets, your watch takes center stage! REVIEWS",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1002/homepage-watches",
+    "BRD-1002/ikigai-maru-200m"
+   ],
+   "hash": "548e4dfd4de76fb9"
+  },
+  {
+   "id": "BRD-1002/maru-200m-fresh-mint",
+   "name": "Maru 200m \"Fresh Mint\" (SOLD OUT)",
+   "url": "https://ikigaiwatches.com/products/maru-200m-fresh-mint",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_58.png?v=1677326039",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_58.png?v=1677326039",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_57.png?v=1677326043",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_56_7e47e529-0be6-4f89-9cbd-bf8db07d4f1d.png?v=1677326045",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Similar to its namesake, \"Fresh Mint\" showcases a vibrant mint green dial that exudes a playful aura. Ideal for a leisurely day by the beach, its striking color ensures it effortlessly catches the eye and stands out in any setting. SUPER-LUMINOVA C3 CASE When the sun sets, your watch takes center stage! REVIEWS",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1002/homepage-watches",
+    "BRD-1002/ikigai-maru-200m"
+   ],
+   "hash": "c9e8943b672a49ae"
+  },
+  {
+   "id": "BRD-1002/maru-200m-midnight-sky",
+   "name": "Maru 200m \"Deep Ocean\" (SOLD OUT)",
+   "url": "https://ikigaiwatches.com/products/maru-200m-midnight-sky",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_54.png?v=1677320346",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_54.png?v=1677320346",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_55.png?v=1677320566",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/products/Untitleddesign_56.png?v=1677320570",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A subtler iteration of the Maru, ideal for individuals seeking a low-key presence during the day, yet captivating attention when the Maru brilliantly lights up the night. SUPER-LUMINOVA C3 CASE When the sun sets, your watch takes center stage! Reviews",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:32:30.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:32:30.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1002/homepage-watches",
+    "BRD-1002/ikigai-maru-200m"
+   ],
+   "hash": "a9268c63f2d8a0b3"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1002/homepage-watches",
+   "name": "Homepage Watches",
+   "url": "https://ikigaiwatches.com/collections/homepage-watches",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1002/kame-200m",
+   "name": "Kame 200m",
+   "url": "https://ikigaiwatches.com/collections/kame-200m",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1002/ikigai-maru-200m",
+   "name": "Maru 200m",
+   "url": "https://ikigaiwatches.com/collections/ikigai-maru-200m",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/7408/5311/collections/custom_resized_22412c4c-af93-49f4-b087-5521d4fa0824.jpg?v=1692813926",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

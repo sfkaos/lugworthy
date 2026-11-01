@@ -1,0 +1,173 @@
+{
+ "brandId": "BRD-1270",
+ "brandName": "Rotoris",
+ "website": "https://www.rotoris.com",
+ "crawledAt": "2026-11-01T08:25:36.346Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://cdn.shopify.com/s/files/1/0686/0387/1276/files/Logo_for_1.png?v=1774352997",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.rotoris.com/"
+ },
+ "attribution": "Images © Rotoris, from rotoris.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1270/automatic",
+   "name": "Automatic Collection",
+   "url": "https://www.rotoris.com/collections/automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0686/0387/1276/files/MOP-40mm-front.webp?v=1792439634",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0686/0387/1276/files/MOP-40mm-front.webp?v=1792439634",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Explore Rotoris Automatic timepieces — premium watches built with sapphire crystal and 316L stainless steel.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T08:25:36.346Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:25:36.346Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9fc6543c28874fd3"
+  },
+  {
+   "id": "BRD-1270/q-matic-timepiece",
+   "name": "Q-Matic Collection",
+   "url": "https://www.rotoris.com/collections/q-matic-timepiece",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0686/0387/1276/files/Astoniasilver-FRONTecom.webp?v=1768569605",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0686/0387/1276/files/Astoniasilver-FRONTecom.webp?v=1768569605",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Explore Rotoris Q-Matic timepieces — premium watches built with sapphire crystal and 316L stainless steel.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T08:25:36.346Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:25:36.346Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4c813fd487ee5472"
+  },
+  {
+   "id": "BRD-1270/timepieces",
+   "name": "All Rotoris Timepieces",
+   "url": "https://www.rotoris.com/collections/timepieces",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0686/0387/1276/files/MOP-40mm-front.webp?v=1792439634",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0686/0387/1276/files/MOP-40mm-front.webp?v=1792439634",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Explore all Rotoris watch collections in one place, from distinctive automatic watches to signature timepieces with unique designs and details.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T08:25:36.346Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:25:36.346Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "0f39825c37e5954b"
+  }
+ ],
+ "collections": []
+}

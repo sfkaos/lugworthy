@@ -1,0 +1,1832 @@
+{
+ "brandId": "BRD-0057",
+ "brandName": "Ares",
+ "website": "https://www.areswatches.com",
+ "crawledAt": "2026-11-01T06:28:09.603Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.areswatches.com/cdn/shop/files/ares-logo-dial-white.png?v=1783975868",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.areswatches.com/"
+ },
+ "attribution": "Images © Ares, from areswatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0057/jack-carr-limited-edition-diver-1-automatic",
+   "name": "JACK CARR Limited Edition DIVER-1 Automatic",
+   "url": "https://www.areswatches.com/products/jack-carr-limited-edition-diver-1-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_4764_3.heic?v=1790275192",
+    "width": 4284,
+    "height": 5712
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_4764_3.heic?v=1790275192",
+     "width": 4284,
+     "height": 5712
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Screenshot_2026-09-22_at_1.29.53_PM_6eff43c2-6345-4bb7-aeb8-55b808a3d2f0.png?v=1790275196",
+     "width": 1179,
+     "height": 2556
+    }
+   ],
+   "priceMinor": 225000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "7 years ago we built Jack his first Mission Timer. It launched the partnership — and we've been building custom limited-editions together ever since. Now it is time to get wet & sandy with this original CARR DIVER-1, created in CERAKOTE tan with a hand-regulated, custom etched, Swiss automatic: the same lines, now with a mechanical heart beating inside. 10 built, 10 sold — then it's history. Each of these timers was hand-crafted by ARES and features an ETA automatic movement, 1000M depth rating, and hand-regulation at +6/-4 COSC spec. You will receive the timer in a custom designed 4-slot watch roll, hand-crafted for this release by ESSTAC, in your personalized Seahorse packaging. All timers from the collection are handled as 1-Off customs. These ARES Mission Timers™ are Guaranteed for Life and subject to ARES Custom Warranty & Return Policy.",
+   "productType": null,
+   "tags": [
+    "batch-drop"
+   ],
+   "options": [
+    {
+     "name": "JACK CARR Limited Edition DIVER-1",
+     "values": [
+      "Swiss Automatic"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Swiss Automatic",
+     "sku": null,
+     "priceMinor": 225000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Swiss Automatic"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b60ea85b81786adf"
+  },
+  {
+   "id": "BRD-0057/1-off-wednesday",
+   "name": "1-OFF WEDNESDAY TAN FIELD AUTO",
+   "url": "https://www.areswatches.com/products/1-off-wednesday",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_4401.heic?v=1786563499",
+    "width": 3024,
+    "height": 4032
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_4401.heic?v=1786563499",
+     "width": 3024,
+     "height": 4032
+    }
+   ],
+   "priceMinor": 185000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Our 1 of 1 selection is our tan date-dial auto FIELD-1 on OD Green rubber strap, an in-house regulated ETA 2824 Swiss Automatic in our Urban stainless FIELD-1 case & caseback, capable of 300M, featuring a deep black dial with C3 SuperLumiNova, hand-regulated to -4/+6 seconds per day. 1-OFF WEDNESDAY is a \"one off\" design or build that we have created in-house. Each 1-OFF features your custom serial number , LASH strap included, packaged in a customized Seahorse case. All 1-OFF Wednesdays are new timers, built here in our shop, and carry the limited Lifetime Warranty. Due to the customizations specific to you 1-OFF timers are non-refundable.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Movement",
+     "values": [
+      "FIELD-1"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "FIELD-1",
+     "sku": null,
+     "priceMinor": 185000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "FIELD-1"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "844a17ceb34fc6f1"
+  },
+  {
+   "id": "BRD-0057/field-1-quartz",
+   "name": "FIELD-1 Mission Timer® Lithium-Ion Quartz",
+   "url": "https://www.areswatches.com/products/field-1-quartz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/200001D6-9BDF-4EB2-AAB4-8358D09D0DF2_f03ab324-35f2-4818-b48d-7f23935dac86.jpg?v=1763087024",
+    "width": 1670,
+    "height": 1670
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/200001D6-9BDF-4EB2-AAB4-8358D09D0DF2_f03ab324-35f2-4818-b48d-7f23935dac86.jpg?v=1763087024",
+     "width": 1670,
+     "height": 1670
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "When your phone dies at 2%, what time is it? Ten years. One battery. Zero apologies. The same case, dial, and lume as our automatics — serialized, guaranteed for life. Why does a six-man shop bother building a quartz this hard? ↓ Built by Hand. Backed for Life. Your Mission Timer isn’t pulled from a shelf — it’s built from scratch, by hand, by a team of five American artisans in our small-batch workshop. We machine every steel case, assemble every movement, and test every component in-house. Nothing is overlooked. Nothing is rushed. How It Works If your model is in stock, we’ll ship it immediately. If not, you’re looking at a 1–2 week build window . That’s how long it takes to craft, test, and ship your Mission Timer — start to finish — without cutting corners. We believe you deserve the attention to detail of 1 watchmaker, 1 watch . Your watchmaker assembles your piece personally, from case prep to final seal. Why We Do It This Way We don’t mass-produce inventory that sits on shelves. Instead, we manufacture in limited runs — purpose-built, mission-ready pieces that reflect our values: precision, durability, and American grit. Secure Y our FIELD-1 Orders ship in 1–2 weeks depending on complexity and current queue FIELD-1 Movement Your FIELD-1 Mission Timer is manufactured with a precision Swiss movement: Swiss Super Quartz: LASTS 10X longer than standard quartz watches. ARES uses the 715Li 5-jewel gold plated Swiss analog quartz, manufactured by Ronda, with a 10-year lithium-ion battery and End-of-Life indicator FIELD-1 Case, Caseback, Crown & Bezel Turned from a solid bar of 316L stainless steel Hand finished in bead blast Urban Stainless 41.0mm single piece case with individually serialized, engraved, screwback construction 42.0mm fixed bezel 49.5mm lug to lug 22mm drilled lugs with 1.8mm shoulderless spring bars, supplied with a 3-ring LASH ballistic nylon strap 10 o’clock ‘fat head’ 7.2mm logo’d screw down crown, featuring aggressive ‘no slip’ teeth and double Viton seals: Quartz timers feature stainless or PVD crowns, based upon the model, while Automatic timers feature Red Mission Timer crowns 13.3mm overall thickness 3.3oz total weight with LASH strap Crystal, Dial & Hands Domed sapphire crystal with inner anti-reflective AR coating Brass dial with Super LumiNova C3 printed hour indicators, painted minute indices and logo Brushed hands with C3, with either brushed stainless (Quartz) or red seconds hand (Automatic) Performance & Testing Individually tested and certified, fully assembled, to 30BAR = 300ft. Anti-magnetic rating 18.8Oe, shock resistant to NIHS-91-10 standards, and thermo-compensated -0 to 50+ C LASH & Rubber Straps QUARTZ Mission Timers arrive on a matching black ballististic nylon LASH strap Ships on nylon. Add a rubber strap — 25% off, automatic in cart.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "FINISH",
+     "values": [
+      "Urban Stainless",
+      "CERAKOTE Deep Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Urban Stainless",
+     "sku": "F1AUSQZNYBLKUS",
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Urban Stainless"
+     ]
+    },
+    {
+     "title": "CERAKOTE Deep Black",
+     "sku": "F1BDBQZNYBLKDB",
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "CERAKOTE Deep Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Secure Y": "our FIELD-1",
+    "Swiss Super Quartz": "LASTS 10X longer than standard quartz watches. ARES uses the 715Li 5-jewel gold plated Swiss analog quartz, manufactured by Ronda, with a 10-year lithium-ion battery and End-of-Life indicator",
+    "FIELD-1": "Case, Caseback, Crown & Bezel"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/mission-timers",
+    "BRD-0057/ares-watches"
+   ],
+   "hash": "7588b159919dbdd6"
+  },
+  {
+   "id": "BRD-0057/diver-1-quartz",
+   "name": "DIVER-1 Mission Timer® Lithium-Ion Quartz",
+   "url": "https://www.areswatches.com/products/diver-1-quartz",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/D1_Quartz_Urban_No_Date.png?v=1784169960",
+    "width": 1372,
+    "height": 1714
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/D1_Quartz_Urban_No_Date.png?v=1784169960",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/D1_Quartz_Combo_Date.jpg?v=1784170168",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/D1_Quartz_Deep_Black_No_Date.jpg?v=1784170343",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/D1_Quartz_Deep_Black_Date_Dial.jpg?v=1784170319",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Diver_Brushed_LS.png?v=1759954038",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/D1_Quartz_Combo_No_Date.jpg?v=1784171981",
+     "width": 1440,
+     "height": 1440
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/D1QuartzUrbanDateDial.jpg?v=1784172244",
+     "width": 1440,
+     "height": 1440
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "When your phone dies at 2%, what time is it? Ten years. One battery. Zero apologies. The same case, dial, and lume as our automatics — serialized, guaranteed for life. Why does a six-man shop bother building a quartz this hard? ↓ Built by Hand. Backed for Life. Your Mission Timer isn’t pulled from a shelf — it’s built from scratch, by hand, by a team of five American builders in our small-batch workshop. We machine every steel case, assemble every movement, and test every component in-house. Nothing is overlooked. Nothing is rushed. How It Works We build our timers in-house over the course of 3-6 weeks. That’s how long it takes to craft, test, and ship your Mission Timer — start to finish — without cutting corners. We believe you deserve the attention to detail of 1 watchmaker, 1 watch . Your watchmaker assembles your piece personally, from case prep to final seal. Why We Do It This Way We don’t mass-produce inventory that sits on shelves. Instead, we manufacture in limited runs — purpose-built, mission-ready pieces that reflect our values: precision, durability, and American grit. Secure Your Spot When you order, you’re locking in a build slot in our next batch. You’ll receive email updates throughout the process — from machining to assembly to shipping. We build them in order. We stand behind them for life. DIVER-1 Movement Your DIVER-1 Mission Timer is manufactured with a precision Swiss movement: Swiss Super Quartz: LASTS 10X longer than standard quartz watches. ARES uses the 715Li 5-jewel gold plated Swiss analog quartz, manufactured by Ronda, with a 10-year lithium-ion battery and End-of-Life indicator DIVER-1 Case, Caseback, Crown & Bezel 3 case finishes in either “Urban” bead blast stainless steel; “Deep Black” PVD; Combination Urban (case) and Deep Black (bezel) 41.0mm two piece case with individually serialized, engraved, screwback construction 42.0mm bezel, featuring countdown timer with C3 Superluminova, clear coat finish, aggressive ‘no slip’ teeth, and 120-click uni-directional countdown mission timer 49.5mm lug to lug 22mm drilled lugs with 1.8mm shoulderless spring bars, supplied with a 3-ring LASH ballistic nylon strap 10 o’clock ‘fat head’ 7.2mm logo’d screw down crown, featuring aggressive ‘no slip’ teeth and double Viton seals: Quartz timers feature stainless or PVD crowns, based upon the model, while Automatic timers feature Red Mission Timer crowns 13.3mm overall thickness 3.3oz total weight with LASH strap Crystal, Dial & Hands Flat sapphire crystal with inner anti-reflective AR coating Brass dial with Super LumiNova C3 printed hour indicators, painted minute indices and logo Brushed hands with C3, with either brushed stainless (Quartz) or red seconds hand (Automatic) Performance & Testing Individually tested and certified, fully assembled, to 100BAR = 3345ft. Anti-magnetic rating 18.8Oe, shock resistant to NIHS-91-10 standards, and thermo-compensated -0 to 50+ C LASH & Rubber Straps QUARTZ Mission Timers arrive on a matching LASH strap, as follows: Urban stainless = Deep Black Nylon LASH with matching Urban hardware PVD = Deep Black Nylon LASH with PVD hardware Combo Urban & PVD = Urban Grey with PVD Hardware Ships on nylon. Add a rubber strap — 25% off, automatic in cart.",
+   "productType": "DIVER",
+   "tags": [
+    "built-to-order",
+    "Quartz"
+   ],
+   "options": [
+    {
+     "name": "DIAL",
+     "values": [
+      "Black Date Dial",
+      "Black No Date"
+     ]
+    },
+    {
+     "name": "FINISH",
+     "values": [
+      "Urban Stainless",
+      "Deep Black",
+      "Combo Urban & Deep Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black Date Dial / Urban Stainless",
+     "sku": "D1ADDQZNYBLKUS",
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Date Dial",
+      "Urban Stainless"
+     ]
+    },
+    {
+     "title": "Black Date Dial / Deep Black",
+     "sku": "D1BDDQZNYBLKDB",
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Date Dial",
+      "Deep Black"
+     ]
+    },
+    {
+     "title": "Black Date Dial / Combo Urban & Deep Black",
+     "sku": "D1CDDQZNYBLKUS",
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Date Dial",
+      "Combo Urban & Deep Black"
+     ]
+    },
+    {
+     "title": "Black No Date / Urban Stainless",
+     "sku": null,
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black No Date",
+      "Urban Stainless"
+     ]
+    },
+    {
+     "title": "Black No Date / Deep Black",
+     "sku": null,
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black No Date",
+      "Deep Black"
+     ]
+    },
+    {
+     "title": "Black No Date / Combo Urban & Deep Black",
+     "sku": null,
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black No Date",
+      "Combo Urban & Deep Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Swiss Super Quartz": "LASTS 10X longer than standard quartz watches. ARES uses the 715Li 5-jewel gold plated Swiss analog quartz, manufactured by Ronda, with a 10-year lithium-ion battery and End-of-Life indicator",
+    "DIVER-1": "Case, Caseback, Crown & Bezel"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/mission-timers",
+    "BRD-0057/ares-watches",
+    "BRD-0057/diver-quartz"
+   ],
+   "hash": "c161a02e4875957f"
+  },
+  {
+   "id": "BRD-0057/field-1-gmt",
+   "name": "FIELD-1 GMT Swiss Automatic",
+   "url": "https://www.areswatches.com/products/field-1-gmt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/50B9268E-7EC9-4472-8D14-69D3443CBA4B.jpg?v=1755115180",
+    "width": 2253,
+    "height": 2802
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/50B9268E-7EC9-4472-8D14-69D3443CBA4B.jpg?v=1755115180",
+     "width": 2253,
+     "height": 2802
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Field_CB.png?v=1759957651",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/BA7BBB6C-8FB8-4391-B364-9D6C0F0A4045.jpg?v=1763087024",
+     "width": 2168,
+     "height": 2777
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/4A93E48D-CFD3-492A-9F53-C098AEDF42E9.jpg?v=1736535504",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/F03622C6-E51E-4CFE-831C-7FC956AD32F0.jpg?v=1763087024",
+     "width": 3024,
+     "height": 4032
+    }
+   ],
+   "priceMinor": 285000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "When you're gone, they'll sell the house, auction the cars, and pawn the jewelry. The watch that was actually with you — that one they'll fight over. The FIELD-1 is that watch: turned from a solid bar of 316L, serialized, tested to 35BAR, guaranteed past your lifetime by design. Who makes a watch like that? ↓ Welcome to your finest piece of purpose-built gear. We are a small boutique shop with 5 artisans building your FIELD-1 Timer as efficiently as we can without sacrificing quality, attention to detail, and performance. From your initial order to our in-house packaging, your FIELD-1 Timer is purpose-built for you. We believe in the build process of 1 watchmaker, 1 watch where each piece is a unique build. Once you place your order, your watchmaker builds your mission timer every step of the way. Because we offer a few distinct models we strive to maintain an inventory of “small batch” pieces in stock. While every attempt is made to shorten the time frame of your build process, manufacturing can take 3-6 weeks depending upon the complexity of your timer. It's built for you, the wait is worth it. FIELD-1 Movement Your FIELD-1 Mission Timer is manufactured with a precision Swiss movement: Swiss Automatic: ARES currently uses ETA Swiss movements for our automatic DIVER-1 (ETA 2824) that are assembled, timed, and regulated by ARES watchmakers, including finishing. FIELD-1 Case, Caseback, Crown & Bezel Turned from a solid bar of 316L stainless steel in Ogden, UT Hand finished in bead blast Urban Stainless 41.0mm single piece case with individually serialized, engraved, solid case back with screwback construction 42.0mm fixed bezel 49.5mm lug to lug 22mm drilled lugs with 1.8mm shoulderless spring bars, supplied with a Deep Black ARES Rubber strap with matching hardware 10 o’clock ‘fat head’ 7.2mm logo’d screw down crown, featuring aggressive ‘no slip’ teeth and double Viton seals: 13.3mm overall thickness 3.3oz total weight with LASH strap Crystal, Dial & Hands Domed sapphire crystal with inner anti-reflective AR coating Brass dial with Super LumiNova C3 printed hour indicators, painted minute indices and logo Brushed hands with C3 in brushed stainless Performance & Testing Individually tested and certified, fully assembled, to 35BAR = 350M. Anti-magnetic rating 18.8Oe, shock resistant to NIHS-91-10 standards, and thermo-compensated -0 to 50+ C LASH & Rubber Straps FIELD-1 Timers arrive on a matching strap, as follows: Automatic = Deep Black Rubber with Urban stainless hardware Every auto ships on rubber. Add a second rubber strap — 25% off, automatic in cart. FIELD-1 Packaging All automatic FIELD-1 Timers arrive in a Seahorse SE56 case, personalized with your name, model of timer, and serial number. **For product collaborations, ARES products will arrive in the packaging that the Collaborating Partner chooses. We are not responsible for Collaborating Partner choices.",
+   "productType": "FIELD",
+   "tags": [
+    "Auto",
+    "built-to-order"
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "Urban Stainless",
+      "Deep Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Urban Stainless",
+     "sku": null,
+     "priceMinor": 285000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Urban Stainless"
+     ]
+    },
+    {
+     "title": "Deep Black",
+     "sku": null,
+     "priceMinor": 285000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Deep Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "The FIELD-1 is that watch": "turned from a solid bar of 316L, serialized, tested to 35BAR, guaranteed past your lifetime by design.",
+    "Swiss Automatic": "ARES currently uses ETA Swiss movements for our automatic DIVER-1 (ETA 2824) that are assembled, timed, and regulated by ARES watchmakers, including finishing.",
+    "FIELD-1": "Case, Caseback, Crown & Bezel"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/ares-automatic-mission-timers",
+    "BRD-0057/ares-watches",
+    "BRD-0057/homepage-collection",
+    "BRD-0057/swiss-auto"
+   ],
+   "hash": "d7b80f926f75ce5c"
+  },
+  {
+   "id": "BRD-0057/diver-1-gmt",
+   "name": "DIVER-1 GMT Swiss Automatic",
+   "url": "https://www.areswatches.com/products/diver-1-gmt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/9bc25193-abab-4514-a832-6cd35ea7caa4_3.jpg?v=1785804553",
+    "width": 1575,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/9bc25193-abab-4514-a832-6cd35ea7caa4_3.jpg?v=1785804553",
+     "width": 1575,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/61a9c67a-cb8a-4e50-ba7a-f0c507279991_3.jpg?v=1785804558",
+     "width": 1575,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/0420afdb-fe86-402c-bd31-56b4638851b0_4.jpg?v=1785804560",
+     "width": 1575,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/M-17_DIVER-1_LUME.jpg?v=1759957793",
+     "width": 1401,
+     "height": 1000
+    }
+   ],
+   "priceMinor": 285000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Where's your watch been with you? If the honest answer is a desk, a dresser, and a couple of dinners — that's jewelry. The DIVER-1 GMT is built for the other answer. Two timezones. Certified to 100BAR. Serialized to you. Guaranteed for life. Want to know who builds it? ↓ Overbuilt. Underwater. Unapologetically American. The DIVER-1 GMT is the 1000M DIVER-1 platform with a second timezone added — a true Swiss GMT that tracks home while you read local. Same overbuilt case, same hand-built process, one more hand on the dial. From your initial order to final in-house packaging, your DIVER-1 GMT is purpose-built for you — not pulled from a shelf. Once you place your order, your watchmaker begins the build process by hand, every step of the way. Every DIVER-1 GMT is machined by local craftsmen a mile away to our spec, then assembled, regulated, and tested by hand by our six-person team. Nothing is overlooked. Nothing is rushed. Because we offer a few distinct models and build in limited batches, we strive to maintain small-batch inventory on hand. But in most cases, your watch will be made to order. While every effort is made to shorten your custom Swiss automatic timer's build time, manufacturing can take up to 6-8 weeks depending on complexity. It's built for you, the wait is worth it. This is not a stock item. It's a purpose-built instrument , assembled from scratch and engineered for a lifetime of hard use. Guaranteed for life. Two timezones, one dial. The GMT hand makes a single turn every 24 hours. Set it to home, read local on the main hands, and a glance tells you what time it is where you left — no bezel math, no guesswork. Built for the people who cross zones and still have to be on time in both. When You Order: - If your DIVER-1 GMT is in stock, it ships immediately. - If not, your order reserves a spot in the current production run — and we get to work. - You'll receive updates as your build progresses from steel to seal. Built for pressure. Built to last. Built for you. Reserve Your DIVER-1 GMT Now Ships immediately if in stock. Otherwise purpose-built to order in as little as 6-8 weeks. DIVER-1 GMT Movement Your DIVER-1 GMT Mission Timer is manufactured with a precision Swiss movement Swiss Automatic GMT: ARES uses the ETA 2893-2 Swiss automatic GMT movement, assembled, timed, and regulated by ARES watchmakers, including perlage & finishing. A 24-hour GMT hand tracks a second timezone. DIVER-1 GMT Case, Caseback, Crown & Bezel 4 case finishes in either \"Urban\" bead blast stainless steel; \"Deep Black\"; Combination Urban (case) & Deep Black (bezel); 41.0mm two piece case with individually serialized, engraved, screwback construction 42.0mm bezel, featuring countdown timer with C3 Superluminova, clear coat finish, aggressive 'no slip' teeth, and 120-click uni-directional countdown mission timer 49.5mm lug to lug 22mm drilled lugs with 1.8mm shoulderless spring bars, supplied with a 3-ring LASH ballistic nylon strap 10 o'clock 'fat head' 7.2mm logo'd screw down crown, featuring aggressive 'no slip' teeth and double Viton seals, finished with a Red Mission Timer crown 13.3mm overall thickness 3.3oz total weight with LASH strap Crystal, Dial & Hands Flat sapphire crystal with inner anti-reflective AR coating Brass dial with Super LumiNova C3 printed hour indicators, painted minute indices and logo Brushed hands with C3, a red seconds hand, and a 24-hour GMT hand for the second timezone Performance & Testing Individually tested and certified, fully assembled, to 100BAR = 3345ft. Anti-magnetic rating 18.8Oe, shock resistant to NIHS-91-10 standards, and thermo-compensated -0 to 50+ C LASH & Rubber Straps AUTOMATIC Mission Timers arrive on a matching rubber strap, as follows: Bead Blasted = Deep Black Rubber with Urban stainless hardware Deep Black = Deep Black Rubber with matching hardware Combo Urban & Deep Black = Urban Grey with matching hardware Every auto ships on rubber. Add a second rubber strap — 25% off, automatic in c",
+   "productType": "DIVER",
+   "tags": [
+    "Auto",
+    "built-to-order"
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "Urban Stainless",
+      "Deep Black",
+      "Combo Urban & Deep Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Urban Stainless",
+     "sku": "D1ANDUSAURUBLKUS-1",
+     "priceMinor": 285000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Urban Stainless"
+     ]
+    },
+    {
+     "title": "Deep Black",
+     "sku": "D1ANDUSAURUBLKUS-2",
+     "priceMinor": 285000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Deep Black"
+     ]
+    },
+    {
+     "title": "Combo Urban & Deep Black",
+     "sku": "D1ANDUSAURUBLKUS-3",
+     "priceMinor": 285000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Combo Urban & Deep Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2893-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Swiss Automatic GMT": "ARES uses the ETA 2893-2 Swiss automatic GMT movement, assembled, timed, and regulated by ARES watchmakers, including perlage & finishing. A 24-hour GMT hand tracks a second timezone.",
+    "DIVER-1 GMT": "Case, Caseback, Crown & Bezel"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/ares-automatic-mission-timers",
+    "BRD-0057/ares-watches",
+    "BRD-0057/homepage-collection",
+    "BRD-0057/swiss-auto"
+   ],
+   "hash": "696cde4fda5812eb"
+  },
+  {
+   "id": "BRD-0057/2026-white-dials",
+   "name": "2026 WHITE DIALS",
+   "url": "https://www.areswatches.com/products/2026-white-dials",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_7694.heic?v=1783731447",
+    "width": 3024,
+    "height": 4032
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_7694.heic?v=1783731447",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/8F3A2973-6CBE-4694-A71A-5281E34C8AF3.jpg?v=1784908341",
+     "width": 2614,
+     "height": 3482
+    }
+   ],
+   "priceMinor": 185000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The '26 White Dial. Twelve DIVER-1s. Twelve FIELD-1s. When they're gone, they're gone. The same Mission Timers® we've always built — machined from 316L bar stock, assembled and regulated by hand in Stanwood, WA — wearing the one dial that's requested the most: white dial, orange seconds, with Super LumiNova C3 printed indices that turn the whole face into a light source after dark. Swiss ETA 2824 automatic, assembled, timed & regulated by ARES watchmakers 41.0mm case, individually serialized: DIVER-1 two-piece screwback, 120-click countdown bezel, 100BAR; FIELD-1 single-piece, fixed bezel, domed sapphire, 35BAR Sapphire crystal with inner AR coating Ships on an ARES rubber strap in a personalized Seahorse case Guaranteed for life $1,850 — the final run at this price. First come, first served. In-stock pieces ship immediately. Every auto ships on rubber. Add a second rubber strap — 25% off, automatic in cart.",
+   "productType": "Watch",
+   "tags": [
+    "drop",
+    "limited",
+    "white-dial-26"
+   ],
+   "options": [
+    {
+     "name": "Model",
+     "values": [
+      "DIVER-1",
+      "FIELD-1"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "DIVER-1",
+     "sku": "D1-WD26",
+     "priceMinor": 185000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "DIVER-1"
+     ]
+    },
+    {
+     "title": "FIELD-1",
+     "sku": "F1-WD26",
+     "priceMinor": 185000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "FIELD-1"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c54c2eb39e915234"
+  },
+  {
+   "id": "BRD-0057/ares-founder-build-experience",
+   "name": "ARES 2026 Founder Build Experience",
+   "url": "https://www.areswatches.com/products/ares-founder-build-experience",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_5246_2.jpg?v=1764566720",
+    "width": 1434,
+    "height": 1243
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_5246_2.jpg?v=1764566720",
+     "width": 1434,
+     "height": 1243
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_1695.jpg?v=1764566720",
+     "width": 1790,
+     "height": 2399
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/IMG_4994_2.heic?v=1764566720",
+     "width": 3985,
+     "height": 2123
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Fields_in_Blast_Tank.jpg?v=1764566720",
+     "width": 1877,
+     "height": 2709
+    }
+   ],
+   "priceMinor": 399500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Remember when you used to make things? We never stopped. Most people buy a watch. Almost nobody builds one. The ARES Founder Build Experience is the only place in American watchmaking where you can cut your own steel, finish your own case, personalize your own dial, assemble your own movement, engrave your own case back, and walk out wearing the Mission Timer you made. Because a watch you build isn’t just a watch. It’s proof you were here. It’s evidence of your hands, your time, your life — pressed into steel. It’s not purchased; it’s made. And that changes everything. When you’re gone, they’re going to sell your house. They’re going to auction your cars. They’re going to pawn your Rolex. But they’ll fight over the Mission Timer you built. No other American watch company can do what we do. So if you’ve ever felt the pull to make something real, this is the place you cross the threshold. Come make something worth fighting over. Availability for 2026. We don’t do this often, and we don’t do this for everyone. ARES is a working shop first — a place where steel is cut, parts are made, and real production happens every day. Opening the doors for the Founder Build Experience isn’t a product decision. It’s a commitment of time, tools, focus, and hands-on guidance. Because of that, we offer only 7 Founder's Dates in 2026. Not classes. Not sessions. Weekends. One at a time. Small, personal, founder-led. Most years, only a handful of people will ever stand at these machines and make their own Mission Timer. The rest of the world will keep buying watches in glass cases from sales counters under mall lighting. You’re choosing something different. If you see a date available, take it. When the calendar fills, the door closes until the following year. We don’t oversell spots. We don’t expand capacity to chase demand. We keep it small on purpose — to protect the craft, the experience, and the story you walk out with. This is the one watch in your life you won’t regret making time for. Thursday Evening – Arrival & Reception You arrive in Stanwood at ARES HQ and step straight into the ARES community. Whiskey & Watches reception Meet Matt and the local ARES crew Food, fellowship, and stories Shop walkthrough Safety briefing Watch configuration and material selection This isn’t a warm-up — this is where you cross from the outside world into the maker’s world. Friday – Machining the Heart of Your Timer This is the day steel becomes purpose. THE LATHE Cut your raw steel into the beginnings of your Mission Timer case. THE MILL Drill, profile, and machine your geometry on our Haas VF-1 — the same machine that cuts every ARES we make. THE BLAST TANK Texture your case by hand and bring the surface to life. Every cut guided. Every decision yours. Saturday – Finishing, Dial Work & Assembly This is where your timer becomes a reflection of you. CERAKOTE BOOTH Apply your chosen finish under direct supervision. DIAL STATION Personalize your dial — print, apply, or refine your variant. ASSEMBLY BENCH Set your movement. Press your hands. Seat your stem and crown. Seal and torque your caseback. Build your timer from the inside out. You’re no longer watching a watch being made. You’re making one. LUNCH A closing meal with the ARES team before heading home, wearing the Mission Timer you built with your own hands. PRESSURE TEST Depth testing and verification — the same standard every ARES must pass. FINAL INSPECTION You approve your own work. You sign your QC card. You engrave your caseback with your serial number. You take your first wrist shot. The final steps before you return home with something no one else on earth has. Guaranteed for life. AVAILABILITY These are the only available Founder Build Weekends for 2026. Small. Personal. Founder-led. If you see a date available, take it. We will contact you directly regarding scheduling and travel information. Full payment required at booking. Non-refundable. Transferable with 60 days’ notice. Travel and lodging no",
+   "productType": "Custom Build",
+   "tags": [
+    "built-to-order"
+   ],
+   "options": [
+    {
+     "name": "Choose Your Build Experience ",
+     "values": [
+      "March 19-21",
+      "April 16-18",
+      "May 14-16",
+      "June 18-20 Father's Day",
+      "September 10-12",
+      "October 15-17",
+      "November 11-13 Veteran's Day"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "March 19-21",
+     "sku": null,
+     "priceMinor": 399500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "March 19-21"
+     ]
+    },
+    {
+     "title": "April 16-18",
+     "sku": null,
+     "priceMinor": 399500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "April 16-18"
+     ]
+    },
+    {
+     "title": "May 14-16",
+     "sku": null,
+     "priceMinor": 399500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "May 14-16"
+     ]
+    },
+    {
+     "title": "June 18-20 Father's Day",
+     "sku": null,
+     "priceMinor": 399500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "June 18-20 Father's Day"
+     ]
+    },
+    {
+     "title": "September 10-12",
+     "sku": null,
+     "priceMinor": 399500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "September 10-12"
+     ]
+    },
+    {
+     "title": "October 15-17",
+     "sku": null,
+     "priceMinor": 399500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "October 15-17"
+     ]
+    },
+    {
+     "title": "November 11-13 Veteran's Day",
+     "sku": null,
+     "priceMinor": 399500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "November 11-13 Veteran's Day"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "THE LATHE": "Cut your raw steel into the beginnings of your Mission Timer case.",
+    "THE MILL": "Drill, profile, and machine your geometry on our Haas VF-1 — the same machine that cuts every ARES we make.",
+    "THE BLAST TANK": "Texture your case by hand and bring the surface to life.",
+    "CERAKOTE BOOTH": "Apply your chosen finish under direct supervision.",
+    "DIAL STATION": "Personalize your dial — print, apply, or refine your variant.",
+    "ASSEMBLY BENCH": "Set your movement. Press your hands. Seat your stem and crown. Seal and torque your caseback. Build your timer from the inside out.",
+    "LUNCH": "A closing meal with the ARES team before heading home, wearing the Mission Timer you built with your own hands.",
+    "PRESSURE TEST": "Depth testing and verification — the same standard every ARES must pass.",
+    "FINAL INSPECTION": "You approve your own work. You sign your QC card. You engrave your caseback with your serial number. You take your first wrist shot.",
+    "Full payment required at booking.": "Non-refundable. Transferable with 60 days’ notice. Travel and lodging not included."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/ares-custom-build"
+   ],
+   "hash": "3511914133509c87"
+  },
+  {
+   "id": "BRD-0057/ranger",
+   "name": "RANGER \"RLTW\" Mission Timer",
+   "url": "https://www.areswatches.com/products/ranger",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/2C70530B-A5DF-4CA2-AF99-405184E5930F.jpg?v=1762464722",
+    "width": 650,
+    "height": 1154
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/2C70530B-A5DF-4CA2-AF99-405184E5930F.jpg?v=1762464722",
+     "width": 650,
+     "height": 1154
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/4D1BDEA5-DA13-440A-A312-4B3B6E075C8B.jpg?v=1763488691",
+     "width": 1123,
+     "height": 1116
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/37755AA8-2277-4C2F-9F40-AA1A78A4D3DD.jpg?v=1763488691",
+     "width": 1121,
+     "height": 1105
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/18A1360A-3D54-45E2-9467-85A37C9ABADD.jpg?v=1763488691",
+     "width": 1205,
+     "height": 1210
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/0E56B4A4-CAB2-49BC-9842-6CCEBBD650DE.jpg?v=1763488691",
+     "width": 2342,
+     "height": 2262
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/3296F5F0-465F-4016-A44C-F4B2C7549FD9.jpg?v=1763488691",
+     "width": 1043,
+     "height": 1007
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/1st_BN.webp?v=1763488691",
+     "width": 1588,
+     "height": 1588
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/2d_BN.webp?v=1763488691",
+     "width": 1588,
+     "height": 1588
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/3dBN.webp?v=1763488691",
+     "width": 1588,
+     "height": 1588
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/75th_Ranger_Regiment_SSI__1984-2015__svg.png?v=1763488691",
+     "width": 1400,
+     "height": 719
+    }
+   ],
+   "priceMinor": 215000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "RLTW. Our RANGER Mission Timer is built upon our DIVER-1, with: Custom dials featuring 1/75, 2/27, 3/75, or 75 in red Super-LumiNova ETA 2824 hand-tuned to COSC spec featuring engraved Regimental Scroll 316L stainless case components, rated to 1000m All Regimental Mission Timers are individually serialized, manufactured in Stanwood, Washington, and Guaranteed for Life. 10% of the proceeds will be donated to the Three Rangers Foundation . This is a pre-order for a LIMITED EDITION custom timer; we are only manufacturing 75 of each BN for the Limited Edition. Timers will be machined, built, and begin delivery in JAN ‘26.",
+   "productType": "Custom Build",
+   "tags": [
+    "built-to-order"
+   ],
+   "options": [
+    {
+     "name": "Battalion",
+     "values": [
+      "1st BN",
+      "2D BN",
+      "3D BN",
+      "75 RGT"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "1st BN",
+     "sku": null,
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "1st BN"
+     ]
+    },
+    {
+     "title": "2D BN",
+     "sku": null,
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "2D BN"
+     ]
+    },
+    {
+     "title": "3D BN",
+     "sku": null,
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "3D BN"
+     ]
+    },
+    {
+     "title": "75 RGT",
+     "sku": null,
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "75 RGT"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/custom-autos"
+   ],
+   "hash": "3888491abe0dfc03"
+  },
+  {
+   "id": "BRD-0057/field-1-automatic",
+   "name": "FIELD-1 Mission Timer® Swiss Automatic",
+   "url": "https://www.areswatches.com/products/field-1-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Field_Black.png?v=1759957651",
+    "width": 1372,
+    "height": 1714
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Field_Black.png?v=1759957651",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Field_CB.png?v=1759957651",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Field_with_reflection.png?v=1759957651",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/4C977C97-A3B7-4626-A674-A3A40AF8A53E_6b54e545-cfbd-46fd-a72a-7ffe64b9ec25.jpg?v=1759955270",
+     "width": 1440,
+     "height": 1100
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/200001D6-9BDF-4EB2-AAB4-8358D09D0DF2_f03ab324-35f2-4818-b48d-7f23935dac86.jpg?v=1763087024",
+     "width": 1670,
+     "height": 1670
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/FIELD-1_DEEP_BLACK_w_Date.jpg?v=1784243136",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/FIELD-1_DEEP_BLACK_on_Rubber.jpg?v=1784243163",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/image_c0a04b0d-dcae-442e-a687-6ec8c7361b60.jpg?v=1759955270",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/FIELD-1_DEEP_BLACK_Exposed_Caseback.jpg?v=1784243193",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Field_Black_738ff0a4-5f08-4f57-bce2-67749fea7fb0.png?v=1759955270",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/FIELD-1_DEEP_BLACK.png?v=1784243218",
+     "width": 1372,
+     "height": 1714
+    }
+   ],
+   "priceMinor": 215000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "When you're gone, they'll sell the house, auction the cars, and pawn the jewelry. The watch that was actually with you — that one they'll fight over. The FIELD-1 is that watch: turned from a solid bar of 316L, serialized, tested to 35BAR, guaranteed past your lifetime by design. Who makes a watch like that? ↓ Welcome to your finest piece of purpose-built gear. We are a small boutique shop with 5 artisans building your FIELD-1 Timer as efficiently as we can without sacrificing quality, attention to detail, and performance. From your initial order to our in-house packaging, your FIELD-1 Timer is purpose-built for you. We believe in the build process of 1 watchmaker, 1 watch where each piece is a unique build. Once you place your order, your watchmaker builds your mission timer every step of the way. Because we offer a few distinct models we strive to maintain an inventory of “small batch” pieces in stock. While every attempt is made to shorten the time frame of your build process, manufacturing can take 3-6 weeks depending upon the complexity of your timer. It's built for you, the wait is worth it. FIELD-1 Movement Your FIELD-1 Mission Timer is manufactured with a precision Swiss movement: Swiss Automatic: ARES currently uses ETA Swiss movements for our automatic DIVER-1 (ETA 2824) that are assembled, timed, and regulated by ARES watchmakers, including finishing. FIELD-1 Case, Caseback, Crown & Bezel Turned from a solid bar of 316L stainless steel in Ogden, UT Hand finished in bead blast Urban Stainless 41.0mm single piece case with individually serialized, engraved, solid case back with screwback construction 42.0mm fixed bezel 49.5mm lug to lug 22mm drilled lugs with 1.8mm shoulderless spring bars, supplied with a Deep Black ARES Rubber strap with matching hardware 10 o’clock ‘fat head’ 7.2mm logo’d screw down crown, featuring aggressive ‘no slip’ teeth and double Viton seals: 13.3mm overall thickness 3.3oz total weight with LASH strap Crystal, Dial & Hands Domed sapphire crystal with inner anti-reflective AR coating Brass dial with Super LumiNova C3 printed hour indicators, painted minute indices and logo Brushed hands with C3 in brushed stainless Performance & Testing Individually tested and certified, fully assembled, to 35BAR = 350M. Anti-magnetic rating 18.8Oe, shock resistant to NIHS-91-10 standards, and thermo-compensated -0 to 50+ C LASH & Rubber Straps FIELD-1 Timers arrive on a matching strap, as follows: Automatic = Deep Black Rubber with Urban stainless hardware Every auto ships on rubber. Add a second rubber strap — 25% off, automatic in cart. FIELD-1 Packaging All automatic FIELD-1 Timers arrive in a Seahorse SE56 case, personalized with your name, model of timer, and serial number. **For product collaborations, ARES products will arrive in the packaging that the Collaborating Partner chooses. We are not responsible for Collaborating Partner choices.",
+   "productType": "FIELD",
+   "tags": [
+    "Auto",
+    "built-to-order"
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "Urban Stainless",
+      "Deep Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Urban Stainless",
+     "sku": "F1ADDUSAURUBLKUS",
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Urban Stainless"
+     ]
+    },
+    {
+     "title": "Deep Black",
+     "sku": "F1BDDDBAURUBLKDB",
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Deep Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "The FIELD-1 is that watch": "turned from a solid bar of 316L, serialized, tested to 35BAR, guaranteed past your lifetime by design.",
+    "Swiss Automatic": "ARES currently uses ETA Swiss movements for our automatic DIVER-1 (ETA 2824) that are assembled, timed, and regulated by ARES watchmakers, including finishing.",
+    "FIELD-1": "Case, Caseback, Crown & Bezel"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/ares-automatic-mission-timers",
+    "BRD-0057/ares-watches",
+    "BRD-0057/homepage-collection",
+    "BRD-0057/swiss-auto"
+   ],
+   "hash": "af2be0d2c4c464ad"
+  },
+  {
+   "id": "BRD-0057/dual-crown-gmt",
+   "name": "GMT Global Mission Timer®",
+   "url": "https://www.areswatches.com/products/dual-crown-gmt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Diver_GMT_S.png?v=1759956530",
+    "width": 1372,
+    "height": 1714
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Diver_GMT_S.png?v=1759956530",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Diver_GMT_B.png?v=1759956530",
+     "width": 1372,
+     "height": 1714
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/AresDiver-1GMTStainless11.jpg?v=1759956530",
+     "width": 3449,
+     "height": 4311
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/AresDiver-1GMTBlack014.jpg?v=1759956530",
+     "width": 3808,
+     "height": 3808
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/AresDiver-1GMTBlack010.jpg?v=1759956530",
+     "width": 3084,
+     "height": 3084
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/AresDiver-1GMTBlack004.jpg?v=1759956530",
+     "width": 2586,
+     "height": 3233
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/image_95443bf9-03e2-4375-af99-4b209c6e6233.heic?v=1759956530",
+     "width": 2581,
+     "height": 3131
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/RANGER_LE.heic?v=1784245162",
+     "width": 3024,
+     "height": 4032
+    }
+   ],
+   "priceMinor": 385000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "You're three time zones from everyone you love. What time is it at home? That's the only question a GMT exists to answer — and ours answers it for fifty hours on a wind, at 100ATM, for life. Built how? ↓ The ARES® GMT Global Mission Timer™ is a hand-crafted precision time piece that gives you the best of both worlds: with multiple timezone references the GMT allows you to be present, even while away. And with the ARES® Limited Lifetime Guarantee, each U.S. hand-crafted timepiece is guaranteed to give you the one thing you want more of: time. The GMT follows the same design parameters of the DIVER-1: reliability, dependability, legibility, and longevity. The reliability of the GMT is in the ARES ETA 2893-2 automatic movement, a robust 40-hour power reserve Swiss-made hand crafted movement. The dependability of the GMT comes from the tried & tested 316L stainless steel case and solid caseback with sapphire front. The GMT, with its beautiful movement and display-back case, is built for adversity with its CERTIFIED 1000M/100ATM depth rating. Carrying over the lume from the standard DIVER-1, the GMT features the same 5-layer application of Swiss C-3 SuperLumiNova: the industry standard in legibility, regardless of environment. And the GMT is backed by one of the strongest Warranties in the industry: Lifetime on the the case construction and a full 5 year Limited Warranty on the ARES ETA movement - which includes one complimentary service. The Ares GMT is a hand-crafted and hand-finished precision timer and are built to order. This process can take up to 5-8 weeks, or longer. All GMT’s are shipped complimentary via FEDEX/UPS 2-day shipping. SPECIFICATIONS: 41mm x 49.5mm x 14mm stainless steel two piece case with individually serialized, engraved, screwback construction, in either bead blasted or Deep Black PVD 42.0mm 316L stainless steel bead blasted bezel, featuring countdown timer with C3 Superluminova, clear coat finish, aggressive ‘no slip’ teeth, and 120-click uni-directional countdown mission timer 49.5mm lug to lug 22mm drilled lugs with 1.8mm shoulderless spring bars, supplied with matching straps: (1) each ARES Mission Timer rubber strap in Deep Black with matching finish Every GMT ships on rubber. Add a second rubber strap — 25% off, automatic in cart. 10 o’clock & 8 o’clock ‘fat head’ 7.2mm logo’d screw down crowns, featuring aggressive ‘no slip’ teeth and double Viton seals; the GMT crown is MISSION RED anodized aircraft-grade aluminum with steel insert Individually tested and certified, fully assembled, to 100ATM Movement, Crystal, Dial & Hands ARES ETA 2893-2 automatic movement with 21-jewels; custom movements feature ARES filigree & enamel Brass dial with C3 printed hour indicators, painted minute indices and logo Front flat sapphire crystal with inner AR coating; solid 316L stainless caseback with matching case finish; optional clear caseback on custom orders Brushed stainless C3 hands ETA 2893-2 Diameter 25,60 mm Height 4,10 mm Hours, minutes, central second Date display in window, semi-instantaneaous 24 hours hand or second time zone Quick correction of date and 24 hour hand Time setting with stop-second Self-winding mechanism, bidirectional Frequency: 28'800 vibrations per hour; 4 Hz 21 jewels Regulator system ETACHRON Typical power reserve: 50 hours",
+   "productType": "GMT",
+   "tags": [
+    "Auto",
+    "built-to-order"
+   ],
+   "options": [
+    {
+     "name": "Finish",
+     "values": [
+      "GMT-B in Deep Black PVD",
+      "GMT in Bead Blast Stainless Steel",
+      "RANGER GMT MILSPEC LIMITED EDITION"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "GMT-B in Deep Black PVD",
+     "sku": null,
+     "priceMinor": 385000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "GMT-B in Deep Black PVD"
+     ]
+    },
+    {
+     "title": "GMT in Bead Blast Stainless Steel",
+     "sku": null,
+     "priceMinor": 385000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "GMT in Bead Blast Stainless Steel"
+     ]
+    },
+    {
+     "title": "RANGER GMT MILSPEC LIMITED EDITION",
+     "sku": null,
+     "priceMinor": 385000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "RANGER GMT MILSPEC LIMITED EDITION"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2893-2",
+    "movementType": "automatic",
+    "powerReserveH": 50,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Frequency": "28'800 vibrations per hour; 4 Hz",
+    "Typical power reserve": "50 hours"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/ares-gmt",
+    "BRD-0057/ares-watches",
+    "BRD-0057/homepage-collection",
+    "BRD-0057/swiss-auto"
+   ],
+   "hash": "7f538bdd922da371"
+  },
+  {
+   "id": "BRD-0057/diver-1-automatic",
+   "name": "DIVER-1 Mission Timer® Swiss Automatic",
+   "url": "https://www.areswatches.com/products/diver-1-automatic",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/M-17_DIVER-1_LUME.jpg?v=1759957793",
+    "width": 1401,
+    "height": 1000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/products/M-17_DIVER-1_LUME.jpg?v=1759957793",
+     "width": 1401,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/ee284e36-3998-4e27-87ce-e05cf2feac26_3.jpg?v=1785803078",
+     "width": 1575,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/018f0cab-c180-4941-b58e-315e74c581d6_3.jpg?v=1785803078",
+     "width": 1575,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/604af608-7af0-4816-8def-fcd304b5693e_3.jpg?v=1785803078",
+     "width": 1575,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 215000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Where's your watch been with you? If the honest answer is a desk, a dresser, and a couple of dinners — that's jewelry. The DIVER-1 is built for the other answer. Certified to 100BAR. Machined from bar stock. Serialized to you. Guaranteed for life. Want to know who builds it? ↓ Overbuilt. Underwater. Unapologetically American. From your initial order to final in-house packaging, your DIVER-1 is purpose-built for you — not pulled from a shelf. Once you place your order, your watchmaker begins the build process by hand, every step of the way. Every DIVER-1 is machined by local craftsmen a mile away to our spec, then assembled and tested by hand by our six-person team. Nothing is overlooked. Nothing is rushed. Because we offer a few distinct models and build in limited batches, we strive to maintain small-batch inventory on hand. But in most cases, your watch will be made to order. While every effort is made to shorten your custom Swiss automatic timer's build time, manufacturing can take up to 6-8 weeks depending on complexity. It's built for you, the wait is worth it. This is not a stock item. It's a purpose-built instrument , assembled from scratch and engineered for a lifetime of hard use. Guaranteed for life. When You Order: - If your DIVER-1 is in stock, it ships immediately. - If not, your order reserves a spot in the current production run — and we get to work. - You'll receive updates as your build progresses from steel to seal. Built for pressure. Built to last. Built for you. Reserve Your DIVER-1 Now Ships immediately if in stock. Otherwise purpose-built to order in as little as 6-8 weeks. DIVER-1 Movement Your DIVER-1 Mission Timer is manufactured with a precision Swiss movement Swiss Automatic: ARES currently uses ETA Swiss movements for our automatic DIVER-1 (ETA 2824) that are assembled, timed, and regulated by ARES watchmakers, including perlage & finishing. DIVER-1 Case, Caseback, Crown & Bezel 4 case finishes in either \"Urban\" bead blast stainless steel; \"Deep Black\"; Combination Urban (case) & Deep Black (bezel); 41.0mm two piece case with individually serialized, engraved, screwback construction 42.0mm bezel, featuring countdown timer with C3 Superluminova, clear coat finish, aggressive 'no slip' teeth, and 120-click uni-directional countdown mission timer 49.5mm lug to lug 22mm drilled lugs with 1.8mm shoulderless spring bars, supplied with a 3-ring LASH ballistic nylon strap 10 o'clock 'fat head' 7.2mm logo'd screw down crown, featuring aggressive 'no slip' teeth and double Viton seals: Quartz timers feature stainless Deep Black crowns, based upon the model, while Automatic timers feature Red Mission Timer crowns 13.3mm overall thickness 3.3oz total weight with LASH strap Crystal, Dial & Hands Flat sapphire crystal with inner anti-reflective AR coating Brass dial with Super LumiNova C3 printed hour indicators, painted minute indices and logo Brushed hands with C3, with either brushed stainless (Quartz) or red seconds hand (Automatic) Performance & Testing Individually tested and certified, fully assembled, to 100BAR = 3345ft. Anti-magnetic rating 18.8Oe, shock resistant to NIHS-91-10 standards, and thermo-compensated -0 to 50+ C LASH & Rubber Straps AUTOMATIC Mission Timers arrive on a matching rubber strap, as follows: Bead Blasted = Deep Black Rubber with Urban stainless hardware Deep Black = Deep Black Rubber with matching hardware Combo Urban & Deep Black = Urban Grey with matching hardware Every auto ships on rubber. Add a second rubber strap — 25% off, automatic in cart. DIVER-1 Packaging All AUTOMATIC Mission Timers arrive in a custom Seahorse case, personalized with your name, model of timer, and serial number. **For product collaborations, ARES products will arrive in the packaging that the collaborating partner chooses.",
+   "productType": "DIVER",
+   "tags": [
+    "Auto",
+    "built-to-order"
+   ],
+   "options": [
+    {
+     "name": "Dial",
+     "values": [
+      "Black No Date",
+      "Black Date Dial"
+     ]
+    },
+    {
+     "name": "Finish",
+     "values": [
+      "Urban Stainless",
+      "Deep Black",
+      "Combo Urban & Deep Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black No Date / Urban Stainless",
+     "sku": "D1ANDUSAURUBLKUS",
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black No Date",
+      "Urban Stainless"
+     ]
+    },
+    {
+     "title": "Black No Date / Deep Black",
+     "sku": "D1BNDDBAURUBLKDB",
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black No Date",
+      "Deep Black"
+     ]
+    },
+    {
+     "title": "Black No Date / Combo Urban & Deep Black",
+     "sku": "D1CNDUSAURUBLKUS",
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black No Date",
+      "Combo Urban & Deep Black"
+     ]
+    },
+    {
+     "title": "Black Date Dial / Urban Stainless",
+     "sku": "D1ANDUSAURUBLKUS-1",
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Date Dial",
+      "Urban Stainless"
+     ]
+    },
+    {
+     "title": "Black Date Dial / Deep Black",
+     "sku": "D1ANDUSAURUBLKUS-2",
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Date Dial",
+      "Deep Black"
+     ]
+    },
+    {
+     "title": "Black Date Dial / Combo Urban & Deep Black",
+     "sku": "D1ANDUSAURUBLKUS-3",
+     "priceMinor": 215000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Date Dial",
+      "Combo Urban & Deep Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Swiss Automatic": "ARES currently uses ETA Swiss movements for our automatic DIVER-1 (ETA 2824) that are assembled, timed, and regulated by ARES watchmakers, including perlage & finishing.",
+    "DIVER-1": "Case, Caseback, Crown & Bezel"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/ares-automatic-mission-timers",
+    "BRD-0057/ares-watches",
+    "BRD-0057/homepage-collection",
+    "BRD-0057/swiss-auto"
+   ],
+   "hash": "ca2aa07e7d3a608a"
+  },
+  {
+   "id": "BRD-0057/holiday-sale-diver-1-mission-timer-c2-ae-rubber-strap",
+   "name": "DIVER-1 Mission Timer® Rubber Strap",
+   "url": "https://www.areswatches.com/products/holiday-sale-diver-1-mission-timer®-rubber-strap",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/062B5967-1FBB-4220-8BB9-F31E6C228988_1c451761-7418-4cdf-8075-133a8ac61194.jpg?v=1700165325",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/062B5967-1FBB-4220-8BB9-F31E6C228988_1c451761-7418-4cdf-8075-133a8ac61194.jpg?v=1700165325",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/AresMissionTimerRubberStrap008-1500_1acd9a90-9299-4ea6-b254-5df38cc8d5f4.jpg?v=1700165325",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/AresMissionTimerRubberStrap007-1500_1ab925ff-4a3e-4b58-af4b-752c83c9cbeb.jpg?v=1700165325",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/AresMissionTimerRubberStrap005-1500_ab73f04a-b99b-4100-a55f-d29f29dc2e71.jpg?v=1700165325",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/AresMissionTimerRubberStrap006-1500_004ad3f7-ffe3-4962-8f23-0e7fd2554fb8.jpg?v=1700165325",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/AresMissionTimerRubberStrap004-1500_f3b6a415-7678-400c-aa44-5a92c43e675c.jpg?v=1700165325",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/AresMissionTimerRubberStrap003-1500_f2fa1e88-1e61-441b-a373-2ad1686a2839.jpg?v=1700165325",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/AresMissionTimerRubberStrap002-1500_04541fe2-67f9-4ca0-83f8-050510e11646.jpg?v=1700165325",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/AresMissionTimerRubberStrap001-1500_e11d0046-6b75-4ac4-b4eb-1bb15f85c13f.jpg?v=1700165325",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Desert_Rat_ARES_logo_side_2845bf54-9425-42da-9427-daf6a1ee7f28.jpg?v=1700165325",
+     "width": 2167,
+     "height": 2877
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/Desert_Rat_Wrist_Logo_9d4b63e0-8f2c-4f0e-acfa-d5aa524acfba.jpg?v=1700165325",
+     "width": 2489,
+     "height": 2867
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0279/5382/3879/files/OD_Rubber_SS_a48b039f-4258-489a-809a-3e6deda8d0e4.jpg?v=1700165325",
+     "width": 2290,
+     "height": 3273
+    }
+   ],
+   "priceMinor": 15500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Buying a timer? This strap is 25% off in the same cart — automatic, no code. Our ARES Mission Timer rubber straps are crafted from the most comfortable & resilient rubber on the market: FKM. These high-end rubber straps FEEL like leather yet FUNCTION like rubber: impervious to the elements, supple on the wrist, easy to clean with integrated drain slots and, most importantly, comfortable to wear. Our Mission Timer straps feature ARES styling and ‘captured’ keepers. Available in four custom colors with finishes matching your DIVER-1: bead-blasted stainless steel or Deep Black PVD. Guaranteed for life. SPECS: Width is 22mm at lugs, tapering; Short side is 80mm and 100mm with buckle; Long side is 130mm; Thickness tapers from 4.6mm at lugs to 3.0mm. The buckled strap varies in length from 180mm fully closed (tightest) to 240mm fully opened (loosest). All measurements include the watch head. Read a review of our Mission Timer rubber straps from The Gear Bunker .",
+   "productType": "Gear",
+   "tags": [
+    "ships-fast"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Deep Black",
+      "Desert Rat Tan",
+      "Jungle Green",
+      "Urban Grey",
+      "Rescue Orange",
+      "Range Red"
+     ]
+    },
+    {
+     "name": "Finish",
+     "values": [
+      "Stainless",
+      "PVD"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Deep Black / Stainless",
+     "sku": "RUDBUS",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": true,
+     "options": [
+      "Deep Black",
+      "Stainless"
+     ]
+    },
+    {
+     "title": "Deep Black / PVD",
+     "sku": "RUDBDB",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": true,
+     "options": [
+      "Deep Black",
+      "PVD"
+     ]
+    },
+    {
+     "title": "Desert Rat Tan / Stainless",
+     "sku": "RUTNUS",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": false,
+     "options": [
+      "Desert Rat Tan",
+      "Stainless"
+     ]
+    },
+    {
+     "title": "Desert Rat Tan / PVD",
+     "sku": "RUTNDB",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": false,
+     "options": [
+      "Desert Rat Tan",
+      "PVD"
+     ]
+    },
+    {
+     "title": "Jungle Green / Stainless",
+     "sku": "RUJGUS",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": false,
+     "options": [
+      "Jungle Green",
+      "Stainless"
+     ]
+    },
+    {
+     "title": "Jungle Green / PVD",
+     "sku": "RUJGDB",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": false,
+     "options": [
+      "Jungle Green",
+      "PVD"
+     ]
+    },
+    {
+     "title": "Urban Grey / Stainless",
+     "sku": "RUUGUS",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": true,
+     "options": [
+      "Urban Grey",
+      "Stainless"
+     ]
+    },
+    {
+     "title": "Urban Grey / PVD",
+     "sku": "RUUGDB",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": false,
+     "options": [
+      "Urban Grey",
+      "PVD"
+     ]
+    },
+    {
+     "title": "Rescue Orange / Stainless",
+     "sku": "RUROUS",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": false,
+     "options": [
+      "Rescue Orange",
+      "Stainless"
+     ]
+    },
+    {
+     "title": "Rescue Orange / PVD",
+     "sku": "RURODB",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": false,
+     "options": [
+      "Rescue Orange",
+      "PVD"
+     ]
+    },
+    {
+     "title": "Range Red / Stainless",
+     "sku": "RURRUS",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": true,
+     "options": [
+      "Range Red",
+      "Stainless"
+     ]
+    },
+    {
+     "title": "Range Red / PVD",
+     "sku": "RURRDB",
+     "priceMinor": 15500,
+     "compareAtMinor": 14000,
+     "available": true,
+     "options": [
+      "Range Red",
+      "PVD"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:28:09.603Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:28:09.603Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0057/ares-rubber-straps"
+   ],
+   "hash": "b04ade662d33b558"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0057/ares-automatic-mission-timers",
+   "name": "ARES Automatic Mission Timers",
+   "url": "https://www.areswatches.com/collections/ares-automatic-mission-timers",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/ares-custom-build",
+   "name": "ARES Custom Build",
+   "url": "https://www.areswatches.com/collections/ares-custom-build",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/ares-gmt",
+   "name": "ARES GMT's",
+   "url": "https://www.areswatches.com/collections/ares-gmt",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/mission-timers",
+   "name": "ARES LION Mission Timers",
+   "url": "https://www.areswatches.com/collections/mission-timers",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/ares-rubber-straps",
+   "name": "ARES Straps",
+   "url": "https://www.areswatches.com/collections/ares-rubber-straps",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/ares-watches",
+   "name": "ARES Watches",
+   "url": "https://www.areswatches.com/collections/ares-watches",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/custom-autos",
+   "name": "Custom Autos",
+   "url": "https://www.areswatches.com/collections/custom-autos",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/homepage-collection",
+   "name": "Homepage Collection",
+   "url": "https://www.areswatches.com/collections/homepage-collection",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/diver-quartz",
+   "name": "Quartz",
+   "url": "https://www.areswatches.com/collections/diver-quartz",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0057/swiss-auto",
+   "name": "Swiss Auto",
+   "url": "https://www.areswatches.com/collections/swiss-auto",
+   "description": null,
+   "image": null
+  }
+ ]
+}

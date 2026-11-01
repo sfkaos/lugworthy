@@ -1,0 +1,1817 @@
+{
+ "brandId": "BRD-0555",
+ "brandName": "Tool Watch Co",
+ "website": "https://toolwatchco.com",
+ "crawledAt": "2026-11-01T08:40:00.527Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://toolwatchco.com/cdn/shop/files/toolwatchco-wordmark.svg?v=1778498682",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://toolwatchco.com/"
+ },
+ "attribution": "Images © Tool Watch Co, from toolwatchco.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0555/twco-lumecore-chronograph",
+   "name": "TWCO. Lumecore Chronograph",
+   "url": "https://toolwatchco.com/products/twco-lumecore-chronograph",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-chrono-mkii.jpg?v=1784923283",
+    "width": 1000,
+    "height": 1250
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-chrono-mkii.jpg?v=1784923283",
+     "width": 1000,
+     "height": 1250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-chrono-mkii-lume.jpg?v=1784923284",
+     "width": 1000,
+     "height": 1250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-chrono-mkii-front.jpg?v=1784923284",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-chrono-mkii-angle.jpg?v=1784923284",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-chrono-mkii-side.jpg?v=1784923284",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-chrono-mkii-lifestyle-1_cdbb0935-cff6-4ef3-8a00-02fee94e6893.jpg?v=1784929410",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-chrono-mkii-packaging.jpg?v=1784923284",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 29500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The TWCO. Lumecore Chronograph MKII embodies the core principles of Tool Watch Co., utility, simplicity, and considered design. Thoughtfully refined in response to feedback from our global enthusiast community, the MKII preserves everything that made the original our best-selling chronograph while introducing meaningful improvements for enhanced everyday wear. Its stripped-back 38mm case, high-gloss fully lumed dial, and contrasting skeletonized matte black hands deliver exceptional legibility while maintaining a balanced neo-vintage aesthetic.",
+   "productType": "Lumecore Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:lumecore"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Flint White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Flint White",
+     "sku": "CHR-LUM-FW",
+     "priceMinor": 29500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Flint White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b64fa17ea83fccd7"
+  },
+  {
+   "id": "BRD-0555/twco-lumecore-gmt",
+   "name": "TWCO. Lumecore GMT",
+   "url": "https://toolwatchco.com/products/twco-lumecore-gmt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-gmt.jpg?v=1780686692",
+    "width": 1000,
+    "height": 1250
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-gmt.jpg?v=1780686692",
+     "width": 1000,
+     "height": 1250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-gmt-lume.jpg?v=1780686819",
+     "width": 1000,
+     "height": 1250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-gmt-front.jpg?v=1780686911",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-gmt-angle.jpg?v=1780687032",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-gmt-side.jpg?v=1780687037",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-gmt-lifestyle-1.jpg?v=1780688987",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-lumecore-gmt-packaging.jpg?v=1780689043",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The TWCO. Lumecore GMT embodies the core principles of Tool Watch Co., utility and simplicity, while evolving the Lumecore collection into a fully mechanical travel watch. This limited-production timepiece blends bold, modern aesthetics with practical functionality through its stripped-back case, fully lumed high-gloss dial, skeletonized matte black hands, and rugged True GMT movement.",
+   "productType": "Lumecore GMT",
+   "tags": [],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Flint White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Flint White",
+     "sku": "GMT-LUM-FW",
+     "priceMinor": 59500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Flint White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "23b5a6942a0264f3"
+  },
+  {
+   "id": "BRD-0555/twco-ama-limited-edition",
+   "name": "TWCO. AMA Diver Limited Edition",
+   "url": "https://toolwatchco.com/products/twco-ama-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-green-limited-edition.jpg?v=1777718020",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-green-limited-edition.jpg?v=1777718020",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-green-limited-edition-lume.jpg?v=1777718021",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-green-limited-edition-front.jpg?v=1777718021",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-green-limited-edition-angle.jpg?v=1777718021",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-green-limited-edition-side.jpg?v=1777718021",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-green-limited-edition-lifestyle-1.jpg?v=1777718021",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 75000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The green mother of pearl dial AMA is limited to 150 timepieces worldwide with a numbered caseback. The AMA Diver is a robust, technical timepiece depth rated to 300m with a precise 120-click unidirectional bezel and draws inspiration from the Ama’s 2000-year-old pearl diving tradition.",
+   "productType": "AMA Diver",
+   "tags": [],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Limited Edition"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Limited Edition",
+     "sku": "DIV-AMA-LE",
+     "priceMinor": 75000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Limited Edition"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8d2eaa2e74503291"
+  },
+  {
+   "id": "BRD-0555/twco-ama-night-dive",
+   "name": "TWCO. AMA Diver Night Dive",
+   "url": "https://toolwatchco.com/products/twco-ama-night-dive",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-black-night-dive.jpg?v=1777717999",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-black-night-dive.jpg?v=1777717999",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-black-night-dive-lume.jpg?v=1777717999",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-black-night-dive-front.jpg?v=1777717999",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-black-night-dive-angle.jpg?v=1777717999",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-black-night-dive-side.jpg?v=1777717999",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-black-night-dive-lifestyle-1.jpg?v=1777717999",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 69500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The blacked-out PVD coated AMA is limited to 150 timepieces worldwide with a numbered caseback. The AMA Diver is a robust, technical timepiece depth rated to 300m with a precise 120-click unidirectional bezel and draws inspiration from the Ama’s 2000-year-old pearl diving tradition.",
+   "productType": "AMA Diver",
+   "tags": [
+    "series:ama"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Night Dive"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Night Dive",
+     "sku": "DIV-AMA-ND",
+     "priceMinor": 69500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Night Dive"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3b93284dc8a0dae6"
+  },
+  {
+   "id": "BRD-0555/twco-ama-signature-series",
+   "name": "TWCO. AMA Diver Signature Series",
+   "url": "https://toolwatchco.com/products/twco-ama-signature-series",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-turquoise-signature-series.jpg?v=1777717978",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-turquoise-signature-series.jpg?v=1777717978",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-turquoise-signature-series-lume.jpg?v=1777717978",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-turquoise-signature-series-front.jpg?v=1777717978",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-turquoise-signature-series-angle.jpg?v=1777717978",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-turquoise-signature-series-side.jpg?v=1777717978",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-ama-turquoise-signature-series-lifestyle-1.jpg?v=1777717978",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The AMA Diver is a robust, technical timepiece depth rated to 300m with a precise 120-click unidirectional bezel and draws inspiration from the Ama’s 2000-year-old pearl diving tradition.",
+   "productType": "AMA Diver",
+   "tags": [
+    "edition:signature-series",
+    "series:ama"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Signature Series"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Signature Series",
+     "sku": "DIV-AMA-SS",
+     "priceMinor": 59500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Signature Series"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d73e653558fdfa28"
+  },
+  {
+   "id": "BRD-0555/twco-arctic-one-of-ten",
+   "name": "TWCO. Arctic Field One of Ten",
+   "url": "https://toolwatchco.com/products/twco-arctic-one-of-ten",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-white-one-of-ten.jpg?v=1777717954",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-white-one-of-ten.jpg?v=1777717954",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-white-one-of-ten-lume.jpg?v=1777717954",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-white-one-of-ten-front.jpg?v=1777717954",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-white-one-of-ten-angle.jpg?v=1777717954",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-white-one-of-ten-side.jpg?v=1777717954",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-white-one-of-ten-lifestyle-1.jpg?v=1777717954",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 119500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Arctic One of Ten is limited to ten timepieces worldwide. Owners of this exclusive timepiece will have the option to work with the Tool Watch Co. design team to personalize their caseback engraving. The Arctic Field is a robust, technical timepiece designed for accuracy and legibility, drawing inspiration from the adventurous spirit of the early polar pioneers.",
+   "productType": "Arctic Field",
+   "tags": [
+    "edition:one-of-ten",
+    "series:arctic"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "One of Ten"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "One of Ten",
+     "sku": "FLD-ARC-OT",
+     "priceMinor": 119500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "One of Ten"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "418e09390ba30c43"
+  },
+  {
+   "id": "BRD-0555/twco-arctic-limited-edition",
+   "name": "TWCO. Arctic Field Limited Edition",
+   "url": "https://toolwatchco.com/products/twco-arctic-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-black-limited-edition.jpg?v=1777717934",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-black-limited-edition.jpg?v=1777717934",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-black-limited-edition-lume.jpg?v=1777717934",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-black-limited-edition-front.jpg?v=1777717934",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-black-limited-edition-angle.jpg?v=1777717934",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-black-limited-edition-side.jpg?v=1777717934",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-black-limited-edition-lifestyle-1.jpg?v=1777717934",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The black meteorite dial Arctic is limited to 150 timepieces worldwide with a numbered caseback. The Arctic Field is a robust, technical timepiece designed for accuracy and legibility, drawing inspiration from the adventurous spirit of the early polar pioneers.",
+   "productType": "Arctic Field",
+   "tags": [
+    "edition:limited-edition",
+    "series:arctic"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Limited Edition"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Limited Edition",
+     "sku": "FLD-ARC-LE",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Limited Edition"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "abbb3306924a7e71"
+  },
+  {
+   "id": "BRD-0555/twco-arctic-signature-series",
+   "name": "TWCO. Arctic Field Signature Series",
+   "url": "https://toolwatchco.com/products/twco-arctic-signature-series",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-blue-signature-series.jpg?v=1777717914",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-blue-signature-series.jpg?v=1777717914",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-blue-signature-series-lume.jpg?v=1777717914",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-blue-signature-series-front.jpg?v=1777717914",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-blue-signature-series-angle.jpg?v=1777717915",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-blue-signature-series-side.jpg?v=1777717915",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-arctic-blue-signature-series-lifestyle-1.jpg?v=1777717915",
+     "width": 2031,
+     "height": 2031
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Arctic Field is a robust, technical timepiece designed for accuracy and legibility, drawing inspiration from the adventurous spirit of the early polar pioneers.",
+   "productType": "Arctic Field",
+   "tags": [
+    "edition:signature-series",
+    "series:arctic"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Signature Series"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Signature Series",
+     "sku": "FLD-ARC-SS",
+     "priceMinor": 79500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Signature Series"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7c5cc851bb6d5d64"
+  },
+  {
+   "id": "BRD-0555/twco-essential-chronograph",
+   "name": "TWCO. Essential Chronograph",
+   "url": "https://toolwatchco.com/products/twco-essential-chronograph",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-essential-chronograph.jpg?v=1777717890",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-essential-chronograph.jpg?v=1777717890",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-essential-chronograph-lume.jpg?v=1777717890",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-essential-chronograph-front.jpg?v=1777717890",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-essential-chronograph-angle.jpg?v=1777717891",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-essential-chronograph-side.jpg?v=1777717891",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-essential-chronograph-lifestyle-1_a1c4cbd4-8e7e-439d-bf68-e04fa0c156c8.jpg?v=1785105910",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-essential-chronograph-packaging.jpg?v=1777717891",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 24500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The TWCO. Essential Chronograph represents Tool Watch Co.'s core approach: a stripped-back design that emphasizes the essentials, utility, craftsmanship, and quality. As part of our permanent collection, this timepiece combines modern functionality with durability.",
+   "productType": "Essential Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:essential"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Deep Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Deep Black",
+     "sku": "CHR-ESS-ST",
+     "priceMinor": 24500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Deep Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3ca749290eca1765"
+  },
+  {
+   "id": "BRD-0555/twco-goodman-gmt-tactical",
+   "name": "TWCO. Goodman GMT Tactical",
+   "url": "https://toolwatchco.com/products/twco-goodman-gmt-tactical",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-tactical.jpg?v=1777717630",
+    "width": 2913,
+    "height": 3641
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-tactical.jpg?v=1777717630",
+     "width": 2913,
+     "height": 3641
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-tactical-lume.jpg?v=1777717628",
+     "width": 2913,
+     "height": 3641
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-tactical-front.jpg?v=1777717628",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-tactical-angle.jpg?v=1777717628",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-tactical-side.jpg?v=1777717628",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-tactical-lifestyle-1.jpg?v=1777717628",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-tactical-packaging.png?v=1777717628",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 64500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Goodman GMT Tactical is built around a brushed matte PVD coated stainless steel case with an integrated fixed 24 hour bezel and a matching PVD buckle. A clean no date dial houses the True GMT Miyota 9075 mechanical movement, complemented by bi color C3 lume, a double domed box acrylic crystal, and a black FKM strap. Its restrained, tactical aesthetic draws inspiration from the darker tones and shaded landscapes of California’s national parks.",
+   "productType": "Goodman GMT",
+   "tags": [
+    "series:goodman-gmt"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Tactical"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Tactical",
+     "sku": "GMT-GDM-TC",
+     "priceMinor": 64500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Tactical"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6b6bda53cd3ba984"
+  },
+  {
+   "id": "BRD-0555/twco-rally-red-on-silver",
+   "name": "TWCO. Rally Chronograph Red on Silver",
+   "url": "https://toolwatchco.com/products/twco-rally-red-on-silver",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-red-on-silver.jpg?v=1777717866",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-red-on-silver.jpg?v=1777717866",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-red-on-silver-lume.jpg?v=1777717866",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-red-on-silver-front.jpg?v=1777717866",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-red-on-silver-angle.jpg?v=1777717866",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-red-on-silver-side.jpg?v=1777717866",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-red-on-silver-lifestyle-1.jpg?v=1777717866",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-red-on-silver-packaging.jpg?v=1777717866",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Tool Watch Co. Rally - Time Control Point is a robust timepiece designed for precision and clarity, inspired by the thrilling spirit of the legendary 1980s Group B rally era. The Red on Silver Rally is limited to 300 timepieces worldwide.",
+   "productType": "Rally Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:rally"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Red on Silver"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Red on Silver",
+     "sku": "CHR-RLY-RS",
+     "priceMinor": 39500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Red on Silver"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "04e9dddd1e5de212"
+  },
+  {
+   "id": "BRD-0555/twco-rally-yellow-on-black",
+   "name": "TWCO. Rally Chronograph Yellow on Black",
+   "url": "https://toolwatchco.com/products/twco-rally-yellow-on-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-yellow-on-black.jpg?v=1777717833",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-yellow-on-black.jpg?v=1777717833",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-yellow-on-black-lume.jpg?v=1777717833",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-yellow-on-black-front.jpg?v=1777717833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-yellow-on-black-angle.jpg?v=1777717833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-yellow-on-black-side.jpg?v=1777717833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-yellow-on-black-lifestyle-1.jpg?v=1777717833",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-yellow-on-black-packaging.jpg?v=1777717833",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Tool Watch Co. Rally - Time Control Point is a robust timepiece designed for precision and clarity, inspired by the thrilling spirit of the legendary 1980s Group B rally era. The Yellow on Black Rally is limited to 300 timepieces worldwide.",
+   "productType": "Rally Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:rally"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Yellow on Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Yellow on Black",
+     "sku": "CHR-RLY-YB",
+     "priceMinor": 39500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Yellow on Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4730496326bc77a6"
+  },
+  {
+   "id": "BRD-0555/twco-rally-blue-on-silver",
+   "name": "TWCO. Rally Chronograph Blue on Silver",
+   "url": "https://toolwatchco.com/products/twco-rally-blue-on-silver",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-blue-on-silver.jpg?v=1777717804",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-blue-on-silver.jpg?v=1777717804",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-blue-on-silver-lume.jpg?v=1777717804",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-blue-on-silver-front.jpg?v=1777717804",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-blue-on-silver-angle.jpg?v=1777717804",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-blue-on-silver-side.jpg?v=1777717804",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-blue-on-silver-lifestyle-1.jpg?v=1777717804",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-rally-blue-on-silver-packaging.jpg?v=1777717804",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Tool Watch Co. Rally - Time Control Point is a robust timepiece designed for precision and clarity, inspired by the thrilling spirit of the legendary 1980s Group B rally era. The Blue on Silver Rally is limited to 300 timepieces worldwide.",
+   "productType": "Rally Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:rally"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Blue on Silver"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue on Silver",
+     "sku": "CHR-RLY-BS",
+     "priceMinor": 39500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue on Silver"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c411ce2eb4eecc4c"
+  },
+  {
+   "id": "BRD-0555/twco-chroma-chronograph-pink",
+   "name": "TWCO. Chroma Chronograph Pink",
+   "url": "https://toolwatchco.com/products/twco-chroma-chronograph-pink",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-pink.jpg?v=1777717778",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-pink.jpg?v=1777717778",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-pink-lume.jpg?v=1777717778",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-pink-front.jpg?v=1777717778",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-pink-angle.jpg?v=1777717779",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-pink-side.jpg?v=1777717778",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-pink-lifestyle-1.png?v=1777717779",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-pink-packaging.jpg?v=1777717779",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 27500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Pink TWCO. Chroma Chronograph blends confidence and expressive design with function. Assembled in Los Angeles, this permanent collection introduces color into our utility-driven lineup, balancing masculine design with subtle, understated details, durability, and an easy-going edge.",
+   "productType": "Chroma Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:chroma"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Pink"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Pink",
+     "sku": "CHR-CH-PK",
+     "priceMinor": 27500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Pink"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9fe9d8950e4c842c"
+  },
+  {
+   "id": "BRD-0555/twco-chroma-chronograph-blue",
+   "name": "TWCO. Chroma Chronograph Blue",
+   "url": "https://toolwatchco.com/products/twco-chroma-chronograph-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-blue.jpg?v=1777717754",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-blue.jpg?v=1777717754",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-blue-lume.jpg?v=1777717754",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-blue-front.jpg?v=1777717754",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-blue-angle.jpg?v=1777717754",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-blue-side.jpg?v=1777717754",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-blue-lifestyle-1.png?v=1777717754",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-blue-packaging.jpg?v=1777717754",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 27500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Blue TWCO. Chroma Chronograph blends confidence and expressive design with function. Assembled in Los Angeles, this permanent collection introduces color into our utility-driven lineup, balancing masculine design with subtle, understated details, durability, and an easy-going edge.",
+   "productType": "Chroma Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:chroma"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue",
+     "sku": "CHR-CH-BL",
+     "priceMinor": 27500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "bb3e0f8239cb4a11"
+  },
+  {
+   "id": "BRD-0555/twco-chroma-chronograph-green",
+   "name": "TWCO. Chroma Chronograph Green",
+   "url": "https://toolwatchco.com/products/twco-chroma-chronograph-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-green.jpg?v=1777717730",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-green.jpg?v=1777717730",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-green-lume.jpg?v=1777717730",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-green-front.jpg?v=1777717730",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-green-angle.jpg?v=1777717730",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-green-side.jpg?v=1777717730",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-green-lifestyle-1.png?v=1777717731",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-green-packaging.jpg?v=1777717730",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 27500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Green TWCO. Chroma Chronograph blends confidence and expressive design with function. Assembled in Los Angeles, this permanent collection introduces color into our utility-driven lineup, balancing masculine design with subtle, understated details, durability, and an easy-going edge.",
+   "productType": "Chroma Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:chroma"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Green"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Green",
+     "sku": "CHR-CH-GR",
+     "priceMinor": 27500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Green"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ae65a21efbe0e596"
+  },
+  {
+   "id": "BRD-0555/twco-chroma-chronograph-orange",
+   "name": "TWCO. Chroma Chronograph Orange",
+   "url": "https://toolwatchco.com/products/twco-chroma-chronograph-orange",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-orange.jpg?v=1777717705",
+    "width": 1600,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-orange.jpg?v=1777717705",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-orange-lume.jpg?v=1777717705",
+     "width": 1600,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-orange-front.jpg?v=1777717705",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-orange-angle.jpg?v=1777717706",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-orange-side.jpg?v=1777717705",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-orange-lifestyle-1.png?v=1777717706",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-chroma-chronograph-orange-packaging.jpg?v=1777717705",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 27500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Orange TWCO. Chroma Chronograph blends confidence and expressive design with function. Assembled in Los Angeles, this permanent collection introduces color into our utility-driven lineup, balancing masculine design with subtle, understated details, durability, and an easy-going edge.",
+   "productType": "Chroma Chronograph",
+   "tags": [
+    "edition:chronograph",
+    "series:chroma"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Orange"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Orange",
+     "sku": "CHR-CH-OR",
+     "priceMinor": 27500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "cab1385a33795d7b"
+  },
+  {
+   "id": "BRD-0555/twco-goodman-gmt-utility",
+   "name": "TWCO. Goodman GMT Utility",
+   "url": "https://toolwatchco.com/products/twco-goodman-gmt-utility",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-utility.jpg?v=1777717652",
+    "width": 1000,
+    "height": 1250
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-utility.jpg?v=1777717652",
+     "width": 1000,
+     "height": 1250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-utility-lume.jpg?v=1777717652",
+     "width": 1000,
+     "height": 1250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-utility-front.jpg?v=1777717653",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-utility-angle.jpg?v=1777717652",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-utility-side.jpg?v=1777717653",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-utility-lifestyle-1.jpg?v=1777717652",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0979/0603/2947/files/twco-goodman-gmt-utility-packaging.png?v=1777717652",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 64500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Goodman GMT features a brushed stainless-steel case with an integrated fixed 24-hour bezel, the True GMT Miyota 9075 mechanical movement, bi-color C3 lume, a double-domed box acrylic crystal, and a durable FKM rubber strap. The dune-tone dial is inspired by the muted earth colors of the Californian outdoors and is paired with a 6 o’clock date window for practical daily timing.",
+   "productType": "Goodman GMT",
+   "tags": [
+    "series:goodman-gmt"
+   ],
+   "options": [
+    {
+     "name": "Style",
+     "values": [
+      "Utility"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Utility",
+     "sku": "GMT-GDM-UT",
+     "priceMinor": 64500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Utility"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:40:00.527Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:40:00.527Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1ac7ececd5473a11"
+  }
+ ],
+ "collections": []
+}

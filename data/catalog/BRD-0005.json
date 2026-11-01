@@ -1,0 +1,261 @@
+{
+ "brandId": "BRD-0005",
+ "brandName": "A-13A",
+ "website": "https://www.a-13a.com",
+ "crawledAt": "2026-11-01T06:19:36.063Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.a-13a.com/shop/img/a-13a-logo-1674029743.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.a-13a.com/shop/en/"
+ },
+ "attribution": "Images © A-13A, from a-13a.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0005/9-a-13a-html",
+   "name": "A-13A Quartz",
+   "url": "https://www.a-13a.com/shop/en/home/9-a-13a.html",
+   "image": {
+    "url": "https://www.a-13a.com/shop/32-large_default/a-13a.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.a-13a.com/shop/32-large_default/a-13a.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Prices Eurozone (EU): 710€ + 22%VAT = 866,20€ netRest of the World: 710€ net Shipment as per List of Countries: +22% VAT applicable ONLY to shipment within Euro Zone The estimated delivery time is about 1 week.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": 50.8,
+    "thicknessMm": 13.4,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case Diameter": "42 mm",
+    "Case diameter crown included": "45,5 mm",
+    "Height lug to lug": "50,8 mm",
+    "Lugs width": "20 mm",
+    "Thickness": "13,4 mm",
+    "Weight w/o strap": "70 gr",
+    "Case": "AISI 316L",
+    "Water resistance": "100 M, 330 feet",
+    "Glass": "Sapphire crystal",
+    "Antiglare": "Double coated (inside and outside)",
+    "Lume material": "White Luminova, one coat",
+    "Movement": "Quartz ETA 251.264 PWD, 27 jewel",
+    "Battery": "Type 394, diam. 9,50 mm, height 3,60 mm",
+    "Crown": "Screw down, double seals",
+    "Complication": "Central minute chrono hand",
+    "Strap": "Morelato, Cordura-Kevlar strap. Signature buckle",
+    "Spare parts": "Gasket and O-R Kit included",
+    "Color": "Black",
+    "Strap color": "Gunmetal grey",
+    "Condition": "New product",
+    "Eurozone (EU)": "710€ + 22%VAT = 866,20€ net",
+    "Rest of the World": "710€ net",
+    "Shipment as per List of Countries": "+22% VAT applicable ONLY to shipment within Euro Zone",
+    "Warning": "Last items in stock!"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.063Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.063Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0005/3-watch"
+   ],
+   "hash": "a780d470e0abd87c"
+  },
+  {
+   "id": "BRD-0005/11-a-13a-automatic-flyback-html",
+   "name": "A-13A Automatic (Flyback)",
+   "url": "https://www.a-13a.com/shop/en/home/11-a-13a-automatic-flyback.html",
+   "image": {
+    "url": "https://www.a-13a.com/shop/30-large_default/a-13a-automatic-flyback.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.a-13a.com/shop/30-large_default/a-13a-automatic-flyback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Prices Eurozone (EU): 3200€ + 22%VAT = 3904€ netRest of the World: 3200€ net Shipment: fully ensured, to be quoted The estimated delivery time is about 1 week Payment Visa and Amex Write to us at info@a-13a.com to place your order and finalize the shipment details.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": 50.4,
+    "thicknessMm": 16.3,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case Diameter": "42 mm",
+    "Case diameter crown included": "45,5 mm",
+    "Height lug to lug": "50,4 mm",
+    "Lugs width": "20 mm",
+    "Thickness": "16,3 mm",
+    "Weight w/o strap": "103 gr",
+    "Case": "AISI 316L",
+    "Water resistance": "100 M, 330 feet",
+    "Glass": "Sapphire crystal",
+    "Antiglare": "Double coated (inside and outside)",
+    "Lume material": "Superluminova BGW9 two coats",
+    "Movement": "Automatic, Dubois Dèpraz 4207X",
+    "Battery": "-",
+    "Crown": "Screw down, double seals",
+    "Complication": "Central minute chrono hand. Flyback",
+    "Strap": "Red Rock Strap canvas strap. Signature buckle",
+    "Spare parts": "to be defined",
+    "Color": "Black",
+    "Strap color": "Canvas Granite Grey tack stiched or Moon Dust saddle stiched",
+    "Other": "Drilled lugs, Pusher and crown can be set on right or left",
+    "Condition": "New product",
+    "Eurozone (EU)": "3200€ + 22%VAT = 3904€ net",
+    "Rest of the World": "3200€ net",
+    "Shipment": "fully ensured, to be quoted",
+    "Warning": "Last items in stock!"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.063Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.063Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0005/en",
+    "BRD-0005/ordine",
+    "BRD-0005/3-watch",
+    "BRD-0005/login",
+    "BRD-0005/9-a-13a-html",
+    "BRD-0005/en-2",
+    "BRD-0005/1-delivery-and-returns",
+    "BRD-0005/3-warranty-cover",
+    "BRD-0005/2-privacy-policy",
+    "BRD-0005/confronto-prodotti"
+   ],
+   "hash": "e9bbeca10086777c"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0005/en",
+   "name": "en",
+   "url": "https://www.a-13a.com/shop/en/",
+   "description": "Negozio creato usando PrestaShop",
+   "image": null
+  },
+  {
+   "id": "BRD-0005/ordine",
+   "name": "Shopping-cart summary",
+   "url": "https://www.a-13a.com/shop/en/ordine",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0005/3-watch",
+   "name": "Watch",
+   "url": "https://www.a-13a.com/shop/en/3-watch",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0005/login",
+   "name": "Authentication",
+   "url": "https://www.a-13a.com/shop/en/login?back=identity",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0005/9-a-13a-html",
+   "name": "A-13A Quartz",
+   "url": "https://www.a-13a.com/shop/en/home/9-a-13a.html",
+   "description": "Prices Eurozone (EU): 710€ + 22%VAT = 866,20€ netRest of the World: 710€ net Shipment as per List of Countries: +22% VAT applicable ONLY to shipment within Euro Zone The estimated delivery time is about 1 week.",
+   "image": {
+    "url": "https://www.a-13a.com/shop/32-large_default/a-13a.jpg",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0005/en-2",
+   "name": "en",
+   "url": "https://www.a-13a.com/shop/en/",
+   "description": "Negozio creato usando PrestaShop",
+   "image": null
+  },
+  {
+   "id": "BRD-0005/1-delivery-and-returns",
+   "name": "Delivery and Returns",
+   "url": "https://www.a-13a.com/shop/en/content/1-Delivery-and-Returns",
+   "description": "Delivery and Returns",
+   "image": null
+  },
+  {
+   "id": "BRD-0005/3-warranty-cover",
+   "name": "Warranty Cover / Tax",
+   "url": "https://www.a-13a.com/shop/en/content/3-Warranty-Cover",
+   "description": "Warranty Cover / Tax",
+   "image": null
+  },
+  {
+   "id": "BRD-0005/2-privacy-policy",
+   "name": "Privacy Policy",
+   "url": "https://www.a-13a.com/shop/en/content/2-Privacy-Policy",
+   "description": "Privacy Policy",
+   "image": null
+  },
+  {
+   "id": "BRD-0005/confronto-prodotti",
+   "name": "Product Comparison",
+   "url": "https://www.a-13a.com/shop/en/confronto-prodotti",
+   "description": null,
+   "image": null
+  }
+ ]
+}

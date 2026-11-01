@@ -1,0 +1,1519 @@
+{
+ "brandId": "BRD-1093",
+ "brandName": "Maison Boanton",
+ "website": "https://www.maisonboanton.com",
+ "crawledAt": "2026-11-01T07:47:53.660Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://www.maisonboanton.com/cdn/shop/files/LOGO_MAISON_BOANTON_ecriture_noire_fond_transparent_c1116f4c-f390-4cca-af89-b23554be4fc9.png?v=1745249243",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.maisonboanton.com/en"
+ },
+ "attribution": "Images © Maison Boanton, from maisonboanton.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1093/embleme-pink-bottle-green",
+   "name": "Emblème Pink Edition",
+   "url": "https://www.maisonboanton.com/products/embleme-pink-bottle-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Boanton_Green_Strap_Finale-1.jpg?v=1765379063",
+    "width": 1687,
+    "height": 2110
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Boanton_Green_Strap_Finale-1.jpg?v=1765379063",
+     "width": 1687,
+     "height": 2110
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/d3a34e72-b8a9-4f53-b3b3-00b7960f8c7f_7f361143-af97-454d-828b-29e1d8b46230.jpg?v=1765379063",
+     "width": 1687,
+     "height": 2109
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/8d9eac1e-e52b-469e-a03e-1b331647dfb5_96323822-af27-4975-93cf-48413046f09a.jpg?v=1765379063",
+     "width": 2385,
+     "height": 2982
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/3691b9cf-60f2-48f6-a2dd-12f9aa1cf62a_94aaa407-fc44-4800-9835-4e26318383d0.jpg?v=1765379063",
+     "width": 2451,
+     "height": 3064
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/86f62418-cfab-4e83-9358-e4a6e67f3524_8aae258b-3ec0-4b76-a7b8-90f0efd8be9d.jpg?v=1765379063",
+     "width": 1144,
+     "height": 1430
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Boanton_Pink-15.jpg?v=1765377731",
+     "width": 2652,
+     "height": 3976
+    }
+   ],
+   "priceMinor": 195833,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "La montre Emblème Pink Edition possède un boîtier coussin rehaussé d’une lunette bombée, associé à un cadran en laque rose poudré et un bracelet en alligator façonné à la main dans notre atelier. Elle est animée par le mouvement automatique suisse La Joux-Perret, offrant une réserve de marche de 68 heures. Édition limitée à 24 exemplaires, dont une partie des bénéfices est reversée à l’association IMAGYN.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Alligator Gris Tempête",
+      "Veau Vert Bouteille"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Alligator Gris Tempête",
+     "sku": null,
+     "priceMinor": 216667,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Alligator Gris Tempête"
+     ]
+    },
+    {
+     "title": "Veau Vert Bouteille",
+     "sku": null,
+     "priceMinor": 195833,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Veau Vert Bouteille"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Unit price": "/per",
+    "CALIBER": "La Joux-Perret G100 automatic movement",
+    "POWER RESERVE": "68 hours",
+    "INDICATIONS": "Hours, minutes, seconds",
+    "FREQUENCY": "4 Hz (28,800 vibrations/hour)",
+    "NUMBER OF JEWELS": "24",
+    "FINISHES": "Côtes de Genève, diamond-polished bevels, rhodium-plated screws, polished and flame-blued, solid tungsten oscillating weight with decoration",
+    "SHAPE": "Cushion, 316L stainless steel",
+    "DIAMETER": "40 mm",
+    "THICKNESS": "10.9 mm",
+    "LUG-TO-LUG": "44.60 mm",
+    "LUG WIDTH": "20 mm",
+    "BEZEL": "Domed bezel with double-domed sapphire crystal and anti-reflective coating",
+    "CROWN": "Fluted",
+    "CASEBACK": "Screwed with transparent sapphire crystal",
+    "WATER RESISTANCE": "50 meters",
+    "DIAL": "Lacquered dial, soft pink",
+    "HOUR AND MINUTE HANDS": "Leaf-shaped",
+    "SECOND HAND": "Droplet-shaped",
+    "LEATHER": "Storm Grey alligator and Bottle Green calf leather with pin buckle",
+    "LINING": "Calf leather, mineral tanning",
+    "BUCKLE": "Stainless steel pin buckle",
+    "DIMENSIONS": "20/18 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/embleme-pink-edition"
+   ],
+   "hash": "9a4d5c66fb9f867b"
+  },
+  {
+   "id": "BRD-1093/embleme-pink-storm-grey",
+   "name": "Emblème Pink Edition",
+   "url": "https://www.maisonboanton.com/products/embleme-pink-storm-grey",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/d3a34e72-b8a9-4f53-b3b3-00b7960f8c7f_7f361143-af97-454d-828b-29e1d8b46230.jpg?v=1765379063",
+    "width": 1687,
+    "height": 2109
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/d3a34e72-b8a9-4f53-b3b3-00b7960f8c7f_7f361143-af97-454d-828b-29e1d8b46230.jpg?v=1765379063",
+     "width": 1687,
+     "height": 2109
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Boanton_Green_Strap_Finale-1.jpg?v=1765379063",
+     "width": 1687,
+     "height": 2110
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/8d9eac1e-e52b-469e-a03e-1b331647dfb5_96323822-af27-4975-93cf-48413046f09a.jpg?v=1765379063",
+     "width": 2385,
+     "height": 2982
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/3691b9cf-60f2-48f6-a2dd-12f9aa1cf62a_94aaa407-fc44-4800-9835-4e26318383d0.jpg?v=1765379063",
+     "width": 2451,
+     "height": 3064
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/86f62418-cfab-4e83-9358-e4a6e67f3524_8aae258b-3ec0-4b76-a7b8-90f0efd8be9d.jpg?v=1765379063",
+     "width": 1144,
+     "height": 1430
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Boanton_Pink-15.jpg?v=1765377731",
+     "width": 2652,
+     "height": 3976
+    }
+   ],
+   "priceMinor": 195833,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "La montre Emblème Pink Edition possède un boîtier coussin rehaussé d’une lunette bombée, associé à un cadran en laque rose poudré et un bracelet en alligator façonné à la main dans notre atelier. Elle est animée par le mouvement automatique suisse La Joux-Perret, offrant une réserve de marche de 68 heures. Édition limitée à 24 exemplaires, dont une partie des bénéfices est reversée à l’association IMAGYN.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Alligator Gris Tempête",
+      "Veau Vert Bouteille"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Alligator Gris Tempête",
+     "sku": null,
+     "priceMinor": 216667,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Alligator Gris Tempête"
+     ]
+    },
+    {
+     "title": "Veau Vert Bouteille",
+     "sku": null,
+     "priceMinor": 195833,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Veau Vert Bouteille"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Unit price": "/per",
+    "CALIBER": "La Joux-Perret G100 automatic movement",
+    "POWER RESERVE": "68 hours",
+    "INDICATIONS": "Hours, minutes, seconds",
+    "FREQUENCY": "4 Hz (28,800 vibrations/hour)",
+    "NUMBER OF JEWELS": "24",
+    "FINISHES": "Côtes de Genève, diamond-polished bevels, rhodium-plated screws, polished and flame-blued, solid tungsten oscillating weight with decoration",
+    "SHAPE": "Cushion, 316L stainless steel",
+    "DIAMETER": "40 mm",
+    "THICKNESS": "10.9 mm",
+    "LUG-TO-LUG": "44.60 mm",
+    "LUG WIDTH": "20 mm",
+    "BEZEL": "Domed bezel with double-domed sapphire crystal and anti-reflective coating",
+    "CROWN": "Fluted",
+    "CASEBACK": "Screwed with transparent sapphire crystal",
+    "WATER RESISTANCE": "50 meters",
+    "DIAL": "Lacquered dial, soft pink",
+    "HOUR AND MINUTE HANDS": "Leaf-shaped",
+    "SECOND HAND": "Droplet-shaped",
+    "LEATHER": "Storm Grey alligator and Bottle Green calf leather with pin buckle",
+    "LINING": "Calf leather, mineral tanning",
+    "BUCKLE": "Stainless steel pin buckle",
+    "DIMENSIONS": "20/18 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/embleme-pink-edition"
+   ],
+   "hash": "c4918002fbab964d"
+  },
+  {
+   "id": "BRD-1093/heritage",
+   "name": "Héritage",
+   "url": "https://www.maisonboanton.com/products/heritage",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/IMG_1581.jpg?v=1757067775",
+    "width": 1198,
+    "height": 1689
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/IMG_1581.jpg?v=1757067775",
+     "width": 1198,
+     "height": 1689
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Heritage_Set_1-1_097bb03b-131d-46c5-bd69-b63e03cb2798.jpg?v=1757067775",
+     "width": 2138,
+     "height": 2494
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Heritage_Set_1_Wristy-1.jpg?v=1762358492",
+     "width": 2234,
+     "height": 2793
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Heritage_Set_Box-1.jpg?v=1757067775",
+     "width": 2652,
+     "height": 3976
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Heritage_Set_Finale-4.jpg?v=1757067775",
+     "width": 2479,
+     "height": 3716
+    }
+   ],
+   "priceMinor": 210000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Montre Maison Boanton Héritage, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette godron. Couronne cannelée. C adran héritage. Aiguilles brossées \"racing\" avec Super-LumiNova bleu. Glace saphir double-dôme résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "racelet en cuir fait main. Épaisseur": "10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+    "Unit price": "/per",
+    "Handmade leather strap. Thickness": "10.9 mm. Water-resistant to 50 metres (5 bar).",
+    "Calibre": "La Joux-Perret G100, automatic winding",
+    "Power Reserve": "68 hours",
+    "Functions": "Hours, minutes, seconds",
+    "Frequency": "4 Hz (28,800 vibrations/hour)",
+    "Jewels": "24",
+    "Finishing": "Côtes de Genève, diamond-cut bevels, rhodium-plated screws polished and heat-blued, decorated solid tungsten rotor",
+    "Shape": "Cushion, 316L stainless steel",
+    "Diameter": "40 mm",
+    "Thickness": "10.9 mm",
+    "Lug to Lug": "44.60 mm",
+    "Lug Width": "20 mm",
+    "Bezel": "Domed with double-domed sapphire crystal and anti-reflective coating",
+    "Crown": "Fluted",
+    "Caseback": "Screw-down with transparent sapphire crystal",
+    "Water Resistance": "50 metres",
+    "Dial": "Héritage",
+    "Hour and Minute": "\"Racing\" style",
+    "Leather": "Blue top-stitched Alcantara",
+    "Buckle": "Stainless steel pin buckle",
+    "Dimensions": "20/18 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/heritage"
+   ],
+   "hash": "a961a87ad9cb8185"
+  },
+  {
+   "id": "BRD-1093/collection-embleme",
+   "name": "Collection Emblème",
+   "url": "https://www.maisonboanton.com/products/collection-embleme",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEVERT_COGNACcopie.jpg?v=1745934078",
+    "width": 2706,
+    "height": 3383
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEVERT_COGNACcopie.jpg?v=1745934078",
+     "width": 2706,
+     "height": 3383
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEBLEU_COGNAC.jpg?v=1745934078",
+     "width": 2706,
+     "height": 3383
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEBLEU_SAFIANOBLEU_c0eed032-d001-43e3-9c4e-d306d926124a.jpg?v=1746117159",
+     "width": 2706,
+     "height": 3383
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMECREME_SAFIANOBLEU_c5545afa-a33c-4569-99f2-75a9f04b197f.jpg?v=1757074307",
+     "width": 2706,
+     "height": 3383
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMECREME_COGNAC.jpg?v=1757074307",
+     "width": 2706,
+     "height": 3383
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEVERT_COGNAC.jpg?v=1745934016",
+     "width": 2706,
+     "height": 3383
+    }
+   ],
+   "priceMinor": 195833,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Montre Maison Boanton Emblème, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette cannelée. Couronne cannelée. C adran laqué. Aiguilles en forme de feuille. Glace saphir double-dôme résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main à Paris. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Modèle",
+     "values": [
+      "Ivoire Vintage",
+      "Bleu Profond",
+      "Vert Émeraude"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Saffiano Bleu",
+      "Cognac",
+      "Saffiano Vert"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Ivoire Vintage / Saffiano Bleu",
+     "sku": null,
+     "priceMinor": 195833,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Ivoire Vintage",
+      "Saffiano Bleu"
+     ]
+    },
+    {
+     "title": "Ivoire Vintage / Cognac",
+     "sku": null,
+     "priceMinor": 195833,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Ivoire Vintage",
+      "Cognac"
+     ]
+    },
+    {
+     "title": "Bleu Profond / Saffiano Bleu",
+     "sku": null,
+     "priceMinor": 195833,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu Profond",
+      "Saffiano Bleu"
+     ]
+    },
+    {
+     "title": "Bleu Profond / Cognac",
+     "sku": null,
+     "priceMinor": 195833,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu Profond",
+      "Cognac"
+     ]
+    },
+    {
+     "title": "Vert Émeraude / Saffiano Vert",
+     "sku": null,
+     "priceMinor": 195833,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Vert Émeraude",
+      "Saffiano Vert"
+     ]
+    },
+    {
+     "title": "Vert Émeraude / Cognac",
+     "sku": null,
+     "priceMinor": 195833,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Vert Émeraude",
+      "Cognac"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": null
+   },
+   "specsRaw": {
+    "racelet en cuir fait main à Paris. Épaisseur": "10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+    "Unit price": "/per",
+    "CALIBER": "La Joux-Perret G100 automatic movement",
+    "POWER RESERVE": "68 hours",
+    "INDICATIONS": "Hours, minutes, seconds",
+    "FREQUENCY": "4 Hz (28,800 vibrations/hour)",
+    "NUMBER OF JEWELS": "24",
+    "FINISHES": "Côtes de Genève, diamond-polished bevels, rhodium-plated screws, polished and flame-blued, solid tungsten oscillating weight with decoration",
+    "SHAPE": "Cushion, 316L stainless steel",
+    "DIAMETER": "40 mm",
+    "THICKNESS": "10.9 mm",
+    "LUG-TO-LUG": "44.60 mm",
+    "LUG WIDTH": "20 mm",
+    "BEZEL": "Fluted with double-domed sapphire crystal and anti-reflective coating",
+    "CROWN": "Fluted",
+    "CASEBACK": "Screwed with transparent sapphire crystal",
+    "WATER RESISTANCE": "50 meters",
+    "DIAL": "Lacquered",
+    "HOUR AND MINUTE HANDS": "Leaf-shaped",
+    "SECOND HAND": "Droplet-shaped",
+    "LEATHER": "Full-grain, vegetable-tanned, aniline-finished cowhide. Saffiano grained calf leather, mineral tanning",
+    "LINING": "Calf leather, mineral tanning",
+    "BUCKLE": "Stainless steel ardillon",
+    "DIMENSIONS": "20/18 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "52c4ded559c26d25"
+  },
+  {
+   "id": "BRD-1093/embleme-ivoire-vintage",
+   "name": "Emblème Ivoire Vintage",
+   "url": "https://www.maisonboanton.com/products/embleme-ivoire-vintage",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMECREME_COGNAC.jpg?v=1757074307",
+    "width": 2706,
+    "height": 3383
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMECREME_COGNAC.jpg?v=1757074307",
+     "width": 2706,
+     "height": 3383
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMECREME_SAFIANOBLEU_c5545afa-a33c-4569-99f2-75a9f04b197f.jpg?v=1757074307",
+     "width": 2706,
+     "height": 3383
+    }
+   ],
+   "priceMinor": 195900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Montre Maison Boanton Emblème, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette cannelée. Couronne cannelée. C adran laqué Ivoire Vintage. Aiguilles bleuies à la flamme en forme de feuille. Glace saphir double-dôme résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main à Paris. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur du cadran",
+     "values": [
+      "Ivoire Vintage"
+     ]
+    },
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "Saffiano Bleu",
+      "Cognac"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Ivoire Vintage / Saffiano Bleu",
+     "sku": null,
+     "priceMinor": 195900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Ivoire Vintage",
+      "Saffiano Bleu"
+     ]
+    },
+    {
+     "title": "Ivoire Vintage / Cognac",
+     "sku": null,
+     "priceMinor": 195900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Ivoire Vintage",
+      "Cognac"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": null
+   },
+   "specsRaw": {
+    "racelet en cuir fait main à Paris. Épaisseur": "10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+    "Unit price": "/per",
+    "CALIBER": "La Joux-Perret G100 automatic movement",
+    "POWER RESERVE": "68 hours",
+    "INDICATIONS": "Hours, minutes, seconds",
+    "FREQUENCY": "4 Hz (28,800 vibrations/hour)",
+    "NUMBER OF JEWELS": "24",
+    "FINISHES": "Côtes de Genève, diamond-polished bevels, rhodium-plated screws, polished and flame-blued, solid tungsten oscillating weight with decoration",
+    "SHAPE": "Cushion, 316L stainless steel",
+    "DIAMETER": "40 mm",
+    "THICKNESS": "10.9 mm",
+    "LUG-TO-LUG": "44.60 mm",
+    "LUG WIDTH": "20 mm",
+    "BEZEL": "Fluted with double-domed sapphire crystal and anti-reflective coating",
+    "CROWN": "Fluted",
+    "CASEBACK": "Screwed with transparent sapphire crystal",
+    "WATER RESISTANCE": "50 meters",
+    "DIAL": "Lacquered",
+    "HOUR AND MINUTE HANDS": "Leaf-shaped",
+    "SECOND HAND": "Droplet-shaped",
+    "LEATHER": "Full-grain, vegetable-tanned, aniline-finished cowhide. Saffiano grained calf leather, mineral tanning",
+    "LINING": "Calf leather, mineral tanning",
+    "BUCKLE": "Stainless steel ardillon",
+    "DIMENSIONS": "20/18 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/embleme"
+   ],
+   "hash": "2e9ee1fc138d236b"
+  },
+  {
+   "id": "BRD-1093/embleme-bleu-profond",
+   "name": "Emblème Bleu Profond",
+   "url": "https://www.maisonboanton.com/products/embleme-bleu-profond",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEBLEU_SAFIANOBLEU_c0eed032-d001-43e3-9c4e-d306d926124a.jpg?v=1746117159",
+    "width": 2706,
+    "height": 3383
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEBLEU_SAFIANOBLEU_c0eed032-d001-43e3-9c4e-d306d926124a.jpg?v=1746117159",
+     "width": 2706,
+     "height": 3383
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEBLEU_COGNAC_98baeaa1-f298-4c7a-aab7-02b682ad1fb7.jpg?v=1746117159",
+     "width": 2706,
+     "height": 3608
+    }
+   ],
+   "priceMinor": 195900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Montre Maison Boanton Emblème, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette cannelée. Couronne cannelée. C adran laqué Bleu Profond. Aiguilles argentées en forme de feuille. Glace saphir double-dôme résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main à Paris. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur du cadran",
+     "values": [
+      "Bleu Profond"
+     ]
+    },
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "Saffiano Bleu",
+      "Cognac"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bleu Profond / Saffiano Bleu",
+     "sku": null,
+     "priceMinor": 195900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu Profond",
+      "Saffiano Bleu"
+     ]
+    },
+    {
+     "title": "Bleu Profond / Cognac",
+     "sku": null,
+     "priceMinor": 195900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bleu Profond",
+      "Cognac"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": null
+   },
+   "specsRaw": {
+    "racelet en cuir fait main à Paris. Épaisseur": "10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+    "Unit price": "/per",
+    "CALIBER": "La Joux-Perret G100 automatic movement",
+    "POWER RESERVE": "68 hours",
+    "INDICATIONS": "Hours, minutes, seconds",
+    "FREQUENCY": "4 Hz (28,800 vibrations/hour)",
+    "NUMBER OF JEWELS": "24",
+    "FINISHES": "Côtes de Genève, diamond-polished bevels, rhodium-plated screws, polished and flame-blued, solid tungsten oscillating weight with decoration",
+    "SHAPE": "Cushion, 316L stainless steel",
+    "DIAMETER": "40 mm",
+    "THICKNESS": "10.9 mm",
+    "LUG-TO-LUG": "44.60 mm",
+    "LUG WIDTH": "20 mm",
+    "BEZEL": "Fluted with double-domed sapphire crystal and anti-reflective coating",
+    "CROWN": "Fluted",
+    "CASEBACK": "Screwed with transparent sapphire crystal",
+    "WATER RESISTANCE": "50 meters",
+    "DIAL": "Lacquered",
+    "HOUR AND MINUTE HANDS": "Leaf-shaped",
+    "SECOND HAND": "Droplet-shaped",
+    "LEATHER": "Full-grain, vegetable-tanned, aniline-finished cowhide. Saffiano grained calf leather, mineral tanning",
+    "LINING": "Calf leather, mineral tanning",
+    "BUCKLE": "Stainless steel ardillon",
+    "DIMENSIONS": "20/18 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/embleme"
+   ],
+   "hash": "774a98a85844921d"
+  },
+  {
+   "id": "BRD-1093/embleme-vert-emeraude",
+   "name": "Emblème Vert Émeraude",
+   "url": "https://www.maisonboanton.com/products/embleme-vert-emeraude",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEVERT_COGNACcopie.jpg?v=1745934078",
+    "width": 2706,
+    "height": 3383
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEVERT_COGNACcopie.jpg?v=1745934078",
+     "width": 2706,
+     "height": 3383
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EMBLEMEVERT_COGNAC.jpg?v=1745934016",
+     "width": 2706,
+     "height": 3383
+    }
+   ],
+   "priceMinor": 195900,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Montre Maison Boanton Emblème, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette cannelée. Couronne cannelée. C adran laqué Vert Émeraude. Aiguilles argentées en forme de feuille. Glace saphir double-dôme résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main à Paris. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur du cadran",
+     "values": [
+      "Vert Émeraude"
+     ]
+    },
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "Cognac",
+      "Saffiano Vert"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Vert Émeraude / Cognac",
+     "sku": null,
+     "priceMinor": 195900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Vert Émeraude",
+      "Cognac"
+     ]
+    },
+    {
+     "title": "Vert Émeraude / Saffiano Vert",
+     "sku": null,
+     "priceMinor": 195900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Vert Émeraude",
+      "Saffiano Vert"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": null
+   },
+   "specsRaw": {
+    "racelet en cuir fait main à Paris. Épaisseur": "10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+    "Unit price": "/per",
+    "CALIBER": "La Joux-Perret G100 automatic movement",
+    "POWER RESERVE": "68 hours",
+    "INDICATIONS": "Hours, minutes, seconds",
+    "FREQUENCY": "4 Hz (28,800 vibrations/hour)",
+    "NUMBER OF JEWELS": "24",
+    "FINISHES": "Côtes de Genève, diamond-polished bevels, rhodium-plated screws, polished and flame-blued, solid tungsten oscillating weight with decoration",
+    "SHAPE": "Cushion, 316L stainless steel",
+    "DIAMETER": "40 mm",
+    "THICKNESS": "10.9 mm",
+    "LUG-TO-LUG": "44.60 mm",
+    "LUG WIDTH": "20 mm",
+    "BEZEL": "Fluted with double-domed sapphire crystal and anti-reflective coating",
+    "CROWN": "Fluted",
+    "CASEBACK": "Screwed with transparent sapphire crystal",
+    "WATER RESISTANCE": "50 meters",
+    "DIAL": "Lacquered",
+    "HOUR AND MINUTE HANDS": "Leaf-shaped",
+    "SECOND HAND": "Droplet-shaped",
+    "LEATHER": "Full-grain, vegetable-tanned, aniline-finished cowhide. Saffiano grained calf leather, mineral tanning",
+    "LINING": "Calf leather, mineral tanning",
+    "BUCKLE": "Stainless steel ardillon",
+    "DIMENSIONS": "20/18 mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/embleme"
+   ],
+   "hash": "14377ed9d178f969"
+  },
+  {
+   "id": "BRD-1093/b2201-ar-mare-blue",
+   "name": "Ellipse B2201-AR - Mare Blue",
+   "url": "https://www.maisonboanton.com/products/b2201-ar-mare-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/BLEU_ARABES_CROCO_BLEU.jpg?v=1728642180",
+    "width": 1046,
+    "height": 1307
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/BLEU_ARABES_CROCO_BLEU.jpg?v=1728642180",
+     "width": 1046,
+     "height": 1307
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/E8F2395E-8812-4E66-ACB2-3864F6533AD0.jpg?v=1728572283",
+     "width": 1033,
+     "height": 1292
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/C57848BD-A5A3-413E-83F3-54CE12715BC5.jpg?v=1728572283",
+     "width": 1043,
+     "height": 1304
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/BLEU_ARABES_perfore.jpg?v=1730140567",
+     "width": 1079,
+     "height": 1349
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Captured_ecran2024-02-25a18.23.57.png?v=1733251352",
+     "width": 914,
+     "height": 1142
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Capture_d_ecran_2024-09-06_a_16.44.44.png?v=1725633904",
+     "width": 984,
+     "height": 1230
+    }
+   ],
+   "priceMinor": 192600,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Montre Maison Boanton Ellipse, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette bombée et cannelée. Couronne cannelée. C adran bleu guilloché et satiné soleil. Aiguilles en forme de glaive avec Swiss Super-LumiNova ® . Glace saphir résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main. Quantième à guichet à 3 heures. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur",
+     "values": [
+      "Mare Blue"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Alligator Midnight Blue",
+      "Midnight Blue",
+      "Mahogany Brown",
+      "Racing Blue (sur commande uniquement)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Mare Blue / Alligator Midnight Blue",
+     "sku": null,
+     "priceMinor": 213400,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Mare Blue",
+      "Alligator Midnight Blue"
+     ]
+    },
+    {
+     "title": "Mare Blue / Midnight Blue",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Mare Blue",
+      "Midnight Blue"
+     ]
+    },
+    {
+     "title": "Mare Blue / Mahogany Brown",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Mare Blue",
+      "Mahogany Brown"
+     ]
+    },
+    {
+     "title": "Mare Blue / Racing Blue (sur commande uniquement)",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Mare Blue",
+      "Racing Blue (sur commande uniquement)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Unit price": "/per",
+    "Diameter": "40 mm",
+    "Lug to lug": "44,60 mm",
+    "Case thickness": "9,06 mm (without glass)",
+    "Lug width": "20 mm",
+    "Manufacture movement": "La Joux Perret G100 Automatic Swiss Made",
+    "Functions": "Date, Hour, Minute, Second",
+    "Frequency": "4 Hz",
+    "Power Reserve": "68 Hours"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/collection-ellipse"
+   ],
+   "hash": "3257d251abf64789"
+  },
+  {
+   "id": "BRD-1093/b2201-rm-mare-blue",
+   "name": "Ellipse B2201-RM - Mare Blue",
+   "url": "https://www.maisonboanton.com/products/b2201-rm-mare-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/LOOKBOOK_FACE_ROMAIN_BLEU.jpg?v=1728076276",
+    "width": 1078,
+    "height": 1348
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/LOOKBOOK_FACE_ROMAIN_BLEU.jpg?v=1728076276",
+     "width": 1078,
+     "height": 1348
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/BLEU_ROMAINS_VEAU_MARRON.jpg?v=1728076046",
+     "width": 1039,
+     "height": 1299
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/BLEU_ROMAINS_VEAU_BLEU.jpg?v=1728076047",
+     "width": 1040,
+     "height": 1300
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/RM_Mare_Blue.png?v=1725633614",
+     "width": 954,
+     "height": 1256
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/EllipseMareBlue.png?v=1724411221",
+     "width": 841,
+     "height": 1053
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Capture_d_ecran_2024-08-23_a_17.50.37.png?v=1724428267",
+     "width": 924,
+     "height": 1220
+    }
+   ],
+   "priceMinor": 192600,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Montre Maison Boanton Ellipse, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette bombée et cannelée. Couronne cannelée. C adran bleu guilloché et satiné soleil. Aiguilles Breguet. Glace saphir résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main. Quantième à guichet à 3 heures. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur",
+     "values": [
+      "Mare Blue"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Alligator Midnight Blue",
+      "Mahogany Brown",
+      "Midnight Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Mare Blue / Alligator Midnight Blue",
+     "sku": null,
+     "priceMinor": 213400,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mare Blue",
+      "Alligator Midnight Blue"
+     ]
+    },
+    {
+     "title": "Mare Blue / Mahogany Brown",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Mare Blue",
+      "Mahogany Brown"
+     ]
+    },
+    {
+     "title": "Mare Blue / Midnight Blue",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mare Blue",
+      "Midnight Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Unit price": "/per",
+    "Diameter": "40 mm",
+    "Lug to lug": "44,60 mm",
+    "Case thickness": "9,06 mm (without glass)",
+    "Lug width": "20 mm",
+    "Manufacture movement": "La Joux Perret G100 Automatic Swiss Made",
+    "Functions": "Date, Hour, Minute, Second",
+    "Frequency": "4 Hz",
+    "Power Reserve": "68 Hours"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/collection-ellipse"
+   ],
+   "hash": "37bddb37f851ebbc"
+  },
+  {
+   "id": "BRD-1093/b2201-ar-terra-nera",
+   "name": "Ellipse B2201-AR - Terra Nera",
+   "url": "https://www.maisonboanton.com/products/b2201-ar-terra-nera",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/NOIR_ARABES_perfore.jpg?v=1730139150",
+    "width": 1048,
+    "height": 1310
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/NOIR_ARABES_perfore.jpg?v=1730139150",
+     "width": 1048,
+     "height": 1310
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/6215536C-0723-4003-97E1-EE158953E8A3.jpg?v=1728570706",
+     "width": 1045,
+     "height": 1306
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/46604BF1-495F-4E64-B19B-F5B1B6772C1A.jpg?v=1728570707",
+     "width": 1044,
+     "height": 1305
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Capture_d_ecran_2024-10-17_a_19.23.38.jpg?v=1729620642",
+     "width": 955,
+     "height": 1190
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/box-2.jpg?v=1729621102",
+     "width": 2668,
+     "height": 3362
+    }
+   ],
+   "priceMinor": 192600,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Montre Maison Boanton Ellipse, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette bombée et cannelée. Couronne cannelée. C adran noir guilloché et satiné soleil. Aiguilles en forme de glaive avec Swiss Super-LumiNova ® . Glace saphir résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main. Quantième à guichet à 3 heures. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur",
+     "values": [
+      "Terra Nera"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Racing Black",
+      "Matte Black",
+      "Mahogany Brown"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Terra Nera / Racing Black",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Terra Nera",
+      "Racing Black"
+     ]
+    },
+    {
+     "title": "Terra Nera / Matte Black",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Terra Nera",
+      "Matte Black"
+     ]
+    },
+    {
+     "title": "Terra Nera / Mahogany Brown",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Terra Nera",
+      "Mahogany Brown"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Unit price": "/per",
+    "Diameter": "40 mm",
+    "Lug to lug": "44,60 mm",
+    "Case thickness": "9,06 mm (without glass)",
+    "Lug width": "20 mm",
+    "Manufacture movement": "La Joux Perret G100 Automatic Swiss Made",
+    "Functions": "Date, Hour, Minute, Second",
+    "Frequency": "4 Hz",
+    "Power Reserve": "68 Hours"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/collection-ellipse"
+   ],
+   "hash": "0331e87b3b2e22dc"
+  },
+  {
+   "id": "BRD-1093/b2201-rm-lunar-silver",
+   "name": "Ellipse B2201-RM - Lunar Silver",
+   "url": "https://www.maisonboanton.com/products/b2201-rm-lunar-silver",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/708B0957-DD95-446B-8288-CC92A957F7E3.jpg?v=1728570233",
+    "width": 1031,
+    "height": 1289
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/708B0957-DD95-446B-8288-CC92A957F7E3.jpg?v=1728570233",
+     "width": 1031,
+     "height": 1289
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/0668D4FF-767D-4669-BA8B-9CF08547E047.jpg?v=1728570494",
+     "width": 1010,
+     "height": 1262
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/SILVER_ROMAINS_CROCO_BLEU.jpg?v=1728644346",
+     "width": 1042,
+     "height": 1302
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Ellipse_Silver_portee.png?v=1733250852",
+     "width": 802,
+     "height": 1002
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/files/Maison_Boanton_Ellipse15.jpg?v=1733251009",
+     "width": 1531,
+     "height": 1914
+    }
+   ],
+   "priceMinor": 192600,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Montre Maison Boanton Ellipse, 40 mm. Mouvement mécanique à remontage automatique, calibre de Manufacture La Joux-Perret G100, 68 heures de réserve de marche. Boîtier coussin en acier, finition polie. Lunette bombée et cannelée. Couronne cannelée. C adran argenté guilloché et satiné soleil. Aiguilles Breguet. Glace saphir résistante aux rayures. Fond de boîte transparent, finition satinée. B racelet en cuir fait main. Quantième à guichet à 3 heures. Épaisseur : 10,9 mm. Étanche jusqu'à 50 mètres (5 bar).",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur",
+     "values": [
+      "Lunar Silver"
+     ]
+    },
+    {
+     "name": "Bracelet",
+     "values": [
+      "Matte Black",
+      "Mahogany Brown",
+      "Alligator Midnight Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Lunar Silver / Matte Black",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Lunar Silver",
+      "Matte Black"
+     ]
+    },
+    {
+     "title": "Lunar Silver / Mahogany Brown",
+     "sku": null,
+     "priceMinor": 192600,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Lunar Silver",
+      "Mahogany Brown"
+     ]
+    },
+    {
+     "title": "Lunar Silver / Alligator Midnight Blue",
+     "sku": null,
+     "priceMinor": 213400,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Lunar Silver",
+      "Alligator Midnight Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 44.6,
+    "thicknessMm": 10.9,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 68,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Unit price": "/per",
+    "Diameter": "40 mm",
+    "Lug to lug": "44,60 mm",
+    "Case thickness": "9,06 mm (without glass)",
+    "Lug width": "20 mm",
+    "Manufacture movement": "La Joux Perret G100 Automatic Swiss Made",
+    "Functions": "Date, Hour, Minute, Second",
+    "Frequency": "4 Hz",
+    "Power Reserve": "68 Hours"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:47:53.660Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:47:53.660Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1093/collection-ellipse"
+   ],
+   "hash": "af1c93ab83a7d194"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1093/collection-ellipse",
+   "name": "Ellipse",
+   "url": "https://www.maisonboanton.com/collections/collection-ellipse",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/collections/clair_obscur_profil_perspective.png?v=1745163121",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1093/embleme",
+   "name": "Emblème",
+   "url": "https://www.maisonboanton.com/collections/embleme",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/collections/IMG_1176_resized.jpg?v=1759590648",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1093/embleme-pink-edition",
+   "name": "Emblème Pink Edition",
+   "url": "https://www.maisonboanton.com/collections/embleme-pink-edition",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/collections/d3a34e72-b8a9-4f53-b3b3-00b7960f8c7f_7f361143-af97-454d-828b-29e1d8b46230.jpg?v=1765378163",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1093/heritage",
+   "name": "Héritage",
+   "url": "https://www.maisonboanton.com/collections/heritage",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0689/1870/6462/collections/NIGHT_VISION_PRINT-3.jpg?v=1756981903",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

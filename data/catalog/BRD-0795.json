@@ -1,0 +1,3224 @@
+{
+ "brandId": "BRD-0795",
+ "brandName": "Charles Zuber",
+ "website": "https://www.charleszuber.com",
+ "crawledAt": "2026-11-01T06:48:46.653Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://www.charleszuber.com/wp-content/uploads/2024/03/cz-black-logo.jpg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.charleszuber.com/"
+ },
+ "attribution": "Images © Charles Zuber, from charleszuber.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0795/perfos-39-steel-on-leather-fohn",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-steel-on-leather-fohn/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/11/perfos-39-steel-on-leather-fohn-thumb.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/11/perfos-39-steel-on-leather-fohn-thumb.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 2117000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The striking and masterful Perfos timepiece; designed for those who demand the very best in Swiss watchmaking. The striking and masterful Perfos timepiece, designed for those who demand the very best in Swiss watchmaking, is a limited edition. With its bold and alluring brown dial, this 39mm work of art truly testifies to the artistry and technical expertise of its creators.",
+   "productType": "Perfos",
+   "tags": [
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-39"
+   ],
+   "hash": "a3fad8582900c656"
+  },
+  {
+   "id": "BRD-0795/bague-dome-saphir-tsavorite",
+   "name": "Bague dôme",
+   "url": "https://www.charleszuber.com/product/bague-dome-saphir-tsavorite/",
+   "image": null,
+   "images": [],
+   "priceMinor": 9511600,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [
+    "High Jewellery"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-rings"
+   ],
+   "hash": "25d64548e46b2593"
+  },
+  {
+   "id": "BRD-0795/bague-dome-amethyste-tsavorite",
+   "name": "Bague dôme",
+   "url": "https://www.charleszuber.com/product/bague-dome-amethyste-tsavorite/",
+   "image": null,
+   "images": [],
+   "priceMinor": 5185500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [
+    "High Jewellery"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-rings"
+   ],
+   "hash": "317d16d638fa8c63"
+  },
+  {
+   "id": "BRD-0795/bo-dome-2",
+   "name": "BO Dôme",
+   "url": "https://www.charleszuber.com/product/bo-dome-2/",
+   "image": null,
+   "images": [],
+   "priceMinor": 2702000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "e94976f57fac0910"
+  },
+  {
+   "id": "BRD-0795/bo-dome",
+   "name": "BO Dôme",
+   "url": "https://www.charleszuber.com/product/bo-dome/",
+   "image": null,
+   "images": [],
+   "priceMinor": 2729800,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "d9975afa93726c21"
+  },
+  {
+   "id": "BRD-0795/nova-multicolor-3-lignes",
+   "name": "BO Etoile",
+   "url": "https://www.charleszuber.com/product/nova-multicolor-3-lignes/",
+   "image": null,
+   "images": [],
+   "priceMinor": 5645300,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "e438a54610047647"
+  },
+  {
+   "id": "BRD-0795/star-one-grenat-rhodolite",
+   "name": "BO Etoile",
+   "url": "https://www.charleszuber.com/product/star-one-grenat-rhodolite/",
+   "image": null,
+   "images": [],
+   "priceMinor": 2253700,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "cb8d319d18fee81f"
+  },
+  {
+   "id": "BRD-0795/star-one-nova-multicolor",
+   "name": "BO Etoile",
+   "url": "https://www.charleszuber.com/product/star-one-nova-multicolor/",
+   "image": null,
+   "images": [],
+   "priceMinor": 2587600,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "bb90bdf0643af2b7"
+  },
+  {
+   "id": "BRD-0795/star-one-saph-bleu-tsav",
+   "name": "BO Etoile",
+   "url": "https://www.charleszuber.com/product/star-one-saph-bleu-tsav/",
+   "image": null,
+   "images": [],
+   "priceMinor": 2893600,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "93b38de5ef319ea1"
+  },
+  {
+   "id": "BRD-0795/modele-38-mm-classique-5",
+   "name": "Modèle 38 mm classique",
+   "url": "https://www.charleszuber.com/product/modele-38-mm-classique-5/",
+   "image": null,
+   "images": [],
+   "priceMinor": 2117000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-modele-38",
+    "BRD-0795/ww-watches"
+   ],
+   "hash": "499ac7e06e2fb1f4"
+  },
+  {
+   "id": "BRD-0795/modele-38-mm-classique-titane-cadran-blanc",
+   "name": "Modèle 38 mm classique",
+   "url": "https://www.charleszuber.com/product/modele-38-mm-classique-titane-cadran-blanc/",
+   "image": null,
+   "images": [],
+   "priceMinor": 1745600,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "ww Modèle 38",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/ww-modele-38",
+    "BRD-0795/ww-watches"
+   ],
+   "hash": "17ff80e89cf50474"
+  },
+  {
+   "id": "BRD-0795/modele-38-mm-classique-4",
+   "name": "Modèle 38 mm classique",
+   "url": "https://www.charleszuber.com/product/modele-38-mm-classique-4/",
+   "image": null,
+   "images": [],
+   "priceMinor": 2117000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-modele-38",
+    "BRD-0795/ww-watches"
+   ],
+   "hash": "25cdf9b4f8474e7e"
+  },
+  {
+   "id": "BRD-0795/modele-38-mm-classique-3",
+   "name": "Modèle 38 mm classique",
+   "url": "https://www.charleszuber.com/product/modele-38-mm-classique-3/",
+   "image": null,
+   "images": [],
+   "priceMinor": 3296200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-modele-38",
+    "BRD-0795/ww-watches"
+   ],
+   "hash": "f1bf582c8ffaef5d"
+  },
+  {
+   "id": "BRD-0795/modele-38-mm-classique-2",
+   "name": "Modèle 38 mm classique",
+   "url": "https://www.charleszuber.com/product/modele-38-mm-classique-2/",
+   "image": null,
+   "images": [],
+   "priceMinor": 3519000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-modele-38",
+    "BRD-0795/ww-watches"
+   ],
+   "hash": "dac4b6375b7e0c05"
+  },
+  {
+   "id": "BRD-0795/icon-watch",
+   "name": "Icon Watch",
+   "url": "https://www.charleszuber.com/product/icon-watch/",
+   "image": null,
+   "images": [],
+   "priceMinor": 11606300,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-modele-38",
+    "BRD-0795/ww-watches"
+   ],
+   "hash": "4b9bb20292b90b78"
+  },
+  {
+   "id": "BRD-0795/modele-36-mm-7",
+   "name": "Modèle 36 mm",
+   "url": "https://www.charleszuber.com/product/modele-36-mm-7/",
+   "image": null,
+   "images": [],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-36"
+   ],
+   "hash": "8fe86ff296ffad3e"
+  },
+  {
+   "id": "BRD-0795/modele-38-mm-classique",
+   "name": "Modèle 38 mm classique",
+   "url": "https://www.charleszuber.com/product/modele-38-mm-classique/",
+   "image": null,
+   "images": [],
+   "priceMinor": 3296200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-modele-38",
+    "BRD-0795/ww-watches"
+   ],
+   "hash": "719d7e398835d382"
+  },
+  {
+   "id": "BRD-0795/modele-36-mm-6",
+   "name": "Modèle 36 mm",
+   "url": "https://www.charleszuber.com/product/modele-36-mm-6/",
+   "image": null,
+   "images": [],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "ww Modèle 36",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-36"
+   ],
+   "hash": "45dfe86afccd36fc"
+  },
+  {
+   "id": "BRD-0795/modele-36-mm-5",
+   "name": "Modèle 36 mm",
+   "url": "https://www.charleszuber.com/product/modele-36-mm-5/",
+   "image": null,
+   "images": [],
+   "priceMinor": 984200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-36"
+   ],
+   "hash": "cea6ad87412b9965"
+  },
+  {
+   "id": "BRD-0795/modele-36-mm-4",
+   "name": "Modèle 36 mm",
+   "url": "https://www.charleszuber.com/product/modele-36-mm-4/",
+   "image": null,
+   "images": [],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-36"
+   ],
+   "hash": "398b1549dfc03687"
+  },
+  {
+   "id": "BRD-0795/modele-36-mm-3",
+   "name": "Modèle 36 mm",
+   "url": "https://www.charleszuber.com/product/modele-36-mm-3/",
+   "image": null,
+   "images": [],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-36"
+   ],
+   "hash": "65fb7685a656411f"
+  },
+  {
+   "id": "BRD-0795/modele-36-mm-2",
+   "name": "Modèle 36 mm",
+   "url": "https://www.charleszuber.com/product/modele-36-mm-2/",
+   "image": null,
+   "images": [],
+   "priceMinor": 919200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-36"
+   ],
+   "hash": "7199eb4e08e649ea"
+  },
+  {
+   "id": "BRD-0795/modele-36-mm",
+   "name": "Modèle 36 mm",
+   "url": "https://www.charleszuber.com/product/modele-36-mm/",
+   "image": null,
+   "images": [],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "ww Modèle 36",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-36"
+   ],
+   "hash": "cb0ba6966c117e3e"
+  },
+  {
+   "id": "BRD-0795/collier-pastille",
+   "name": "Collier pastille",
+   "url": "https://www.charleszuber.com/product/collier-pastille/",
+   "image": null,
+   "images": [],
+   "priceMinor": 194500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-necklaces"
+   ],
+   "hash": "a5e8ac4e17b84897"
+  },
+  {
+   "id": "BRD-0795/amethyste-diam-5n",
+   "name": "Améthyste diam 5N",
+   "url": "https://www.charleszuber.com/product/amethyste-diam-5n/",
+   "image": null,
+   "images": [],
+   "priceMinor": 520000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "7e9afb07d706f1ce"
+  },
+  {
+   "id": "BRD-0795/jade-lavande-diame-5n",
+   "name": "Jade lavande diame 5N",
+   "url": "https://www.charleszuber.com/product/jade-lavande-diame-5n/",
+   "image": null,
+   "images": [],
+   "priceMinor": 529200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "b3ce484ef69d1271"
+  },
+  {
+   "id": "BRD-0795/jade-noir-diam-5n",
+   "name": "Jade noir diam 5N",
+   "url": "https://www.charleszuber.com/product/jade-noir-diam-5n/",
+   "image": null,
+   "images": [],
+   "priceMinor": 510700,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "3d134062bbed3e15"
+  },
+  {
+   "id": "BRD-0795/jade-noir-diam-og",
+   "name": "Jade noir diam OG",
+   "url": "https://www.charleszuber.com/product/jade-noir-diam-og/",
+   "image": null,
+   "images": [],
+   "priceMinor": 520000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "d971b0e6553c4fe2"
+  },
+  {
+   "id": "BRD-0795/jade-noir-tsavorite-5n",
+   "name": "Jade noir tsavorite 5N",
+   "url": "https://www.charleszuber.com/product/jade-noir-tsavorite-5n/",
+   "image": null,
+   "images": [],
+   "priceMinor": 520000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "07ba43abaae86777"
+  },
+  {
+   "id": "BRD-0795/chrysoprase-diam-og",
+   "name": "Chrysoprase diam OG",
+   "url": "https://www.charleszuber.com/product/chrysoprase-diam-og/",
+   "image": null,
+   "images": [],
+   "priceMinor": 529200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "ea22675851853983"
+  },
+  {
+   "id": "BRD-0795/turquoise-diam-og",
+   "name": "Turquoise diam OG",
+   "url": "https://www.charleszuber.com/product/turquoise-diam-og/",
+   "image": null,
+   "images": [],
+   "priceMinor": 529200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "f6b96764c725f2ae"
+  },
+  {
+   "id": "BRD-0795/turquoise-rubis-5n",
+   "name": "Turquoise rubis 5N",
+   "url": "https://www.charleszuber.com/product/turquoise-rubis-5n/",
+   "image": null,
+   "images": [],
+   "priceMinor": 538500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "e68f452bd63aab05"
+  },
+  {
+   "id": "BRD-0795/bracelet-pastille-4n-rondelle-polie",
+   "name": "Bracelet Pastille 4N rondelle polie",
+   "url": "https://www.charleszuber.com/product/bracelet-pastille-4n-rondelle-polie/",
+   "image": null,
+   "images": [],
+   "priceMinor": 343500,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/bracelets-ww-jewellery"
+   ],
+   "hash": "cebfbe39eeea8ebb"
+  },
+  {
+   "id": "BRD-0795/bracelet-pastille-4n-rondelle-sertie-descendu",
+   "name": "Bracelet Pastille 4N rondelle sertie descendu",
+   "url": "https://www.charleszuber.com/product/bracelet-pastille-4n-rondelle-sertie-descendu/",
+   "image": null,
+   "images": [],
+   "priceMinor": 427100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/bracelets-ww-jewellery"
+   ],
+   "hash": "aa0f15351beb69f2"
+  },
+  {
+   "id": "BRD-0795/bracelet-pastille-og-rondelle-polie",
+   "name": "Bracelet Pastille OG rondelle polie",
+   "url": "https://www.charleszuber.com/product/bracelet-pastille-og-rondelle-polie/",
+   "image": null,
+   "images": [],
+   "priceMinor": 362100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/bracelets-ww-jewellery"
+   ],
+   "hash": "585d2bd0709bc06c"
+  },
+  {
+   "id": "BRD-0795/bracelet-pastille-og-rondelle-sertie-descendu",
+   "name": "Bracelet Pastille OG rondelle sertie descendu",
+   "url": "https://www.charleszuber.com/product/bracelet-pastille-og-rondelle-sertie-descendu/",
+   "image": null,
+   "images": [],
+   "priceMinor": 445700,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/bracelets-ww-jewellery"
+   ],
+   "hash": "412a89dc894a8a2a"
+  },
+  {
+   "id": "BRD-0795/bague-mini-dome-turquoise-tsavorite-5n",
+   "name": "Bague mini Dôme Turquoise tsavorite 5N",
+   "url": "https://www.charleszuber.com/product/bague-mini-dome-turquoise-tsavorite-5n/",
+   "image": null,
+   "images": [],
+   "priceMinor": 315700,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [
+    "High Jewellery"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-rings"
+   ],
+   "hash": "b28c0f1595565a91"
+  },
+  {
+   "id": "BRD-0795/bracelet-bangle-5n-calcedoine",
+   "name": "Bracelet Bangle 5N Calcédoine",
+   "url": "https://www.charleszuber.com/product/bracelet-bangle-5n-calcedoine/",
+   "image": null,
+   "images": [],
+   "priceMinor": 1104900,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/bracelets-ww-jewellery"
+   ],
+   "hash": "34b94019364d47cb"
+  },
+  {
+   "id": "BRD-0795/bracelet-bangle-og-jade-lavande",
+   "name": "Bracelet Bangle OG Jade Lavande",
+   "url": "https://www.charleszuber.com/product/bracelet-bangle-og-jade-lavande/",
+   "image": null,
+   "images": [],
+   "priceMinor": 1067800,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/bracelets-ww-jewellery"
+   ],
+   "hash": "1c1dee3e538c96c7"
+  },
+  {
+   "id": "BRD-0795/bague-dome-veuve-noire",
+   "name": "Bague dôme",
+   "url": "https://www.charleszuber.com/product/bague-dome-veuve-noire/",
+   "image": null,
+   "images": [],
+   "priceMinor": 5196000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [
+    "High Jewellery"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-rings"
+   ],
+   "hash": "8799e430c66ed496"
+  },
+  {
+   "id": "BRD-0795/bague-dome-jade-lavande",
+   "name": "Bague dôme",
+   "url": "https://www.charleszuber.com/product/bague-dome-jade-lavande/",
+   "image": null,
+   "images": [],
+   "priceMinor": 7166300,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [
+    "High Jewellery"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Bague dôme Jade lavande Reference": "P1W.13 Bague dôme Jade lavande Reference: P1W.13 Bague dôme Jade lavande Reference: P1W.13 Material Pomander Ring",
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-rings"
+   ],
+   "hash": "c43bd36ac2bab542"
+  },
+  {
+   "id": "BRD-0795/bague-dome-saphir-bleu",
+   "name": "Bague dôme",
+   "url": "https://www.charleszuber.com/product/bague-dome-saphir-bleu/",
+   "image": null,
+   "images": [],
+   "priceMinor": 8669600,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [
+    "High Jewellery"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-rings"
+   ],
+   "hash": "7bf0cfbf6cba7c5a"
+  },
+  {
+   "id": "BRD-0795/bague-dome-jade-noir",
+   "name": "Bague dôme",
+   "url": "https://www.charleszuber.com/product/bague-dome-jade-noir/",
+   "image": null,
+   "images": [],
+   "priceMinor": 7146300,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches and Wonder",
+   "tags": [
+    "High Jewellery"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-rings"
+   ],
+   "hash": "eabade8e214598d0"
+  },
+  {
+   "id": "BRD-0795/perfos-42-steel-on-steel-obsidian-cobalt",
+   "name": "Perfos 42",
+   "url": "https://www.charleszuber.com/product/perfos-42-steel-on-steel-obsidian-cobalt/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-42-steel-on-steel-obsidian-cobalt-1.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-42-steel-on-steel-obsidian-cobalt-1.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 2274800,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Introducing the Perfos &#8211; a poetic masterpiece of Swiss watchmaking that gracefully blends minimalism with luxury. Introducing the Perfos &#8211; a poetic masterpiece of Swiss watchmaking that gracefully blends minimalism with luxury. This 42mm timepiece features a black dial adorned with blue indexes and a stainless steel bracelet, making it the embodiment of understated elegance.",
+   "productType": "Perfos",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-42"
+   ],
+   "hash": "6a961cf9be030737"
+  },
+  {
+   "id": "BRD-0795/perfos-42-steel-on-steel-ivory",
+   "name": "Perfos 42",
+   "url": "https://www.charleszuber.com/product/perfos-42-steel-on-steel-ivory/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-42-steel-on-steel-ivory-1.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-42-steel-on-steel-ivory-1.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 2274800,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "A testament to Swiss craftsmanship, this Perfos timepiece is both timeless and contemporary. A testament to Swiss craftsmanship, this Perfos timepiece is both timeless and contemporary. With its 42mm stainless steel case and a stunning black dial accentuated with glistening reflective silver indexes, this watch is the ultimate expression of understated elegance.",
+   "productType": "Perfos",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-42"
+   ],
+   "hash": "2d5573098cd37822"
+  },
+  {
+   "id": "BRD-0795/perfos-39-rose-gold-on-leather-dravite",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-rose-gold-on-leather-dravite/",
+   "image": null,
+   "images": [],
+   "priceMinor": 3296200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Perfos is the epitome of luxury and sophistication. Perfos is the epitome of luxury and sophistication. This exquisite timepiece features an 18k rose gold case and a champagne dial that exudes warmth and elegance, complemented by a brown matte alligator strap that adds the perfect touch of refinement.",
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-39"
+   ],
+   "hash": "b21f85dbf69574ad"
+  },
+  {
+   "id": "BRD-0795/perfos-39-yellow-gold-on-leather-amethyst",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-yellow-gold-on-leather-amethyst/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-Yellow-Gold-on-Leather-Amethyst-1.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-Yellow-Gold-on-Leather-Amethyst-1.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3296200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Introducing Perfos; a watch that truly pushes the boundaries of time, luxury and style. With its sleek and powerful integrated case, this timepiece is a true masterpiece of modern design. Introducing Perfos; a watch that truly pushes the boundaries of time, luxury and style. With its sleek and powerful integrated case, this timepiece is a true masterpiece of modern design. The purple dial is the perfect complement to the 18k yellow gold case, while the blue alligator leather strap adds the perfect touch of contrast.",
+   "productType": "Perfos",
+   "tags": [
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-39"
+   ],
+   "hash": "1f0938bf62a2bfb9"
+  },
+  {
+   "id": "BRD-0795/perfos-39-rose-gold-on-leather-amethyst",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-rose-gold-on-leather-amethyst/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/Perfos-39-Rose-Gold-on-Leather-Amethyst-1.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/Perfos-39-Rose-Gold-on-Leather-Amethyst-1.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3296200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Introducing the Perfos 39mm, a watch that redefines luxury and style for the discerning elite. Introducing the Perfos 39mm, a watch that redefines luxury and style for the discerning elite. This exuberant timepiece features an 18k rose gold case, a purple dial, and a purple alligator leather strap, making it a true masterpiece of Neo-Swiss watchmaking.",
+   "productType": "Perfos",
+   "tags": [
+    "tem",
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-39"
+   ],
+   "hash": "7b0a4fe5bddb2b06"
+  },
+  {
+   "id": "BRD-0795/perfos-39-white-gold-on-lazuli-leather",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-white-gold-on-lazuli-leather/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-white-gold-on-lazuli-leather-1.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-white-gold-on-lazuli-leather-1.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3519000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Perfos is where precision meets sophistication. With its 18k white gold case, striking blue dial, and matching blue alligator leather strap. Perfos is where precision meets sophistication. With its 18k white gold case, striking blue dial, and matching blue alligator leather strap, this timepiece is the perfect expression of Neo-Swiss luxury.",
+   "productType": "Perfos",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-39"
+   ],
+   "hash": "792b5d961fb82978"
+  },
+  {
+   "id": "BRD-0795/perfos-39-rose-gold-on-dravite-leather",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-rose-gold-on-dravite-leather/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-rose-gold-on-dravite-leather-1.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-rose-gold-on-dravite-leather-1.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3296200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Introducing Perfos, the Neo-Swiss luxury timepiece that exudes exuberance. Introducing Perfos, the Neo-Swiss luxury timepiece that exudes exuberance. Crafted with superior craftsmanship and technical expertise, this 39mm watch features an 18k rose gold case, a striking blue dial with 60 meticulously crafted indexes, and a sumptuous brown alligator leather strap.",
+   "productType": "Perfos",
+   "tags": [
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-39"
+   ],
+   "hash": "3ec7bc88ed65163c"
+  },
+  {
+   "id": "BRD-0795/perfos-39-steel-on-steel-white",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-steel-on-steel-white/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/39-Steel-on-Steel-white.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/39-Steel-on-Steel-white.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 2117000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Introducing the exceptional Perfos 39mm timepiece, exquisitely crafted to embody the finest Swiss horology. Introducing the exceptional Perfos 39mm timepiece, exquisitely crafted to embody the finest Swiss horology. With a polished stainless steel strap, a pristine white dial with 60 reflective contrasting indexes, and a recognizably unique shape, this watch is truly unmistakable.",
+   "productType": "Perfos",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-39"
+   ],
+   "hash": "6ea33ceebf0ffee7"
+  },
+  {
+   "id": "BRD-0795/perfos-39-steel-on-steel-obsidian",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-steel-on-steel-obsidian/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-steel-on-steel-obsidian-1.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-steel-on-steel-obsidian-1.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 2117000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "The striking and masterful Perfos timepiece; designed for those who demand the very best in Swiss watchmaking. The striking and masterful Perfos timepiece; designed for those who demand the very best in Swiss watchmaking. With a bold and alluring black dial, this 39mm work of art is a true testament to the artistry and technical expertise of its creators.",
+   "productType": "Perfos",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-39"
+   ],
+   "hash": "fad56f880d6cccaa"
+  },
+  {
+   "id": "BRD-0795/perfos-39-white-gold-ruby-leather-diamond",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product/perfos-39-white-gold-ruby-leather-diamond/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-white-gold-diamond-thumb.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-39-white-gold-diamond-thumb.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6991600,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Prepare to be captivated by the ultimate expression of luxury Prepare to be captivated by the ultimate expression of luxury &#8211; the Perfos 39mm watch with 84 2-carat diamond baguettes adorning the stunning white gold bezel. Every detail of this masterpiece is a testament to the artistry and technical expertise of Swiss watchmaking; a true Neo-Swiss signature of luxury.",
+   "productType": "Perfos",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Indications": "Hours, minutes and small seconds on a subdial at 6 o'clock",
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-39"
+   ],
+   "hash": "275d578597af7988"
+  },
+  {
+   "id": "BRD-0795/perfos-36-steel-on-steel-lazuli",
+   "name": "Perfos 36",
+   "url": "https://www.charleszuber.com/product/perfos-36-steel-on-steel-lazuli/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/36-Steel-on-Steel-Lazuli.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/36-Steel-on-Steel-Lazuli.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 984200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Step into the world of luxury with the Perfos 36mm watch &#8211; a true synthesis of inherent Swiss craftsmanship. Step into the world of luxury with the Perfos 36mm watch &#8211; a true synthesis of inherent Swiss craftsmanship.",
+   "productType": "Perfos",
+   "tags": [
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-36"
+   ],
+   "hash": "0ad5c23ea8e83796"
+  },
+  {
+   "id": "BRD-0795/perfos-36-steel-on-steel-obisidan",
+   "name": "Perfos 36",
+   "url": "https://www.charleszuber.com/product/perfos-36-steel-on-steel-obisidan/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/36-Steel-on-Steel-Obsidian.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/36-Steel-on-Steel-Obsidian.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 984200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Perfos 36mm; where timeless elegance meets modern sophistication. Perfos 36mm; where timeless elegance meets modern sophistication. This exquisite timepiece features a black dial with 60 contrasting reflective indexes and a stainless steel bracelet that exude a bold and daring Neo-Swiss aesthetic.",
+   "productType": "Perfos",
+   "tags": [
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-36"
+   ],
+   "hash": "61d8da4486194206"
+  },
+  {
+   "id": "BRD-0795/perfos-36-steel-on-leather-emerald",
+   "name": "Perfos 36",
+   "url": "https://www.charleszuber.com/product/perfos-36-steel-on-leather-emerald/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/36-Steel-on-Leather-Emerald-.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/36-Steel-on-Leather-Emerald-.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Introducing the Perfos 36mm stainless steel watch, where timeless rarity meets beauty. Introducing the Perfos 36mm stainless steel watch, where timeless rarity meets beauty. This exquisite timepiece features a green malachite dial and an emerald green alligator leather strap that exude modern sophistication and class.",
+   "productType": "Perfos",
+   "tags": [
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-36"
+   ],
+   "hash": "f0e3751afbd61eeb"
+  },
+  {
+   "id": "BRD-0795/perfos-36-steel-on-leather-indigo",
+   "name": "Perfos 36",
+   "url": "https://www.charleszuber.com/product/perfos-36-steel-on-leather-indigo/",
+   "image": null,
+   "images": [],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Introducing the stunning Perfos 36mm, a timepiece that is an extension of your individualistic aesthetic. Introducing the stunning Perfos 36mm, a timepiece that is an extension of your individualistic aesthetic. With its uncompromising design and unparalleled elegance, the Perfos 36mm is the epitome of refined luxury.",
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-watches",
+    "BRD-0795/ww-modele-36"
+   ],
+   "hash": "0bb8a0bb26e763e5"
+  },
+  {
+   "id": "BRD-0795/perfos-36-steel-on-leather-obsidian",
+   "name": "Perfos 36",
+   "url": "https://www.charleszuber.com/product/perfos-36-steel-on-leather-obsidian/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/36-Steel-on-Leather-Obsidian.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/36-Steel-on-Leather-Obsidian.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Introducing the Perfos 36mm, a striking timepiece that embodies the beauty of simplicity in a rebelious fashion. Introducing the Perfos 36mm, a striking timepiece that embodies the beauty of simplicity in a rebelious fashion. This exquisite work of art is more than just a timekeeper &#8211; it&#8217;s an extension of the philosophy on time. With its uncompromised elegance, the Perfos 36mm is the epitome of refined Neo-Swiss luxury.",
+   "productType": "Perfos",
+   "tags": [
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-36"
+   ],
+   "hash": "cdadeccd7a6a22cb"
+  },
+  {
+   "id": "BRD-0795/ruby-earrings",
+   "name": "Ruby",
+   "url": "https://www.charleszuber.com/product/ruby-earrings/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/pomander-earrings-featured.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/pomander-earrings-featured.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1996300,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Dare to be different with the Pomander dome-inspired long drop earrings, the epitome of luxury and elegance. Dare to be different with the Pomander dome-inspired long drop earrings, the epitome of luxury and elegance. Crafted with 18k rose gold, a string of ruby beads, and a black jade dome, these earrings exude a timeless beauty that is simply breathtaking.",
+   "productType": "Watches and Wonder",
+   "tags": [
+    "High Jewellery",
+    "Women"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "8118a2b787f589bb"
+  },
+  {
+   "id": "BRD-0795/amethyst-diamonds-earrings",
+   "name": "Amethyst Diamonds",
+   "url": "https://www.charleszuber.com/product/amethyst-diamonds-earrings/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/amethyst-diam-earrings-featured.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/amethyst-diam-earrings-featured.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 529200,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Unleash the ultimate expression of luxury with the &#8220;Pomander&#8221; dome-inspired earrings, a true masterpiece crafted with the most exceptional attention to detail. Unleash the ultimate expression of luxury with the &#8220;Pomander&#8221; dome-inspired earrings, a true masterpiece crafted with the most exceptional attention to detail. The perfect embodiment of exuberance, these earrings are designed to captivate and leave a lasting impression.",
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/earrings-ww-jewellery"
+   ],
+   "hash": "4e730c858f6fe9d0"
+  },
+  {
+   "id": "BRD-0795/necklace-rose-gold",
+   "name": "Necklace rose Gold",
+   "url": "https://www.charleszuber.com/product/necklace-rose-gold/",
+   "image": null,
+   "images": [],
+   "priceMinor": 7753000,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "Experience the pinnacle of grandeur with our Pomander necklace, a breathtaking work of art that exudes luxurious elegance. Experience the pinnacle of grandeur with our Pomander necklace, a breathtaking work of art that exudes luxurious elegance. The necklace features a grand pomander dome, complemented by a smaller dome suspended on a double rose gold chain, delivering an exquisite aesthetic.",
+   "productType": "Watches and Wonder",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/watches-and-wonder",
+    "BRD-0795/ww-jewellery",
+    "BRD-0795/ww-necklaces"
+   ],
+   "hash": "3659413d90785739"
+  },
+  {
+   "id": "BRD-0795/perfos-36-steel-on-leather-lazuli",
+   "name": "Perfos 36",
+   "url": "https://www.charleszuber.com/product/perfos-36-steel-on-leather-lazuli/",
+   "image": {
+    "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-36-steel-on-leather-lazuli.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.charleszuber.com/wp-content/uploads/2023/03/perfos-36-steel-on-leather-lazuli.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 622100,
+   "currency": "CHF",
+   "availability": "in_stock",
+   "description": "A timepiece that captures the provocative beauty of simplicity. A timepiece that captures the provocative beauty of simplicity. This singular object of artistry is more than just a timekeeper; it is an expression of the meaning you give to time.",
+   "productType": "Perfos",
+   "tags": [
+    "Men",
+    "Template2"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Warning": "Trying to access array offset on value of type bool in /home/clients/8bb5de5b80ba273f083d53181ca717a7/sites/vip.charleszuber.com/wp-content/plugins/elementor/includes/base/widget-base.php on line 224"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:48:46.653Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:48:46.653Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0795/perfos",
+    "BRD-0795/perfos-36"
+   ],
+   "hash": "8a8b8c21ba329689"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0795/perfos",
+   "name": "Perfos",
+   "url": "https://www.charleszuber.com/product-category/watches/perfos/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/perfos-39",
+   "name": "Perfos 39",
+   "url": "https://www.charleszuber.com/product-category/watches/perfos/perfos-39/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/watches-and-wonder",
+   "name": "Watches and Wonder",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/ww-jewellery",
+   "name": "ww Jewellery",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-jewellery/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/ww-rings",
+   "name": "ww Rings",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-jewellery/ww-rings/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/earrings-ww-jewellery",
+   "name": "ww Earrings",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-jewellery/earrings-ww-jewellery/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/ww-modele-38",
+   "name": "ww Modèle 38",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-watches/ww-modele-38/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/ww-watches",
+   "name": "ww Watches",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-watches/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/ww-modele-36",
+   "name": "ww Modèle 36",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-watches/ww-modele-36/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/ww-necklaces",
+   "name": "ww Necklaces",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-jewellery/ww-necklaces/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/bracelets-ww-jewellery",
+   "name": "ww Bracelets",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-jewellery/bracelets-ww-jewellery/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/perfos-42",
+   "name": "Perfos 42",
+   "url": "https://www.charleszuber.com/product-category/watches/perfos/perfos-42/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/ww-modele-39",
+   "name": "ww Modèle 39",
+   "url": "https://www.charleszuber.com/product-category/watches-and-wonder/ww-watches/ww-modele-39/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0795/perfos-36",
+   "name": "Perfos 36",
+   "url": "https://www.charleszuber.com/product-category/watches/perfos/perfos-36/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

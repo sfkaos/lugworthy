@@ -1,0 +1,896 @@
+{
+ "brandId": "BRD-0654",
+ "brandName": "Albedo",
+ "website": "https://albedowatches.com",
+ "crawledAt": "2026-11-01T06:22:43.031Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://albedowatches.com/cdn/shop/files/close-up-zwart-3_6ffa8291-bf43-46eb-8b71-0bf91c52df61.jpg?v=1774019013",
+  "width": 2048,
+  "height": 1365,
+  "kind": "og_image",
+  "sourcePage": "https://albedowatches.com/"
+ },
+ "attribution": "Images © Albedo, from albedowatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0654/solaris-silver",
+   "name": "Solaris Silver",
+   "url": "https://albedowatches.com/products/solaris-silver",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/frontaal-wit_v2-3.jpg?v=1773834328",
+    "width": 1333,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/frontaal-wit_v2-3.jpg?v=1773834328",
+     "width": 1333,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/hero-wit-2.jpg?v=1773834328",
+     "width": 1375,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/DSCF9391-2.jpg?v=1774091987",
+     "width": 1365,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/close-up-witte-wijzerplaat-2_bdeac0a0-e464-4075-9152-fe75ec20ac44.jpg?v=1774091987",
+     "width": 2048,
+     "height": 1493
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/achterzijde_f39bd294-f85c-419b-a8a6-915a5c278906.jpg?v=1774091987",
+     "width": 1396,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/image4.jpg?v=1774091987",
+     "width": 3128,
+     "height": 5568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/image3.jpg?v=1774091987",
+     "width": 3128,
+     "height": 5568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/DSC_0606-2.jpg?v=1774091987",
+     "width": 2048,
+     "height": 1638
+    }
+   ],
+   "priceMinor": 29999,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Albedo Solaris Silver — Modern Utility Chronograph Watch | Albedo Watches Elevate your wrist with the Albedo Solaris Silver. This over-engineered sport watch combines a classic silver aesthetic with high-performance specs. Featuring a 316L stainless steel bracelet, 39mm case, and a stunning sunburst finish. Experience the precision of the VK63 Meca-Quartz movement behind an AR-coated Sapphire crystal. Whether on a rugged trail or at a gala, the Solaris adapts. Two-year warranty and free shipping over €100.",
+   "productType": "Watch",
+   "tags": [
+    "316L",
+    "39mm",
+    "Azurage",
+    "Chronograph",
+    "Meca-quartz",
+    "Mechanical Watch",
+    "Quartz Watch",
+    "Solaris",
+    "Sunburst"
+   ],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Silver"
+     ]
+    },
+    {
+     "name": "Strap Options",
+     "values": [
+      "Metal Bracelet",
+      "Leather strap",
+      "Microfiber Strap",
+      "Rubber Strap",
+      "Premium Collection (all included)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Silver / Metal Bracelet",
+     "sku": "SOL150SL",
+     "priceMinor": 29999,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Silver",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Silver / Leather strap",
+     "sku": "SOL150SL",
+     "priceMinor": 34999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Silver",
+      "Leather strap"
+     ]
+    },
+    {
+     "title": "Silver / Microfiber Strap",
+     "sku": "SOL150SL",
+     "priceMinor": 34999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Silver",
+      "Microfiber Strap"
+     ]
+    },
+    {
+     "title": "Silver / Rubber Strap",
+     "sku": "SOL150SL",
+     "priceMinor": 31999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Silver",
+      "Rubber Strap"
+     ]
+    },
+    {
+     "title": "Silver / Premium Collection (all included)",
+     "sku": "SOL150SL",
+     "priceMinor": 39999,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Silver",
+      "Premium Collection (all included)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 13,
+    "waterResistanceM": 100,
+    "caliber": "Seiko VK63",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case material": "Stainless steel 316L",
+    "Case finishing": "Brushed",
+    "Case diameter": "39mm(42.5mm with Crown)",
+    "Lug width": "20mm",
+    "Lug to lug": "45mm",
+    "Thickness": "13mm",
+    "Glass": "Sapphire Glass",
+    "Dial finish": "Sunburst Dial",
+    "Movement": "Japanese Made VK63 Movement",
+    "Battery Lifetime": "3 years",
+    "Crown": "Engraved",
+    "Water resistance": "10ATM - 100 Meters",
+    "The Play of Light.": "The dial features a high-depth sunburst finish that transforms with every movement of your wrist. It creates a dynamic range of tones—shifting from brilliant highlights to deep shadows—ensuring the watch feels alive and sophisticated in any lighting condition."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:43.031Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:43.031Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0654/solaris-collection"
+   ],
+   "hash": "f9d163a73cf06b12"
+  },
+  {
+   "id": "BRD-0654/solaris-black",
+   "name": "Solaris Black",
+   "url": "https://albedowatches.com/products/solaris-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/frontaal-zwart-2.jpg?v=1773835324",
+    "width": 1333,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/frontaal-zwart-2.jpg?v=1773835324",
+     "width": 1333,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/hero-zwart-2.jpg?v=1773835324",
+     "width": 1375,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/image0.jpg?v=1774083941",
+     "width": 3712,
+     "height": 5568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/image2.jpg?v=1774083941",
+     "width": 3128,
+     "height": 5568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/close-up-zwart-3.jpg?v=1774083941",
+     "width": 2048,
+     "height": 1365
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/gouden-details-crop-2.jpg?v=1774083941",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/image4.jpg?v=1774091987",
+     "width": 3128,
+     "height": 5568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/achterzijde_f39bd294-f85c-419b-a8a6-915a5c278906.jpg?v=1774091987",
+     "width": 1396,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/image3.jpg?v=1774091987",
+     "width": 3128,
+     "height": 5568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/DSC_0606-2.jpg?v=1774091987",
+     "width": 2048,
+     "height": 1638
+    }
+   ],
+   "priceMinor": 29999,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Albedo Solaris Black — Professional Rugged Sport Watch | 316L Steel Meet the Albedo Solaris Black, the ultimate everyday companion. Built for durability without sacrificing style, this black-dial chronograph features a utilitarian brushed bezel and diamond-cut metallic rims. Engineered with a Japanese VK63 movement for mechanical feel and quartz reliability. Includes scratch-resistant Sapphire glass, 100m water resistance, and premium BGW9 lume. The perfect balance of raw toughness and refined aesthetics.",
+   "productType": "Watch",
+   "tags": [
+    "316L",
+    "39mm",
+    "Azurage",
+    "Chronograph",
+    "Meca-quartz",
+    "Mechnical Watch",
+    "Quartz Watch",
+    "Solaris",
+    "Sports watch",
+    "Sunburst"
+   ],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Black"
+     ]
+    },
+    {
+     "name": "Strap Options",
+     "values": [
+      "Metal Bracelet",
+      "Leather strap",
+      "Microfiber Strap",
+      "Rubber Strap",
+      "Premium Collection (all included)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black / Metal Bracelet",
+     "sku": "SOL150BLK",
+     "priceMinor": 29999,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Black / Leather strap",
+     "sku": "SOL150BLK",
+     "priceMinor": 34999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Leather strap"
+     ]
+    },
+    {
+     "title": "Black / Microfiber Strap",
+     "sku": "SOL150BLK",
+     "priceMinor": 34999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Microfiber Strap"
+     ]
+    },
+    {
+     "title": "Black / Rubber Strap",
+     "sku": "SOL150BLK",
+     "priceMinor": 31999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Rubber Strap"
+     ]
+    },
+    {
+     "title": "Black / Premium Collection (all included)",
+     "sku": "SOL150BLK",
+     "priceMinor": 39999,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Black",
+      "Premium Collection (all included)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 13,
+    "waterResistanceM": 100,
+    "caliber": "Seiko VK63",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case material": "Stainless steel 316L",
+    "Case finishing": "Brushed",
+    "Case diameter": "39mm(42.5mm with Crown)",
+    "Lug width": "20mm",
+    "Lug to lug": "45mm",
+    "Thickness": "13mm",
+    "Glass": "Sapphire Glass",
+    "Dial finish": "Sunburst Dial",
+    "Movement": "Japanese Made VK63 Movement",
+    "Battery Lifetime": "3 years",
+    "Crown": "Engraved",
+    "Water resistance": "10ATM - 100 Meters",
+    "The Play of Light.": "The dial features a high-depth sunburst finish that transforms with every movement of your wrist. It creates a dynamic range of tones—shifting from brilliant highlights to deep shadows—ensuring the watch feels alive and sophisticated in any lighting condition."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:43.031Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:43.031Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0654/solaris-collection"
+   ],
+   "hash": "dfd46c607ffa2c1d"
+  },
+  {
+   "id": "BRD-0654/solaris-blue",
+   "name": "Solaris Blue",
+   "url": "https://albedowatches.com/products/solaris-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/frontaal-blauw_7919fcbb-53a6-4e48-be56-17976dcd4587.jpg?v=1773604897",
+    "width": 1333,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/frontaal-blauw_7919fcbb-53a6-4e48-be56-17976dcd4587.jpg?v=1773604897",
+     "width": 1333,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/hero-blauw-2.jpg?v=1773835376",
+     "width": 1375,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/sunray-4.jpg?v=1773835376",
+     "width": 1644,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/achterzijde_f39bd294-f85c-419b-a8a6-915a5c278906.jpg?v=1774091987",
+     "width": 1396,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/image4.jpg?v=1774091987",
+     "width": 3128,
+     "height": 5568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/image3.jpg?v=1774091987",
+     "width": 3128,
+     "height": 5568
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/DSC_0606-2.jpg?v=1774091987",
+     "width": 2048,
+     "height": 1638
+    }
+   ],
+   "priceMinor": 29999,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Albedo Solaris Blue — High-Depth Sunburst Dial Meca-Quartz Chronograph Discover the Albedo Solaris Blue: A rugged sport watch with the soul of a tank and the elegance of a luxury timepiece. Featuring a high-depth blue sunburst dial with azurage subdials, this 39mm chronograph is forged from surgical-grade 316L stainless steel. Powered by a precision Japanese VK63 Meca-Quartz movement and protected by AR-coated Sapphire crystal. 100m water resistant and glowing with BGW9 SuperLuminova. Designed for the journey.",
+   "productType": "Watch",
+   "tags": [
+    "316L",
+    "39mm",
+    "Azurage",
+    "Chronograph",
+    "Meca-quartz",
+    "Mechnical Watch",
+    "Quartz Watch",
+    "Solaris",
+    "Sports Watch",
+    "Sunburst"
+   ],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Blue"
+     ]
+    },
+    {
+     "name": "Strap Options",
+     "values": [
+      "Metal Bracelet",
+      "Leather strap",
+      "Microfiber Strap",
+      "Rubber Strap",
+      "Premium Collection (all included)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Blue / Metal Bracelet",
+     "sku": "SOL150B",
+     "priceMinor": 29999,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blue",
+      "Metal Bracelet"
+     ]
+    },
+    {
+     "title": "Blue / Leather strap",
+     "sku": "SOL150B",
+     "priceMinor": 34999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Leather strap"
+     ]
+    },
+    {
+     "title": "Blue / Microfiber Strap",
+     "sku": "SOL150B",
+     "priceMinor": 34999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Microfiber Strap"
+     ]
+    },
+    {
+     "title": "Blue / Rubber Strap",
+     "sku": "SOL150B",
+     "priceMinor": 31999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue",
+      "Rubber Strap"
+     ]
+    },
+    {
+     "title": "Blue / Premium Collection (all included)",
+     "sku": "SOL150B",
+     "priceMinor": 39999,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Blue",
+      "Premium Collection (all included)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45,
+    "thicknessMm": 13,
+    "waterResistanceM": 100,
+    "caliber": "Seiko VK63",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case material": "Stainless steel 316L",
+    "Case finishing": "Brushed",
+    "Case diameter": "39mm(42.5mm with Crown)",
+    "Lug width": "20mm",
+    "Lug to lug": "45mm",
+    "Thickness": "13mm",
+    "Glass": "Sapphire Glass",
+    "Dial finish": "Sunburst Dial",
+    "Movement": "Japanese Made VK63 Movement",
+    "Battery Lifetime": "3 years",
+    "Crown": "Engraved",
+    "Water resistance": "10ATM - 100 Meters",
+    "The Play of Light.": "The dial features a high-depth sunburst finish that transforms with every movement of your wrist. It creates a dynamic range of tones—shifting from brilliant highlights to deep shadows—ensuring the watch feels alive and sophisticated in any lighting condition."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:43.031Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:43.031Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0654/solaris-collection"
+   ],
+   "hash": "2eb0765a2766bba2"
+  },
+  {
+   "id": "BRD-0654/leather-straps",
+   "name": "Vintage Leather",
+   "url": "https://albedowatches.com/products/leather-straps",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/bandje3.jpg?v=1745410793",
+    "width": 5804,
+    "height": 2833
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/bandje3.jpg?v=1745410793",
+     "width": 5804,
+     "height": 2833
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/DSCF7734-Enhanced-NR.jpg?v=1745408812",
+     "width": 2048,
+     "height": 1365
+    }
+   ],
+   "priceMinor": 7000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Indulge in timeless craftsmanship Handmade in Italy from premium full grain leather this strap delivers classic character with a refined finish. The surface is frosted and lightly greased , giving it a soft, velvety texture reminiscent of nubuck —rich to the touch and full of vintage charm. All straps are 20mm wide and feature Quick Release spring bars for effortless strap changes. Advantages of Full Grain Leather Straps 1. Premium Quality & Durability Full grain is the highest grade of leather — it retains the natural grain and strength of the hide. Ages beautifully, developing a rich patina over time instead of wearing out. 2. Unique Character Each strap has natural variations and grain patterns, making every piece unique . The frosted and greased finish enhances this, adding a soft touch and matte vintage look. 3. Breathable & Comfortable Unlike cheaper leathers or synthetics, full grain leather allows air to circulate. The genuine leather lining adds to wearing comfort, preventing skin irritation and improving fit. 4. Long-Lasting Investment With proper care, full grain leather straps last for years and look better with age. Outperforms “genuine” or bonded leather in both durability and aesthetics. 5. Classic Style Pairs effortlessly with vintage, dress, or tool watches. The subtle nubuck-like feel gives it a laid-back luxury appeal — perfect for both casual and formal settings. 6. Italian Craftsmanship Made in Italy means skilled artisans, high standards, and attention to detail. Reinforced stitching, clean finishing, and consistent quality.",
+   "productType": "Watch",
+   "tags": [
+    "Leather strap"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 7000,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Full grain": "is the highest grade of leather — it retains the natural grain and strength of the hide.",
+    "Ex": "Shipping and return policies, size guides, and other common questions."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:43.031Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:43.031Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "911b9e03937a7b8c"
+  },
+  {
+   "id": "BRD-0654/classic-microfiber",
+   "name": "Ultra Microfiber",
+   "url": "https://albedowatches.com/products/classic-microfiber",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/bandje1.jpg?v=1745410793",
+    "width": 7053,
+    "height": 3083
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/bandje1.jpg?v=1745410793",
+     "width": 7053,
+     "height": 3083
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/DSCF7740-Enhanced-NR-2_cd39c51f-b9a3-4e97-8363-e56f3377a195.jpg?v=1745408812",
+     "width": 2048,
+     "height": 1365
+    }
+   ],
+   "priceMinor": 7000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Elevate your style ethically. Crafted in Italy, our premium ultra microfiber strap is sustainable and animal-free (100% Vegan) . Ultra Microfiber leather offers the look and feel of traditional leather, but with added benefits: it’s highly durable , water-resistant , easy to clean , lightweight and breathable —perfect for everyday wear. All straps are 20mm and feature Quick Release spring bars for easy strap changes. Advantages of Microfiber Leather 1. Animal-Free & Sustainable 100% synthetic — no animal products involved. Appeals to ethical, vegan, and sustainability-conscious customers. 2. High Durability Strong tensile strength, tear-resistant, and abrasion-resistant. Often outlasts real leather in wear tests, especially in humid or harsh environments. 3. Water-Resistant & Easy to Clean Doesn’t absorb water like animal leather. Wipes clean with a damp cloth — ideal for daily wear. 4. Breathable & Comfortable Unlike PVC or cheap PU, high-quality microfiber is breathable, soft, and flexible. Comfortable on the skin, even after long wear. 5. Eco-Lighter Than Animal Leather No tanning process with toxic chemicals. Lower overall water and energy footprint compared to traditional leather production. 6. Premium Look & Feel Engineered to mimic the grain, texture, and finish of real leather. High-end aesthetic with consistent quality and fewer imperfections.",
+   "productType": "Watch",
+   "tags": [
+    "Vegan Strap"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black",
+     "sku": null,
+     "priceMinor": 7000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Ex": "Shipping and return policies, size guides, and other common questions."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:43.031Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:43.031Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "05f84ea33d20ac0c"
+  },
+  {
+   "id": "BRD-0654/albedo1901-mechanical-chronograph",
+   "name": "Albedo 1901 Chronograph",
+   "url": "https://albedowatches.com/products/albedo1901-mechanical-chronograph",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/hero.jpg?v=1743954780",
+    "width": 1500,
+    "height": 2251
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/hero.jpg?v=1743954780",
+     "width": 1500,
+     "height": 2251
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/DSC09613C_e37affc6-4dcc-49b4-86d8-eb0ffb805848.png?v=1769636411",
+     "width": 1967,
+     "height": 1967
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/DSC09620.jpg?v=1769636411",
+     "width": 4128,
+     "height": 6192
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/achterkant.jpg?v=1769636411",
+     "width": 4000,
+     "height": 4682
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/lumen_69afdd8a-cae5-4d8a-b736-dfdc3b3ce31e.png?v=1769636913",
+     "width": 975,
+     "height": 1365
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/raderwerk.jpg?v=1769636913",
+     "width": 5000,
+     "height": 5000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/files/Box3_456d7066-fdf2-4807-9d00-b89d71d77284.png?v=1769636913",
+     "width": 2328,
+     "height": 3259
+    }
+   ],
+   "priceMinor": 49999,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Experience timeless elegance and modern functionality with Albedo. Discover the timeless elegance and beautiful mechanical performance of Albedo. Our vintage-inspired mechanical timepieces blend classic design with modern functionality. Inside is the beautiful and reliable ST-1901 movement. See the mechanical prowess any time the our display back case to show off every mechanical movement when the watch is being used. From normal time keeping, to the stopwatch functionality to the reset button. See every movement Albedo makes and enjoy the grounded feel of mechnical simplicity in our fast and modern landscape.",
+   "productType": "Watch",
+   "tags": [
+    "Mechnical Watch"
+   ],
+   "options": [
+    {
+     "name": "Base Strap (Made in Italy)",
+     "values": [
+      "Vintage Leather (Full Grain)",
+      "Ultra Microfiber (Animal free)",
+      "Complete Set (Vintage Leather Strap + Ultra Microfiber Strap)"
+     ]
+    },
+    {
+     "name": "Extra Rubber Strap (free)",
+     "values": [
+      "Textured FKM Rubber (Black)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Vintage Leather (Full Grain) / Textured FKM Rubber (Black)",
+     "sku": "A1901",
+     "priceMinor": 49999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Vintage Leather (Full Grain)",
+      "Textured FKM Rubber (Black)"
+     ]
+    },
+    {
+     "title": "Ultra Microfiber (Animal free) / Textured FKM Rubber (Black)",
+     "sku": "A1901",
+     "priceMinor": 49999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Ultra Microfiber (Animal free)",
+      "Textured FKM Rubber (Black)"
+     ]
+    },
+    {
+     "title": "Complete Set (Vintage Leather Strap + Ultra Microfiber Strap) / Textured FKM Rubber (Black)",
+     "sku": "A1901",
+     "priceMinor": 53999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Complete Set (Vintage Leather Strap + Ultra Microfiber Strap)",
+      "Textured FKM Rubber (Black)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 50,
+    "thicknessMm": 11.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 48,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "red",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case material": "Stainless steel 316L",
+    "Case finishing": "Polished",
+    "Case diameter": "40mm (43.5mm with crown)",
+    "Lug width": "20mm",
+    "Lug to lug": "50mm",
+    "Thickness": "11.5mm without glass (13mm to the peak of the Domed Glass)",
+    "Glass": "Sapphire Glass",
+    "Dial finish": "Textured Dial",
+    "Movement": "Upgraded ST1901 Mechanical Chronograph with Golden Swan Neck Regulator",
+    "Power Reserve": "48 Hours",
+    "Crown": "Engraved",
+    "Water resistance": "5ATM (50 Meters)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:22:43.031Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:22:43.031Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d064a7acce4878eb"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0654/solaris-collection",
+   "name": "Solaris Collection",
+   "url": "https://albedowatches.com/collections/solaris-collection",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0788/7778/6457/collections/sunray-4_29e3fb8f-dbe4-463f-9423-624e89d655f0.jpg?v=1774019954",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

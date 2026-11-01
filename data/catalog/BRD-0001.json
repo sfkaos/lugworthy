@@ -1,0 +1,6965 @@
+{
+ "brandId": "BRD-0001",
+ "brandName": "11i11 saat",
+ "website": "https://11i11sa.at",
+ "crawledAt": "2026-11-01T06:19:36.062Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://11i11sa.at/cdn/shop/files/Logo_patentamt.jpg?v=1741684498",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://11i11sa.at/"
+ },
+ "attribution": "Images © 11i11 saat, from 11i11sa.at",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0001/any-watch-any-strap-or-two",
+   "name": "Any watch, any strap (or two)!",
+   "url": "https://11i11sa.at/products/any-watch-any-strap-or-two",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_quartz_star_straps_black.jpg?v=1741795181",
+    "width": 1536,
+    "height": 1536
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_quartz_star_straps_black.jpg?v=1741795181",
+     "width": 1536,
+     "height": 1536
+    }
+   ],
+   "priceMinor": 39000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "(This is the placeholder product for ordering watches without specifying the straps - to see and directly order the most common straps please select the automatic mechanical or the quartz models.) We offer over 100 different straps from Hirsch and 5 mesh (Milanese) steel straps from Staib - both among the global leaders in their product areas. While we figure out the best way to show and enable ordering of watches with any straps, please order this product, and we will specify the exact straps in an email. The straps are 20mm in width and most have quick release mechanism, so they are easy to change. Exceptions are the mesh straps, for which only the Standard models have quick release mechanisms. Sizing guide by wrist size (approximate): Staib mesh straps: 13.5-20 cm. Hirsch size M: 13.5-19 cm; size L: 14.5-21 cm; size XL (please contact us for availability): 18-23 cm. Straps by price category: Category 1: Toronto, Kansas from Hirsch Category 2: Standard, silky and simple mesh straps from Staib, Kent, Rainbow, Osiris, Osiris Nubuck, Crocograin, Princess, Viazza from Hirsch. Also the Red-white-red straps made exclusively for us by Hirsch Category 3: Duke, Duke metallic, Rally, Diva from Hirsch Category 4: Carbon, Modena, Grand Duke, Merino, Rose from Hirsch Category 5: Andy, Arne, Ascot, Ayrton, Lindsey, George, James, Paul from Hirsch Category 6: Leaf, Gifone, Birch, Serro, Stone from Hirsch Category 7: Sturdy Silver Mesh from Staib",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Watch model",
+     "values": [
+      "Mechanical",
+      "Quartz"
+     ]
+    },
+    {
+     "name": "Strap",
+     "values": [
+      "Cat 1 - Toronto; Kansas",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 7 - Sturdy Mesh"
+     ]
+    },
+    {
+     "name": "Additional strap",
+     "values": [
+      "None",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Mechanical / Cat 1 - Toronto; Kansas / None",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 1 - Toronto; Kansas",
+      "None"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 1 - Toronto; Kansas / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 85500,
+     "compareAtMinor": 85500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 1 - Toronto; Kansas / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 1 - Toronto; Kansas / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 88500,
+     "compareAtMinor": 88500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 1 - Toronto; Kansas / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 1 - Toronto; Kansas / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 92500,
+     "compareAtMinor": 92500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 1 - Toronto; Kansas / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": 93000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / None",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "None"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 89500,
+     "compareAtMinor": 89500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 92000,
+     "compareAtMinor": 92000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 94500,
+     "compareAtMinor": 94500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 95000,
+     "compareAtMinor": 95000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 3 - Duke; Duke metallic; Rally; Diva / None",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "None"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 88500,
+     "compareAtMinor": 88500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 91500,
+     "compareAtMinor": 91500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": 93000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 95500,
+     "compareAtMinor": 95500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 96000,
+     "compareAtMinor": 96000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / None",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "None"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 92000,
+     "compareAtMinor": 92000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": 93000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 94500,
+     "compareAtMinor": 94500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": 97000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 97500,
+     "compareAtMinor": 97500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / None",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "None"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 92500,
+     "compareAtMinor": 92500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 94500,
+     "compareAtMinor": 94500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 95500,
+     "compareAtMinor": 95500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 97000,
+     "compareAtMinor": 97000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 99500,
+     "compareAtMinor": 99500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 100000,
+     "compareAtMinor": 100000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / None",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "None"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 93000,
+     "compareAtMinor": 93000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 95000,
+     "compareAtMinor": 95000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 96000,
+     "compareAtMinor": 96000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 97500,
+     "compareAtMinor": 97500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 100000,
+     "compareAtMinor": 100000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 100500,
+     "compareAtMinor": 100500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 7 - Sturdy Mesh / None",
+     "sku": null,
+     "priceMinor": 96000,
+     "compareAtMinor": 96000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 7 - Sturdy Mesh",
+      "None"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 7 - Sturdy Mesh / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 98500,
+     "compareAtMinor": 98500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 7 - Sturdy Mesh / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 100500,
+     "compareAtMinor": 100500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 7 - Sturdy Mesh / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 101500,
+     "compareAtMinor": 101500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 7 - Sturdy Mesh / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 103000,
+     "compareAtMinor": 103000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 7 - Sturdy Mesh / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 105500,
+     "compareAtMinor": 105500,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Mechanical / Cat 7 - Sturdy Mesh / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 106000,
+     "compareAtMinor": 106000,
+     "available": true,
+     "options": [
+      "Mechanical",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 1 - Toronto; Kansas / None",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 1 - Toronto; Kansas",
+      "None"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 1 - Toronto; Kansas / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 41500,
+     "compareAtMinor": 41500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 1 - Toronto; Kansas / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 1 - Toronto; Kansas / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 44500,
+     "compareAtMinor": 44500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 1 - Toronto; Kansas / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 1 - Toronto; Kansas / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 48500,
+     "compareAtMinor": 48500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 1 - Toronto; Kansas / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 49000,
+     "compareAtMinor": 49000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 1 - Toronto; Kansas",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / None",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "None"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 45500,
+     "compareAtMinor": 45500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 48000,
+     "compareAtMinor": 48000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 50500,
+     "compareAtMinor": 50500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 51000,
+     "compareAtMinor": 51000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 3 - Duke; Duke metallic; Rally; Diva / None",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "None"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 44500,
+     "compareAtMinor": 44500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 47500,
+     "compareAtMinor": 47500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 49000,
+     "compareAtMinor": 49000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 51500,
+     "compareAtMinor": 51500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 3 - Duke; Duke metallic; Rally; Diva / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 52000,
+     "compareAtMinor": 52000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / None",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "None"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 48000,
+     "compareAtMinor": 48000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 49000,
+     "compareAtMinor": 49000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 50500,
+     "compareAtMinor": 50500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 53000,
+     "compareAtMinor": 53000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 53500,
+     "compareAtMinor": 53500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / None",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "None"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 48500,
+     "compareAtMinor": 48500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 50500,
+     "compareAtMinor": 50500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 51500,
+     "compareAtMinor": 51500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 53000,
+     "compareAtMinor": 53000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 55500,
+     "compareAtMinor": 55500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 56000,
+     "compareAtMinor": 56000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / None",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "None"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 49000,
+     "compareAtMinor": 49000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 51000,
+     "compareAtMinor": 51000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 52000,
+     "compareAtMinor": 52000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 53500,
+     "compareAtMinor": 53500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 56000,
+     "compareAtMinor": 56000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 6 - Leaf; Gifone; Birch; Serro; Stone / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 56500,
+     "compareAtMinor": 56500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 7 - Sturdy Mesh / None",
+     "sku": null,
+     "priceMinor": 52000,
+     "compareAtMinor": 52000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 7 - Sturdy Mesh",
+      "None"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 7 - Sturdy Mesh / Cat 1 - Toronto; Kansas",
+     "sku": null,
+     "priceMinor": 54500,
+     "compareAtMinor": 54500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 1 - Toronto; Kansas"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 7 - Sturdy Mesh / Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red",
+     "sku": null,
+     "priceMinor": 56500,
+     "compareAtMinor": 56500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 2 - Standard/Silky/Simple Mesh; Kent; Rainbow; Osiris; Osiris Nubuck; Crocograin; Princess; Viazza;Red-white-red"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 7 - Sturdy Mesh / Cat 3 - Duke; Duke metallic; Rally; Diva",
+     "sku": null,
+     "priceMinor": 57500,
+     "compareAtMinor": 57500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 3 - Duke; Duke metallic; Rally; Diva"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 7 - Sturdy Mesh / Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose",
+     "sku": null,
+     "priceMinor": 59000,
+     "compareAtMinor": 59000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 4 - Carbon; Modena; Grand Duke; Merino; Rose"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 7 - Sturdy Mesh / Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul",
+     "sku": null,
+     "priceMinor": 61500,
+     "compareAtMinor": 61500,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 5 - Andy; Arne; Ascot; Ayrton; Lindsey; George; James; Paul"
+     ]
+    },
+    {
+     "title": "Quartz / Cat 7 - Sturdy Mesh / Cat 6 - Leaf; Gifone; Birch; Serro; Stone",
+     "sku": null,
+     "priceMinor": 62000,
+     "compareAtMinor": 62000,
+     "available": true,
+     "options": [
+      "Quartz",
+      "Cat 7 - Sturdy Mesh",
+      "Cat 6 - Leaf; Gifone; Birch; Serro; Stone"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Sizing guide": "by wrist size (approximate): Staib mesh straps: 13.5-20 cm. Hirsch size M: 13.5-19 cm; size L: 14.5-21 cm; size XL (please contact us for availability): 18-23 cm.",
+    "Category 1": "Toronto, Kansas from Hirsch",
+    "Category 2": "Standard, silky and simple mesh straps from Staib, Kent, Rainbow, Osiris, Osiris Nubuck, Crocograin, Princess, Viazza from Hirsch. Also the Red-white-red straps made exclusively for us by Hirsch",
+    "Category 3": "Duke, Duke metallic, Rally, Diva from Hirsch",
+    "Category 4": "Carbon, Modena, Grand Duke, Merino, Rose from Hirsch",
+    "Category 5": "Andy, Arne, Ascot, Ayrton, Lindsey, George, James, Paul from Hirsch",
+    "Category 6": "Leaf, Gifone, Birch, Serro, Stone from Hirsch",
+    "Category 7": "Sturdy Silver Mesh from Staib"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5c474f1feec93c74"
+  },
+  {
+   "id": "BRD-0001/mechanical-models",
+   "name": "Automatic mechanical models (Swiss-made)",
+   "url": "https://11i11sa.at/products/mechanical-models",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/mechanical_white_dial_side_andy_square_2k.jpg?v=1754960627",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/mechanical_white_dial_side_andy_square_2k.jpg?v=1754960627",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/mike_watchuseek_lume_11.jpg?v=1782746057",
+     "width": 994,
+     "height": 994
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/11i11_caseback_mechanical_red_white_red_3k.jpg?v=1755270882",
+     "width": 3000,
+     "height": 4074
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/movement_sw400_sellita_custom_date_crop.jpg?v=1755270882",
+     "width": 1090,
+     "height": 1090
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_mechanical_red_whote_red.png?v=1755000436",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_mechanical_black_red_andy_2000.png?v=1755000436",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_mechanical_rally_black_red_2000.jpg?v=1755037545",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_mechanical_diva_red_2000.png?v=1755000436",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_mechanical_duke_metallic_rose_2000.png?v=1755000436",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/vienna_mechanical_viazza_light_green.png?v=1755000436",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/black_mechanical_staib_silver_2000.jpg?v=1755037545",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/black_mechanical_red_white_red.png?v=1755000436",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 83000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Unique role of the crown - as dial design element and a mechanical reminder. Built around the large-diameter Sellita SW400 movement, which allows the date window to be positioned within the 5 o’clock index. Sizing guide by wrist size (approximate): Staib mesh straps: 13.5-20 cm. Hirsch size M: 13.5-19 cm; size L: 14.5-21 cm; size XL (please contact us for availability): 18-23 cm.",
+   "productType": null,
+   "tags": [
+    "quartz"
+   ],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "White",
+      "Black"
+     ]
+    },
+    {
+     "name": "Strap",
+     "values": [
+      "Black Red Carbon L",
+      "Black Red Ayrton L",
+      "Black Red Andy L",
+      "Black Red Rally L",
+      "Red Arne M/L",
+      "Burgundy Arne M/L",
+      "Turquoise Arne M/L",
+      "Yellow Arne L",
+      "Blue Arne M/L",
+      "Grey Arne M/L",
+      "Silver Standard Mesh",
+      "Gunmetal Standard Mesh",
+      "Black Simple Steel Mesh",
+      "Silver Sturdy Mesh",
+      "Black Ascot L",
+      "Golden Brown Rally L",
+      "Golden Brown Kent L",
+      "Green Leaf M/L",
+      "Blue Leaf M/L",
+      "Black Duke M/L/XL",
+      "Burgundy Duke L",
+      "Honey Duke L",
+      "Brown Duke L",
+      "Dark Green Duke L",
+      "Yellow Duke L",
+      "Light Blue Duke L",
+      "Red White Red Leather M/L for 11i11 by Hirsch",
+      "Red Kent M/L",
+      "Black Kent L",
+      "Black Red Kansas L",
+      "Red White Kansas L",
+      "Black Blue Ayrton L",
+      "Red Osiris M",
+      "Black Osiris M",
+      "Grey Osiris Nubuck L/M",
+      "Black Red George L",
+      "Black Stone L",
+      "Royal Blue Modena L",
+      "Blue Modena L",
+      "Black Salmon Andy M",
+      "White Rainbow M",
+      "Black Rainbow M",
+      "Golden Brown Rainbow M",
+      "Brown Leaf M",
+      "Light Blue Lindsey M",
+      "Blue Serro L",
+      "Black Yellow Ayrton L",
+      "Red Yellow Arne M/L",
+      "White Toronto M/L",
+      "Black Toronto M/L/XL",
+      "Black Crocograin M",
+      "Beige Birch M",
+      "Brown Birch M/L",
+      "Blue Princess M",
+      "Red Yellow Princess M",
+      "Red Princess M",
+      "Yellow Princess M",
+      "Lila Princess M",
+      "Light Green Princess M",
+      "Smaragd Green Princess M",
+      "Coral Princess M",
+      "Light Green Viazza M",
+      "Petrol Viazza M",
+      "Pink Viazza M",
+      "Marsala Viazza M",
+      "Black Lizard M",
+      "Golden Brown Paul M",
+      "Honey Paul L",
+      "Black Paul M/XL",
+      "Dark Green Paul L",
+      "White Paul M",
+      "Rose Duke Metallic M",
+      "Silver Duke Metallic M",
+      "Blue Duke Metallic M",
+      "Silver Silky Mesh",
+      "Black Silky Mesh",
+      "Rose Rose M",
+      "Black Yellow Andy L",
+      "Black Red Yellow Ayrton L",
+      "Black Blue Yellow Ayrton L",
+      "Black Red Grand Duke L/XL",
+      "Green Crocograin M",
+      "Blue Crocograin M",
+      "Red Crocograin M",
+      "Burgundy Crocograin M",
+      "White Crocograin M",
+      "Brown Crocograin M",
+      "Golden Brown Crocograin M",
+      "Blue Green Crocograin M",
+      "Green Red Crocograin M",
+      "Blue Toronto M/L",
+      "Blue Red White M/L",
+      "Light Blue Osiris Nubuck M",
+      "Burgundy Osiris Nubuck L/M",
+      "Petrol Light Green Viazza M",
+      "Dark Pink Lindsey M",
+      "Beige Rose Lindsey M",
+      "Black Giffone M",
+      "Golden Brown Giffone M",
+      "Brown Ascot L",
+      "Golden Brown Ascot L",
+      "Red Diva M",
+      "Blue Diva M",
+      "White Diva M",
+      "Black Kansas M/L/XL",
+      "Blue White Kansas L",
+      "Green Kansas L",
+      "Blue George L",
+      "Black James M/L",
+      "Brown James M/L",
+      "Golden Brown James M/L",
+      "Burgundy Osiris L",
+      "Green Osiris L",
+      "Beige Osiris Nubuck M",
+      "Black Pure M/L/XL",
+      "Beige Toronto M",
+      "Berries Toronto M",
+      "Brown Toronto M/L/XL"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "White / Black Red Carbon L",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Carbon L"
+     ]
+    },
+    {
+     "title": "White / Black Red Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Black Red Andy L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Andy L"
+     ]
+    },
+    {
+     "title": "White / Black Red Rally L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Rally L"
+     ]
+    },
+    {
+     "title": "White / Red Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Burgundy Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Turquoise Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Turquoise Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Yellow Arne L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Yellow Arne L"
+     ]
+    },
+    {
+     "title": "White / Blue Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Grey Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Grey Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Silver Standard Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Silver Standard Mesh"
+     ]
+    },
+    {
+     "title": "White / Gunmetal Standard Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Gunmetal Standard Mesh"
+     ]
+    },
+    {
+     "title": "White / Black Simple Steel Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Simple Steel Mesh"
+     ]
+    },
+    {
+     "title": "White / Silver Sturdy Mesh",
+     "sku": null,
+     "priceMinor": 96000,
+     "compareAtMinor": 96000,
+     "available": true,
+     "options": [
+      "White",
+      "Silver Sturdy Mesh"
+     ]
+    },
+    {
+     "title": "White / Black Ascot L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Ascot L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Rally L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Rally L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Kent L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Kent L"
+     ]
+    },
+    {
+     "title": "White / Green Leaf M/L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Green Leaf M/L"
+     ]
+    },
+    {
+     "title": "White / Blue Leaf M/L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Leaf M/L"
+     ]
+    },
+    {
+     "title": "White / Black Duke M/L/XL",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Duke M/L/XL"
+     ]
+    },
+    {
+     "title": "White / Burgundy Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Duke L"
+     ]
+    },
+    {
+     "title": "White / Honey Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Honey Duke L"
+     ]
+    },
+    {
+     "title": "White / Brown Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Duke L"
+     ]
+    },
+    {
+     "title": "White / Dark Green Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Dark Green Duke L"
+     ]
+    },
+    {
+     "title": "White / Yellow Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Yellow Duke L"
+     ]
+    },
+    {
+     "title": "White / Light Blue Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Blue Duke L"
+     ]
+    },
+    {
+     "title": "White / Red White Red Leather M/L for 11i11 by Hirsch",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Red White Red Leather M/L for 11i11 by Hirsch"
+     ]
+    },
+    {
+     "title": "White / Red Kent M/L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Kent M/L"
+     ]
+    },
+    {
+     "title": "White / Black Kent L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Kent L"
+     ]
+    },
+    {
+     "title": "White / Black Red Kansas L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Kansas L"
+     ]
+    },
+    {
+     "title": "White / Red White Kansas L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "White",
+      "Red White Kansas L"
+     ]
+    },
+    {
+     "title": "White / Black Blue Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Blue Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Red Osiris M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Osiris M"
+     ]
+    },
+    {
+     "title": "White / Black Osiris M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Osiris M"
+     ]
+    },
+    {
+     "title": "White / Grey Osiris Nubuck L/M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Grey Osiris Nubuck L/M"
+     ]
+    },
+    {
+     "title": "White / Black Red George L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red George L"
+     ]
+    },
+    {
+     "title": "White / Black Stone L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Stone L"
+     ]
+    },
+    {
+     "title": "White / Royal Blue Modena L",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "White",
+      "Royal Blue Modena L"
+     ]
+    },
+    {
+     "title": "White / Blue Modena L",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Modena L"
+     ]
+    },
+    {
+     "title": "White / Black Salmon Andy M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Salmon Andy M"
+     ]
+    },
+    {
+     "title": "White / White Rainbow M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "White Rainbow M"
+     ]
+    },
+    {
+     "title": "White / Black Rainbow M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Rainbow M"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Rainbow M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Rainbow M"
+     ]
+    },
+    {
+     "title": "White / Brown Leaf M",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Leaf M"
+     ]
+    },
+    {
+     "title": "White / Light Blue Lindsey M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Blue Lindsey M"
+     ]
+    },
+    {
+     "title": "White / Blue Serro L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Serro L"
+     ]
+    },
+    {
+     "title": "White / Black Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Red Yellow Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Yellow Arne M/L"
+     ]
+    },
+    {
+     "title": "White / White Toronto M/L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "White",
+      "White Toronto M/L"
+     ]
+    },
+    {
+     "title": "White / Black Toronto M/L/XL",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Toronto M/L/XL"
+     ]
+    },
+    {
+     "title": "White / Black Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Beige Birch M",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Beige Birch M"
+     ]
+    },
+    {
+     "title": "White / Brown Birch M/L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Birch M/L"
+     ]
+    },
+    {
+     "title": "White / Blue Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Princess M"
+     ]
+    },
+    {
+     "title": "White / Red Yellow Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Yellow Princess M"
+     ]
+    },
+    {
+     "title": "White / Red Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Princess M"
+     ]
+    },
+    {
+     "title": "White / Yellow Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Yellow Princess M"
+     ]
+    },
+    {
+     "title": "White / Lila Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Lila Princess M"
+     ]
+    },
+    {
+     "title": "White / Light Green Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Green Princess M"
+     ]
+    },
+    {
+     "title": "White / Smaragd Green Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Smaragd Green Princess M"
+     ]
+    },
+    {
+     "title": "White / Coral Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Coral Princess M"
+     ]
+    },
+    {
+     "title": "White / Light Green Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Green Viazza M"
+     ]
+    },
+    {
+     "title": "White / Petrol Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Petrol Viazza M"
+     ]
+    },
+    {
+     "title": "White / Pink Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Pink Viazza M"
+     ]
+    },
+    {
+     "title": "White / Marsala Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Marsala Viazza M"
+     ]
+    },
+    {
+     "title": "White / Black Lizard M",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Lizard M"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Paul M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Paul M"
+     ]
+    },
+    {
+     "title": "White / Honey Paul L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Honey Paul L"
+     ]
+    },
+    {
+     "title": "White / Black Paul M/XL",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Paul M/XL"
+     ]
+    },
+    {
+     "title": "White / Dark Green Paul L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Dark Green Paul L"
+     ]
+    },
+    {
+     "title": "White / White Paul M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "White Paul M"
+     ]
+    },
+    {
+     "title": "White / Rose Duke Metallic M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Rose Duke Metallic M"
+     ]
+    },
+    {
+     "title": "White / Silver Duke Metallic M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Silver Duke Metallic M"
+     ]
+    },
+    {
+     "title": "White / Blue Duke Metallic M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Duke Metallic M"
+     ]
+    },
+    {
+     "title": "White / Silver Silky Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Silver Silky Mesh"
+     ]
+    },
+    {
+     "title": "White / Black Silky Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Silky Mesh"
+     ]
+    },
+    {
+     "title": "White / Rose Rose M",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "White",
+      "Rose Rose M"
+     ]
+    },
+    {
+     "title": "White / Black Yellow Andy L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Yellow Andy L"
+     ]
+    },
+    {
+     "title": "White / Black Red Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Black Blue Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Blue Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Black Red Grand Duke L/XL",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Grand Duke L/XL"
+     ]
+    },
+    {
+     "title": "White / Green Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Green Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Blue Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Red Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Burgundy Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Crocograin M"
+     ]
+    },
+    {
+     "title": "White / White Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "White Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Brown Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Blue Green Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Green Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Green Red Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Green Red Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Blue Toronto M/L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Toronto M/L"
+     ]
+    },
+    {
+     "title": "White / Blue Red White M/L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Red White M/L"
+     ]
+    },
+    {
+     "title": "White / Light Blue Osiris Nubuck M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Blue Osiris Nubuck M"
+     ]
+    },
+    {
+     "title": "White / Burgundy Osiris Nubuck L/M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Osiris Nubuck L/M"
+     ]
+    },
+    {
+     "title": "White / Petrol Light Green Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "White",
+      "Petrol Light Green Viazza M"
+     ]
+    },
+    {
+     "title": "White / Dark Pink Lindsey M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Dark Pink Lindsey M"
+     ]
+    },
+    {
+     "title": "White / Beige Rose Lindsey M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Beige Rose Lindsey M"
+     ]
+    },
+    {
+     "title": "White / Black Giffone M",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Giffone M"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Giffone M",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Giffone M"
+     ]
+    },
+    {
+     "title": "White / Brown Ascot L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Ascot L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Ascot L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Ascot L"
+     ]
+    },
+    {
+     "title": "White / Red Diva M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Diva M"
+     ]
+    },
+    {
+     "title": "White / Blue Diva M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Diva M"
+     ]
+    },
+    {
+     "title": "White / White Diva M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "White",
+      "White Diva M"
+     ]
+    },
+    {
+     "title": "Black / Black Red Carbon L",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Carbon L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Andy L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Andy L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Rally L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Rally L"
+     ]
+    },
+    {
+     "title": "Black / Red Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Turquoise Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Turquoise Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Yellow Arne L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Yellow Arne L"
+     ]
+    },
+    {
+     "title": "Black / Blue Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Grey Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Grey Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Silver Standard Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Silver Standard Mesh"
+     ]
+    },
+    {
+     "title": "Black / Gunmetal Standard Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Gunmetal Standard Mesh"
+     ]
+    },
+    {
+     "title": "Black / Black Simple Steel Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Simple Steel Mesh"
+     ]
+    },
+    {
+     "title": "Black / Silver Sturdy Mesh",
+     "sku": null,
+     "priceMinor": 96000,
+     "compareAtMinor": 96000,
+     "available": true,
+     "options": [
+      "Black",
+      "Silver Sturdy Mesh"
+     ]
+    },
+    {
+     "title": "Black / Black Ascot L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Ascot L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Rally L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Rally L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Kent L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Kent L"
+     ]
+    },
+    {
+     "title": "Black / Green Leaf M/L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Leaf M/L"
+     ]
+    },
+    {
+     "title": "Black / Blue Leaf M/L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Leaf M/L"
+     ]
+    },
+    {
+     "title": "Black / Black Duke M/L/XL",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Duke M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Duke L"
+     ]
+    },
+    {
+     "title": "Black / Honey Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Honey Duke L"
+     ]
+    },
+    {
+     "title": "Black / Brown Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Duke L"
+     ]
+    },
+    {
+     "title": "Black / Dark Green Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Dark Green Duke L"
+     ]
+    },
+    {
+     "title": "Black / Yellow Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Yellow Duke L"
+     ]
+    },
+    {
+     "title": "Black / Light Blue Duke L",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Blue Duke L"
+     ]
+    },
+    {
+     "title": "Black / Red White Red Leather M/L for 11i11 by Hirsch",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red White Red Leather M/L for 11i11 by Hirsch"
+     ]
+    },
+    {
+     "title": "Black / Red Kent M/L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Kent M/L"
+     ]
+    },
+    {
+     "title": "Black / Black Kent L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Kent L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Kansas L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Kansas L"
+     ]
+    },
+    {
+     "title": "Black / Red White Kansas L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red White Kansas L"
+     ]
+    },
+    {
+     "title": "Black / Black Blue Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Blue Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Red Osiris M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Osiris M"
+     ]
+    },
+    {
+     "title": "Black / Black Osiris M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Osiris M"
+     ]
+    },
+    {
+     "title": "Black / Grey Osiris Nubuck L/M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Grey Osiris Nubuck L/M"
+     ]
+    },
+    {
+     "title": "Black / Black Red George L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red George L"
+     ]
+    },
+    {
+     "title": "Black / Black Stone L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Stone L"
+     ]
+    },
+    {
+     "title": "Black / Royal Blue Modena L",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Black",
+      "Royal Blue Modena L"
+     ]
+    },
+    {
+     "title": "Black / Blue Modena L",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Modena L"
+     ]
+    },
+    {
+     "title": "Black / Black Salmon Andy M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Salmon Andy M"
+     ]
+    },
+    {
+     "title": "Black / White Rainbow M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Rainbow M"
+     ]
+    },
+    {
+     "title": "Black / Black Rainbow M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Rainbow M"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Rainbow M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Rainbow M"
+     ]
+    },
+    {
+     "title": "Black / Brown Leaf M",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Leaf M"
+     ]
+    },
+    {
+     "title": "Black / Light Blue Lindsey M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Blue Lindsey M"
+     ]
+    },
+    {
+     "title": "Black / Blue Serro L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Serro L"
+     ]
+    },
+    {
+     "title": "Black / Black Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Red Yellow Arne M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Yellow Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / White Toronto M/L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Toronto M/L"
+     ]
+    },
+    {
+     "title": "Black / Black Toronto M/L/XL",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Toronto M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Black Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Beige Birch M",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Beige Birch M"
+     ]
+    },
+    {
+     "title": "Black / Brown Birch M/L",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Birch M/L"
+     ]
+    },
+    {
+     "title": "Black / Blue Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Princess M"
+     ]
+    },
+    {
+     "title": "Black / Red Yellow Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Yellow Princess M"
+     ]
+    },
+    {
+     "title": "Black / Red Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Princess M"
+     ]
+    },
+    {
+     "title": "Black / Yellow Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Yellow Princess M"
+     ]
+    },
+    {
+     "title": "Black / Lila Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Lila Princess M"
+     ]
+    },
+    {
+     "title": "Black / Light Green Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Green Princess M"
+     ]
+    },
+    {
+     "title": "Black / Smaragd Green Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Smaragd Green Princess M"
+     ]
+    },
+    {
+     "title": "Black / Coral Princess M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Coral Princess M"
+     ]
+    },
+    {
+     "title": "Black / Light Green Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Green Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Petrol Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Petrol Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Pink Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Pink Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Marsala Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Marsala Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Black Lizard M",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Lizard M"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Paul M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Paul M"
+     ]
+    },
+    {
+     "title": "Black / Honey Paul L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Honey Paul L"
+     ]
+    },
+    {
+     "title": "Black / Black Paul M/XL",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Paul M/XL"
+     ]
+    },
+    {
+     "title": "Black / Dark Green Paul L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Dark Green Paul L"
+     ]
+    },
+    {
+     "title": "Black / White Paul M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Paul M"
+     ]
+    },
+    {
+     "title": "Black / Rose Duke Metallic M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Rose Duke Metallic M"
+     ]
+    },
+    {
+     "title": "Black / Silver Duke Metallic M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Silver Duke Metallic M"
+     ]
+    },
+    {
+     "title": "Black / Blue Duke Metallic M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Duke Metallic M"
+     ]
+    },
+    {
+     "title": "Black / Silver Silky Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Silver Silky Mesh"
+     ]
+    },
+    {
+     "title": "Black / Black Silky Mesh",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Silky Mesh"
+     ]
+    },
+    {
+     "title": "Black / Rose Rose M",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Black",
+      "Rose Rose M"
+     ]
+    },
+    {
+     "title": "Black / Black Yellow Andy L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Yellow Andy L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Black Blue Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Blue Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Grand Duke L/XL",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": 87500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Grand Duke L/XL"
+     ]
+    },
+    {
+     "title": "Black / Green Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Blue Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Red Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / White Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Brown Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Blue Green Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Green Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Green Red Crocograin M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Red Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Blue Toronto M/L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": 83000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Toronto M/L"
+     ]
+    },
+    {
+     "title": "Black / Blue Red White M/L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Red White M/L"
+     ]
+    },
+    {
+     "title": "Black / Light Blue Osiris Nubuck M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Blue Osiris Nubuck M"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Osiris Nubuck L/M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Osiris Nubuck L/M"
+     ]
+    },
+    {
+     "title": "Black / Petrol Light Green Viazza M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": 85000,
+     "available": true,
+     "options": [
+      "Black",
+      "Petrol Light Green Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Dark Pink Lindsey M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Dark Pink Lindsey M"
+     ]
+    },
+    {
+     "title": "Black / Beige Rose Lindsey M",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Beige Rose Lindsey M"
+     ]
+    },
+    {
+     "title": "Black / Black Giffone M",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Giffone M"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Giffone M",
+     "sku": null,
+     "priceMinor": 90500,
+     "compareAtMinor": 90500,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Giffone M"
+     ]
+    },
+    {
+     "title": "Black / Brown Ascot L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Ascot L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Ascot L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": 90000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Ascot L"
+     ]
+    },
+    {
+     "title": "Black / Red Diva M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Diva M"
+     ]
+    },
+    {
+     "title": "Black / Blue Diva M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Diva M"
+     ]
+    },
+    {
+     "title": "Black / White Diva M",
+     "sku": null,
+     "priceMinor": 86000,
+     "compareAtMinor": 86000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Diva M"
+     ]
+    },
+    {
+     "title": "White / Black Kansas M/L/XL",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Black Kansas M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Black Kansas M/L/XL",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Kansas M/L/XL"
+     ]
+    },
+    {
+     "title": "White / Blue White Kansas L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Blue White Kansas L"
+     ]
+    },
+    {
+     "title": "Black / Blue White Kansas L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue White Kansas L"
+     ]
+    },
+    {
+     "title": "White / Green Kansas L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Green Kansas L"
+     ]
+    },
+    {
+     "title": "Black / Green Kansas L",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Kansas L"
+     ]
+    },
+    {
+     "title": "White / Blue George L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Blue George L"
+     ]
+    },
+    {
+     "title": "Black / Blue George L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue George L"
+     ]
+    },
+    {
+     "title": "White / Black James M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Black James M/L"
+     ]
+    },
+    {
+     "title": "Black / Black James M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Black James M/L"
+     ]
+    },
+    {
+     "title": "White / Brown James M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Brown James M/L"
+     ]
+    },
+    {
+     "title": "Black / Brown James M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown James M/L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown James M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown James M/L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown James M/L",
+     "sku": null,
+     "priceMinor": 90000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown James M/L"
+     ]
+    },
+    {
+     "title": "White / Burgundy Osiris L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Osiris L"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Osiris L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Osiris L"
+     ]
+    },
+    {
+     "title": "White / Green Osiris L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Green Osiris L"
+     ]
+    },
+    {
+     "title": "Black / Green Osiris L",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Osiris L"
+     ]
+    },
+    {
+     "title": "White / Beige Osiris Nubuck M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Beige Osiris Nubuck M"
+     ]
+    },
+    {
+     "title": "Black / Beige Osiris Nubuck M",
+     "sku": null,
+     "priceMinor": 85000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Beige Osiris Nubuck M"
+     ]
+    },
+    {
+     "title": "White / Black Pure M/L/XL",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Black Pure M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Black Pure M/L/XL",
+     "sku": null,
+     "priceMinor": 87500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Pure M/L/XL"
+     ]
+    },
+    {
+     "title": "White / Beige Toronto M",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Beige Toronto M"
+     ]
+    },
+    {
+     "title": "Black / Beige Toronto M",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Beige Toronto M"
+     ]
+    },
+    {
+     "title": "White / Berries Toronto M",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Berries Toronto M"
+     ]
+    },
+    {
+     "title": "Black / Berries Toronto M",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Berries Toronto M"
+     ]
+    },
+    {
+     "title": "White / Brown Toronto M/L/XL",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Toronto M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Brown Toronto M/L/XL",
+     "sku": null,
+     "priceMinor": 83000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Toronto M/L/XL"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Sellita SW400",
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Sizing guide": "by wrist size (approximate): Staib mesh straps: 13.5-20 cm. Hirsch size M: 13.5-19 cm; size L: 14.5-21 cm; size XL (please contact us for availability): 18-23 cm."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c3a8b339e3016e3a"
+  },
+  {
+   "id": "BRD-0001/quartz-models-with-most-popular-straps",
+   "name": "Quartz models",
+   "url": "https://11i11sa.at/products/quartz-models-with-most-popular-straps",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_dial_silver_staib.png?v=1784743600",
+    "width": 3410,
+    "height": 3410
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_dial_silver_staib.png?v=1784743600",
+     "width": 3410,
+     "height": 3410
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/carbonkentredblackwhiteduo.jpg?v=1741047787",
+     "width": 960,
+     "height": 960
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_quartz_black_red_carbon_2500.jpg?v=1741794394",
+     "width": 2500,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_black_quartz_black_red_andy_2000.jpg?v=1741794394",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_black_quartz_rally_black_red_2000.jpg?v=1741794394",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_quartz_red_diva_2000.png?v=1741794394",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/white_quartz_rrose_duke_metallic_2000.png?v=1741794394",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/black_quartz_silver_staib_2000.jpg?v=1741794394",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/black_quartz_black_red_carbon_2500.jpg?v=1741794394",
+     "width": 2500,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/black_quartz_black_red_andy_2000.png?v=1741794394",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/black_quartz_rally_black_red.jpg?v=1741794394",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0891/9839/5656/files/black_quartz_red_diva_2000.png?v=1741794394",
+     "width": 2000,
+     "height": 2000
+    }
+   ],
+   "priceMinor": 39000,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": "Innovative design, featuring the crown as an integral visual element of the 8 o’clock index. Extra-long battery life. A true unisex favorite, embraced equally by men and women. Sizing guide by wrist size (approximate): Staib mesh straps: 13.5-20 cm. Hirsch size M: 13.5-19 cm; size L: 14.5-21 cm; size XL (please contact us for availability): 18-23 cm.",
+   "productType": null,
+   "tags": [
+    "quartz"
+   ],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "White",
+      "Black"
+     ]
+    },
+    {
+     "name": "Strap",
+     "values": [
+      "Red Kent M/L",
+      "Black Red Carbon L",
+      "Silver Standard Mesh",
+      "Black Simple Mesh",
+      "Silver Silky Mesh",
+      "Black Silky Mesh",
+      "Gunmetal Standard Mesh",
+      "Silver Sturdy Mesh",
+      "Red White Red Leather M/L for 11i11 by Hirsch",
+      "Black Red Andy L",
+      "Black Red Ayrton L",
+      "Black Red Rally L",
+      "Golden Brown Rally L",
+      "Green Leaf M/L",
+      "Blue Leaf M/L",
+      "Brown Leaf M",
+      "Rose Duke Metallic M",
+      "Silver Duke Metallic M",
+      "Blue Duke Metallic M",
+      "Red Arne M/L",
+      "Turquoise Arne M/L",
+      "Yellow Arne L",
+      "Red Osiris M",
+      "Black Osiris M",
+      "White Toronto M/L",
+      "Black Toronto M/L/XL",
+      "Red Diva M",
+      "Blue Diva M",
+      "White Diva M",
+      "Red Yellow Princess M",
+      "Red Princess M",
+      "Yellow Princess M",
+      "Smaragd Green Princess M",
+      "Light Green Princess M",
+      "Coral Princess M",
+      "Lila Princess M",
+      "Blue Princess M",
+      "Light Green Viazza M",
+      "Petrol Viazza M",
+      "Pink Viazza M",
+      "Marsala Viazza M",
+      "Black Red George L",
+      "Black Stone L",
+      "Light Blue Lindsey M",
+      "Beige Rose Lindsey M",
+      "Dark Pink Lindsey M",
+      "Royal Blue Modena L",
+      "Blue Modena L",
+      "Black Kent L",
+      "Golden Brown Kent L",
+      "Black Duke M/L/XL",
+      "Burgundy Duke L",
+      "Honey Duke L",
+      "Brown Duke L",
+      "Black Lizard M",
+      "Black Red Kansas L",
+      "Red White Kansas L",
+      "Grey Osiris Nubuck L/M",
+      "Golden Brown Rainbow M",
+      "White Rainbow M",
+      "Black Rainbow M",
+      "Black Ascot L",
+      "Grey Arne M/L",
+      "Blue Arne M/L",
+      "Burgundy Arne M/L",
+      "Dark Green Duke L",
+      "Light Blue Duke L",
+      "Yellow Duke L",
+      "Rose Rose M",
+      "Black Blue Ayrton L",
+      "Black Yellow Ayrton L",
+      "Black Yellow Andy L",
+      "Black Salmon Andy M",
+      "Green Crocograin M",
+      "Blue Crocograin M",
+      "Red Crocograin M",
+      "Burgundy Crocograin M",
+      "Black Crocograin M",
+      "White Crocograin M",
+      "Brown Crocograin M",
+      "Golden Brown Crocograin M",
+      "Beige Birch M",
+      "Brown Birch M/L",
+      "Red Yellow Arne M/L",
+      "Black Blue Yellow Ayrton L",
+      "Blue Green Crocograin M",
+      "Green Red Crocograin M",
+      "Black Red Yellow Ayrton L",
+      "Black Red Grand Duke L/XL",
+      "Blue Toronto M/L",
+      "Blue Serro L",
+      "Blue Red White M/L",
+      "Light Blue Osiris Nubuck M",
+      "Burgundy Osiris Nubuck L/M",
+      "Petrol Light Green Viazza M",
+      "White Paul M",
+      "Black Paul M/XL",
+      "Dark Green Paul L",
+      "Honey Paul L",
+      "Golden Brown Paul M",
+      "Black Giffone M",
+      "Golden Brown Giffone M",
+      "Brown Ascot L",
+      "Golden Brown Ascot L",
+      "Black Kansas M/L/XL",
+      "Blue White Kansas L",
+      "Green Kansas L",
+      "Blue George L",
+      "Black James M/L",
+      "Brown James M/L",
+      "Golden Brown James M/L",
+      "Burgundy Osiris L",
+      "Green Osiris L",
+      "Beige Osiris Nubuck M",
+      "Black Pure M/L/XL",
+      "Beige Toronto M",
+      "Berries Toronto M",
+      "Brown Toronto M/L/XL"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "White / Red Kent M/L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Kent M/L"
+     ]
+    },
+    {
+     "title": "White / Black Red Carbon L",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Carbon L"
+     ]
+    },
+    {
+     "title": "White / Silver Standard Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Silver Standard Mesh"
+     ]
+    },
+    {
+     "title": "White / Black Simple Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Simple Mesh"
+     ]
+    },
+    {
+     "title": "White / Silver Silky Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Silver Silky Mesh"
+     ]
+    },
+    {
+     "title": "White / Black Silky Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Silky Mesh"
+     ]
+    },
+    {
+     "title": "White / Gunmetal Standard Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Gunmetal Standard Mesh"
+     ]
+    },
+    {
+     "title": "White / Silver Sturdy Mesh",
+     "sku": null,
+     "priceMinor": 52000,
+     "compareAtMinor": 52000,
+     "available": true,
+     "options": [
+      "White",
+      "Silver Sturdy Mesh"
+     ]
+    },
+    {
+     "title": "White / Red White Red Leather M/L for 11i11 by Hirsch",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Red White Red Leather M/L for 11i11 by Hirsch"
+     ]
+    },
+    {
+     "title": "White / Black Red Andy L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Andy L"
+     ]
+    },
+    {
+     "title": "White / Black Red Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Black Red Rally L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Rally L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Rally L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Rally L"
+     ]
+    },
+    {
+     "title": "White / Green Leaf M/L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Green Leaf M/L"
+     ]
+    },
+    {
+     "title": "White / Blue Leaf M/L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Leaf M/L"
+     ]
+    },
+    {
+     "title": "White / Brown Leaf M",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Leaf M"
+     ]
+    },
+    {
+     "title": "White / Rose Duke Metallic M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Rose Duke Metallic M"
+     ]
+    },
+    {
+     "title": "White / Silver Duke Metallic M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Silver Duke Metallic M"
+     ]
+    },
+    {
+     "title": "White / Blue Duke Metallic M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Duke Metallic M"
+     ]
+    },
+    {
+     "title": "White / Red Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Turquoise Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Turquoise Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Yellow Arne L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Yellow Arne L"
+     ]
+    },
+    {
+     "title": "White / Red Osiris M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Osiris M"
+     ]
+    },
+    {
+     "title": "White / Black Osiris M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Osiris M"
+     ]
+    },
+    {
+     "title": "White / White Toronto M/L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "White Toronto M/L"
+     ]
+    },
+    {
+     "title": "White / Black Toronto M/L/XL",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Toronto M/L/XL"
+     ]
+    },
+    {
+     "title": "White / Red Diva M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Diva M"
+     ]
+    },
+    {
+     "title": "White / Blue Diva M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Diva M"
+     ]
+    },
+    {
+     "title": "White / White Diva M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "White Diva M"
+     ]
+    },
+    {
+     "title": "White / Red Yellow Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Yellow Princess M"
+     ]
+    },
+    {
+     "title": "White / Red Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Princess M"
+     ]
+    },
+    {
+     "title": "White / Yellow Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Yellow Princess M"
+     ]
+    },
+    {
+     "title": "White / Smaragd Green Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Smaragd Green Princess M"
+     ]
+    },
+    {
+     "title": "White / Light Green Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Green Princess M"
+     ]
+    },
+    {
+     "title": "White / Coral Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Coral Princess M"
+     ]
+    },
+    {
+     "title": "White / Lila Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Lila Princess M"
+     ]
+    },
+    {
+     "title": "White / Blue Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Princess M"
+     ]
+    },
+    {
+     "title": "White / Light Green Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Green Viazza M"
+     ]
+    },
+    {
+     "title": "White / Petrol Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Petrol Viazza M"
+     ]
+    },
+    {
+     "title": "White / Pink Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Pink Viazza M"
+     ]
+    },
+    {
+     "title": "White / Marsala Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Marsala Viazza M"
+     ]
+    },
+    {
+     "title": "White / Black Red George L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red George L"
+     ]
+    },
+    {
+     "title": "White / Black Stone L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Stone L"
+     ]
+    },
+    {
+     "title": "White / Light Blue Lindsey M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Blue Lindsey M"
+     ]
+    },
+    {
+     "title": "White / Beige Rose Lindsey M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Beige Rose Lindsey M"
+     ]
+    },
+    {
+     "title": "White / Dark Pink Lindsey M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Dark Pink Lindsey M"
+     ]
+    },
+    {
+     "title": "White / Royal Blue Modena L",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "White",
+      "Royal Blue Modena L"
+     ]
+    },
+    {
+     "title": "White / Blue Modena L",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Modena L"
+     ]
+    },
+    {
+     "title": "White / Black Kent L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Kent L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Kent L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Kent L"
+     ]
+    },
+    {
+     "title": "White / Black Duke M/L/XL",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Duke M/L/XL"
+     ]
+    },
+    {
+     "title": "White / Burgundy Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Duke L"
+     ]
+    },
+    {
+     "title": "White / Honey Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Honey Duke L"
+     ]
+    },
+    {
+     "title": "White / Brown Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Duke L"
+     ]
+    },
+    {
+     "title": "White / Black Lizard M",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Lizard M"
+     ]
+    },
+    {
+     "title": "White / Black Red Kansas L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Kansas L"
+     ]
+    },
+    {
+     "title": "White / Red White Kansas L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Red White Kansas L"
+     ]
+    },
+    {
+     "title": "White / Grey Osiris Nubuck L/M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Grey Osiris Nubuck L/M"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Rainbow M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Rainbow M"
+     ]
+    },
+    {
+     "title": "White / White Rainbow M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "White Rainbow M"
+     ]
+    },
+    {
+     "title": "White / Black Rainbow M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Rainbow M"
+     ]
+    },
+    {
+     "title": "White / Black Ascot L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Ascot L"
+     ]
+    },
+    {
+     "title": "White / Grey Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Grey Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Blue Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Burgundy Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Dark Green Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Dark Green Duke L"
+     ]
+    },
+    {
+     "title": "White / Light Blue Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Blue Duke L"
+     ]
+    },
+    {
+     "title": "White / Yellow Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "White",
+      "Yellow Duke L"
+     ]
+    },
+    {
+     "title": "White / Rose Rose M",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "White",
+      "Rose Rose M"
+     ]
+    },
+    {
+     "title": "White / Black Blue Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Blue Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Black Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Black Yellow Andy L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Yellow Andy L"
+     ]
+    },
+    {
+     "title": "White / Black Salmon Andy M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Salmon Andy M"
+     ]
+    },
+    {
+     "title": "White / Green Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Green Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Blue Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Red Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Burgundy Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Black Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Crocograin M"
+     ]
+    },
+    {
+     "title": "White / White Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "White Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Brown Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Beige Birch M",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Beige Birch M"
+     ]
+    },
+    {
+     "title": "White / Brown Birch M/L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Birch M/L"
+     ]
+    },
+    {
+     "title": "White / Red Yellow Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Red Yellow Arne M/L"
+     ]
+    },
+    {
+     "title": "White / Black Blue Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Blue Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Blue Green Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Green Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Green Red Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Green Red Crocograin M"
+     ]
+    },
+    {
+     "title": "White / Black Red Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "White / Black Red Grand Duke L/XL",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Red Grand Duke L/XL"
+     ]
+    },
+    {
+     "title": "White / Blue Toronto M/L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Toronto M/L"
+     ]
+    },
+    {
+     "title": "White / Blue Serro L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Serro L"
+     ]
+    },
+    {
+     "title": "White / Blue Red White M/L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue Red White M/L"
+     ]
+    },
+    {
+     "title": "White / Light Blue Osiris Nubuck M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Light Blue Osiris Nubuck M"
+     ]
+    },
+    {
+     "title": "White / Burgundy Osiris Nubuck L/M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Osiris Nubuck L/M"
+     ]
+    },
+    {
+     "title": "White / Petrol Light Green Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Petrol Light Green Viazza M"
+     ]
+    },
+    {
+     "title": "White / White Paul M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "White Paul M"
+     ]
+    },
+    {
+     "title": "White / Black Paul M/XL",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Paul M/XL"
+     ]
+    },
+    {
+     "title": "White / Dark Green Paul L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Dark Green Paul L"
+     ]
+    },
+    {
+     "title": "White / Honey Paul L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Honey Paul L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Paul M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Paul M"
+     ]
+    },
+    {
+     "title": "White / Black Giffone M",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Giffone M"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Giffone M",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Giffone M"
+     ]
+    },
+    {
+     "title": "White / Brown Ascot L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Ascot L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown Ascot L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown Ascot L"
+     ]
+    },
+    {
+     "title": "Black / Red Kent M/L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Kent M/L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Carbon L",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Carbon L"
+     ]
+    },
+    {
+     "title": "Black / Silver Standard Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Silver Standard Mesh"
+     ]
+    },
+    {
+     "title": "Black / Black Simple Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Simple Mesh"
+     ]
+    },
+    {
+     "title": "Black / Silver Silky Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Silver Silky Mesh"
+     ]
+    },
+    {
+     "title": "Black / Black Silky Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Silky Mesh"
+     ]
+    },
+    {
+     "title": "Black / Gunmetal Standard Mesh",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Gunmetal Standard Mesh"
+     ]
+    },
+    {
+     "title": "Black / Silver Sturdy Mesh",
+     "sku": null,
+     "priceMinor": 52000,
+     "compareAtMinor": 52000,
+     "available": true,
+     "options": [
+      "Black",
+      "Silver Sturdy Mesh"
+     ]
+    },
+    {
+     "title": "Black / Red White Red Leather M/L for 11i11 by Hirsch",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red White Red Leather M/L for 11i11 by Hirsch"
+     ]
+    },
+    {
+     "title": "Black / Black Red Andy L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Andy L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Rally L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Rally L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Rally L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Rally L"
+     ]
+    },
+    {
+     "title": "Black / Green Leaf M/L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Leaf M/L"
+     ]
+    },
+    {
+     "title": "Black / Blue Leaf M/L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Leaf M/L"
+     ]
+    },
+    {
+     "title": "Black / Brown Leaf M",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Leaf M"
+     ]
+    },
+    {
+     "title": "Black / Rose Duke Metallic M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Rose Duke Metallic M"
+     ]
+    },
+    {
+     "title": "Black / Silver Duke Metallic M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Silver Duke Metallic M"
+     ]
+    },
+    {
+     "title": "Black / Blue Duke Metallic M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Duke Metallic M"
+     ]
+    },
+    {
+     "title": "Black / Red Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Turquoise Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Turquoise Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Yellow Arne L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Yellow Arne L"
+     ]
+    },
+    {
+     "title": "Black / Red Osiris M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Osiris M"
+     ]
+    },
+    {
+     "title": "Black / Black Osiris M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Osiris M"
+     ]
+    },
+    {
+     "title": "Black / White Toronto M/L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Toronto M/L"
+     ]
+    },
+    {
+     "title": "Black / Black Toronto M/L/XL",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Toronto M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Red Diva M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Diva M"
+     ]
+    },
+    {
+     "title": "Black / Blue Diva M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Diva M"
+     ]
+    },
+    {
+     "title": "Black / White Diva M",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Diva M"
+     ]
+    },
+    {
+     "title": "Black / Red Yellow Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Yellow Princess M"
+     ]
+    },
+    {
+     "title": "Black / Red Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Princess M"
+     ]
+    },
+    {
+     "title": "Black / Yellow Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Yellow Princess M"
+     ]
+    },
+    {
+     "title": "Black / Smaragd Green Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Smaragd Green Princess M"
+     ]
+    },
+    {
+     "title": "Black / Light Green Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Green Princess M"
+     ]
+    },
+    {
+     "title": "Black / Coral Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Coral Princess M"
+     ]
+    },
+    {
+     "title": "Black / Lila Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Lila Princess M"
+     ]
+    },
+    {
+     "title": "Black / Blue Princess M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Princess M"
+     ]
+    },
+    {
+     "title": "Black / Light Green Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Green Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Petrol Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Petrol Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Pink Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Pink Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Marsala Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Marsala Viazza M"
+     ]
+    },
+    {
+     "title": "Black / Black Red George L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red George L"
+     ]
+    },
+    {
+     "title": "Black / Black Stone L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Stone L"
+     ]
+    },
+    {
+     "title": "Black / Light Blue Lindsey M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Blue Lindsey M"
+     ]
+    },
+    {
+     "title": "Black / Beige Rose Lindsey M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Beige Rose Lindsey M"
+     ]
+    },
+    {
+     "title": "Black / Dark Pink Lindsey M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Dark Pink Lindsey M"
+     ]
+    },
+    {
+     "title": "Black / Royal Blue Modena L",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Black",
+      "Royal Blue Modena L"
+     ]
+    },
+    {
+     "title": "Black / Blue Modena L",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Modena L"
+     ]
+    },
+    {
+     "title": "Black / Black Kent L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Kent L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Kent L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Kent L"
+     ]
+    },
+    {
+     "title": "Black / Black Duke M/L/XL",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Duke M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Duke L"
+     ]
+    },
+    {
+     "title": "Black / Honey Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Honey Duke L"
+     ]
+    },
+    {
+     "title": "Black / Brown Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Duke L"
+     ]
+    },
+    {
+     "title": "Black / Black Lizard M",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Lizard M"
+     ]
+    },
+    {
+     "title": "Black / Black Red Kansas L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Kansas L"
+     ]
+    },
+    {
+     "title": "Black / Red White Kansas L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red White Kansas L"
+     ]
+    },
+    {
+     "title": "Black / Grey Osiris Nubuck L/M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Grey Osiris Nubuck L/M"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Rainbow M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Rainbow M"
+     ]
+    },
+    {
+     "title": "Black / White Rainbow M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Rainbow M"
+     ]
+    },
+    {
+     "title": "Black / Black Rainbow M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Rainbow M"
+     ]
+    },
+    {
+     "title": "Black / Black Ascot L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Ascot L"
+     ]
+    },
+    {
+     "title": "Black / Grey Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Grey Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Blue Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Dark Green Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Dark Green Duke L"
+     ]
+    },
+    {
+     "title": "Black / Light Blue Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Blue Duke L"
+     ]
+    },
+    {
+     "title": "Black / Yellow Duke L",
+     "sku": null,
+     "priceMinor": 42000,
+     "compareAtMinor": 42000,
+     "available": true,
+     "options": [
+      "Black",
+      "Yellow Duke L"
+     ]
+    },
+    {
+     "title": "Black / Rose Rose M",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Black",
+      "Rose Rose M"
+     ]
+    },
+    {
+     "title": "Black / Black Blue Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Blue Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Black Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Black Yellow Andy L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Yellow Andy L"
+     ]
+    },
+    {
+     "title": "Black / Black Salmon Andy M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Salmon Andy M"
+     ]
+    },
+    {
+     "title": "Black / Green Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Blue Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Red Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Black Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / White Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Brown Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Beige Birch M",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Beige Birch M"
+     ]
+    },
+    {
+     "title": "Black / Brown Birch M/L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Birch M/L"
+     ]
+    },
+    {
+     "title": "Black / Red Yellow Arne M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Red Yellow Arne M/L"
+     ]
+    },
+    {
+     "title": "Black / Black Blue Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Blue Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Blue Green Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Green Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Green Red Crocograin M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Red Crocograin M"
+     ]
+    },
+    {
+     "title": "Black / Black Red Yellow Ayrton L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Yellow Ayrton L"
+     ]
+    },
+    {
+     "title": "Black / Black Red Grand Duke L/XL",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Red Grand Duke L/XL"
+     ]
+    },
+    {
+     "title": "Black / Blue Toronto M/L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Toronto M/L"
+     ]
+    },
+    {
+     "title": "Black / Blue Serro L",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Serro L"
+     ]
+    },
+    {
+     "title": "Black / Blue Red White M/L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue Red White M/L"
+     ]
+    },
+    {
+     "title": "Black / Light Blue Osiris Nubuck M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Light Blue Osiris Nubuck M"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Osiris Nubuck L/M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Osiris Nubuck L/M"
+     ]
+    },
+    {
+     "title": "Black / Petrol Light Green Viazza M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Petrol Light Green Viazza M"
+     ]
+    },
+    {
+     "title": "Black / White Paul M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "White Paul M"
+     ]
+    },
+    {
+     "title": "Black / Black Paul M/XL",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Paul M/XL"
+     ]
+    },
+    {
+     "title": "Black / Dark Green Paul L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Dark Green Paul L"
+     ]
+    },
+    {
+     "title": "Black / Honey Paul L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Honey Paul L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Paul M",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Paul M"
+     ]
+    },
+    {
+     "title": "Black / Black Giffone M",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Giffone M"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Giffone M",
+     "sku": null,
+     "priceMinor": 46500,
+     "compareAtMinor": 46500,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Giffone M"
+     ]
+    },
+    {
+     "title": "Black / Brown Ascot L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Ascot L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown Ascot L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown Ascot L"
+     ]
+    },
+    {
+     "title": "White / Black Kansas M/L/XL",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Black Kansas M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Black Kansas M/L/XL",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Kansas M/L/XL"
+     ]
+    },
+    {
+     "title": "White / Blue White Kansas L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue White Kansas L"
+     ]
+    },
+    {
+     "title": "Black / Blue White Kansas L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue White Kansas L"
+     ]
+    },
+    {
+     "title": "White / Green Kansas L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Green Kansas L"
+     ]
+    },
+    {
+     "title": "Black / Green Kansas L",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Kansas L"
+     ]
+    },
+    {
+     "title": "White / Blue George L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Blue George L"
+     ]
+    },
+    {
+     "title": "Black / Blue George L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Blue George L"
+     ]
+    },
+    {
+     "title": "White / Black James M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Black James M/L"
+     ]
+    },
+    {
+     "title": "Black / Black James M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Black James M/L"
+     ]
+    },
+    {
+     "title": "White / Brown James M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Brown James M/L"
+     ]
+    },
+    {
+     "title": "Black / Brown James M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown James M/L"
+     ]
+    },
+    {
+     "title": "White / Golden Brown James M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "White",
+      "Golden Brown James M/L"
+     ]
+    },
+    {
+     "title": "Black / Golden Brown James M/L",
+     "sku": null,
+     "priceMinor": 46000,
+     "compareAtMinor": 46000,
+     "available": true,
+     "options": [
+      "Black",
+      "Golden Brown James M/L"
+     ]
+    },
+    {
+     "title": "White / Burgundy Osiris L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Burgundy Osiris L"
+     ]
+    },
+    {
+     "title": "Black / Burgundy Osiris L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Burgundy Osiris L"
+     ]
+    },
+    {
+     "title": "White / Green Osiris L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Green Osiris L"
+     ]
+    },
+    {
+     "title": "Black / Green Osiris L",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Green Osiris L"
+     ]
+    },
+    {
+     "title": "White / Beige Osiris Nubuck M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "White",
+      "Beige Osiris Nubuck M"
+     ]
+    },
+    {
+     "title": "Black / Beige Osiris Nubuck M",
+     "sku": null,
+     "priceMinor": 41000,
+     "compareAtMinor": 41000,
+     "available": true,
+     "options": [
+      "Black",
+      "Beige Osiris Nubuck M"
+     ]
+    },
+    {
+     "title": "White / Black Pure M/L/XL",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "White",
+      "Black Pure M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Black Pure M/L/XL",
+     "sku": null,
+     "priceMinor": 43500,
+     "compareAtMinor": 43500,
+     "available": true,
+     "options": [
+      "Black",
+      "Black Pure M/L/XL"
+     ]
+    },
+    {
+     "title": "White / Beige Toronto M",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Beige Toronto M"
+     ]
+    },
+    {
+     "title": "Black / Beige Toronto M",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Beige Toronto M"
+     ]
+    },
+    {
+     "title": "White / Berries Toronto M",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Berries Toronto M"
+     ]
+    },
+    {
+     "title": "Black / Berries Toronto M",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Berries Toronto M"
+     ]
+    },
+    {
+     "title": "White / Brown Toronto M/L/XL",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "White",
+      "Brown Toronto M/L/XL"
+     ]
+    },
+    {
+     "title": "Black / Brown Toronto M/L/XL",
+     "sku": null,
+     "priceMinor": 39000,
+     "compareAtMinor": 39000,
+     "available": true,
+     "options": [
+      "Black",
+      "Brown Toronto M/L/XL"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Sizing guide": "by wrist size (approximate): Staib mesh straps: 13.5-20 cm. Hirsch size M: 13.5-19 cm; size L: 14.5-21 cm; size XL (please contact us for availability): 18-23 cm."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a3334368cabfd457"
+  }
+ ],
+ "collections": []
+}

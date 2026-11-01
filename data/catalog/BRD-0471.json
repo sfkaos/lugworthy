@@ -1,0 +1,131 @@
+{
+ "brandId": "BRD-0471",
+ "brandName": "Rafter Watches",
+ "website": "https://rafterwatches.com",
+ "crawledAt": "2026-11-01T08:21:26.760Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://cdn.selldone.com/app/shops/11123/info/icon/logosquarewhitebgpng6bb30ba37ae8832a3f10b20def6d5080256.png512.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://rafterwatches.com/"
+ },
+ "attribution": "Images © Rafter Watches, from rafterwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0471/653595-arpeggio-automatic-founders-edition",
+   "name": "Arpeggio Automatic (Founders Edition)",
+   "url": "https://rafterwatches.com/product/653595-arpeggio-automatic-founders-edition",
+   "image": {
+    "url": "https://cdn.selldone.com/app/shops/11123/products/202510120806501png5e4117ee89df50222a253c1c1799a79e.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/202510120806501png5e4117ee89df50222a253c1c1799a79e.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/202509062029352png0e950a92ec22031e5fc21bd89953645a.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/squarefrontfarpngf99c80cdb2f1f6f407bd279d5635c98bwebp9ab1dcdadc7c31a15f5935316ebab1a7.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/20250906203532png391157503b3c4f216e2d51bc1531a030.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/202509062036291png6c6b7f486a1e7704d46fb54fff79f5aa.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/RWArpRed26Nov2025jpge09f9e23d5ad3ba61e22c7ff6baf63b3.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/RWArpGreen26Nov2025jpg32da64901f32acf43d194f4a831c15b0.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/RWArpBlue26Nov2025jpgabdebe3365dac0ed9ae526e1164ef04c.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/20250904193657compjpg2d5443cc437c234df2eb2ebc22cd824e.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/20250831150009jpgaf4afad57f905e77ed00142434945e1c.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cdn.selldone.com/app/shops/11123/products/arpeggiodimsjpgd08fd443546994aa557edad2595ede8bwebpac79585d35e06c81a542e6a3674c5bba.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 40000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "An automatic watch for the musically inspired.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Movement": "Seiko NH70 (Automatic)",
+    "Case Body": "316L Stainless Steel (200m Water Resistance)",
+    "Crystal": "Sapphire Glass (Front and Caseback)",
+    "Strap": "Calfskin Leather (316L Stainless Steel Buckle, Quick-Release Spring Bars)",
+    "Case Diameter": "40mm",
+    "Lug-to-Lug": "48mm",
+    "Case Thickness": "<13.3mm",
+    "Lug Width": "20mm",
+    "Condition": "New"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:21:26.760Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:21:26.760Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2de490c915bcd335"
+  }
+ ],
+ "collections": []
+}

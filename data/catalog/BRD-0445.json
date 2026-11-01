@@ -1,0 +1,179 @@
+{
+ "brandId": "BRD-0445",
+ "brandName": "Orphic",
+ "website": "https://orphicwatches.com",
+ "crawledAt": "2026-11-01T08:13:16.081Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://orphicwatches.com/cdn/shop/files/Horizontal_Logo_Name.png?v=1776068542",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://orphicwatches.com/"
+ },
+ "attribution": "Images © Orphic, from orphicwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0445/project-0-wandering-hour-watch",
+   "name": "Project 0 - Wandering Hour Watch",
+   "url": "https://orphicwatches.com/products/project-0-wandering-hour-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1032/3712/4177/files/Product_Hero_Shot_NEBULA_R.jpg?v=1779551576",
+    "width": 3508,
+    "height": 3508
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1032/3712/4177/files/Product_Hero_Shot_NEBULA_R.jpg?v=1779551576",
+     "width": 3508,
+     "height": 3508
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1032/3712/4177/files/Product_Hero_Shot_NEBULA_L.jpg?v=1779551574",
+     "width": 3508,
+     "height": 3508
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1032/3712/4177/files/Product_Hero_Shot_STARDUST_R.jpg?v=1779551586",
+     "width": 3508,
+     "height": 3508
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1032/3712/4177/files/Product_Hero_Shot_STARDUST_L.jpg?v=1779551582",
+     "width": 3508,
+     "height": 3508
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1032/3712/4177/files/Product_Hero_Shot_VOID_R.jpg?v=1779551590",
+     "width": 3508,
+     "height": 3508
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1032/3712/4177/files/Product_Hero_Shot_VOID_L.jpg?v=1779551668",
+     "width": 3508,
+     "height": 3508
+    }
+   ],
+   "priceMinor": 74900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Stainless Steel Mechanical Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Model",
+     "values": [
+      "Nebula",
+      "Stardust",
+      "Void"
+     ]
+    },
+    {
+     "name": "Crown Position",
+     "values": [
+      "Right",
+      "Left (Destro)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Nebula / Right",
+     "sku": "aMOP-R",
+     "priceMinor": 74900,
+     "compareAtMinor": 89900,
+     "available": false,
+     "options": [
+      "Nebula",
+      "Right"
+     ]
+    },
+    {
+     "title": "Nebula / Left (Destro)",
+     "sku": "aMOP-L",
+     "priceMinor": 74900,
+     "compareAtMinor": 89900,
+     "available": true,
+     "options": [
+      "Nebula",
+      "Left (Destro)"
+     ]
+    },
+    {
+     "title": "Stardust / Right",
+     "sku": "aAVEN-R",
+     "priceMinor": 74900,
+     "compareAtMinor": 89900,
+     "available": true,
+     "options": [
+      "Stardust",
+      "Right"
+     ]
+    },
+    {
+     "title": "Stardust / Left (Destro)",
+     "sku": "aAVEN-L",
+     "priceMinor": 74900,
+     "compareAtMinor": 89900,
+     "available": true,
+     "options": [
+      "Stardust",
+      "Left (Destro)"
+     ]
+    },
+    {
+     "title": "Void / Right",
+     "sku": "aBLK-R",
+     "priceMinor": 74900,
+     "compareAtMinor": 89900,
+     "available": true,
+     "options": [
+      "Void",
+      "Right"
+     ]
+    },
+    {
+     "title": "Void / Left (Destro)",
+     "sku": "aBLK-L",
+     "priceMinor": 74900,
+     "compareAtMinor": 89900,
+     "available": true,
+     "options": [
+      "Void",
+      "Left (Destro)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:13:16.081Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:13:16.081Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5b147607d9edc88e"
+  }
+ ],
+ "collections": []
+}

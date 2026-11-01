@@ -1,0 +1,144 @@
+{
+ "brandId": "BRD-0720",
+ "brandName": "Axon",
+ "website": "https://www.axonwatches.com",
+ "crawledAt": "2026-11-01T06:33:52.414Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/6817342a4d47fc0e126a9602/7f5b194d-3e77-4418-ad4e-099554c8528c/Axon+Logo+v2.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.axonwatches.com/"
+ },
+ "attribution": "Images © Axon, from axonwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0720/axon-origo-grey-dial",
+   "name": "Axon Origo Grey Dial",
+   "url": "https://www.axonwatches.com/store/p/axon-origo-grey-dial",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6817342a4d47fc0e126a9602/69f4ce21c4811546ab543870/69f57fa1a3780355a2ea8c6c/1788204944174/12+compressa.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6817342a4d47fc0e126a9602/69f4ce21c4811546ab543870/69f57fa1a3780355a2ea8c6c/1788204944174/12+compressa.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 59900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "The first model of Axon Watches: 5 complications, grey cold enamel and a classic design to match every occasion, both formal and informal",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 21,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "The first model of Axon Watches": "5 complications, grey cold enamel and a classic design to match every occasion, both formal and informal",
+    "Japanese excellence at the heart of time": "Miyota Calibre 9 Series"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:33:52.414Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:33:52.414Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0720/store"
+   ],
+   "hash": "38c2b96d0a8d09c3"
+  },
+  {
+   "id": "BRD-0720/origo-black-dial",
+   "name": "Axon Origo Black Dial",
+   "url": "https://www.axonwatches.com/store/p/origo-black-dial",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6817342a4d47fc0e126a9602/69f4ce21c4811546ab543870/69f4ce21c4811546ab5438a2/1788204664711/11+compressa.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6817342a4d47fc0e126a9602/69f4ce21c4811546ab543870/69f4ce21c4811546ab5438a2/1788204664711/11+compressa.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 59900,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Store page to purchase the axon origo black dial",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 21,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "The first model of Axon Watches": "5 complications, black cold enamel and a classic design to match every occasion, both formal and informal",
+    "Japanese excellence at the heart of time": "Miyota Calibre 9 Series"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:33:52.414Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:33:52.414Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0720/store"
+   ],
+   "hash": "bcff6c13cd42686f"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0720/store",
+   "name": "Shop Collection",
+   "url": "https://www.axonwatches.com/store",
+   "description": null,
+   "image": {
+    "url": "http://static1.squarespace.com/static/6817342a4d47fc0e126a9602/t/6a47ba32f8f57e1a94689dbf/1783085618669/IMG-20260308-WA0005.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

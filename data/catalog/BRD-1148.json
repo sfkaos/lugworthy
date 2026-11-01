@@ -1,0 +1,558 @@
+{
+ "brandId": "BRD-1148",
+ "brandName": "Monceau",
+ "website": "https://monceauwatches.com",
+ "crawledAt": "2026-11-01T08:00:05.923Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://monceauwatches.com/cdn/shop/files/Monceau-Logo-White.png?v=1782310909",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://monceauwatches.com/"
+ },
+ "attribution": "Images © Monceau, from monceauwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1148/model-01-gts-tobacco-targa",
+   "name": "Model 01 GTS - Tobacco Targa",
+   "url": "https://monceauwatches.com/products/model-01-gts-tobacco-targa",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image_9c7fed63-677d-41d3-833b-a27b9070ae71.png?v=1789681242",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image_9c7fed63-677d-41d3-833b-a27b9070ae71.png?v=1789681242",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image_898f3fb6-9fbb-4da0-8ac4-cc1cc0673bab.png?v=1789681241",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 105100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Model 01 GTS (Strap)",
+     "values": [
+      "Bracelet",
+      "FKM Rubber Strap",
+      "Bracelet + FKM Rubber Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet",
+     "sku": null,
+     "priceMinor": 118800,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet"
+     ]
+    },
+    {
+     "title": "FKM Rubber Strap",
+     "sku": null,
+     "priceMinor": 105100,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber Strap"
+     ]
+    },
+    {
+     "title": "Bracelet + FKM Rubber Strap",
+     "sku": null,
+     "priceMinor": 122900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet + FKM Rubber Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.7,
+    "thicknessMm": 8.4,
+    "waterResistanceM": 100,
+    "caliber": "SW210-1",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Case Width": "39mm",
+    "Height (excl. crystal)": "8.4mm",
+    "Height (incl. crystal)": "10.2mm",
+    "LUG-TO-LUG DISTANCE": "44.7mm",
+    "Case material": "Sandblasted 316L Stainless Steel",
+    "BRACELET": "Flat link, sandblasted 316L stainless steel with quick release system",
+    "STRAP": "Premium FKM rubber strap with sandblasted hardware",
+    "Clasp": "Folding with sliding micro-adjustment",
+    "Glass": "Sapphire",
+    "Movement": "Calibre SW210-1 (manual winding)",
+    "Movement grade": "Elaboré",
+    "Luminosity": "Swiss Super-LumiNova® BGW9",
+    "CROWN": "Push-pull with dual gasket system",
+    "Water resistance": "100m / 330ft",
+    "Model 01 GTS (Strap)": "Bracelet Bracelet FKM Rubber Strap Bracelet + FKM Rubber Strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:05.923Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:05.923Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "aaa1a2c102ef3980"
+  },
+  {
+   "id": "BRD-1148/model-01-gts-irion-azure",
+   "name": "Model 01 GTS - Irion Azure",
+   "url": "https://monceauwatches.com/products/model-01-gts-irion-azure",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image_7b55471b-40c8-4a75-a78d-1c9813ea08c9.png?v=1789680968",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image_7b55471b-40c8-4a75-a78d-1c9813ea08c9.png?v=1789680968",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image.png?v=1789680967",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 105100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Model 01 GTS (Strap)",
+     "values": [
+      "Bracelet",
+      "FKM Rubber Strap",
+      "Bracelet + FKM Rubber Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet",
+     "sku": null,
+     "priceMinor": 118800,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet"
+     ]
+    },
+    {
+     "title": "FKM Rubber Strap",
+     "sku": null,
+     "priceMinor": 105100,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber Strap"
+     ]
+    },
+    {
+     "title": "Bracelet + FKM Rubber Strap",
+     "sku": null,
+     "priceMinor": 122900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet + FKM Rubber Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.7,
+    "thicknessMm": 8.4,
+    "waterResistanceM": 100,
+    "caliber": "SW210-1",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Case Width": "39mm",
+    "Height (excl. crystal)": "8.4mm",
+    "Height (incl. crystal)": "10.2mm",
+    "LUG-TO-LUG DISTANCE": "44.7mm",
+    "Case material": "Sandblasted 316L Stainless Steel",
+    "BRACELET": "Flat link, sandblasted 316L stainless steel with quick release system",
+    "STRAP": "Premium FKM rubber strap with sandblasted hardware",
+    "Clasp": "Folding with sliding micro-adjustment",
+    "Glass": "Sapphire",
+    "Movement": "Calibre SW210-1 (manual winding)",
+    "Movement grade": "Elaboré",
+    "Luminosity": "Swiss Super-LumiNova® BGW9",
+    "CROWN": "Push-pull with dual gasket system",
+    "Water resistance": "100m / 330ft",
+    "Model 01 GTS (Strap)": "Bracelet Bracelet FKM Rubber Strap Bracelet + FKM Rubber Strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:05.923Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:05.923Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "70b4fc2620d3459c"
+  },
+  {
+   "id": "BRD-1148/model-01-gts-verde-scandal",
+   "name": "Model 01 GTS - Verde Scandal",
+   "url": "https://monceauwatches.com/products/model-01-gts-verde-scandal",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image_03b034ef-9803-4f32-b5db-34ce58fa24fd.png?v=1789681125",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image_03b034ef-9803-4f32-b5db-34ce58fa24fd.png?v=1789681125",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/image_38c7fdc6-f030-45f1-851e-1fe01d471237.png?v=1789681124",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 105100,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Model 01 GTS (Strap)",
+     "values": [
+      "Bracelet",
+      "FKM Rubber Strap",
+      "Bracelet + FKM Rubber Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bracelet",
+     "sku": null,
+     "priceMinor": 118800,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet"
+     ]
+    },
+    {
+     "title": "FKM Rubber Strap",
+     "sku": null,
+     "priceMinor": 105100,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "FKM Rubber Strap"
+     ]
+    },
+    {
+     "title": "Bracelet + FKM Rubber Strap",
+     "sku": null,
+     "priceMinor": 122900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Bracelet + FKM Rubber Strap"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": 44.7,
+    "thicknessMm": 8.4,
+    "waterResistanceM": 100,
+    "caliber": "SW210-1",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Case Width": "39mm",
+    "Height (excl. crystal)": "8.4mm",
+    "Height (incl. crystal)": "10.2mm",
+    "LUG-TO-LUG DISTANCE": "44.7mm",
+    "Case material": "Sandblasted 316L Stainless Steel",
+    "BRACELET": "Flat link, sandblasted 316L stainless steel with quick release system",
+    "STRAP": "Premium FKM rubber strap with sandblasted hardware",
+    "Clasp": "Folding with sliding micro-adjustment",
+    "Glass": "Sapphire",
+    "Movement": "Calibre SW210-1 (manual winding)",
+    "Movement grade": "Elaboré",
+    "Luminosity": "Swiss Super-LumiNova® BGW9",
+    "CROWN": "Push-pull with dual gasket system",
+    "Water resistance": "100m / 330ft",
+    "Model 01 GTS (Strap)": "Bracelet Bracelet FKM Rubber Strap Bracelet + FKM Rubber Strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:05.923Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:05.923Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "238883bd0c56e7ca"
+  },
+  {
+   "id": "BRD-1148/internal-model-01-gts-allocation-pool",
+   "name": "150 Piece Limited Allocation",
+   "url": "https://monceauwatches.com/products/internal-model-01-gts-allocation-pool",
+   "image": null,
+   "images": [],
+   "priceMinor": null,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 8.4,
+    "waterResistanceM": 200,
+    "caliber": "SW210-1",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case Width": "39mm",
+    "Height (excl. crystal)": "8.4mm",
+    "Height (incl. crystal)": "10.2mm",
+    "Case material": "316L Stainless Steel",
+    "Bracelet": "316L Stainless Steel",
+    "Clasp": "Folding with sliding micro-adjustment",
+    "Glass": "Sapphire",
+    "Movement": "Calibre SW210-1 (manual winding)",
+    "Movement grade": "Elaboré",
+    "Luminosity": "Swiss Super-LumiNova® BGW9",
+    "Water resistance": "200m / 660ft"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:05.923Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:05.923Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8122518e279668e5"
+  },
+  {
+   "id": "BRD-1148/model-01",
+   "name": "Model 01",
+   "url": "https://monceauwatches.com/products/model-01",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/Monceau_Model01_Atacama_Grey_isolated_LR_4fe391e3-a35a-4cae-8fe6-f3f47e8201db.jpg?v=1783547894",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/Monceau_Model01_Atacama_Grey_isolated_LR_4fe391e3-a35a-4cae-8fe6-f3f47e8201db.jpg?v=1783547894",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/Monceau_Model01_Antarctic_White_isolated__LR.jpg?v=1783547915",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/Monceau_Model01_Icelandic_Black_isolated_LR_f5819050-3f69-4544-a796-f0ee107b579c.jpg?v=1783547933",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/Monceau_Model01_Riyadh_Red_isolated_LR_8321fccd-0e70-4fc9-8c14-0f4fef5465c1.jpg?v=1783547948",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/MONCEAU-Icelandic-black.jpg?v=1783597240",
+     "width": 1700,
+     "height": 1222
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/MONCEAU_P5190731.jpg?v=1783597379",
+     "width": 1400,
+     "height": 1117
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/MONCEAU-Riyadh-Red.jpg?v=1783597515",
+     "width": 1800,
+     "height": 1406
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1023/6261/2099/files/MONCEAU_DSC2219.jpg?v=1783548840",
+     "width": 1400,
+     "height": 1815
+    }
+   ],
+   "priceMinor": 113300,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Colour",
+     "values": [
+      "Atacama Grey",
+      "Antarctic White",
+      "Icelandic Black",
+      "Riyadh Red"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Atacama Grey",
+     "sku": null,
+     "priceMinor": 113300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Atacama Grey"
+     ]
+    },
+    {
+     "title": "Antarctic White",
+     "sku": null,
+     "priceMinor": 113300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Antarctic White"
+     ]
+    },
+    {
+     "title": "Icelandic Black",
+     "sku": null,
+     "priceMinor": 113300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Icelandic Black"
+     ]
+    },
+    {
+     "title": "Riyadh Red",
+     "sku": null,
+     "priceMinor": 113300,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Riyadh Red"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 8.4,
+    "waterResistanceM": 200,
+    "caliber": "SW210-1",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case Width": "39mm",
+    "Height (excl. crystal)": "8.4mm",
+    "Height (incl. crystal)": "10.2mm",
+    "Case material": "316L Stainless Steel",
+    "Bracelet": "316L Stainless Steel",
+    "Clasp": "Folding with sliding micro-adjustment",
+    "Glass": "Sapphire",
+    "Movement": "Calibre SW210-1 (manual winding)",
+    "Movement grade": "Elaboré",
+    "Luminosity": "Swiss Super-LumiNova® BGW9",
+    "Water resistance": "200m / 660ft"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:00:05.923Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:05.923Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "25170ed4a6c71eb0"
+  }
+ ],
+ "collections": []
+}

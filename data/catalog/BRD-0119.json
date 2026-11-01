@@ -1,0 +1,1220 @@
+{
+ "brandId": "BRD-0119",
+ "brandName": "Brillier",
+ "website": "https://www.brillier.com",
+ "crawledAt": "2026-11-01T06:43:38.510Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.brillier.com/wp-content/uploads/2023/02/logo.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.brillier.com/"
+ },
+ "attribution": "Images © Brillier, from brillier.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0119/flieger-blackout-sport",
+   "name": "Flieger Blackout Sport",
+   "url": "https://www.brillier.com/product/flieger-blackout-sport/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/05/flieger-blackout-sport-watch.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/05/flieger-blackout-sport-watch.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "This watch is the equivalent of a stealth bomber with racing stripes. Its design adds pops of red and gray without sacrificing legibility and visual ergonomics. The two-tone lume and ultra-deep sunken dial further separate the hours from the minutes for quick and accurate legibility in all conditions. The Flieger features a gun-metal, Americhron movement and is proudly assembled and tested in the United States of America.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "4251"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "7b5667119e661b91"
+  },
+  {
+   "id": "BRD-0119/flieger-blackout",
+   "name": "Flieger Blackout",
+   "url": "https://www.brillier.com/product/flieger-blackout/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/05/flieger-blackout.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/05/flieger-blackout.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "This is the stealthy twin of the Flieger. A blackout minimalist design to focus on legibility and visual ergonomics. The two-tone lume and ultra-deep sunken dial further separate the hours from the minutes for quick and accurate legibility in all conditions. The Flieger features a gun-metal, Americhron movement and is proudly assembled and tested in the United States of America.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "4247"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "bb69eecc75ec0bc8"
+  },
+  {
+   "id": "BRD-0119/flieger",
+   "name": "Flieger",
+   "url": "https://www.brillier.com/product/flieger/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/04/flieger-watch.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/04/flieger-watch.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "This is where the collection begins. A minimalist and sterile design to focus on legibility and visual ergonomics. The ultimate in functionality. The two-tone lume and ultra-deep sunken dial further separate the hours from the minutes for quick and accurate legibility in all conditions. The Flieger features a gun-metal, Americhron movement and is proudly assembled and tested in the United States of America.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "4219"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "fae48350926a3692"
+  },
+  {
+   "id": "BRD-0119/flieger-blackout-rally",
+   "name": "Flieger Blackout Rally",
+   "url": "https://www.brillier.com/product/flieger-blackout-rally/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/10/rellywatches.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/10/rellywatches.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Brillier Flieger Rally Sport Automatic Watch – Built for Speed and Precision Inspired by the adrenaline and precision of motor racing, the Brillier Flieger Rallye Sport brings together the spirit of the racetrack with the heritage of aviation design. This Limited edition automatic racing watch captures the thrill of speed and performance engineering in a bold, mechanical form. Available in a vibrant orange rally-style strap, the watch has a unmistakable racing identity. While red and gray accents on the dial evoke the dynamic visuals of motorsport gauges, the ultra-deep, double-sunken dial design and two-tone luminous markers ensure quick, accurate legibility—even in fast-paced conditions, day or night. At its core, the Flieger Rallye Sport is powered by a robust self-winding Americhron Mechanical Movement, proudly assembled and tested in the USA. Engineered for endurance and built to perform, this American-assembled automatic watch reflects the dedication and precision found both in watchmaking and in the world of racing.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "5200"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "d27371f6d17ba5bf"
+  },
+  {
+   "id": "BRD-0119/gmt-mechanical",
+   "name": "GMT (DUAL TIME) Mechanical Automatic Round 38 mm Steel Case White Face",
+   "url": "https://www.brillier.com/product/gmt-mechanical/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-10.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-10.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The 38 mm stainless steel case houses a customized, 20-jewel automatic self-winding movement. The movement is elaborately decorated with Cotes de Geneve finishing with a decorated oscillating rotor. A scratch-resistant crystal is provided on both the front and exhibition window case back. You can track two different 12-hour time zones with separately adjustable sub-dials located at 12:00 and 6:00 on the dial. Date is at 3:00. A large sweeping seconds hand is used for both sub-dials. The onion style crown has a cabochon for some added flair to this impressive GMT dress watch. Each GMT watch is numbered 1 – 50 confirming it is one of 50 totally made..",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 36,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3649",
+    "Movement": "Self Winding/Automatic complication designed and customized exclusively for Brillier by a Master Watch Maker of repute. The movement is built overseas and is made with select components of varied origin from Japan, Swiss, China and India.",
+    "Number of jewels": "20",
+    "Dial": "White or Black",
+    "Markers": "Steel stick markers matching case coloring",
+    "Hands": "Flat steel matching case coloring",
+    "Case": "Round 38 mm, Dial opening: 34 mm, Case Thickness: 12 mm, Lug Width: 20 mm",
+    "Crystal": "Genuine Sapphire with anti reflective coating",
+    "Strap": "Genuine Leather Strap"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "fc25ce1b9230db35"
+  },
+  {
+   "id": "BRD-0119/flieger-sport",
+   "name": "Flieger Sport",
+   "url": "https://www.brillier.com/product/flieger-sport/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/05/the-flieger-sport-watch.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/05/the-flieger-sport-watch.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Flieger Sport is entirely original. Its design adds pops of red and gray without sacrificing legibility and visual ergonomics. The two-tone lume and ultra-deep sunken dial further separate the hours from the minutes for quick and accurate legibility in all conditions. The Flieger features a gun-metal, Americhron movement and is proudly assembled and tested in the United States of America.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 100,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "4243"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "a57375ff20bb0f03"
+  },
+  {
+   "id": "BRD-0119/gmt-dual-time-mechanical",
+   "name": "GMT (DUAL TIME) Mechanical Automatic Round 38 mm Steel Case Black Face",
+   "url": "https://www.brillier.com/product/gmt-dual-time-mechanical/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-2-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-2-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The 38 mm stainless steel case houses a customized, 20-jewel automatic self-winding movement. The movement is elaborately decorated with Cotes de Geneve finishing with a decorated oscillating rotor. A scratch-resistant crystal is provided on both the front and exhibition window caseback. You can track two different 12-hour time zones with separately adjustable sub-dials located at 12:00 and 6:00 on the dial. Date is at 3:00. A large sweeping seconds hand is used for both sub-dials. The onion style crown has a cabochon for some added flair to this impressive GMT dress watch. Each GMT watch is numbered 1 – 50 confirming it is one of 50 totally made..",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 38,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 36,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3643",
+    "Movement": "Self Winding/Automatic complication designed and customized exclusively for Brillier by a Master Watch Maker of repute. The movement is built overseas and is made with select components of varied origin from Japan, Swiss, China and India.",
+    "Number of jewels": "20",
+    "Dial": "White or Black",
+    "Markers": "Steel stick markers matching case coloring",
+    "Hands": "Flat steel matching case coloring",
+    "Case": "Round 38 mm, Dial opening: 34 mm, Case Thickness: 12 mm, Lug Width: 20 mm",
+    "Crystal": "Genuine Sapphire with anti reflective coating",
+    "Strap": "Genuine Leather Strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "f0a2012d79ad50d2"
+  },
+  {
+   "id": "BRD-0119/gmt-dual-time-mechanical-1",
+   "name": "GMT (DUAL TIME) Mechanical Automatic Round 38 mm Gold Case Black Face",
+   "url": "https://www.brillier.com/product/gmt-dual-time-mechanical-1/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The 38 mm stainless steel case houses a customized, 20-jewel automatic self-winding movement. The movement is elaborately decorated with Cotes de Geneve finishing with a decorated oscillating rotor. A scratch-resistant crystal is provided on both the front and exhibition window caseback. You can track two different 12-hour time zones with separately adjustable sub-dials located at 12:00 and 6:00 on the dial. Date is at 3:00. A large sweeping seconds hand is used for both sub-dials. The onion style crown has a cabochon for some added flair to this impressive GMT dress watch. Each GMT watch is numbered 1 – 50 confirming it is one of 50 totally made..",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 25,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 36,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3641",
+    "Movement": "Self Winding/Automatic complication designed and customized exclusively for Brillier by a Master Watch Maker of repute. The movement is built overseas and is made with select components of varied origin from Japan, Swiss, China and India.",
+    "Number of jewels": "20",
+    "Dial": "White or Black",
+    "Markers": "Steel stick markers matching case coloring",
+    "Hands": "Flat steel matching case coloring",
+    "Case": "Round 38 mm, Dial opening: 34 mm, Case Thickness: 12 mm, Lug Width: 20 mm",
+    "Crystal": "Genuine Sapphire with anti reflective coating",
+    "Strap": "Genuine Leather Strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "4a3c4fc5c5083aa8"
+  },
+  {
+   "id": "BRD-0119/mono-mechanical-white-dial-automatic-watch-with-moon-phase-and-big-date",
+   "name": "Mono Mechanical White Dial Automatic Watch with Moon Phase and Big Date",
+   "url": "https://www.brillier.com/product/mono-mechanical-white-dial-automatic-watch-with-moon-phase-and-big-date/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-12.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-12.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Experience a relaxed sense of time..... These individually numbered Limited Edition Timepieces feature a single hand with a fine needle point that tells time to a near five minutes to an hour. These unique timepieces emulate the heritage of old timekeeping instruments like sundials and tower clocks which had only one hand to indicate the hour of the day. The 43mm round stainless steel case is fitted with a genuine sapphire crystal on the face and a see-thru exhibition case back. It features a 29 jewel, highly customized, self winding complication. The beautifully decorated movement can be seen performing to 21,600 beats per hour through the exhibition case back securely fastened with 6 screws. The Mono Mechanical peripherals include a \"Big Date\" window at 12 o'clock and a real 29 1/2 day display of \"Moon Phase\" at 6 o'clock . An independent Seconds Hand has also been incorporated in the sub dial of the Moon Phase. The Date and Moon Positions can be easily quick set using the pushers on the case at the 10 o'clock and 4 o'clock positions respectively. The simplistic dial design has bold numerical hour markers separated by stick indicators for minute intervals to read time to the nearest hour. The uniquely designed Crown also has an embedded enamel ring. Available in a brushed finish stainless steel case with White or Blue dial. Each timepiece is numbered 1 / 50 confirming it is one of only 50 made..",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 25,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 14,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 40,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3655",
+    "Movement": "Self Winding/Automatic complication designed and customized exclusively for Brillier by a Master Watch Maker of repute. The movement is built overseas and is made with select components of varied origin from Japan, Swiss, China and India.",
+    "Number of jewels": "29",
+    "Dial": "White or Blue",
+    "Markers": "Arabic markers in Blued (white dial) and Polished Steel ( Blue dial)",
+    "Hands": "Flat steel matching case coloring",
+    "Case": "Round 43 mm, Dial opening: 38 mm, Case Thickness: 14 mm, Lug Width: 22 mm",
+    "Crystal": "Genuine Sapphire with anti reflective coating",
+    "Strap": "Genuine Leather Strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "33423cca0d049c59"
+  },
+  {
+   "id": "BRD-0119/klassique-mechanical-n29xx",
+   "name": "Classic Mechanical Automatic. 43 mm Case, Ivory Dial with Roman Numerals",
+   "url": "https://www.brillier.com/product/klassique-mechanical-n29xx/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-4.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-4.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Designed and assembled in the USA, the “Klassique” special edition timepiece features a genuine enamel dial with bold Roman numeral markers in deep blue and matching blued hands. A true vintage design featuring an independent small seconds hand and a 24 hour timer with date. Available upon request in Blue, Ox blood, Brown, Black American Horween leather straps handmade in the United States of America.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 43,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": "Caliber 8219",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3446",
+    "Movement": "Enhanced for performance 21 jewel Miyota Caliber 8219, automatic & hand winding with 24 hour timer, independent small seconds hand and date. Regulated, calibrated, and oiled prior to final assembly by FTS USA to increase running time and accuracy.",
+    "Dial": "double sunk enamel dial",
+    "Case": "316L stainless steel in Gold or Rose gold finish, Diameter: 43mm Dial opening: 38mm Thickness: 12mm",
+    "Crystal": "Hardened mineral glass with anti-reflective coating",
+    "Strap": "Genuine American Horween Leather Strap Hand Made in the USA",
+    "Presentation and Packaging": "Made in USA"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "76982fadf8fcc0d2"
+  },
+  {
+   "id": "BRD-0119/airborne-x-1-versatile-automatic-and-hand-wind-timepiece-sku-arbn60wgr3",
+   "name": "Brillier Automatic Watch – White Dial Blue Strap, 60 hr. Runtime",
+   "url": "https://www.brillier.com/product/airborne-x-1-versatile-automatic-and-hand-wind-timepiece-sku-arbn60wgr3/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/06/ARBN42WGR3-white-dial-green-lume-blue-crocodile-pattern-genuine-leather-strap-2-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/06/ARBN42WGR3-white-dial-green-lume-blue-crocodile-pattern-genuine-leather-strap-2-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Airborne X-1 Supersonic is meticulously hand assembled in the USA and tested to meet the highest standards of watch making. The 42 mm round case offers a minimalist classic design for multi purpose use. Whether you're looking for a pilot watch, dive watch, dress watch, or formal business watch, the Brillier Airborne X-1 is a seamless fit for any lifestyle. Showcasing American engineering and craftsmanship, the ungraded hand wound and self winding timepiece combines luminous legibility, 660 feet water resistance, extended power reserve and a scratch-resistant sapphire crystal. Airborne, an automatic aviation watch American-made.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 200,
+    "caliber": "Cal 8315",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "1 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "4996"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "5450e3092cbf4f56"
+  },
+  {
+   "id": "BRD-0119/airborne-x-1-versatile-automatic-and-hand-wind-timepiece-sku-arbn660bk2",
+   "name": "Brillier Classic Automatic Watch – Black Dial Black Strap, 60 hr. Runtime",
+   "url": "https://www.brillier.com/product/airborne-x-1-versatile-automatic-and-hand-wind-timepiece-sku-arbn660bk2/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/06/Group-1-2-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/06/Group-1-2-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Airborne X-1 Supersonic is meticulously hand assembled in the USA and tested to meet the highest standards of watch making. The 42 mm round case offers a minimalist classic design for multi purpose use. Whether you're looking for a pilot watch, dive watch, dress watch, or formal business watch, the Brillier Airborne X-1 is a seamless fit for any lifestyle. Showcasing American engineering and craftsmanship, the ungraded hand wound and self winding timepiece combines luminous legibility, 660 feet water resistance, extended power reserve and a scratch-resistant sapphire crystal. Airborne, an automatic aviation watch American-made.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 200,
+    "caliber": "Cal 8315",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "1 lbs",
+    "Dimensions": ".25 × .13 × .13 in",
+    "Product ID": "4955"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "e89309e55b6c2a19"
+  },
+  {
+   "id": "BRD-0119/brillier-airborne-x-1-versatile-automatic-and-handwind-watch-arbn60wbl1",
+   "name": "Brillier Automatic Water Sports Watch – Ivory Dial Black Strap, 60 hr. Runtime",
+   "url": "https://www.brillier.com/product/brillier-airborne-x-1-versatile-automatic-and-handwind-watch-arbn60wbl1/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/07/Group-1-5.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/07/Group-1-5.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Airborne X-1 Supersonic is meticulously hand assembled in the USA and tested to meet the highest standards of watch making. The 42 mm round case offers a minimalist classic design for multi purpose use. Whether you're looking for a pilot watch, dive watch, dress watch, or formal business watch, the Brillier Airborne X-1 is a seamless fit for any lifestyle. Showcasing American engineering and craftsmanship, the ungraded hand wound and self winding timepiece combines luminous legibility, 660 feet water resistance, extended power reserve and a scratch-resistant sapphire crystal. Airborne, an automatic aviation watch American-made.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 200,
+    "caliber": "Cal 8315",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "1 lbs",
+    "Dimensions": ".25 × .13 × .13 in",
+    "Product ID": "4992"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "b15b246ebf93968f"
+  },
+  {
+   "id": "BRD-0119/airborne-x-1-versatile-automatic-and-hand-wind-timepiece-sku-arbn42wgr1",
+   "name": "Brillier Automatic Water Sports Watch – Ivory Dial Black Strap, 42 hr. Runtime",
+   "url": "https://www.brillier.com/product/airborne-x-1-versatile-automatic-and-hand-wind-timepiece-sku-arbn42wgr1/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/07/Group-1-5.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/07/Group-1-5.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 49500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Airborne X-1 Supersonic is meticulously hand assembled in the USA and tested to meet the highest standards of watch making. The 42 mm round case offers a minimalist classic design for multi purpose use. Whether you're looking for a pilot watch, dive watch, dress watch, or formal business watch, the Brillier Airborne X-1 is a seamless fit for any lifestyle. Showcasing American engineering and craftsmanship, the ungraded hand wound and self winding timepiece combines luminous legibility, 660 feet water resistance, extended power reserve and a scratch-resistant sapphire crystal. Airborne, an automatic aviation watch American-made.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 200,
+    "caliber": "Cal 8315",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": ".5 lbs",
+    "Dimensions": ".25 × .13 × .13 in",
+    "Product ID": "5004"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "a5773dbb8bf54eff"
+  },
+  {
+   "id": "BRD-0119/airborne-x-1-versatile-automatic-and-hand-wind-timepiece-sku-arbn42wgr3",
+   "name": "Brillier Automatic 42hr Pilot Watch",
+   "url": "https://www.brillier.com/product/airborne-x-1-versatile-automatic-and-hand-wind-timepiece-sku-arbn42wgr3/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/06/ARBN42WGR3-white-dial-green-lume-blue-crocodile-pattern-genuine-leather-strap-2-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2025/06/ARBN42WGR3-white-dial-green-lume-blue-crocodile-pattern-genuine-leather-strap-2-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 49500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Airborne X-1 Supersonic is meticulously hand assembled in the USA and tested to meet the highest standards of watch making. The 42 mm round case offers a minimalist classic design for multi purpose use. Whether you're looking for a pilot watch, dive watch, dress watch, or formal business watch, the Brillier Airborne X-1 is a seamless fit for any lifestyle. Showcasing American engineering and craftsmanship, the ungraded hand wound and self winding timepiece combines luminous legibility, 660 feet water resistance, extended power reserve and a scratch-resistant sapphire crystal. Airborne, an automatic aviation watch American-made.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 20,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "1 lbs",
+    "Dimensions": "7 × 4 × 2 in",
+    "Product ID": "4950"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "90b506cfeea5cb34"
+  },
+  {
+   "id": "BRD-0119/americana-chapter-3-airwing",
+   "name": "Americana Chapter 3 Air Wing",
+   "url": "https://www.brillier.com/product/americana-chapter-3-airwing/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-9.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-9.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built in the USA The Limited Edition Air Wing is inspired by the watches worn by American Air Force Fighter Pilots. The 43mm case and the offset dial enabled Fighter Pilots to read the time clearly without taking their hand off the controls. The Air Wing dial is designed to closely resemble the wing of a historic American aircraft and encapsulate our American heritage and relentless bravery. Powered by the USA built Ameriquartz movement, this timepiece represents a long standing reputation of quality American craftsmanship. Ameriquartz movements are built and tested domestically with a high torque motor and all metal components. Brillier watches are built by a world-class team of watchmakers and technicians in Mesa, Arizona. Each watch was built in a high-end clean room and passed a total of 5 Quality Control checks throughout its production. Our Americana Chapter III watches come with a Horween Leather Strap. All of our straps and leather pouches are handcrafted in the USA with American Leather.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 50,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 22,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3458",
+    "Presentation and Packaging": "Made in the USA"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "08ef1504cc1d06d8"
+  },
+  {
+   "id": "BRD-0119/americana-chapter-2-western-standard-steel",
+   "name": "Americana Chapter 2 Railroad Western Standard Steel",
+   "url": "https://www.brillier.com/product/americana-chapter-2-western-standard-steel/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-7.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-7.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "This historically accurate watch features a double sunken enamel Ferguson dial with “reverse” numerals that prioritize the minute over the hour. This feature was prominent in American pocket watches used by trainmen in the late 1800s and early 1900s to ensure good visibility of the minute hand and marker from the waist. Brillier watches are built by a world-class team of watchmakers and technicians in Fountain Hills, Arizona. Each watch was built in a high-end clean room and passed a total of 5 Quality Control checks throughout its production. Our Americana Chapter II watches come with a Horween Leather Strap. All of our straps and leather pouches are handcrafted in the USA with American Leather.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 25,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3452"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "13c05c6755c33515"
+  },
+  {
+   "id": "BRD-0119/mono-mechanical-blue",
+   "name": "Mono Mechanical Blue Dial Automatic Watch with Moon Phase and Big Date",
+   "url": "https://www.brillier.com/product/mono-mechanical-blue/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-11.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-11.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 79500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Experience a relaxed sense of time..... These individually numbered Limited Edition Timepieces feature a single hand with a fine needle point that tells time to a near five minutes to an hour. These unique timepieces emulate the heritage of old timekeeping instruments like sundials and tower clocks which had only one hand to indicate the hour of the day. The 43mm round stainless steel case is fitted with a genuine sapphire crystal on the face and a see-thru exhibition case back. It features a 29 jewel, highly customized, self winding complication. The beautifully decorated movement can be seen performing to 21,600 beats per hour through the exhibition case back securely fastened with 6 screws. The Mono Mechanical peripherals include a \"Big Date\" window at 12 o'clock and a real 29 1/2 day display of \"Moon Phase\" at 6 o'clock . An independent Seconds Hand has also been incorporated in the sub dial of the Moon Phase. The Date and Moon Positions can be easily quick set using the pushers on the case at the 10 o'clock and 4 o'clock positions respectively. The simplistic dial design has bold numerical hour markers separated by stick indicators for minute intervals to read time to the nearest hour. The uniquely designed Crown also has an embedded enamel ring. Available in a brushed finish stainless steel case with White or Blue dial. Each timepiece is numbered 1 / 50 confirming it is one of only 50 made..",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 25,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 14,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 40,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3652",
+    "Movement": "Self Winding/Automatic complication designed and customized exclusively for Brillier by a Master Watch Maker of repute. The movement is built overseas and is made with select components of varied origin from Japan, Swiss, China and India.",
+    "Number of jewels": "29",
+    "Dial": "White or Blue",
+    "Markers": "Arabic markers in Blued (white dial) and Polished Steel ( Blue dial)",
+    "Hands": "Flat steel matching case coloring",
+    "Case": "Round 43 mm, Dial opening: 38 mm, Case Thickness: 14 mm, Lug Width: 22 mm",
+    "Crystal": "Genuine Sapphire with anti reflective coating",
+    "Strap": "Genuine Leather Strap"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "aa6a29662b609e53"
+  },
+  {
+   "id": "BRD-0119/americana-chapter-2-western-standard-gold",
+   "name": "Americana Chapter 2 Railroad Western Standard Gold",
+   "url": "https://www.brillier.com/product/americana-chapter-2-western-standard-gold/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-13.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-13.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "This historically accurate watch features a double sunken enamel Ferguson dial with “reverse” numerals that prioritize the minute over the hour. This feature was prominent in American pocket watches used by trainmen in the late 1800s and early 1900s to ensure good visibility of the minute hand and marker from the waist. Brillier watches are built by a world-class team of watchmakers and technicians in Fountain Hills, Arizona. Each watch was built in a high-end clean room and passed a total of 5 Quality Control checks throughout its production. Our Americana Chapter II watches come with a Horween Leather Strap. All of our straps and leather pouches are handcrafted in the USA with American Leather.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 48,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 22,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3661",
+    "Presentation and Packaging": "Made in the USA"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "7fc8d8ea5812c1a1"
+  },
+  {
+   "id": "BRD-0119/americana-chapter-3-infantry",
+   "name": "Americana Chapter 3 Infantry",
+   "url": "https://www.brillier.com/product/americana-chapter-3-infantry/",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-8.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/Mask-group-8.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built in the USA Powered by the USA built Ameriquartz movement, this timepiece represents a long standing reputation of quality American craftsmanship. Ameriquartz movements are built and tested domestically. Brillier watches are built by a world-class team of watchmakers and technicians in Mesa, Arizona. Each watch was built in a high-end clean room and passed a total of 5 Quality Control checks throughout its production. Our Americana Chapter III watches come with a Horween Leather Strap. All of our straps and leather pouches are handcrafted in the USA with American Leather.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 50,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 22,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Weight": "0.5 lbs",
+    "Dimensions": "0.25 × 0.13 × 0.13 in",
+    "Product ID": "3456"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:43:38.510Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:43:38.510Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0119/shop"
+   ],
+   "hash": "1264abe127cbbfea"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0119/shop",
+   "name": "Shop",
+   "url": "https://www.brillier.com/shop/",
+   "description": "American Made Wrist Watches",
+   "image": {
+    "url": "https://brillier.b-cdn.net/wp-content/uploads/2023/02/logo.png",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

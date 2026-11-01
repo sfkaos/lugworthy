@@ -1,0 +1,390 @@
+{
+ "brandId": "BRD-1363",
+ "brandName": "Troubadour Watches",
+ "website": "https://troubadourwatch.com",
+ "crawledAt": "2026-11-01T08:43:13.174Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://troubadourwatch.com/cdn/shop/files/Troubadour-Logo-Black-On-White-Large.jpg?v=1647465888",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://troubadourwatch.com/"
+ },
+ "attribution": "Images © Troubadour Watches, from troubadourwatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1363/the-surf-tone-watch",
+   "name": "Surf Tone",
+   "url": "https://troubadourwatch.com/products/the-surf-tone-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1714-23-14_B_R8_S4.jpg?v=1692294371",
+    "width": 2000,
+    "height": 2500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1714-23-14_B_R8_S4.jpg?v=1692294371",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/SurfTone-H6D2022_18989Corrected.jpg?v=1692294384",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_2_f5b702d0-ada1-4e00-a289-2fbaa899cb4b.jpg?v=1692294390",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-45-58_B_R8_S4_a83e19e0-bbc8-4bc3-9c24-90b47e613c55.jpg?v=1692294395",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_a197ccce-d6e7-4203-8d50-511a8974d30c.jpg?v=1692294401",
+     "width": 3000,
+     "height": 2400
+    }
+   ],
+   "priceMinor": 50000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Introducing the Troubadour Surf Tone.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 10.5,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Size Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm.",
+    "Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:43:13.174Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:43:13.174Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c301c49a7aeb8995"
+  },
+  {
+   "id": "BRD-1363/the-mojo-green-watch",
+   "name": "Mojo Green",
+   "url": "https://troubadourwatch.com/products/the-mojo-green-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1715-34-37_B_R8_S4.jpg?v=1692294304",
+    "width": 2000,
+    "height": 2500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1715-34-37_B_R8_S4.jpg?v=1692294304",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/MojoGreen-H6D2022_18990Corrected.jpg?v=1692294322",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_2_1f6a3c54-268d-49a8-9562-03d991fd4c7b.jpg?v=1692294334",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-45-58_B_R8_S4_27c2d6fc-0c21-4a25-890f-4bc53e609eea.jpg?v=1692294338",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_7725bf98-5e31-4f28-a914-e132f02c73fb.jpg?v=1692294344",
+     "width": 3000,
+     "height": 2400
+    }
+   ],
+   "priceMinor": 50000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Mojo Green is our luckiest watch. We continue the tradition of bluesmen that like to carry a bit of magic with them… and this green is pure magic. The benefits of this watch go way beyond its lovely green watch face and bezel. It's a helpful tool for any musician, thanks to our patent-pending Circle of Fifths bezel. Just turn the bi-directional bezel to line up the key with the scale degrees and instantly transpose the song. We've even added a micro-adjusting clasp to the bracelet. This way, you can quickly flip your watch around your wrist- making it easy to read no matter what position in which you hold your instrument. Of course, this watch has even more value as a quality piece of jewelry. The 316L stainless steel case and band, as well as the sapphire crystal and 100m of water resistance, help it hold up to wear and tear. You can truly appreciate the beauty of this Swiss-made watch when you flip it over and see the movement through the transparent case back. The Mojo Green watch makes an excellent gift for the musician in your life- whether you're celebrating their first paying gig or wishing them luck as they head off to school. There's even more to the Mojo Green watch. Just keep reading below.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 10.5,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Size Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm.",
+    "Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:43:13.174Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:43:13.174Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "82300d5903dd1b97"
+  },
+  {
+   "id": "BRD-1363/the-midnight-sonata-watch",
+   "name": "Midnight Jam",
+   "url": "https://troubadourwatch.com/products/the-midnight-sonata-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1714-58-57_B_R8_S4.jpg?v=1692294246",
+    "width": 2000,
+    "height": 2500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1714-58-57_B_R8_S4.jpg?v=1692294246",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/MidnightJam-H6D2022_18986Corrected.jpg?v=1692294255",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_2_072aff25-7ee0-4e27-bd62-f2d84f303257.jpg?v=1692294260",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-45-58_B_R8_S4_d28eeacd-b982-47c2-90c4-0c89321f2bd5.jpg?v=1692294265",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_cff79cdf-fc52-41f5-8fbb-fa305524f80c.jpg?v=1692294271",
+     "width": 3000,
+     "height": 2400
+    }
+   ],
+   "priceMinor": 50000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "\"There was no one near to confuse me, so I was forced to become original.\" - Joseph Haydn The Midnight Jam is our black-on-black modern classic watch. The vintage styling can be enjoyed anywhere from an orchestra show to a music festival. Because black is always the new black and classic style is forever. This Swiss-made watch goes beyond just the beauty of basic black. It features a 316L stainless steel bracelet, a sapphire crystal, 100m of water resistance, and a ceramic bezel. It's built with quality. Speaking of the bezel, that's what makes Troubadour Watches unique. Our patent-pending design features a bi-directional Circle of Fifths. This can help you whether you need to quickly transpose something or if you need to improvise. The Midnight Jam watch might have a black bezel and face, but even in the dark, you'll be able to read it thanks to the C3 Blue Line X1 grade Superluminova. As musicians, we know: it's always hard to find a gift for us. What do we need that we don't already have? How can we buy something they can really use? The Midnight Jam from Troubadour Watch makes an excellent gift for your favorite musician. Feel free to explore all the features of the Midnight Jam watch below.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 10.5,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Size Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm.",
+    "Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:43:13.174Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:43:13.174Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b4cadb8ea6cfedf0"
+  },
+  {
+   "id": "BRD-1363/the-delta-blue-watch",
+   "name": "Delta Blue",
+   "url": "https://troubadourwatch.com/products/the-delta-blue-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1714-43-51_B_R8_S4.jpg?v=1692294147",
+    "width": 2000,
+    "height": 2500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1714-43-51_B_R8_S4.jpg?v=1692294147",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/DeltaBlue-H6D2022_18988Corrected.jpg?v=1692294172",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_2_6d447b93-c7fd-49c4-b472-8ae446eb5171.jpg?v=1692294187",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-45-58_B_R8_S4_9dbf6786-dbba-4010-99ec-98bb957764db.jpg?v=1692294194",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_6ac4861a-8a86-41e9-a32d-3d7737ce1713.jpg?v=1692294200",
+     "width": 3000,
+     "height": 2400
+    }
+   ],
+   "priceMinor": 50000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Our watch is a tribute to that spark of blue that lit up the Mississippi Delta and grew to inspire rock 'n roll. The royal blue sunburst dial and the black bezel are stunning combinations that always look sharp. This Swiss-made watch is built for musicians (and fans). It features a unique (patent-pending) bi-directional ceramic bezel emblazoned with the Circle of Fifths. We've even added a unique micro-adjusting clasp that makes it quick and easy to flip the watch around so you can read it no matter how you hold your instrument. This makes this watch a helpful tool for any musician. And any musician will tell you that their instrument takes a beating. The Delta Blue watch is designed to hold up too. Not only is the band and case back made with 316L stainless steel, but the crystal is a durable sapphire. Combine that with 100m of water resistance; this watch is built to last. The Delta Blue Troubadour watch is more than a tool. It's a beautiful piece of jewelry. You can appreciate the fine detail when you view the ETA 2824-2 automatic movement through the exhibition case back. This watch is an excellent gift for any musician or blues fan. Learn more about all the features of the Delta Blue watch below.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 10.5,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Size Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm.",
+    "Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:43:13.174Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:43:13.174Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "bf62964294874ca2"
+  },
+  {
+   "id": "BRD-1363/the-blue-note-watch",
+   "name": "Blue Note",
+   "url": "https://troubadourwatch.com/products/the-blue-note-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1713-53-34_B_R8_S4.jpg?v=1692293980",
+    "width": 2000,
+    "height": 2500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1713-53-34_B_R8_S4.jpg?v=1692293980",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/BlueNote-H6D2022_18987Corrected.jpg?v=1692294009",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4_2.jpg?v=1692294029",
+     "width": 2000,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-45-58_B_R8_S4.jpg?v=1692294035",
+     "width": 3000,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0573/3564/4205/files/2023-07-1916-37-35_B_R8_S4.jpg?v=1692294042",
+     "width": 3000,
+     "height": 2400
+    }
+   ],
+   "priceMinor": 50000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Blue Note watch is an ode to jazz… bourbon with a cigar… and late nights filled with the laughter of friends! Whether you're a Coltrane, Monk, or Davis fan, this watch reflects their durability through the years. Not only does the Blue Note watch have a sapphire crystal, but it also has a 316L stainless steel case and bracelet. In addition, this watch holds up with 100m of water resistance, and the C3 Blue Line X1 grade Superluminova will allow you to keep time in even the darkest jazz club. What makes Troubadour Watches unique is our bi-directional ceramic bezel. The blue bezel and watch face showcase a cool blue. Our patent-pending design features the Circle of Fifths making this Swiss-made watch a valuable tool for any musician. The Blue Note Troubadour Watch makes a great gift- for any Jazz lover or musician. Take a look at all the features of The Blue Note watch below.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 10.5,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Size Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm.",
+    "Case size": "41mm. Case thickness: 10.5mm. Lug width: 20mm."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:43:13.174Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:43:13.174Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "27a4e76fc61f9c10"
+  }
+ ],
+ "collections": []
+}

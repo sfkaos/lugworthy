@@ -1,0 +1,1096 @@
+{
+ "brandId": "BRD-0442",
+ "brandName": "Orion Watches",
+ "website": "https://orionwatch.com",
+ "crawledAt": "2026-11-01T08:12:50.737Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/55122cb7e4b0b870a8ccaae7/ae8f6803-ca84-4166-82e5-dcaec4fed3d2/Orion-1+logo+png.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://orionwatch.com/"
+ },
+ "attribution": "Images © Orion Watches, from orionwatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0442/sylph-blood-orange",
+   "name": "Sylph: Blood Orange",
+   "url": "https://orionwatch.com/store/p/sylph-blood-orange",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/6aa9a585f2549e0824dc92e5/1789502853653/P9156110.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/6aa9a585f2549e0824dc92e5/1789502853653/P9156110.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 82500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "This hand painted dial is made to order. Given the hand made nature and the painting technique, each one is random and unique. Please contact me if you would like to commission yours. 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (incl. crystal) Screw down crown 100m Water Resistance Movement: Miyota 9039 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9039",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "82894665e9636da8"
+  },
+  {
+   "id": "BRD-0442/np6yb11t8fspz9bc9nhrz6nrl965xf",
+   "name": "Hellcat 36: Light Meteorite",
+   "url": "https://orionwatch.com/store/p/np6yb11t8fspz9bc9nhrz6nrl965xf",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/68b0727d64121927f4bdaf9d/1788072518133/Hellcat+Meteorite+Light-6.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/68b0727d64121927f4bdaf9d/1788072518133/Hellcat+Meteorite+Light-6.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 97500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A striking a lightly colored meteorite dial beset by silver printed dial elements. The silver printed elements blend into the silver hues of the meteorite creating a more gentle contrast that begins to blend into the dial at certain angles. Please note that this is a natural material and each dial is different in pattern and shade. May be slightly lighter in person than the photos. Specifications: 36.5mm Diameter 18mm Lug Width 43mm Lug to Lug 9.9mm Thickness (incl. crystal) Screw Down Crown (upgraded tube design for increased security) 100m Water Resistance BGW9 Blue Lume Miyota 9039 Movement Display Caseback Sapphire Crystals Tool-less micro adjust clasp Wrist shot is is a 6.75” wrist Use of a springbar tweezer is recommended for installing and removing the end links",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches",
+    "BRD-0442/hellcat-36-dark-meteorite"
+   ],
+   "hash": "3fb89bb563c7884e"
+  },
+  {
+   "id": "BRD-0442/hellcat-burgundy-rg",
+   "name": "Hellcat Burgundy RG",
+   "url": "https://orionwatch.com/store/p/hellcat-burgundy-rg",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/689f5f3086322825a8bd5b7a/1788066668170/Hellcat+RG.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/689f5f3086322825a8bd5b7a/1788066668170/Hellcat+RG.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 74500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The original 39mm Hellcat you’re all familiar with, this limited edition comes with a plated rose gold bezel to match the rose gold hands and accents of the watch. Assembled in the USA. The Hellcat features a polished and curved caseback to ergonomically provide more comfort on the wrist. The crown guards have been done away with on this case, maintaining the design expectations of a pilot’s watch, that the crown should be tactile and easily manipulated. The Hellcat is now shipping stock on its Orion designed bracelet. The Hellcat ships stock on its bracelet, straps are available in accessories . 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (Caseback to Crystal) Screw down crown 100m Water Resistance Movement: Miyota 9015 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9015",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9",
+    "Crown": "Select Crown Steel Rose Gold Date: Select Date No Date Date"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "fc5597eb721f67c8"
+  },
+  {
+   "id": "BRD-0442/hellcat-36-deep-purple",
+   "name": "Hellcat 36: Deep Purple",
+   "url": "https://orionwatch.com/store/p/hellcat-36-deep-purple",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/67469d9bb9528f56d3e0f0a6/1787932227441/Hellcat+36+White+BG-1-3.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/67469d9bb9528f56d3e0f0a6/1787932227441/Hellcat+36+White+BG-1-3.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 76500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A 36.5mm stunner. Stepped lugs, applied indices, anti-scratch coating on the caseback only* , a display caseback and a clasp with tool-less micro adjusts - the Hellcat 36 will pack many more surprises into the smallest Orion made yet. *Anti-scratch coatings are a type of PVD (physical vapor deposition) coating, which is a thin but hard coating. While this may offset the time before scratches show up and increase initial durability, it means the watch cannot be refinished. The curved and multi-finish caseback would be complex to refinish and I have found that they are quick to scratch because of how the clasp and bracelet sits on it when the watch is taken off and set down. The anti-scratch coating on the caseback is to keep the back looking fresh and resistant to bracelet scratches but not to sacrifice your option to have the watch refinished at a later date. Specifications: 36.5mm Diameter 18mm Lug Width 43mm Lug to Lug 9.9mm Thickness (incl. crystal) Screw Down Crown (upgraded tube design for increased security) 100m Water Resistance BGW9 Blue Lume Miyota 9039 Movement Display Caseback Sapphire Crystals Tool-less micro adjust clasp Wrist shot is is a 6.75” wrist Use of a springbar tweezer is recommended for installing and removing the end links",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "765200a509afc7e5"
+  },
+  {
+   "id": "BRD-0442/hellcat-36-black-mother-of-pearl",
+   "name": "Hellcat 36: Black Mother of Pearl",
+   "url": "https://orionwatch.com/store/p/hellcat-36-black-mother-of-pearl",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/67469d55b9528f56d3e0f058/1787932227239/Hellcat%2B36%2BWhite%2BBG-1%2Bpng.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/67469d55b9528f56d3e0f058/1787932227239/Hellcat%2B36%2BWhite%2BBG-1%2Bpng.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 83500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A 36.5mm stunner. Stepped lugs, applied indices, anti-scratch coating on the caseback only* , a display caseback and a clasp with tool-less micro adjusts - the Hellcat 36 will pack many more surprises into the smallest Orion made yet. Please note that mother of pearl is an organic material and each dial will be highly variable and unique! If you have a preference on a darker vs. lighter dial or high iridescence vs. low iridescence, please email me in advance and I will do my best to select a dial with your desired pattern traits. *Anti-scratch coatings are a type of PVD (physical vapor deposition) coating, which is a thin but hard coating. While this may offset the time before scratches show up and increase initial durability, it means the watch cannot be refinished. The curved and multi-finish caseback would be complex to refinish and I have found that they are quick to scratch because of how the clasp and bracelet sits on it when the watch is taken off and set down. The anti-scratch coating on the caseback is to keep the back looking fresh and resistant to bracelet scratches but not to sacrifice your option to have the watch refinished at a later date. Specifications: 36.5mm Diameter 18mm Lug Width 43mm Lug to Lug 9.9mm Thickness (incl. crystal) Screw Down Crown (upgraded tube design for increased security) 100m Water Resistance BGW9 Blue Lume Miyota 9039 Movement Display Caseback Sapphire Crystals Tool-less micro adjust clasp Wrist shot is is a 6.75” wrist Use of a springbar tweezer is recommended for installing and removing the end links",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "6fdf1f44f8513674"
+  },
+  {
+   "id": "BRD-0442/hellcat-36-dark-meteorite",
+   "name": "Hellcat 36: Dark Meteorite",
+   "url": "https://orionwatch.com/store/p/hellcat-36-dark-meteorite",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/673d3d2a9e969c4b7121c995/1787930241727/Hellcat+Meteorite+Dark-6.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/673d3d2a9e969c4b7121c995/1787930241727/Hellcat+Meteorite+Dark-6.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 97500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A dark gunmetal colored meteorite dial with white colored printed dial elements. This combination provides a more stark contrast between dial and dial elements than the Hellcat 36: Light Meteorite . Limited to 20 pieces. A 36.5mm stunner. Stepped lugs, applied indices, anti-scratch coating on the caseback only* , a display caseback and a clasp with tool-less micro adjusts - the Hellcat 36 will pack many more surprises into the smallest Orion made yet. *Anti-scratch coatings are a type of PVD (physical vapor deposition) coating, which is a thin but hard coating. While this may offset the time before scratches show up and increase initial durability, it means the watch cannot be refinished. The curved and multi-finish caseback would be complex to refinish and I have found that they are quick to scratch because of how the clasp and bracelet sits on it when the watch is taken off and set down. The anti-scratch coating on the caseback is to keep the back looking fresh and resistant to bracelet scratches but not to sacrifice your option to have the watch refinished at a later date. Specifications: 36.5mm Diameter 18mm Lug Width 43mm Lug to Lug 9.9mm Thickness (incl. crystal) Screw Down Crown (upgraded tube design for increased security) 100m Water Resistance BGW9 Blue Lume Miyota 9039 Movement Display Caseback Sapphire Crystals Tool-less micro adjust clasp Wrist shot is is a 6.75” wrist Use of a springbar tweezer is recommended for installing and removing the end links",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "1e95484257507fc7"
+  },
+  {
+   "id": "BRD-0442/bench-buddy",
+   "name": "Orion Bench Buddy",
+   "url": "https://orionwatch.com/store/p/bench-buddy",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/66904f9d41d3df1c149da1b6/1789060825672/Bench+Organizer.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/66904f9d41d3df1c149da1b6/1789060825672/Bench+Organizer.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 11000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Bench Buddy, Watchmaking Bench Organization.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Configuration": "Select Configuration Right Handed Left Handed Material: Select Material Beech Walnut"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/accessories-extras"
+   ],
+   "hash": "e92b8abd76d723bd"
+  },
+  {
+   "id": "BRD-0442/tesseract-cerulean-blue",
+   "name": "Tesseract: Cerulean Blue",
+   "url": "https://orionwatch.com/store/p/tesseract-cerulean-blue",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/65d912c5d84e5a7b1f2464f9/1791556671895/QtcqxPTH.png?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/65d912c5d84e5a7b1f2464f9/1791556671895/QtcqxPTH.png?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 255000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "THE TESSERACT: A 4 DIMENSIONAL HYPERCUBE Features a proudly made in America dial. The Tesseract pattern is entirely milled, providing tangible depth, relief, and sharp perpendicular corners. Each dial has a polished surface which is contrasted by the matte surface of the milled pattern. After galvanic treatment (coloring) of the dial, some are treated with a semi matte lacquer - some are not. The highly polished dials number in the single digits, with the remainder semi-matte. AMERICAN HOROLOGY The dials are polished by hand before CNC milling with end mills that measure a fraction of a millimeter in diameter. The nameplate, beset by two entirely functional and hand polished screws, is no small feat in itself. The chamfers feature anglage (done by hand) with a satin grain applied to the face. The nameplate is only 0.20mm in thickness (a dime is about 1mm thick) which means handling them requires a great deal of skill, lest they be damaged irreparably. The Orion text on the nameplate is the Orion typeface and is milled as well as inked by hand. Milling specific typefaces is a technical challenge and is seldom featured in watches; the alternatives being lasering the text or simply using the profile of the cutter to create a typeface. A deep rich blue, not unlike an errant cloud caught in a tranquil sunset or a calm sea. The expression of this dial is more hushed than the others. The cerulean blue dial is paired with white rhodium colored hands and nameplate. Technical Specifications Hand finished, made in America dial 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (Caseback to Crystal) Screw down crown 100m Water Resistance Movement: Miyota 9039 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9039",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "6a164b38a4fb54c0"
+  },
+  {
+   "id": "BRD-0442/tesseract-shaded-gold",
+   "name": "Tesseract: Shaded Gold",
+   "url": "https://orionwatch.com/store/p/tesseract-shaded-gold",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/65d911d81b7b9269eec8b41c/1792807540883/P3155620.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/65d911d81b7b9269eec8b41c/1792807540883/P3155620.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 245000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Technical Specifications Hand finished, made in America dial 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (Caseback to Crystal) Screw down crown 100m Water Resistance Movement: Miyota 9039 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9039",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9",
+    "Case": "Select Case Stainless Steel Two Tone Rose Gold"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "0a56bc6b7a381b80"
+  },
+  {
+   "id": "BRD-0442/tesseract-royal-purple",
+   "name": "Tesseract: Royal Purple",
+   "url": "https://orionwatch.com/store/p/tesseract-royal-purple",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/65d9117bd84e5a7b1f2463fe/1708724603052/2022-01-20+16-31-55+%28B%2CRadius8%2CSmoothing4%29.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/65d9117bd84e5a7b1f2463fe/1708724603052/2022-01-20+16-31-55+%28B%2CRadius8%2CSmoothing4%29.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 385000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "THE TESSERACT: A 4 DIMENSIONAL HYPERCUBE Features a proudly made in America dial. The Tesseract pattern is entirely milled, providing tangible depth, relief, and sharp perpendicular corners. Each dial has a polished surface which is contrasted by the matte surface of the milled pattern. After galvanic treatment (coloring) of the dial, some are treated with a semi matte lacquer - some are not. The highly polished dials number in the single digits, with the remainder semi-matte. AMERICAN HOROLOGY The dials are polished by hand before CNC milling with end mills that measure a fraction of a millimeter in diameter. The nameplate, beset by two entirely functional and hand polished screws, is no small feat in itself. The chamfers feature anglage (done by hand) with a satin grain applied to the face. The nameplate is only 0.20mm in thickness (a dime is about 1mm thick) which means handling them requires a great deal of skill, lest they be damaged irreparably. The Orion text on the nameplate is the Orion typeface and is milled as well as inked by hand. Milling specific typefaces is a technical challenge and is seldom featured in watches; the alternatives being lasering the text or simply using the profile of the cutter to create a typeface. An understated and majestic purple that commands attention, not by being the center of it, but by its presence alone. The royal purple dial is paired with white rhodium colored hands and nameplate. Technical Specifications Hand finished, made in America dial 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (Caseback to Crystal) Screw down crown 100m Water Resistance Movement: Miyota 9039 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9039",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "654468a711fb4d14"
+  },
+  {
+   "id": "BRD-0442/sylph-black",
+   "name": "Sylph: Graphite",
+   "url": "https://orionwatch.com/store/p/sylph-black",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/65a037f1a3148e58c54178bd/1791555699185/Orion+Sylph+-+Black-1.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/65a037f1a3148e58c54178bd/1791555699185/Orion+Sylph+-+Black-1.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A deep soothing grey dial lets the sunburst brushing radiate through. Silver dial printing combined with the diamond cut indices and hands catches and returns the light in an exciting and vibrant manner. A splash of orange to set it off. A gentle but clean and concise contrast make this watch easily worn with everything and will relay the time without distraction. Limited to 50 pieces. 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (incl. crystal) Screw down crown 100m Water Resistance Movement: Miyota 9039 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9039",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "4f3b388499d956b0"
+  },
+  {
+   "id": "BRD-0442/sylph",
+   "name": "Sylph: Burgundy",
+   "url": "https://orionwatch.com/store/p/sylph",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/658243304101465795d25c2a/1791555315261/Orion+Sylph+-+Burgandy-1.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/658243304101465795d25c2a/1791555315261/Orion+Sylph+-+Burgandy-1.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The classic Sylph reimagined and refreshed. The burgundy dial is adorned with a sparkling silver printed rally track and text, atop the dial sit applied indices cut from stainless steel. The non cardinal indices are chisel shaped for that extra sparkle and added dimensionality. The hour and minute hands are faceted and diamond cut, so you can expect them to be exceptionally crisp and reflective. 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (incl. crystal) Screw down crown 100m Water Resistance Movement: Miyota 9039 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9039",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "583ca50d6174b322"
+  },
+  {
+   "id": "BRD-0442/1is9daxdoa2fz3y9sw3hbqsjqxeolt",
+   "name": "Hellcat: Burgundy S",
+   "url": "https://orionwatch.com/store/p/1is9daxdoa2fz3y9sw3hbqsjqxeolt",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/63d80e2b512617688be168b3/1675103832063/Orion+Hellcat+Burgandy+NO+DATE+white+background.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/63d80e2b512617688be168b3/1675103832063/Orion+Hellcat+Burgandy+NO+DATE+white+background.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "This model is discontinued and will not be restocked. Subtle change, big difference. The Hellcat you are no doubt familiar with is here again. This time the burgundy dial is appearing with silver printing on the dial, which offers high contrast and an exciting sparkle more dynamic than what a typically white ink would deliver. The silver reflects off the burgundy, elevating more scarlet hues than its rose gold counterpart. Limited to 50 pieces (25 date, 25 no date), potentially the final Hellcat variant. 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (incl. crystal) Screw down crown 100m Water Resistance Movement: Miyota 9039 or 9015 (no date vs. date) Crystal Material: Sapphire Lume: Blue BGW9 (note: the dial is not lumed)",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9039 or 9015 (no date vs. date)",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9 (note: the dial is not lumed)",
+    "Date": "No Date Date"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "2b6e8076f59ab8b6"
+  },
+  {
+   "id": "BRD-0442/field-standard",
+   "name": "Orion Field Standard",
+   "url": "https://orionwatch.com/store/p/field-standard",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/62d9b244b7ad9d1471bee4ac/1787810466615/ORION-FIELDSTANDARD+copy.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/62d9b244b7ad9d1471bee4ac/1787810466615/ORION-FIELDSTANDARD+copy.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "This model is discontinued and will not be restocked. The Field Standard has been revised and renewed. Infused with the Orion typeface and slimmed down (from the first iteration) diamond cut arrowheads, the Field Standard is a non compromising field watch with enough radiance to ascend from field duties. A limited release of 40 pieces. 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (Caseback to Crystal) Screw down crown 100m Water Resistance Movement: Miyota 9039 (No ghost date position) Crystal Material: Sapphire Lume: Blue BGW9 (Large numerals are lumed, small numerals are not)",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9039 (No ghost date position)",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9 (Large numerals are lumed, small numerals are not)"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "2f8333ef7477b406"
+  },
+  {
+   "id": "BRD-0442/orion-date-disc",
+   "name": "Orion Date Disc",
+   "url": "https://orionwatch.com/store/p/orion-date-disc",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/6285a04d293d704d351fe553/1789060830931/White+Date+disc.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/6285a04d293d704d351fe553/1789060830931/White+Date+disc.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A date indicator with the Orion Classic typeface! Available in packs of 2 . Silver numerals on a black background or black numerals on a white background. Compatible with ETA 2824, 2892 and SW 200, 300 with date aperture at 6:00",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Color": "Silver on Black Black on White"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/accessories-extras"
+   ],
+   "hash": "c0d26f4acd2f1574"
+  },
+  {
+   "id": "BRD-0442/zuhgthm7i01lpxs3avka57lhs3m5rs",
+   "name": "Hellcat: F6F Blue",
+   "url": "https://orionwatch.com/store/p/zuhgthm7i01lpxs3avka57lhs3m5rs",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/5d61a124371e850001b74ead/1787687165304/Hellcat+Blue+bracelet+white+background.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/5d61a124371e850001b74ead/1787687165304/Hellcat+Blue+bracelet+white+background.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "This model is in stock but discontinued and will not be remade. The Hellcat is a modestly sized pilot style watch. Following case design cues from the Calamity, Orion 1, and Sylph it blends in and stands out as a family member of the Orion collection. Debuting on the Hellcat is the new and unique Orion typeface, numerals and letters designed solely for and by Orion. The Hellcat features a polished and curved caseback to ergonomically provide more comfort on the wrist. The crown guards have been done away with on this case, maintaining the design expectations of a pilot’s watch, that the crown should be tactile and easily manipulated. The Hellcat will ship on its Orion designed bracelet. The blue dial Hellcat will be exclusive to the blasted & polished accent case. The Hellcat ships stock on its bracelet, straps are available in accessories .. 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (Caseback to Crystal) Screw down crown 100m Water Resistance Movement: Miyota 9015 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9015",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9",
+    "Dial": "Time Only Date"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "9a3bc1ee80475b5d"
+  },
+  {
+   "id": "BRD-0442/hellcat-1",
+   "name": "Hellcat: Burgundy",
+   "url": "https://orionwatch.com/store/p/hellcat-1",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/5d61a0c2ad10d800014785d7/1787687165291/Hellcat+burgundy+bracelet+white+background.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/5d61a0c2ad10d800014785d7/1787687165291/Hellcat+burgundy+bracelet+white+background.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "This model is discontinued and will not be restocked. Please see our retailers for any additional inventory. The Hellcat is a modestly sized pilot style watch. Following case design cues from the Calamity, Orion 1, and Sylph it blends in and stands out as a family member of the Orion collection. Debuting on the Hellcat is the new and unique Orion typeface, numerals and letters designed solely for and by Orion. The Hellcat features a polished and curved caseback to ergonomically provide more comfort on the wrist. The crown guards have been done away with on this case, maintaining the design expectations of a pilot’s watch, that the crown should be tactile and easily manipulated. The Hellcat is now shipping stock on its Orion designed bracelet. The Hellcat ships stock on its bracelet, straps are available in accessories . 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (Caseback to Crystal) Screw down crown 100m Water Resistance Movement: Miyota 9015 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9015",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9",
+    "Dial": "Date No Date"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "a289f4fac26be796"
+  },
+  {
+   "id": "BRD-0442/hellcat",
+   "name": "Hellcat: Black",
+   "url": "https://orionwatch.com/store/p/hellcat",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/5d448b6adeaa5a0001ebed5b/1791506248610/Hellcat+black+bracelet+white+background.jpg?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/5d448b6adeaa5a0001ebed5b/1791506248610/Hellcat+black+bracelet+white+background.jpg?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "This model is discontinued and will not be restocked. Please see our retailers for any additional inventory. The Hellcat is a modestly sized pilot style watch. Following case design cues from the Calamity, Orion 1, and Sylph it blends in and stands out as a family member of the Orion collection. Debuting on the Hellcat is the new and unique Orion typeface, numerals and letters designed solely for and by Orion. The Hellcat features a polished and curved caseback to ergonomically provide more comfort on the wrist. The crown guards have been done away with on this case, maintaining the design expectations of a pilot’s watch, that the crown should be tactile and easily manipulated. The Hellcat will ship on its Orion designed bracelet. The black dial Hellcat will be exclusive to the blasted & polished accent case. The Hellcat ships stock on its bracelet, straps are available in accessories . 39mm Diameter 20mm Lug Width 47mm Lug to Lug 10.5mm Thickness (Caseback to Crystal) Screw down crown 100m Water Resistance Movement: Miyota 9015 Crystal Material: Sapphire Lume: Blue BGW9",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9015",
+    "Crystal Material": "Sapphire",
+    "Lume": "Blue BGW9",
+    "Finishing": "Select Finishing Blasted Dial: Select Dial Date No Date"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:12:50.737Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:12:50.737Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0442/store",
+    "BRD-0442/watches"
+   ],
+   "hash": "85a5aee1829efa6a"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0442/store",
+   "name": "store",
+   "url": "https://orionwatch.com/store",
+   "description": "Home of the Orion Watch Project, Calamity dive watch, hand engraved watches, unique special edition watches. Automatic, mechanical and classy watches that you can depend on.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/t/674d3b04985e412c394b4194/1733114632157/WhatsApp+Image+2024-11-20+at+10.04.59_3d68910d.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0442/watches",
+   "name": "watches",
+   "url": "https://orionwatch.com/store/watches",
+   "description": null,
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/t/674d3b04985e412c394b4194/1733114632157/WhatsApp+Image+2024-11-20+at+10.04.59_3d68910d.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0442/accessories-extras",
+   "name": "accessories extras",
+   "url": "https://orionwatch.com/store/accessories-extras",
+   "description": null,
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/t/674d3b04985e412c394b4194/1733114632157/WhatsApp+Image+2024-11-20+at+10.04.59_3d68910d.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0442/hellcat-36-dark-meteorite",
+   "name": "Hellcat 36: Dark Meteorite",
+   "url": "https://orionwatch.com/store/p/hellcat-36-dark-meteorite",
+   "description": "A dark gunmetal colored meteorite dial with white colored printed dial elements. This combination provides a more stark contrast between dial and dial elements than the Hellcat 36: Light Meteorite . Limited to 20 pieces. A 36.5mm stunner. Stepped lugs, applied indices, anti-scratch coating on the caseback only* , a display caseback and a clasp with tool-less micro adjusts - the Hellcat 36 will pack many more surprises into the smallest Orion made yet. *Anti-scratch coatings are a type of PVD (physical vapor deposition) coating, which is a thin but hard coating. While this may offset the time before scratches show up and increase initial durability, it means the watch cannot be refinished. The curved and multi-finish caseback would be complex to refinish and I have found that they are quick to scratch because of how the clasp and bracelet sits on it when the watch is taken off and set down. The anti-scratch coating on the caseback is to keep the back looking fresh and resistant to bracelet scratches but not to sacrifice your option to have the watch refinished at a later date. Specifications: 36.5mm Diameter 18mm Lug Width 43mm Lug to Lug 9.9mm Thickness (incl. crystal) Screw Down Crown (upgraded tube design for increased security) 100m Water Resistance BGW9 Blue Lume Miyota 9039 Movement Display Caseback Sapphire Crystals Tool-less micro adjust clasp Wrist shot is is a 6.75” wrist Use of a springbar tweezer is recommended for installing and removing the end links",
+   "image": {
+    "url": "http://static1.squarespace.com/static/55122cb7e4b0b870a8ccaae7/65d8ecc3f007407df16167e7/673d3d2a9e969c4b7121c995/1787930241727/Hellcat+Meteorite+Dark-6.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

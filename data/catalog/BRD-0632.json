@@ -1,0 +1,830 @@
+{
+ "brandId": "BRD-0632",
+ "brandName": "1776 Atelier",
+ "website": "https://1776atelier.com",
+ "crawledAt": "2026-11-01T06:19:36.062Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://1776atelier.com/cdn/shop/t/3/assets/logo-white.png?v=140304005468336482831783906607",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://1776atelier.com/"
+ },
+ "attribution": "Images © 1776 Atelier, from 1776atelier.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0632/upgrade-ratchet-triple-snailing",
+   "name": "Upgrade - Triple Snailing",
+   "url": "https://1776atelier.com/products/upgrade-ratchet-triple-snailing",
+   "image": null,
+   "images": [],
+   "priceMinor": 13000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Upgrade",
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 20000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 13000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "56de42db8f335b81"
+  },
+  {
+   "id": "BRD-0632/upgrade-case-engraving-american-gun-scroll",
+   "name": "Upgrade - Case Engraving (Gun Scroll)",
+   "url": "https://1776atelier.com/products/upgrade-case-engraving-american-gun-scroll",
+   "image": null,
+   "images": [],
+   "priceMinor": 195000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Upgrade",
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 300000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 195000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8a9fae148679116b"
+  },
+  {
+   "id": "BRD-0632/upgrade-engraving-federal-scroll",
+   "name": "Upgrade - Federal Scroll",
+   "url": "https://1776atelier.com/products/upgrade-engraving-federal-scroll",
+   "image": null,
+   "images": [],
+   "priceMinor": 195000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Upgrade",
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 300000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 195000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ae41e6813aa06003"
+  },
+  {
+   "id": "BRD-0632/upgrade-engraving-american-geometric-scroll",
+   "name": "Upgrade - American Geometric Scroll",
+   "url": "https://1776atelier.com/products/upgrade-engraving-american-geometric-scroll",
+   "image": null,
+   "images": [],
+   "priceMinor": 169000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Upgrade",
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 260000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 169000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ca54fca262b93f6c"
+  },
+  {
+   "id": "BRD-0632/upgrade-engraving-american-gun-scroll",
+   "name": "Upgrade - American Gun Scroll",
+   "url": "https://1776atelier.com/products/upgrade-engraving-american-gun-scroll",
+   "image": null,
+   "images": [],
+   "priceMinor": 143000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Upgrade",
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 220000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 143000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "567245201a27001d"
+  },
+  {
+   "id": "BRD-0632/upgrade-engraving-teutonic-scroll",
+   "name": "Upgrade - Teutonic Scroll",
+   "url": "https://1776atelier.com/products/upgrade-engraving-teutonic-scroll",
+   "image": null,
+   "images": [],
+   "priceMinor": 117000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Upgrade",
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 180000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 117000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6c09960e14f6dbe0"
+  },
+  {
+   "id": "BRD-0632/upgrade-engraving-level-1",
+   "name": "Upgrade - Level 1 Engraving",
+   "url": "https://1776atelier.com/products/upgrade-engraving-level-1",
+   "image": null,
+   "images": [],
+   "priceMinor": 91000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Upgrade",
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 140000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 91000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "af402529234d498c"
+  },
+  {
+   "id": "BRD-0632/mount-vernon-aventurine",
+   "name": "Mount Vernon Aventurine",
+   "url": "https://1776atelier.com/products/mount-vernon-aventurine",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0737/5713/0840/files/aventurineheroshot.jpg?v=1783990093",
+    "width": 1748,
+    "height": 1748
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0737/5713/0840/files/aventurineheroshot.jpg?v=1783990093",
+     "width": 1748,
+     "height": 1748
+    }
+   ],
+   "priceMinor": 266500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 410000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 266500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6f535277615feb19"
+  },
+  {
+   "id": "BRD-0632/mount-vernon-meteorite",
+   "name": "Mount Vernon Meteorite",
+   "url": "https://1776atelier.com/products/mount-vernon-meteorite",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0737/5713/0840/files/MeotriteHeroshot.jpg?v=1783988503",
+    "width": 1320,
+    "height": 1961
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0737/5713/0840/files/MeotriteHeroshot.jpg?v=1783988503",
+     "width": 1320,
+     "height": 1961
+    }
+   ],
+   "priceMinor": 292500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 450000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 292500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "52274a5525c1a6d6"
+  },
+  {
+   "id": "BRD-0632/montpelier",
+   "name": "Montpelier",
+   "url": "https://1776atelier.com/products/montpelier",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0737/5713/0840/files/MontpellierHeroShot.jpg?v=1783984640",
+    "width": 2306,
+    "height": 1537
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0737/5713/0840/files/MontpellierHeroShot.jpg?v=1783984640",
+     "width": 2306,
+     "height": 1537
+    }
+   ],
+   "priceMinor": 1157000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 1780000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 1157000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9f8f89dbe8887651"
+  },
+  {
+   "id": "BRD-0632/liberty-250",
+   "name": "Liberty 250",
+   "url": "https://1776atelier.com/products/liberty-250",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0737/5713/0840/files/Libert250Heroshot.jpg?v=1783977373",
+    "width": 1000,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0737/5713/0840/files/Libert250Heroshot.jpg?v=1783977373",
+     "width": 1000,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 2860000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Payment",
+     "values": [
+      "Full Amount",
+      "65% Deposit"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Full Amount",
+     "sku": null,
+     "priceMinor": 4400000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Full Amount"
+     ]
+    },
+    {
+     "title": "65% Deposit",
+     "sku": null,
+     "priceMinor": 2860000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "65% Deposit"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:19:36.062Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:19:36.062Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1a5357789561ec37"
+  }
+ ],
+ "collections": []
+}

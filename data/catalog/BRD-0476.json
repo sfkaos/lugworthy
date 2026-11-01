@@ -1,0 +1,1602 @@
+{
+ "brandId": "BRD-0476",
+ "brandName": "Redux",
+ "website": "https://reduxwatch.com",
+ "crawledAt": "2026-11-01T08:23:02.434Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://reduxwatch.com/cdn/shop/files/LOGO_symbol_white.png?v=1789780241",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://reduxwatch.com/"
+ },
+ "attribution": "Images © Redux, from reduxwatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0476/courg42-titanium-mission-watch",
+   "name": "COURG42 — Titanium Mission Watch",
+   "url": "https://reduxwatch.com/products/courg42-titanium-mission-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/COURG42-A11.jpg?v=1782419284",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/COURG42-A11.jpg?v=1782419284",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/COURG42-GCT-side_copy.jpg?v=1782421130",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/IMG_20210222_094502167_HDR-01.jpg?v=1782420915",
+     "width": 3003,
+     "height": 2999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/COURG42-3by3.png?v=1782419495",
+     "width": 943,
+     "height": 944
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/IMG_20210218_083807627-01.jpg?v=1782420881",
+     "width": 2650,
+     "height": 2654
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/COURG42_Type-A_Snow_Hike.jpg?v=1782421033",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/RDX-COURG42-A11-Cockpit-Gauges-StudioPP-PixelLock.png?v=1792700639",
+     "width": 1448,
+     "height": 1086
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/RDX-COURG42-GCT-forest-dial-PP-v2-pixellock.png?v=1792624240",
+     "width": 1536,
+     "height": 1152
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "WWII Pilot Instrument — Upgraded with modern materials and machinery ... For your missions everyday. *Optional straps shown. Deploys with standard issue Black Ballistic Nylon G10 Mission Strap.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Variant",
+     "values": [
+      "Type-A",
+      "A-11",
+      "GCT"
+     ]
+    },
+    {
+     "name": "Date",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    },
+    {
+     "name": "Coating",
+     "values": [
+      "Raw Titanium"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Type-A / Date / Raw Titanium",
+     "sku": "COURG42-TI-A-D",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Type-A",
+      "Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "Type-A / No Date / Raw Titanium",
+     "sku": "COURG42-TI-A-ND",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Type-A",
+      "No Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "A-11 / Date / Raw Titanium",
+     "sku": "COURG42-TI-A11-D",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "A-11",
+      "Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "A-11 / No Date / Raw Titanium",
+     "sku": "COURG42-TI-A11-ND",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "A-11",
+      "No Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "GCT / Date / Raw Titanium",
+     "sku": "COURG42-TI-GCT-D",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "GCT",
+      "Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "GCT / No Date / Raw Titanium",
+     "sku": "COURG42-TI-GCT-ND",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "GCT",
+      "No Date",
+      "Raw Titanium"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Low stock": "2 left",
+    "Dimensions Case": "42MM × 49MM including lugs Thickness: 12MM Lug width: 22MM",
+    "Case": "42MM × 49MM including lugs",
+    "Thickness": "12MM",
+    "Lug width": "22MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c81c5b503838fef9"
+  },
+  {
+   "id": "BRD-0476/scout-titanium-mission-watch",
+   "name": "SCOUT — Titanium Mission Watch",
+   "url": "https://reduxwatch.com/products/scout-titanium-mission-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/SCOUT-Modules2.jpg?v=1782325723",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/SCOUT-Modules2.jpg?v=1782325723",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 130000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Serious capability. Compact form. A 28MM titanium mission watch with interchangeable analog, digital, and compass instruments. SCOUT brings timekeeping and navigation into a compact system made to carry the instrument your day calls for. The SCOUT compass uses a Grade 5 titanium case and a fully lumed rotating bearing bezel for setting and following a bearing. Photographs show different instrument and strap configurations. They do not represent a single all-included kit. Consult the release options for exact contents and availability.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Variant",
+     "values": [
+      "1/A",
+      "A-9"
+     ]
+    },
+    {
+     "name": "Date",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    },
+    {
+     "name": "Coating",
+     "values": [
+      "Raw Titanium"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "1/A / Date / Raw Titanium",
+     "sku": null,
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "1/A",
+      "Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "1/A / No Date / Raw Titanium",
+     "sku": null,
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "1/A",
+      "No Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "A-9 / Date / Raw Titanium",
+     "sku": null,
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "A-9",
+      "Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "A-9 / No Date / Raw Titanium",
+     "sku": null,
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "A-9",
+      "No Date",
+      "Raw Titanium"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Module": "What it brings",
+    "Photo": "SCOUT crew member @well.spokin",
+    "That became SCOUT": "one compact titanium platform with interchangeable instruments for time, digital utility and navigation.",
+    "The high-visibility A-9": "design was a military spec that served for decades as onboard nav tools in U.S. aircraft.",
+    "Bright lume": "glows through the darkest dark.",
+    "Compact": "enough for everyday wear. Mechanical enough to keep doing its job without asking for attention.",
+    "COUNT DOWN": "Set a target and see what’s left at a glance.",
+    "TIME IT": "Mark the start and track elapsed minutes.",
+    "SECOND TIME ZONE": "Offset the bezel to keep another local time reference on the dial.",
+    "Built for actual navigation": "a usable bearing reference, luminous markings, Grade 5 titanium construction, and the dedicated wayfinding module in the SCOUT system.",
+    "Analog vs digital field watches": "which is better for what? →",
+    "SCOUT-A": "flat sapphire crystal, ceramic lumed bezel insert, Super-LumiNova BGW9 dial and hands, Seiko NH05 automatic non-hacking movement and 40+ hour power reserve.",
+    "SCOUT-D": "Casio 3284 module, flat sapphire crystal, 24H mode, stopwatch, alarm, hourly signal/chime, night light and long battery life.",
+    "SCOUT-C": "60-click unidirectional lumed compass bezel, Grade AA liquid-filled lumed compass dial and domed sapphire crystal.",
+    "Estimated transit after dispatch": "Canada 2–7 business days, United States 3–10, international 7–21. Shipping charges are shown at checkout; import duties and taxes may apply. Read the shipping policy .",
+    "SCOUT launches September 24 at 11": "00 a.m. Eastern.",
+    "Start with one": "Every SCOUT instrument is available separately. Add more modules when the mission changes."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "61794bfb5474d94a"
+  },
+  {
+   "id": "BRD-0476/the-honnr-a-9-titanium-mission-watch",
+   "name": "HONNR A-9 — Titanium Mission Watch",
+   "url": "https://reduxwatch.com/products/the-honnr-a-9-titanium-mission-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR_A9_No_Date_ND.png?v=1775328525",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR_A9_No_Date_ND.png?v=1775328525",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR_A9_Date_Hero.png?v=1774559142",
+     "width": 707,
+     "height": 707
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR-A9-lume_8cf97aef-8e59-433d-b30b-98b5d4b8fdaa.png?v=1775328525",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR-A9-angle_17c01df8-fc45-4699-b203-25ff9dd0a89d.png?v=1775328525",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR-A9-non-crown-angle_c35334f9-9c83-43c3-8d2c-95a408c82e67.png?v=1775328525",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR-A9-straight_side_ee99281b-fd1c-47d5-aff7-6b64d900db3d.png?v=1775504088",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR-A9-case_back_7e33fbdf-1fdc-49d0-8dd0-73a10a4ddef7.png?v=1775504088",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/PXL-20260504_154742310.MP.jpg?v=1777911904",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/PXL-20260504_154423582.jpg?v=1777911917",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR_A9_Date_Scuba.png?v=1775328525",
+     "width": 1792,
+     "height": 1792
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR-TI-A9-D-20260324-Elbert-Cebu.png?v=1775328525",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "WWII cockpit-instrument clarity. Modern titanium capability. The HONNR A-9 is a compact Grade 5 titanium automatic mission watch inspired by WWII aircraft instruments. Built for daily operations, it combines high-contrast legibility with a sapphire crystal, 20 ATM water resistance, a 120-click unidirectional bezel and a proven Miyota automatic movement. At 37 × 45MM and 12.75MM thick, the A-9 delivers serious capability without oversized bulk. The bezel can track elapsed time, serve as a countdown reference or help read a second time zone. Blue-green lume keeps the dial readable after dark. Mission-ready specifications Grade 5 titanium case, case back and bezel Sapphire crystal with anti-reflective coating 20 ATM water resistance with screw-down crown Miyota 9015 automatic movement on Date models; 90S5 on No Date models; approximately 42-hour power reserve 120-click unidirectional rotating bezel 37 × 45MM case including lugs; 12.75MM thick; 20MM lug width Blue-green luminous dial and hands for low-light legibility Black ballistic nylon G10 mil-strap with titanium hardware Available in raw titanium or DLC-coated titanium For everyday missions. Built to be worn, used and marked by the work.",
+   "productType": "Watch",
+   "tags": [
+    "Titanium"
+   ],
+   "options": [
+    {
+     "name": "Variant",
+     "values": [
+      "A-9"
+     ]
+    },
+    {
+     "name": "Date",
+     "values": [
+      "No Date",
+      "Date"
+     ]
+    },
+    {
+     "name": "Coating",
+     "values": [
+      "Raw Titanium",
+      "DLC"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "A-9 / No Date / Raw Titanium",
+     "sku": "HONNR-TI-A9-ND",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "A-9",
+      "No Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "A-9 / No Date / DLC",
+     "sku": "HONNR-DLC-A9-ND",
+     "priceMinor": 105000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "A-9",
+      "No Date",
+      "DLC"
+     ]
+    },
+    {
+     "title": "A-9 / Date / Raw Titanium",
+     "sku": "HONNR-TI-A9-D",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "A-9",
+      "Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "A-9 / Date / DLC",
+     "sku": "HONNR-DLC-A9-D",
+     "priceMinor": 105000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "A-9",
+      "Date",
+      "DLC"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 45,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "For everyday missions.": "Built to be worn, used and marked by the work.",
+    "Low stock": "2 left",
+    "Estimated transit after dispatch": "Canada 2–7 business days, United States 3–10, international 7–21. Shipping charges are shown at checkout. Import duties and taxes may apply.",
+    "A proven automatic movement": "Date uses 9015; No Date uses 90S5. Approximately 42 hours of power reserve."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0476/honnr"
+   ],
+   "hash": "4599a2e76847a9c3"
+  },
+  {
+   "id": "BRD-0476/the-valor-model-11-titanium-mission-watch",
+   "name": "VALOR Model 11 — Titanium Mission Watch",
+   "url": "https://reduxwatch.com/products/the-valor-model-11-titanium-mission-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_Date_Titanium_grade_5.jpg?v=1749054701",
+    "width": 3024,
+    "height": 3024
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_Date_Titanium_grade_5.jpg?v=1749054701",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/IMG_20210409_101519858-01.jpg?v=1763576621",
+     "width": 3003,
+     "height": 2999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR-Model-11.jpg?v=1763576621",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR-Model-11-2.jpg?v=1763576621",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_Titanium_Grade_5_Date_angle.jpg?v=1765214861",
+     "width": 3020,
+     "height": 3020
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_Date_Titanium_grade_5_Angle_1.jpg?v=1763576621",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_Titanium_grade_5_side.jpg?v=1763576621",
+     "width": 3025,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_Date_Titanium_grade_5_flat.jpg?v=1763576621",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_Date_Titanium_grade_5_left.jpg?v=1763576621",
+     "width": 2697,
+     "height": 2697
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_Titanium_grade_5_case_back.jpg?v=1763576621",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_No_Date_Titanium_grade_5.jpg?v=1763576621",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/VALOR_Model_11_No_Date_Titanium_grade_5_angle.jpg?v=1763576621",
+     "width": 3024,
+     "height": 3024
+    }
+   ],
+   "priceMinor": 130000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "WWII Pilot Instrument — Upgraded with modern materials and machinery ... For your missions everyday. *Optional straps shown. Deploys with standard issue Black Ballistic Nylon G10 Mission Strap.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Variant",
+     "values": [
+      "Model 11"
+     ]
+    },
+    {
+     "name": "Date",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    },
+    {
+     "name": "Coating",
+     "values": [
+      "Raw Titanium"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Model 11 / Date / Raw Titanium",
+     "sku": "VALOR-TI-M11-D",
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Model 11",
+      "Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "Model 11 / No Date / Raw Titanium",
+     "sku": "VALOR-TI-M11-ND",
+     "priceMinor": 130000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Model 11",
+      "No Date",
+      "Raw Titanium"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 12,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "other",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dimensions Case": "38 × 45 mm including lugs Thickness: 12 mm Lug width: 20 mm",
+    "Case": "38 × 45 mm including lugs",
+    "Thickness": "12 mm",
+    "Lug width": "20 mm",
+    "DANIEL W.": "VALOR OWNER · UNITED STATES",
+    "Miyota automatic": "9015 for Date, 90S5 for No Date. Approximately 42 hours of reserve."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5bfe9bb4a755739a"
+  },
+  {
+   "id": "BRD-0476/honnr-a-13a-titanium-mission-watch",
+   "name": "HONNR A-13A — Titanium Mission Watch",
+   "url": "https://reduxwatch.com/products/honnr-a-13a-titanium-mission-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/morphing_clock_watch_512x512_updated.gif?v=1715187772",
+    "width": 512,
+    "height": 512
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/morphing_clock_watch_512x512_updated.gif?v=1715187772",
+     "width": 512,
+     "height": 512
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR-A9-straight_side_ee99281b-fd1c-47d5-aff7-6b64d900db3d.png?v=1775504088",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/HONNR-A9-case_back_7e33fbdf-1fdc-49d0-8dd0-73a10a4ddef7.png?v=1775504088",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/Redux_HONNR_A-13A_Titanium_Watch.png?v=1775507248",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/202104ARDXLaunchAnnouncement4.png?v=1775507248",
+     "width": 4267,
+     "height": 4267
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/Redux_HONNR_A-13A_Titanium_Watch.jpg?v=1775507248",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/IMG_20210317_070143137-01.jpg?v=1775507248",
+     "width": 2843,
+     "height": 2843
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/Redux_HONNR_A-13A.png?v=1775507248",
+     "width": 746,
+     "height": 746
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/Redux_HONNR_A-13A_Lume.jpg?v=1775507248",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/Redux_Co._HONNR_A-13A_Titanium_grade_5.jpg?v=1775507248",
+     "width": 2598,
+     "height": 2598
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/Redux-HONNR-A13A-Titanium.jpg?v=1775507248",
+     "width": 450,
+     "height": 450
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/BN1-OD-Flat_Lay.jpg?v=1775507248",
+     "width": 884,
+     "height": 884
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "WWII Pilot Instrument — Upgraded with modern materials and machinery ... For your missions everyday. ***PLS NOTE: Production units are full C3 Green lume for higher visibility, no etched directional arrow on the case, and solid lumed triangle on rotating ceramic bezel insert. See last photo for production model. DLC HONNR will ship with matching DLC strap hardware.",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Variant",
+     "values": [
+      "A-13A"
+     ]
+    },
+    {
+     "name": "Date",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    },
+    {
+     "name": "Coating",
+     "values": [
+      "Raw Titanium",
+      "DLC"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "A-13A / Date / Raw Titanium",
+     "sku": "HONNR-TI-A13-D",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "A-13A",
+      "Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "A-13A / Date / DLC",
+     "sku": "HONNR-DLC-A13-D",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "A-13A",
+      "Date",
+      "DLC"
+     ]
+    },
+    {
+     "title": "A-13A / No Date / Raw Titanium",
+     "sku": "HONNR-TI-A13-ND",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "A-13A",
+      "No Date",
+      "Raw Titanium"
+     ]
+    },
+    {
+     "title": "A-13A / No Date / DLC",
+     "sku": "HONNR-DLC-A13-ND",
+     "priceMinor": 99500,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "A-13A",
+      "No Date",
+      "DLC"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Low stock": "3 left",
+    "Estimated transit after dispatch": "Canada 2–7 business days, United States 3–10, international 7–21. Shipping charges are shown at checkout. Import duties and taxes may apply.",
+    "A proven automatic movement": "Date uses 9015; No Date uses 90S5. Approximately 42 hours of power reserve."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0476/honnr"
+   ],
+   "hash": "f04b16238b73b27b"
+  },
+  {
+   "id": "BRD-0476/the-courg-watch-minimalist-39mm",
+   "name": "COURG : Minimalist",
+   "url": "https://reduxwatch.com/products/the-courg-watch-minimalist-39mm",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-Minimalist-Date-0064-opt.jpg?v=1527185772",
+    "width": 2048,
+    "height": 2047
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-Minimalist-Date-0064-opt.jpg?v=1527185772",
+     "width": 2048,
+     "height": 2047
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-Minimalist-ND-0067-opt.jpg?v=1527185772",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-Minimalist-ND-0100-opt.jpg?v=1527185772",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-0124-opt_3510d04b-9128-4ebe-9323-d1c3875b9373.jpg?v=1527185772",
+     "width": 2048,
+     "height": 2047
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-0074-opt_4e0211bf-b117-4d97-8a62-61f6b513bd1e.jpg?v=1527185772",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/P1010152_ballistic_rolled_wide_1024x1024-opt_ee3c3049-1ad8-44bc-9773-840462f4e8cb.jpg?v=1527185772",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-box-opt_6c285a9c-2934-404d-be9b-00c12e431f9e.jpg?v=1527185772",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "REDUX FIELD NOTES / THE NEXT CHAPTER The COURG mission continues. You're viewing the original 39 mm COURG, the watch that started Redux & Co. COURG42 carries that purpose forward in a 42 mm Grade 5 titanium instrument, with independent inner and outer rotating timing bezels for the missions ahead. EXPLORE COURG42 → FIELD REPORTS #COURG Crew = COURAGE The COURG ORIGIN: Mission critical pilot instruments, fused with diver tools. COURG is a way point, which is a navigational tool used by pilots to chart their flight across the globe. Way points are composed of 5-letters and made to be spoken as a word so pilots can quickly transmit their location via radio. This particular way point stands just outside Washington, DC and as you probably guessed -- is pronounced COURAGE . We chose COURG because courage is a character trait we could all use more of -- choosing to make the right and often difficult decisions even when we know the going will get tough. MINIMALIST: Ruggedized Architectural German Design We extracted its design DNA from the Bauhaus (literally \"construction house\" or \"school of building\") modernist movement, begun in the 1920s. This design was hatched over coffee with a friend when he mentioned that he really liked the Bauhaus design aesthetic. I initially thought the rugged case would clash with a minimal dial, but through countless iterations, we honed the concept. We honored the purposeful Bauhaus philosophy and implemented linear accents that also preserved the quick read priority. Titanium encased. Powered by your adventures. Built from premium materials inside and out with scratch-resistant sapphire crystal, which we've coated with an anti-reflective glare layer. Titanium grade 5, bead blasted and 50% lighter than a stainless steel equivalent. The uni-directional titanium bezel prevents accidental rotation, and provides rugged precision machined teeth for grip. This watch is rated to 20 ATM with a screw down crown and streamlined crown guards to protect the movement from external shocks. The dial is matte black with our proprietary RDXb1 luminous paint that glows a true blue at night, paired with a C3 green second hand and bezel marker. Our date window cutout is circular to increase visibility of the numeral and add to the overall iconic design, with white numerals on black. CRITICAL REVIEW \" Offers what so many watches these days don't : a variety of unique, nuanced faces inspired by iconic designs in watch history at a very versatile and wearable 39mm size.\" Bernard Capulong, Everyday Carry \" Mission accomplished. \" Editor, Gear Hungry \"I've been searching for a watch like this for years . Pledging as soon as it's live!\" Z. Petit, PRINT magazine editor \"The COURG blends a number of different elements into one attractive package .\" James Enloe, Worn & Wound Value and solid build in a pared-down, dependable titanium design. Gavin Yeung, Hypebeast \"I like the project and would enthusiastically recommend it ... jump on it in a hot second .\" M. Himmelstein, Wrist Watch Review SPECIFICATIONS Case, Case Back, Crown, Bezel : Titanium grade 5 Case Back : Deep corrosion etched, screw back Crown : Screw down, with RDX logo Dial : Matte Black with vintage white numerals with RDXb1 blue lume Hands : Lumed with RDXb1 blue and C3 green Functions : Hour, minutes, seconds, date Rotating Bezel : Uni-directional, C3 lume marker Water Resistance : 20 ATM Movement : Automatic Seiko SII Instruments NH35A (21,600 bph, 41 hour power reserve, 24 jewels) Time Set: Hacking Movement holder : Brass Date : White on black calendar wheel Lugs : Drilled with shoulderless pins Weight : 1.8 oz. (51 grams, ~50% lighter than steel equivalent) Dimensions : Width (w/o crown) / 39mm Height / 13.7 mm Lug-to-lug 46.6 mm Lug-to-lug (strap) 20 mm Lug width 3.4 mm Standard Issue Strap : Black ballistic nylon Mil-Strap/G10/NATO equipped with Titanium hardware",
+   "productType": "Watch",
+   "tags": [
+    "Black"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Titanium grade 5"
+     ]
+    },
+    {
+     "name": "Date Window",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    },
+    {
+     "name": "color",
+     "values": [
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Titanium grade 5 / Date / Black",
+     "sku": "T535AMD",
+     "priceMinor": 45000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 5",
+      "Date",
+      "Black"
+     ]
+    },
+    {
+     "title": "Titanium grade 5 / No Date / Black",
+     "sku": "T535AMND",
+     "priceMinor": 45000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 5",
+      "No Date",
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 10,
+    "lugToLugMm": 46.6,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Case Back": "Deep corrosion etched, screw back",
+    "Crown": "Screw down, with RDX logo",
+    "Dial": "Matte Black with vintage white numerals with RDXb1 blue lume",
+    "Hands": "Lumed with RDXb1 blue and C3 green",
+    "Functions": "Hour, minutes, seconds, date",
+    "Rotating Bezel": "Uni-directional, C3 lume marker",
+    "Water Resistance": "20 ATM",
+    "Movement": "Automatic Seiko SII Instruments NH35A (21,600 bph, 41 hour power reserve, 24 jewels)",
+    "Time Set": "Hacking",
+    "Movement holder": "Brass",
+    "Date": "White on black calendar wheel",
+    "Lugs": "Drilled with shoulderless pins",
+    "Weight": "1.8 oz. (51 grams, ~50% lighter than steel equivalent)",
+    "Standard Issue Strap": "Black ballistic nylon Mil-Strap/G10/NATO equipped with Titanium hardware",
+    "Lug width 3.4 mm Standard Issue Strap": "Black ballistic nylon Mil-Strap/G10/NATO equipped with Titanium hardware View full details",
+    "COURG": "Minimalist COURG : Minimalist",
+    "Decrease quantity for COURG": "Minimalist Increase quantity for COURG : Minimalist",
+    "Increase quantity for COURG": "Minimalist"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0476/black",
+    "BRD-0476/courg-tigr2",
+    "BRD-0476/courg-variants",
+    "BRD-0476/new-collections",
+    "BRD-0476/titanium-grade-2"
+   ],
+   "hash": "6e90a452179946fc"
+  },
+  {
+   "id": "BRD-0476/courg-watch-type-a-39mm",
+   "name": "COURG : Type-A",
+   "url": "https://reduxwatch.com/products/courg-watch-type-a-39mm",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-COURG-TiGr5-Type-A-Date-0045-opt.jpg?v=1527185773",
+    "width": 2048,
+    "height": 2047
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-COURG-TiGr5-Type-A-Date-0045-opt.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2047
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-COURG-TiGr5-Type-A-ND-0039-opt.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2047
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-COURG-TiGr5-Type-A-ND-0077-opt.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-0074-opt.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-0124-opt.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2047
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/P1010152_ballistic_rolled_wide_1024x1024-opt.jpg?v=1527185773",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-box-opt.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-COURG-TiGr2-Type-A-Date-0265-opt.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-COURG-TiGr2-Type-A-ND-0268-opt.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-COURG-TypeA-compare.jpg?v=1527185773",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 39500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "REDUX FIELD NOTES / THE NEXT CHAPTER The COURG mission continues. You're viewing the original 39 mm COURG, the watch that started Redux & Co. COURG42 carries that purpose forward in a 42 mm Grade 5 titanium instrument, with independent inner and outer rotating timing bezels for the missions ahead. EXPLORE COURG42 → FIELD REPORTS #COURG = COURAGE The COURG ORIGIN: Mission critical pilot instruments, fused with diver tools. COURG is a way point, which is a navigational tool used by pilots to chart their flight across the globe. Way points are composed of 5-letters and made to be spoken as a word so pilots can quickly transmit their location via radio. This particular way point stands just outside Washington, DC and as you probably guessed -- is pronounced COURAGE . We chose COURG because courage is a character trait we could all use more of -- choosing to make the right and often difficult decisions even when we know the going will get tough. TYPE-A: Upgraded Iconic German Design The German aircraft ministry developed designs for their WWII pilots, called B-Uhren -- short for Beobachtungs-uhren (\"Observation Watch\"). and is often referred to as a Type A or Flieger. The Luftwaffe owned these watches, and the pilots were forced to return them after each mission. These were 55mm! We translated the legendary Type-A design into a classic 39mm size and implemented a date window at 4PM. Then we updated all the materials and machinery. Titanium encased. Powered by your adventures. Built from premium materials inside and out with scratch-resistant sapphire crystal, which we've coated with an anti-reflective glare layer. Titanium grade 2 or grade 5, bead blasted and 50% lighter than a stainless steel equivalent. The uni-directional titanium bezel prevents accidental rotation, and provides rugged precision machined teeth for grip. This watch is rated to 15ATM (Ti.Gr2) or 20 ATM (Ti.Gr5) with a screw down crown and streamlined crown guards to protect the movement from external shocks. The dial is matte black with our proprietary RDXb1 luminous paint that glows a true blue at night, paired with a C3 green second hand and bezel marker. Our date window cutout is circular to increase visibility of the numeral and add to the overall iconic design, with white numerals on black. CRITICAL REVIEW \" Offers what so many watches these days don't : a variety of unique, nuanced faces inspired by iconic designs in watch history at a very versatile and wearable 39mm size.\" Bernard Capulong, Everyday Carry \" Mission accomplished.\" Mike, Editor, Gear Hungry \"I've been searching for a watch like this for years . Pledging as soon as it's live!\" Z. Petit, PRINT magazine editor \"The COURG blends a number of different elements into one attractive package .\" James Enloe, Worn & Wound Value and solid build in a pared-down, dependable titanium design. Gavin Yeung, Hypebeast \"I like the project and would enthusiastically recommend it ... jump on it in a hot second .\" M. Himmelstein, Wrist Watch Review SPECIFICATIONS Case, Case Back, Crown, Bezel : Titanium grade 2 or Titanium grade 5 Case Back : Deep corrosion etched, screw back Crown : Screw down, with RDX logo Dial : Matte Black with vintage white numerals with RDXb1 blue lume Hands : Lumed with RDXb1 blue and C3 green Functions : Hour, minutes, seconds, date Rotating Bezel : Uni-directional 90-click (Ti.Gr5) / 120-click (Ti.Gr2), C3 lume marker Water Resistance : 15 ATM (Ti.Gr2) / 20 ATM (Ti.Gr5) Movement : Automatic Seiko SII Instruments NH35A (21,600 bph, 41 hour power reserve, 24 jewels) Time Set: Hacking Movement holder : Brass Date : White on black calendar wheel Lugs : Drilled with shoulderless pins Weight : 1.8 oz. (51 grams, ~50% lighter than steel equivalent) Dimensions : Width (w/o crown) / 39mm Height / 13.7 mm Lug-to-lug 46.6 mm Lug-to-lug (strap) 20 mm Lug width 3.4 mm Standard Issue Strap : Black ballistic nylon G10/NATO/Mil-strap, Titanium hardware equipped solid one-piece buckle, which means there'",
+   "productType": "Watch",
+   "tags": [
+    "Black",
+    "COURG",
+    "Diver",
+    "Flieger",
+    "Hybrid",
+    "Pilot",
+    "Titanium",
+    "Type-A"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Titanium grade 5",
+      "Titanium grade 2"
+     ]
+    },
+    {
+     "name": "Date Window",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    },
+    {
+     "name": "color",
+     "values": [
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Titanium grade 5 / Date / Black",
+     "sku": "T535AAD",
+     "priceMinor": 45000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 5",
+      "Date",
+      "Black"
+     ]
+    },
+    {
+     "title": "Titanium grade 5 / No Date / Black",
+     "sku": "T535AAND",
+     "priceMinor": 45000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 5",
+      "No Date",
+      "Black"
+     ]
+    },
+    {
+     "title": "Titanium grade 2 / Date / Black",
+     "sku": "T235AAD",
+     "priceMinor": 39500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 2",
+      "Date",
+      "Black"
+     ]
+    },
+    {
+     "title": "Titanium grade 2 / No Date / Black",
+     "sku": "T235AAND",
+     "priceMinor": 39500,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 2",
+      "No Date",
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 10,
+    "lugToLugMm": 46.6,
+    "thicknessMm": null,
+    "waterResistanceM": 150,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Case Back": "Deep corrosion etched, screw back",
+    "Crown": "Screw down, with RDX logo",
+    "Dial": "Matte Black with vintage white numerals with RDXb1 blue lume",
+    "Hands": "Lumed with RDXb1 blue and C3 green",
+    "Functions": "Hour, minutes, seconds, date",
+    "Rotating Bezel": "Uni-directional 90-click (Ti.Gr5) / 120-click (Ti.Gr2), C3 lume marker",
+    "Water Resistance": "15 ATM (Ti.Gr2) / 20 ATM (Ti.Gr5)",
+    "Movement": "Automatic Seiko SII Instruments NH35A (21,600 bph, 41 hour power reserve, 24 jewels)",
+    "Time Set": "Hacking",
+    "Movement holder": "Brass",
+    "Date": "White on black calendar wheel",
+    "Lugs": "Drilled with shoulderless pins",
+    "Weight": "1.8 oz. (51 grams, ~50% lighter than steel equivalent)",
+    "Standard Issue Strap": "Black ballistic nylon G10/NATO/Mil-strap, Titanium hardware equipped solid one-piece buckle, which means there's none of the conventional spring bar weak points. Etched buckle and keeper.",
+    "Lug width 3.4 mm Standard Issue Strap": "Black ballistic nylon G10/NATO/Mil-strap, Titanium hardware equipped solid one-piece buckle, which means there's none of the conventional spring bar weak points. Etched buckle and keeper. View full details",
+    "COURG": "Type-A COURG : Type-A",
+    "Decrease quantity for COURG": "Type-A Increase quantity for COURG : Type-A",
+    "Increase quantity for COURG": "Type-A"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0476/courg-tigr2",
+    "BRD-0476/courg-variants",
+    "BRD-0476/zero-hour-type-b",
+    "BRD-0476/titanium-grade-2-watches-with-no-dates",
+    "BRD-0476/titanium-grade-2"
+   ],
+   "hash": "81b129b2986b1089"
+  },
+  {
+   "id": "BRD-0476/courg-a-11-us-navy-squadron-special-edition",
+   "name": "COURG : A-11 US Navy Squadron Special Edition",
+   "url": "https://reduxwatch.com/products/courg-a-11-us-navy-squadron-special-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/COURG_A11_USN_s-01.jpg?v=1690836351",
+    "width": 1200,
+    "height": 1218
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/files/COURG_A11_USN_s-01.jpg?v=1690836351",
+     "width": 1200,
+     "height": 1218
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/COURG_USN_A11.png?v=1690836351",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr2-0237.jpg?v=1690836351",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr2-0246.jpg?v=1690836351",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/P1010152_ballistic_rolled_wide_1024x1024-opt_a7630064-af25-4cb7-9873-694d98b38290.jpg?v=1690836351",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-box-opt_e5049f56-3b5b-41e3-b8ec-5f8fb655d2a6.jpg?v=1690836351",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 54900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "REDUX FIELD NOTES / THE NEXT CHAPTER The COURG mission continues. You're viewing the original 39 mm COURG, the watch that started Redux & Co. COURG42 carries that purpose forward in a 42 mm Grade 5 titanium instrument, with independent inner and outer rotating timing bezels for the missions ahead. EXPLORE COURG42 → *cockpit not included* With bonus black American Wickett & Craig leather, American hand made two-piece leather strap. FIELD REPORTS #COURG = COURAGE Only 50 made. Only 21 17 1 available to the public. This is an extremely limited special edition of the COURG A-11 that we made for a squadron of Navy fliers and their crew of 29. We had a minimum order of 50 for the contract, but we still wanted to make it happen for them. The squadron wanted some specific visual cues taken from their cockpit instrument panels and so we made these painstakingly hand painted second hands we affectionately call the \"hazards.\" We sold out of these long ago, but recently discovered one watch ready to fly solo. That means we have 21 17 1 left for you. We won't be making anymore of these. The COURG ORIGIN: Mission critical pilot instruments, fused with diver tools. COURG is a way point, which is a navigational tool used by pilots to chart their flight across the globe. Way points are composed of 5-letters and made to be spoken as a word so pilots can quickly transmit their location via radio. This particular way point stands just outside Washington, DC and as you probably guessed -- is pronounced COURAGE . We chose COURG because courage is a character trait we could all use more of -- choosing to make the right and often difficult decisions even when we know the going will get tough. A-11: American Legend The COURG A-11 pays tribute to the WWII American fighter pilots who strapped these timepieces to their wrists and helped lead to the Allies' victory . When we embarked with the goal to build the perfect timepiece forged for every adventure, we turned to mission critical pilot instruments, which helped the Allied air corp and troops win World War II. We selected the time-tested and proven A-11, a classification of original American designs based on a military spec for aviator wrist watches. The U.S. military contracted multiple American watch companies to build these watches and called this specification A-11. Three manufacturers produced hundreds of thousands of these for Allied airmen who flew countless sorties against enemy targets. Although originally designed for flight navigation , the excellent design later trickled down to ground troops . The A-11 production standard used a hand wound 7 to 16 jewel movement. These had smooth sweep and hacking seconds. A plastic crystal covered the lumed hands. The case was 27mm dust and water resistant chromed nickel alloy/brass, in order to save stainless steel for other war purposes. Manufacturers painted the dials black and used white numerals and markers for high contrast visibility . In addition, manufacturers were not allowed to mark the dial, thus giving the watch a clean logo-less finish . Watchmakers made many different designs — some with minute railroad tracks (left), others with circular hour markers (center), yet others in 24-hours and with red counterbalance second hands (right). COURG A-11. Heritage x Reliability + Upgrades We translated the iconic A-11 design into a classic 39mm size and implemented a date window at 4PM. From the moment we first learned about the A-11 watches, we wanted to honor the legacy . So, we preserved all the original specs as a starting point, then upgraded the materials [titanium and sapphire], movement [24 jewel auto], standards [20ATM], and functions [rotating bezel, date]. Titanium encased. Powered by your adventures. Built from premium materials inside and out with scratch-resistant sapphire crystal, which we've coated with an anti-reflective glare layer. Bead Blasted titanium grade 2, which translates to 50% lighter than a stainless steel equivalent and ",
+   "productType": "Watch",
+   "tags": [
+    "A-11",
+    "COURG",
+    "Diver",
+    "Flieger",
+    "Hybrid",
+    "Pilot",
+    "Special Edition",
+    "Titanium"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Titanium grade 5"
+     ]
+    },
+    {
+     "name": "Date Window",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Titanium grade 5 / Date / Black",
+     "sku": "T235AA11DV",
+     "priceMinor": 55000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 5",
+      "Date",
+      "Black"
+     ]
+    },
+    {
+     "title": "Titanium grade 5 / No Date / Black",
+     "sku": "T535AA11NDV",
+     "priceMinor": 54900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 5",
+      "No Date",
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 150,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "nato"
+   },
+   "specsRaw": {
+    "Case Back": "Deep corrosion etched, screw back",
+    "Crown": "Screw down, with RDX logo",
+    "Dial": "Matte Black with vintage white numerals with RDXb1 blue lume",
+    "Hands": "Lumed with RDXb1 blue and C3 green",
+    "Functions": "Hour, minutes, seconds, date",
+    "Rotating Bezel": "Uni-directional 120-click, C3 lume marker",
+    "Water Resistance": "15 ATM",
+    "Movement": "Automatic Seiko SII Instruments NH35A (21,600 bph, 41 hour power reserve, 24 jewels)",
+    "Time Set": "Hacking",
+    "Movement holder": "Brass",
+    "Date": "White on black calendar wheel",
+    "Lugs": "Drilled with shoulderless pins",
+    "Weight": "1.8 oz. (51 grams, ~50% lighter than steel equivalent)",
+    "Standard Issue Straps": "Ballistic nylon Mil-Strap/G10/NATO equipped with Titanium hardware & Two-piece American made, American leather from Wickett & Craig.",
+    "Lug width 3.4 mm Standard Issue Straps": "Ballistic nylon Mil-Strap/G10/NATO equipped with Titanium hardware & Two-piece American made, American leather from Wickett & Craig. View full details",
+    "COURG": "A-11 US Navy Squadron Special Edition COURG : A-11 US Navy Squadron Special Edition",
+    "Decrease quantity for COURG": "A-11 US Navy Squadron Special Edition Increase quantity for COURG : A-11 US Navy Squadron Special Edition",
+    "Increase quantity for COURG": "A-11 US Navy Squadron Special Edition"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0476/courg-tigr2",
+    "BRD-0476/courg-variants",
+    "BRD-0476/new-collections",
+    "BRD-0476/titanium-grade-2"
+   ],
+   "hash": "e5e162d5ebff6c5a"
+  },
+  {
+   "id": "BRD-0476/the-courg-watch-zero-hour-39mm",
+   "name": "COURG : Zero-Hour",
+   "url": "https://reduxwatch.com/products/the-courg-watch-zero-hour-39mm",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-Zero-Hour-Date-0061-opt.jpg?v=1579659675",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-Zero-Hour-Date-0061-opt.jpg?v=1579659675",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-Zero-Hour-ND-0108-opt.jpg?v=1579659675",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-0124-opt_cdc0c749-d009-495e-900d-40d5a6fc6a02.jpg?v=1579659675",
+     "width": 2048,
+     "height": 2047
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-0074-opt_c00ebb16-4e7d-4b5c-9b45-042354f09d44.jpg?v=1579659675",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/redux_black_leather_2_piece_strap_grande_1e1282e0-aad7-470a-b34a-176943369b17.jpg?v=1656700970",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-TiGr5-0244.jpg?v=1656700970",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/bb8_zero-hour.png?v=1656700970",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1133/2956/products/REDUX-box-opt_7606e7ac-7050-4ce9-85ec-0f678c38f59a.jpg?v=1656700970",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "REDUX FIELD NOTES / THE NEXT CHAPTER The COURG mission continues. You're viewing the original 39 mm COURG, the watch that started Redux & Co. COURG42 carries that purpose forward in a 42 mm Grade 5 titanium instrument, with independent inner and outer rotating timing bezels for the missions ahead. EXPLORE COURG42 → FIELD REPORTS #COURG = COURAGE The COURG ORIGIN: Mission critical pilot instruments, fused with diver tools. COURG is a way point, which is a navigational tool used by pilots to chart their flight across the globe. Way points are composed of 5-letters and made to be spoken as a word so pilots can quickly transmit their location via radio. This particular way point stands just outside Washington, DC and as you probably guessed -- is pronounced COURAGE . We chose COURG because courage is a character trait we could all use more of -- choosing to make the right and often difficult decisions even when we know the going will get tough. ZERO-HOUR: LEAN, MEAN, MACHINE. Refined to the core 3-6-9 hour elements, this dial is driven by diver watch functionality where distractions are stripped away to only essential elements that optimize legibility in murky conditions and aid instant instrument readouts. Zero-Hour is the military term for the scheduled time of a mission. We selected a classic 39mm size and implemented a date window at 4PM. Titanium encased. Powered by your adventures. Built from premium materials inside and out with scratch-resistant sapphire crystal, which we've coated with an anti-reflective glare layer. Titanium grade 5, bead blasted and 50% lighter than a stainless steel equivalent. The uni-directional titanium bezel prevents accidental rotation, and provides rugged precision machined teeth for grip. This watch is rated to 20 ATM with a screw down crown and streamlined crown guards to protect the movement from external shocks. The dial is matte black with our proprietary RDXb1 luminous paint that glows a true blue at night, paired with a C3 green second hand and bezel marker. Our date window cutout is circular to increase visibility of the numeral and add to the overall iconic design, with white numerals on black. CRITICAL REVIEW \" Offers what so many watches these days don't : a variety of unique, nuanced faces inspired by iconic designs in watch history at a very versatile and wearable 39mm size.\" Bernard Capulong, Everyday Carry \" Mission accomplished.\" Mike, Editor, Gear Hungry \"I've been searching for a watch like this for years . Pledging as soon as it's live!\" Z. Petit, PRINT magazine editor \"The COURG blends a number of different elements into one attractive package .\" James Enloe, Worn & Wound Value and solid build in a pared-down, dependable titanium design. Gavin Yeung, Hypebeast \"I like the project and would enthusiastically recommend it ... jump on it in a hot second .\" M. Himmelstein, Wrist Watch Review SPECIFICATIONS Case, Case Back, Crown, Bezel : Titanium grade 5 Case Back : Deep corrosion etched, screw back Crown : Screw down, with RDX logo Dial : Matte Black with vintage white numerals with RDXb1 blue lume Hands : Lumed with RDXb1 blue and C3 green Functions : Hour, minutes, seconds, date Rotating Bezel : Uni-directional, C3 lume marker Water Resistance : 20 ATM Movement : Automatic Seiko SII Instruments NH35A (21,600 bph, 41 hour power reserve, 24 jewels) Time Set: Hacking Movement holder : Brass Date : White on black calendar wheel Lugs : Drilled with shoulderless pins Weight : 1.8 oz. (51 grams, ~50% lighter than steel equivalent) Dimensions : Width (w/o crown) / 39mm Height / 13.7 mm Lug-to-lug 46.6 mm Lug-to-lug (strap) 20 mm Lug width 3.4 mm American Made Leather Strap : Our classic two-piece strap, Titanium hardware equipped buckle with e tched buckle and keeper.",
+   "productType": "Watch",
+   "tags": [
+    "Black",
+    "COURG",
+    "Diver",
+    "Flieger",
+    "Hybrid",
+    "Pilot",
+    "Titanium",
+    "Zero-Hour"
+   ],
+   "options": [
+    {
+     "name": "Material",
+     "values": [
+      "Titanium grade 5"
+     ]
+    },
+    {
+     "name": "Date Window",
+     "values": [
+      "Date",
+      "No Date"
+     ]
+    },
+    {
+     "name": "color",
+     "values": [
+      "Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Titanium grade 5 / Date / Black",
+     "sku": "T535AZD",
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 5",
+      "Date",
+      "Black"
+     ]
+    },
+    {
+     "title": "Titanium grade 5 / No Date / Black",
+     "sku": "T535AZND",
+     "priceMinor": 45000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Titanium grade 5",
+      "No Date",
+      "Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.6,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case Back": "Deep corrosion etched, screw back",
+    "Crown": "Screw down, with RDX logo",
+    "Dial": "Matte Black with vintage white numerals with RDXb1 blue lume",
+    "Hands": "Lumed with RDXb1 blue and C3 green",
+    "Functions": "Hour, minutes, seconds, date",
+    "Rotating Bezel": "Uni-directional, C3 lume marker",
+    "Water Resistance": "20 ATM",
+    "Movement": "Automatic Seiko SII Instruments NH35A (21,600 bph, 41 hour power reserve, 24 jewels)",
+    "Time Set": "Hacking",
+    "Movement holder": "Brass",
+    "Date": "White on black calendar wheel",
+    "Lugs": "Drilled with shoulderless pins",
+    "Weight": "1.8 oz. (51 grams, ~50% lighter than steel equivalent)",
+    "American Made Leather Strap": "Our classic two-piece strap, Titanium hardware equipped buckle with e tched buckle and keeper.",
+    "Lug width 3.4 mm American Made Leather Strap": "Our classic two-piece strap, Titanium hardware equipped buckle with e tched buckle and keeper. View full details",
+    "COURG": "Zero-Hour COURG : Zero-Hour",
+    "Decrease quantity for COURG": "Zero-Hour Increase quantity for COURG : Zero-Hour",
+    "Increase quantity for COURG": "Zero-Hour"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:23:02.434Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:23:02.434Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0476/courg-tigr2",
+    "BRD-0476/courg-variants",
+    "BRD-0476/titanium-grade-2-watches-with-no-dates",
+    "BRD-0476/titanium-grade-2"
+   ],
+   "hash": "9cd2cc903d5993c1"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0476/black",
+   "name": "Black",
+   "url": "https://reduxwatch.com/collections/black",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0476/courg-tigr2",
+   "name": "COURG Titanium Grade 2",
+   "url": "https://reduxwatch.com/collections/courg-tigr2",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/collections/REDUX-TiGr2-Type-A-Date-0265.jpg?v=1511757895",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0476/courg-variants",
+   "name": "COURG VARIANTS",
+   "url": "https://reduxwatch.com/collections/courg-variants",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1133/2956/collections/Edited-DSC_0956-01-01.jpg?v=1510086959",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0476/honnr",
+   "name": "HONNR",
+   "url": "https://reduxwatch.com/collections/honnr",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0476/zero-hour-type-b",
+   "name": "Iconic WWII pilot instrument meets modern science.",
+   "url": "https://reduxwatch.com/collections/zero-hour-type-b",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0476/new-collections",
+   "name": "New Collections",
+   "url": "https://reduxwatch.com/collections/new-collections",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0476/titanium-grade-2-watches-with-no-dates",
+   "name": "Titanium Grade 2 Watches with no dates",
+   "url": "https://reduxwatch.com/collections/titanium-grade-2-watches-with-no-dates",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0476/titanium-grade-2",
+   "name": "Titanium Grade 2 with date",
+   "url": "https://reduxwatch.com/collections/titanium-grade-2",
+   "description": null,
+   "image": null
+  }
+ ]
+}

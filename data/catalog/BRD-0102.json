@@ -1,0 +1,250 @@
+{
+ "brandId": "BRD-0102",
+ "brandName": "Black Corner",
+ "website": "https://www.black-corner.com",
+ "crawledAt": "2026-11-01T06:40:00.146Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.black-corner.com/bc-logo/black-corner-logo-small.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.black-corner.com/"
+ },
+ "attribution": "Images © Black Corner, from black-corner.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0102/star-nero",
+   "name": "Neoma Star Nero",
+   "url": "https://www.black-corner.com/watches/star-nero",
+   "image": {
+    "url": "https://www.black-corner.com/watches/star-nero/lifestyle-01.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.black-corner.com/watches/star-nero/lifestyle-01.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/watches/star-nero/lifestyle-02.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/watches/star-nero/lifestyle-03.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/watches/star-nero/macro-01.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/watches/star-nero/macro-02.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/watches/star-nero/macro-03.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/watches/star-nero/caseback.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 99500,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "Sold out, 100 numbered pieces. A free-sprung balance suspended dial-side under a polished steel arch, over a three-texture sector dial. 41 mm steel, F28-12 automatic.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 15.2,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 42,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:40:00.146Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:40:00.146Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a4dd00aa5e9e2a10"
+  },
+  {
+   "id": "BRD-0102/sailing-stones",
+   "name": "Sailing Stones",
+   "url": "https://www.black-corner.com/watches/sailing-stones",
+   "image": {
+    "url": "https://www.black-corner.com/watches/sailing-stones/sailing-stones-metal-front.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.black-corner.com/watches/sailing-stones/sailing-stones-metal-front.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 65000,
+   "currency": "EUR",
+   "availability": "preorder",
+   "description": "Sailing Stones is the first watch in Time's Traces, Black Corner's collection inspired by strange phenomena and the marks time leaves on the world around us. The hammered sand-gold dial is the dry bed of Racetrack Playa. The anthracite-tipped Grande Minute is the moving stone; the black central disc, cut in helical guilloché, is its trail. Tonneau 316L steel case with curved flanks, sapphire crystal front and back, Miyota 8215 Japanese automatic, 5 ATM. Limited to 100 pieces.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 18,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:40:00.146Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:40:00.146Z",
+     "availability": "preorder"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0102/the-wormhole"
+   ],
+   "hash": "b0054f0f0e9eee1e"
+  },
+  {
+   "id": "BRD-0102/the-wormhole",
+   "name": "The Wormhole",
+   "url": "https://www.black-corner.com/watches/the-wormhole",
+   "image": {
+    "url": "https://www.black-corner.com/watches/watch-wormhole.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.black-corner.com/watches/watch-wormhole.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/watches/watch-wormhole-2.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/watches/watch-wormhole-3.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/wormhole-lifestyle/wormhole-tourbillon-musou-black-3.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/wormhole-lifestyle/wormhole-tourbillon-musou-black-4.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/wormhole-lifestyle/wormhole-tourbillon-musou-black-6.jpg",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://www.black-corner.com/wormhole-lifestyle/wormhole-tourbillon-musou-black-7.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 300000,
+   "currency": "EUR",
+   "availability": "sold_out",
+   "description": "A flying tourbillon timepiece exploring space-time philosophy with Musou Black™ dial (99.4% light absorption) and octagonal 316L steel case. Swiss-assembled Tourbillon Volant Central 37Z0 movement. Limited to 88 individually numbered pieces worldwide.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Limited to 88 pieces worldwide.": "Positioned as wearable art and conceptual design , each numbered piece with certificate. Exclusive ownership circle that may never reopen .",
+    "Black Corner brought the vision": "a watch that makes you feel something every time you check the time. Black-Out Watches brought the execution: a movement precise enough to define the piece , finished to standards that rival watches costing five times more ."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:40:00.146Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:40:00.146Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9085e039b696aa96"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0102/the-wormhole",
+   "name": "The Wormhole",
+   "url": "https://www.black-corner.com/watches/the-wormhole",
+   "description": "Limited to 88 pieces worldwide. Tourbillon Volant Central 37Z0 movement, Musou Black™ dial (99.4% light absorption), octagonal 316L steel case. Swiss assembly. Now sold out — all 88 numbered pieces have been claimed.",
+   "image": {
+    "url": "https://viewnispace.ams3.cdn.digitaloceanspaces.com/black-corner/site-v2/images/landing-share-wormhole.jpg",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

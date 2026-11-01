@@ -1,0 +1,1851 @@
+{
+ "brandId": "BRD-1044",
+ "brandName": "Knopf",
+ "website": "https://knopfwatches.com",
+ "crawledAt": "2026-11-01T07:39:00.893Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://knopfwatches.com/cdn/shop/files/Logo_White.png?v=1704502109",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://knopfwatches.com/"
+ },
+ "attribution": "Images © Knopf, from knopfwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1044/knopf-apex-smoke-leather",
+   "name": "KNOPF APEX SMOKE - LEATHER",
+   "url": "https://knopfwatches.com/products/knopf-apex-smoke-leather",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_black_croc_black_8f3ac538-4f05-4903-8b22-95aa0610a60c.jpg?v=1727201176",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_black_croc_black_8f3ac538-4f05-4903-8b22-95aa0610a60c.jpg?v=1727201176",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_16.png?v=1742996115",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose6blackcroc.jpg?v=1742996115",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_2_black_croc_9d0e4c23-cec0-4ee4-a142-f77442279517.jpg?v=1742996115",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_5_croc_black_1c5ec7d3-eb20-47ff-ab76-e313c7448b2a.jpg?v=1742996115",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_black_croc_blue.jpg?v=1742996115",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/IMG_30882_868d7154-ecbd-4341-927d-fb32ef7e4163.jpg?v=1742996115",
+     "width": 2640,
+     "height": 3960
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_5_043644bd-500f-41b4-b87d-cb5924b8fcce.png?v=1742996115",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_7_a81638b0-208f-48af-869b-260247f83336.png?v=1742996115",
+     "width": 2000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_6_9df54339-f5e7-41d6-9775-e599dc52c1c0.png?v=1742996115",
+     "width": 1200,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 42400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built in the USA, this men’s watch combines modern aesthetics with robust performance. The 40mm cushion case fits comfortably on any wrist, powered by a rugged Seiko automatic movement and ready for any adventure with 200m water resistance. Perfectly styled to move from day to night. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material,parts and manufacturing defects. MOVEMENT: Seiko Caliber NH35 POWER RESERVE: 41 Hours CASE MATERIALS: Solid 316L Stainless Steel GLASS: Sapphire Crystal WATER RESISTANCE: 20 ATM/200 Meters CASE DIAMETER: 40mm LUG-TO-LUG: 48mm CASE HEIGHT: 12mm LUG WIDTH: 20mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "LEATHER STRAP",
+     "values": [
+      "BLACK",
+      "BLUE"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "BLACK",
+     "sku": "APX-SMOKE-BLKL-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLACK"
+     ]
+    },
+    {
+     "title": "BLUE",
+     "sku": "APX-SMOKE-BLEL-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLUE"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "Seiko Caliber NH35",
+    "POWER RESERVE": "41 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "20 ATM/200 Meters",
+    "CASE DIAMETER": "40mm",
+    "LUG-TO-LUG": "48mm",
+    "CASE HEIGHT": "12mm",
+    "LUG WIDTH": "20mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING IN US KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "Seiko Caliber NH35",
+    "MOVEMENT MODEL": "Seiko Caliber NH35",
+    "MANUFACTURE": "Made in Japan",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "21,600 VPH",
+    "SHOCK SYSTEM": "Diashock",
+    "ACCURACY": "-20 Sec/Day To +40 Sec/Day",
+    "JEWELS": "24",
+    "MODEL": "Seiko Caliber NH35",
+    "DIAMETER": "40mm",
+    "HEIGHT": "12mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "Black, Silver, White",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MANUFACTURE": "Made in Italy",
+    "WIDTH": "20mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-apex",
+    "BRD-1044/knopf-apex-leather"
+   ],
+   "hash": "b78463384453c5b4"
+  },
+  {
+   "id": "BRD-1044/knopf-apex-sea-leather",
+   "name": "KNOPF APEX SEA - LEATHER",
+   "url": "https://knopfwatches.com/products/knopf-apex-sea-leather",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1bluecrocblue.jpg?v=1727200423",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1bluecrocblue.jpg?v=1727200423",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_4_62c9a743-85a9-4910-9a9f-31d72143016c.png?v=1742996206",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_6_blue_croc_7857ce74-570c-4b6d-a557-ba1696461acf.jpg?v=1742996206",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_2_blue_croc_a93582ef-8640-4c2a-8264-a829b92efcde.jpg?v=1742996206",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_4_blue_croc_f601179c-b5a0-4a5b-9774-f301fdb644e5.jpg?v=1742996206",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_5_croc_blue_7d5e69f9-7054-42e2-b338-a59b9f2c6c03.jpg?v=1742996206",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1bluecrocblack.jpg?v=1742996206",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_ad7f516e-af3a-43de-9214-ec1a13cd31c9.png?v=1742996206",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_3_5aa15839-ed7b-4daa-b6b6-4984a3400e0c.png?v=1742996206",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_5_ef8797e2-8701-40d6-bc9e-7b875c4f0c31.png?v=1742816897",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 42400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "KNOPF Apex Sea – Leather Automatic Watch The KNOPF Apex Sea – Leather combines a 40mm cushion case with a Seiko NH35 automatic movement, sapphire crystal, solid 316L stainless steel construction, and 200m water resistance. Designed for men who appreciate mechanical watches with a versatile everyday profile, it brings together durable materials, practical specifications, and the distinctive character of an automatic timepiece. Why Choose the KNOPF Apex Sea – Leather? Built around a reliable Seiko NH35 automatic movement, the Apex Sea – Leather is designed for customers who want more than a simple timepiece. The 40mm case offers a balanced wrist presence, while the sapphire crystal and solid 316L stainless steel case provide the durable materials expected from a watch made for regular wear. With 200m water resistance, a screw-down crown, and an exhibition case back, the watch combines practical construction with the appeal of mechanical watch ownership. Key Benefits Seiko NH35 automatic movement: A well-known mechanical movement with a 41-hour power reserve. 40mm cushion case: A balanced case size designed for a confident yet wearable wrist presence. 200m water resistance: Provides substantial water resistance for a versatile everyday watch. Sapphire crystal: Durable crystal material designed for everyday wear. 316L stainless steel: Solid stainless steel case construction. Exhibition case back: Lets you see the mechanical movement behind the watch. Leather configuration: A classic strap option for customers who prefer a traditional watch aesthetic. What's Inside? At the heart of the Apex Sea – Leather is the Seiko Caliber NH35 automatic movement with a 41-hour power reserve. The case is made from solid 316L stainless steel and measures 40mm in diameter, with a 48mm lug-to-lug measurement and 12mm case height. A sapphire crystal protects the dial, while the exhibition case back provides a view of the movement. The watch also features a screw-down crown and 20mm lug width. Who Is the Apex Sea – Leather For? The Apex Sea – Leather is suited to men looking for an automatic watch that combines mechanical-watch character with a versatile 40mm case and substantial water resistance. It is particularly relevant for customers who appreciate the look and ownership experience of an automatic movement and prefer the visual character of a leather configuration. What Makes It Different? The Apex Sea – Leather brings together a 40mm cushion case, Seiko NH35 automatic movement, sapphire crystal, 316L stainless steel construction, and 200m water resistance in one compact design. The leather configuration also gives the watch a more traditional visual character compared with the rubber versions in the KNOPF Apex collection. How It Fits Into Your Routine The Apex Sea – Leather is designed to move easily through an everyday wardrobe. Its 40mm case keeps the overall profile wearable, while the leather configuration gives the watch a classic appearance that can complement both casual and more refined settings. The mechanical movement and exhibition case back add another layer of interest for customers who enjoy the craftsmanship and character of an automatic watch. How to Use The Apex Sea – Leather uses a Seiko NH35 automatic movement and includes a screw-down crown. Follow the supplied KNOPF user instructions for winding, setting the time, and operating the crown correctly. For the most accurate operating and care guidance, use the official product documentation supplied with the watch. Important Information The Apex Sea – Leather is rated at 20 ATM / 200 meters of water resistance. Always ensure the screw-down crown is properly secured before exposing the watch to water, and follow KNOPF's official care and usage instructions. The watch is covered by a 3-year warranty for material, parts, and manufacturing defects according to the supplied product information. A mechanical watch with practical specifications and a distinctive leather configuration, ",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "LEATHER STRAP",
+     "values": [
+      "BLUE",
+      "BLACK"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "BLUE",
+     "sku": "APX-SEA-BLEL-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLUE"
+     ]
+    },
+    {
+     "title": "BLACK",
+     "sku": "APX-SEA-BLKL-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLACK"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Seiko NH35 automatic movement": "A well-known mechanical movement with a 41-hour power reserve.",
+    "Sapphire crystal": "Durable crystal material designed for everyday wear.",
+    "Exhibition case back": "Lets you see the mechanical movement behind the watch.",
+    "Leather configuration": "A classic strap option for customers who prefer a traditional watch aesthetic.",
+    "POWER RESERVE": "41 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "20 ATM/200 Meters",
+    "CASE DIAMETER": "40mm",
+    "LUG-TO-LUG": "48mm",
+    "CASE HEIGHT": "12mm",
+    "LUG WIDTH": "20mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING IN US KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "Seiko Caliber NH35",
+    "MOVEMENT": "Seiko Caliber NH35",
+    "MOVEMENT MODEL": "Seiko Caliber NH35",
+    "MANUFACTURE": "Made in Japan",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "21,600 VPH",
+    "SHOCK SYSTEM": "Diashock",
+    "ACCURACY": "-20 Sec/Day To +40 Sec/Day",
+    "JEWELS": "24",
+    "MODEL": "Seiko Caliber NH35",
+    "DIAMETER": "40mm",
+    "HEIGHT": "12mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "Blue, Silver, White",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MANUFACTURE": "Made in Italy",
+    "WIDTH": "20mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-apex",
+    "BRD-1044/knopf-apex-leather"
+   ],
+   "hash": "75ed84b356afeeda"
+  },
+  {
+   "id": "BRD-1044/knopf-apex-ice-leather",
+   "name": "KNOPF APEX ICE - LEATHER",
+   "url": "https://knopfwatches.com/products/knopf-apex-ice-leather",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1silvercrocblack.jpg?v=1727199347",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1silvercrocblack.jpg?v=1727199347",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_6_3d397119-ce82-4d3c-baf8-d7c4b5363da1.png?v=1742996161",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_2_silver_croc_64fd8ed8-f98a-488e-9bf7-1cf522f509bf.jpg?v=1742996161",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_4_silver_croc_e32493c0-8eea-4b1e-9d12-4504f97319d5.jpg?v=1742996161",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_5_croc_black_8bada627-f56a-41ff-97c9-4cc73c9010f7.jpg?v=1742996161",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_silver_croc_blue_eb7a059f-a378-4254-b6fb-6c4dfc74412d.jpg?v=1742996161",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_3_bdd56d43-8777-4adf-a669-d246f1fc91fd.png?v=1790598949",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_7_86d59435-2d02-44a3-b336-471051b46e4f.png?v=1742996161",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_2_7d4ac17d-4c4d-49e8-b30e-20d44cddc9fc.png?v=1790598949",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 42400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built in the USA, this men’s watch combines modern aesthetics with robust performance. The 40mm cushion case fits comfortably on any wrist, powered by a rugged Seiko automatic movement and ready for any adventure with 200m water resistance. Perfectly styled to move from day to night. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material,parts and manufacturing defects. MOVEMENT: Seiko Caliber NH35 POWER RESERVE: 41 Hours CASE MATERIALS: Solid 316L Stainless Steel GLASS: Sapphire Crystal WATER RESISTANCE: 20 ATM/200 Meters CASE DIAMETER: 40mm LUG-TO-LUG: 48mm CASE HEIGHT: 12mm LUG WIDTH: 20mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "LEATHER STRAP",
+     "values": [
+      "BLACK",
+      "BLUE"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "BLACK",
+     "sku": "APX-ICE-BLKL-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLACK"
+     ]
+    },
+    {
+     "title": "BLUE",
+     "sku": "APX-ICE-BLEL-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLUE"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "Seiko Caliber NH35",
+    "POWER RESERVE": "41 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "20 ATM/200 Meters",
+    "CASE DIAMETER": "40mm",
+    "LUG-TO-LUG": "48mm",
+    "CASE HEIGHT": "12mm",
+    "LUG WIDTH": "20mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING IN US KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "Seiko Caliber NH35",
+    "MOVEMENT MODEL": "Seiko Caliber NH35",
+    "MANUFACTURE": "Made in Japan",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "21,600 VPH",
+    "SHOCK SYSTEM": "Diashock",
+    "ACCURACY": "-20 Sec/Day To +40 Sec/Day",
+    "JEWELS": "24",
+    "MODEL": "Seiko Caliber NH35",
+    "DIAMETER": "40mm",
+    "HEIGHT": "12mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "White, Silver, Blue",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MANUFACTURE": "Made in Italy",
+    "WIDTH": "20mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-apex",
+    "BRD-1044/knopf-apex-leather"
+   ],
+   "hash": "7b5890b2baab4b20"
+  },
+  {
+   "id": "BRD-1044/knopf-apex-smoke-rubber",
+   "name": "KNOPF APEX SMOKE - RUBBER",
+   "url": "https://knopfwatches.com/products/knopf-apex-smoke-rubber",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1blackrubberblack.jpg?v=1727195054",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1blackrubberblack.jpg?v=1727195054",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_8_139be30f-aaf8-49f2-831c-ce24627db199.png?v=1743078133",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_2_black_rubber_black_004c04e4-d933-4478-9d30-8b81b3bf3eac.jpg?v=1743078133",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_4_black_rubber_black_8c04c83e-3ccb-439d-a018-f1749f12a5fc.jpg?v=1743078133",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_5_rubber_black_b5e617ee-fd9b-4cf9-8969-3c717e003f9f.jpg?v=1743078133",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1blackrubberred.jpg?v=1743078133",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose1blackrubberblue.jpg?v=1743078133",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/3_85d4ecb6-c070-486b-8e4a-d233ed7f2e14.png?v=1745238301",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_5_256b3ea8-ee99-4418-904e-4fdee23f1a6d.png?v=1745238301",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_00175e5f-c889-4be1-af3f-e7cb7b556d36.png?v=1745238301",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_9_b1e0b2ec-5021-4728-998a-c79f2eb78688.png?v=1745239451",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_6_47ea8145-44b7-43c7-93f4-9f267f34d108.png?v=1745239451",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 42400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built in the USA, this men’s watch combines modern aesthetics with robust performance. The 40mm cushion case fits comfortably on any wrist, powered by a reliable Seiko automatic movement and ready for any adventure with 200m water resistance. Perfectly styled to move from day to night. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material,parts and manufacturing defects. MOVEMENT: Seiko Caliber NH35 POWER RESERVE: 41 Hours CASE MATERIALS: Solid 316L Stainless Steel GLASS: Sapphire Crystal WATER RESISTANCE: 20 ATM/200 Meters CASE DIAMETER: 40mm LUG-TO-LUG: 48mm CASE HEIGHT: 12mm LUG WIDTH: 20mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "RUBBER STRAP",
+     "values": [
+      "BLACK",
+      "RED",
+      "BLUE"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "BLACK",
+     "sku": "APX-SMOKE-BLKR-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLACK"
+     ]
+    },
+    {
+     "title": "RED",
+     "sku": "APX-SMOKE-RDR-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "RED"
+     ]
+    },
+    {
+     "title": "BLUE",
+     "sku": "APX-SMOKE-BLER-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLUE"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "rubber"
+   },
+   "specsRaw": {
+    "MOVEMENT": "Seiko Caliber NH35",
+    "POWER RESERVE": "41 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "20 ATM/200 Meters",
+    "CASE DIAMETER": "40mm",
+    "LUG-TO-LUG": "48mm",
+    "CASE HEIGHT": "12mm",
+    "LUG WIDTH": "20mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING IN US KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "Seiko Caliber NH35",
+    "MOVEMENT MODEL": "Seiko Caliber NH35",
+    "MANUFACTURE": "Made in Japan",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "21,600 VPH",
+    "SHOCK SYSTEM": "Diashock",
+    "ACCURACY": "-20 Sec/Day To +40 Sec/Day",
+    "JEWELS": "24",
+    "MODEL": "Seiko Caliber NH35",
+    "DIAMETER": "40mm",
+    "HEIGHT": "12mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "Black, Silver, White",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MATERIALS": "Rubber, Solid 316L Stainless Steel",
+    "WIDTH": "20mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-apex",
+    "BRD-1044/knopf-apex-rubber"
+   ],
+   "hash": "02ce004ca5956bf5"
+  },
+  {
+   "id": "BRD-1044/knopf-apex-sea-rubber",
+   "name": "KNOPF APEX SEA - RUBBER",
+   "url": "https://knopfwatches.com/products/knopf-apex-sea-rubber",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_blue_rubber_blue.jpg?v=1726419250",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_blue_rubber_blue.jpg?v=1726419250",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_18.png?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_6_blue_rubber_blue.jpg?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_2_blue_rubber_blue_eaf3e62e-7512-4ed9-bac8-93bee5fb4bd8.jpg?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_4_blue_rubber_blue.jpg?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_blue_rubber_black_dc65f1fd-a495-4b71-90aa-62e3b84baa38.jpg?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_5_rubber_blue.jpg?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_blue_rubber_red_daf1a992-4a7d-4b2f-80f6-c706ae4717c9.jpg?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_3_908f6d7a-8445-437c-bdfb-27dca8eb6047.png?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_17_ab1f3eb7-6997-4076-9ce6-74806a6d40a7.png?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_72237d0e-1db8-4d58-aba2-b079a299ffbf.png?v=1742997229",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_4_f2972c99-0f65-454a-9c31-b2c872d06294.png?v=1742997437",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 42400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built in the USA, this men’s watch combines modern aesthetics with robust performance. The 40mm cushion case fits comfortably on any wrist, powered by a rugged Seiko automatic movement and ready for any adventure with 200m water resistance. Perfectly styled to move from day to night. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material,parts and manufacturing defects. MOVEMENT: Seiko Caliber NH35 POWER RESERVE: 41 Hours CASE MATERIALS: Solid 316L Stainless Steel GLASS: Sapphire Crystal WATER RESISTANCE: 20 ATM/200 Meters CASE DIAMETER: 40mm LUG-TO-LUG: 48mm CASE HEIGHT: 12mm LUG WIDTH: 20mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "RUBBER STRAP",
+     "values": [
+      "BLUE",
+      "RED",
+      "BLACK"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "BLUE",
+     "sku": "APX-SEA-BLER-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLUE"
+     ]
+    },
+    {
+     "title": "RED",
+     "sku": "APX-SEA-RDR-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "RED"
+     ]
+    },
+    {
+     "title": "BLACK",
+     "sku": "APX-SEA-BLKR-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLACK"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "rubber"
+   },
+   "specsRaw": {
+    "MOVEMENT": "Seiko Caliber NH35",
+    "POWER RESERVE": "41 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "20 ATM/200 Meters",
+    "CASE DIAMETER": "40mm",
+    "LUG-TO-LUG": "48mm",
+    "CASE HEIGHT": "12mm",
+    "LUG WIDTH": "20mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING IN US KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "Seiko Caliber NH35",
+    "MOVEMENT MODEL": "Seiko Caliber NH35",
+    "MANUFACTURE": "Made in Japan",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "21,600 VPH",
+    "SHOCK SYSTEM": "Diashock",
+    "ACCURACY": "-20 Sec/Day To +40 Sec/Day",
+    "JEWELS": "24",
+    "MODEL": "Seiko Caliber NH35",
+    "DIAMETER": "40mm",
+    "HEIGHT": "12mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "Blue, Silver, White",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MATERIALS": "Rubber, Solid 316L Stainless Steel",
+    "WIDTH": "20mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-apex",
+    "BRD-1044/knopf-apex-rubber"
+   ],
+   "hash": "af6050d3eec5e0dc"
+  },
+  {
+   "id": "BRD-1044/knopf-apex-ice-rubber",
+   "name": "KNOPF APEX ICE - RUBBER",
+   "url": "https://knopfwatches.com/products/knopf-apex-ice-rubber",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_silver_rubber_red.jpg?v=1726419251",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_silver_rubber_red.jpg?v=1726419251",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_15.png?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_6_silver_rubber_red.jpg?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_2_silver_rubber_red_c3845102-cfaa-491d-b3aa-32c395b1807b.jpg?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_4_silver_rubber_red.jpg?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_5_rubber_red.jpg?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_silver_rubber_blue_e05d79a4-e918-4ed9-b6c6-c11cf3b948ae.jpg?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Pose_1_silver_rubber_black_2ae2da55-413b-4ba4-b93e-77f7f791535e.jpg?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_13.png?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_11_e88aece4-b12c-4020-b361-2fdf6b84e8cd.png?v=1742995836",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_14.png?v=1742995641",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 42400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Built in the USA, this men’s watch combines modern aesthetics with robust performance. The 40mm cushion case fits comfortably on any wrist, powered by a rugged Seiko automatic movement and ready for any adventure with 200m water resistance. Perfectly styled to move from day to night. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material,parts and manufacturing defects. MOVEMENT: Seiko Caliber NH35 POWER RESERVE: 41 Hours CASE MATERIALS: Solid 316L Stainless Steel GLASS: Sapphire Crystal WATER RESISTANCE: 20 ATM/200 Meters CASE DIAMETER: 40mm LUG-TO-LUG: 48mm CASE HEIGHT: 12mm LUG WIDTH: 20mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "RUBBER STRAP",
+     "values": [
+      "RED",
+      "BLUE",
+      "BLACK"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "RED",
+     "sku": "APX-ICE-RDR-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "RED"
+     ]
+    },
+    {
+     "title": "BLUE",
+     "sku": "APX-ICE-BLER-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLUE"
+     ]
+    },
+    {
+     "title": "BLACK",
+     "sku": "APX-ICE-BLKR-40-24",
+     "priceMinor": 42400,
+     "compareAtMinor": 42400,
+     "available": true,
+     "options": [
+      "BLACK"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH35",
+    "movementType": "automatic",
+    "powerReserveH": 41,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "rubber"
+   },
+   "specsRaw": {
+    "MOVEMENT": "Seiko Caliber NH35",
+    "POWER RESERVE": "41 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "20 ATM/200 Meters",
+    "CASE DIAMETER": "40mm",
+    "LUG-TO-LUG": "48mm",
+    "CASE HEIGHT": "12mm",
+    "LUG WIDTH": "20mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING IN US KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "Seiko Caliber NH35",
+    "MOVEMENT MODEL": "Seiko Caliber NH35",
+    "MANUFACTURE": "Made in Japan",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "21,600 VPH",
+    "SHOCK SYSTEM": "Diashock",
+    "ACCURACY": "-20 Sec/Day To +40 Sec/Day",
+    "JEWELS": "24",
+    "MODEL": "Seiko Caliber NH35",
+    "DIAMETER": "40mm",
+    "HEIGHT": "12mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "White, Silver, Blue",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MATERIALS": "Rubber, Solid 316L Stainless Steel",
+    "WIDTH": "20mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-apex",
+    "BRD-1044/knopf-apex-rubber"
+   ],
+   "hash": "99b342496b7605df"
+  },
+  {
+   "id": "BRD-1044/knopf-ny-405-black-leather",
+   "name": "KNOPF NY-405 BLACK LEATHER",
+   "url": "https://knopfwatches.com/products/knopf-ny-405-black-leather",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0084_78911d06-6d5b-469d-93aa-b10dc94a9dbf.jpg?v=1704480148",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0084_78911d06-6d5b-469d-93aa-b10dc94a9dbf.jpg?v=1704480148",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_10_42d0e707-5362-45d9-a306-dce0344210f3.png?v=1743165780",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0150.jpg?v=1743165780",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0081.jpg?v=1743165780",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_11_0a014a6e-5e5e-4ea2-9c30-e52faadc4ba6.png?v=1743165780",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0083_f163d496-4327-449c-b13f-556dabb2e3f3.jpg?v=1743165780",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_15_3fef1909-c001-4c52-8343-73c7712e93ea.png?v=1743165780",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_14_ab074cdd-6783-4d47-843f-7fa96f6580c6.png?v=1743165780",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_13_d1581ac0-b96b-4e4b-b046-4d00660eb66f.png?v=1743165780",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/KNOPF_leather_black_frontal_lumi.jpg?v=1743165780",
+     "width": 4000,
+     "height": 4004
+    }
+   ],
+   "priceMinor": 79800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The NY-405 brings the bold lines of Art Deco design to modern watchmaking. Its layered dial is carefully hand-crafted, creating depth and detail you can see and feel. Built with precision and crafted to last a lifetime, this watch is as versatile as it is distinctive — a piece that stands out at any occasion. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material, parts and manufacturing defects. MOVEMENT: STP1-11 POWER RESERVE: 44 Hours CASE MATERIALS: Solid 316L Stainless Steel, Gold Plating GLASS: Sapphire Crystal WATER RESISTANCE: 5 ATM/50 Meters CASE DIAMETER: 41mm LUG-TO-LUG: 51mm CASE HEIGHT: 11.5mm LUG WIDTH: 21mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 21,
+    "lugToLugMm": 51,
+    "thicknessMm": 11.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "STP1-11",
+    "POWER RESERVE": "44 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "5 ATM/50 Meters",
+    "CASE DIAMETER": "41mm",
+    "LUG-TO-LUG": "51mm",
+    "CASE HEIGHT": "11.5mm",
+    "LUG WIDTH": "21mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "STP1-11",
+    "MOVEMENT MODEL": "STP1-11",
+    "MANUFACTURE": "Swiss Made",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "28,800 VPH",
+    "SHOCK SYSTEM": "Incabloc",
+    "ACCURACY": "-3 Sec/Day To +7 Sec/Day",
+    "JEWELS": "26",
+    "MAINSPRING": "Niveflex NM (Anti-Magnetic)",
+    "MODEL": "STP1-11",
+    "DIAMETER": "41mm",
+    "HEIGHT": "11.5mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "Black, Silver, White",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MANUFACTURE": "Handmade in USA",
+    "WIDTH": "21mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-ny-405",
+    "BRD-1044/timepieces-leather"
+   ],
+   "hash": "d640fedefe5a4395"
+  },
+  {
+   "id": "BRD-1044/knopf-ny-405-black-steel",
+   "name": "KNOPF NY-405 BLACK STEEL",
+   "url": "https://knopfwatches.com/products/knopf-ny-405-black-steel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0094_1afc7ad4-fcc8-472f-83fe-95fa203eb5c5.jpg?v=1704480271",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0094_1afc7ad4-fcc8-472f-83fe-95fa203eb5c5.jpg?v=1704480271",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_18_a104d8c5-462d-4eef-89fc-230768765bf6.png?v=1743249345",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0152.jpg?v=1743249345",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0092_9a6bd449-f6f1-4026-b4f8-81c4457840a3.jpg?v=1743249345",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_22.png?v=1743249345",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_29.png?v=1743249345",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_21.png?v=1743249345",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_19.png?v=1743249345",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_23.png?v=1743249345",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/KNOPF_steel_black_frontal_lumi.jpg?v=1743249345",
+     "width": 4000,
+     "height": 4004
+    }
+   ],
+   "priceMinor": 79800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The NY-405 brings the bold lines of Art Deco design to modern watchmaking. Its layered dial is carefully hand-crafted, creating depth and detail you can see and feel. Built with precision and crafted to last a lifetime, this watch is as versatile as it is distinctive — a piece that stands out at any occasion. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material, parts and manufacturing defects. MOVEMENT: STP1-11 POWER RESERVE: 44 Hours CASE MATERIALS: Solid 316L Stainless Steel, Gold Plating GLASS: Sapphire Crystal WATER RESISTANCE: 5 ATM/50 Meters CASE DIAMETER: 41mm LUG-TO-LUG: 51mm CASE HEIGHT: 11.5mm LUG WIDTH: 21mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 21,
+    "lugToLugMm": 51,
+    "thicknessMm": 11.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "STP1-11",
+    "POWER RESERVE": "44 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "5 ATM/50 Meters",
+    "CASE DIAMETER": "41mm",
+    "LUG-TO-LUG": "51mm",
+    "CASE HEIGHT": "11.5mm",
+    "LUG WIDTH": "21mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "STP1-11",
+    "MOVEMENT MODEL": "STP1-11",
+    "MANUFACTURE": "Swiss Made",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "28,800 VPH",
+    "SHOCK SYSTEM": "Incabloc",
+    "ACCURACY": "-3 Sec/Day To +7 Sec/Day",
+    "JEWELS": "26",
+    "MAINSPRING": "Niveflex NM (Anti-Magnetic)",
+    "MODEL": "STP1-11",
+    "DIAMETER": "41mm",
+    "HEIGHT": "11.5mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "Black, Silver, White",
+    "LUME": "Super-LumiNova® BGW9",
+    "BRACELET MATERIALS": "Solid 316L Stainless Steel",
+    "WIDTH": "21mm",
+    "CLASP": "Double-Locking Foldover"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-ny-405",
+    "BRD-1044/timepieces-steel"
+   ],
+   "hash": "92df35101d0532a9"
+  },
+  {
+   "id": "BRD-1044/knopf-ny-405-blue-leather",
+   "name": "KNOPF NY-405 BLUE LEATHER",
+   "url": "https://knopfwatches.com/products/knopf-ny-405-blue-leather",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0085.jpg?v=1704480259",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0085.jpg?v=1704480259",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_6_16f5116b-da54-4161-8560-41a260244bc3.png?v=1743342627",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0148.jpg?v=1743342627",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0083.jpg?v=1743342627",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_11_7c618b30-3940-49a1-bed1-063cbc88cb80.png?v=1743342627",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_8_ff2c59a4-6e79-43c8-b494-639ed6302be4.png?v=1743342627",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_4_148c36ce-55be-4985-80f0-e93251f07825.png?v=1743342627",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_8ed63703-f0e8-4569-a9ed-9b86a7cfc861.png?v=1743342627",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_9_33165146-b095-4a58-8390-11255c105fc0.png?v=1743342627",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/KNOPF_leather_blue_frontal_lumi.jpg?v=1743342627",
+     "width": 4000,
+     "height": 4004
+    }
+   ],
+   "priceMinor": 99800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The NY-405 brings the bold lines of Art Deco design to modern watchmaking. Its layered dial is carefully hand-crafted, creating depth and detail you can see and feel. Built with precision and crafted to last a lifetime, this watch is as versatile as it is distinctive — a piece that stands out at any occasion. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material, parts and manufacturing defects. MOVEMENT: STP1-11 POWER RESERVE: 44 Hours CASE MATERIALS: Solid 316L Stainless Steel, Gold Plating GLASS: Sapphire Crystal WATER RESISTANCE: 5 ATM/50 Meters CASE DIAMETER: 41mm LUG-TO-LUG: 51mm CASE HEIGHT: 11.5mm LUG WIDTH: 21mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 21,
+    "lugToLugMm": 51,
+    "thicknessMm": 11.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "STP1-11",
+    "POWER RESERVE": "44 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "5 ATM/50 Meters",
+    "CASE DIAMETER": "41mm",
+    "LUG-TO-LUG": "51mm",
+    "CASE HEIGHT": "11.5mm",
+    "LUG WIDTH": "21mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "STP1-11",
+    "MOVEMENT MODEL": "STP1-11",
+    "MANUFACTURE": "Swiss Made",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "28,800 VPH",
+    "SHOCK SYSTEM": "Incabloc",
+    "ACCURACY": "-3 Sec/Day To +7 Sec/Day",
+    "JEWELS": "26",
+    "MAINSPRING": "Niveflex NM (Anti-Magnetic)",
+    "MODEL": "STP1-11",
+    "DIAMETER": "41mm",
+    "HEIGHT": "11.5mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "Blue, Silver, Black",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MANUFACTURE": "Handmade in USA",
+    "WIDTH": "21mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-ny-405",
+    "BRD-1044/timepieces-leather"
+   ],
+   "hash": "9aa8ab8b787a9883"
+  },
+  {
+   "id": "BRD-1044/knopf-ny-405-blue-steel",
+   "name": "KNOPF NY-405 BLUE STEEL",
+   "url": "https://knopfwatches.com/products/knopf-ny-405-blue-steel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0093.jpg?v=1704480248",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0093.jpg?v=1704480248",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_8_223f3e2c-05cb-410b-bdb7-0a46dc9b5fd8.png?v=1743341650",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0151.jpg?v=1743341650",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0092.jpg?v=1743341650",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_9_bb6ba58c-d392-451e-ba0d-daa9e90909b5.png?v=1743341650",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_4_1eab5942-8d89-4132-989c-5864d7ce4741.png?v=1743341650",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_10_e9283b47-3554-4c3a-983c-dac623504d2b.png?v=1743341650",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_5_62f2c9a8-5735-4a14-b60c-70d2299e1d3e.png?v=1743341650",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_3_cd119358-7d12-4912-bf8f-0b659f51e0c9.png?v=1743344225",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/KNOPF_steel_blue_frontal_lumi.jpg?v=1743344225",
+     "width": 4000,
+     "height": 4004
+    }
+   ],
+   "priceMinor": 99800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The NY-405 brings the bold lines of Art Deco design to modern watchmaking. Its layered dial is carefully hand-crafted, creating depth and detail you can see and feel. Built with precision and crafted to last a lifetime, this watch is as versatile as it is distinctive — a piece that stands out at any occasion. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material, parts and manufacturing defects. MOVEMENT: STP1-11 POWER RESERVE: 44 Hours CASE MATERIALS: Solid 316L Stainless Steel, Gold Plating GLASS: Sapphire Crystal WATER RESISTANCE: 5 ATM/50 Meters CASE DIAMETER: 41mm LUG-TO-LUG: 51mm CASE HEIGHT: 11.5mm LUG WIDTH: 21mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 21,
+    "lugToLugMm": 51,
+    "thicknessMm": 11.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "STP1-11",
+    "POWER RESERVE": "44 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "5 ATM/50 Meters",
+    "CASE DIAMETER": "41mm",
+    "LUG-TO-LUG": "51mm",
+    "CASE HEIGHT": "11.5mm",
+    "LUG WIDTH": "21mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "STP1-11",
+    "MOVEMENT MODEL": "STP1-11",
+    "MANUFACTURE": "Swiss Made",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "28,800 VPH",
+    "SHOCK SYSTEM": "Incabloc",
+    "ACCURACY": "-3 Sec/Day To +7 Sec/Day",
+    "JEWELS": "26",
+    "MAINSPRING": "Niveflex NM (Anti-Magnetic)",
+    "MODEL": "STP1-11",
+    "DIAMETER": "41mm",
+    "HEIGHT": "11.5mm",
+    "MATERIALS": "Solid 316L Stainless Steel",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "Blue, Silver, Black",
+    "LUME": "Super-LumiNova® BGW9",
+    "BRACELET MATERIALS": "Solid 316L Stainless Steel",
+    "WIDTH": "21mm",
+    "CLASP": "Double-Locking Foldover"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-ny-405",
+    "BRD-1044/timepieces-steel"
+   ],
+   "hash": "e52d813e34374a76"
+  },
+  {
+   "id": "BRD-1044/knopf-ny-405-gold-leather",
+   "name": "KNOPF NY-405 GOLD LEATHER",
+   "url": "https://knopfwatches.com/products/knopf-ny-405-gold-leather",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0086_4cbc2b26-63e5-43bb-bb2d-4abd5e6f2aa9.jpg?v=1704480227",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0086_4cbc2b26-63e5-43bb-bb2d-4abd5e6f2aa9.jpg?v=1704480227",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_9_35227cf1-b957-4602-ae50-f956a1f43a0e.png?v=1756730648",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0149_4fb48f39-c8ea-4946-9a76-c91f7e42be93.jpg?v=1756730648",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0082_73bccfa3-5951-4527-8f7c-50782e10b04d.jpg?v=1756730648",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_8_5db0889d-636b-4ee7-98bd-9d6ae8b2b979.png?v=1743252473",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_14_6c5dbda2-4a57-4f35-a61d-573508c7b09c.png?v=1743252473",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_7_4d565cdc-2842-471f-a0e0-3540ba8922ee.png?v=1743252473",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_16_a82c86e3-37ea-47b9-9b75-24e65e860410.png?v=1743252473",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_6_7c3e1793-13bb-4f5e-a016-d882a208b856.png?v=1743252473",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/KNOPF_leather_gold_frontal_lumi.jpg?v=1743252473",
+     "width": 4000,
+     "height": 4004
+    }
+   ],
+   "priceMinor": 99800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The NY-405 brings the bold lines of Art Deco design to modern watchmaking. Its layered dial is carefully hand-crafted, creating depth and detail you can see and feel. Built with precision and crafted to last a lifetime, this watch is as versatile as it is distinctive — a piece that stands out at any occasion. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material, parts and manufacturing defects. MOVEMENT: STP1-11 POWER RESERVE: 44 Hours CASE MATERIALS: Solid 316L Stainless Steel, Gold Plating GLASS: Sapphire Crystal WATER RESISTANCE: 5 ATM/50 Meters CASE DIAMETER: 41mm LUG-TO-LUG: 51mm CASE HEIGHT: 11.5mm LUG WIDTH: 21mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 21,
+    "lugToLugMm": 51,
+    "thicknessMm": 11.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "STP1-11",
+    "POWER RESERVE": "44 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel, Gold Plating",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "5 ATM/50 Meters",
+    "CASE DIAMETER": "41mm",
+    "LUG-TO-LUG": "51mm",
+    "CASE HEIGHT": "11.5mm",
+    "LUG WIDTH": "21mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "STP1-11",
+    "MOVEMENT MODEL": "STP1-11",
+    "MANUFACTURE": "Swiss Made",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "28,800 VPH",
+    "SHOCK SYSTEM": "Incabloc",
+    "ACCURACY": "-3 Sec/Day To +7 Sec/Day",
+    "JEWELS": "26",
+    "MAINSPRING": "Niveflex NM (Anti-Magnetic)",
+    "MODEL": "STP1-11",
+    "DIAMETER": "41mm",
+    "HEIGHT": "11.5mm",
+    "MATERIALS": "Solid 316L Stainless Steel, Gold Plating",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "White, Gold, Black",
+    "LUME": "Super-LumiNova® BGW9",
+    "STRAP MANUFACTURE": "Handmade in USA",
+    "WIDTH": "21mm",
+    "BUCKLE": "Tang"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-ny-405",
+    "BRD-1044/timepieces-leather"
+   ],
+   "hash": "48bb368c4a197a03"
+  },
+  {
+   "id": "BRD-1044/knopf-ny-405-gold-steel",
+   "name": "KNOPF NY-405 GOLD STEEL",
+   "url": "https://knopfwatches.com/products/knopf-ny-405-gold-steel",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0095_e369fdc9-6363-438a-8d5d-aeef31df8fbb.jpg?v=1704480171",
+    "width": 2000,
+    "height": 2000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0095_e369fdc9-6363-438a-8d5d-aeef31df8fbb.jpg?v=1704480171",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_24.png?v=1743249886",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0153.jpg?v=1743249886",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/C6A0091.jpg?v=1743249886",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_26.png?v=1743249886",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_25.png?v=1743561079",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_5c633022-f918-4326-9673-3f99381cbecb.png?v=1743561079",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/Untitled_design_4_a9149b00-69d1-495a-b333-c165b703827b.png?v=1743561079",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/files/KNOPF_steel_gold_frontal_lumi.jpg?v=1743561074",
+     "width": 1400,
+     "height": 1401
+    }
+   ],
+   "priceMinor": 99800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The NY-405 brings the bold lines of Art Deco design to modern watchmaking. Its layered dial is carefully hand-crafted, creating depth and detail you can see and feel. Built with precision and crafted to last a lifetime, this watch is as versatile as it is distinctive — a piece that stands out at any occasion. 3 YEAR WARRANTY: Every KNOPF watch is warranted for a period of 3 years and covers material, parts and manufacturing defects. MOVEMENT: STP1-11 POWER RESERVE: 44 Hours CASE MATERIALS: Solid 316L Stainless Steel, Gold Plating GLASS: Sapphire Crystal WATER RESISTANCE: 5 ATM/50 Meters CASE DIAMETER: 41mm LUG-TO-LUG: 51mm CASE HEIGHT: 11.5mm LUG WIDTH: 21mm CASE BACK: Exhibition CROWN: Screw-Down",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": 21,
+    "lugToLugMm": 51,
+    "thicknessMm": 11.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": 44,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "MOVEMENT": "STP1-11",
+    "POWER RESERVE": "44 Hours",
+    "CASE MATERIALS": "Solid 316L Stainless Steel, Gold Plating",
+    "GLASS": "Sapphire Crystal",
+    "WATER RESISTANCE": "5 ATM/50 Meters",
+    "CASE DIAMETER": "41mm",
+    "LUG-TO-LUG": "51mm",
+    "CASE HEIGHT": "11.5mm",
+    "LUG WIDTH": "21mm",
+    "CASE BACK": "Exhibition",
+    "CROWN": "Screw-Down FREE SHIPPING KNOPF offers worldwide shipping on all products.",
+    "SPECIFICATIONS MOVEMENT": "STP1-11",
+    "MOVEMENT MODEL": "STP1-11",
+    "MANUFACTURE": "Swiss Made",
+    "TYPE": "Automatic, Self-Winding",
+    "FREQUENCY": "28,800 VPH",
+    "SHOCK SYSTEM": "Incabloc",
+    "ACCURACY": "-3 Sec/Day To +7 Sec/Day",
+    "JEWELS": "26",
+    "MAINSPRING": "Niveflex NM (Anti-Magnetic)",
+    "MODEL": "STP1-11",
+    "DIAMETER": "41mm",
+    "HEIGHT": "11.5mm",
+    "MATERIALS": "Solid 316L Stainless Steel, Gold Plating",
+    "DIAL LUME": "Super-LumiNova® BGW9",
+    "COLORS": "White, Gold, Black",
+    "LUME": "Super-LumiNova® BGW9",
+    "BRACELET MATERIALS": "Solid 316L Stainless Steel, Gold Plating",
+    "WIDTH": "21mm",
+    "CLASP": "Double-Locking Foldover"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:00.893Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:00.893Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1044/knopf-ny-405",
+    "BRD-1044/timepieces-steel"
+   ],
+   "hash": "590308b5f0e17ee7"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1044/knopf-apex",
+   "name": "KNOPF APEX",
+   "url": "https://knopfwatches.com/collections/knopf-apex",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/collections/2_0a7907f2-f79d-449f-874e-c5b779618880.png?v=1740927135",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1044/knopf-apex-leather",
+   "name": "KNOPF APEX -  LEATHER",
+   "url": "https://knopfwatches.com/collections/knopf-apex-leather",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1044/knopf-apex-rubber",
+   "name": "KNOPF APEX - RUBBER",
+   "url": "https://knopfwatches.com/collections/knopf-apex-rubber",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1044/knopf-ny-405",
+   "name": "KNOPF NY-405",
+   "url": "https://knopfwatches.com/collections/knopf-ny-405",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0792/7699/8969/collections/1_e72b746d-fd04-4d54-89f5-d57d084d6c42.png?v=1735232595",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1044/timepieces-leather",
+   "name": "TIMEPIECES LEATHER",
+   "url": "https://knopfwatches.com/collections/timepieces-leather",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1044/timepieces-steel",
+   "name": "TIMEPIECES STEEL",
+   "url": "https://knopfwatches.com/collections/timepieces-steel",
+   "description": null,
+   "image": null
+  }
+ ]
+}

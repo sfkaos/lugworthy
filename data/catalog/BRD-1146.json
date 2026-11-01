@@ -1,0 +1,3031 @@
+{
+ "brandId": "BRD-1146",
+ "brandName": "Mona Watches",
+ "website": "https://monawatches.com",
+ "crawledAt": "2026-11-01T07:59:46.407Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://monawatches.com/cdn/shop/files/MONA_Logo_Officiel_867410ae-adb5-49e0-b4a1-bbf4b7083cdb.svg?v=1678657465",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://monawatches.com/"
+ },
+ "attribution": "Images © Mona Watches, from monawatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1146/horloge-mona-terracotta",
+   "name": "Horloge MONA Terracotta",
+   "url": "https://monawatches.com/products/horloge-mona-terracotta",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-perse_teracotta_daebf7ad-f156-4633-b9a0-41fad9199585.jpg?v=1761222044",
+    "width": 5184,
+    "height": 3767
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-perse_teracotta_daebf7ad-f156-4633-b9a0-41fad9199585.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3767
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-perse_teracotta.jpg?v=1761222044",
+     "width": 3000,
+     "height": 1997
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115810723.jpg?v=1761222044",
+     "width": 2268,
+     "height": 2268
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115836334.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115841280.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115855728.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080172.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3888
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080169.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3888
+    }
+   ],
+   "priceMinor": 19000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cet objet du temps signé MONA revient sur le devant de la scène avec un design soigné en béton fin et intégrant, pour la première fois, une cinématique à double mouvements: hommage à l'horlogerie traditionnelle et à sa célèbre petite seconde. Disponible en 7 couleurs. Fabriqué à Lyon, séchage en quelques jours. Livré sous 10 jours.",
+   "productType": "Horloge",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 32.4,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matière": "Béton teint dans la masse",
+    "Dimensions": "32,4cm x 18cm x 3,5cm",
+    "Mouvement": "Quartz continu silencieux x2",
+    "Signe particulier": "Peut se positionner à l'horizontale ou à la verticale"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/objets-du-temps"
+   ],
+   "hash": "d791de391f5aa33a"
+  },
+  {
+   "id": "BRD-1146/horloge-mona-asphalte",
+   "name": "Horloge MONA Asphalte",
+   "url": "https://monawatches.com/products/horloge-mona-asphalte",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-noir_face.jpg?v=1751094234",
+    "width": 2000,
+    "height": 1453
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-noir_face.jpg?v=1751094234",
+     "width": 2000,
+     "height": 1453
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-noir_perse.jpg?v=1751094234",
+     "width": 2000,
+     "height": 1331
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080196.jpg?v=1750840605",
+     "width": 5184,
+     "height": 3888
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115810723.jpg?v=1761222044",
+     "width": 2268,
+     "height": 2268
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115841280.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115855728.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080172.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3888
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080169.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3888
+    }
+   ],
+   "priceMinor": 19000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cet objet du temps signé MONA revient sur le devant de la scène avec un design soigné en béton fin et intégrant, pour la première fois, une cinématique à double mouvements: hommage à l'horlogerie traditionnelle et à sa célèbre petite seconde. Disponible en 6 couleurs. Fabriqué à Lyon, séchage en quelques jours. Livré sous 10 jours.",
+   "productType": "Horloge",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 32.4,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matière": "Béton teint dans la masse",
+    "Dimensions": "32,4cm x 18cm x 3,5cm",
+    "Mouvement": "Quartz continu silencieux x2",
+    "Signe particulier": "Peut se positionner à l'horizontale ou à la verticale"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/objets-du-temps"
+   ],
+   "hash": "04ec14ea1e824818"
+  },
+  {
+   "id": "BRD-1146/horloge-mona-brique",
+   "name": "Horloge MONA Brique",
+   "url": "https://monawatches.com/products/horloge-mona-brique",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-terraccotta_face.jpg?v=1750843464",
+    "width": 2000,
+    "height": 1453
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-terraccotta_face.jpg?v=1750843464",
+     "width": 2000,
+     "height": 1453
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-terraccotta_perse.jpg?v=1750843464",
+     "width": 2000,
+     "height": 1331
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115810723.jpg?v=1761222044",
+     "width": 2268,
+     "height": 2268
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115836334.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115841280.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115855728.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080172.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3888
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080169.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3888
+    }
+   ],
+   "priceMinor": 19000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cet objet du temps signé MONA revient sur le devant de la scène avec un design soigné en béton fin et intégrant, pour la première fois, une cinématique à double mouvements: hommage à l'horlogerie traditionnelle et à sa célèbre petite seconde. Disponible en 6 couleurs. Fabriqué à Lyon, séchage en quelques jours. Livré sous 10 jours.",
+   "productType": "Horloge",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 32.4,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matière": "Béton teint dans la masse",
+    "Dimensions": "32,4cm x 18cm x 3,5cm",
+    "Mouvement": "Quartz continu silencieux x2",
+    "Signe particulier": "Peut se positionner à l'horizontale ou à la verticale"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/objets-du-temps"
+   ],
+   "hash": "020b834b7e4eb430"
+  },
+  {
+   "id": "BRD-1146/horloge-mona-sauge",
+   "name": "Horloge MONA Sauge",
+   "url": "https://monawatches.com/products/horloge-mona-sauge",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-vert_face.jpg?v=1750839364",
+    "width": 5184,
+    "height": 3767
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-vert_face.jpg?v=1750839364",
+     "width": 5184,
+     "height": 3767
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/mona-horloge-vert_perse.jpg?v=1750839364",
+     "width": 2000,
+     "height": 1331
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115810723.jpg?v=1761222044",
+     "width": 2268,
+     "height": 2268
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115830445.PORTRAIT.jpg?v=1750161428",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/PXL_20250506_115855728.PORTRAIT.jpg?v=1761222044",
+     "width": 2268,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080172.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3888
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1080169.jpg?v=1761222044",
+     "width": 5184,
+     "height": 3888
+    }
+   ],
+   "priceMinor": 19000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Cet objet du temps signé MONA revient sur le devant de la scène avec un design soigné en béton fin et intégrant, pour la première fois, une cinématique à double mouvements: hommage à l'horlogerie traditionnelle et à sa célèbre petite seconde. Disponible en 6 couleurs. Fabriqué à Lyon, séchage en quelques jours. Livré sous 10 jours.",
+   "productType": "Horloge",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 32.4,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Matière": "Béton teint dans la masse",
+    "Dimensions": "32,4cm x 18cm x 3,5cm",
+    "Mouvement": "Quartz continu silencieux x2",
+    "Signe particulier": "Peut se positionner à l'horizontale ou à la verticale"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/objets-du-temps"
+   ],
+   "hash": "5dcc8921b30062f5"
+  },
+  {
+   "id": "BRD-1146/originale-cyra",
+   "name": "ORIGINALE - Cyra",
+   "url": "https://monawatches.com/products/originale-cyra",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Cyra-Watches-_-2023.jpg?v=1700761454",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Cyra-Watches-_-2023.jpg?v=1700761454",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/3_3404d0c0-7776-4d1b-9242-4b49b6635cfa.png?v=1700761453",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/1_e4a46249-604b-41ee-97e9-55dba5c1012a.png?v=1700761453",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/3_7b95eef3-bc66-4f87-9626-ececf688f0bd.png?v=1700761453",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/2_92db58fa-80d0-42db-8b75-e6b5163d97b5.png?v=1700761453",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 75900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre automatique Made In France - Conçue & Assemblée à Bordeaux À la manière de la culture japonaise du Wabi-Sabi , nous considérons que chaque objet renferme en lui une histoire, un savoir-faire, des promesses qui se transmettent d’une génération à la suivante.",
+   "productType": "ORIGINALE",
+   "tags": [
+    "Originale"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Empire Green",
+      "Acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Empire Green",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Empire Green"
+     ]
+    },
+    {
+     "title": "Acier",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita automatique SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Tuxedo",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Vert",
+    "Verre": "Saphir",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/originale-1",
+    "BRD-1146/swatch-originale",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "9e6cb8693cb99a5c"
+  },
+  {
+   "id": "BRD-1146/originale-scarlett",
+   "name": "ORIGINALE - Scarlett",
+   "url": "https://monawatches.com/products/originale-scarlett",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Scarlett-Watches-_-2023.jpg?v=1700761441",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Scarlett-Watches-_-2023.jpg?v=1700761441",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/1_6d04ea1a-b140-42d1-a8fe-e897e516f34f.png?v=1700761440",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/3_541a740a-c540-4ee2-9210-0e201ca134fb.png?v=1700761440",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/2_fb7de002-8071-4e8b-849d-5fa4ce309a8e.png?v=1700761440",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/1_cc3812a5-bbab-474f-84f8-233b3f5391e1.png?v=1700761440",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 75900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre automatique Made In France - Conçue & Assemblée à Bordeaux À la manière de la culture japonaise du Wabi-Sabi , nous considérons que chaque objet renferme en lui une histoire, un savoir-faire, des promesses qui se transmettent d’une génération à la suivante.",
+   "productType": "ORIGINALE",
+   "tags": [
+    "Originale"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Cuir Marron \"Brown J\"",
+      "Acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Cuir Marron \"Brown J\"",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir Marron \"Brown J\""
+     ]
+    },
+    {
+     "title": "Acier",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita automatique SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Blue Petrol",
+    "Aiguilles": "Noir",
+    "Trotteuse": "Grise",
+    "Verre": "Saphir",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/originale-1",
+    "BRD-1146/swatch-originale",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "0bd40c1c443c0ea4"
+  },
+  {
+   "id": "BRD-1146/frankton-california",
+   "name": "Frankton - California",
+   "url": "https://monawatches.com/products/frankton-california",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-2024_frankton_california_miel.jpg?v=1732188278",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-2024_frankton_california_miel.jpg?v=1732188278",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-2024_frankton_california_sable.jpg?v=1732188278",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_8003.jpg?v=1727345350",
+     "width": 2253,
+     "height": 2253
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-2024_frankton_california_black.jpg?v=1732188279",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_8626.heic?v=1732188243",
+     "width": 1229,
+     "height": 1229
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_8629.heic?v=1732188245",
+     "width": 3024,
+     "height": 3024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_8618.heic?v=1732188244",
+     "width": 2691,
+     "height": 2691
+    }
+   ],
+   "priceMinor": 81600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Une Field Watch hommage! Nous sommes fiers de vous présenter notre nouveau modèle de montre automatique, un hommage à l'opération Frankton, une mission audacieuse et courageuse de la Seconde Guerre mondiale. Un style robuste et fonctionnel, idéal pour les aventures en plein air. Le cadran apporte une visibilité accrue avec son cadran California , une caractéristique distinctive des montres militaires ainsi qu'une touche vintage et élégante à l'ensemble de la montre. Ce modèle est conçu pour être résistant, fiable et élégante, à l'image des hommes qui ont participé à cette mission. Chaque détail de la montre est soigneusement pensé comme si elle avait été imaginée pour cette mission. La Field Frankton, avec son design unique et son histoire fascinante, séduira les passionnés d'histoire, de montres militaires ou ceux à la recherche d'une pièce unique et élégante. Montre automatique Made In France - Conçue & Assemblée à Bordeaux",
+   "productType": "ORIGINALE",
+   "tags": [
+    "Originale"
+   ],
+   "options": [
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "Brown J",
+      "Dark Green",
+      "ACIER",
+      "Golden Hour"
+     ]
+    },
+    {
+     "name": "Couleur du cadran",
+     "values": [
+      "Asphalte",
+      "Beige"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Brown J / Asphalte",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Brown J",
+      "Asphalte"
+     ]
+    },
+    {
+     "title": "Brown J / Beige",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Brown J",
+      "Beige"
+     ]
+    },
+    {
+     "title": "Dark Green / Asphalte",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Dark Green",
+      "Asphalte"
+     ]
+    },
+    {
+     "title": "Dark Green / Beige",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Dark Green",
+      "Beige"
+     ]
+    },
+    {
+     "title": "ACIER / Asphalte",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "ACIER",
+      "Asphalte"
+     ]
+    },
+    {
+     "title": "ACIER / Beige",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "ACIER",
+      "Beige"
+     ]
+    },
+    {
+     "title": "Golden Hour / Asphalte",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Golden Hour",
+      "Asphalte"
+     ]
+    },
+    {
+     "title": "Golden Hour / Beige",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Golden Hour",
+      "Beige"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Noir ou Beige⎟ Luminova",
+    "Aiguilles": "Field Luminova",
+    "Trotteuse": "Grise",
+    "Verre": "Saphir plat",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/originale-1",
+    "BRD-1146/swatch-originale",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "4ff56c5fcca43940"
+  },
+  {
+   "id": "BRD-1146/originale-movember-full-black",
+   "name": "ORIGINALE - MOVEMBER - FULL BLACK",
+   "url": "https://monawatches.com/products/originale-movember-full-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-_-2023_movember_9995be94-abe3-4dc7-93cb-a277013cd317.jpg?v=1730444113",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-_-2023_movember_9995be94-abe3-4dc7-93cb-a277013cd317.jpg?v=1730444113",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/FRIDA_Movember_full_black.png?v=1730444374",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1022891.heic?v=1730444452",
+     "width": 5184,
+     "height": 3888
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1022872.heic?v=1730444451",
+     "width": 5184,
+     "height": 3888
+    }
+   ],
+   "priceMinor": 75900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Montre automatique MONA WATCHES - Collaboration exclusive Movember - Made in France Découvrez l’élégance de la montre automatique MONA WATCHES, fruit du savoir-faire horloger français et assemblée avec soin dans nos ateliers de Bordeaux. Cette édition exclusive en partenariat avec Movember va au-delà du simple accessoire : elle incarne des valeurs de précision et d'engagement. Pour chaque achat, 5 % des fonds sont reversés pour soutenir la santé des hommes avec Movember. En choisissant cette montre, vous optez pour la qualité d’une marque française qui allie tradition et impact positif.",
+   "productType": "COLLAB",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita automatique SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Movember",
+    "Bracelet": "Empire Green",
+    "Aiguilles": "Noire",
+    "Trotteuse": "Bronze",
+    "Verre": "Saphir",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/collaborations",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "a37ac830b00bbf47"
+  },
+  {
+   "id": "BRD-1146/frankton-field",
+   "name": "Frankton - Field",
+   "url": "https://monawatches.com/products/frankton-field",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/FRANKTON_aigmetal.jpg?v=1727344527",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/FRANKTON_aigmetal.jpg?v=1727344527",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_8003.jpg?v=1727345350",
+     "width": 2253,
+     "height": 2253
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1060857.jpg?v=1726671202",
+     "width": 4592,
+     "height": 3448
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1070275.jpg?v=1726671332",
+     "width": 4592,
+     "height": 3448
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1070290.jpg?v=1726671360",
+     "width": 3448,
+     "height": 4592
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/3-P1070068.jpg?v=1726671141",
+     "width": 3448,
+     "height": 4592
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1070303.jpg?v=1726671379",
+     "width": 3448,
+     "height": 4592
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-2024_frankton_khaki.jpg?v=1732187739",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 81600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Une Field Watch hommage! Nous sommes fiers de vous présenter notre nouveau modèle de montre automatique, un hommage à l'opération Frankton, une mission audacieuse et courageuse de la Seconde Guerre mondiale. Un style robuste et fonctionnel, idéal pour les aventures en plein air. Le cadran apporte une visibilité accrue , une caractéristique distinctive des montres militaires ainsi qu'une touche vintage et élégante à l'ensemble de la montre. Ce modèle est conçu pour être résistant, fiable et élégante, à l'image des hommes qui ont participé à cette mission. Chaque détail de la montre est soigneusement pensé comme si elle avait été imaginée pour cette mission. La Field Frankton, avec son design unique et son histoire fascinante, séduira les passionnés d'histoire, de montres militaires ou ceux à la recherche d'une pièce unique et élégante. Montre automatique Made In France - Conçue & Assemblée à Bordeaux",
+   "productType": "ORIGINALE",
+   "tags": [
+    "Originale"
+   ],
+   "options": [
+    {
+     "name": "Couleur du cadran",
+     "values": [
+      "Asphalte",
+      "Kaki"
+     ]
+    },
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "Dark Green",
+      "ACIER"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Asphalte / Dark Green",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Asphalte",
+      "Dark Green"
+     ]
+    },
+    {
+     "title": "Asphalte / ACIER",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Asphalte",
+      "ACIER"
+     ]
+    },
+    {
+     "title": "Kaki / Dark Green",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Kaki",
+      "Dark Green"
+     ]
+    },
+    {
+     "title": "Kaki / ACIER",
+     "sku": null,
+     "priceMinor": 81600,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Kaki",
+      "ACIER"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Sellita SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Noir ou Kaki⎟ Luminova",
+    "Aiguilles": "Field Luminova",
+    "Trotteuse": "Grise",
+    "Verre": "Saphir plat",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/originale-1",
+    "BRD-1146/swatch-originale",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "d8b4fe4dbfcedeb4"
+  },
+  {
+   "id": "BRD-1146/ephemere-giro",
+   "name": "Octobre Rose",
+   "url": "https://monawatches.com/products/ephemere-giro",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-2024_Giro.jpg?v=1720603733",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-2024_Giro.jpg?v=1720603733",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Giro.png?v=1720604262",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/2_9cac9739-e858-4543-a515-de81b6635bab.png?v=1720622625",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/3_d042aba1-6066-4aa9-bb38-69d274c020aa.png?v=1720622625",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 75900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "🩷 La Montre Octobre ROSE 🩷 Engagez vous avec nous contre ce combat qui touche énormément de personnes. 5% du montant de la montre sera reversé à la fondation Octobre Rose 🩷 Montre automatique Made In France - Conçue & Assemblée à Bordeaux À la manière de la culture japonaise du Wabi-Sabi , nous considérons que chaque objet renferme en lui une histoire, un savoir-faire, des promesses qui se transmettent d’une génération à la suivante.",
+   "productType": "COLLAB",
+   "tags": [],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Empire Green",
+      "Acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Empire Green",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Empire Green"
+     ]
+    },
+    {
+     "title": "Acier",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita automatique SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "PALE PINK",
+    "Bracelet": "Empire Green ou Acier",
+    "Aiguilles": "Noir",
+    "Trotteuse": "Grise",
+    "Verre": "Saphir",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/collaborations",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "81706203686148b7"
+  },
+  {
+   "id": "BRD-1146/originale-monkeybird",
+   "name": "ORIGINALE - Monkeybird",
+   "url": "https://monawatches.com/products/originale-monkeybird",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-_-2024-monkeybird_fccd8ce2-c2e7-4e55-8b34-135e56f89c1a.jpg?v=1718182261",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-_-2024-monkeybird_fccd8ce2-c2e7-4e55-8b34-135e56f89c1a.jpg?v=1718182261",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/da8fd8ff-6f09-40c5-81cd-8c295bceb3ad.jpg?v=1718122879",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_7339.heic?v=1718270211",
+     "width": 3024,
+     "height": 4032
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_6C09686BD4D6-1.jpg?v=1718122939",
+     "width": 1170,
+     "height": 432
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_1357.jpg?v=1738055233",
+     "width": 4592,
+     "height": 3448
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_0089.jpg?v=1738055233",
+     "width": 3448,
+     "height": 4592
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_0358.jpg?v=1738055233",
+     "width": 4592,
+     "height": 3448
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_1936.jpg?v=1738055234",
+     "width": 4592,
+     "height": 3448
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_3933.jpg?v=1738055234",
+     "width": 3852,
+     "height": 2892
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_2031.jpg?v=1738055233",
+     "width": 4592,
+     "height": 3448
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_5418.jpg?v=1738055234",
+     "width": 4592,
+     "height": 3448
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/IMG_7074.jpg?v=1738055234",
+     "width": 3448,
+     "height": 4592
+    }
+   ],
+   "priceMinor": 113900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Édition limitée, signée et numérotée /15 par les artistes MONKEYBIRD . Assemblage à la commande. C'est avec le duo d'artistes bordelais que nous avons donc choisi de nous associer pour proposer un tout nouveau cadran en laiton brossé et deux couleurs superposées, rappelant leur fresque monumentale de 150 mètres carrés installée à Le Locle, en Suisse. Cette oeuvre s'inscrit dans le cadre du 10e anniversaire de l'Unesco. Les deux artistes se sont munis de pochoirs et de sprays pour créer cette fresque. Ils l'ont ensuite finalisée au pinceau. Ce tableau évoque l’histoire du temps et de sa maîtrise. Mais elle y mêle aussi une touche métaphysique et religieuse. Montre automatique Made In France - Conçue & Assemblée à Bordeaux À la manière de la culture japonaise du Wabi-Sabi , nous considérons que chaque objet renferme en lui une histoire, un savoir-faire, des promesses qui se transmettent d’une génération à la suivante.",
+   "productType": "COLLAB",
+   "tags": [],
+   "options": [
+    {
+     "name": "Couleur du bracelet",
+     "values": [
+      "ACIER",
+      "Dark Green",
+      "Golden Hour",
+      "Brown J"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "ACIER",
+     "sku": null,
+     "priceMinor": 113900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "ACIER"
+     ]
+    },
+    {
+     "title": "Dark Green",
+     "sku": null,
+     "priceMinor": 113900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Dark Green"
+     ]
+    },
+    {
+     "title": "Golden Hour",
+     "sku": null,
+     "priceMinor": 113900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Golden Hour"
+     ]
+    },
+    {
+     "title": "Brown J",
+     "sku": null,
+     "priceMinor": 113900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Brown J"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita automatique SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Monkeybird",
+    "Bracelet": "Acier",
+    "Aiguilles": "Laiton et blanc",
+    "Trotteuse": "Laiton",
+    "Verre": "Saphir",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/collaborations",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "52fe9ef709cc3e13"
+  },
+  {
+   "id": "BRD-1146/frida-edition-limitee-movember",
+   "name": "ORIGINALE - Frida - MOVEMBER",
+   "url": "https://monawatches.com/products/frida-edition-limitee-movember",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-_-2023_movember.jpg?v=1718272370",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Watches-_-2023_movember.jpg?v=1718272370",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/FRIDA.jpg?v=1718272383",
+     "width": 2500,
+     "height": 1875
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1060537.jpg?v=1702562439",
+     "width": 4592,
+     "height": 3448
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/P1060530.jpg?v=1702562353",
+     "width": 4592,
+     "height": 3448
+    }
+   ],
+   "priceMinor": 75900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Montre automatique MONA WATCHES Noir et Blanc - Collaboration exclusive Movember - Made in France Optez pour l'élégance intemporelle de la montre automatique MONA WATCHES en version noir et blanc, conçue et assemblée dans nos ateliers à Bordeaux. Cette pièce horlogère exclusive associe un savoir-faire français minutieux à un engagement fort pour la santé des hommes. Grâce à notre partenariat avec Movember, 5 % des ventes de ce modèle sont reversés pour soutenir cette cause. En choisissant cette montre MONA WATCHES, vous faites le choix d'une qualité exceptionnelle et d'une marque qui valorise la précision et la solidarité.",
+   "productType": "COLLAB",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita automatique SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Movember",
+    "Bracelet": "Empire Green",
+    "Aiguilles": "Noire",
+    "Trotteuse": "Bronze",
+    "Verre": "Saphir",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/collaborations",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "7e38d22e4f63b8a8"
+  },
+  {
+   "id": "BRD-1146/originale-vesper",
+   "name": "ORIGINALE - Vesper",
+   "url": "https://monawatches.com/products/originale-vesper",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Vesper-Watches-_-2023.jpg?v=1700761422",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Vesper-Watches-_-2023.jpg?v=1700761422",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/5.png?v=1700761422",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/1_8ead622e-9100-4baa-8023-e96832d4389c.png?v=1700761422",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/3_2bc6c5e8-2093-4ec1-9bee-174d787f4292.png?v=1700761422",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/2_12e484cc-2ff7-4dee-9370-391ee6373d4a.png?v=1700761422",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 75900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre automatique Made In France - Conçue & Assemblée à Bordeaux À la manière de la culture japonaise du Wabi-Sabi , nous considérons que chaque objet renferme en lui une histoire, un savoir-faire, des promesses qui se transmettent d’une génération à la suivante.",
+   "productType": "ORIGINALE",
+   "tags": [
+    "Originale"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Dark Grey",
+      "Acier"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Dark Grey",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Dark Grey"
+     ]
+    },
+    {
+     "title": "Acier",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Acier"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita automatique SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Black Forest",
+    "Aiguilles": "Crème",
+    "Trotteuse": "Vert",
+    "Verre": "Saphir",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/originale-1",
+    "BRD-1146/swatch-originale",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "052a67fbcbdf80d1"
+  },
+  {
+   "id": "BRD-1146/montre-automatique-billie",
+   "name": "ORIGINALE - Billie",
+   "url": "https://monawatches.com/products/montre-automatique-billie",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Billie-Watches-_-2023.jpg?v=1700761478",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/Mona-Originale-Billie-Watches-_-2023.jpg?v=1700761478",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/4.png?v=1700761478",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/3.png?v=1700761478",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/2.png?v=1700761478",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/1_21ea486c-0733-42db-a9f5-622d70d977ed.png?v=1700761478",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/files/onthemetal-2.jpg?v=1714141955",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 75900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Montre automatique Made In France - Conçue & Assemblée à Bordeaux À la manière de la culture japonaise du Wabi-Sabi , nous considérons que chaque objet renferme en lui une histoire, un savoir-faire, des promesses qui se transmettent d’une génération à la suivante.",
+   "productType": "ORIGINALE",
+   "tags": [
+    "Originale"
+   ],
+   "options": [
+    {
+     "name": "Bracelet",
+     "values": [
+      "Acier",
+      "Cuir \"Old Cream\""
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Acier",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Acier"
+     ]
+    },
+    {
+     "title": "Cuir \"Old Cream\"",
+     "sku": null,
+     "priceMinor": 75900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Cuir \"Old Cream\""
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "SW100",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Mouvement": "Sellita automatique SW100",
+    "Boitier": "Acier 316L- Rond - Diamètre 39mm",
+    "Cadran": "Old cream",
+    "Aiguilles": "Bleu",
+    "Trotteuse": "Abricot",
+    "Verre": "Saphir",
+    "Étanchéité": "10 ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/originale-1",
+    "BRD-1146/swatch-originale",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "1f901a6b59f207fb"
+  },
+  {
+   "id": "BRD-1146/carmen",
+   "name": "Braddock",
+   "url": "https://monawatches.com/products/carmen",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Braddock-Carmen_-Watches-_-2023_d8492585-501a-4675-b16b-440141299e9a.jpg?v=1679065149",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Braddock-Carmen_-Watches-_-2023_d8492585-501a-4675-b16b-440141299e9a.jpg?v=1679065149",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Carmenprofil_2fcfec8a-0223-45c3-a97f-d1962a048229.jpg?v=1679065149",
+     "width": 2486,
+     "height": 2486
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC0893_53c35893-8faa-44be-a917-126d59309ddb.jpg?v=1679065149",
+     "width": 2144,
+     "height": 2144
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/MG_7782_827ec27f-f224-4796-9e31-b712982338a9.jpg?v=1679065149",
+     "width": 3543,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Watches-Carmen-Pierre-Le-Targat-Photographe_242ea3ca-dcfc-4bcb-8e05-eb26157a6a77.jpg?v=1679065149",
+     "width": 2815,
+     "height": 2815
+    }
+   ],
+   "priceMinor": 27600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Carmen est une réédition d'un premier modèle créé en 2014. Avec son cadran en laiton elle nous faisait penser à un instrument de musique, à une opérette d'été. Disponible aussi en bracelet marron - Absolutamente Gold Assemblé à Bordeaux, France",
+   "productType": "HERITAGE",
+   "tags": [
+    "Braddock",
+    "Heritage"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Carmen": "est une réédition d'un premier modèle créé en 2014. Avec son cadran en laiton elle nous faisait penser à un instrument de musique, à une opérette d'été.",
+    "Collection": "Braddock",
+    "Format du boitier": "Ø40mm / H8.2mm",
+    "Mouvement": "ETA Swiss Quartz 956.402",
+    "Boitier": "Acier",
+    "Cadran": "Laiton",
+    "Bracelet": "Noir",
+    "Aiguilles": "Noir",
+    "Trotteuse": "Rouge",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/heritage",
+    "BRD-1146/swatch-braddock",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "3c7539f817554f85"
+  },
+  {
+   "id": "BRD-1146/hoover",
+   "name": "Hoover",
+   "url": "https://monawatches.com/products/hoover",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Hoover-Watches-_-2023.jpg?v=1679583321",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Hoover-Watches-_-2023.jpg?v=1679583321",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Hoover2.jpg?v=1679583321",
+     "width": 2362,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/058.jpg?v=1679583321",
+     "width": 3543,
+     "height": 2231
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Hoover3.jpg?v=1679583321",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1015.jpg?v=1679583319",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1017.jpg?v=1679583319",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1018.jpg?v=1679583319",
+     "width": 4288,
+     "height": 2848
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "La Hoover est une référence au personnage du même nom et de cette époque. Les modes et tendances de la période d'après guerre jusqu'aux années 70, nous ont toujours attiré. Ici, l'union du blanc et du métal permet à cette trotteuse rouge en mouvement dans un univers statique, de vous rappeler que le temps passe.",
+   "productType": "NEVCO",
+   "tags": [
+    "cushion",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Collection": "Cushion",
+    "Format du boitier": "Coussin 41mm H8.1mm",
+    "Mouvement": "MIYOTA - Quartz 2035",
+    "Boitier": "Acier",
+    "Cadran": "Blanc",
+    "Bracelet": "marron",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Rouge",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-cushion"
+   ],
+   "hash": "8dc514eaa591f228"
+  },
+  {
+   "id": "BRD-1146/ghost-cut",
+   "name": "Ghost Cut",
+   "url": "https://monawatches.com/products/ghost-cut",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Ghost-Cut-Watches-_-2023.jpg?v=1679583337",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Ghost-Cut-Watches-_-2023.jpg?v=1679583337",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Ghost-Cut2.jpg?v=1679583337",
+     "width": 2362,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1030.jpg?v=1679583335",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1032.jpg?v=1679944015",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/087.jpg?v=1679944074",
+     "width": 3543,
+     "height": 2362
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Ghost Cut est un modèle full black qui suit la lignée de la Ghost et Ghost Mesure. Un design minimaliste, épuré proposant une lecture de l'heure simple et rapide.",
+   "productType": "NEVCO",
+   "tags": [
+    "cushion",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Ghost Cut": "est un modèle full black qui suit la lignée de la Ghost et Ghost Mesure.",
+    "Collection": "Cushion",
+    "Format du boitier": "Coussin 41mm H8.1mm",
+    "Mouvement": "MIYOTA - Quartz 2035",
+    "Boitier": "Noir",
+    "Cadran": "Noir",
+    "Bracelet": "Noir",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Rouge",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-cushion"
+   ],
+   "hash": "f5125940103c2824"
+  },
+  {
+   "id": "BRD-1146/moore",
+   "name": "Moore",
+   "url": "https://monawatches.com/products/moore",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Moore-Watches-_-2023.jpg?v=1679583352",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Moore-Watches-_-2023.jpg?v=1679583352",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Moore2.jpg?v=1679583352",
+     "width": 2362,
+     "height": 3458
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Moore3.jpg?v=1679583352",
+     "width": 3543,
+     "height": 2264
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/074.jpg?v=1679583352",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1010.jpg?v=1679583352",
+     "width": 4158,
+     "height": 2570
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1011.jpg?v=1679583352",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1014.jpg?v=1679583352",
+     "width": 4288,
+     "height": 2848
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Moore est un clin d'œil à l'acteur britannique et une nouvelle référence aux années 60-70. Elle est une des plus originale dans nos créations par l'utilisation de cet or-rose. Une partenaire aussi sobre qu'excentrique.",
+   "productType": "NEVCO",
+   "tags": [
+    "cushion",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Collection": "Cushion",
+    "Format du boitier": "Coussin 41mm H8.1mm",
+    "Mouvement": "MIYOTA - Quartz 2035",
+    "Boitier": "Cuivre",
+    "Cadran": "Marron",
+    "Bracelet": "Marron",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Rouge",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-cushion"
+   ],
+   "hash": "7bac7343fb85fe82"
+  },
+  {
+   "id": "BRD-1146/gold-cut",
+   "name": "Gold Cut",
+   "url": "https://monawatches.com/products/gold-cut",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Gold-Cut-Watches-_-2023.jpg?v=1679583391",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Gold-Cut-Watches-_-2023.jpg?v=1679583391",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/042.png?v=1679583391",
+     "width": 1500,
+     "height": 2146
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Gold-Cut3.jpg?v=1679583391",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/068.jpg?v=1679583391",
+     "width": 3378,
+     "height": 2252
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/070.jpg?v=1679583389",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC0049.png?v=1679583389",
+     "width": 1500,
+     "height": 1003
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1020.jpg?v=1679583389",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1077.jpg?v=1679583389",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1082.jpg?v=1679583389",
+     "width": 4288,
+     "height": 2848
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "La Gold-Cut intègre notre série de modèles proposant un plaquage or, offrant un aspect raffiné à nos créations. Le bracelet en cuir noir suscite différentes émotions.",
+   "productType": "NEVCO",
+   "tags": [
+    "cushion",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Collection": "Cushion",
+    "Format du boitier": "Coussin 41mm H8.1mm",
+    "Mouvement": "MIYOTA - Quartz 2035",
+    "Boitier": "Doré",
+    "Cadran": "Blanc",
+    "Bracelet": "Noir",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Rouge",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-cushion",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "4639d343175d1feb"
+  },
+  {
+   "id": "BRD-1146/kalahari",
+   "name": "Kalahari",
+   "url": "https://monawatches.com/products/kalahari",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Kalahari-Watches-_-2023.jpg?v=1679583406",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Kalahari-Watches-_-2023.jpg?v=1679583406",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Kalahari2.jpg?v=1679583406",
+     "width": 2363,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC0971.jpg?v=1679583406",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Kalahari12.jpg?v=1679583406",
+     "width": 600,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Kalahari3.jpg?v=1679583404",
+     "width": 3501,
+     "height": 2244
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Kalahari est le second modèle de notre collection Cushion, que l'on a voulu en rappel de la Supernova. La palette de couleur choisie est une référence au désert du Kalahari. Son côté explorateur, attirera les désireux d'espaces et de nature. Un design minimaliste, épuré proposant une lecture de l'heure simple et rapide.",
+   "productType": "NEVCO",
+   "tags": [
+    "cushion",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Kalahari": "est le second modèle de notre collection Cushion, que l'on a voulu en rappel de la Supernova. La palette de couleur choisie est une référence au désert du Kalahari. Son côté explorateur, attirera les désireux d'espaces et de nature.",
+    "Collection": "Cushion",
+    "Format du boitier": "Coussin 41mm H8.1mm",
+    "Mouvement": "MIYOTA - Quartz 2035",
+    "Boitier": "Noir",
+    "Cadran": "Beige",
+    "Bracelet": "Marron",
+    "Aiguilles": "Noir",
+    "Trotteuse": "Rouge",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-cushion"
+   ],
+   "hash": "0e8c1e880a0e5e82"
+  },
+  {
+   "id": "BRD-1146/fury",
+   "name": "Fury",
+   "url": "https://monawatches.com/products/fury",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Fury-Watches-_-2023.jpg?v=1679583419",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Cushion-Fury-Watches-_-2023.jpg?v=1679583419",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Fury2.jpg?v=1679944617",
+     "width": 2362,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1004.jpg?v=1679944617",
+     "width": 3851,
+     "height": 2755
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC0996.jpg?v=1679944617",
+     "width": 3414,
+     "height": 2139
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC0068.jpg?v=1679945730",
+     "width": 4180,
+     "height": 2727
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC0041.jpg?v=1679945730",
+     "width": 2834,
+     "height": 2037
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC0998.jpg?v=1679945730",
+     "width": 4157,
+     "height": 2685
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/078.jpg?v=1679945730",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Fury.jpg?v=1679945730",
+     "width": 900,
+     "height": 600
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Par ce que nous aimons les ambivalences, Fury a été pensée comme un modèle qui dégage confiance et assurance. Une trotteuse jaune qui se balade sur un cadran noir. Un design minimaliste, épuré proposant une lecture de l'heure simple et rapide.",
+   "productType": "NEVCO",
+   "tags": [
+    "cushion",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Collection": "Cushion",
+    "Format du boitier": "Coussin 41mm H8.1mm",
+    "Mouvement": "MIYOTA - Quartz 2035",
+    "Boitier": "Acier",
+    "Cadran": "Noir",
+    "Bracelet": "Marron",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Jaune",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-cushion"
+   ],
+   "hash": "70f9414f963b8933"
+  },
+  {
+   "id": "BRD-1146/ghost",
+   "name": "Ghost",
+   "url": "https://monawatches.com/products/ghost",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Prima-Ghost-Watches-_-2023.jpg?v=1679328574",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Prima-Ghost-Watches-_-2023.jpg?v=1679328574",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/046.png?v=1679944834",
+     "width": 1500,
+     "height": 2098
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1033.jpg?v=1679944834",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1035.jpg?v=1679944834",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/088.jpg?v=1679328574",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/090.jpg?v=1679328574",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/091cut.png?v=1679328574",
+     "width": 1500,
+     "height": 973
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/094.png?v=1679328574",
+     "width": 1877,
+     "height": 1199
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Ghost.jpg?v=1679328574",
+     "width": 900,
+     "height": 600
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Ghost est notre premier modèle full black. Nous l'avons dessiné pour ceux qui veulent un instrument qui disparait au poignet. La trotteuse jaune est seulement là pour vous rappeler que l'âme de cette montre est bien vivante, et que le temps passe.",
+   "productType": "NEVCO",
+   "tags": [
+    "NEVCO",
+    "Prima"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Collection": "Prima",
+    "Format du boitier": "Ø37mm H7.8mm",
+    "Mouvement": "MIYOTA - Quartz 2035",
+    "Boitier": "Noir",
+    "Cadran": "Noir",
+    "Bracelet": "Noir",
+    "Aiguilles": "Noir",
+    "Trotteuse": "Jaune",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-prima"
+   ],
+   "hash": "73695518aea7ece6"
+  },
+  {
+   "id": "BRD-1146/solar",
+   "name": "SOLAR",
+   "url": "https://monawatches.com/products/solar",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Prima-Solar-Watches-_-2023.jpg?v=1679328546",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Prima-Solar-Watches-_-2023.jpg?v=1679328546",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Solar2.jpg?v=1679944790",
+     "width": 2362,
+     "height": 3543
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC0993.jpg?v=1679944790",
+     "width": 4288,
+     "height": 2848
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/097.jpg?v=1679944790",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/0100.jpg?v=1679944790",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/0102.jpg?v=1679944790",
+     "width": 3543,
+     "height": 2362
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Solar.jpg?v=1679944790",
+     "width": 884,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Solar3.jpg?v=1679328546",
+     "width": 3543,
+     "height": 2362
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Pour ce modèle, nous voulions de la lumière. Le soleil éblouissant de la banquise a été notre inspiration. Solar est donc une inspiration polaire avec ce subtile mélange de Bleu blanquise sur son cadran et d'or avec le boitier et la boucle. Un design minimaliste, épuré proposant une lecture de l'heure simple et rapide.",
+   "productType": "NEVCO",
+   "tags": [
+    "NEVCO",
+    "Prima"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Collection": "Prima",
+    "Format du boitier": "Ø37mm H7.8mm",
+    "Mouvement": "MIYOTA - Quartz 2035",
+    "Boitier": "Doré",
+    "Cadran": "Bleu",
+    "Bracelet": "Vert",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Rouge",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-prima"
+   ],
+   "hash": "1fbceadbd68c4f52"
+  },
+  {
+   "id": "BRD-1146/bering",
+   "name": "Bering",
+   "url": "https://monawatches.com/products/bering",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Chrono-Bering-Watches-_-2023.jpg?v=1679582839",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Chrono-Bering-Watches-_-2023.jpg?v=1679582839",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/1.jpg?v=1679944962",
+     "width": 1200,
+     "height": 736
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/3.jpg?v=1679944962",
+     "width": 461,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/bering_2.jpg?v=1679944743",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/bering_1.jpg?v=1679944743",
+     "width": 900,
+     "height": 900
+    }
+   ],
+   "priceMinor": 12400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Bering est une nouvelle référence géographique. Elle est un hommage aux explorateurs des grands froids. Les appliques noires deviennent des repères, des balises sur une étendue de blanc.",
+   "productType": "NEVCO",
+   "tags": [
+    "Chrono",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Bering": "est une nouvelle référence géographique. Elle est un hommage aux explorateurs des grands froids. Les appliques noires deviennent des repères, des balises sur une étendue de blanc.",
+    "Collection": "Chrono",
+    "Format du boitier": "Ø37mm H9.9mm",
+    "Mouvement": "MIYOTA - Quartz OS21 Chrono",
+    "Boitier": "Acier",
+    "Cadran": "Blanc",
+    "Bracelet": "Marron",
+    "Aiguilles": "Gris",
+    "Trotteuse": "Jaune",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-chrono"
+   ],
+   "hash": "7057da0d71da733a"
+  },
+  {
+   "id": "BRD-1146/ghost-mesure",
+   "name": "Ghost Mesure",
+   "url": "https://monawatches.com/products/ghost-mesure",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Chrono-GhostMesure-Watches-_-2023.jpg?v=1679328500",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Chrono-GhostMesure-Watches-_-2023.jpg?v=1679328500",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/ghost-mesure_1.jpg?v=1679328500",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1041.jpg?v=1679919120",
+     "width": 1200,
+     "height": 797
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1044.jpg?v=1679919120",
+     "width": 1200,
+     "height": 797
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1046.jpg?v=1679919120",
+     "width": 1200,
+     "height": 797
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Ghost-Mesure2.jpg?v=1679919120",
+     "width": 1200,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Ghost-Mesure3.jpg?v=1679919120",
+     "width": 1200,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/ghost-mesure_2.jpg?v=1679919120",
+     "width": 800,
+     "height": 800
+    }
+   ],
+   "priceMinor": 12400,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Ghost Mesure intègre notre série de modèle full black. Résolument tournée vers l'action, ce modèle accompagnera toutes les personnes de terrains. Son cadran ivoire la rend discrète, quand la trotteuse rouge ressort du cadran et de ses deux compteurs.",
+   "productType": "NEVCO",
+   "tags": [
+    "Chrono",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Ghost Mesure": "intègre notre série de modèle full black.",
+    "Collection": "Chrono",
+    "Format du boitier": "Ø37mm H9.9mm",
+    "Mouvement": "MIYOTA - Quartz OS21 Chrono",
+    "Boitier": "Noir",
+    "Cadran": "Ivoire",
+    "Bracelet": "Noir",
+    "Aiguilles": "Noir",
+    "Trotteuse": "Rouge",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-chrono"
+   ],
+   "hash": "d1f888898301f31e"
+  },
+  {
+   "id": "BRD-1146/kourou",
+   "name": "Chrono",
+   "url": "https://monawatches.com/products/kourou",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Chrono-Kourou-Watches-_-2023.jpg?v=1679582710",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-Nevco-Chrono-Kourou-Watches-_-2023.jpg?v=1679582710",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/kourou_1.jpg?v=1679582710",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/kourou_2.jpg?v=1679582710",
+     "width": 900,
+     "height": 900
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1006.jpg?v=1679918929",
+     "width": 1200,
+     "height": 797
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1005.jpg?v=1679918928",
+     "width": 1200,
+     "height": 797
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/DSC1007.jpg?v=1679918930",
+     "width": 1200,
+     "height": 797
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/025.jpg?v=1679918929",
+     "width": 1200,
+     "height": 710
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/026.jpg?v=1679918928",
+     "width": 1200,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/028.jpg?v=1679918930",
+     "width": 1200,
+     "height": 800
+    }
+   ],
+   "priceMinor": 12400,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Kourou , est notre première montre avec instruments de mesure. Son cadran bleu marine lui offre de la profondeur et fait ressurgir la trotteuse orange. Un aspect plus sauvage, ainsi qu'une nouvelle référence géographique, dédiée aux explorateurs.",
+   "productType": "NEVCO",
+   "tags": [
+    "Chrono",
+    "NEVCO"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Kourou": ", est notre première montre avec instruments de mesure. Son cadran bleu marine lui offre de la profondeur et fait ressurgir la trotteuse orange. Un aspect plus sauvage, ainsi qu'une nouvelle référence géographique, dédiée aux explorateurs.",
+    "Collection": "Chrono",
+    "Format du boitier": "Ø37mm H9.9mm",
+    "Mouvement": "MIYOTA - Quartz OS21 Chrono",
+    "Boitier": "Acier",
+    "Cadran": "Bleu",
+    "Bracelet": "Marron",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Bleu",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/nevco",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-chrono",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "52f1d2ad55d13e43"
+  },
+  {
+   "id": "BRD-1146/novalova",
+   "name": "HMS",
+   "url": "https://monawatches.com/products/novalova",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-HMS-Novalova-Watches-_-2023.jpg?v=1678982552",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/Mona-HMS-Novalova-Watches-_-2023.jpg?v=1678982552",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/products/NovaLova2.jpg?v=1678982552",
+     "width": 900,
+     "height": 900
+    }
+   ],
+   "priceMinor": 27600,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "NovaLova est une référence à nos premières idées de créations. Vous retrouvez tout l'esthétisme de la gamme HMS dans ce modèle. Un design minimaliste, épuré proposant une lecture de l'heure simple et rapide. Assemblé à Bordeaux, France",
+   "productType": "HERITAGE",
+   "tags": [
+    "Heritage",
+    "HMS"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "other",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "NovaLova": "est une référence à nos premières idées de créations.",
+    "Collection": "HMS",
+    "Format du boitier": "Ø40mm / H8.2mm",
+    "Mouvement": "ETA Swiss Quartz 956.402",
+    "Boitier": "Acier",
+    "Cadran": "Beige",
+    "Bracelet": "Marron",
+    "Aiguilles": "Blanc",
+    "Trotteuse": "Bleu",
+    "Verre": "Minéral",
+    "Étanchéité": "3ATM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:59:46.407Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:59:46.407Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1146/heritage",
+    "BRD-1146/quartz",
+    "BRD-1146/swatch-hms",
+    "BRD-1146/toutes-les-montres"
+   ],
+   "hash": "dc402a7ecd897a3c"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1146/collaborations",
+   "name": "Collaborations",
+   "url": "https://monawatches.com/collections/collaborations",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/collections/38.jpg?v=1730445639",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1146/heritage",
+   "name": "HERITAGE",
+   "url": "https://monawatches.com/collections/heritage",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/collections/Terra2.jpg?v=1678983329",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1146/nevco",
+   "name": "NEVCO",
+   "url": "https://monawatches.com/collections/nevco",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/collections/basic3.png?v=1678983224",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1146/objets-du-temps",
+   "name": "Objets du temps",
+   "url": "https://monawatches.com/collections/objets-du-temps",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1146/originale-1",
+   "name": "ORIGINALE",
+   "url": "https://monawatches.com/collections/originale-1",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0736/8667/9859/collections/BILLIE.jpg?v=1700817397",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1146/quartz",
+   "name": "Quartz",
+   "url": "https://monawatches.com/collections/quartz",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1146/swatch-braddock",
+   "name": "Swatch BRADDOCK",
+   "url": "https://monawatches.com/collections/swatch-braddock",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1146/swatch-chrono",
+   "name": "Swatch Chrono",
+   "url": "https://monawatches.com/collections/swatch-chrono",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1146/swatch-cushion",
+   "name": "Swatch Cushion",
+   "url": "https://monawatches.com/collections/swatch-cushion",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1146/swatch-hms",
+   "name": "Swatch HMS",
+   "url": "https://monawatches.com/collections/swatch-hms",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1146/swatch-originale",
+   "name": "SWATCH ORIGINALE",
+   "url": "https://monawatches.com/collections/swatch-originale",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1146/swatch-prima",
+   "name": "Swatch Prima",
+   "url": "https://monawatches.com/collections/swatch-prima",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1146/toutes-les-montres",
+   "name": "Toutes les montres",
+   "url": "https://monawatches.com/collections/toutes-les-montres",
+   "description": null,
+   "image": null
+  }
+ ]
+}

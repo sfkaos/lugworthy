@@ -1,0 +1,394 @@
+{
+ "brandId": "BRD-0378",
+ "brandName": "Max Twelve",
+ "website": "https://max-twelve.com",
+ "crawledAt": "2026-11-01T07:52:58.009Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://max-twelve.com/cdn/shop/files/Max_Twelve_White.png?v=1787334554",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://max-twelve.com/"
+ },
+ "attribution": "Images © Max Twelve, from max-twelve.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0378/skeleton-all-black",
+   "name": "Skeleton All Black",
+   "url": "https://max-twelve.com/products/skeleton-all-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Skeletonallblackhero.png?v=1743515198",
+    "width": 1984,
+    "height": 2976
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Skeletonallblackhero.png?v=1743515198",
+     "width": 1984,
+     "height": 2976
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Small_MAXVII-3-4-BLK-01-HD.jpg?v=1746807300",
+     "width": 1667,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Small_MAXVII-MECA-BLK-01-HD.jpg?v=1746807300",
+     "width": 1667,
+     "height": 2500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/603e8032-5c08-4dc9-8ba6-ff95e7317243.jpg?v=1746807591",
+     "width": 1840,
+     "height": 2761
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/DSC_9583.jpg?v=1746807591",
+     "width": 3592,
+     "height": 5392
+    }
+   ],
+   "priceMinor": 450000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The bestseller, now in black. DLC technology was developed for demanding engineering applications, from advanced Formula 1 engines, where it reduces friction and wear, to helicopter gearboxes engineered to enable safe emergency landings even in the event of oil loss. This technology is now applied to our most popular model. The result is a timepiece that shifts from deep black to anthracite silver with the light, revealing a bold and dynamic character. The perfect balance between sporty performance and classic elegance. From travel to black-tie occasions, always ready for your next adventure.",
+   "productType": "watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Origin / production More than Swiss Made": "case and dial manufactured in the Canton of Zurich. Swiss DLC coating. Hand-finishing, anodizing, assembly, regulation and testing in the Max Twelve atelier in Zurich. Swiss movement."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:52:58.009Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:52:58.009Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "914279a7b94d73b8"
+  },
+  {
+   "id": "BRD-0378/skeleton",
+   "name": "Skeleton",
+   "url": "https://max-twelve.com/products/skeleton",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Skeleton_gold_hero.png?v=1737015383",
+    "width": 1984,
+    "height": 2976
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Skeleton_gold_hero.png?v=1737015383",
+     "width": 1984,
+     "height": 2976
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/MAXVII-GR-SKEL-3-4-01-HR.jpg?v=1737025064",
+     "width": 2411,
+     "height": 3617
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Box_Champagner_Beige_1_1.jpg?v=1737015383",
+     "width": 1000,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Skeleton_blue_hero_e4ea2fbc-b3d1-41b7-9d28-6d68e45e6f92.png?v=1737015383",
+     "width": 1984,
+     "height": 2976
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/MAXVII-3-4-01-HR.jpg?v=1737015383",
+     "width": 2940,
+     "height": 4408
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/MAXVII-BOX-01-HR_1.jpg?v=1737015380",
+     "width": 2909,
+     "height": 4360
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/watch_back_hero.png?v=1737026858",
+     "width": 2879,
+     "height": 4316
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Champagner-22.jpg?v=1737033299",
+     "width": 2384,
+     "height": 3577
+    }
+   ],
+   "priceMinor": 350000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "QUIET LUXURY, ENGINEERED A high-end finished skeleton movement, set within a hand-ground watch case with contrasting grinding directions, meets a bezel with visible CNC surface structures and precisely defined edges. Together, these details create a subtle yet distinctive shine, a quiet expression of luxury and always a Max Twelve story worth telling. The Skeleton draws inspiration from the legendary racing engines of the 1930s, an era when engineering was still openly visible and became part of the design itself. Made for entrepreneurial minds and adventurers who know their value, follow their own path and wear their character with confidence. True to the motto “12 hours, 60 minutes”, this dial configuration has an edition of 60 pieces.",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Champagne",
+      "Blue"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Champagne",
+     "sku": null,
+     "priceMinor": 350000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Champagne"
+     ]
+    },
+    {
+     "title": "Blue",
+     "sku": null,
+     "priceMinor": 350000,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": "blue",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Dial color": "Champagne Blue SHIPPING Delivery, import duties and taxes are included for Switzerland, the EU and the USA (DDP, Delivered Duty Paid). For orders to other countries, please contact us by email. SPECS 1 warranty 3 years. See more information here",
+    "Origin / production More than Swiss Made": "case and dial manufactured in the Canton of Zurich. Hand-finishing, anodizing, assembly, regulation and testing in the Max Twelve atelier in Zurich. Swiss movement."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:52:58.009Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:52:58.009Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "292f096ef94117a2"
+  },
+  {
+   "id": "BRD-0378/max-gruter-astronaut-watch",
+   "name": "Astronaut",
+   "url": "https://max-twelve.com/products/max-gruter-astronaut-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Astronaut_blue_hero.png?v=1737031329",
+    "width": 3566,
+    "height": 5349
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Astronaut_blue_hero.png?v=1737031329",
+     "width": 3566,
+     "height": 5349
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Max_Gruter_sleeve.png?v=1737031329",
+     "width": 3463,
+     "height": 5195
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Astronautgoldhero.png?v=1737031329",
+     "width": 3566,
+     "height": 5349
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/Astronaut_lilac_hero.png?v=1737031329",
+     "width": 3566,
+     "height": 5349
+    }
+   ],
+   "priceMinor": 420000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Astronaut Collection is an exclusive collaboration between Max Twelve and Zurich-based object and media artist Max Grüter. He is known for his figurative art, including digital 3D models, often depicting people in technological protective suits such as astronauts or divers. This floating astronaut dial, available in Purple, Orbit Blue, and Orbit Gold, appears to hover inside the watch case like in a space capsule, navigating through space, time, and mechanics. It is part of a limited watch collection with only twelve pieces per color. The case back features the numbering (xx/12) and the artist’s name, “Max Grüter,” engraved with a ball engraving tool. The fully CNC-turned bezel showcases a structure never seen before in watch bezels. The new Sellita skeleton movement with a brushed and rhodium-plated finish offers a deep view into the automatic mechanism beneath the double anti-reflective sapphire crystal. Following the motto “12 hours, 60 minutes”, this configuration is limited to 12 pieces per color. Each watch is individually numbered: xx / 12.",
+   "productType": "watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Orbit Blue",
+      "Purple",
+      "Orbit Gold"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Orbit Blue",
+     "sku": null,
+     "priceMinor": 420000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Orbit Blue"
+     ]
+    },
+    {
+     "title": "Purple",
+     "sku": null,
+     "priceMinor": 420000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Purple"
+     ]
+    },
+    {
+     "title": "Orbit Gold",
+     "sku": null,
+     "priceMinor": 420000,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Orbit Gold"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40.2,
+    "lugWidthMm": 20,
+    "lugToLugMm": 45.3,
+    "thicknessMm": 10,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "blue",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Each watch is individually numbered": "xx / 12.",
+    "Dial color": "Orbit Blue Purple Orbit Gold Materials 904L stainless steel case, laser-cut and anodized titanium dial, crystal-clear, double anti-reflective sapphire glass. Specs Diameter: 40.2 mm",
+    "Case height": "10.0 mm",
+    "Length": "49.8 mm",
+    "Lug width": "20 mm",
+    "Lug-to-lug distance": "45.3 mm",
+    "Weight": "95 g without the strap Warranty 3 years. See more information here",
+    "Diameter": "40.2 mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:52:58.009Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:52:58.009Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2d5a7ec5046f4a71"
+  },
+  {
+   "id": "BRD-0378/hexagon",
+   "name": "Hexagon",
+   "url": "https://max-twelve.com/products/hexagon",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/hexagon_hero_shot.png?v=1737029103",
+    "width": 1984,
+    "height": 2976
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/hexagon_hero_shot.png?v=1737029103",
+     "width": 1984,
+     "height": 2976
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/MAXVII1-MECA-HEXA-01-HR_1.jpg?v=1737029103",
+     "width": 2239,
+     "height": 3359
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/MAXVII-HEXA-3-4-01-HR.jpg?v=1737029103",
+     "width": 2896,
+     "height": 4344
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0866/9741/0892/files/u4r1.png?v=1739462358",
+     "width": 2992,
+     "height": 4488
+    }
+   ],
+   "priceMinor": 310000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Hexagon features a two-layer laser-cut titanium dial. The lower, matte-finished layer, sourced directly from the rolling mill, subtly reflects light, while the upper, hand-ground layer alternates between reflecting and absorbing light depending on the angle. Together, these layers create a uniquely dynamic and captivating dial design. Drawing inspiration from the steam engine of the historic Schiller steamship from 1906, the Hexagon embodies the same essence: bolts, precision-turned drive shafts, and gleaming steel - just like Max Twelve. The Hexagon comes with a black FKM rubber strap with a butterfly folding clasp and a green nylon strap. Nylon straps in additional colors are available separately. Following the motto “12 hours, 60 minutes”, this configuration is limited to 60 pieces.",
+   "productType": "watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Origin / production More than Swiss Made": "case and dial manufactured in the Canton of Zurich. Hand-finishing, anodizing, assembly, regulation and testing in the Max Twelve atelier in Zurich. Swiss movement."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:52:58.009Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:52:58.009Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "06defffbba78684f"
+  }
+ ],
+ "collections": []
+}

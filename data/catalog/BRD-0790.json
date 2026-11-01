@@ -1,0 +1,2449 @@
+{
+ "brandId": "BRD-0790",
+ "brandName": "Caveman Watches",
+ "website": "https://cavemanwatches.com",
+ "crawledAt": "2026-11-01T06:47:32.623Z",
+ "status": "ok",
+ "platform": "woocommerce",
+ "brandImage": {
+  "url": "https://cavemanwatches.com/wp-content/uploads/2024/06/cavemane-logo-white.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://cavemanwatches.com/"
+ },
+ "attribution": "Images © Caveman Watches, from cavemanwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0790/moba-kwabotwe-legacy-edition",
+   "name": "Kwabotwe Legacy Edition",
+   "url": "https://cavemanwatches.com/product/moba-kwabotwe-legacy-edition/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-kwabotwe-red-sq.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-kwabotwe-red-sq.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-kwabotwe-black-sq.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1350000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": "From the Caveman x MOBA 150 collection, hand assembled in Accra.",
+   "productType": "MOBA 150",
+   "tags": [],
+   "options": [
+    {
+     "name": "Kwabotwe Variations",
+     "values": [
+      "Black Dial",
+      "Red Dial"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Kwabotwe Legacy Edition",
+     "sku": "kwabotwe-legacy-edition_gnXeO",
+     "priceMinor": 1350000,
+     "compareAtMinor": 1500000,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Kwabotwe Variations": "Black Dial, Red Dial",
+    "Original price was": "₵15,000.00.",
+    "Current price is": "₵13,500.00.",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵2,000.00 through ₵3,200.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/moba-150"
+   ],
+   "hash": "718e43dabde6b48c"
+  },
+  {
+   "id": "BRD-0790/moba-faithful-8-edition",
+   "name": "The Faithful 8 Edition",
+   "url": "https://cavemanwatches.com/product/moba-faithful-8-edition/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-faithful-8-black-sq.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-faithful-8-black-sq.webp",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-faithful-8-red-sq.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 450000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": "From the Caveman x MOBA 150 collection, hand assembled in Accra.",
+   "productType": "MOBA 150",
+   "tags": [],
+   "options": [
+    {
+     "name": "Faithful 8 Variations",
+     "values": [
+      "Black Strap",
+      "Red Strap"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "The Faithful 8 Edition",
+     "sku": "the-faithful-8-edition_BfiyA",
+     "priceMinor": 450000,
+     "compareAtMinor": 500000,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Faithful 8 Variations": "Black Strap, Red Strap",
+    "Original price was": "₵5,000.00.",
+    "Current price is": "₵4,500.00.",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵2,000.00 through ₵4,900.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/moba-150"
+   ],
+   "hash": "a8828d10c8487804"
+  },
+  {
+   "id": "BRD-0790/moba-dwen-hwe-kan",
+   "name": "Dwen Hwe Kan",
+   "url": "https://cavemanwatches.com/product/moba-dwen-hwe-kan/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-dwen-hwe-kan-sq.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-dwen-hwe-kan-sq.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 450000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": "From the Caveman x MOBA 150 collection, hand assembled in Accra.",
+   "productType": "MOBA 150",
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "Dwen Hwe Kan",
+     "sku": "dwen-hwe-kan_wroLu",
+     "priceMinor": 450000,
+     "compareAtMinor": 500000,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Original price was": "₵5,000.00.",
+    "Current price is": "₵4,500.00.",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵4,500.00 through ₵6,000.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/moba-150"
+   ],
+   "hash": "fdfec3c3df06e4a4"
+  },
+  {
+   "id": "BRD-0790/moba-1876-heritage-edition",
+   "name": "1876 Heritage Edition",
+   "url": "https://cavemanwatches.com/product/moba-1876-heritage-edition/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-1876-heritage-sq.webp",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/10/moba-1876-heritage-sq.webp",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 540000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": "From the Caveman x MOBA 150 collection, hand assembled in Accra.",
+   "productType": "MOBA 150",
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "1876 Heritage Edition",
+     "sku": "1876-heritage-edition_FMIua",
+     "priceMinor": 540000,
+     "compareAtMinor": 600000,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Original price was": "₵6,000.00.",
+    "Current price is": "₵5,400.00.",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵2,000.00 through ₵3,200.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/moba-150"
+   ],
+   "hash": "65aa5d053cfd66b0"
+  },
+  {
+   "id": "BRD-0790/hope-watch",
+   "name": "Hope Watch",
+   "url": "https://cavemanwatches.com/product/hope-watch/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2026/01/Hope-watch-gold-mesh-strap.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/01/Hope-watch-gold-mesh-strap.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/01/Hope-watch-silver-brown-strap.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/01/Hope-watch-rosegold-brown-strap.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 250000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "CSR",
+   "tags": [],
+   "options": [
+    {
+     "name": "Hope Variation",
+     "values": [
+      "Gold Mesh Strap",
+      "Rosegold Brown Strap",
+      "Silver Brown Strap"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Hope Variation": "Gold Mesh Strap, Rosegold Brown Strap, Silver Brown Strap",
+    "Price range": "₵2,500.00 through ₵2,650.00",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/csr",
+    "BRD-0790/quartz"
+   ],
+   "hash": "fb00305fc64bd175"
+  },
+  {
+   "id": "BRD-0790/water-africa-watch",
+   "name": "Water Africa Watch",
+   "url": "https://cavemanwatches.com/product/water-africa-watch/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2026/01/water-africa.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/01/water-africa.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 400000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "CSR",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵3,800.00 through ₵5,700.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/csr",
+    "BRD-0790/quartz"
+   ],
+   "hash": "a88abcdca317b1df"
+  },
+  {
+   "id": "BRD-0790/retro-loom",
+   "name": "Retro Loom",
+   "url": "https://cavemanwatches.com/product/retro-loom/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/12/Rtero-Loom-Gold.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/12/Rtero-Loom-Gold.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/12/Rtero-Loom-Rosegold.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/12/Rtero-Loom-Silver.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 600000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Quartz",
+   "tags": [],
+   "options": [
+    {
+     "name": "Retro Loom Variations",
+     "values": [
+      "Gold",
+      "Rose Gold",
+      "Silver"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Retro Loom Variations": "Gold, Rose Gold, Silver",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵2,500.00 through ₵2,650.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz"
+   ],
+   "hash": "12bb5c5e17cc04e0"
+  },
+  {
+   "id": "BRD-0790/cacao-x-caveman",
+   "name": "Cacao x Caveman",
+   "url": "https://cavemanwatches.com/product/cacao-x-caveman/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/12/cacao-x-caveman-websit-.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/12/cacao-x-caveman-websit-.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 200000,
+   "currency": "GHS",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Limited Editions",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "This product": "Cacao x Caveman ( ₵ 2,000.00 ) Cacao x Caveman Nato Strap ( ₵ 500.00 )",
+    "Total": "₵ 2,500.00",
+    "Price range": "₵2,000.00 through ₵3,200.00"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/limited-editions"
+   ],
+   "hash": "5ecf3e8ec1ab60eb"
+  },
+  {
+   "id": "BRD-0790/turbo-black-gold",
+   "name": "Turbo Black Gold",
+   "url": "https://cavemanwatches.com/product/turbo-black-gold/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/11/turbo-black-gold.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/11/turbo-black-gold.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 1000000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Automatic",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Original price was": "₵5,000.00.",
+    "Current price is": "₵4,500.00.",
+    "Price range": "₵32,000.00 through ₵40,000.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/automatic",
+    "BRD-0790/black-friday",
+    "BRD-0790/gents"
+   ],
+   "hash": "91b4120f02151f3c"
+  },
+  {
+   "id": "BRD-0790/currency-limited-edition",
+   "name": "Currency Limited Edition",
+   "url": "https://cavemanwatches.com/product/currency-limited-edition/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/08/img_0477-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/08/img_0477-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 400000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Limited Editions",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵4,500.00 through ₵6,000.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/limited-editions"
+   ],
+   "hash": "95db44160934a69b"
+  },
+  {
+   "id": "BRD-0790/classics-mothers-day-edition",
+   "name": "Classics Mother&#8217;s Day Edition",
+   "url": "https://cavemanwatches.com/product/classics-mothers-day-edition/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/05/Classic_Silver-Mothersday-Edition-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/05/Classic_Silver-Mothersday-Edition-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/05/Classic_Gold-Mothersday-Edition-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 250000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Limited Editions",
+   "tags": [],
+   "options": [
+    {
+     "name": "Select Variant",
+     "values": [
+      "Gold",
+      "Rose Gold",
+      "Silver"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Select Variant": "Gold, Rose Gold, Silver",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵3,500.00 through ₵4,000.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/limited-editions"
+   ],
+   "hash": "1d8f0bcdce8d6e13"
+  },
+  {
+   "id": "BRD-0790/pocket-watch",
+   "name": "Pocket Watch",
+   "url": "https://cavemanwatches.com/product/pocket-watch/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Pocket-Watch.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Pocket-Watch.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 100000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Original price was": "₵6,000.00.",
+    "Current price is": "₵5,400.00.",
+    "Price range": "₵3,800.00 through ₵5,700.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "de0f8feef1ea92ab"
+  },
+  {
+   "id": "BRD-0790/picture-watch",
+   "name": "Picture Watch",
+   "url": "https://cavemanwatches.com/product/picture-watch/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Picture-Watch.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Picture-Watch.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 400000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Quartz",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵32,000.00 through ₵40,000.00",
+    "Original price was": "₵6,000.00.",
+    "Current price is": "₵5,400.00."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz"
+   ],
+   "hash": "523b6baba0babdc1"
+  },
+  {
+   "id": "BRD-0790/aviator",
+   "name": "Aviator",
+   "url": "https://cavemanwatches.com/product/aviator/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/AVIATOR_thumb-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/AVIATOR_thumb-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/AVIATOR_gold.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 450000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Quartz",
+   "tags": [],
+   "options": [
+    {
+     "name": "Aviator Variations",
+     "values": [
+      "Black with Black Leather",
+      "Blue with Black Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Aviator Variations": "Black with Black Leather, Blue with Black Leather",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵32,000.00 through ₵40,000.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz"
+   ],
+   "hash": "62d11611a7b03722"
+  },
+  {
+   "id": "BRD-0790/woodpecker",
+   "name": "Woodpecker",
+   "url": "https://cavemanwatches.com/product/woodpecker/",
+   "image": null,
+   "images": [],
+   "priceMinor": 100000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Quartz",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵5,000.00 through ₵7,000.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz"
+   ],
+   "hash": "b5d443894d5950cb"
+  },
+  {
+   "id": "BRD-0790/voyager",
+   "name": "Voyager",
+   "url": "https://cavemanwatches.com/product/voyager/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Voyager_Gold.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Voyager_Gold.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Voyager_Gold_Bluedial.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 600000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Quartz",
+   "tags": [],
+   "options": [
+    {
+     "name": "Voyager Variations",
+     "values": [
+      "Black with Black Leather",
+      "Blue with Brown Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Voyager Variations": "Black with Black Leather, Blue with Brown Leather",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵3,800.00 through ₵5,700.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz"
+   ],
+   "hash": "dbfc235391aea380"
+  },
+  {
+   "id": "BRD-0790/freemason",
+   "name": "Freemason",
+   "url": "https://cavemanwatches.com/product/freemason/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Freemason-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Freemason-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 450000,
+   "currency": "GHS",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Gents",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Price range": "₵2,000.00 through ₵4,900.00"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/gents"
+   ],
+   "hash": "02b8e38998ede395"
+  },
+  {
+   "id": "BRD-0790/i-know-a-hero",
+   "name": "I Know a Hero",
+   "url": "https://cavemanwatches.com/product/i-know-a-hero/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/I-know-a-hero-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/I-know-a-hero-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 250000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Gents",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Original price was": "₵5,000.00.",
+    "Current price is": "₵4,500.00.",
+    "Price range": "₵2,000.00 through ₵3,200.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/gents"
+   ],
+   "hash": "1e97044cf3e7cc67"
+  },
+  {
+   "id": "BRD-0790/retro-idol",
+   "name": "Retro Idol",
+   "url": "https://cavemanwatches.com/product/retro-idol/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/RetroIdol_rosegold_without-bracelet.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/RetroIdol_rosegold_without-bracelet.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/RetroIdol_black_without-bracelet.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/RetroIdol_gold_without-bracelet.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/RetroIdol_silver_without-bracelet.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 350000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Black Friday",
+   "tags": [],
+   "options": [
+    {
+     "name": "Retro Idol Variations",
+     "values": [
+      "Black",
+      "Gold",
+      "Rose Gold",
+      "Silver"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Retro Idol Variations": "Black, Gold, Rose Gold, Silver",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵5,000.00 through ₵7,000.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/black-friday",
+    "BRD-0790/ladies"
+   ],
+   "hash": "4a5a5e59318ae95a"
+  },
+  {
+   "id": "BRD-0790/luminor",
+   "name": "Luminor Grey Day-Date",
+   "url": "https://cavemanwatches.com/product/luminor/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Luminor-Grey-1-595x595-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Luminor-Grey-1-595x595-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Luminor-Grey_gold-768x768-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 350000,
+   "currency": "GHS",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Gents",
+   "tags": [],
+   "options": [
+    {
+     "name": "Luminor Grey Variations",
+     "values": [
+      "Gold with Brown Leather",
+      "Silver with Black Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Luminor Grey Variations": "Gold with Brown Leather, Silver with Black Leather",
+    "Price range": "₵3,500.00 through ₵4,000.00",
+    "Original price was": "₵5,000.00.",
+    "Current price is": "₵4,500.00."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/limited-editions",
+    "BRD-0790/gents"
+   ],
+   "hash": "15de3db664eaa96a"
+  },
+  {
+   "id": "BRD-0790/native",
+   "name": "Native",
+   "url": "https://cavemanwatches.com/product/native/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/THE-NATIVE-1-768x768-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/THE-NATIVE-1-768x768-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Native_-GoldChain.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Native_SilverBlack-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Native_GoldChain_2tone.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Native_GoldBrown-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Native_-SilverChain-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Native_-SilverChain_2tone.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 450000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Black Friday",
+   "tags": [],
+   "options": [
+    {
+     "name": "Native Variations",
+     "values": [
+      "Gold Chain",
+      "Gold Chain (2 Tone)",
+      "Gold with Black Leather",
+      "Gold with Brown Leather",
+      "Silver Chain",
+      "Silver Chain (2 Tone)",
+      "Silver with Black Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Native Variations": "Gold Chain, Gold Chain (2 Tone), Gold with Black Leather, Gold with Brown Leather, Silver Chain, Silver Chain (2 Tone), Silver with Black Leather",
+    "Price range": "₵4,500.00 through ₵6,000.00",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/limited-editions",
+    "BRD-0790/black-friday",
+    "BRD-0790/gents"
+   ],
+   "hash": "7b8817523a862e1c"
+  },
+  {
+   "id": "BRD-0790/patriot",
+   "name": "Patriot",
+   "url": "https://cavemanwatches.com/product/patriot/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Patriot_GoldBlackdial.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Patriot_GoldBlackdial.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Patriot_GoldReddial.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Patriot_GoldBluedial.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Patriot_GoldBlackdial.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Patriot_Gold_Leather.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 380000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Black Friday",
+   "tags": [],
+   "options": [
+    {
+     "name": "Watch Size",
+     "values": [
+      "Female",
+      "Male"
+     ]
+    },
+    {
+     "name": "Patriot Variations",
+     "values": [
+      "Gold Chain with Black Dial",
+      "Gold Chain with Black Dial Nomos",
+      "Gold Chain with Blue Dial",
+      "Gold Chain with Red Dial",
+      "Gold with Blue Dial and Brown Leather",
+      "Silver Chain",
+      "Silver with Black Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Watch Size": "Female, Male",
+    "Patriot Variations": "Gold Chain with Black Dial, Gold Chain with Black Dial Nomos, Gold Chain with Blue Dial, Gold Chain with Red Dial, Gold with Blue Dial and Brown Leather, Silver Chain, Silver with Black Leather",
+    "Price range": "₵3,800.00 through ₵5,700.00",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Original price was": "₵5,000.00.",
+    "Current price is": "₵4,500.00."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/black-friday",
+    "BRD-0790/gents",
+    "BRD-0790/ladies"
+   ],
+   "hash": "7281b18e5438954e"
+  },
+  {
+   "id": "BRD-0790/eroctica",
+   "name": "Eroctica",
+   "url": "https://cavemanwatches.com/product/eroctica/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Erotica_Silver-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Erotica_Silver-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Erotica_Gold-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Erotica_Female-Gold-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 250000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Gents",
+   "tags": [],
+   "options": [
+    {
+     "name": "Watch Size",
+     "values": [
+      "Female",
+      "Male"
+     ]
+    },
+    {
+     "name": "Eroctica Variations",
+     "values": [
+      "Gold with Black Leather",
+      "Gold with Green Dial and Brown Leather",
+      "Silver with Black Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Watch Size": "Female, Male",
+    "Eroctica Variations": "Gold with Black Leather, Gold with Green Dial and Brown Leather, Silver with Black Leather",
+    "Price range": "₵2,500.00 through ₵3,000.00",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/gents",
+    "BRD-0790/ladies"
+   ],
+   "hash": "e07135be7ad91fde"
+  },
+  {
+   "id": "BRD-0790/classics",
+   "name": "Classics",
+   "url": "https://cavemanwatches.com/product/classics/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Classic_Silver.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Classic_Silver.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Classic_Gold_leather.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Classic_Silver_leather.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Classic_Gold.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/08/Classic_Gold-NEW.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2026/08/Classic_Silver-NEW.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 150000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Couples",
+   "tags": [],
+   "options": [
+    {
+     "name": "Watch Size",
+     "values": [
+      "Female",
+      "Male"
+     ]
+    },
+    {
+     "name": "Classics Variations",
+     "values": [
+      "Gold Leather",
+      "Gold Mesh",
+      "Gold Mesh",
+      "Rose Gold Leather",
+      "Rose Gold Mesh",
+      "Silver Leather",
+      "Silver Mesh",
+      "Silver Mesh"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Watch Size": "Female, Male",
+    "Classics Variations": "Gold Leather, Gold Mesh, Gold Mesh, Rose Gold Leather, Rose Gold Mesh, Silver Leather, Silver Mesh, Silver Mesh",
+    "Price range": "₵1,500.00 through ₵2,500.00",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Original price was": "₵6,000.00.",
+    "Current price is": "₵5,400.00."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/gents",
+    "BRD-0790/couples",
+    "BRD-0790/ladies"
+   ],
+   "hash": "5e4e9321ca49ee91"
+  },
+  {
+   "id": "BRD-0790/heritage",
+   "name": "Heritage",
+   "url": "https://cavemanwatches.com/product/heritage/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Caveman_Heritage.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Caveman_Heritage.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_Black_chain.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_SilverRoman.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_SilverChain_NoSymbol.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_SilverChain_.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_Silver.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_Silver_NoSymbol.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_Silver_brown.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_Rose-gold-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_GoldRoman.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_Gold-Blackdial.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Heritage_Gold_NoSymbol.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 200000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Couples",
+   "tags": [],
+   "options": [
+    {
+     "name": "Watch Size",
+     "values": [
+      "Female",
+      "Male"
+     ]
+    },
+    {
+     "name": "Heritage Variations",
+     "values": [
+      "Black Chain",
+      "Gold - No Symbol with Black Leather",
+      "Gold Chain - No Symbol",
+      "Gold Roman with Blue Dial and Black Leather",
+      "Gold with Black Leather",
+      "Gold with Brown Leather",
+      "Rose Gold with Black Leather",
+      "Silver - No Symbol with Black Leather",
+      "Silver - No Symbol with Chain",
+      "Silver Chain",
+      "Silver Roman with Black Leather",
+      "Silver with Black Leather",
+      "Silver with Brown Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Watch Size": "Female, Male",
+    "Heritage Variations": "Black Chain, Gold - No Symbol with Black Leather, Gold Chain - No Symbol, Gold Roman with Blue Dial and Black Leather, Gold with Black Leather, Gold with Brown Leather, Rose Gold with Black Leather, Silver - No Symbol with Black Leather, Silver - No Symbol with Chain, Silver Chain, Silver Roman with Black Leather, Silver with Black Leather, Silver with Brown Leather",
+    "Price range": "₵2,000.00 through ₵4,900.00",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Original price was": "₵15,000.00.",
+    "Current price is": "₵13,500.00."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/gents",
+    "BRD-0790/couples",
+    "BRD-0790/ladies"
+   ],
+   "hash": "e4b6ef7a01b9dd66"
+  },
+  {
+   "id": "BRD-0790/blue-volta",
+   "name": "Blue Volta",
+   "url": "https://cavemanwatches.com/product/blue-volta/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Blue-Volta-Silver_-595x595-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Blue-Volta-Silver_-595x595-1.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Blue-Volta-gold.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Blue-Volter-Limited-Edition-.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Blue-Volta-silver-brown-leather.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Blue-Volta-gold-black-leather.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/10/Blue-Volta-gold_chain.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 200000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Black Friday",
+   "tags": [],
+   "options": [
+    {
+     "name": "Watch Size",
+     "values": [
+      "Female",
+      "Male"
+     ]
+    },
+    {
+     "name": "Blue Volta Variations",
+     "values": [
+      "5th Anniversary Edition",
+      "Gold Chain",
+      "Gold with Black Leather",
+      "Gold with Brown Leather",
+      "Silver Chain",
+      "Silver with Black Leather",
+      "Silver with Brown Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Watch Size": "Female, Male",
+    "Blue Volta Variations": "5th Anniversary Edition, Gold Chain, Gold with Black Leather, Gold with Brown Leather, Silver Chain, Silver with Black Leather, Silver with Brown Leather",
+    "Price range": "₵2,000.00 through ₵3,200.00",
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/quartz",
+    "BRD-0790/black-friday",
+    "BRD-0790/gents",
+    "BRD-0790/couples",
+    "BRD-0790/ladies"
+   ],
+   "hash": "f6061853ea104497"
+  },
+  {
+   "id": "BRD-0790/liege",
+   "name": "Liege",
+   "url": "https://cavemanwatches.com/product/liege/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2024/11/Caveman_Liege.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2024/11/Caveman_Liege.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 6000000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Automatic",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵4,500.00 through ₵6,000.00"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/automatic",
+    "BRD-0790/black-friday",
+    "BRD-0790/gents"
+   ],
+   "hash": "1947e7d113bc5773"
+  },
+  {
+   "id": "BRD-0790/premium-turbo",
+   "name": "Premium Turbo",
+   "url": "https://cavemanwatches.com/product/premium-turbo/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2024/11/premium-turbo-silver.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2024/11/premium-turbo-silver.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2024/11/premium-turbo-gold.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 500000,
+   "currency": "GHS",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Automatic",
+   "tags": [],
+   "options": [
+    {
+     "name": "Premium Turbo Variations",
+     "values": [
+      "Gold",
+      "Silver"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Premium Turbo Variations": "Gold, Silver",
+    "Price range": "₵5,000.00 through ₵7,000.00"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/automatic",
+    "BRD-0790/black-friday",
+    "BRD-0790/gents"
+   ],
+   "hash": "f87fcff7b4b6bfa1"
+  },
+  {
+   "id": "BRD-0790/kingsman-turbo",
+   "name": "Kingsman Turbo",
+   "url": "https://cavemanwatches.com/product/kingsman-turbo/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2024/07/Kingsman-turbo-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2024/07/Kingsman-turbo-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 700000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": null,
+   "productType": "Automatic",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)",
+    "Price range": "₵4,500.00 through ₵6,000.00",
+    "Original price was": "₵6,000.00.",
+    "Current price is": "₵5,400.00."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/automatic",
+    "BRD-0790/gents"
+   ],
+   "hash": "efff7dd529b1d425"
+  },
+  {
+   "id": "BRD-0790/turbo-prime",
+   "name": "Turbo Prime",
+   "url": "https://cavemanwatches.com/product/turbo-prime/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2024/11/Turbo-Prime-rosegold.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2024/11/Turbo-Prime-rosegold.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2024/11/Turbo-Prime-silver.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Turbo-Prime-rosegold_Chain-scaled.png",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Turbo-Prime-silver_Chain-scaled.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 3200000,
+   "currency": "GHS",
+   "availability": "sold_out",
+   "description": null,
+   "productType": "Automatic",
+   "tags": [],
+   "options": [
+    {
+     "name": "Turbo Prime Variations",
+     "values": [
+      "Rose Gold Chain",
+      "Rose Gold with Leather",
+      "Silver Chain",
+      "Silver with Leather"
+     ]
+    }
+   ],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Turbo Prime Variations": "Rose Gold Chain, Rose Gold with Leather, Silver Chain, Silver with Leather",
+    "Price range": "₵32,000.00 through ₵40,000.00",
+    "Original price was": "₵5,000.00.",
+    "Current price is": "₵4,500.00."
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/automatic",
+    "BRD-0790/black-friday",
+    "BRD-0790/gents"
+   ],
+   "hash": "b67fd01aac95f5b8"
+  },
+  {
+   "id": "BRD-0790/novelty-clock",
+   "name": "Novelty Clock",
+   "url": "https://cavemanwatches.com/product/novelty-clock/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Novelty-Clock-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Novelty-Clock-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 300000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": "Takes 10 to 14 working days to be ready for delivery or pick up",
+   "productType": "Clocks",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/clocks"
+   ],
+   "hash": "9206fdd3c53d8966"
+  },
+  {
+   "id": "BRD-0790/luxury-marble-wall-clock",
+   "name": "Luxury Marble Wall Clock",
+   "url": "https://cavemanwatches.com/product/luxury-marble-wall-clock/",
+   "image": {
+    "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Adobe-Express-file-1.png",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cavemanwatches.com/wp-content/uploads/2025/02/Adobe-Express-file-1.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 200000,
+   "currency": "GHS",
+   "availability": "in_stock",
+   "description": "74x36cm Silent sweeping hands with swinging pendulum movement. Stainless steel gold toned cowries at 12,3,6and 9. Customisation Guide",
+   "productType": "Clocks",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Estimated Delivery": "Wed, Nov 4 – Fri, Nov 6 (Working days, excl. weekends & public holidays)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T06:47:32.623Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:47:32.623Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0790/clocks"
+   ],
+   "hash": "64aeca945a9c21f0"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0790/moba-150",
+   "name": "MOBA 150",
+   "url": "https://cavemanwatches.com/product-category/watches/moba-150/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/csr",
+   "name": "CSR",
+   "url": "https://cavemanwatches.com/product-category/watches/csr/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/quartz",
+   "name": "Quartz",
+   "url": "https://cavemanwatches.com/product-category/watches/quartz/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/limited-editions",
+   "name": "Limited Editions",
+   "url": "https://cavemanwatches.com/product-category/watches/limited-editions/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/automatic",
+   "name": "Automatic",
+   "url": "https://cavemanwatches.com/product-category/watches/automatic/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/black-friday",
+   "name": "Black Friday",
+   "url": "https://cavemanwatches.com/product-category/black-friday/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/gents",
+   "name": "Gents",
+   "url": "https://cavemanwatches.com/product-category/watches/gents/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/couples",
+   "name": "Couples",
+   "url": "https://cavemanwatches.com/product-category/watches/couples/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/ladies",
+   "name": "Ladies",
+   "url": "https://cavemanwatches.com/product-category/watches/ladies/",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0790/clocks",
+   "name": "Clocks",
+   "url": "https://cavemanwatches.com/product-category/clocks/",
+   "description": null,
+   "image": null
+  }
+ ]
+}

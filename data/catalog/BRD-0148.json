@@ -1,0 +1,122 @@
+{
+ "brandId": "BRD-0148",
+ "brandName": "Cimier",
+ "website": "https://cimier.com",
+ "crawledAt": "2026-11-01T06:50:23.092Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://cimier.com/images/logo.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://cimier.com/"
+ },
+ "attribution": "Images © Cimier, from cimier.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0148/711-collection",
+   "name": "Cimier 711",
+   "url": "https://cimier.com/collections/711-collection",
+   "image": {
+    "url": "https://cms.cimier.com/uploads/Cimier_711_collection_desktop_0257707856.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cms.cimier.com/uploads/Cimier_711_collection_desktop_0257707856.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "Discover CIMIER's 711 Collection: a tribute to 100 years of Swiss watchmaking with the perfect blend of tradition and innovation.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": 48,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T06:50:23.092Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:50:23.092Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "40d6540ad5ab9165"
+  },
+  {
+   "id": "BRD-0148/47-north",
+   "name": "47° North",
+   "url": "https://cimier.com/collections/47-north",
+   "image": {
+    "url": "https://cms.cimier.com/uploads/Collection_47_North_Desktop_1_56e1b2b506.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://cms.cimier.com/uploads/Collection_47_North_Desktop_1_56e1b2b506.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": "The 47° North is a field watch in the truest sense: dependable, easy to read, and built to keep up from daily wear to mountain trails. Its refined details and finishing lend it a versatility that carries well beyond the outdoors.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T06:50:23.092Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T06:50:23.092Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7b05edd0f12338a2"
+  }
+ ],
+ "collections": []
+}

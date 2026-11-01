@@ -1,0 +1,773 @@
+{
+ "brandId": "BRD-1416",
+ "brandName": "Winfield Watch Company",
+ "website": "https://winfieldwatch.com",
+ "crawledAt": "2026-11-01T08:54:32.052Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://winfieldwatch.com/cdn/shop/files/WINFIELD_LOGO.svg?v=1734389037",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://winfieldwatch.com/"
+ },
+ "attribution": "Images © Winfield Watch Company, from winfieldwatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1416/bomb-tech-limited-edition",
+   "name": "Bomb Tech Limited Edition",
+   "url": "https://winfieldwatch.com/products/bomb-tech-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TBT_Round.jpg?v=1787001596",
+    "width": 1770,
+    "height": 1778
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TBT_Round.jpg?v=1787001596",
+     "width": 1770,
+     "height": 1778
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfieldbombdiver.bip.3582_b1ffb3af-0317-4276-b71f-61858b3dada8.png?v=1787003189",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfieldbombdiver.bip.3581_e4ba99ba-ec49-4717-b148-392120ce7616.png?v=1787003189",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfieldbombdiver.bip.3583_8bfb2fb0-a4eb-42bd-8789-58884e503c9e.png?v=1787003189",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfieldbombdiver.bip.3584_2b41bae9-5615-417e-a975-956d0e757b8a.png?v=1787003189",
+     "width": 2560,
+     "height": 1920
+    }
+   ],
+   "priceMinor": 82500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Winfield is proud to offer a timepiece worthy of the BOMB TECH mission During the production time, I will send out design images and provide periodic updates. Delivery late 2026 Standard load-out of the Winfield BOMB TECH includes a stainless steel bracelet with solid end links, a nylon passthrough strap and a FKM rubber dive style strap, all wrapped in the heavy waxed canvas Winfield watch roll. Every Winfield watch is pressure tested and receive a full quality check at our shop in Ohio. Our watches have been field tested by first responders, forward deployed military units, police departments and other hard use folks. They are built to last! We are offering a 2 year transferable warranty on our watches from the time of purchase. Specifications: Case - Bead-blasted 316L surgical-grade stainless steel, drilled lugs, dual case back gaskets, metal movement holder Movement - Miyota 9015 automatic Crown - Screw-down with double gaskets Crystal - Flat sapphire with double anti-reflective coating Hands - Stainless Super Luminova BGW9 blue lume Lume - Super Luminova BGW9 blue lume Water resistance – 200m / 660 feet, individually pressure tested",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Standard load-out of the Winfield BOMB TECH": "includes a stainless steel bracelet with solid end links, a nylon passthrough strap and a FKM rubber dive style strap, all wrapped in the heavy waxed canvas Winfield watch roll."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:54:32.052Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:54:32.052Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1416/custom-limited-editions"
+   ],
+   "hash": "8004dfcf323df31d"
+  },
+  {
+   "id": "BRD-1416/tim-tebow-foundation-custom-watch-project",
+   "name": "Tim Tebow Foundation Limited Edition Diver",
+   "url": "https://winfieldwatch.com/products/tim-tebow-foundation-custom-watch-project",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TebowFinal.3347_web.png?v=1782859037",
+    "width": 2048,
+    "height": 1536
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TebowFinal.3347_web.png?v=1782859037",
+     "width": 2048,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TebowFinal.3348_web.png?v=1782859037",
+     "width": 2048,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TebowFinal.3349_web.png?v=1782859037",
+     "width": 2048,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TebowFinal.3350_web.png?v=1782859037",
+     "width": 2048,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TebowFinal.3352_web.png?v=1782859037",
+     "width": 2048,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/TebowFinal.3351_web.png?v=1782859037",
+     "width": 2048,
+     "height": 1536
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/clean_caseback_2.png?v=1783262098",
+     "width": 1448,
+     "height": 1086
+    }
+   ],
+   "priceMinor": 129500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Tim Tebow Foundation brings faith, hope, and love to some of the world’s most vulnerable people. Through work supporting children with special needs, orphan care, profound medical needs, and the fight against human trafficking and child exploitation, the Foundation creates meaningful, lasting impact around the world. Winfield is excited to announce the most important watch project we have done in our seven year history. In conjunction with the Tim Tebow Foundation, Winfield is proud to announce this custom limited edition timepiece. 10% of each sale will be donated directly to the Foundation. Winfield × Tim Tebow Foundation Limited Edition Diver Built for a purpose beyond the wrist, the Winfield × Tim Tebow Foundation Limited Edition Diver combines mission-ready construction with a design that recognizes the Foundation’s work serving vulnerable people through orphan care and prevention, special-needs ministry, profound medical-needs support, and the fight against human trafficking and child exploitation. The 42mm case is constructed from 316L stainless steel and finished in a durable titanium-carbide PVD coating. Its black textured dial, blue Tim Tebow Foundation detail, high-visibility indices, rotating dive bezel, and 200m water resistance give the watch a purposeful tool-watch profile for daily wear, travel, and demanding environments. Power comes from the La Joux-Perret G100 Swiss automatic movement, selected for its refined performance and extended power reserve. A 3mm flat sapphire crystal with anti-reflective coating protects the dial, while the screw-down crown with double gaskets and screw-down caseback help provide dependable water resistance. Each watch includes a titanium-carbide PVD-coated 316L stainless steel bracelet and a black two-piece FKM rubber strap for versatile wear in the field, on the water, or off duty. Every piece is individually numbered from 0001 through 0500. Specifications Case: Titanium Carbide PVD-coated 316L stainless steel Case Diameter: 42mm Movement: La Joux-Perret G100 Swiss automatic Crystal: 3mm flat sapphire crystal with AR coating Crown: Screw-down crown with double gaskets Caseback: Screw-down Bracelet: Titanium Carbide PVD-coated 316L stainless steel Additional Strap: Black two-piece FKM strap Limited Edition: Individually numbered 0001–1000",
+   "productType": "Watch",
+   "tags": [
+    "Dive Watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "titanium_gr2",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Case": "Titanium Carbide PVD-coated 316L stainless steel",
+    "Case Diameter": "42mm",
+    "Movement": "La Joux-Perret G100 Swiss automatic",
+    "Crystal": "3mm flat sapphire crystal with AR coating",
+    "Crown": "Screw-down crown with double gaskets",
+    "Caseback": "Screw-down",
+    "Bracelet": "Titanium Carbide PVD-coated 316L stainless steel",
+    "Additional Strap": "Black two-piece FKM strap",
+    "Limited Edition": "Individually numbered 0001–0500"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:54:32.052Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:54:32.052Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1416/custom-limited-editions",
+    "BRD-1416/explorers-collection"
+   ],
+   "hash": "a36bd972522d51e6"
+  },
+  {
+   "id": "BRD-1416/pararescue-limited-edition",
+   "name": "Pararescue Limited Edition",
+   "url": "https://winfieldwatch.com/products/pararescue-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/48_Rescue_Sq_emblem.png?v=1768940391",
+    "width": 2993,
+    "height": 3378
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/48_Rescue_Sq_emblem.png?v=1768940391",
+     "width": 2993,
+     "height": 3378
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/WinfieldPara.2474_56bb4620-7092-4078-b809-01bed7f77026.png?v=1768940391",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/WinfieldPara.2488.png?v=1768940391",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/WinfieldPara.2489.png?v=1768940391",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/WinfieldPara.2490.png?v=1768940391",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/WinfieldPara.2491.png?v=1768940391",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/WinfieldPara.2492.png?v=1768940391",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/WinfieldPara.2493.png?v=1768940391",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/WinfieldPara.2494.png?v=1768940391",
+     "width": 2560,
+     "height": 1920
+    }
+   ],
+   "priceMinor": 77500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Winfield is proud to be working with the 48th Rescue Squadron to provide this special timepiece to the Pararescue community Only a limited number will be produced so please secure yours asap. During the production time, I will send out design images and provide periodic updates. Delivery summer 2026 Price includes shipping in CONUS and APO/FPO addresses. Standard load-out of the Winfield Para watch includes a stainless steel bracelet with solid end links, a nylon passthrough strap and a FKM rubber dive style strap, all wrapped in the heavy waxed canvas Winfield watch roll. Every Winfield watch is pressure tested and receive a full quality check at our shop in Ohio. Our watches have been field tested by first responders, forward deployed military units, police departments and other hard use folks. They are built to last! We are offering a 2 year transferable warranty on our watches from the time of purchase. Specifications: Case - Bead-blasted 316L surgical-grade stainless steel, drilled lugs, dual case back gaskets, metal movement holder Bracelet - Stainless steel oyster style with solid end links Movement - Miyota 9015 automatic Crown - Screw-down with double gaskets Crystal - Flat sapphire with double anti-reflective coating Hands - Blacked out with Super Luminova BGW9 blue lume Lume - Super Luminova BGW9 blue lume Water resistance – 200m / 660 feet, individually pressure tested",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Standard load-out of the Winfield Para watch": "includes a stainless steel bracelet with solid end links, a nylon passthrough strap and a FKM rubber dive style strap, all wrapped in the heavy waxed canvas Winfield watch roll."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:54:32.052Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:54:32.052Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1416/custom-limited-editions"
+   ],
+   "hash": "2e2815ce8da83e63"
+  },
+  {
+   "id": "BRD-1416/mfd-limited-edition",
+   "name": "MFD Limited Edition",
+   "url": "https://winfieldwatch.com/products/mfd-limited-edition",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/MFD.png?v=1764870321",
+    "width": 2400,
+    "height": 2400
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/MFD.png?v=1764870321",
+     "width": 2400,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfield_Modesto_Fire_local_1289.1994.png?v=1764870492",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfield_Modesto_Fire_local_1289.1995.png?v=1764870492",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/IMG-0949.png?v=1764878456",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/IMG-0952.png?v=1764878456",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/IMG-0953.png?v=1764878456",
+     "width": 2560,
+     "height": 1920
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Winfield is proud to offer a timepiece worthy of the Modesto Fire Department During the production time, I will send out design images and provide periodic updates. Delivery summer 2026 Standard load-out of the Winfield MFD Limited Edition includes a stainless steel bracelet with solid end links, a nylon passthrough strap and a FKM rubber dive style strap, all wrapped in the heavy waxed canvas Winfield watch roll. Every Winfield watch is pressure tested and receive a full quality check at our shop in Ohio. Our watches have been field tested by first responders, forward deployed military units, police departments and other hard use folks. They are built to last! We are offering a 2 year transferable warranty on our watches from the time of purchase. Specifications: Case - Bead-blasted 316L surgical-grade stainless steel, drilled lugs, dual case back gaskets, metal movement holder Movement - Miyota 9015 automatic Crown - Screw-down with double gaskets Crystal - Flat sapphire with double anti-reflective coating Hands - Blacked out with Super Luminova BGW9 blue lume Lume - Super Luminova BGW9 blue lume Water resistance – 200m / 660 feet, individually pressure tested",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:54:32.052Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:54:32.052Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1416/custom-limited-editions",
+    "BRD-1416/mfd-limited-edition"
+   ],
+   "hash": "cafbf6067b073e4e"
+  },
+  {
+   "id": "BRD-1416/borstar",
+   "name": "BORSTAR Limited Edition",
+   "url": "https://winfieldwatch.com/products/borstar",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/borstar_color_small_2.png?v=1764776711",
+    "width": 360,
+    "height": 240
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/borstar_color_small_2.png?v=1764776711",
+     "width": 360,
+     "height": 240
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfield_Borstar_NO_THAT.png?v=1764776711",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfield_Borstar_NO_THAT.1976.png?v=1764776711",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfield_Borstar_NO_THAT.1975.png?v=1764776711",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfield_Borstar.1875.jpg?v=1764776711",
+     "width": 2560,
+     "height": 1920
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Winfield_Borstar_NO_THAT.1977.png?v=1764776711",
+     "width": 2560,
+     "height": 1920
+    }
+   ],
+   "priceMinor": 69900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Winfield is proud to offer a timepiece worthy of the BORSTAR mission During the production time, I will send out design images and provide periodic updates. IN STOCK! Standard load-out of the Winfield BORSTAR includes a stainless steel bracelet with solid end links, a nylon passthrough strap and a FKM rubber dive style strap, all wrapped in the heavy waxed canvas Winfield watch roll. Every Winfield watch is pressure tested and receive a full quality check at our shop in Ohio. Our watches have been field tested by first responders, forward deployed military units, police departments and other hard use folks. They are built to last! We are offering a 2 year transferable warranty on our watches from the time of purchase. Specifications: Case - Bead-blasted 316L surgical-grade stainless steel, drilled lugs, dual case back gaskets, metal movement holder Movement - Miyota 9015 automatic Crown - Screw-down with double gaskets Crystal - Flat sapphire with double anti-reflective coating Hands - Blacked out with Super Luminova BGW9 blue lume Lume - Super Luminova BGW9 blue lume Water resistance – 200m / 660 feet, individually pressure tested",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Standard load-out of the Winfield BORSTAR": "includes a stainless steel bracelet with solid end links, a nylon passthrough strap and a FKM rubber dive style strap, all wrapped in the heavy waxed canvas Winfield watch roll."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:54:32.052Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:54:32.052Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1416/borstar-limited-edition",
+    "BRD-1416/custom-limited-editions"
+   ],
+   "hash": "69d3dfbafb83bac6"
+  },
+  {
+   "id": "BRD-1416/oconus-gmt-pvd",
+   "name": "OCONUS GMT COVERT",
+   "url": "https://winfieldwatch.com/products/oconus-gmt-pvd",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-oconus-gmt-covert-pvd-black.png?v=1759798181",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-oconus-gmt-covert-pvd-black.png?v=1759798181",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-oconus-gmt-covert-pvd-black-olive-nato-strap.png?v=1759798181",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/woconus_pvd_2.jpg?v=1759798181",
+     "width": 3600,
+     "height": 2400
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/woconus_pvd_1.jpg?v=1759798181",
+     "width": 3299,
+     "height": 2199
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/oconuspvdlume.jpg?v=1759798181",
+     "width": 1735,
+     "height": 1736
+    }
+   ],
+   "priceMinor": 67500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Standard load-out of the Winfield OCONUS GMT PVD is a two piece Horween leather strap with blacked out hardware, a one piece nylon pass through strap, the Winfield four pocket waxed heavy canvas watch roll and a stainless warrantee card. Each OCONUS is pressure tested to 200 meters and is assembled at our shop in Ohio. Our watches have been field tested by Tactical Response, extreme ice climbing, and high altitude skydiving in Everest. We are offering a 2 year transferable warranty on our watches from the time of purchase. Specifications: Case - Brushed and polished PVD 316L surgical-grade stainless steel, drilled lugs, dual case back gaskets, metal movement holder Crown - Screw-down with double gaskets Crystal - 3mm Flat sapphire with double anti-reflective coating Straps - Horween leather strap and single pass nylon strap Bezel - Lume'ed stainless steel 24 hour uni-directional 120 click Date - At 3:00 position Hands - Polished stainless steel Lume - Six layers of Swiss Super-LumiNova X1 Water resistance – 200m / 660 feet, individually pressure tested Movement - Miyota 9075 GMT. This is a \"true\" GMT with an hour hand that is independently adjustable. Dimensions: 44mm diameter 13.5mm thick 22mm lug width * International buyers are responsible any associated customs fees.",
+   "productType": "Watch",
+   "tags": [
+    "EDC Watch",
+    "Field Watch",
+    "GMT",
+    "Miyota 9075",
+    "Tool Watch",
+    "WINFIELD GMT",
+    "Winfield OCONUS",
+    "Winfield OCONUS GMT",
+    "Winfield OCONUS GMT PVD"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9075",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Date - At 3": "00 position"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:54:32.052Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:54:32.052Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1416/covert",
+    "BRD-1416/explorers-collection"
+   ],
+   "hash": "c5cc356d42ecef8b"
+  },
+  {
+   "id": "BRD-1416/chronos-stainless",
+   "name": "CHRONOS STAINLESS",
+   "url": "https://winfieldwatch.com/products/chronos-stainless",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-chronos-ss-leather.png?v=1759798585",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-chronos-ss-leather.png?v=1759798585",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-chronos-ss-nato-olive.png?v=1759798855",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/Photoroom_20240228_174902.jpg?v=1759798855",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/chronosstainlesslume.jpg?v=1759798855",
+     "width": 1458,
+     "height": 1459
+    }
+   ],
+   "priceMinor": 44500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Standard load-out of the Winfield CHRONOS Stainless is a two piece Horween leather strap with stainless hardware, a one piece nylon pass through strap, the Winfield four pocket waxed heavy canvas watch roll and a stainless warrantee card. Each CHRONOS is pressure tested to 200 meters and is assembled at our shop in Ohio. Our watches have been field tested by Tactical Response, extreme ice climbing, and high altitude skydiving in Everest. We are offering a 2 year transferable warranty on our watches from the time of purchase. Specifications: Case - Brushed and polished 316L surgical-grade stainless steel, drilled lugs, dual case back gaskets, metal movement holder Crown - Screw-down with double gaskets Crystal - 3mm Flat sapphire with double anti-reflective coating Straps - Horween leather strap and single pass nylon strap Bezel - Lume'ed stainless steel uni-directional 120 click Date - At 4:30 position Hands - Polished stainless steel Lume - Six layers of Swiss Super-LumiNova X1 Water resistance – 200m / 660 feet, individually pressure tested Movement - VK 63 Mecaquartz chronograph which uses quartz technology for the main functions of the watch and a mechanical module for the chronograph functions Dimensions: 44mm diameter 13.5mm thick 22mm lug width * International buyers are responsible any associated customs fees.",
+   "productType": "Watch",
+   "tags": [
+    "Chronograph watch",
+    "EDC Watch",
+    "Field Watch",
+    "Tool Watch",
+    "VK63",
+    "Winfield Chronograph",
+    "Winfield Chronos"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Date - At 4": "30 position"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:54:32.052Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:54:32.052Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1416/chronos",
+    "BRD-1416/explorers-collection",
+    "BRD-1416/stainless-steel"
+   ],
+   "hash": "893df6eb80134525"
+  },
+  {
+   "id": "BRD-1416/chronos-pvd-1",
+   "name": "CHRONOS COVERT",
+   "url": "https://winfieldwatch.com/products/chronos-pvd-1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-chronos-covert-pvd-black-leather.png?v=1759798964",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-chronos-covert-pvd-black-leather.png?v=1759798964",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/winfield-chronos-covert-pvd-black-olive-nato-strap.png?v=1759798964",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/cronos_carbon_chronographic_watch_close_up_2.jpg?v=1759798964",
+     "width": 1334,
+     "height": 1183
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/cronos_carbon_chronographic_watch_close_up_3.jpg?v=1759798964",
+     "width": 1334,
+     "height": 1183
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/cronos_carbon_chronographic_watch_close_up_4.jpg?v=1759798964",
+     "width": 1334,
+     "height": 1183
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/files/cronos_carbon_chronographic_watch_close_up_5.jpg?v=1759798964",
+     "width": 1334,
+     "height": 1183
+    }
+   ],
+   "priceMinor": 46500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Standard load-out of the Winfield CHRONOS COVERT is a two piece Horween leather strap with blacked out hardware, a one piece nylon pass through strap, the Winfield four pocket waxed heavy canvas strap and a stainless warrantee card. Each CHRONOS is pressure tested to 200 meters and is assembled at our shop in Ohio. Our watches have been field tested by Tactical Response, extreme ice climbing, and high altitude skydiving in Everest. We are offering a 2 year transferable warranty on our watches from the time of purchase. Specifications: Case - Brushed and polished PVD 316L surgical-grade stainless steel, drilled lugs, dual case back gaskets, metal movement holder Crown - Screw-down with double gaskets Crystal - 3mm Flat sapphire with double anti-reflective coating Straps - Horween leather strap and single pass nylon strap Bezel - Lume'ed stainless steel uni-directional 120 click Date - At 4:30 position Hands - Black stainless steel with blue sweep and chrono hands Lume - Six layers of Swiss Super-LumiNova X1 Water resistance – 200m / 660 feet, individually pressure tested Movement - VK 63 Mecaquartz chronograph which uses quartz technology for the main functions of the watch and a mechanical module for the chronograph functions Dimensions: 44mm diameter 13.5mm thick 22mm lug width * International buyers are responsible any associated customs fees.",
+   "productType": "Watch",
+   "tags": [
+    "Chronograph watch",
+    "EDC Watch",
+    "Field Watch",
+    "Tool Watch",
+    "VK63",
+    "Winfield Chronograph",
+    "Winfield Chronos",
+    "Winfield Chronos PVD"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Date - At 4": "30 position"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:54:32.052Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:54:32.052Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1416/chronos",
+    "BRD-1416/covert",
+    "BRD-1416/explorers-collection"
+   ],
+   "hash": "e3daa33543054548"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1416/borstar-limited-edition",
+   "name": "BORSTAR Limited Edition",
+   "url": "https://winfieldwatch.com/collections/borstar-limited-edition",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/collections/borstar_color_small_2.png?v=1768936387",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1416/chronos",
+   "name": "Chronos",
+   "url": "https://winfieldwatch.com/collections/chronos",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/collections/edit-craftnlore-winfield-watch-enfold-card-buck-knives--7.jpg?v=1760503559",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1416/covert",
+   "name": "COVERT",
+   "url": "https://winfieldwatch.com/collections/covert",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1416/custom-limited-editions",
+   "name": "CUSTOM LIMITED EDITIONS",
+   "url": "https://winfieldwatch.com/collections/custom-limited-editions",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/collections/winfield-logo-white-square-titled.jpg?v=1764690889",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1416/explorers-collection",
+   "name": "EXPLORER COLLECTION",
+   "url": "https://winfieldwatch.com/collections/explorers-collection",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/collections/WINFIELD_EXPLORERS_WATCH_COLLECTION.jpg?v=1759734570",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1416/mfd-limited-edition",
+   "name": "MFD Limited Edition",
+   "url": "https://winfieldwatch.com/collections/mfd-limited-edition",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0092/2248/8127/collections/MFD.png?v=1768936318",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1416/stainless-steel",
+   "name": "STAINLESS STEEL",
+   "url": "https://winfieldwatch.com/collections/stainless-steel",
+   "description": null,
+   "image": null
+  }
+ ]
+}

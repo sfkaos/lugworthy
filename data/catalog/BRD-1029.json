@@ -1,0 +1,118 @@
+{
+ "brandId": "BRD-1029",
+ "brandName": "JWalker Watch Co.",
+ "website": "https://jwalkerwatch.com",
+ "crawledAt": "2026-11-01T07:37:28.950Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://jwalkerwatch.com/jwalker-logo.png",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://jwalkerwatch.com/"
+ },
+ "attribution": "Images © JWalker Watch Co., from jwalkerwatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1029/the-new-deco",
+   "name": "The New Deco",
+   "url": "https://jwalkerwatch.com/the-new-deco",
+   "image": {
+    "url": "https://jwalkerwatch.com/jury-field/nd-hero-blue-silver.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://jwalkerwatch.com/jury-field/nd-hero-blue-silver.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 24999,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The New Deco (TND-761) — an Art Deco automatic-styled timepiece with Seiko VH31B sweeping quartz movement, sapphire crystal, and a 40mm 316L stainless steel case. Available in four numbered-edition colorways.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [
+    {
+     "title": "The New Deco — Blue Dial / Silver Accent",
+     "sku": "TND-761-A",
+     "priceMinor": 24999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    },
+    {
+     "title": "The New Deco — Blue Dial / Gold Accent",
+     "sku": "TND-761-B",
+     "priceMinor": 24999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    },
+    {
+     "title": "The New Deco — Black Dial / Silver Accent",
+     "sku": "TND-761-C",
+     "priceMinor": 24999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    },
+    {
+     "title": "The New Deco — Black Dial / Gold Accent",
+     "sku": "TND-761-D",
+     "priceMinor": 24999,
+     "compareAtMinor": null,
+     "available": true,
+     "options": []
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46,
+    "thicknessMm": null,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:37:28.950Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:37:28.950Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1029/the-new-deco"
+   ],
+   "hash": "d8053d4073f7fe26"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1029/the-new-deco",
+   "name": "The New Deco Line",
+   "url": "https://jwalkerwatch.com/collections/the-new-deco",
+   "description": "The founding line of JWalker Watches. Art Deco geometry meets modern precision — featuring The New Deco and The Literary Deco.",
+   "image": {
+    "url": "https://jwalkerwatch.com/og-image.png",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

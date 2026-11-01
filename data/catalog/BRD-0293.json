@@ -1,0 +1,1158 @@
+{
+ "brandId": "BRD-0293",
+ "brandName": "Houtman",
+ "website": "https://houtmanwatch.com",
+ "crawledAt": "2026-11-01T07:30:39.135Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://houtmanwatch.com/cdn/shop/files/houtman_logo_black.png?v=1644328306",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://houtmanwatch.com/"
+ },
+ "attribution": "Images © Houtman, from houtmanwatch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0293/pilbara-mkii-dive-watch",
+   "name": "Pilbara MK2 Dive Watch",
+   "url": "https://houtmanwatch.com/products/pilbara-mkii-dive-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_Mk2_black_sample_Sq.jpg?v=1793243747",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_Mk2_black_sample_Sq.jpg?v=1793243747",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_Mk2_orange_sample_sq.jpg?v=1793243746",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_Mk2_Teal_sample_sq.jpg?v=1793243746",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_Wild_Violet_Mk2_sample_sq.jpg?v=1793243746",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Watch_strap_bracelet.jpg?v=1793244586",
+     "width": 1500,
+     "height": 981
+    }
+   ],
+   "priceMinor": 65500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Pilbara Series is inspired by one of Australia’s most rugged and remote landscapes. Whether you’re exploring reefs, trails, or just the daily grind, the Pilbara is ready for adventure. Specifications 316 Stainless Steel Case Polished ceramic bezel insert Miyota 9015 Automatic Movement (no batteries), with date window at 6 o'clock 200m Water Resistance Screw-down crown with luminous logo Swiss BGW9 luminous blocks and hands (Swiss Super LumiNova) Sapphire Crystal with anti-reflective treatment to underside Solid Stainless Steel Bracelet with quick release spring bars On-the-fly quick adjust clasp Included extras: FKM Rubber strap with SS end links, maroon 4-watch travel roll Dimensions 41mm case width 41.5mm Bezel width 11.8mm thickness (case + sapphire glass) 49mm lug-to-lug / case length 22mm lug width / strap width SS strap endlinks accept 20mm strap Bracelet is 22 to 20mm taper Own the adventure! Preorder Policy Note: Sample watches displayed Production Changes: There will be 1 visible production change; the bezel insert will be 0.4mm thicker, stretching toward the sapphire crystal - which will make the silver ring around the sapphire slightly narrower.",
+   "productType": "Dive Watch",
+   "tags": [
+    "Pilbara"
+   ],
+   "options": [
+    {
+     "name": "Dial Colour",
+     "values": [
+      "Black",
+      "Orange",
+      "Blue/Teal",
+      "Purple"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black",
+     "sku": "HM00678WAC-A",
+     "priceMinor": 65500,
+     "compareAtMinor": 77500,
+     "available": true,
+     "options": [
+      "Black"
+     ]
+    },
+    {
+     "title": "Orange",
+     "sku": "HM00678WAC-D",
+     "priceMinor": 65500,
+     "compareAtMinor": 77500,
+     "available": true,
+     "options": [
+      "Orange"
+     ]
+    },
+    {
+     "title": "Blue/Teal",
+     "sku": "HM00678WAC-C",
+     "priceMinor": 65500,
+     "compareAtMinor": 77500,
+     "available": true,
+     "options": [
+      "Blue/Teal"
+     ]
+    },
+    {
+     "title": "Purple",
+     "sku": "HM00678WAC-B",
+     "priceMinor": 65500,
+     "compareAtMinor": 77500,
+     "available": true,
+     "options": [
+      "Purple"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 41,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": "multi",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap with SS end links, maroon 4-watch travel roll",
+    "Dial Colour": "Black Black Orange Blue/Teal Purple"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/pilbara-diver-watch",
+    "BRD-0293/pilbara-mk2-dive-watch"
+   ],
+   "hash": "320ce3c9c2276934"
+  },
+  {
+   "id": "BRD-0293/pilbara-wild-violet",
+   "name": "Pilbara Wild Violet Dive Watch",
+   "url": "https://houtmanwatch.com/products/pilbara-wild-violet",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Wild_violet_dive_watch1.jpg?v=1711540212",
+    "width": 1507,
+    "height": 1507
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Wild_violet_dive_watch1.jpg?v=1711540212",
+     "width": 1507,
+     "height": 1507
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/20240313_120829.jpg?v=1711540212",
+     "width": 1100,
+     "height": 1100
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/wild_violet_sq.jpg?v=1711540212",
+     "width": 1200,
+     "height": 1191
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/stainless-watch-case-back_bc21c6eb-2be1-4c04-890d-d3c0ff2d4eff.jpg?v=1711540212",
+     "width": 1000,
+     "height": 999
+    }
+   ],
+   "priceMinor": 62900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Pilbara Wild Violet dive watch; featuring a striking deep purple sunburst dial inspired by the '70's era muscle cars, is a tough, high spec, wristwatch designed in Australia, made for comfort. Rugged enough for an Australian outback adventure, or diving Ningaloo, refined enough for any boardroom. The limited release wild Violet dive watch offers a great specs, subtle design, with extra attention paid to case finishing and feel. The result is well proportioned comfortable watch that punches above its weight on all fronts - own the adventure! Assembled in Australia",
+   "productType": "Dive Watch",
+   "tags": [
+    "Pilbara"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap, maroon 4-watch travel roll",
+    "YouTube Reviews and Blogs https": "//houtmanwatch.com/pages/media-kit",
+    "Photo credit": "Street Machine Magazine"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/pilbara-diver-watch"
+   ],
+   "hash": "8af75a86d7054313"
+  },
+  {
+   "id": "BRD-0293/pilbara-rock-batch-2",
+   "name": "Pilbara Rock Dive Watch - Second Release",
+   "url": "https://houtmanwatch.com/products/pilbara-rock-batch-2",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Houtman_pilbara_rock_v2_lr1.jpg?v=1735280556",
+    "width": 1636,
+    "height": 1636
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Houtman_pilbara_rock_v2_lr1.jpg?v=1735280556",
+     "width": 1636,
+     "height": 1636
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_Rock_Beach_Pic.jpg?v=1735280556",
+     "width": 1317,
+     "height": 1317
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_rock_2.jpg?v=1735280556",
+     "width": 1187,
+     "height": 1187
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_rock_2A.jpg?v=1735280556",
+     "width": 1084,
+     "height": 1084
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/divers_watch_case_back_817140c3-2740-4dfc-99a5-e1995e6264de.jpg?v=1735280556",
+     "width": 1050,
+     "height": 1049
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/pilbara_1lr.jpg?v=1735280535",
+     "width": 1236,
+     "height": 1236
+    }
+   ],
+   "priceMinor": 66600,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Inspired by the red earth of Western Australia's outback, the Pilbara dive watch is a tough, high spec, wristwatch designed in Australia. Rugged enough for an Australian outback adventure, or diving Ningaloo, refined enough for any boardroom. The Pilbara is a well-proportioned comfortable watch that punches above its weight on all fronts. Limited to 50 pieces, these are now in stock and now shipping. Own the adventure! Rock Dial Red rock dial, made from special compressed rock material- each dial is unique. Inspired by the rocky outcrops throughout the Pilbara region, the color is representative of where the red dirt of the Pilbara mixes with the white sands of the Indian Ocean. In this variant only the dial text is printed on underside of sapphire, rather than on the dial. This creates a 'floating' effect, where the watch hands can pass underneath the text, and in certain lighting can cast a light shadow across the dial - an interesting, and sometimes captivating, effect. Assembled in Australia.",
+   "productType": "Dive Watch",
+   "tags": [
+    "Pilbara"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap, maroon 4-watch travel roll"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/pilbara-diver-watch"
+   ],
+   "hash": "c82df9ce8ce3e905"
+  },
+  {
+   "id": "BRD-0293/pilbara-rock-sterile-dial",
+   "name": "Pilbara Rock Dive Watch - Sterile Dial",
+   "url": "https://houtmanwatch.com/products/pilbara-rock-sterile-dial",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Unique_sterile_rock_dial_watch_fa5c7ae5-8054-4a61-b38d-ef665f93db7a.jpg?v=1690372921",
+    "width": 1200,
+    "height": 1201
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Unique_sterile_rock_dial_watch_fa5c7ae5-8054-4a61-b38d-ef665f93db7a.jpg?v=1690372921",
+     "width": 1200,
+     "height": 1201
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/HoutmanPilbaraRockdialV1_sterile.jpg?v=1690372921",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Watchcasebackwithdog.jpg?v=1690372921",
+     "width": 1050,
+     "height": 1049
+    }
+   ],
+   "priceMinor": 66600,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Inspired by the red earth of Western Australia's outback, the Pilbara dive watch is a tough, high spec, wristwatch designed in Australia. Rugged enough for an Australian outback adventure, or diving Ningaloo, refined enough for any boardroom. The limited edition Pilbara offers a high spec, subtle design, highly legible wristwatch with extra attention paid to case finishing and feel. The result is well proportioned comfortable watch that punches above its weight on all fronts - its time to spoil your wrist! Rock Dial Red rock dial, made from special compressed rock material- each dial is unique. Inspired by the rocky outcrops throughout the Pilbara region, the color is representative of where the red dirt of the Pilbara mixes with the white sands of the Indian Ocean. In this variant only the dial text is printed on underside of sapphire, rather than on the dial. This creates a 'floating' effect, where the watch hands can pass underneath the text, and in certain lighting can cast a light shadow across the dial - an interesting, and sometimes captivating, effect. Second release orders now open - click here .",
+   "productType": "Dive Watch",
+   "tags": [
+    "sold out"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap, maroon 4-watch travel roll"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/sold-out"
+   ],
+   "hash": "197f1af3bad82bf8"
+  },
+  {
+   "id": "BRD-0293/murchison-watch-bracelet",
+   "name": "Murchison Watch Bracelet",
+   "url": "https://houtmanwatch.com/products/murchison-watch-bracelet",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Braceletrender.jpg?v=1664286916",
+    "width": 1241,
+    "height": 1241
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Braceletrender.jpg?v=1664286916",
+     "width": 1241,
+     "height": 1241
+    }
+   ],
+   "priceMinor": 9300,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Solid stainless-steel bracelet to suit Murchison series watches (only) Solid end links, brushed and polished finish, milled clasp with easy adjustment - no tools required! The Murchison bracelet really elevates the watches to the next level. Well constructed bracelet with nice feel, high quality clasp, full stainless steel construction- a must have. Murchison Aviator shown here fitted with the bracelet",
+   "productType": "Wrist Watch",
+   "tags": [
+    "Murchison"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/murchison-series-watches"
+   ],
+   "hash": "09db70863c13b66d"
+  },
+  {
+   "id": "BRD-0293/murchison-burnt-earth",
+   "name": "Murchison Burnt Earth Field/Dress Watch",
+   "url": "https://houtmanwatch.com/products/murchison-burnt-earth",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Murchison_Burnt_Earth_on_leather.jpg?v=1688006206",
+    "width": 2048,
+    "height": 2047
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Murchison_Burnt_Earth_on_leather.jpg?v=1688006206",
+     "width": 2048,
+     "height": 2047
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/mens_dress_field_watch_adbc1a6a-cf05-42a7-9145-192781d6ddf1.jpg?v=1741520549",
+     "width": 1230,
+     "height": 1230
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Murchison_Burnt_Earth_1.jpg?v=1741520549",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/HoutmanBurntEarth.jpg?v=1741520549",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/australian_watch_brand_kangaroo.jpg?v=1741520549",
+     "width": 1332,
+     "height": 1333
+    }
+   ],
+   "priceMinor": 65100,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Houtman Murchison Burnt earth watch; featuring a burnt salmon coloured dial with gradient effect and matte black handset and numbers. The dial looks almost as if it is illuminated from behind, though this is the only version which is completely without lune. A really a great colour combo. Swiss made automatic movement, sapphire crystal, stunning contrast, finishing and feel. Super legible, very comfortable on the wrist. Just 75 of this model will be produced. Optional bracelet can be found by clicking here",
+   "productType": "Wrist Watch",
+   "tags": [
+    "Murchison"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "Suede Strap, leather watch case"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/murchison-series-watches"
+   ],
+   "hash": "74be192f7aae00a7"
+  },
+  {
+   "id": "BRD-0293/murchison-sport",
+   "name": "Murchison Sport Field/Sport watch",
+   "url": "https://houtmanwatch.com/products/murchison-sport",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Murchison_Sport_on_leather.jpg?v=1688006280",
+    "width": 2047,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Murchison_Sport_on_leather.jpg?v=1688006280",
+     "width": 2047,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/MurchisonSport1.jpg?v=1664455719",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/HoutmanSportsWatch5_f2630b6b-fc1e-4297-97a1-95f02f07aad0.jpg?v=1688004996",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Australian_Watch_brand_caseback.jpg?v=1688004996",
+     "width": 1332,
+     "height": 1333
+    }
+   ],
+   "priceMinor": 55800,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "The Houtman Murchison Sport watch; featuring bold brushed and lumed markers, a striking brushed anthracite grey dial, and bold hands. Superb 40mm brushed and polished case, Swiss made automatic movement, sapphire crystal, stunning finishing and feel. Bold without being brash, super comfortable on the wrist. Less than 70 of this model will be produced. Optional bracelet can be found by clicking here",
+   "productType": "Wrist Watch",
+   "tags": [
+    "Murchison"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "Suede Strap, leather watch case"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/murchison-series-watches"
+   ],
+   "hash": "adb2a46774596a28"
+  },
+  {
+   "id": "BRD-0293/murchison-aviator",
+   "name": "Murchison Aviator Pilot Watch",
+   "url": "https://houtmanwatch.com/products/murchison-aviator",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Murchison_Aviatoron_leather_strap.jpg?v=1687998607",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Murchison_Aviatoron_leather_strap.jpg?v=1687998607",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/aviator_pilot_watch_swiss.jpg?v=1741520835",
+     "width": 1300,
+     "height": 1301
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Houtman_Murchison_Aviator_watch.jpg?v=1741520835",
+     "width": 2000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilotswatchwithbracelet.jpg?v=1741520835",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Houtman_Murchison_CaseBack_Kangaroo.jpg?v=1741520835",
+     "width": 1332,
+     "height": 1333
+    }
+   ],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Houtman Murchison Aviator watch; featuring a deep black dial with crisp white numerals- inspired by pilot watches from times past. The markers feature Swiss BGW9 lume, and fully luminous hands in matching BGW9 lume. Swiss made automatic movement, sapphire crystal, stunning contrast, finishing and feel. Super legible, very comfortable on the wrist. Just 75 of this model will be produced. Optional bracelet can be found by clicking here",
+   "productType": "Wrist Watch",
+   "tags": [
+    "Murchison"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "Suede Strap, leather watch case"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/murchison-series-watches"
+   ],
+   "hash": "eea6d056315362db"
+  },
+  {
+   "id": "BRD-0293/murchison-river-lume",
+   "name": "Murchison River Lume Field/Dress Watch",
+   "url": "https://houtmanwatch.com/products/murchison-river-lume",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Murchisonriverlumeonleather.jpg?v=1688006088",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Murchisonriverlumeonleather.jpg?v=1688006088",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/glowing_luminous_watch.jpg?v=1741519235",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Murchisonriverlumeglowing.jpg?v=1741519235",
+     "width": 2664,
+     "height": 2665
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Murchison_river_lume_suede.jpg?v=1741519235",
+     "width": 2000,
+     "height": 1999
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/HoutmanRiverLume.jpg?v=1741519235",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Houtman_Murchison_Case_Back.jpg?v=1741519235",
+     "width": 1332,
+     "height": 1333
+    }
+   ],
+   "priceMinor": 65100,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Houtman Murchison River lume with unique two later dial - a near white backing dial, and matte skeletonised overlay for a monochromatic effect in the light, while in the dark 3 different colours of Swiss Super Lumi-Nova luminous glow through the overlay with mesmerising effect. The hands additionally are filled with purple Super Lumi-Nova for added effect . Superb 40mm brushed and polished case, Swiss made automatic movement, sapphire crystal, stunning finishing and feel. Bold without being brash, super comfortable on the wrist. Less than 75 of this model will be produced. Optional bracelet can be found by clicking here",
+   "productType": "Wrist Watch",
+   "tags": [
+    "Murchison"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "Suede Strap, leather watch case"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/murchison-series-watches"
+   ],
+   "hash": "b86e766f08053350"
+  },
+  {
+   "id": "BRD-0293/pilbara-black-sand-dial-watch",
+   "name": "Pilbara Black Sand Dive Watch",
+   "url": "https://houtmanwatch.com/products/pilbara-black-sand-dial-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/pilbara_black_sold_out.jpg?v=1734862685",
+    "width": 1241,
+    "height": 1241
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/pilbara_black_sold_out.jpg?v=1734862685",
+     "width": 1241,
+     "height": 1241
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/SS_dive_wtach_sitting_on_rock.jpg?v=1734862685",
+     "width": 2294,
+     "height": 2293
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/BlackdialdivewatchHoutmanPilbara_3d645342-654b-44ee-b8f5-bc2c5f96e062.jpg?v=1734862685",
+     "width": 2145,
+     "height": 2146
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/unique-watch-case-back_dog.jpg?v=1734862685",
+     "width": 1050,
+     "height": 1049
+    }
+   ],
+   "priceMinor": 62900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Pilbara Black dive watch; featuring a textured back dial, with contrasting brushed hands - a tough, high spec, wristwatch designed in, and inspired by, Australia. Rugged enough for an Australian outback adventure, or diving Ningaloo, refined enough for any boardroom. The limited release Pilbara offers a high spec, subtle design, highly legible wristwatch with extra attention paid to case finishing and feel. The result is well proportioned comfortable watch that punches above its weight on all fronts. Own the adventure!",
+   "productType": "Dive Watch",
+   "tags": [
+    "Pilbara"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap, maroon 4-watch travel roll"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/pilbara-diver-watch"
+   ],
+   "hash": "15d4f91730047593"
+  },
+  {
+   "id": "BRD-0293/pilbara-white-dial-watch",
+   "name": "Pilbara White Salt Dive Watch",
+   "url": "https://houtmanwatch.com/products/pilbara-white-dial-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/HoutmanPilbarawhitedivewatch.jpg?v=1714139464",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/HoutmanPilbarawhitedivewatch.jpg?v=1714139464",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Whitedialdivewatchmenswatchaustralia.jpg?v=1714139464",
+     "width": 1264,
+     "height": 1265
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/white_dial_dive_watch.jpg?v=1688004486",
+     "width": 1200,
+     "height": 800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/dive-watch-case-back_embossed.jpg?v=1688004486",
+     "width": 1050,
+     "height": 1049
+    }
+   ],
+   "priceMinor": 62900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Pilbara dive watch; featuring a matte white dial with high contrast black hands, the white dial was inspired by the salt mines in the Pilbara - large, stark, white fields contrasting heavily against the iron rich red dirt surrounding them. Rugged enough for an Australian outback adventure, or diving Ningaloo, refined enough for any boardroom. The limited release Pilbara white salt offers great specs, subtle design, high legibility with extra attention paid to case finishing and feel. The result is well proportioned comfortable watch that punches above its weight on all fronts. Own the adventure!",
+   "productType": "Dive Watch",
+   "tags": [
+    "Pilbara"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap, maroon 4-watch travel roll"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/pilbara-diver-watch"
+   ],
+   "hash": "b0483cc386fe30bb"
+  },
+  {
+   "id": "BRD-0293/pilbara-blue-dial-watch",
+   "name": "Pilbara Blue Dive Watch",
+   "url": "https://houtmanwatch.com/products/pilbara-blue-dial-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_blue_dive_watch_sold_out.jpg?v=1727957170",
+    "width": 1876,
+    "height": 1876
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_blue_dive_watch_sold_out.jpg?v=1727957170",
+     "width": 1876,
+     "height": 1876
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_blue_dive_watch.jpg?v=1714139378",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/BluedialdiavewatchwatchproofwatchHoutman.jpg?v=1714139378",
+     "width": 1309,
+     "height": 1309
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/stainless-watch-case-back.jpg?v=1714136713",
+     "width": 1050,
+     "height": 1049
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/fumebluesunburstdivewatch.jpg?v=1714136713",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_Blue_Lifestyle.jpg?v=1714136713",
+     "width": 839,
+     "height": 839
+    }
+   ],
+   "priceMinor": 62900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Pilbara Blue dive watch; featuring a sunburst blue dial with gradient effect (fade to black) - inspired by the deep blues of the Indian Ocean. Rugged enough for an Australian outback adventure, or diving Ningaloo, refined enough for any boardroom. The limited release Pilbara offers a high spec, subtle design, highly legible wristwatch with extra attention paid to case finishing and feel. The result is well proportioned comfortable watch that punches above its weight on all fronts. Own the adventure!",
+   "productType": "Dive Watch",
+   "tags": [
+    "Pilbara"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap, maroon 4-watch travel roll"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/pilbara-diver-watch"
+   ],
+   "hash": "51209aced86bfb5f"
+  },
+  {
+   "id": "BRD-0293/pilbara-jade-dial-watch",
+   "name": "Pilbara Jade Dive Watch",
+   "url": "https://houtmanwatch.com/products/pilbara-jade-dial-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/greenwatchsoldout.jpg?v=1728462292",
+    "width": 1641,
+    "height": 1641
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/greenwatchsoldout.jpg?v=1728462292",
+     "width": 1641,
+     "height": 1641
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/greendivewatch1sq.jpg?v=1714139402",
+     "width": 1123,
+     "height": 1124
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Pilbara_jade_dive_watch_1.jpg?v=1714289476",
+     "width": 1000,
+     "height": 1250
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/1GreenSS_d87706aa-be85-46f9-b39b-7aa09ebe85c7.jpg?v=1714289476",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/fumegreensunburstdivewatch.jpg?v=1714289476",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/srew_down_case_back.jpg?v=1714289476",
+     "width": 1050,
+     "height": 1049
+    }
+   ],
+   "priceMinor": 62900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "The Pilbara Jade dive watch; with its deep green sunburst dial and gradient effect, was inspired by a green soft carving stone found locally - and called Pilbara Jade. Rugged enough for an Australian outback adventure, or diving Ningaloo, refined enough for any boardroom. The limited release Pilbara Jade offers a high spec, subtle design, highly legible wristwatch with extra attention paid to case finishing and feel. The result is well proportioned comfortable watch that punches above its weight on all fronts. Own the adventure!",
+   "productType": "Dive Watch",
+   "tags": [
+    "Pilbara"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap, maroon 4-watch travel roll"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/pilbara-diver-watch"
+   ],
+   "hash": "cf5c653093c197c9"
+  },
+  {
+   "id": "BRD-0293/pilbara-red-rock-dial-watch",
+   "name": "Pilbara Rock Dial Dive Watch",
+   "url": "https://houtmanwatch.com/products/pilbara-red-rock-dial-watch",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Unique_rockdial_dive_watch_australian_brand_Houtman.jpg?v=1690372419",
+    "width": 1307,
+    "height": 1308
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/products/Unique_rockdial_dive_watch_australian_brand_Houtman.jpg?v=1690372419",
+     "width": 1307,
+     "height": 1308
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/HoutmanPilbaraRockdialV1_76ca842e-8887-4826-b664-c95fdbd26649.jpg?v=1690372419",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/Upcloaserockdialv1.jpg?v=1690372419",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/upcloserockdialv1.1.jpg?v=1690372419",
+     "width": 4000,
+     "height": 2667
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/files/divers_watch_case_back.jpg?v=1690372419",
+     "width": 1050,
+     "height": 1049
+    }
+   ],
+   "priceMinor": 66600,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "Inspired by the red earth of Western Australia's outback, the Pilbara dive watch is a tough, high spec, wristwatch designed in Australia. Rugged enough for an Australian outback adventure, or diving Ningaloo, refined enough for any boardroom. The limited edition Pilbara offers a high spec, subtle design, highly legible wristwatch with extra attention paid to case finishing and feel. The result is well proportioned comfortable watch that punches above its weight on all fronts - its time to spoil your wrist! Rock Dial Red rock dial, made from special compressed rock material- each dial is unique. Inspired by the rocky outcrops throughout the Pilbara region, the color is representative of where the red dirt of the Pilbara mixes with the white sands of the Indian Ocean. In this variant only the dial text is printed on underside of sapphire, rather than on the dial. This creates a 'floating' effect, where the watch hands can pass underneath the text, and in certain lighting can cast a light shadow across the dial - an interesting, and sometimes captivating, effect. Second release orders now open - click here .",
+   "productType": "Dive Watch",
+   "tags": [
+    "sold out"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Included extras": "FKM Rubber strap, maroon 4-watch travel roll"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:30:39.135Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:30:39.135Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0293/sold-out"
+   ],
+   "hash": "d2f82bacf6ea486f"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0293/murchison-series-watches",
+   "name": "Murchison Field, Dress and Pilot Watches",
+   "url": "https://houtmanwatch.com/collections/murchison-series-watches",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/collections/Murchison_river_lume_glowing.jpg?v=1664333827",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0293/pilbara-diver-watch",
+   "name": "Pilbara Dive Watch",
+   "url": "https://houtmanwatch.com/collections/pilbara-diver-watch",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0457/8322/0374/collections/33_1200500.jpg?v=1686312253",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0293/pilbara-mk2-dive-watch",
+   "name": "Pilbara MK2 Dive Watch",
+   "url": "https://houtmanwatch.com/collections/pilbara-mk2-dive-watch",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-0293/sold-out",
+   "name": "Sold out",
+   "url": "https://houtmanwatch.com/collections/sold-out",
+   "description": null,
+   "image": null
+  }
+ ]
+}

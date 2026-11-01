@@ -1,0 +1,122 @@
+{
+ "brandId": "BRD-0485",
+ "brandName": "ROBOT",
+ "website": "https://www.robot-watch.com",
+ "crawledAt": "2026-11-01T08:24:38.898Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://www.robot-watch.com/wp-content/uploads/2024/07/robot-logo.svg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.robot-watch.com/en/"
+ },
+ "attribution": "Images © ROBOT, from robot-watch.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0485/signature-edition",
+   "name": "Signature Edition",
+   "url": "https://www.robot-watch.com/en/collection/signature-edition/",
+   "image": {
+    "url": "https://www.robot-watch.com/wp-content/uploads/2024/09/311328760_541902007938665_7583665685983700611_n.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.robot-watch.com/wp-content/uploads/2024/09/311328760_541902007938665_7583665685983700611_n.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T08:24:38.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:38.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d7562cedd1f64e06"
+  },
+  {
+   "id": "BRD-0485/limited-editions",
+   "name": "Limited editions",
+   "url": "https://www.robot-watch.com/en/collection/limited-editions/",
+   "image": {
+    "url": "https://www.robot-watch.com/wp-content/uploads/2024/09/311328760_541902007938665_7583665685983700611_n.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.robot-watch.com/wp-content/uploads/2024/09/311328760_541902007938665_7583665685983700611_n.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": null,
+   "currency": null,
+   "availability": "unknown",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-01T08:24:38.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:24:38.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d8a8ee5e62ee089f"
+  }
+ ],
+ "collections": []
+}

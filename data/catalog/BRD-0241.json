@@ -1,0 +1,508 @@
+{
+ "brandId": "BRD-0241",
+ "brandName": "Foster Watch Co",
+ "website": "https://fosterwatches.com",
+ "crawledAt": "2026-11-01T07:14:51.784Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://fosterwatches.com/cdn/shop/files/16.png?v=1668647590",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://fosterwatches.com/"
+ },
+ "attribution": "Images © Foster Watch Co, from fosterwatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0241/11-atmos-skin-diver-white",
+   "name": "11 Atmos Skin Diver — White",
+   "url": "https://fosterwatches.com/products/11-atmos-skin-diver-white",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/13.png?v=1712962908",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/13.png?v=1712962908",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/15_7be0f4bc-9cd2-4dc2-8d23-924e6247de05.png?v=1712962908",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/14.png?v=1712962908",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A little vintage. A little bold. A whole lot of personality. Meet the 11 Atmos: a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned. The details Miyota 90S5 automatic movement 39mm stainless steel case 110m water resistance 48-click bezel Acrylic crystal Approximately 42-hour power reserve",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": null,
+    "waterResistanceM": 110,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Meet the 11 Atmos": "a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned.",
+    "Diameter": "39mm",
+    "Lug-to-lug": "48mm",
+    "Thickness": "12.1 (w/crystal)",
+    "WR": "110mm MOVEMENT:",
+    "Frequency": "4hz PRODUCTION:"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:14:51.784Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:14:51.784Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0241/11-atmos-skin-diver"
+   ],
+   "hash": "5c24fb69ad229a3d"
+  },
+  {
+   "id": "BRD-0241/11-atmos-skin-diver-gray",
+   "name": "11 Atmos Skin Diver — Gray",
+   "url": "https://fosterwatches.com/products/11-atmos-skin-diver-gray",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/10.png?v=1712962943",
+    "width": 1080,
+    "height": 1080
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/10.png?v=1712962943",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/12.png?v=1712962943",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/11.png?v=1712962943",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A little vintage. A little bold. A whole lot of personality. Meet the 11 Atmos: a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned. The details Miyota 90S5 automatic movement 39mm stainless steel case 110m water resistance 48-click bezel Acrylic crystal Approximately 42-hour power reserve",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": null,
+    "waterResistanceM": 110,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Meet the 11 Atmos": "a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned.",
+    "Diameter": "39mm",
+    "Lug-to-lug": "48mm",
+    "Thickness": "12.1 (w/crystal)",
+    "WR": "110mm MOVEMENT:",
+    "Frequency": "4hz PRODUCTION:"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:14:51.784Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:14:51.784Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0241/11-atmos-skin-diver"
+   ],
+   "hash": "36db512d57abec7c"
+  },
+  {
+   "id": "BRD-0241/11-atmos-skin-diver-black",
+   "name": "11 Atmos Skin Diver — Black",
+   "url": "https://fosterwatches.com/products/11-atmos-skin-diver-black",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/1_562bffef-2679-4ab7-90c2-5d24097e474b.jpg?v=1670630128",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/1_562bffef-2679-4ab7-90c2-5d24097e474b.jpg?v=1670630128",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/7_3655d0a5-6e7c-433c-a6dd-fac80f8a506e.png?v=1711129458",
+     "width": 1215,
+     "height": 1215
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/8_47f6505f-9363-4b56-9de6-67566a7676d6.png?v=1711129457",
+     "width": 1215,
+     "height": 1215
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/6_f7ed982c-d47b-4b61-92c0-273abe66a509.jpg?v=1711129476",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/5_516cd3c4-4b39-4cb9-9abb-5a079119cf84.jpg?v=1711129490",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/4_4c8268c8-dbfd-41a7-9721-4d696674039d.jpg?v=1711129500",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A little vintage. A little bold. A whole lot of personality. Meet the 11 Atmos: a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned. The details Miyota 90S5 automatic movement 39mm stainless steel case 110m water resistance 48-click bezel Acrylic crystal Approximately 42-hour power reserve",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": null,
+    "waterResistanceM": 110,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Meet the 11 Atmos": "a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned.",
+    "Frequency": "4hz CASE:",
+    "Diameter": "39mm",
+    "Lug-to-lug": "48mm",
+    "Thickness": "12.1 (w/crystal)",
+    "WR": "110mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:14:51.784Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:14:51.784Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0241/11-atmos-skin-diver"
+   ],
+   "hash": "0d71ec708e8f8c04"
+  },
+  {
+   "id": "BRD-0241/11-atmos-skin-diver-orange",
+   "name": "11 Atmos Skin Diver — Orange",
+   "url": "https://fosterwatches.com/products/11-atmos-skin-diver-orange",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/2_f259e863-ebfd-4ea2-8103-739286f7b0e1.jpg?v=1670630232",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/2_f259e863-ebfd-4ea2-8103-739286f7b0e1.jpg?v=1670630232",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/6_f0e6f2ba-8bda-4622-9d2a-53cea6e73fe5.png?v=1711129434",
+     "width": 1215,
+     "height": 1215
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/6.jpg?v=1711129434",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/OrangeBezel.png?v=1711129434",
+     "width": 1350,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/Foster11Atmos-4_afcfff9a-95b7-4b34-9725-7aca3e8c81e1.jpg?v=1711129434",
+     "width": 3000,
+     "height": 2000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/4.jpg?v=1711129434",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A little vintage. A little bold. A whole lot of personality. Meet the 11 Atmos: a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned. The details Miyota 90S5 automatic movement 39mm stainless steel case 110m water resistance 48-click bezel Acrylic crystal Approximately 42-hour power reserve",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": null,
+    "waterResistanceM": 110,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Meet the 11 Atmos": "a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned.",
+    "Frequency": "4hz CASE:",
+    "Diameter": "39mm",
+    "Lug-to-lug": "48mm",
+    "Thickness": "12.1 (w/crystal)",
+    "WR": "110mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:14:51.784Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:14:51.784Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0241/11-atmos-skin-diver"
+   ],
+   "hash": "ec682f763e44f992"
+  },
+  {
+   "id": "BRD-0241/11-atmos-skin-diver-green",
+   "name": "11 Atmos Skin Diver — Green",
+   "url": "https://fosterwatches.com/products/11-atmos-skin-diver-green",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/3_12d71f6b-8cb5-41c0-b28b-c6a25ef6eeca.jpg?v=1670630526",
+    "width": 3000,
+    "height": 3000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/3_12d71f6b-8cb5-41c0-b28b-c6a25ef6eeca.jpg?v=1670630526",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/GreenFull.png?v=1711129264",
+     "width": 1215,
+     "height": 1215
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/GreenBezel.png?v=1711129264",
+     "width": 1350,
+     "height": 1350
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/6_f7ed982c-d47b-4b61-92c0-273abe66a509.jpg?v=1711129264",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/5.jpg?v=1711129264",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/products/4_4c8268c8-dbfd-41a7-9721-4d696674039d.jpg?v=1711129264",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "A little vintage. A little bold. A whole lot of personality. Meet the 11 Atmos: a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned. The details Miyota 90S5 automatic movement 39mm stainless steel case 110m water resistance 48-click bezel Acrylic crystal Approximately 42-hour power reserve",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": null,
+    "waterResistanceM": 110,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Meet the 11 Atmos": "a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned.",
+    "Frequency": "4hz CASE:",
+    "Diameter": "39mm",
+    "Lug-to-lug": "48mm",
+    "Thickness": "12.1 (w/crystal)",
+    "WR": "110mm"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:14:51.784Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:14:51.784Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0241/11-atmos-skin-diver"
+   ],
+   "hash": "89ab584bd580f5d9"
+  },
+  {
+   "id": "BRD-0241/11-atmos-skin-diver-blue",
+   "name": "11 Atmos Skin Diver — Blue",
+   "url": "https://fosterwatches.com/products/11-atmos-skin-diver-blue",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/Blue_White.png?v=1711129097",
+    "width": 1800,
+    "height": 1800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/Blue_White.png?v=1711129097",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/Desk1.png?v=1711127450",
+     "width": 2145,
+     "height": 1716
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/Close1.png?v=1711127450",
+     "width": 2323,
+     "height": 1858
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/6_77e9314a-af73-4347-b890-78f582e7f461.jpg?v=1711129553",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/5_2b14763e-f843-45b5-b507-f01ed238a94a.jpg?v=1711129553",
+     "width": 3000,
+     "height": 3000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0619/7297/1733/files/4_36bd978c-3d9a-4e9e-8e12-ba2dff21952f.jpg?v=1711129553",
+     "width": 3000,
+     "height": 3000
+    }
+   ],
+   "priceMinor": 45000,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "A little vintage. A little bold. A whole lot of personality. Meet the 11 Atmos: a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned The details Miyota 90S5 automatic movement 39mm stainless steel case 110m water resistance 48-click bezel Acrylic crystal Approximately 42-hour power reserve",
+   "productType": "Watch",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": 48,
+    "thicknessMm": null,
+    "waterResistanceM": 110,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "hesalite_acrylic",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Meet the 11 Atmos": "a 39mm automatic skin diver with a 48-click dual-time bezel, warm acrylic crystal, and enough water resistance for whatever the weekend has planned",
+    "Frequency": "4hz CASE:",
+    "Diameter": "39mm",
+    "Lug-to-lug": "48mm",
+    "Thickness": "12.1 (w/crystal)",
+    "WR": "110mm"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:14:51.784Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:14:51.784Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0241/11-atmos-skin-diver"
+   ],
+   "hash": "14987b50982cb8ab"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0241/11-atmos-skin-diver",
+   "name": "11 Atmos Skin Diver",
+   "url": "https://fosterwatches.com/collections/11-atmos-skin-diver",
+   "description": null,
+   "image": null
+  }
+ ]
+}

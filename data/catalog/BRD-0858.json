@@ -1,0 +1,994 @@
+{
+ "brandId": "BRD-0858",
+ "brandName": "Deux Mers",
+ "website": "https://deuxmers.net",
+ "crawledAt": "2026-11-01T07:00:50.261Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://deuxmers.net/cdn/shop/files/logo_header.png?v=1760354323",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://deuxmers.net/"
+ },
+ "attribution": "Images © Deux Mers, from deuxmers.net",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0858/le-carre",
+   "name": "Le Carre",
+   "url": "https://deuxmers.net/products/le-carre",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP-333.png?v=1793182214",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP-333.png?v=1793182214",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Le Carre ISBN": "Select Title Default Title Price 95.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "adacaa5a9331b395"
+  },
+  {
+   "id": "BRD-0858/rubis",
+   "name": "Rubis",
+   "url": "https://deuxmers.net/products/rubis",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP-222.png?v=1793181411",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP-222.png?v=1793181411",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Rubis ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "25295d62b6c0fb38"
+  },
+  {
+   "id": "BRD-0858/tableau",
+   "name": "Tableau",
+   "url": "https://deuxmers.net/products/tableau",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP-111.png?v=1793182119",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP-111.png?v=1793182119",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Tableau ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "24bb152ccfd36de4"
+  },
+  {
+   "id": "BRD-0858/ecume",
+   "name": "Ecume",
+   "url": "https://deuxmers.net/products/ecume",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/02dux.jpg?v=1784546967",
+    "width": 2048,
+    "height": 2044
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/02dux.jpg?v=1784546967",
+     "width": 2048,
+     "height": 2044
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "BHD",
+   "availability": "sold_out",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Ecume ISBN": "Select Title Default Title Price 95.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "aed5a7cb0b9364aa"
+  },
+  {
+   "id": "BRD-0858/sable",
+   "name": "Sable",
+   "url": "https://deuxmers.net/products/sable",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/01dux.jpg?v=1784545931",
+    "width": 2048,
+    "height": 2044
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/01dux.jpg?v=1784545931",
+     "width": 2048,
+     "height": 2044
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Sable ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "69e126560b9292e1"
+  },
+  {
+   "id": "BRD-0858/le-cadre",
+   "name": "Le Cadre",
+   "url": "https://deuxmers.net/products/le-cadre",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Untitled-1_0001_Deux-2.jpg?v=1772023538",
+    "width": 2048,
+    "height": 2044
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Untitled-1_0001_Deux-2.jpg?v=1772023538",
+     "width": 2048,
+     "height": 2044
+    }
+   ],
+   "priceMinor": 9500,
+   "currency": "BHD",
+   "availability": "sold_out",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Le Cadre ISBN": "Select Title Default Title Price 95.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "0b757c473efccbb1"
+  },
+  {
+   "id": "BRD-0858/nuance",
+   "name": "Nuance",
+   "url": "https://deuxmers.net/products/nuance",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Untitled-1_0002_Deux-3.jpg?v=1772023388",
+    "width": 2048,
+    "height": 2044
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Untitled-1_0002_Deux-3.jpg?v=1772023388",
+     "width": 2048,
+     "height": 2044
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Nuance ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "3afabcc6d3f58bed"
+  },
+  {
+   "id": "BRD-0858/garde",
+   "name": "Garde",
+   "url": "https://deuxmers.net/products/garde",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Untitled-1_0003_Deux-4.jpg?v=1772023098",
+    "width": 2048,
+    "height": 2044
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Untitled-1_0003_Deux-4.jpg?v=1772023098",
+     "width": 2048,
+     "height": 2044
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Garde ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "8d50792991cd1330"
+  },
+  {
+   "id": "BRD-0858/epure2",
+   "name": "Era",
+   "url": "https://deuxmers.net/products/epure2",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/cxp_-watch0079_1.jpg?v=1767514062",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/cxp_-watch0079_1.jpg?v=1767514062",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/7F672658-8F76-4B29-A492-030AFC38A416.jpg?v=1767514062",
+     "width": 1170,
+     "height": 1285
+    }
+   ],
+   "priceMinor": 12500,
+   "currency": "BHD",
+   "availability": "sold_out",
+   "description": "VX00 Japanese Movement Quartz 316L Polished Stainless Steel Water Resistance 3ATM Case Diameter: 34.5 MM X39.5 MM Lug to Lug : 39.5 MM Thickness : 5.9 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 34.5,
+    "lugWidthMm": null,
+    "lugToLugMm": 39.5,
+    "thicknessMm": 5.9,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "34.5 MM X39.5 MM",
+    "Lug to Lug": "39.5 MM",
+    "Thickness": "5.9 MM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/epure"
+   ],
+   "hash": "b82982280e22bd3f"
+  },
+  {
+   "id": "BRD-0858/epure1",
+   "name": "Fonce",
+   "url": "https://deuxmers.net/products/epure1",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/cxp-watch9278.jpg?v=1767514044",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/cxp-watch9278.jpg?v=1767514044",
+     "width": 4000,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/F36B1479-B618-46C7-838F-20FFE9C5F8C0.jpg?v=1767114546",
+     "width": 1170,
+     "height": 1314
+    }
+   ],
+   "priceMinor": 12500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VX00 Japanese Movement Quartz 316L Polished Stainless Steel (Rose gold plated ) Water Resistance 3ATM Case Diameter: 34.5 MM X39.5 MM Lug to Lug : 39.5 MM Thickness : 5.9 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 34.5,
+    "lugWidthMm": null,
+    "lugToLugMm": 39.5,
+    "thicknessMm": 5.9,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Diameter": "34.5 MM X39.5 MM",
+    "Lug to Lug": "39.5 MM",
+    "Thickness": "5.9 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/epure"
+   ],
+   "hash": "b97130e06564ea54"
+  },
+  {
+   "id": "BRD-0858/savine",
+   "name": "Savine",
+   "url": "https://deuxmers.net/products/savine",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Savine_02.jpg?v=1757852716",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Savine_02.jpg?v=1757852716",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "sold_out",
+   "description": "VJ20 Japanese Movement Quartz 316L Polished Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Savine ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Polished Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "b0bd581079594a22"
+  },
+  {
+   "id": "BRD-0858/noctis",
+   "name": "Noctis",
+   "url": "https://deuxmers.net/products/noctis",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP-1_New.jpg?v=1792837136",
+    "width": 2048,
+    "height": 2044
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP-1_New.jpg?v=1792837136",
+     "width": 2048,
+     "height": 2044
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Noctis ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "b44fee6ee553e9b7"
+  },
+  {
+   "id": "BRD-0858/m025",
+   "name": "Fog",
+   "url": "https://deuxmers.net/products/m025",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Cxp-2.png?v=1750317082",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Cxp-2.png?v=1750317082",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "in_stock",
+   "description": "VJ20 Japanese Movement Quartz 316L Polished Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [
+    "watch"
+   ],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Fog ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Polished Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "deb1735475ae79cc"
+  },
+  {
+   "id": "BRD-0858/g025",
+   "name": "Aprica",
+   "url": "https://deuxmers.net/products/g025",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Cxp-1.png?v=1750316866",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/Cxp-1.png?v=1750316866",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "sold_out",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Aprica ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "52c080f566118ec2"
+  },
+  {
+   "id": "BRD-0858/b025",
+   "name": "Noir",
+   "url": "https://deuxmers.net/products/b025",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP3879.png?v=1750316666",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP3879.png?v=1750316666",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "sold_out",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Noir ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "06ccccb4906875dc"
+  },
+  {
+   "id": "BRD-0858/blk025",
+   "name": "Ciel",
+   "url": "https://deuxmers.net/products/blk025",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP3871.png?v=1750316210",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP3871.png?v=1750316210",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "sold_out",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Ciel ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "e32157c51ec87534"
+  },
+  {
+   "id": "BRD-0858/s025",
+   "name": "Olivon",
+   "url": "https://deuxmers.net/products/s025",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP3877.png?v=1750316578",
+    "width": 4000,
+    "height": 4000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/files/CXP3877.png?v=1750316578",
+     "width": 4000,
+     "height": 4000
+    }
+   ],
+   "priceMinor": 8500,
+   "currency": "BHD",
+   "availability": "sold_out",
+   "description": "VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 33.7,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 6.6,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Olivon ISBN": "Select Title Default Title Price 85.000 VJ20 Japanese Movement Quartz 316L Stainless Steel Water Resistance 3ATM Case Diameter 33.7 MM Thickness 6.6 MM"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:00:50.261Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:00:50.261Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0858/bo"
+   ],
+   "hash": "aa71737404a2a454"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0858/epure",
+   "name": "Epure",
+   "url": "https://deuxmers.net/collections/epure",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/collections/62325BE9-A4CD-4241-9792-74C376391EEB.jpg?v=1767107860",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0858/bo",
+   "name": "Riviera",
+   "url": "https://deuxmers.net/collections/bo",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0885/3569/5607/collections/deuxmerscollection.jpg?v=1758105962",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "brandId": "BRD-0948",
+ "brandName": "Good + Evil",
+ "website": "https://goodplusevil.com",
+ "crawledAt": "2026-11-01T07:19:55.462Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://goodplusevil.com/cdn/shop/files/logo-goodplusevil_3cc7ab68-ffd7-4d22-8b0f-3005428ffd57.png?height=45&v=1731460873",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://goodplusevil.com/"
+ },
+ "attribution": "Images © Good + Evil, from goodplusevil.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0948/ways",
+   "name": "Ways Watch",
+   "url": "https://goodplusevil.com/products/ways",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0705/9963/9281/files/ways_anim_gray_product_GI_1149a02a-c6d8-4acb-8379-4dc1ddcd9865.webp?v=1787977635",
+    "width": 1000,
+    "height": 1000
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0705/9963/9281/files/ways_anim_gray_product_GI_1149a02a-c6d8-4acb-8379-4dc1ddcd9865.webp?v=1787977635",
+     "width": 1000,
+     "height": 1000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0705/9963/9281/files/ways_anim_black_product_GI_953193e7-47ca-4bd0-a611-f437522863e2.webp?v=1787977648",
+     "width": 1000,
+     "height": 1000
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Sometimes ridiculous ideas lead to ridiculous outcomes, and sometimes they lead to surprisingly elegant watches like the Ways. Throughout its 120° rotation, the circular front half has a satisfying click at each minute angle (every 6°). Designed by Christo Logan",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Gray Stainless",
+      "Black Carbon"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Gray Stainless",
+     "sku": "WAYS-40-GW",
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray Stainless"
+     ]
+    },
+    {
+     "title": "Black Carbon",
+     "sku": "WAYS-40-KW",
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Carbon"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:19:55.462Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:19:55.462Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "937506cfb1f4a510"
+  },
+  {
+   "id": "BRD-0948/omen",
+   "name": "Omen Watch",
+   "url": "https://goodplusevil.com/products/omen",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0705/9963/9281/files/omen_anim_gray_product.webp?v=1781311400",
+    "width": 1500,
+    "height": 1500
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0705/9963/9281/files/omen_anim_gray_product.webp?v=1781311400",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0705/9963/9281/files/omen_anim_black_product.webp?v=1781311416",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "When an architect is allowed to make their ideal watch without regard for what anyone thinks, there's a chance it will come out like Omen. It began with the compulsion to integrate the crown flush with the stainless steel case, which resulted in a flat right edge that provided an excellent opportunity to also integrate the lugs such that the left edge of the strap aligns perfectly with the center of the 3D \"zen garden\" dial that uses shadow and light to mark the hours, undisturbed by a vulgar logo as that was elevated to the status of seconds hand that, along with the minute and hour hands, completed an intense negotiation-turned-collaboration between circular and squared geometries. Designed by Christo Logan",
+   "productType": "Watch",
+   "tags": [],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Gray Stainless",
+      "Black Carbon"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Gray Stainless",
+     "sku": "OMEN-40-GW",
+     "priceMinor": 29900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gray Stainless"
+     ]
+    },
+    {
+     "title": "Black Carbon",
+     "sku": "OMEN-40-KW",
+     "priceMinor": 29900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black Carbon"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:19:55.462Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:19:55.462Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "cb2b13bfa795f128"
+  }
+ ],
+ "collections": []
+}

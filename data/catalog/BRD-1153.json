@@ -1,0 +1,2331 @@
+{
+ "brandId": "BRD-1153",
+ "brandName": "Monterey Watch Co",
+ "website": "https://montereywatches.com",
+ "crawledAt": "2026-11-01T08:00:57.247Z",
+ "status": "ok",
+ "platform": "shopify",
+ "brandImage": {
+  "url": "https://montereywatches.com/cdn/shop/files/Square_Finals_-_2025-03-13T171143.367.png?v=1741900331",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://montereywatches.com/"
+ },
+ "attribution": "Images © Monterey Watch Co, from montereywatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-1153/darkfathom-dt",
+   "name": "DARKFATHOM DT",
+   "url": "https://montereywatches.com/products/darkfathom-dt",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_38.png?v=1788367126",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_38.png?v=1788367126",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-8091.jpg?v=1792967658",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_9.png?v=1788464343",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_2.png?v=1788282287",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_40.png?v=1788367926",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_41.png?v=1788367926",
+     "width": 1200,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 51900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "DARKFATHOM DT Est. arrival 11/9 Some watches have a story worth telling before you even get to the specs. The DARKFATHOM DT pays tribute to David “DT” Taylor, a legendary North Carolina surfer whose life has been shaped by the ocean. It carries forward the original DARKFATHOM’s serious dive-watch credentials, paired with an upgraded bracelet and two colorways: Mavericks Green and Stormglass Purple. Made for More Than Looking the Part The DARKFATHOM DT takes its diving credentials seriously. Its 120-click unidirectional ceramic bezel makes tracking elapsed time straightforward, while the BGW9 luminous insert adds visibility when the light starts to disappear. A domed sapphire crystal with anti-reflective coating keeps the dial easy to read, whether you're underwater or back on dry land. A Little More to Look At Inside, the Miyota 9015 automatic movement runs at a high beat rate, with a reputation for dependable everyday performance. Flip the watch over and the display caseback gives you a view of the movement at work. It's a small detail, but one that adds something interesting to a watch designed around function. The Bracelet Makes a Difference The 42mm stainless steel case has a 49mm lug-to-lug measurement and a height of 13.5mm, giving the DARKFATHOM DT a substantial presence without pushing into oversized territory. The three-link stainless steel bracelet brings a more practical upgrade: an on-the-fly micro-adjust clasp that lets you fine-tune the fit without reaching for a tool. It's especially useful when your wrist changes size throughout the day or you need room for a wetsuit. When the Light Fades BGW9 Super-LumiNova on the dial and bezel helps keep the important information visible in low light. The luminous bezel insert adds another point of reference when tracking elapsed time underwater. It's a practical feature first, but there's something satisfying about seeing the watch come alive after dark. Technical Specifications Movement: Miyota 9015 high-beat automatic Case: 316L stainless steel Case Diameter: 42mm Case Height: 13.5mm Lug-to-Lug: 49mm Lug Width: 20mm Water Resistance: 200 meters Crystal: Domed sapphire with anti-reflective coating Bezel: 120-click unidirectional ceramic dive bezel with BGW9 luminous insert Lume: BGW9 Super-LumiNova Bracelet: Three-link stainless steel with multi-position on-the-fly micro-adjust clasp and friction-pin links Caseback: Display caseback Colorways: Mavericks Green and Stormglass Purple The DARKFATHOM DT brings together the practical details of a serious dive watch and a connection to North Carolina's surf culture. It's a nod to DT, a fresh take on the original DARKFATHOM, and a reminder that the best watches often have a little more behind them than what's on the dial.",
+   "productType": null,
+   "tags": [
+    "automatic",
+    "darkfathom",
+    "dive-watch",
+    "DT",
+    "limited-edition"
+   ],
+   "options": [
+    {
+     "name": "Colorways",
+     "values": [
+      "Stormglass Purple/Gray Bezel",
+      "Mavericks Green/Gray Bezel"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Stormglass Purple/Gray Bezel",
+     "sku": null,
+     "priceMinor": 51900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Stormglass Purple/Gray Bezel"
+     ]
+    },
+    {
+     "title": "Mavericks Green/Gray Bezel",
+     "sku": null,
+     "priceMinor": 51900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mavericks Green/Gray Bezel"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9015 high-beat automatic",
+    "Case": "316L stainless steel",
+    "Case Diameter": "42mm",
+    "Case Height": "13.5mm",
+    "Lug-to-Lug": "49mm",
+    "Lug Width": "20mm",
+    "Water Resistance": "200 meters",
+    "Crystal": "Domed sapphire with anti-reflective coating",
+    "Bezel": "120-click unidirectional ceramic dive bezel with BGW9 luminous insert",
+    "Lume": "BGW9 Super-LumiNova",
+    "Bracelet": "Three-link stainless steel with multi-position on-the-fly micro-adjust clasp and friction-pin links",
+    "Caseback": "Display caseback",
+    "Colorways": "Mavericks Green and Stormglass Purple"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/the-summit-collection"
+   ],
+   "hash": "5b46570830442b46"
+  },
+  {
+   "id": "BRD-1153/the-highball",
+   "name": "HIGHBALL",
+   "url": "https://montereywatches.com/products/the-highball",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_55.png?v=1791817834",
+    "width": 1200,
+    "height": 1200
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_55.png?v=1791817834",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_54_98230791-6581-445c-b4d1-01a66eab4268.png?v=1791817934",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-6491.jpg?v=1785534684",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-6489.jpg?v=1785534740",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-6490.jpg?v=1785534712",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_21.png?v=1785162986",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_9.png?v=1784829191",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_8.png?v=1784829191",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_11.png?v=1784831398",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_12.png?v=1784831398",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_13.png?v=1784831398",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/HIGHBALL_57.png?v=1791819169",
+     "width": 1200,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "HIGHBALL All models re-stock estimated 11/2-11/9 Petrol blue has been \"re-re-stocked\" and second re-stock arrives 12/15/26. Some watches are made for the big occasion. The HIGHBALL is made for when the workday ends and the evening gets going. Think Friday drinks, rooftop sunsets, and plans that somehow stretch into Saturday. With its 42mm case and bold color options, the HIGHBALL has plenty of personality without taking itself too seriously. It's a watch that feels right at home wherever the night takes you, and just as good when there's nothing on the agenda the next day. Inside, a Seagull ST-3600 manual-wind mechanical movement puts a little ritual into getting ready. The domed sapphire crystal adds a nice curve to the view, while the display caseback gives you a look at what's ticking away inside. No mountain to climb. No finish line to chase. Just a good watch and a good time. Technical Specifications Movement: Seagull ST-3600 manual-wind mechanical Case Diameter: 42mm Lug Width: 22mm Crystal: Domed sapphire Caseback: Display caseback Available colorways: Flare Orange and Petrol Blue. Wear it well. Drink responsibly.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Colorways",
+     "values": [
+      "Rosso Corsa Red - Arriving Est. 11/2-11/9",
+      "Purple Rack - Arriving Est. 11/2-11/9",
+      "Flare Orange - Arriving Est. 11/2-11/9",
+      "Petrol Blue - Arriving Est. 12/15/26",
+      "Moss Green - arriving est. 11/2-11/9"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Rosso Corsa Red - Arriving Est. 11/2-11/9",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Rosso Corsa Red - Arriving Est. 11/2-11/9"
+     ]
+    },
+    {
+     "title": "Purple Rack - Arriving Est. 11/2-11/9",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Purple Rack - Arriving Est. 11/2-11/9"
+     ]
+    },
+    {
+     "title": "Flare Orange - Arriving Est. 11/2-11/9",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Flare Orange - Arriving Est. 11/2-11/9"
+     ]
+    },
+    {
+     "title": "Petrol Blue - Arriving Est. 12/15/26",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Petrol Blue - Arriving Est. 12/15/26"
+     ]
+    },
+    {
+     "title": "Moss Green - arriving est. 11/2-11/9",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Moss Green - arriving est. 11/2-11/9"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "Seagull ST-3600 manual-wind mechanical",
+    "Case Diameter": "42mm",
+    "Lug Width": "22mm",
+    "Crystal": "Domed sapphire",
+    "Caseback": "Display caseback",
+    "Available colorways": "Flare Orange and Petrol Blue."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/the-elite-collection"
+   ],
+   "hash": "21fcbc41e717cfbf"
+  },
+  {
+   "id": "BRD-1153/the-carova",
+   "name": "CAROVA",
+   "url": "https://montereywatches.com/products/the-carova",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_25.png?v=1783027756",
+    "width": 1800,
+    "height": 1800
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_25.png?v=1783027756",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_26.png?v=1783027756",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_65.png?v=1791472131",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_23.png?v=1783027756",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_29.png?v=1783086449",
+     "width": 1800,
+     "height": 1800
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_40.png?v=1783437657",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_41.png?v=1783437656",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_43.png?v=1783437656",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CAROVA_64.png?v=1791472132",
+     "width": 600,
+     "height": 600
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "CAROVA A little piece of the Outer Banks, wherever you end up. Carova sits at the northern end of North Carolina's Outer Banks, in a stretch of coastline where paved roads give way to sand and the usual pace of life feels a long way off. It's a place with its own rhythm, and the inspiration behind this Monterey. The CAROVA brings that coastal character into a watch you won't feel the need to save for special occasions. Its signature sand grain dial gives the face a texture all its own, while the 41mm stainless steel case and clean lines keep things equally at home on the beach, at the office, or out for the evening. At Home in Both Worlds The CAROVA sits comfortably between sport and dress. The double-domed sapphire crystal gives the dial a subtle vintage feel, while the brushed and polished steel case adds contrast without making a fuss. Rounded baton hands filled with BGW9 lume keep the time easy to read when the light starts to fade. With 200 meters of water resistance, it's ready for more than a day beside the water. And at 12.5mm thick, it has a considered profile that works just as well under a cuff as it does with a rolled-up sleeve. Look a Little Closer Every Monterey has its own details, and the CAROVA has a few worth finding. The oversized red tip on the seconds hand is our signature — a flash of color against the textured dial that gives the watch an unmistakable point of view. An outer seconds ring adds definition to the dial, while the round date window at six keeps the layout balanced. Turn the watch over and you'll find our engraved compass-rose logo on the caseback. Inside, the MIYOTA 8215 automatic movement keeps things ticking without a battery, and the three-link stainless steel bracelet finishes the watch with a practical micro-adjust clasp. Technical Specifications Movement: MIYOTA 8215 automatic Case: 41mm 316L stainless steel with brushed and polished finish Case Height: 12.5mm Lug-to-Lug: 48mm Lug Width: 20mm Crystal: Double-domed sapphire Dial: Signature sand grain texture, outer seconds ring, and round date window at six with black date wheel Hands: Rounded baton hands with BGW9 lume; oversized red-tipped sweep seconds hand Caseback: Engraved Monterey compass-rose logo Bracelet: Three-link 316L stainless steel with micro-adjust clasp Water Resistance: 200 meters Colorways: Four options The CAROVA takes its name from a place that doesn't need much fanfare. A stretch of open coastline, a little distance from the crowds, and room to do things your own way. That's the feeling we wanted to put on your wrist.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial Color Options",
+     "values": [
+      "Spanish Sand",
+      "Marine Layer",
+      "Sargasso Green",
+      "Pamlico Slate"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Spanish Sand",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Spanish Sand"
+     ]
+    },
+    {
+     "title": "Marine Layer",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Marine Layer"
+     ]
+    },
+    {
+     "title": "Sargasso Green",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Sargasso Green"
+     ]
+    },
+    {
+     "title": "Pamlico Slate",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Pamlico Slate"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "MIYOTA 8215 automatic",
+    "Case": "41mm 316L stainless steel with brushed and polished finish",
+    "Case Height": "12.5mm",
+    "Lug-to-Lug": "48mm",
+    "Lug Width": "20mm",
+    "Crystal": "Double-domed sapphire",
+    "Dial": "Signature sand grain texture, outer seconds ring, and round date window at six with black date wheel",
+    "Hands": "Rounded baton hands with BGW9 lume; oversized red-tipped sweep seconds hand",
+    "Caseback": "Engraved Monterey compass-rose logo",
+    "Bracelet": "Three-link 316L stainless steel with micro-adjust clasp",
+    "Water Resistance": "200 meters",
+    "Colorways": "Four options"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-summit-collection"
+   ],
+   "hash": "d684220d4092a01a"
+  },
+  {
+   "id": "BRD-1153/celestium-se",
+   "name": "Celestium SE",
+   "url": "https://montereywatches.com/products/celestium-se",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_42.png?v=1789313915",
+    "width": 4096,
+    "height": 4096
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_42.png?v=1789313915",
+     "width": 4096,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_41.png?v=1789313916",
+     "width": 4096,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3189.png?v=1776280356",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_21.png?v=1779805949",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Gemini_Generated_Image_iylhvuiylhvuiylh.png?v=1779652108",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_24.png?v=1779807441",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_25.png?v=1779807441",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "CELESTIUM SE Looks right with a suit. Even better when you don't need one. The CELESTIUM has a knack for making an outfit come together. Put it with a sharp jacket for a big meeting or a black T-shirt and jeans for absolutely no occasion at all. Either way, it feels right at home. For Monterey's fourth anniversary, we're introducing two new colorways: Mountain Haze and Aged Whiskey. Both bring a fresh take to the CELESTIUM's enamel dial, silver arrow hands, and integrated stainless steel bracelet. The case and bracelet flow together as one, giving the watch a clean, considered look without making it feel overly formal. The Details Make the Difference Inside, the Miyota 9015 automatic movement runs at a high beat rate, while BGW9 Super-LumiNova on the hands and indices keeps the dial legible after dark. At 40mm, the stainless steel case has enough presence to stand out without taking over your wrist. There's a personal touch on the back, too. The special anniversary caseback is engraved with MMXXII (2022) , the year Monterey began. A small reminder of where we started, and something to carry into whatever comes next. Technical Specifications Movement: Miyota 9015 high-beat automatic Case: 40mm 316L stainless steel Case Height: 13mm Lug-to-Lug: 48.5mm Lug Width: 20mm Dial: Enamel with refined finishing Hands: Silver arrow hands Luminescence: BGW9 Super-LumiNova on hands and indices Bracelet: Brushed three-link integrated stainless steel Clasp: Push-button deployment clasp Lugs: Integrated design for a seamless case-to-bracelet transition Water Resistance: Suitable for daily wear Anniversary Colorways: Mountain Haze and Aged Whiskey Special Detail: Caseback engraved with MMXXII (2022) The CELESTIUM doesn't need a big occasion to make sense. It's a watch for the days when you want to look your best, whatever that happens to mean for you.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Mountain Haze",
+      "Aged Whiskey"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Mountain Haze",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mountain Haze"
+     ]
+    },
+    {
+     "title": "Aged Whiskey",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Aged Whiskey"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.5,
+    "thicknessMm": 13,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": null,
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9015 high-beat automatic",
+    "Case": "40mm 316L stainless steel",
+    "Case Height": "13mm",
+    "Lug-to-Lug": "48.5mm",
+    "Lug Width": "20mm",
+    "Dial": "Enamel with refined finishing",
+    "Hands": "Silver arrow hands",
+    "Luminescence": "BGW9 Super-LumiNova on hands and indices",
+    "Bracelet": "Brushed three-link integrated stainless steel",
+    "Clasp": "Push-button deployment clasp",
+    "Lugs": "Integrated design for a seamless case-to-bracelet transition",
+    "Water Resistance": "Suitable for daily wear",
+    "Anniversary Colorways": "Mountain Haze and Aged Whiskey",
+    "Special Detail": "Caseback engraved with MMXXII (2022)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-summit-collection"
+   ],
+   "hash": "d060e52b6a29b0cd"
+  },
+  {
+   "id": "BRD-1153/ebc-gmt-pro",
+   "name": "EBC GMT Pro",
+   "url": "https://montereywatches.com/products/ebc-gmt-pro",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-03-17T191042.987.png?v=1773789126",
+    "width": 4352,
+    "height": 4352
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-03-17T191042.987.png?v=1773789126",
+     "width": 4352,
+     "height": 4352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-02-15T130755.912.png?v=1773789126",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-02-17T163041.535.png?v=1773789126",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-03-17T191052.187.png?v=1773789126",
+     "width": 4352,
+     "height": 4352
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-02-17T162757.206.png?v=1773789126",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTYSQUAREFINALS-2026-02-15T103757.177.png?v=1773789126",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-02-15T103731.051.png?v=1773789126",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-02-15T140732.991.png?v=1773789126",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTYSQUAREFINALS-2026-02-15T103822.016.png?v=1773789126",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/EBC_Pro_28_7fc39e20-42c5-428a-8107-fa8166334744.png?v=1783190395",
+     "width": 4096,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/EBC_Pro_31.png?v=1787758727",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "EBC GMT PRO Two time zones. One watch. Plenty of places to go. Whether you're crossing time zones or just keeping an eye on the time back home, the EBC GMT Pro makes tracking a second time zone easy. It's a capable 200M GMT with a clean, legible dial, a high-beat automatic movement, and two colorways that each bring something different to the table. Ready for Wherever The EBC GMT Pro comes in black or white, with distinct bezel and lume combinations for each. The black dial pairs a red GMT hand with a steel bezel featuring Monterey's \"M\" marker. The white dial gets an orange GMT hand and a black ceramic bezel with luminous markers. Both feature oversized applied indices, sword hands, a date window at 3, and a curved sapphire crystal to keep things clear. At 42mm, with a 48mm lug-to-lug measurement, it has a solid wrist presence without feeling oversized. The 316L stainless steel bracelet keeps the look classic, while the engraved compass-rose caseback adds a little Monterey character. A Different Kind of Automatic Inside is the Peacock SL3032 GMT, a high-beat automatic movement running at 28,800 beats per hour. It handles the dual-time display while bringing a little extra mechanical interest to the package. With 200M water resistance, sapphire crystal, and a design that works across a range of settings, the EBC GMT Pro is ready for more than airport lounges. It's a practical travel companion with the specs to back it up. Technical Specifications Movement: Peacock SL3032 high-beat GMT, based on the ETA 2893-2, 28,800 bph Case: 42mm diameter, 316L stainless steel Case Height: 13.5mm, measured to the center of the crystal Lug-to-Lug: 48mm Lug Width: 22mm Crystal: Beveled sapphire Water Resistance: 200M Dial: Applied oversized dot indices, extended indices at 12, 6, and 9, and date window at 3 Bezel: Black dial version features a bidirectional steel bezel with an \"M\" marker at 12; white dial version features a bidirectional black ceramic bezel with BGW9 luminous markers Lume: Black dial version uses C1 on hands and indices; white dial version uses C3 on hands and indices, with BGW9 on the bezel markers Hands: Sword hands with red GMT hand on the black dial; orange GMT hand on the white dial Caseback: Engraved Monterey compass-rose logo Bracelet: 316L three-link stainless steel with push-button clasp Available in two colorways. The EBC GMT Pro keeps track of home while you're out seeing what's next.",
+   "productType": "watches",
+   "tags": [],
+   "options": [
+    {
+     "name": "Options",
+     "values": [
+      "Arctic White/Black - Restock Est. 10/15/26",
+      "Abyss Black/Stainless",
+      "Arctic White/Stainless - Available Oct. 2026",
+      "Abyss Black/Black - Arriving Oct. 2026"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Arctic White/Black - Restock Est. 10/15/26",
+     "sku": null,
+     "priceMinor": 50900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Arctic White/Black - Restock Est. 10/15/26"
+     ]
+    },
+    {
+     "title": "Abyss Black/Stainless",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Abyss Black/Stainless"
+     ]
+    },
+    {
+     "title": "Arctic White/Stainless - Available Oct. 2026",
+     "sku": null,
+     "priceMinor": 50900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Arctic White/Stainless - Available Oct. 2026"
+     ]
+    },
+    {
+     "title": "Abyss Black/Black - Arriving Oct. 2026",
+     "sku": null,
+     "priceMinor": 50900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Abyss Black/Black - Arriving Oct. 2026"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 48,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 200,
+    "caliber": "ETA 2893-2",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "Peacock SL3032 high-beat GMT, based on the ETA 2893-2, 28,800 bph",
+    "Case": "42mm diameter, 316L stainless steel",
+    "Case Height": "13.5mm, measured to the center of the crystal",
+    "Lug-to-Lug": "48mm",
+    "Lug Width": "22mm",
+    "Crystal": "Beveled sapphire",
+    "Water Resistance": "200M",
+    "Dial": "Applied oversized dot indices, extended indices at 12, 6, and 9, and date window at 3",
+    "Bezel": "Black dial version features a bidirectional steel bezel with an \"M\" marker at 12; white dial version features a bidirectional black ceramic bezel with BGW9 luminous markers",
+    "Lume": "Black dial version uses C1 on hands and indices; white dial version uses C3 on hands and indices, with BGW9 on the bezel markers",
+    "Hands": "Sword hands with red GMT hand on the black dial; orange GMT hand on the white dial",
+    "Caseback": "Engraved Monterey compass-rose logo",
+    "Bracelet": "316L three-link stainless steel with push-button clasp"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-summit-collection"
+   ],
+   "hash": "f4a6c6997f8d9346"
+  },
+  {
+   "id": "BRD-1153/outer-banks-diver",
+   "name": "Outer Banks Diver",
+   "url": "https://montereywatches.com/products/outer-banks-diver",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Outer_Banks_19.png?v=1781899540",
+    "width": 4096,
+    "height": 4096
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Outer_Banks_19.png?v=1781899540",
+     "width": 4096,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Outer_Banks_20.png?v=1781899690",
+     "width": 4096,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTYSQUAREFINALS-2026-03-03T134246.686.png?v=1772563477",
+     "width": 4096,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTYSQUAREFINALS-2026-03-03T134256.324.png?v=1772563477",
+     "width": 4096,
+     "height": 4096
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-03-04T095719.032.png?v=1772636294",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-03-05T114106.234.png?v=1772728948",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-03-05T114143.888.png?v=1772728947",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 29900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "OUTER BANKS DIVER Our entry-level diver. Which is anything but entry-level. A good dive watch should be ready for just about anything. The OUTER BANKS keeps things classic with black or blue dial options, a clean, legible design, and the kind of versatility that works just as well with a button-down as it does with board shorts. At 40.5mm, it has a confident presence without going overboard. And with 200M water resistance, a ceramic bezel, domed sapphire crystal, and BGW9 lume, it shares plenty of the features that make its big brother, the DARKFATHOM, such a capable watch. Inside, the reliable MIYOTA 8215 automatic movement keeps things ticking. Outside, thoughtful details like the compass-rose caseback and Milsub sword hands give the OUTER BANKS a character of its own. It's a straightforward, no-nonsense diver with a lot to offer—and a pretty good place to start if you're adding your first Monterey to the collection. Technical Specifications Movement: MIYOTA 8215 automatic Case: 40.5mm diameter, 316L stainless steel Case Height: 12mm Lug Width: 20mm Bezel: Unidirectional ceramic Dial: Semi-gloss with metallic outline indices Hands: Milsub sword hands with BGW9 lume Luminescence: BGW9 luminous dial markers and hands Crystal: Domed sapphire Crown: Screw-down with curved crown guards Date: Window at 3 o’clock Bracelet: Brushed stainless steel with push-button clasp Caseback: Compass-rose design Water Resistance: 200M The Details That Matter Two classic colorways: black or blue Strong visibility with BGW9 lume A 40.5mm case for a little extra wrist presence Dependable automatic movement A design refined through continuous improvement",
+   "productType": "Watches",
+   "tags": [
+    "all",
+    "home page",
+    "homepage"
+   ],
+   "options": [
+    {
+     "name": "Dial Color",
+     "values": [
+      "Bermuda Blue",
+      "Abyss Black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Bermuda Blue",
+     "sku": null,
+     "priceMinor": 29900,
+     "compareAtMinor": 31900,
+     "available": true,
+     "options": [
+      "Bermuda Blue"
+     ]
+    },
+    {
+     "title": "Abyss Black",
+     "sku": null,
+     "priceMinor": 29900,
+     "compareAtMinor": 31900,
+     "available": true,
+     "options": [
+      "Abyss Black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40.5,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 12,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 8215",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "other"
+   },
+   "specsRaw": {
+    "Movement": "MIYOTA 8215 automatic",
+    "Case": "40.5mm diameter, 316L stainless steel",
+    "Case Height": "12mm",
+    "Lug Width": "20mm",
+    "Bezel": "Unidirectional ceramic",
+    "Dial": "Semi-gloss with metallic outline indices",
+    "Hands": "Milsub sword hands with BGW9 lume",
+    "Luminescence": "BGW9 luminous dial markers and hands",
+    "Crystal": "Domed sapphire",
+    "Crown": "Screw-down with curved crown guards",
+    "Date": "Window at 3 o’clock",
+    "Bracelet": "Brushed stainless steel with push-button clasp",
+    "Caseback": "Compass-rose design",
+    "Water Resistance": "200M",
+    "Two classic colorways": "black or blue"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-elite-collection"
+   ],
+   "hash": "ada407d008b46eea"
+  },
+  {
+   "id": "BRD-1153/darkfathom",
+   "name": "DARKFATHOM",
+   "url": "https://montereywatches.com/products/darkfathom",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-6239.png?v=1784168400",
+    "width": 600,
+    "height": 600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-6239.png?v=1784168400",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-6240.png?v=1784168400",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_2_17382921-83c2-482a-aa2a-9106ec8a031b.png?v=1769972611",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_1_1d3e36ca-3f97-4552-b434-05d7d6006200.png?v=1769972611",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_19.png?v=1769972611",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_54_68ed650b-6bc0-45ef-84fc-8663a04aee0a.png?v=1770382764",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_58.png?v=1770388059",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-02-24T150444.739.png?v=1771964673",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_55.png?v=1771964673",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_3.png?v=1787090578",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_4.png?v=1787090577",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/DARKFATHOM_3_f3a903fc-fb54-4d8c-844b-d7bdb61ede81.png?v=1787090609",
+     "width": 1200,
+     "height": 1200
+    }
+   ],
+   "priceMinor": 50900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "DARKFATHOM Made for the deep. Ready for whatever's next. A proper dive watch should do more than look the part. The DARKFATHOM pairs 200M water resistance with a ceramic dive bezel, domed sapphire crystal, and a high-beat automatic movement. It's a serious tool watch with a design that feels just as at home above the water. Ready to Go Deeper The 120-click unidirectional bezel gives you a precise way to track elapsed time, while the BGW9 luminous insert and dial markers help keep everything readable when the light starts to disappear. A domed sapphire crystal with anti-reflective coating adds a clear view from different angles, and the 316L stainless steel case gives the watch a solid, purposeful feel. The Mechanics Behind It Inside, the DARKFATHOM runs on the Miyota 9015 high-beat automatic movement. Flip it over and the display caseback gives you a look at the mechanism doing the work. It's a nice reminder that there's more going on here than a good-looking dial. A Comfortable Fit The 42mm case, 49mm lug-to-lug measurement, and 13.5mm height give the DARKFATHOM a substantial feel without making it unwieldy. A three-link stainless steel bracelet with a push-button clasp completes the package, with friction-pin links for sizing. Technical Specifications Movement: Miyota 9015 high-beat automatic with display caseback Case: 42mm diameter, 316L stainless steel Case Height: 13.5mm Water Resistance: 200M Lug-to-Lug: 49mm Lug Width: 20mm Crystal: Domed sapphire with anti-reflective coating Bezel: 120-click unidirectional ceramic dive bezel with BGW9 luminous insert Lume: BGW9 Super-LumiNova Bracelet: Three-link stainless steel with push-button clasp and friction-pin links Available in two colorways, with more combinations on the way. The DARKFATHOM brings together the specs you want in a capable diver and the everyday versatility to wear it well beyond the water.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Colorways",
+     "values": [
+      "Gulfstream Blue/Blue Bezel - Arriving Est. October 1-15",
+      "Abyss Black/Black Bezel arriving est 10/5/26",
+      "Gulfstream Blue/Black Bezel - “Vega\" - arriving October 2026",
+      "Abyss Black/Blue Bezel - \"Winfield\" - arriving October 2026"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Gulfstream Blue/Blue Bezel - Arriving Est. October 1-15",
+     "sku": null,
+     "priceMinor": 50900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gulfstream Blue/Blue Bezel - Arriving Est. October 1-15"
+     ]
+    },
+    {
+     "title": "Abyss Black/Black Bezel arriving est 10/5/26",
+     "sku": null,
+     "priceMinor": 50900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Abyss Black/Black Bezel arriving est 10/5/26"
+     ]
+    },
+    {
+     "title": "Gulfstream Blue/Black Bezel - “Vega\" - arriving October 2026",
+     "sku": null,
+     "priceMinor": 52900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Gulfstream Blue/Black Bezel - “Vega\" - arriving October 2026"
+     ]
+    },
+    {
+     "title": "Abyss Black/Blue Bezel - \"Winfield\" - arriving October 2026",
+     "sku": null,
+     "priceMinor": 52900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Abyss Black/Blue Bezel - \"Winfield\" - arriving October 2026"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 20,
+    "lugToLugMm": 49,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 200,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9015 high-beat automatic with display caseback",
+    "Case": "42mm diameter, 316L stainless steel",
+    "Case Height": "13.5mm",
+    "Water Resistance": "200M",
+    "Lug-to-Lug": "49mm",
+    "Lug Width": "20mm",
+    "Crystal": "Domed sapphire with anti-reflective coating",
+    "Bezel": "120-click unidirectional ceramic dive bezel with BGW9 luminous insert",
+    "Lume": "BGW9 Super-LumiNova",
+    "Bracelet": "Three-link stainless steel with push-button clasp and friction-pin links"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-summit-collection"
+   ],
+   "hash": "f574f0f7a56b4c23"
+  },
+  {
+   "id": "BRD-1153/croupier-pre-release",
+   "name": "Croupier",
+   "url": "https://montereywatches.com/products/croupier-pre-release",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-07-03T113347.516.png?v=1783092840",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-07-03T113347.516.png?v=1783092840",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-01-22T161937.280.png?v=1774466861",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-01-22T162007.362.png?v=1774466861",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-01-22T162013.238.png?v=1774466861",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-01-22T161958.754.png?v=1774466861",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-07-03T105834.368.png?v=1783090815",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-07-03T110656.551.png?v=1783091251",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-07-03T111203.181.png?v=1783091604",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 41900,
+   "currency": "USD",
+   "availability": "sold_out",
+   "description": "CROUPIER A little table-side confidence. A lot of everyday versatility. Meet the CROUPIER, a watch that knows how to clean up without taking itself too seriously. Named for the person who keeps the game moving, it brings together a textured dial, a high-beat automatic movement, and a bracelet that feels as good as it looks. Dress it up for a night out or wear it with a T-shirt and jeans. Either way, it fits right in. A Dial With Some Texture The first thing you'll notice is the gravel-textured dial. Its uneven surface catches the light in different ways throughout the day, giving it more character than a flat finish. Choose from four colorways: Sakura, Riviera, Soleil, and Azure. Each brings its own personality to the same clean, versatile design. A Smooth Operator Inside, the CROUPIER runs on the Miyota 9015 automatic movement, beating at 28,800 vibrations per hour. That high-beat movement gives the seconds hand its smooth sweep, while the sapphire display caseback lets you see the mechanics at work. Comfort Is Part of the Deal The five-link Regalia bracelet is made from solid 316L stainless steel, with plenty of articulation to sit comfortably on the wrist. A butterfly clasp with the Monterey logo keeps the finish clean, while the 12mm case height helps the watch slip under a dress cuff without giving up its presence. The Details Make It Sword hands and indices filled with BGW9 lume provide a cool blue glow in low light. The 60-minute outer track adds a sporty touch, and the date window at 3 o'clock brings everyday practicality to the mix. With 100M water resistance, the CROUPIER is ready for more than special occasions. Technical Specifications Case Material: 316L stainless steel Case Width: 41mm Case Height: 12mm Movement: Miyota",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial/Bracelet",
+     "values": [
+      "Sakura Pink/Regalia Bracelet (September)",
+      "Soleil Yellow/Regalia Bracelet (September)",
+      "Riviera Blue/Regalia Bracelet (September)",
+      "Azure Blue/Regalia Bracelet (September)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Sakura Pink/Regalia Bracelet (September)",
+     "sku": null,
+     "priceMinor": 41900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sakura Pink/Regalia Bracelet (September)"
+     ]
+    },
+    {
+     "title": "Soleil Yellow/Regalia Bracelet (September)",
+     "sku": null,
+     "priceMinor": 41900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Soleil Yellow/Regalia Bracelet (September)"
+     ]
+    },
+    {
+     "title": "Riviera Blue/Regalia Bracelet (September)",
+     "sku": null,
+     "priceMinor": 41900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Riviera Blue/Regalia Bracelet (September)"
+     ]
+    },
+    {
+     "title": "Azure Blue/Regalia Bracelet (September)",
+     "sku": null,
+     "priceMinor": 41900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Azure Blue/Regalia Bracelet (September)"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 12,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Case Material": "316L stainless steel",
+    "Case Width": "41mm",
+    "Case Height": "12mm",
+    "Movement": "Miyota"
+   },
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-summit-collection"
+   ],
+   "hash": "9ca956ef2c7e29d4"
+  },
+  {
+   "id": "BRD-1153/slipstream-chronograph",
+   "name": "Slipstream Chronograph",
+   "url": "https://montereywatches.com/products/slipstream-chronograph",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/SLIPSTREAM_7.png?v=1773931032",
+    "width": 600,
+    "height": 600
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/SLIPSTREAM_7.png?v=1773931032",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/SLIPSTREAM_41.png?v=1792521258",
+     "width": 1200,
+     "height": 1200
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/SLIPSTREAM_29.png?v=1781874078",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/SLIPSTREAM_8.png?v=1773931032",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/SLIPSTREAM_9.png?v=1773929334",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3114.png?v=1773938374",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3319.png?v=1773938374",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-02-14T163547.298.png?v=1773938374",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/SLIPSTREAM_6.png?v=1773931032",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-03-23T131556.520.png?v=1774286192",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-5150.png?v=1780269903",
+     "width": 600,
+     "height": 600
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/SLIPSTREAM_29_02696de0-7a18-4628-ab76-a54309d49414.png?v=1781874199",
+     "width": 600,
+     "height": 600
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "SLIPSTREAM CHRONOGRAPH A familiar favorite, with a few new tricks. The SLIPSTREAM CHRONOGRAPH is back, and we've given it plenty to talk about. The latest version brings together a stainless steel case, a new five-link bracelet, a ceramic MPH timing bezel, and sword hands that give the dial a fresh look. Turn it over, and there's one more reason to take a closer look: the ST-1901 mechanical chronograph movement, on full display through the caseback. A Different Kind of Tick There's something satisfying about a mechanical chronograph. The ST-1901 brings traditional mechanical watchmaking to the SLIPSTREAM, complete with dedicated 60-second and 30-minute registers for tracking elapsed time. No battery-powered shortcut here; it's a movement you can appreciate both while using it and when you flip the watch over. The Details Have Changed, Too The 42mm case is now made from 316L stainless steel, paired with a five-link bracelet that gives the watch a different feel on the wrist. The external ceramic MPH timing bezel adds a practical reference point, while the new sword hands bring a sharper look to the dial. BGW9 lume on the hands helps keep the time readable when the light drops. It's a thoughtful update to a Monterey favorite, with the kind of details that make you want to spend a little more time looking. Technical Specifications Movement: ST-1901 mechanical chronograph Case: 42mm 316L stainless steel Case Height: 13.5mm Lug-to-Lug: 48mm Lug Width: 20mm Bezel: External ceramic MPH timing bezel Dial Colors: Mint or black Hands: Sword hands with BGW9 lume Subdials: 60-second and 30-minute chronograph registers Crystal: Flat sapphire Caseback: Display caseback Bracelet: Five-link stainless steel with pin-and-collar links Luminescence: BGW9 lume on hands Water Resistance: 5 ATM (suitable for handwashing and rain) The SLIPSTREAM CHRONOGRAPH keeps the appeal of a mechanical chronograph front and center, with a fresh look and meaningful updates where they count. Sometimes, a good thing just needs a little more attention to detail.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial color",
+     "values": [
+      "Koho Orange",
+      "Denim Blue",
+      "Charleston Pink",
+      "Mint Green - PRE-ORDER Arrives est. 11/2/26",
+      "Abyss Black",
+      "'57 Red - PRE-ORDER Arrives est. 11/2/26"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Koho Orange",
+     "sku": null,
+     "priceMinor": 51900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Koho Orange"
+     ]
+    },
+    {
+     "title": "Denim Blue",
+     "sku": null,
+     "priceMinor": 50900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Denim Blue"
+     ]
+    },
+    {
+     "title": "Charleston Pink",
+     "sku": null,
+     "priceMinor": 49900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Charleston Pink"
+     ]
+    },
+    {
+     "title": "Mint Green - PRE-ORDER Arrives est. 11/2/26",
+     "sku": null,
+     "priceMinor": 50900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Mint Green - PRE-ORDER Arrives est. 11/2/26"
+     ]
+    },
+    {
+     "title": "Abyss Black",
+     "sku": null,
+     "priceMinor": 50900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Abyss Black"
+     ]
+    },
+    {
+     "title": "'57 Red - PRE-ORDER Arrives est. 11/2/26",
+     "sku": null,
+     "priceMinor": 52900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "'57 Red - PRE-ORDER Arrives est. 11/2/26"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 13.5,
+    "waterResistanceM": 50,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "ST-1901 mechanical chronograph",
+    "Case": "42mm 316L stainless steel",
+    "Case Height": "13.5mm",
+    "Lug-to-Lug": "48mm",
+    "Lug Width": "20mm",
+    "Bezel": "External ceramic MPH timing bezel",
+    "Dial Colors": "Mint or black",
+    "Hands": "Sword hands with BGW9 lume",
+    "Subdials": "60-second and 30-minute chronograph registers",
+    "Crystal": "Flat sapphire",
+    "Caseback": "Display caseback",
+    "Bracelet": "Five-link stainless steel with pin-and-collar links",
+    "Luminescence": "BGW9 lume on hands",
+    "Water Resistance": "5 ATM (suitable for handwashing and rain)"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-summit-collection"
+   ],
+   "hash": "722a4daa5e33c4ba"
+  },
+  {
+   "id": "BRD-1153/celestium",
+   "name": "Celestium",
+   "url": "https://montereywatches.com/products/celestium",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_8.png?v=1778854102",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_8.png?v=1778854102",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3187.png?v=1776280356",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3189.png?v=1776280356",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3185.png?v=1776280356",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3186.png?v=1776280356",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_24.png?v=1776280356",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/CELESTIUM_27.png?v=1780061576",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 49900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "CELESTIUM Looks right with a suit. Looks just as good with a black T-shirt and jeans. The CELESTIUM has a knack for making an outfit feel finished. Its clean lines, enamel dial, and integrated stainless steel bracelet give it a sharp, put-together look without feeling too formal for everyday wear. Big meeting on the calendar? Special occasion? Just heading out in your favorite jeans? It fits the moment. Clean Design, Down to the Details The 40mm stainless steel case flows directly into the brushed three-link bracelet, creating a seamless look from case to clasp. The refined enamel dial adds depth, while silver arrow hands keep the design crisp and easy to read. BGW9 Super-LumiNova on the hands and indices brings a little extra visibility when the lights go down. The Right Kind of Presence Inside, the Miyota 9015 high-beat automatic movement delivers a smooth sweep and dependable everyday performance. At 13mm thick, the CELESTIUM has enough presence to stand out without overwhelming your wrist. It's polished enough for a dressier occasion, but there's no need to save it for one. The CELESTIUM is the kind of watch you'll reach for because it works with just about everything. Technical Specifications Movement: Miyota 9015 high-beat automatic Case: 40mm diameter, 316L stainless steel Case Height: 13mm Lug-to-Lug: 48.5mm Lug Width: 20mm Dial: Enamel with refined finishing Crystal : Flat sapphire Hands: Silver arrow hands Luminescence: BGW9 Super-LumiNova on hands and indices Bracelet: Brushed three-link integrated bracelet Clasp: Push-button deployment clasp Design: Integrated case and bracelet Water Resistance: 100M - Suitable for daily wear The CELESTIUM doesn't need a special occasion to make an impression. Sometimes a great watch is all the outfit needs.",
+   "productType": "Watches",
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.5,
+    "thicknessMm": 13,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Movement": "Miyota 9015 high-beat automatic",
+    "Case": "40mm diameter, 316L stainless steel",
+    "Case Height": "13mm",
+    "Lug-to-Lug": "48.5mm",
+    "Lug Width": "20mm",
+    "Dial": "Enamel with refined finishing",
+    "Crystal": "Flat sapphire",
+    "Hands": "Silver arrow hands",
+    "Luminescence": "BGW9 Super-LumiNova on hands and indices",
+    "Bracelet": "Brushed three-link integrated bracelet",
+    "Clasp": "Push-button deployment clasp",
+    "Design": "Integrated case and bracelet",
+    "Water Resistance": "100M - Suitable for daily wear"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-summit-collection"
+   ],
+   "hash": "0af0530701027083"
+  },
+  {
+   "id": "BRD-1153/micro-adjust-steel-20mm-blacktip-standard-pro-diver-bracelet",
+   "name": "Micro-adjust steel 20mm fits DARKFATHOM/Coral Cave/Dark Bayou",
+   "url": "https://montereywatches.com/products/micro-adjust-steel-20mm-blacktip-standard-pro-diver-bracelet",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-4362.png?v=1740005051",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-4362.png?v=1740005051",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 3999,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Sometimes the classic look is classic for a reason. This brushed three-link bracelet keeps things clean and understated, with a subtle gleam that works with just about any watch. A micro-adjust clasp lets you fine-tune the fit, while the safety catch keeps everything securely in place.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e05bcf62e43ef462"
+  },
+  {
+   "id": "BRD-1153/coral-cave",
+   "name": "Coral Cave",
+   "url": "https://montereywatches.com/products/coral-cave",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Coral_Cave_35.png?v=1780668773",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Coral_Cave_35.png?v=1780668773",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Coral_Cave_36.png?v=1780668774",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Coral_Cave_34.png?v=1780668773",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Coral_Cave_38.png?v=1780668774",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3200.jpg?v=1776028484",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Coral_Cave_40.png?v=1780668775",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_70.png?v=1775850468",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-1438.png?v=1775850468",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2025-12-23T160306.020.png?v=1775850468",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals.zip_-_260.png?v=1775850468",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals.zip_-_261.png?v=1775850468",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Coral_Cave_17.png?v=1776618686",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 30900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "CORAL CAVE A dive watch with a different idea of color. Dive watches tend to stick to the usual suspects. The CORAL CAVE takes a different route, bringing pink, white, and now Sangria Red into a design that's just as comfortable in the water as it is on dry land. The 40.5mm stainless steel case keeps the proportions familiar, but the dial colors give the watch a personality of its own. Sword hands and applied dot indices keep the layout clear, with C3 Swiss lume to help you read the time when the light fades. A domed sapphire crystal adds a little curve to the view, while the clean no-date layout lets the dial speak for itself. A Little Color Goes a Long Way The CORAL CAVE isn't interested in sticking to the expected palette. Choose pink or white for a fresh take on the dive-watch look, or go for the new Sangria Red edition . The red version has its own detail worth knowing: it uses an aluminum bezel insert rather than the ceramic insert found on the other colorways, and it does away with the date window entirely. Inside, the PT5000 high-beat automatic movement runs at 28,800 beats per hour. A screw-down crown and 200 meters of water resistance give the CORAL CAVE the practical credentials to match its more expressive side. Technical Specifications Movement: PT5000 high-beat automatic, 28,800 bph Case: 40.5mm 316L stainless steel Case Height: 14mm Lug-to-Lug: 48.5mm Lug Width: 20mm Bezel: 120-click ceramic insert; aluminum insert on Sangria Red Dial Colors: Pink, white, or Sangria Red Hands: Sword hands with C3 Swiss lume Indices: Applied dot indices with C3 lume Crystal: Domed sapphire Crown: Screw-down Water Resistance: 200 meters for current CORAL CAVE models, except limited editions Date Feature: Pink and white models feature a date; Sangria Red has no date The CORAL CAVE is for anyone who likes their dive watch with a little more personality. The familiar functionality is there, but the color choices are anything but ordinary.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial and Date",
+     "values": [
+      "Caribe Turquoise",
+      "Mojave Pink",
+      "Mojave Pink LE",
+      "Sangria Red - Arriving est. 10/7/26"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Caribe Turquoise",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Caribe Turquoise"
+     ]
+    },
+    {
+     "title": "Mojave Pink",
+     "sku": null,
+     "priceMinor": 30900,
+     "compareAtMinor": 34900,
+     "available": true,
+     "options": [
+      "Mojave Pink"
+     ]
+    },
+    {
+     "title": "Mojave Pink LE",
+     "sku": null,
+     "priceMinor": 30900,
+     "compareAtMinor": 34900,
+     "available": false,
+     "options": [
+      "Mojave Pink LE"
+     ]
+    },
+    {
+     "title": "Sangria Red - Arriving est. 10/7/26",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Sangria Red - Arriving est. 10/7/26"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48.5,
+    "thicknessMm": 14,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": null
+   },
+   "specsRaw": {
+    "Movement": "PT5000 high-beat automatic, 28,800 bph",
+    "Case": "40.5mm 316L stainless steel",
+    "Case Height": "14mm",
+    "Lug-to-Lug": "48.5mm",
+    "Lug Width": "20mm",
+    "Bezel": "120-click ceramic insert; aluminum insert on Sangria Red",
+    "Dial Colors": "Pink, white, or Sangria Red",
+    "Hands": "Sword hands with C3 Swiss lume",
+    "Indices": "Applied dot indices with C3 lume",
+    "Crystal": "Domed sapphire",
+    "Crown": "Screw-down",
+    "Water Resistance": "200 meters for current CORAL CAVE models, except limited editions",
+    "Date Feature": "Pink and white models feature a date; Sangria Red has no date"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-elite-collection"
+   ],
+   "hash": "0662f0ce4084cb0e"
+  },
+  {
+   "id": "BRD-1153/moonstream",
+   "name": "Moonstream",
+   "url": "https://montereywatches.com/products/moonstream",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-06-29T170717.411.png?v=1782767290",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-06-29T170717.411.png?v=1782767290",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_-_2026-05-20T095031.085.png?v=1779285066",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/MONTY_SQUARE_FINALS_62.png?v=1767125630",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_-_2025-10-17T152051.264.png?v=1767125630",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_-_2025-10-17T151759.419.png?v=1767125630",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_6.png?v=1767125630",
+     "width": 3840,
+     "height": 3840
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_-_2025-10-17T152031.587.png?v=1767125630",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 27900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "MOONSTREAM A little chronograph fun, without the big commitment. Curious about chronographs but not ready to spend a fortune on one? The MOONSTREAM is a good place to start. Part of our Tribute collection, it pairs a classic panda dial with a compact stainless steel case and the satisfying action of a meca-quartz chronograph. At 39.5mm, it has a little less bulk than many chronographs, making it an easy choice for everyday wear. The silver-and-black dial keeps things familiar, while its three-dimensional printed time scale adds depth when you take a closer look. Green C3 lume on the silver-tone hands brings a flash of color after dark. The Best of Both Worlds Inside, the Seiko VK63 meca-quartz movement combines quartz timekeeping with a mechanical-style chronograph mechanism. You get dependable everyday timekeeping and a more tactile feel when operating the stopwatch, without the cost or upkeep of a fully mechanical chronograph. A flat sapphire crystal protects the dial, while the black FKM rubber strap keeps things comfortable and practical. The strap's micro-adjust clasp and fold-over safety catch add a little extra flexibility to the fit. Technical Specifications Movement: Seiko VK63 meca-quartz hybrid Case: 39.5mm 316L stainless steel Case Height: 12mm Lug-to-Lug: 48mm Lug Width: 20mm Dial: Silver-and-black panda dial with 3D-printed time scale Subdials: Hour, minute, and seconds chronograph registers Hands: Silver-tone, DLC-coated hands with green C3 lume Crystal: Flat sapphire Strap: Black FKM rubber with micro-adjust clasp and fold-over safety catch Water Resistance: 100 meters (10 bar) Weight: 150 grams The MOONSTREAM is an approachable way to get into chronographs, whether you're adding one to a growing collection or simply want something a little more interesting for everyday wear. No need to overthink it. Just pick your color and enjoy the extra button on your wrist.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial/Hands",
+     "values": [
+      "Pewter/Silver",
+      "White/Orange",
+      "Red/White"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Pewter/Silver",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Pewter/Silver"
+     ]
+    },
+    {
+     "title": "White/Orange",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "White/Orange"
+     ]
+    },
+    {
+     "title": "Red/White",
+     "sku": null,
+     "priceMinor": 27900,
+     "compareAtMinor": 0,
+     "available": true,
+     "options": [
+      "Red/White"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 20,
+    "lugToLugMm": 48,
+    "thicknessMm": 12,
+    "waterResistanceM": 100,
+    "caliber": "Seiko VK63",
+    "movementType": "mecaquartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "fkm"
+   },
+   "specsRaw": {
+    "Movement": "Seiko VK63 meca-quartz hybrid",
+    "Case": "39.5mm 316L stainless steel",
+    "Case Height": "12mm",
+    "Lug-to-Lug": "48mm",
+    "Lug Width": "20mm",
+    "Dial": "Silver-and-black panda dial with 3D-printed time scale",
+    "Subdials": "Hour, minute, and seconds chronograph registers",
+    "Hands": "Silver-tone, DLC-coated hands with green C3 lume",
+    "Crystal": "Flat sapphire",
+    "Strap": "Black FKM rubber with micro-adjust clasp and fold-over safety catch",
+    "Water Resistance": "100 meters (10 bar)",
+    "Weight": "150 grams"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-tribute-collection"
+   ],
+   "hash": "92afa1dd6881da06"
+  },
+  {
+   "id": "BRD-1153/commodore",
+   "name": "Commodore",
+   "url": "https://montereywatches.com/products/commodore",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_76.png?v=1766525062",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_76.png?v=1766525062",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_78.png?v=1766525062",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_80.png?v=1766525062",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 32900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "COMMODORE A little mechanical character goes a long way. Some watches keep things simple. The COMMODORE gives you something extra to look at. Its open-heart dial puts part of the movement on display, adding a mechanical touch to a clean, classic dress watch. It's an easy choice for a night out or a day when you want to look a little more put together. A View From Both Sides The COMMODORE runs on the Miyota 82S5 automatic movement, with an open-heart design on the dial and a display caseback on the reverse. Flip it over and you'll find the Monterey logo on the rotor—a small detail worth noticing if you enjoy seeing how a watch works. Silver baton hands keep the dial looking sharp, while a small-seconds display with a red sweep hand adds a subtle pop of color. Classic Looks, Your Way Choose a crisp white dial with a brown leather strap or a black dial paired with black leather. Both come in a 40mm 316L stainless steel case with a mix of brushed and polished finishes. At just 11mm thick, the COMMODORE keeps a slim profile that works well with a dress shirt or jacket. It's a dress watch with a little more personality than the usual minimalist design, without going overboard. Technical Specifications Movement: Miyota 82S5 automatic with open-heart design Case: 40mm diameter, 316L stainless steel with brushed and polished finishes Case Height: 11mm Lug-to-Lug: 46.5mm Lug Width: 20mm Dial: Open-heart design in white or black, 34.5mm flat dial Hands: Silver baton hands with tapered tips Small Seconds: Aperture with red sweep hand Crystal: Single-domed sapphire Crown: 4 o'clock position with signature M Caseback: Display caseback with Monterey logo on the rotor Strap: Padded leather in black or brown Water Resistance: 10M, splash resistant The COMMODORE brings the mechanics into view and keeps the rest of the design refreshingly classic.",
+   "productType": null,
+   "tags": [],
+   "options": [
+    {
+     "name": "Dial/strap",
+     "values": [
+      "Caviar black/black"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Caviar black/black",
+     "sku": null,
+     "priceMinor": 32900,
+     "compareAtMinor": 46900,
+     "available": true,
+     "options": [
+      "Caviar black/black"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": 46.5,
+    "thicknessMm": 11,
+    "waterResistanceM": 10,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Movement": "Miyota 82S5 automatic with open-heart design",
+    "Case": "40mm diameter, 316L stainless steel with brushed and polished finishes",
+    "Case Height": "11mm",
+    "Lug-to-Lug": "46.5mm",
+    "Lug Width": "20mm",
+    "Dial": "Open-heart design in white or black, 34.5mm flat dial",
+    "Hands": "Silver baton hands with tapered tips",
+    "Small Seconds": "Aperture with red sweep hand",
+    "Crystal": "Single-domed sapphire",
+    "Crown": "4 o'clock position with signature M",
+    "Caseback": "Display caseback with Monterey logo on the rotor",
+    "Strap": "Padded leather in black or brown",
+    "Water Resistance": "10M, splash resistant"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-elite-collection"
+   ],
+   "hash": "a5eb0dfea677581c"
+  },
+  {
+   "id": "BRD-1153/micro-adjust-steel-20mm-bracelet",
+   "name": "Micro-adjust steel 20mm bracelet",
+   "url": "https://montereywatches.com/products/micro-adjust-steel-20mm-bracelet",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-4362.png?v=1740005051",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-4362.png?v=1740005051",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 3299,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "Classic oyster style, with a brushed finish that catches just enough light. Made for our 20mm automatic models, except the OUTER BANKS, this bracelet features a micro-adjust clasp and safety catch for a comfortable, secure fit.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7c4432bff8fa2555"
+  },
+  {
+   "id": "BRD-1153/dark-bayou-em-2025",
+   "name": "Dark Bayou EM",
+   "url": "https://montereywatches.com/products/dark-bayou-em-2025",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Dark_Bayou_7.png?v=1788378335",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Dark_Bayou_7.png?v=1788378335",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Dark_Bayou_8.png?v=1788378336",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Dark_Bayou_9.png?v=1788378338",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Dark_Bayou_10.png?v=1788378342",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3399.png?v=1774402788",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/FullSizeRender_8a843c70-b913-4992-9b66-6ae6b70becc3.jpg?v=1774402788",
+     "width": 3850,
+     "height": 4000
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-0158.png?v=1774402788",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "DARK BAYOU EM A familiar favorite, now with more dive-watch muscle. The DARK BAYOU EM brings together a black matte dial, gold accents, and distinctive snowflake hands with the specs to back up its looks: 200M water resistance, a high-beat automatic movement, C3 lume, and a domed sapphire crystal. A Little Gold. A Lot of Capability. The black-and-gold combination gives the DARK BAYOU EM its own personality. Gold-finished snowflake hands, gold dial details, and rose gold accents on the ceramic bezel add warmth without going full two-tone. The unidirectional bezel features a luminous pip, while green C3 lume on the hands helps keep the time readable when the light fades. Ready for More Inside, the PT5000 Hangzhou automatic movement runs at 28,800 vibrations per hour. The 40mm 316L stainless steel case keeps the proportions versatile, while 200M water resistance gives this diver the capability to go well beyond everyday wear. Choose your bracelet style: the five-link Regalia or the classic three-link, both tapered and fitted with a micro-adjust clasp. Technical Specifications Movement: PT5000 Hangzhou automatic, 28,800 vph Case: 40mm diameter, 316L stainless steel Case Height: 12.5mm Lug Width: 20mm Water Resistance: 200M Bezel: 60-click unidirectional with black ceramic insert Bezel Details: Luminous pip with rose gold marker and numerals Dial: Matte black with gold accents Indices: White dot indices with gold details Hands: Gold-finished snowflake hands with green C3 lume Crystal: Domed sapphire Date: Window at 3 o'clock Bracelet: Tapered Regalia five-link or Classic three-link stainless steel, with micro-adjust clasp Caseback: Compass-rose design The DARK BAYOU EM keeps the character of a Monterey favorite and adds the performance to make it an even more capable everyday diver.",
+   "productType": "watches",
+   "tags": [
+    "all",
+    "home page",
+    "homepage"
+   ],
+   "options": [
+    {
+     "name": "Bracelet Options",
+     "values": [
+      "200M Pro with 5-Link - Est. 10/14/26",
+      "200M Pro with 3-Link - Est. 10/14/26"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "200M Pro with 5-Link - Est. 10/14/26",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": 29900,
+     "available": true,
+     "options": [
+      "200M Pro with 5-Link - Est. 10/14/26"
+     ]
+    },
+    {
+     "title": "200M Pro with 3-Link - Est. 10/14/26",
+     "sku": null,
+     "priceMinor": 34900,
+     "compareAtMinor": 29900,
+     "available": true,
+     "options": [
+      "200M Pro with 3-Link - Est. 10/14/26"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 40,
+    "lugWidthMm": 20,
+    "lugToLugMm": null,
+    "thicknessMm": 12.5,
+    "waterResistanceM": 200,
+    "caliber": null,
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "bracelet"
+   },
+   "specsRaw": {
+    "Choose your bracelet style": "the five-link Regalia or the classic three-link, both tapered and fitted with a micro-adjust clasp.",
+    "Movement": "PT5000 Hangzhou automatic, 28,800 vph",
+    "Case": "40mm diameter, 316L stainless steel",
+    "Case Height": "12.5mm",
+    "Lug Width": "20mm",
+    "Water Resistance": "200M",
+    "Bezel": "60-click unidirectional with black ceramic insert",
+    "Bezel Details": "Luminous pip with rose gold marker and numerals",
+    "Dial": "Matte black with gold accents",
+    "Indices": "White dot indices with gold details",
+    "Hands": "Gold-finished snowflake hands with green C3 lume",
+    "Crystal": "Domed sapphire",
+    "Date": "Window at 3 o'clock",
+    "Bracelet": "Tapered Regalia five-link or Classic three-link stainless steel, with micro-adjust clasp",
+    "Caseback": "Compass-rose design"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-elite-collection"
+   ],
+   "hash": "048c2ebc35ddc3c2"
+  },
+  {
+   "id": "BRD-1153/kitty-hawk-ek",
+   "name": "Kitty Hawk EK",
+   "url": "https://montereywatches.com/products/kitty-hawk-ek",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3613.png?v=1769284556",
+    "width": 2048,
+    "height": 2048
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-3613.png?v=1769284556",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/IMG-0011.png?v=1769284556",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_87.png?v=1769284556",
+     "width": 2048,
+     "height": 2048
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/files/Square_Finals_86_2781033a-455c-457d-a153-a60f821d932f.png?v=1769284556",
+     "width": 2048,
+     "height": 2048
+    }
+   ],
+   "priceMinor": 26900,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "KITTY HAWK EK A classic pilot watch, without the extra noise. The Flieger has always been about legibility and purpose. The KITTY HAWK EK takes that idea and keeps things simple: a clean black dial, high-visibility C3 lume, and a traditional small-seconds display. It's an aviation-inspired design that feels right at home with a leather jacket, a button-down, or whatever you're wearing on an ordinary Tuesday. Wind It Your Way Inside is the Seagull ST3600 manual-wind mechanical movement, running at 21,600 beats per hour. There's something satisfying about winding a watch yourself, and the display caseback gives you a view of the mechanics once it's ticking. The oversized crown, complete with Monterey's M logo, makes winding easy and adds a bit of character to the brushed stainless steel case. Made for Everyday Wear At 42mm wide and just 11.5mm thick, the KITTY HAWK EK has a strong wrist presence without a lot of unnecessary detail. The sapphire crystal protects the dial, and the included stitched brown leather strap gives the watch a classic finish. It's a straightforward mechanical pilot watch that works just as well as a daily wearer as it does when you're dressing for something special. Technical Specifications Movement: Seagull ST3600 manual-wind mechanical, 21,600 bph Case: 42mm diameter, brushed stainless steel Case Height: 11.5mm Lug-to-Lug: 52.5mm Lug Width: 22mm Dial: Black with small-seconds subdial Indices: High-legibility markers with C3 lume Crystal: Sapphire Caseback: Display caseback Crown: Oversized with Monterey M logo Strap: Stitched brown leather strap included The KITTY HAWK EK keeps the spirit of the classic Flieger alive with a manual-wind movement and a design that doesn't need to shout to get noticed.",
+   "productType": "Watches",
+   "tags": [
+    "all",
+    "homepage",
+    "pilot"
+   ],
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Black/Brown",
+      "Green/Brown",
+      "Blue/Brown"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "title": "Black/Brown",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Black/Brown"
+     ]
+    },
+    {
+     "title": "Green/Brown",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": false,
+     "options": [
+      "Green/Brown"
+     ]
+    },
+    {
+     "title": "Blue/Brown",
+     "sku": null,
+     "priceMinor": 26900,
+     "compareAtMinor": null,
+     "available": true,
+     "options": [
+      "Blue/Brown"
+     ]
+    }
+   ],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": 52.5,
+    "thicknessMm": 11.5,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": "hand_wound",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "black",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Movement": "Seagull ST3600 manual-wind mechanical, 21,600 bph",
+    "Case": "42mm diameter, brushed stainless steel",
+    "Case Height": "11.5mm",
+    "Lug-to-Lug": "52.5mm",
+    "Lug Width": "22mm",
+    "Dial": "Black with small-seconds subdial",
+    "Indices": "High-legibility markers with C3 lume",
+    "Crystal": "Sapphire",
+    "Caseback": "Display caseback",
+    "Crown": "Oversized with Monterey M logo",
+    "Strap": "Stitched brown leather strap included"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T08:00:57.247Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T08:00:57.247Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-1153/our-portfolio",
+    "BRD-1153/the-tribute-collection"
+   ],
+   "hash": "6914b8099d3a7653"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-1153/our-portfolio",
+   "name": "Our Portfolio",
+   "url": "https://montereywatches.com/collections/our-portfolio",
+   "description": null,
+   "image": null
+  },
+  {
+   "id": "BRD-1153/the-elite-collection",
+   "name": "The Elite Collection",
+   "url": "https://montereywatches.com/collections/the-elite-collection",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/collections/Collection_Images_4.jpg?v=1773353752",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1153/the-summit-collection",
+   "name": "The Summit Collection",
+   "url": "https://montereywatches.com/collections/the-summit-collection",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/collections/Collection_Images_7.jpg?v=1773353832",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-1153/the-tribute-collection",
+   "name": "The Tribute Collection",
+   "url": "https://montereywatches.com/collections/the-tribute-collection",
+   "description": null,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0644/5540/9922/collections/Collection_Images_8.jpg?v=1773353778",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}

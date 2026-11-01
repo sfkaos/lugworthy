@@ -1,0 +1,315 @@
+{
+ "brandId": "BRD-0325",
+ "brandName": "KOMPAS Watches",
+ "website": "https://www.kompaswatches.com",
+ "crawledAt": "2026-11-01T07:39:35.764Z",
+ "status": "ok",
+ "platform": "html",
+ "brandImage": {
+  "url": "https://images.squarespace-cdn.com/content/v1/6809590b27b6474f49d40fa3/5b3bbfe1-71f3-4e74-9dde-838e1aaa2405/White+Logo-07.png?format=1500w",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.kompaswatches.com/"
+ },
+ "attribution": "Images © KOMPAS Watches, from kompaswatches.com",
+ "imageRights": "unknown",
+ "watches": [
+  {
+   "id": "BRD-0325/north",
+   "name": "North Automatic Field Watch - Black Strap",
+   "url": "https://www.kompaswatches.com/watches/p/north",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/684b05787982d62f868ae3d9/1793373215285/kompas-north-black-rubber-strap.webp?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/684b05787982d62f868ae3d9/1793373215285/kompas-north-black-rubber-strap.webp?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 53500,
+   "currency": "GBP",
+   "availability": "in_stock",
+   "description": "Meet KOMPAS North, a 39mm automatic field watch with a black rubber strap, RAF-inspired dial, Miyota 9039 movement, sapphire crystal and 100m water resistance.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 46.5,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:35.764Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:35.764Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0325/watches",
+    "BRD-0325/west",
+    "BRD-0325/east",
+    "BRD-0325/south",
+    "BRD-0325/watches-2"
+   ],
+   "hash": "f61cd35f41d53181"
+  },
+  {
+   "id": "BRD-0325/west",
+   "name": "West Automatic Field Watch - Red Strap",
+   "url": "https://www.kompaswatches.com/watches/p/west",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864381c1b9828587ae241eb/1793373524849/kompas-west-red-rubber-strap.webp?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864381c1b9828587ae241eb/1793373524849/kompas-west-red-rubber-strap.webp?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 53500,
+   "currency": "GBP",
+   "availability": "sold_out",
+   "description": "Meet KOMPAS West, an urban-inspired automatic field watch with a red rubber strap, RAF-inspired dial, 39mm steel case, sapphire crystal and Miyota 9039 movement.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 46.5,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:39:35.764Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:35.764Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0325/watches",
+    "BRD-0325/north",
+    "BRD-0325/east",
+    "BRD-0325/south",
+    "BRD-0325/watches-2"
+   ],
+   "hash": "387a2910af1d3554"
+  },
+  {
+   "id": "BRD-0325/east",
+   "name": "East Automatic Field Watch - Green Strap",
+   "url": "https://www.kompaswatches.com/watches/p/east",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864382fdec13715acd8c116/1793373393510/kompas-east-green-rubber-strap.webp?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864382fdec13715acd8c116/1793373393510/kompas-east-green-rubber-strap.webp?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 53500,
+   "currency": "GBP",
+   "availability": "sold_out",
+   "description": "Discover KOMPAS East, a forest-inspired automatic field watch with a green rubber strap, 39mm steel case, luminous dial, sapphire crystal and Miyota 9039 movement.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 46.5,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-01T07:39:35.764Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:35.764Z",
+     "availability": "sold_out"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0325/watches",
+    "BRD-0325/north",
+    "BRD-0325/west",
+    "BRD-0325/south",
+    "BRD-0325/watches-2"
+   ],
+   "hash": "c204053492ef2d4f"
+  },
+  {
+   "id": "BRD-0325/south",
+   "name": "South Automatic Field Watch - Blue Strap",
+   "url": "https://www.kompaswatches.com/watches/p/south",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864383e516669431299a7fa/1793373303715/kompas-south-blue-rubber-strap.webp?format=1500w",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864383e516669431299a7fa/1793373303715/kompas-south-blue-rubber-strap.webp?format=1500w",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 53500,
+   "currency": "GBP",
+   "availability": "in_stock",
+   "description": "Explore KOMPAS South, a sea-inspired automatic field watch with a blue rubber strap, 39mm steel case, sapphire crystal, Miyota 9039 movement and 100m water resistance.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 46.5,
+    "lugWidthMm": 10,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 100,
+    "caliber": "Miyota 9039",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {},
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-01T07:39:35.764Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-01T07:39:35.764Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [
+    "BRD-0325/watches",
+    "BRD-0325/north",
+    "BRD-0325/west",
+    "BRD-0325/east",
+    "BRD-0325/watches-2"
+   ],
+   "hash": "3766b3bd4fdac723"
+  }
+ ],
+ "collections": [
+  {
+   "id": "BRD-0325/watches",
+   "name": "Automatic Field Watches",
+   "url": "https://www.kompaswatches.com/watches",
+   "description": "Shop KOMPAS North, East, South and West automatic field watches. Compare four distinctive designs with a 39mm steel case, Miyota 9039 movement and sapphire crystal.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/t/695925b57446a475932a99f6/1767450037636/Creative_Ambient_Black.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0325/north",
+   "name": "North",
+   "url": "https://www.kompaswatches.com/watches/p/north",
+   "description": "Meet KOMPAS North, a 39mm automatic field watch with a black rubber strap, RAF-inspired dial, Miyota 9039 movement, sapphire crystal and 100m water resistance.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/684b05787982d62f868ae3d9/1793373215285/kompas-north-black-rubber-strap.webp?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0325/west",
+   "name": "West",
+   "url": "https://www.kompaswatches.com/watches/p/west",
+   "description": "Meet KOMPAS West, an urban-inspired automatic field watch with a red rubber strap, RAF-inspired dial, 39mm steel case, sapphire crystal and Miyota 9039 movement.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864381c1b9828587ae241eb/1793373524849/kompas-west-red-rubber-strap.webp?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0325/east",
+   "name": "East",
+   "url": "https://www.kompaswatches.com/watches/p/east",
+   "description": "Discover KOMPAS East, a forest-inspired automatic field watch with a green rubber strap, 39mm steel case, luminous dial, sapphire crystal and Miyota 9039 movement.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864382fdec13715acd8c116/1793373393510/kompas-east-green-rubber-strap.webp?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0325/south",
+   "name": "South",
+   "url": "https://www.kompaswatches.com/watches/p/south",
+   "description": "Explore KOMPAS South, a sea-inspired automatic field watch with a blue rubber strap, 39mm steel case, sapphire crystal, Miyota 9039 movement and 100m water resistance.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/684b05787982d62f868ae3cd/6864383e516669431299a7fa/1793373303715/kompas-south-blue-rubber-strap.webp?format=1500w",
+    "width": null,
+    "height": null
+   }
+  },
+  {
+   "id": "BRD-0325/watches-2",
+   "name": "Automatic Field Watches",
+   "url": "https://www.kompaswatches.com/watches",
+   "description": "Shop KOMPAS North, East, South and West automatic field watches. Compare four distinctive designs with a 39mm steel case, Miyota 9039 movement and sapphire crystal.",
+   "image": {
+    "url": "http://static1.squarespace.com/static/6809590b27b6474f49d40fa3/t/695925b57446a475932a99f6/1767450037636/Creative_Ambient_Black.jpg?format=1500w",
+    "width": null,
+    "height": null
+   }
+  }
+ ]
+}
