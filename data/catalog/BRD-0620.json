@@ -88,7 +88,7 @@
    ],
    "priceMinor": 59901,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Inspired by the bold colors, graphics, and industrial design of 1968, the Regulator 1968 reinterprets Xeric's signature regulator display with a striking 42mm case, dimensional dial, and a 24-hour day/night hour subdial for an intuitive way to read the time. Powered by a Miyota automatic movement with a custom rotor visible through the exhibition caseback, it pairs vintage-inspired styling with a premium leather strap, creating a distinctive timepiece produced in strictly limited numbers.",
    "productType": "Watch",
    "tags": [
@@ -138,13 +138,17 @@
     "Watch Weight (g)": "63 g",
     "Limited Edition": "999"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-02T07:13:42.318Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -279,7 +283,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -418,7 +422,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -557,7 +561,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -696,7 +700,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -835,7 +839,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -951,7 +955,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1034,7 +1038,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1172,7 +1176,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1315,7 +1319,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1401,7 +1405,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1486,7 +1490,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1597,7 +1601,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1724,7 +1728,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1854,7 +1858,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -1979,7 +1983,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2105,7 +2109,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2177,7 +2181,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2299,7 +2303,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2439,7 +2443,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2564,7 +2568,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2685,7 +2689,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2777,7 +2781,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2870,7 +2874,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -2962,7 +2966,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3050,7 +3054,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3143,7 +3147,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3236,7 +3240,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3339,7 +3343,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3425,7 +3429,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3511,7 +3515,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3597,7 +3601,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3683,7 +3687,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3769,7 +3773,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3865,7 +3869,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -3974,7 +3978,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4076,7 +4080,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4183,7 +4187,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4271,7 +4275,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4387,7 +4391,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4507,7 +4511,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4627,7 +4631,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4747,7 +4751,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4867,7 +4871,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -4987,7 +4991,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5078,7 +5082,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5191,7 +5195,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5298,7 +5302,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5391,7 +5395,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5504,7 +5508,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5626,7 +5630,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5747,7 +5751,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5868,7 +5872,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -5989,7 +5993,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6097,7 +6101,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6178,7 +6182,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6289,7 +6293,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6398,7 +6402,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6495,7 +6499,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6602,7 +6606,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6724,7 +6728,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6841,7 +6845,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -6948,7 +6952,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7050,7 +7054,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7151,7 +7155,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7251,7 +7255,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7342,7 +7346,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7442,7 +7446,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7527,7 +7531,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7617,7 +7621,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7708,7 +7712,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7819,7 +7823,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -7912,7 +7916,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8004,7 +8008,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8107,7 +8111,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8204,7 +8208,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8291,7 +8295,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8382,7 +8386,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8470,7 +8474,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8590,7 +8594,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8710,7 +8714,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8820,7 +8824,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -8940,7 +8944,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9060,7 +9064,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9165,7 +9169,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9281,7 +9285,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9355,7 +9359,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9434,7 +9438,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9533,7 +9537,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9644,7 +9648,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9766,7 +9770,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -9887,7 +9891,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10008,7 +10012,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10119,7 +10123,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10240,7 +10244,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10361,7 +10365,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10462,7 +10466,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10575,7 +10579,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10686,7 +10690,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10792,7 +10796,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -10903,7 +10907,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11008,7 +11012,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11118,7 +11122,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11239,7 +11243,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11361,7 +11365,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11483,7 +11487,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11600,7 +11604,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11717,7 +11721,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11839,7 +11843,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11906,7 +11910,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -11990,7 +11994,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12076,7 +12080,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12161,7 +12165,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12243,7 +12247,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12333,7 +12337,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12433,7 +12437,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12528,7 +12532,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12621,7 +12625,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12718,7 +12722,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12809,7 +12813,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -12905,7 +12909,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13001,7 +13005,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13109,7 +13113,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13232,7 +13236,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13345,7 +13349,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13453,7 +13457,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13561,7 +13565,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13679,7 +13683,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13795,7 +13799,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -13915,7 +13919,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14033,7 +14037,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14151,7 +14155,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14246,7 +14250,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14342,7 +14346,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14445,7 +14449,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14543,7 +14547,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14641,7 +14645,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14739,7 +14743,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14833,7 +14837,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -14954,7 +14958,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15076,7 +15080,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15198,7 +15202,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15316,7 +15320,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15438,7 +15442,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15550,7 +15554,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15672,7 +15676,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15794,7 +15798,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15881,7 +15885,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -15968,7 +15972,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16049,7 +16053,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16130,7 +16134,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16211,7 +16215,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16292,7 +16296,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16378,7 +16382,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16480,7 +16484,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16586,7 +16590,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16708,7 +16712,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16825,7 +16829,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -16936,7 +16940,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17048,7 +17052,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17165,7 +17169,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17277,7 +17281,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17399,7 +17403,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17520,7 +17524,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17636,7 +17640,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17757,7 +17761,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17877,7 +17881,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -17998,7 +18002,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18120,7 +18124,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18242,7 +18246,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18365,7 +18369,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18467,7 +18471,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18567,7 +18571,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18659,7 +18663,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18754,7 +18758,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18858,7 +18862,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -18956,7 +18960,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19065,7 +19069,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19170,7 +19174,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19263,7 +19267,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19357,7 +19361,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19467,7 +19471,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19561,7 +19565,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19665,7 +19669,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19771,7 +19775,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19865,7 +19869,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -19964,7 +19968,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20058,7 +20062,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20162,7 +20166,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20256,7 +20260,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20361,7 +20365,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20455,7 +20459,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20553,7 +20557,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20646,7 +20650,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20738,7 +20742,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20826,7 +20830,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -20933,7 +20937,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21020,7 +21024,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21105,7 +21109,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21191,7 +21195,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21278,7 +21282,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21363,7 +21367,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21448,7 +21452,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21531,7 +21535,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21624,7 +21628,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21721,7 +21725,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21817,7 +21821,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -21913,7 +21917,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22005,7 +22009,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22097,7 +22101,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22191,7 +22195,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22289,7 +22293,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22382,7 +22386,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22475,7 +22479,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22582,7 +22586,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22664,7 +22668,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22760,7 +22764,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22854,7 +22858,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -22963,7 +22967,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23079,7 +23083,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23184,7 +23188,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23300,7 +23304,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23416,7 +23420,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23529,7 +23533,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23651,7 +23655,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23762,7 +23766,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23869,7 +23873,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -23990,7 +23994,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24102,7 +24106,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24205,7 +24209,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24304,7 +24308,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24397,7 +24401,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24476,7 +24480,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24573,7 +24577,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24633,7 +24637,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24695,7 +24699,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24806,7 +24810,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -24927,7 +24931,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25025,7 +25029,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25112,7 +25116,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25203,7 +25207,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25299,7 +25303,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25386,7 +25390,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25463,7 +25467,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25542,7 +25546,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25584,7 +25588,7 @@
    ],
    "priceMinor": 32500,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Introducing the Halograph Chrono Sapphire, powered by a Quartz Japanese Miyota movement. This features the same eye-popping design for this quartz iteration of the Xeric Halograph. The Halograph Chrono looks complicated but is actually quite easy to read. As the halo hands float over the time display arcs, they encircle the numbers to show the time. The inner arcs display the hours, and the outer arcs display the minutes. Designed in California and produced on an artisanal scale, making high-end mechanical features accessible to a broad cross-section of horological enthusiasts. Help ensure you're wearing the most interesting watch in the room!",
    "productType": "Watch",
    "tags": [
@@ -25619,13 +25623,17 @@
     "Band Width": "22 mm",
     "Watch Weight (g)": "90 g"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-02T07:13:42.318Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -25700,7 +25708,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25800,7 +25808,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25905,7 +25913,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -25999,7 +26007,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -26087,7 +26095,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -26180,7 +26188,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -26264,7 +26272,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -26346,7 +26354,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -26429,7 +26437,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -26518,7 +26526,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -26605,7 +26613,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",
@@ -26693,7 +26701,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:56:16.484Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:56:16.484Z",

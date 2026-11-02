@@ -280,7 +280,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:58:06.692Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:58:06.692Z",
@@ -860,7 +860,7 @@
    ],
    "priceMinor": 59900,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Specifications: Case: CuSn6 marine grade bronze Case Diameter: 43mm Bezel Diameter. 45mm Lug to Lug length: 52mm Thickness incl. crystal: 16.50mm Caseback: 316L Stainless Steel with sapphire crystal Crown: 8mm bronze screw down crown Crystal: 4mm domed sapphire with inside AR coating Bezel: Bronze 120 click unidirectional Movement: Miyota 9015 Automatic - 24 jewels - hacking seconds - 28,800 bpm - about 42h power reserve Water Resistance: 200m Lug width: 24mm Strap: Brown leather strap with signed bronze buckle. Every watch ships in a travel roll -random color.",
    "productType": null,
    "tags": [],
@@ -895,13 +895,17 @@
     "The watches are available in 3 colors": "Black, vertical brushed blue and vertical brushed green.",
     "In case of cancellation or return": "Due to new Paypal policy we have to deduct a 5% fee because Paypal does no longer refund the fees."
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:58:06.692Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:58:06.692Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-02T07:13:42.318Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [

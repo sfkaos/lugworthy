@@ -58,7 +58,7 @@
    ],
    "priceMinor": 64900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": null,
    "productType": "Watch",
    "tags": [],
@@ -79,13 +79,17 @@
     "strapType": null
    },
    "specsRaw": {},
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-01T07:02:29.358Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:02:29.358Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-02T07:13:42.318Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [],

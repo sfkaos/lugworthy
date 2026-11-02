@@ -33,7 +33,7 @@
    ],
    "priceMinor": 236600,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Une pièce unique le 1er de chaque mois à 12h00",
    "productType": null,
    "tags": [],
@@ -57,13 +57,17 @@
     "Mouvement La Joux-Perret G100": "- 68 heures de réserve de marche - 24 rubis - 28 800 alternances (4Hz) - Réglage 5 positions normes COSC - Remontage automatique monodirectionnel",
     "Les dimensions de l'écrin sont": "Longueur 20cm x Largeur 13cm x Hauteur 10.5cm"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:36:57.434Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-02T07:13:42.318Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [],
@@ -115,7 +119,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:36:57.434Z",
@@ -172,7 +176,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:36:57.434Z",
@@ -229,7 +233,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:36:57.434Z",
@@ -286,7 +290,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:36:57.434Z",
@@ -344,7 +348,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:36:57.434Z",
@@ -402,7 +406,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:36:57.434Z",
@@ -609,7 +613,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T07:36:57.434Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:36:57.434Z",

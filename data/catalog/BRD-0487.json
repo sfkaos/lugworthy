@@ -95,7 +95,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
@@ -188,7 +188,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
@@ -281,7 +281,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
@@ -374,7 +374,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
@@ -440,7 +440,7 @@
    ],
    "priceMinor": 117500,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Die Quest RB200 zeichnet sich sowohl durch ihre Leistung als auch durch ihre Ästhetik aus. Angetrieben wird sie von einem wunderschönen und maßgefertigten Sellita SW-200 Uhrwerk, das durch den Sichtboden des Gehäuses betrachtet werden kann. Das aus Messing gefertigte Zifferblatt besticht durch seinen Radial-Sonnenschliff, der das Zifferblatt im Lichtspiel tanzen und schimmern lässt.",
    "productType": null,
    "tags": [],
@@ -465,13 +465,17 @@
     "Frequenz": "28.800 bph (4 Hz) Ganggenauigkeit: +/- 7 Sekunden/Tag Schnellverschlusssystem Stahlarmband und Kautschukarmband",
     "Ganggenauigkeit": "+/- 7 Sekunden/Tag"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-02T07:13:42.318Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -560,7 +564,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
@@ -653,7 +657,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
@@ -747,7 +751,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
@@ -839,7 +843,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-01T08:25:19.031Z",
+   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:25:19.031Z",
