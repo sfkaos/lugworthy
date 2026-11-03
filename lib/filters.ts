@@ -59,6 +59,35 @@ export function formatRange(r: Range | undefined): string | undefined {
   return `${r.min ?? ""}-${r.max ?? ""}`;
 }
 
+/**
+ * Price slider positions in whole USD. Prices run from about $25 to $50,000 with most under $1,500,
+ * so the steps are fine at the low end and coarse at the top. The ends mean "no limit".
+ */
+export const PRICE_STOPS = [0, 100, 150, 200, 250, 300, 400, 500, 600, 750, 1000, 1250, 1500, 2000, 2500, 3000, 4000, 5000, 7500, 10000, 15000, 25000, 50000];
+
+/** Evenly spaced slider positions from lo to hi, rounded outward to the step. */
+export function linearStops(lo: number | null, hi: number | null, step: number): number[] {
+  if (lo == null || hi == null || hi <= lo) return [];
+  const a = Math.floor(lo / step) * step;
+  const b = Math.ceil(hi / step) * step;
+  const out: number[] = [];
+  for (let v = a; v <= b + 1e-9; v += step) out.push(Math.round(v * 100) / 100);
+  return out;
+}
+
+/** "$200 – $1,000", "$5,000+" or "Up to 40 mm" (either end may be open). */
+export function rangeText(r: Range | undefined, fmt: (n: number) => string): string | undefined {
+  if (!r || (r.min == null && r.max == null)) return undefined;
+  if (r.min != null && r.max != null) return `${fmt(r.min)} – ${fmt(r.max)}`;
+  if (r.min != null) return `${fmt(r.min)}+`;
+  return `Up to ${fmt(r.max!)}`;
+}
+
+/** "$1,250" or "40.5 mm". */
+export function formatRangeValue(n: number, unit: string): string {
+  return unit === "$" ? `$${n.toLocaleString("en-US")}` : `${n.toLocaleString("en-US", { maximumFractionDigits: 1 })} ${unit}`;
+}
+
 const list = (s: string | undefined) => (s ? s.split(",").map((x) => x.trim()).filter(Boolean) : undefined);
 
 export function parseFilters(p: Params): Filters {

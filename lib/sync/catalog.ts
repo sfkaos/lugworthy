@@ -42,7 +42,7 @@ export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[]): Pro
       attribution: c.attribution, imageRights: c.imageRights ?? "unknown", importedAt: new Date(),
     };
     const watches = c.watches.map((w, i) => ({
-      id: w.id, brandId, name: w.name, url: w.url, priceMinor: w.priceMinor, currency: w.currency, available: w.available,
+      id: w.id, brandId, name: w.name, url: w.url, priceMinor: fitsInt(w.priceMinor), currency: w.currency, available: w.available,
       specs: w.specs ?? {}, hash: w.hash ?? null, position: i, crawledAt,
       availability: w.availability ?? null,
       soldOut: w.soldOut ?? (w.available == null ? null : !w.available),
@@ -92,4 +92,12 @@ export async function importCatalogDir(db: Db, dir?: string): Promise<CatalogImp
   const index = await loadCatalogIndex(dir);
   const files = await Promise.all(index.brands.map((r) => loadBrandCatalog(r.brandId, dir)));
   return importBrandCatalogs(db, files.filter((f): f is BrandCatalog => f !== null));
+}
+
+/**
+ * price_minor is a 32-bit integer column. A few listings in yen or won go past it (BRD-0805 has a
+ * ¥26,774,000.00 piece = 2,677,400,000 minor units), which made the whole import fail. Those keep no price.
+ */
+function fitsInt(n: number | null | undefined): number | null {
+  return n == null || !Number.isSafeInteger(n) || n > 2_147_483_647 || n < -2_147_483_648 ? null : n;
 }

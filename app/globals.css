@@ -246,16 +246,37 @@ span.chip { cursor: default; }
   -webkit-appearance: none; appearance: none; height: 28px; margin: 0;
 }
 .range-dual input[type="range"]::-webkit-slider-thumb {
-  pointer-events: auto; -webkit-appearance: none; width: 18px; height: 18px; border-radius: 50%;
+  pointer-events: auto; -webkit-appearance: none; width: 18px; height: 18px; margin-top: 5px; border-radius: 50%;
   background: var(--surface); border: 2px solid var(--text); cursor: pointer; position: relative; z-index: 2;
 }
 .range-dual input[type="range"]::-moz-range-thumb {
-  pointer-events: auto; width: 16px; height: 16px; border-radius: 50%;
+  pointer-events: auto; width: 14px; height: 14px; border-radius: 50%;
   background: var(--surface); border: 2px solid var(--text); cursor: pointer;
 }
 .range-dual input[type="range"]::-webkit-slider-runnable-track { height: 28px; background: transparent; }
-.range-dual .track { position: absolute; left: 0; right: 0; top: 12px; height: 4px; border-radius: 2px; background: var(--border); }
-.range-dual .fill { position: absolute; top: 12px; height: 4px; border-radius: 2px; background: var(--text); }
+.range-dual input[type="range"]::-moz-range-track { background: transparent; }
+.range-dual input[type="range"]:focus-visible { outline: none; }
+.range-dual input[type="range"]:focus-visible::-webkit-slider-thumb { outline: 2px solid var(--focus); outline-offset: 2px; }
+.range-dual input[type="range"]:focus-visible::-moz-range-thumb { outline: 2px solid var(--focus); outline-offset: 2px; }
+/* Thumb centres travel from 9px to (width - 9px), so the track and fill use the same span. */
+.range-dual .track { position: absolute; left: 9px; right: 9px; top: 12px; height: 4px; border-radius: 2px; background: var(--border); }
+.range-dual .fill {
+  position: absolute; top: 12px; height: 4px; border-radius: 2px; background: var(--text);
+  left: calc(9px + (100% - 18px) * var(--lo, 0) / 100);
+  width: calc((100% - 18px) * (var(--hi, 100) - var(--lo, 0)) / 100);
+}
+/* Typed min/max: an input with its unit inside the box. */
+.range-box {
+  display: flex; flex: 1 1 0; min-width: 0; align-items: center; gap: 4px; height: 36px; padding: 0 10px;
+  border: 1px solid var(--border-strong); border-radius: var(--radius-sm); background: var(--surface);
+  transition: border-color .15s var(--ease);
+}
+.range-box:hover { border-color: var(--text-muted); }
+.range-box:focus-within { border-color: var(--text); }
+.range-box:has(input:focus-visible) { outline: 2px solid var(--focus); outline-offset: 2px; }
+.range-box input:focus-visible { outline: none; }
+.range-box input { flex: 1; min-width: 0; width: 100%; background: transparent; border: 0; outline: none; color: var(--text); font-size: 14px; }
+.range-box input::placeholder { color: var(--text-muted); }
 
 }
 

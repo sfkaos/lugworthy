@@ -476,14 +476,17 @@ async function loadBrowseWatches(f: Filters): Promise<BrowsePage> {
 
 /** Lowest and highest values for the Watches page's range sliders, and the watch count. */
 export const browseBounds = cache(async () => loadBounds());
-const loadBounds = shared("browseBounds", async () => {
+const loadBounds = shared("browseBounds:p99", async () => {
+  // Slider ends sit at the 0.5th and 99.5th percentiles, so a few odd listings (a $1M piece, a
+  // 60 mm clock-sized case) don't stretch the scale. The ends mean "no limit", so nothing is hidden.
   const [r] = await rows<Record<string, number | null>>(sql`
-    select min(min_price) as p0, max(min_price) as p1, min(dia) as d0, max(dia) as d1, min(l2l) as l0, max(l2l) as l1,
-           min(thk) as t0, max(thk) as t1, count(*)::int as n
+    select percentile_cont(0.005) within group (order by dia) as d0, percentile_cont(0.995) within group (order by dia) as d1,
+           percentile_cont(0.005) within group (order by l2l) as l0, percentile_cont(0.995) within group (order by l2l) as l1,
+           percentile_cont(0.005) within group (order by thk) as t0, percentile_cont(0.995) within group (order by thk) as t1,
+           count(*)::int as n
     from catalog_watches`);
   const num = (v: number | null | undefined) => (v == null ? null : Number(v));
   return {
-    price: [num(r.p0), num(r.p1)].map((v) => (v == null ? null : v / 100)) as [number | null, number | null],
     dia: [num(r.d0), num(r.d1)] as [number | null, number | null],
     l2l: [num(r.l0), num(r.l1)] as [number | null, number | null],
     thk: [num(r.t0), num(r.t1)] as [number | null, number | null],
