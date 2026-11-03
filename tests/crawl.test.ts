@@ -195,3 +195,11 @@ describe("Shopware and other shop themes", () => {
     expect(links).toEqual(["https://www.archimede-watches.com/Pilot-42-A-.-LHB"]);
   });
 });
+
+describe("review fixes", () => {
+  it("skips spare casebacks and archive pages", () => {
+    for (const n of ["Archimede SportTaucher display back", "OutDoor Glasboden", "SportTaucher Glasboden (Edelstahl)"]) expect(looksLikeWatch(n, "", [], 8500), n).toBe(false);
+    expect(isModelName(stripSiteSuffix("ARCHIVES • Berneron"), "Berneron")).toBe(false);
+    expect(stripSiteSuffix("MIRAGE • Berneron")).toBe("MIRAGE");
+  });
+});

@@ -99,8 +99,8 @@ const MAX_MODEL_PAGES = Number(process.env.CRAWL_MAX_MODEL_PAGES ?? 40);
 const NOT_WATCH_TYPE = /strap|band|bracelet|accessor|apparel|clothing|merch|gift|tool|book|print|poster|service|warranty|insurance|shipping|deposit|spare|part|box|case only|winder|cleaning|sticker|shirt|hoodie|hat|cap|bag|wallet|pouch|roll|buckle|cufflink|jewel|ring|necklace/i;
 // German shop names: straps (Lederband, Silikonband, Edelstahlband ...), clasps, engravings,
 // spare crystals, rotors and casebacks.
-const NOT_WATCH_TITLE_DE = /\b\w*(leder|silikon|kautschuk|edelstahl|stahl|textil|canvas|nato|verlängerungs|uhren|arm|wechsel)band\b|\b\w*(stahl|gehäuse)boden\b|\b\w*schlie(ß|ss)e\b|\bgravur\b|\b\w*saphirglas\b|\b(automatik )?rotor( \d+)?$|^\S+ rotor (chronograph|automatik|\d+)$/i;
-const NOT_WATCH_TITLE = /\b(strap|straps|band|nato|rubber strap|leather strap|bracelet only|extra link|links?|spring ?bars?|buckle|clasp|deployant|gift ?card|e-?gift|voucher|t-?shirt|tee|hoodie|sweatshirt|cap|hat|beanie|keychain|key ?ring|sticker|poster|print|book|pouch|watch roll|travel case|watch box|winder|cleaning|cloth|tool|screwdriver|service|servicing|repair|warranty|insurance|shipping|deposit|reservation fee|spare|replacement|crystal only|crown only|bezel insert|mug|socks|tote|lanyard|pin|patch|coaster|wallpaper|membership|subscription|donation|tip|sunglasses|eyewear|watch cuff)\b|pens?|fountain pen|rollerball|ballpoint|錶帶|表带|錶扣|筆|回娘家|ストラップ|ベルト|バンド|armband|bracelet en cuir|correa|cinturino|pulseira/i;
+const NOT_WATCH_TITLE_DE = /\b\w*(leder|silikon|kautschuk|edelstahl|stahl|textil|canvas|nato|verlängerungs|uhren|arm|wechsel)band\b|\b\w*(stahl|gehäuse|glas)boden\b|\b\w*schlie(ß|ss)e\b|\bgravur\b|\b\w*saphirglas\b|\b(automatik )?rotor( \d+)?$|^\S+ rotor (chronograph|automatik|\d+)$/i;
+const NOT_WATCH_TITLE = /\b(strap|straps|band|nato|rubber strap|leather strap|bracelet only|extra link|links?|spring ?bars?|buckle|clasp|deployant|gift ?card|e-?gift|voucher|t-?shirt|tee|hoodie|sweatshirt|cap|hat|beanie|keychain|key ?ring|sticker|poster|print|book|pouch|watch roll|travel case|watch box|winder|cleaning|cloth|tool|screwdriver|service|servicing|repair|warranty|insurance|shipping|deposit|reservation fee|spare|replacement|display ?back|case ?back|crystal only|crown only|bezel insert|mug|socks|tote|lanyard|pin|patch|coaster|wallpaper|membership|subscription|donation|tip|sunglasses|eyewear|watch cuff)\b|pens?|fountain pen|rollerball|ballpoint|錶帶|表带|錶扣|筆|回娘家|ストラップ|ベルト|バンド|armband|bracelet en cuir|correa|cinturino|pulseira/i;
 
 export function looksLikeWatch(title: string, productType = "", tags: string[] = [], priceMinor: number | null = null): boolean {
   const t = title.toLowerCase();
@@ -376,7 +376,7 @@ const SKIP_PATH = /\/(cart|account|login|blog|news|journal|pages?|policies|searc
 // Small brands often give each model its own top-level page (/the-field-watch, /nimrod).
 // Those pages are only kept when they read like a spec sheet (see specEvidence).
 const INFO_PAGE = /^\/(?:[a-z]{2}(?:-[a-z]{2})?\/)?(home|index|about|about-us|our-story|story|heritage|history|philosophy|team|founder|contact|contact-us|enquire|faq|frequently-asked-questions|press|media|journal|journals?-new|news|blog|stories|terms|terms-and-conditions|privacy|privacy-policy|cookie|legal|imprint|impressum|shipping|returns|warranty|service|service-center|servicing|care|instructions|manuals?|gallery|events|careers|jobs|stockists|retailers|authori[sz]ed-retailers|dealers|subscribe|newsletter|sitemap|accessibility|account|cart|checkout|login|search|feed|author|tag|comments|wp-|xmlrpc|bespoke|custom|custom-pieces|special-offers|accessories|straps?|gift|sample-page|product-guide|colou?rs)\b/i;
-const NOT_A_MODEL_NAME = /^(home|watches|our watches|all watches|the watches|find your watch|timepieces|collections?|the collection|kollektion|collezione|colecci[oó]n|shop|store|models?|products?|catalog(ue)?|welcome|menu|reviews?|testimonials|press( room)?|blog|news|editor|examples|archive|uhren|montres|orologi|relojes|werke|movements?|calibers?|calibres?|sold out( pieces)?|garantie|warranty|\d+ jahre garantie|historical pieces|special projects|features|specifications|discover.*|all.*collections?)$/i;
+const NOT_A_MODEL_NAME = /^(home|watches|our watches|all watches|the watches|find your watch|timepieces|collections?|the collection|kollektion|collezione|colecci[oó]n|shop|store|models?|products?|catalog(ue)?|welcome|menu|reviews?|testimonials|press( room)?|blog|news|editor|examples|archives?|uhren|montres|orologi|relojes|werke|movements?|calibers?|calibres?|sold out( pieces)?|garantie|warranty|\d+ jahre garantie|historical pieces|special projects|features|specifications|discover.*|all.*collections?)$/i;
 const NOT_A_MODEL_WORDS = /\b(replica|super ?clone|clone|homepage|official website|we design|uhrmachermeister|watchmaker|watchmaking|horology|manufacture watches|order page|landing page|test(ing)? page|new model:)/i;
 
 /**
@@ -507,7 +507,7 @@ function productUrlsFromHome($: ReturnType<typeof load>, base: string, re = PROD
 /** "Mark III GMT — Höglund & Sons" -> "Mark III GMT" */
 export function stripSiteSuffix(name: string, siteName?: string): string {
   let n = name.replace(/\s+/g, " ").trim();
-  const parts = n.split(/\s+[|–—-]\s+/);
+  const parts = n.split(/\s+[|–—•·-]\s+/);
   if (parts.length > 1) {
     const last = parts[parts.length - 1].toLowerCase();
     if ((siteName && last.includes(siteName.toLowerCase().slice(0, 6))) || last.split(" ").length <= 4) n = parts.slice(0, -1).join(" - ");
