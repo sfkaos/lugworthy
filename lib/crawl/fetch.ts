@@ -29,7 +29,8 @@ export interface FetchResult {
   challenged?: boolean;
 }
 
-export async function politeGet(url: string, accept = "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8", attempt = 0): Promise<FetchResult> {
+// The default Accept is a browser's. Mentioning JSON here made some shops (PrestaShop) answer HTML pages with an empty body.
+export async function politeGet(url: string, accept = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", attempt = 0): Promise<FetchResult> {
   const host = new URL(url).host;
   await waitTurn(host);
   try {

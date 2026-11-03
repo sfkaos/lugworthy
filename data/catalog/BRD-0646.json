@@ -2,12 +2,1470 @@
  "brandId": "BRD-0646",
  "brandName": "Aeroluft Watch Company",
  "website": "https://myaeroluft.com",
- "crawledAt": "2026-11-01T06:20:15.583Z",
- "status": "no_catalog_found",
+ "crawledAt": "2026-11-03T22:27:20.224Z",
+ "status": "ok",
  "platform": "html",
- "brandImage": null,
+ "brandImage": {
+  "url": "https://myaeroluft.com/img/aeroluft-logo-1532416086.jpg",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://myaeroluft.com/en/"
+ },
  "attribution": "Images © Aeroluft Watch Company, from myaeroluft.com",
  "imageRights": "unknown",
- "watches": [],
+ "watches": [
+  {
+   "id": "BRD-0646/25-racing-watch-brooklands1907-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 BROOKLANDS",
+   "url": "https://myaeroluft.com/en/inicio/25-racing-watch-brooklands1907.html",
+   "image": {
+    "url": "https://myaeroluft.com/426-medium_default/racing-watch-brooklands1907.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/426-medium_default/racing-watch-brooklands1907.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "green",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21001",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT AND THE OPENING DATE OF THE BROOKLANDS CIRCUIT ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"BRITISH RACING GREEN\" WITH SUPERLUMINOVA INDICATORS AND HANDS. DORSAL 07 IN REFERENCE TO THE YEAR 1907, OPENING OF THE BROOKLANDS CIRCUIT. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "BLACK PERFORATED COWHIDE LEATHER WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ba566ac105874f17"
+  },
+  {
+   "id": "BRD-0646/26-racing-watch-monza1922-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 MONZA",
+   "url": "https://myaeroluft.com/en/inicio/26-racing-watch-monza1922.html",
+   "image": {
+    "url": "https://myaeroluft.com/428-medium_default/racing-watch-monza1922.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/428-medium_default/racing-watch-monza1922.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "red",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21002",
+    "CASE": "100% STAINLESS STEEL 316L.",
+    "CASE BACK": "100% STAINLESS STEEL 316L WITH THE LAYOUT AND THE INAUGURATION DATE OF THE MONZA CIRCUIT ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATERPROOFNESS": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"ROSSO CORSA\" (RACING RED) WITH SUPERLUMINOVA INDICATORS AND HANDS. BACK 22 IN REFERENCE TO THE YEAR 1922, INAUGURATION OF THE MONZA CIRCUIT. TACHOMETER ON THE OUTER RING",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE QUARTZ SEIKO EPSON VX32.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2be6894ea1a7faae"
+  },
+  {
+   "id": "BRD-0646/27-racing-watch-avusberlin-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 AVUS BERLIN",
+   "url": "https://myaeroluft.com/en/inicio/27-racing-watch-avusberlin.html",
+   "image": {
+    "url": "https://myaeroluft.com/430-medium_default/racing-watch-avusberlin.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/430-medium_default/racing-watch-avusberlin.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "silver",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21005",
+    "CASE": "100% STAINLESS STEEL 316L.",
+    "CASE BACK": "100% STAINLESS STEEL 316L WITH THE LAYOUT AND INAUGURATION DATE OF AVUS ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"SILBERPFEIL\" (SILVER ARROW) WITH SUPERLUMINOVA INDICATORS AND HANDS. BACK NUMBER 21 IN REFERENCE TO THE YEAR 1921, THE INAUGURATION OF AVUS BERLIN. TACHOMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER WITH STITCHING TO MATCH THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "db1e9156975089f0"
+  },
+  {
+   "id": "BRD-0646/28-racing-watch-nurburgring1927-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 NÜRBURGRING",
+   "url": "https://myaeroluft.com/en/inicio/28-racing-watch-nurburgring1927.html",
+   "image": {
+    "url": "https://myaeroluft.com/432-medium_default/racing-watch-nurburgring1927.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/432-medium_default/racing-watch-nurburgring1927.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "yellow",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21003",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT AND THE INAUGURATION DATE OF THE NÜRBURGRING CIRCUIT ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"GIALLO MODENA\" OR \"STUTTGART GELB\" (RACING YELLOW) WITH LUMINOVA INDICATORS AND ARROWS. DORSAL 27 IN REFERENCE TO THE YEAR 1927, INAUGURATION OF THE NÜRBURGRING CIRCUIT. TACHOMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "eb49600efdff672a"
+  },
+  {
+   "id": "BRD-0646/29-racing-watch-linas-montlhery-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 LINAS-MONTLHÉRY",
+   "url": "https://myaeroluft.com/en/inicio/29-racing-watch-linas-montlhery.html",
+   "image": {
+    "url": "https://myaeroluft.com/434-medium_default/racing-watch-linas-montlhery.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/434-medium_default/racing-watch-linas-montlhery.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "blue",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21004",
+    "CASE": "100% STAINLESS STEEL 316L.",
+    "CASE BACK": "100% STAINLESS STEEL 316L WITH THE LAYOUT AND THE INAUGURATION DATE OF THE LINAS-MONTLHÉRY CIRCUIT ENGRAVED.",
+    "CASE MEASUREMENT": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"BLEU DE FRANCE\" (FRENCH BLUE) WITH LUMINOVA INDICATORS AND HANDS. DORSAL 24 IN REFERENCE TO THE YEAR 1924, INAUGURATION OF THE MONTLHÉRY CIRCUIT NEAR PARIS. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHES MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2fb1d3e086153c90"
+  },
+  {
+   "id": "BRD-0646/30-racing-watch-monaco-grandprix-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 MONACO",
+   "url": "https://myaeroluft.com/en/inicio/30-racing-watch-monaco-grandprix.html",
+   "image": {
+    "url": "https://myaeroluft.com/436-medium_default/racing-watch-monaco-grandprix.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/436-medium_default/racing-watch-monaco-grandprix.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "green",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21007",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE CIRCUIT LAYOUT AND THE YEAR OF THE FIRST GRAND PRIX OF MONACO ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"MONACO GREEN\" WITH LUMINOVA INDICATORS AND HANDS. 1929 IN REFERENCE TO THE YEAR OF THE FIRST GRAND PRIX OF MONACO. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COW LEATHER WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "BUCKLE": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f9a8cf673216fa1d"
+  },
+  {
+   "id": "BRD-0646/31-racing-watch-renault-r25-alonso-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 RENAULT F1 R25-2005",
+   "url": "https://myaeroluft.com/en/inicio/31-racing-watch-renault-r25-alonso.html",
+   "image": {
+    "url": "https://myaeroluft.com/438-medium_default/racing-watch-renault-r25-alonso.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/438-medium_default/racing-watch-renault-r25-alonso.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "blue",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21014",
+    "CASE": "100% STAINLESS STEEL 316L.",
+    "CASE BACK": "100% STAINLESS STEEL 316L WITH A RACING HELMET ENGRAVED WITH THE YEARS 2005 AND 2006.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"MILD SEVEN\" LIVERY (PRIMARILY FRENCH BLUE AND RENAULT COMPETITION YELLOW) WITH SUPERLUMINOVA INDICATORS AND HANDS. DORSAL 5 IN REFERENCE TO THE NUMBER CARRIED BY THE 2005 FORMULA 1 WORLD CHAMPION CAR. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COW LEATHER WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "BUCKLE": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE QUARTZ SEIKO EPSON VX32.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b1ecfb7225ca7748"
+  },
+  {
+   "id": "BRD-0646/32-racing-watch-zandvoort-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 ZANDVOORT",
+   "url": "https://myaeroluft.com/en/inicio/32-racing-watch-zandvoort.html",
+   "image": {
+    "url": "https://myaeroluft.com/440-medium_default/racing-watch-zandvoort.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/440-medium_default/racing-watch-zandvoort.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "orange",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21006",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT AND THE INAUGURATION DATE OF THE ZANDVOORT CIRCUIT ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"ORANJE\" (ORANGE OF THE HOUSE OF ORANGE-NASSAU OF THE NETHERLANDS) WITH SUPERLUMINOVA INDICATORS AND HANDS. 1948 BACKPLATE IN REFERENCE TO THE YEAR 1948, INAUGURATION OF THE ZANDVOORT CIRCUIT. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ace9e7e5ad704799"
+  },
+  {
+   "id": "BRD-0646/33-racing-watch-lotus-johnplayer-senna-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 LOTUS JPS",
+   "url": "https://myaeroluft.com/en/inicio/33-racing-watch-lotus-johnplayer-senna.html",
+   "image": {
+    "url": "https://myaeroluft.com/442-medium_default/racing-watch-lotus-johnplayer-senna.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/442-medium_default/racing-watch-lotus-johnplayer-senna.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "black",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21012",
+    "CASE": "100% STAINLESS STEEL 316L.",
+    "CASE BACK": "100% STAINLESS STEEL 316L WITH A RACING HELMET ENGRAVED WITH THE YEARS 1988-1990-1991",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"JPS BLACK\" (HOMAGE TO THE LOTUS JOHN PLAYER SPECIAL LIVERY) WITH SUPERLUMINOVA INDICATORS AND HANDS. AT 12 O'CLOCK IT BEARS THE FONT OF THE LOTUS 97-T IN REFERENCE TO THE CAR NUMBER DRIVEN BY AYRTON SENNA IN 1985 AND 1986. TACHYMETER ON THE OUTER RING",
+    "STRAP": "BLACK PERFORATED COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "407a2195772a7db9"
+  },
+  {
+   "id": "BRD-0646/34-racing-watch-ayrton-senna-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 AYRTON SENNA HELMET",
+   "url": "https://myaeroluft.com/en/inicio/34-racing-watch-ayrton-senna.html",
+   "image": {
+    "url": "https://myaeroluft.com/444-medium_default/racing-watch-ayrton-senna.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/444-medium_default/racing-watch-ayrton-senna.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "red",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21011",
+    "CASE": "100% STAINLESS STEEL 316L.",
+    "CASE BACK": "100% STAINLESS STEEL 316L WITH RACING HELMET AND YEARS 1988-1990-1991 ENGRAVED",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"SENNA\" (DESIGN INSPIRED BY THE HELMET OF DRIVER AYRTON SENNA) WITH SUPERLUMINOVA INDICATORS AND HANDS. DORSAL 41 IN REFERENCE TO HIS 41 VICTORIES IN GRAND PRIX. TACHYMETER ON THE OUTER RING",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "03aabaa5a61f4ffa"
+  },
+  {
+   "id": "BRD-0646/35-racing-watch-mclaren-marlboro-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 MP4 MARLBORO",
+   "url": "https://myaeroluft.com/en/inicio/35-racing-watch-mclaren-marlboro.html",
+   "image": {
+    "url": "https://myaeroluft.com/446-medium_default/racing-watch-mclaren-marlboro.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/446-medium_default/racing-watch-mclaren-marlboro.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21012",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH A RACING HELMET ENGRAVED WITH THE YEARS 1988-1990-1991.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "TRIBUTE TO THE MARLBORO RACING LIVERY WITH SUPERLUMINOVA INDICATORS AND HANDS. AT 12 O'CLOCK, IT FEATURES THE MP4/4 TYPOGRAPHY IN REFERENCE TO THE CAR NUMBER DRIVEN BY AYRTON SENNA BETWEEN 1988 AND 1993. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COW LEATHER WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE QUARTZ SEIKO EPSON VX32.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7fd20d8ad89cc563"
+  },
+  {
+   "id": "BRD-0646/36-racing-watch-jimclark-indy1965-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 INDY 500 1965 LOTUS JIM CLARK",
+   "url": "https://myaeroluft.com/en/inicio/36-racing-watch-jimclark-indy1965.html",
+   "image": {
+    "url": "https://myaeroluft.com/448-medium_default/racing-watch-jimclark-indy1965.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/448-medium_default/racing-watch-jimclark-indy1965.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "green",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21022",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT AND OPENING DATE OF THE INDIANAPOLIS MOTOR SPEEDWAY, THE NAME OF JIM CLARK 1965 .",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"BRITISH RACING GREEN\" AND YELLOW STRIPE, INSPIRED BY THE LOTUS-FORD-38, WITH SUPERLUMINOVA INDICATORS AND HANDS. NUMBER 82 IN REFERENCE TO JIM CLARK'S WINNING NUMBER IN THE 1965 INDIANAPOLIS 500. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7b33004570d63929"
+  },
+  {
+   "id": "BRD-0646/37-racing-watch-porsche956-rothmans-lemans-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 \"PORSCHE 956 LE MANS ROTHMANS\"",
+   "url": "https://myaeroluft.com/en/inicio/37-racing-watch-porsche956-rothmans-lemans.html",
+   "image": {
+    "url": "https://myaeroluft.com/450-medium_default/racing-watch-porsche956-rothmans-lemans.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/450-medium_default/racing-watch-porsche956-rothmans-lemans.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21017",
+    "CASE": "100% STAINLESS STEEL 316L.",
+    "CASE BACK": "100% STAINLESS STEEL 316L WITH THE LAYOUT OF THE CIRCUIT DE LA SARTHE/LE MANS ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "ROTHMANS RACING LIVERY WITH SUPERLUMINOVA INDICATORS AND HANDS. NUMBER 3 IN REFERENCE TO THE PORSCHE 956C LH, WINNER OF THE 1983 24 HOURS OF LE MANS. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE QUARTZ SEIKO EPSON VX32.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM-FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ad71f373a3977346"
+  },
+  {
+   "id": "BRD-0646/38-racing-watch-porsche956-newman-lemans-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 \"PORSCHE 956 LE MANS 1984 NEW MAN\"",
+   "url": "https://myaeroluft.com/en/inicio/38-racing-watch-porsche956-newman-lemans.html",
+   "image": {
+    "url": "https://myaeroluft.com/452-medium_default/racing-watch-porsche956-newman-lemans.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/452-medium_default/racing-watch-porsche956-newman-lemans.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21016",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT OF THE SARTHÉ/LE MANS CIRCUIT.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"JOEST RACING/NEW MAN\" WITH SUPERLUMINOVA INDICATORS AND HANDS. NUMBER 7 IN REFERENCE TO THE PORSCHE 956B WITH CHASSIS #117 WINNER OF THE 24 HOURS OF LE MANS IN 1984 AND 1985. TACHYMETER ON THE OUTER RING",
+    "STRAP": "BLACK PERFORATED COWHIDE LEATHER WITH STITCHING TO MATCH THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "BUCKLE": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE QUARTZ SEIKO EPSON VX32.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ffdb6947133bc59b"
+  },
+  {
+   "id": "BRD-0646/39-racing-watch-porsche917-lemans-martini-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 \"PORSCHE 917 LE MANS 1971 MARTINI\"",
+   "url": "https://myaeroluft.com/en/inicio/39-racing-watch-porsche917-lemans-martini.html",
+   "image": {
+    "url": "https://myaeroluft.com/454-medium_default/racing-watch-porsche917-lemans-martini.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/454-medium_default/racing-watch-porsche917-lemans-martini.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "blue",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21015",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT OF THE SARTHÉ- LE MANS CIRCUIT.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "\"MARTINI RACING\" ON A NAVY BLUE BACKGROUND INSPIRED BY THE LIVERY OF THE 1971 PORSCHE 917 LH, WITH SUPERLUMINOVA INDICATORS AND ARROWS. BACK NUMBER 21 IN REFERENCE TO THE NUMBER CARRIED BY THE CAR IN THE 1971 24 HOURS OF LE MANS. TACHOMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "BUCKLE": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2e307f13fe8d75a3"
+  },
+  {
+   "id": "BRD-0646/40-racing-watch-gulf-lasarthe-lemans-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 LA SARTHÉ-LE MANS",
+   "url": "https://myaeroluft.com/en/inicio/40-racing-watch-gulf-lasarthe-lemans.html",
+   "image": {
+    "url": "https://myaeroluft.com/456-medium_default/racing-watch-gulf-lasarthe-lemans.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/456-medium_default/racing-watch-gulf-lasarthe-lemans.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "blue",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21010",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT AND THE DATE OF INAUGURATION OF THE CIRCUIT DE LA SARTHÉ (LE MANS) ENGRAVED AND #20 (DORSAL OF MICHAEL DELANEY'S PORSCHE 917).",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "PALE BLUE AND ORANGE INSPIRED BY THE GULF LIVERY WITH SUPERLUMINOVA INDICATORS AND ARROWS. DORSAL 23 IN REFERENCE TO THE YEAR 1923, THE FIRST EDITION OF THE 24 HOURS OF LE MANS. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b62915ce9819a668"
+  },
+  {
+   "id": "BRD-0646/41-racing-watch-lemans71-stevemcqueen-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 LE MANS 71 STEVE McQUEEN",
+   "url": "https://myaeroluft.com/en/inicio/41-racing-watch-lemans71-stevemcqueen.html",
+   "image": {
+    "url": "https://myaeroluft.com/458-medium_default/racing-watch-lemans71-stevemcqueen.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/458-medium_default/racing-watch-lemans71-stevemcqueen.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "cream",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21018",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT AND THE INAUGURATION DATE OF THE CIRCUIT DE LA SARTHÉ (LE MANS) ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "CREAM WHITE WITH THE LOGOS OF THE SPONSORS PRESENT ON MICHAEL DELANEY'S RACING SUIT: AEROLUFT (HEUER), GULF, FIRESTONE, NOMEX. SUPERLUMINOVA INDICES AND HANDS. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "BLACK PERFORATED COWHIDE LEATHER WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE QUARTZ SEIKO EPSON VX32.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7f77af8b6cc6a4ee"
+  },
+  {
+   "id": "BRD-0646/42-racing-watch-daytonabeach-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 DAYTONA BEACH",
+   "url": "https://myaeroluft.com/en/inicio/42-racing-watch-daytonabeach.html",
+   "image": {
+    "url": "https://myaeroluft.com/460-medium_default/racing-watch-daytonabeach.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/460-medium_default/racing-watch-daytonabeach.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "blue",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21008",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT AND INAUGURATION DATE OF DAYTONA BEACH CIRCUIT ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "DARK BLUE WITH DOUBLE WHITE STRIPE, INSPIRED BY THE NEGATIVE OF THE CUNNINGHAM RACING STRIPES OR AMERICAN RACING STRIPES, WITH SUPERLUMINOVA INDICATORS AND ARROWS. BACK 02 IN REFERENCE TO THE YEAR 1902, INAUGURATION OF THE DAYTONA BEACH CIRCUIT. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "e094b0d5599472b0"
+  },
+  {
+   "id": "BRD-0646/43-racing-watch-indianapolis-indy500-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 INDIANAPOLIS",
+   "url": "https://myaeroluft.com/en/inicio/43-racing-watch-indianapolis-indy500.html",
+   "image": {
+    "url": "https://myaeroluft.com/462-medium_default/racing-watch-indianapolis-indy500.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/462-medium_default/racing-watch-indianapolis-indy500.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "cream",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21009",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE LAYOUT AND THE DATE OF INAUGURATION OF THE INDIANAPOLIS MOTOR SPEEDWAY ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM.",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "CREAM WHITE WITH DOUBLE DARK BLUE STRIPE, INSPIRED BY THE CUNNINGHAM RACING STRIPES OR AMERICAN RACING STRIPES, WITH SUPERLUMINOVA INDICATORS AND ARROWS. DORSAL 09 IN REFERENCE TO THE YEAR 1909, INAUGURATION OF THE INDIANAPOLIS MOTOR SPEEDWAY. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9fc37cc397f8897c"
+  },
+  {
+   "id": "BRD-0646/44-racing-watch-lancia037-martini-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 \"LANCIA 037 RALLY MONTE CARLO 1983\"",
+   "url": "https://myaeroluft.com/en/inicio/44-racing-watch-lancia037-martini.html",
+   "image": {
+    "url": "https://myaeroluft.com/464-medium_default/racing-watch-lancia037-martini.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/464-medium_default/racing-watch-lancia037-martini.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "cream",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21019",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE \"COL DE TURINI\" LAYOUT (ROAD SECTION OF THE MONTE CARLO RALLY) ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "CREAM WHITE WITH MARTINI RACING LINES CARRIED BY THE LANCIA 037 IN 1983, WITH SUPERLUMINOVA INDICATORS AND ARROWS. NUMBER 1 IN REFERENCE TO THE ONE CARRIED BY THE WINNING CAR OF THE 1983 MONTE CARLO RALLY. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE QUARTZ SEIKO EPSON VX32.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "11ef110052ba52c7"
+  },
+  {
+   "id": "BRD-0646/45-racing-watch-lanciastratos-alitalia1976-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 \"LANCIA STRATOS RALLY MONTE CARLO 1976\"",
+   "url": "https://myaeroluft.com/en/inicio/45-racing-watch-lanciastratos-alitalia1976.html",
+   "image": {
+    "url": "https://myaeroluft.com/466-medium_default/racing-watch-lanciastratos-alitalia1976.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/466-medium_default/racing-watch-lanciastratos-alitalia1976.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": null,
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21019",
+    "CASE": "100% 316L STAINLESS STEEL.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE \"COL DE TURINI\" LAYOUT (ROAD SECTION OF THE MONTE CARLO RALLY) ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6007c2e26801a9c0"
+  },
+  {
+   "id": "BRD-0646/46-racing-watch-minicooper-paddyhopkirk-html",
+   "name": "RACING CAR DRIVER WATCH TYPE 2 \"MINI COOPER RALLY MONTE CARLO 1964\"",
+   "url": "https://myaeroluft.com/en/inicio/46-racing-watch-minicooper-paddyhopkirk.html",
+   "image": {
+    "url": "https://myaeroluft.com/468-medium_default/racing-watch-minicooper-paddyhopkirk.jpg",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://myaeroluft.com/468-medium_default/racing-watch-minicooper-paddyhopkirk.jpg",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 7990,
+   "currency": "EUR",
+   "availability": "in_stock",
+   "description": null,
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": 22,
+    "lugToLugMm": null,
+    "thicknessMm": 13,
+    "waterResistanceM": 30,
+    "caliber": null,
+    "movementType": "quartz",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "mineral",
+    "dialColor": "red",
+    "strapType": "leather"
+   },
+   "specsRaw": {
+    "Reference": "21021",
+    "CASE": "100% STAINLESS STEEL 316L.",
+    "CASE BACK": "100% 316L STAINLESS STEEL WITH THE \"COL DE TURINI\" LAYOUT (ROAD SECTION OF THE MONTE CARLO RALLY) ENGRAVED.",
+    "CASE SIZE": "42 mm x 49 mm.",
+    "WATCH THICKNESS": "13 mm.",
+    "WATER RESISTANCE": "3 ATM",
+    "CROWN": "6 mm WITH AEROLUFT ENGRAVING.",
+    "DIAL": "RED INSPIRED BY THE BODYWORK OF THE MINI COOPER S WINNER IN MONTE CARLO IN 1964, WITH THE LICENSE PLATE 33 EJB AND THE 1964 RALLY INSIGNIA, WITH SUPERLUMINOVA INDICATORS AND ARROWS. NUMBER 37 IN REFERENCE TO THE ONE CARRIED BY THE WINNING MINI OF THE RALLY. TACHYMETER ON THE OUTER RING.",
+    "STRAP": "PERFORATED BLACK COWHIDE LEATHER, WITH STITCHING MATCHING THE DIAL.",
+    "STRAP WIDTH": "22 mm.",
+    "CLASP": "STAINLESS STEEL.",
+    "MOVEMENT": "JAPANESE SEIKO EPSON VX32 QUARTZ.",
+    "CRYSTAL": "HARDENED MINERAL.",
+    "BATTERY": "SONY LITHIUM (100% MERCURY AND CADMIUM FREE)."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T22:27:20.224Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T22:27:20.224Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "17016ebc46b5be08"
+  }
+ ],
  "collections": []
 }

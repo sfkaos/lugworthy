@@ -3,6 +3,7 @@
 // through the sitemap / homepage. Every watch's detail page is then read for the
 // full spec list, description, variants and whether it is sold out.
 
+import { gunzipSync } from "node:zlib";
 import { createHash } from "node:crypto";
 import {
   caliberName, extractSpecsFromText, slugify, toCaseMaterial, toCrystal, toDialColor, toHours, toMinorUnits, toMovementType, toStrapType,
@@ -95,10 +96,14 @@ const MAX_MODEL_PAGES = Number(process.env.CRAWL_MAX_MODEL_PAGES ?? 40);
 // ---------- watch vs. accessory ----------
 
 const NOT_WATCH_TYPE = /strap|band|bracelet|accessor|apparel|clothing|merch|gift|tool|book|print|poster|service|warranty|insurance|shipping|deposit|spare|part|box|case only|winder|cleaning|sticker|shirt|hoodie|hat|cap|bag|wallet|pouch|roll|buckle|cufflink|jewel|ring|necklace/i;
+// German shop names: straps (Lederband, Silikonband, Edelstahlband ...), clasps, engravings,
+// spare crystals, rotors and casebacks.
+const NOT_WATCH_TITLE_DE = /\b\w*(leder|silikon|kautschuk|edelstahl|stahl|textil|canvas|nato|verlängerungs|uhren|arm|wechsel)band\b|\b\w*(stahl|gehäuse)boden\b|\b\w*schlie(ß|ss)e\b|\bgravur\b|\b\w*saphirglas\b|\b(automatik )?rotor( \d+)?$|^\S+ rotor (chronograph|automatik|\d+)$/i;
 const NOT_WATCH_TITLE = /\b(strap|straps|band|nato|rubber strap|leather strap|bracelet only|extra link|links?|spring ?bars?|buckle|clasp|deployant|gift ?card|e-?gift|voucher|t-?shirt|tee|hoodie|sweatshirt|cap|hat|beanie|keychain|key ?ring|sticker|poster|print|book|pouch|watch roll|travel case|watch box|winder|cleaning|cloth|tool|screwdriver|service|servicing|repair|warranty|insurance|shipping|deposit|reservation fee|spare|replacement|crystal only|crown only|bezel insert|mug|socks|tote|lanyard|pin|patch|coaster|wallpaper|membership|subscription|donation|tip)\b|pens?|fountain pen|rollerball|ballpoint|錶帶|表带|錶扣|筆|回娘家|ストラップ|ベルト|バンド|armband|bracelet en cuir|correa|cinturino|pulseira/i;
 
 export function looksLikeWatch(title: string, productType = "", tags: string[] = [], priceMinor: number | null = null): boolean {
   const t = title.toLowerCase();
+  if (NOT_WATCH_TITLE_DE.test(t) && !/\bmit\b/.test(t)) return false; // "Pilot 42 mit Stahlband" is a watch
   if (NOT_WATCH_TITLE.test(t) && !/\bwatch\b|chronograph|automatic|diver/i.test(t.replace(/watch (box|roll|winder|strap|band)/g, ""))) return false;
   if (productType && NOT_WATCH_TYPE.test(productType) && !/watch|timepiece|montre|uhr|reloj/i.test(productType)) return false;
   if (tags.some((g) => /^(strap|straps|accessor(y|ies)|apparel|merch|gift ?card)$/i.test(g)) && !tags.some((g) => /^watch(es)?$/i.test(g))) return false;
@@ -403,6 +408,23 @@ export function specEvidence(s: WatchSpecs, text = ""): number {
   return hits.size;
 }
 
+function gunzipText(bytes: Buffer): string {
+  try { return gunzipSync(bytes, { maxOutputLength: 20_000_000 }).toString("utf8"); } catch { return ""; }
+}
+
+/** Shopware product pages sit at the site root (/Pilot-42-H-PVD), so the usual product-path
+ *  test misses them. Its sitemap lists them as one-segment paths without a trailing slash. */
+export function shopwareProductUrls(urls: string[], host: string): string[] {
+  return urls.filter((u) => {
+    try {
+      const url = new URL(u);
+      if (url.host.replace(/^www\./, "") !== host || url.search) return false;
+      const parts = url.pathname.split("/").filter(Boolean);
+      return parts.length === 1 && !url.pathname.endsWith("/") && !/\.[a-z0-9]{2,4}$/i.test(parts[0]);
+    } catch { return false; }
+  });
+}
+
 async function sitemapUrls(origin: string, extra: string[]): Promise<string[]> {
   const queue = [...new Set([...extra, `${origin}/sitemap.xml`, `${origin}/sitemap_index.xml`])];
   const seenMaps = new Set<string>();
@@ -413,9 +435,12 @@ async function sitemapUrls(origin: string, extra: string[]): Promise<string[]> {
     seenMaps.add(sm);
     let r: FetchResult | null;
     try { r = await allowedGet(sm, "application/xml,text/xml"); } catch { continue; }
-    if (!r?.ok || !/<(urlset|sitemapindex)/i.test(r.text)) continue;
-    const locs = [...r.text.matchAll(/<loc>\s*(?:<!\[CDATA\[)?([^<\]]+)/gi)].map((m) => m[1].trim());
-    if (/<sitemapindex/i.test(r.text)) {
+    if (!r?.ok) continue;
+    // Some shops (Shopware) serve their sitemaps gzipped.
+    const text = r.bytes[0] === 0x1f && r.bytes[1] === 0x8b ? gunzipText(r.bytes) : r.text;
+    if (!/<(urlset|sitemapindex)/i.test(text)) continue;
+    const locs = [...text.matchAll(/<loc>\s*(?:<!\[CDATA\[)?([^<\]]+)/gi)].map((m) => m[1].trim());
+    if (/<sitemapindex/i.test(text)) {
       // Product sitemaps first, then anything that isn't obviously posts/images.
       const sorted = locs.filter((l) => !/post|blog|image|video|author|tag|category/i.test(l)).sort((a, b) => Number(/product/i.test(b)) - Number(/product/i.test(a)));
       queue.unshift(...sorted.slice(0, 5));
@@ -449,7 +474,8 @@ export function stripSiteSuffix(name: string, siteName?: string): string {
     const last = parts[parts.length - 1].toLowerCase();
     if ((siteName && last.includes(siteName.toLowerCase().slice(0, 6))) || last.split(" ").length <= 4) n = parts.slice(0, -1).join(" - ");
   }
-  return n;
+  // Shop templates that append a call to action to the title ("Pilot 42 jetzt kaufen").
+  return n.replace(/\s+(jetzt|online)\s+(kaufen|bestellen)$|\s+(buy|order|shop) (it )?now$/i, "").trim() || n;
 }
 
 /** The page's own heading: the <h1> that also appears in the title (themes put modal or banner h1s first). */
@@ -568,7 +594,12 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
       out.push(detach(p));
     }
   };
-  const productLinks = [...mapUrls.filter(sameHost).filter(pick(PRODUCT_PATH)), ...productUrlsFromHome(homeDom, homeUrl)];
+  const isShopware = /shopware/i.test(homeHtml);
+  const productLinks = [
+    ...mapUrls.filter(sameHost).filter(pick(PRODUCT_PATH)),
+    ...(isShopware ? shopwareProductUrls(mapUrls, host) : []),
+    ...productUrlsFromHome(homeDom, homeUrl),
+  ];
   // Listing links that look like products first, then the rest (image links can also be banners).
   await run([...productLinks, ...fromListings.filter(pick(PRODUCT_PATH)), ...fromListings], false);
   if (!out.length) {
@@ -645,6 +676,12 @@ export async function crawlBrand(brand: BrandInput): Promise<BrandCatalog> {
   if (!robotsAllowsPath(robots, "/")) return { ...base, status: "robots_disallowed", note: "robots.txt disallows the homepage" };
   let home = await politeGet(origin + "/");
   if (!home.ok && !home.challenged && origin.startsWith("https://")) home = await politeGet(origin.replace("https://", "http://") + "/");
+  // Some sites only answer on www. (the bare domain 404s or doesn't resolve).
+  const wwwOrigin = origin.replace(/^(https?:\/\/)(?!www\.)/, "$1www.");
+  if (!home.ok && !home.challenged && wwwOrigin !== origin && robotsAllowsPath(await getRobots(wwwOrigin), "/")) {
+    const alt = await politeGet(wwwOrigin + "/");
+    if (alt.ok || alt.challenged) home = alt;
+  }
   if (home.challenged) return { ...base, status: "blocked_by_site", note: "site answered with a bot check (captcha); not bypassed" };
   if (!home.ok) return { ...base, status: "unreachable", note: `homepage returned ${home.status || home.text.slice(0, 80)}` };
   origin = new URL(home.url).origin;
