@@ -88,6 +88,9 @@ if (poisoned.length) {
   console.error(`Skipping brands that were in progress during 2 crashes: ${poisoned.join(", ")}`);
   brands = brands.filter((b) => !poisoned.includes(b.brandId));
 }
+const maxRssMb = Number(process.env.CRAWL_MAX_RSS_MB ?? 380);
+const RESTART_EXIT_CODE = 75; // render-job.sh restarts on this without counting it as a crash
+let stopping = false;
 const mark = (kind: "start" | "done", id: string) => fs.appendFileSync(inflightFile, `${kind} ${id}\n`);
 brands = brands.slice(0, limit);
 console.log(`Crawling ${brands.length} brands, ${concurrency} at a time`);
@@ -115,7 +118,13 @@ async function one(b: BrandInput) {
   }
   mark("done", b.brandId);
   const withImg = cat.watches.filter((w) => w.image).length;
-  console.log(`${b.brandId} ${b.name.padEnd(28).slice(0, 28)} ${cat.status.padEnd(17)} ${String(cat.platform ?? "-").padEnd(11)} logo:${cat.brandImage ? cat.brandImage.kind : "none"} watches:${cat.watches.length} (img ${withImg}, sold out ${cat.watches.filter((w) => w.soldOut).length}, specs ${cat.watches.filter((w) => Object.keys(w.specsRaw ?? {}).length).length}) ${((Date.now() - t0) / 1000).toFixed(0)}s heap ${Math.round(process.memoryUsage().heapUsed / 1e6)}MB`);
+  console.log(`${b.brandId} ${b.name.padEnd(28).slice(0, 28)} ${cat.status.padEnd(17)} ${String(cat.platform ?? "-").padEnd(11)} logo:${cat.brandImage ? cat.brandImage.kind : "none"} watches:${cat.watches.length} (img ${withImg}, sold out ${cat.watches.filter((w) => w.soldOut).length}, specs ${cat.watches.filter((w) => Object.keys(w.specsRaw ?? {}).length).length}) ${((Date.now() - t0) / 1000).toFixed(0)}s heap ${Math.round(process.memoryUsage().heapUsed / 1e6)}MB rss ${Math.round(process.memoryUsage().rss / 1e6)}MB`);
+  // Memory that sharp/libvips frees isn't always handed back to the system. Rather than let the
+  // 512 MB job be killed, finish the brands in progress and exit so render-job.sh starts a fresh process.
+  if (!stopping && process.memoryUsage().rss > maxRssMb * 1e6) {
+    stopping = true;
+    console.error(`memory at ${Math.round(process.memoryUsage().rss / 1e6)} MB (limit ${maxRssMb} MB); stopping after the brands in progress so the job can restart`);
+  }
 }
 
 /** Stores the logo and each watch's main photo; reuses earlier copies when the source URL is unchanged. */
@@ -167,7 +176,8 @@ function writeIndex() {
   }
   const queue = [...brands];
   await Promise.all(Array.from({ length: Math.min(concurrency, queue.length) }, async () => {
-    while (queue.length) await one(queue.shift()!);
+    while (queue.length && !stopping) await one(queue.shift()!);
   }));
   writeIndex();
+  if (stopping) process.exitCode = RESTART_EXIT_CODE;
 })().finally(() => saveEach?.client.end());
