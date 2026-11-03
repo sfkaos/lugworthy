@@ -70,6 +70,19 @@ export function imageStoreFromEnv(): ImageStore | null {
   return null;
 }
 
+// A decoded image takes width x height x 4 bytes. 80 million pixels was ~320 MB, enough on
+// its own to push the 512 MB Render job over its limit. 24 million (e.g. 6000 x 4000) is ~96 MB.
+const MAX_INPUT_PIXELS = 24_000_000;
+
+// Resize one image at a time, even when several brands are crawled in parallel, so two big
+// decodes never sit in memory together.
+let resizeQueue: Promise<unknown> = Promise.resolve();
+function oneAtATime<T>(task: () => Promise<T>): Promise<T> {
+  const run = resizeQueue.then(task, task);
+  resizeQueue = run.catch(() => {});
+  return run;
+}
+
 export const keyHash = (s: string) => createHash("sha256").update(s).digest("hex").slice(0, 10);
 
 /**
@@ -89,10 +102,15 @@ export async function mirrorImage(store: ImageStore, sourceUrl: string, keyBase:
   }
   let data: Buffer, info: { width: number; height: number };
   try {
-    const img = sharp(bytes, { animated: false, limitInputPixels: 80_000_000 }).rotate().resize({ width: maxPx, height: maxPx, fit: "inside", withoutEnlargement: true });
-    ({ data, info } = await img.webp({ quality: 80 }).toBuffer({ resolveWithObject: true }));
+    ({ data, info } = await oneAtATime(() =>
+      sharp(bytes, { animated: false, limitInputPixels: MAX_INPUT_PIXELS })
+        .rotate()
+        .resize({ width: maxPx, height: maxPx, fit: "inside", withoutEnlargement: true })
+        .webp({ quality: 80 })
+        .toBuffer({ resolveWithObject: true }),
+    ));
   } catch {
-    return null; // not a readable image
+    return null; // not a readable image, or too large to resize safely: the photo stays a link
   }
   return { storedUrl: await store.put(`${key}.webp`, data, "image/webp"), width: info.width, height: info.height };
 }

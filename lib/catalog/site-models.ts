@@ -90,7 +90,8 @@ export function decodeEntities(s: string): string {
  */
 export function watchSlug(handle: string): string {
   const h = handle.replace(/(-1){2,}$/, "");
-  if (!/(^|-)e[0-9a-f]-[0-9a-f]{2}-[0-9a-f]{2}(-|$)/.test(h)) return h;
+  // The last byte can run into the next letter ("d-e1-bb-a9c-eye" for "dức-eye").
+  if (!/(^|-)e[0-9a-f]-[0-9a-f]{2}-[0-9a-f]{2}/.test(h)) return h;
   const ascii = h.split("-").filter((p) => !/^[0-9a-f]{2}$/.test(p) && /[g-z]/.test(p)).join("-").slice(0, 40);
   const hash = createHash("sha1").update(handle).digest("hex").slice(0, 8);
   return ascii ? `${ascii}-${hash}` : `watch-${hash}`;
@@ -105,6 +106,8 @@ export function siteWatchToModel(w: CatalogWatch, brand: Brand, crawledAt: strin
   const name = decodeEntities(w.name);
   const specs = specsFor(w);
   if (SERVICE.test(name) || !looksLikeWatch({ ...w, name }, specs)) return null;
+  // A listing with no photo at all is almost always a service, part or placeholder page.
+  if (!w.images?.length && !w.image) return null;
   const specSources: Partial<Record<SpecKey, Provenance>> = {};
   for (const [k, v] of Object.entries(specs)) if (v != null && !(Array.isArray(v) && !v.length)) specSources[k as SpecKey] = "imported";
 

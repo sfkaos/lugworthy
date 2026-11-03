@@ -10,6 +10,11 @@ import type { Db } from "@/lib/db/client";
 
 const CHUNK = 500;
 
+// site_watches.price_minor is a 32-bit integer. A few shops list prices in units the crawler
+// over-scales (e.g. ¥26,774,000 read as 2,677,400,000); store no price rather than fail the import.
+const MAX_PRICE_MINOR = 2_147_483_647;
+export const safePrice = (v: number | null | undefined) => (v != null && Number.isFinite(v) && v > 0 && v <= MAX_PRICE_MINOR ? Math.round(v) : null);
+
 export interface CatalogImportResult {
   brands: number;
   watches: number;
@@ -18,7 +23,7 @@ export interface CatalogImportResult {
   skipped: string[]; // brand IDs with a file but no brand in the database
 }
 
-export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[]): Promise<CatalogImportResult> {
+export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[], opts: { reorder?: boolean } = {}): Promise<CatalogImportResult> {
   const result: CatalogImportResult = { brands: 0, watches: 0, images: 0, skipped: [] };
   if (!catalogs.length) return result;
   const known = await db
@@ -42,7 +47,7 @@ export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[]): Pro
       attribution: c.attribution, imageRights: c.imageRights ?? "unknown", importedAt: new Date(),
     };
     const watches = c.watches.map((w, i) => ({
-      id: w.id, brandId, name: w.name, url: w.url, priceMinor: fitsInt(w.priceMinor), currency: w.currency, available: w.available,
+      id: w.id, brandId, name: w.name, url: w.url, priceMinor: safePrice(w.priceMinor), currency: w.currency, available: w.available,
       specs: w.specs ?? {}, hash: w.hash ?? null, position: i, crawledAt,
       availability: w.availability ?? null,
       soldOut: w.soldOut ?? (w.available == null ? null : !w.available),
@@ -83,21 +88,27 @@ export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[]): Pro
     result.images += images.length;
     result.collections = (result.collections ?? 0) + collections.length;
   }
-  if (result.brands) await reorderBrands(db);
+  if (result.brands && opts.reorder !== false) await reorderBrands(db);
   return result;
 }
 
-/** Imports every brand listed in data/catalog/index.json. */
+/**
+ * Imports every brand listed in data/catalog/index.json. Files are read a few at a time:
+ * the full catalog is well over 100 MB of JSON, more than the 512 MB crawl job can hold at once.
+ */
 export async function importCatalogDir(db: Db, dir?: string): Promise<CatalogImportResult> {
   const index = await loadCatalogIndex(dir);
-  const files = await Promise.all(index.brands.map((r) => loadBrandCatalog(r.brandId, dir)));
-  return importBrandCatalogs(db, files.filter((f): f is BrandCatalog => f !== null));
-}
-
-/**
- * price_minor is a 32-bit integer column. A few listings in yen or won go past it (BRD-0805 has a
- * ¥26,774,000.00 piece = 2,677,400,000 minor units), which made the whole import fail. Those keep no price.
- */
-export function fitsInt(n: number | null | undefined): number | null {
-  return n == null || !Number.isSafeInteger(n) || n > 2_147_483_647 || n < -2_147_483_648 ? null : n;
+  const result: CatalogImportResult = { brands: 0, watches: 0, images: 0, collections: 0, skipped: [] };
+  const BATCH = 10;
+  for (let i = 0; i < index.brands.length; i += BATCH) {
+    const files = await Promise.all(index.brands.slice(i, i + BATCH).map((r) => loadBrandCatalog(r.brandId, dir)));
+    const r = await importBrandCatalogs(db, files.filter((f): f is BrandCatalog => f !== null), { reorder: false });
+    result.brands += r.brands;
+    result.watches += r.watches;
+    result.images += r.images;
+    result.collections = (result.collections ?? 0) + (r.collections ?? 0);
+    result.skipped.push(...r.skipped);
+  }
+  if (result.brands) await reorderBrands(db);
+  return result;
 }

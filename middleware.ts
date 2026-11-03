@@ -17,6 +17,15 @@ export function middleware(req: NextRequest) {
   const path = req.nextUrl.pathname;
   const isApiPath = path === "/api/v1" || path.startsWith("/api/v1/");
 
+  // next.config.ts turns off Next's trailing-slash redirect for the PostHog proxy, so do it here
+  // for every other page: /brands/ → /brands.
+  if (path.length > 1 && path.endsWith("/")) {
+    // A plain URL: NextURL keeps the trailing slash when it formats, which loops.
+    const url = new URL(req.url);
+    url.pathname = path.replace(/\/+$/, "") || "/";
+    return NextResponse.redirect(url, 308);
+  }
+
   // Token-based (no cookies), so any origin may call it from a browser.
   if (req.method === "OPTIONS" && (isApiHost || isApiPath)) return new NextResponse(null, { status: 204, headers: CORS });
 
@@ -53,6 +62,6 @@ function hasRealQuery(sp: URLSearchParams): boolean {
 }
 
 export const config = {
-  // Everything except Next's static files.
-  matcher: ["/((?!_next/static|_next/image|favicon.ico).*)"],
+  // Everything except Next's static files and the PostHog proxy.
+  matcher: ["/((?!_next/static|_next/image|favicon.ico|ingest).*)"],
 };

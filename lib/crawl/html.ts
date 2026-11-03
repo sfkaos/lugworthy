@@ -42,7 +42,7 @@ export function bestFromSrcset(srcset: string | undefined): string | null {
   return best?.url ?? null;
 }
 
-function imgSrc($: CheerioRoot, el: Parameters<CheerioRoot>[0], base: string): string | null {
+export function imgSrc($: CheerioRoot, el: Parameters<CheerioRoot>[0], base: string): string | null {
   const $el = $(el as never);
   const cands = [
     $el.attr("src"), $el.attr("data-src"), $el.attr("data-original"), $el.attr("data-lazy-src"),
@@ -164,6 +164,33 @@ export function findBrandImage($: CheerioRoot, pageUrl: string, brandName: strin
 /** Plain text of an HTML fragment, for spec extraction. */
 export const htmlText = (html: string) => html.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
 
+/**
+ * Parses a page. Script and style blocks are dropped first (JSON-LD is kept, the crawler reads
+ * it): on some site builders (Wix) they are most of a 2–3 MB page, and parsing them took well
+ * over 100 MB, enough to overflow the crawl job's 256 MB heap. Nothing reads them from the DOM.
+ */
 export function load(html: string): CheerioRoot {
-  return cheerio.load(html);
+  return cheerio.load(
+    html
+      .replace(/<script\b(?![^>]*application\/ld\+json)[^>]*>[\s\S]*?<\/script\s*>/gi, "")
+      .replace(/<style\b[^>]*>[\s\S]*?<\/style\s*>/gi, ""),
+  );
+}
+
+/** First few content images on a page (outside header, nav and footer), for pages without og:image. */
+export function contentImages($: CheerioRoot, pageUrl: string, max = 6): ImageRef[] {
+  const out: ImageRef[] = [];
+  $("main img, article img, section img, body img").each((_, el) => {
+    if (out.length >= max) return;
+    const $el = $(el);
+    if ($el.closest("header, nav, footer").length) return;
+    const src = imgSrc($, el, pageUrl);
+    if (!src || /\.svg(\?|$)/i.test(src)) return;
+    const alt = $el.attr("alt") ?? "";
+    if (/logo|icon|payment|visa|mastercard|paypal|klarna|flag|badge|avatar|instagram|facebook/i.test(src + " " + alt + " " + ($el.attr("class") ?? ""))) return;
+    const w = num($el.attr("width"));
+    if (w != null && w < 300) return;
+    if (!out.some((i) => i.url === src)) out.push({ url: src, width: w, height: num($el.attr("height")) });
+  });
+  return out;
 }
