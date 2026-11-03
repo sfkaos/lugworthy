@@ -84,17 +84,26 @@ export function decodeEntities(s: string): string {
 }
 
 /**
- * URL slug for a crawled watch: the shop's handle, unless the handle is percent-encoded
- * non-Latin text (e4-b8-8a-e4-...), which makes unreadable URLs. Those get "watch-<hash>",
- * stable across crawls because it's derived from the handle.
+ * URL slug for a crawled watch: the shop's handle, unless the handle has percent-encoded
+ * non-Latin text in it (e4-b8-8a-e4-..., or glued to Latin text like "d-e1-bb-a9c" for "Đức"),
+ * which makes unreadable URLs. Those keep their Latin words plus a short hash ("watch-<hash>" when
+ * there are none), stable across crawls because it's derived from the handle.
  */
 export function watchSlug(handle: string): string {
   const h = handle.replace(/(-1){2,}$/, "");
-  if (!/(^|-)e[0-9a-f]-[0-9a-f]{2}-[0-9a-f]{2}(-|$)/.test(h)) return h;
-  const ascii = h.split("-").filter((p) => !/^[0-9a-f]{2}$/.test(p) && /[g-z]/.test(p)).join("-").slice(0, 40);
   const hash = createHash("sha1").update(handle).digest("hex").slice(0, 8);
-  return ascii ? `${ascii}-${hash}` : `watch-${hash}`;
+  if (/(^|-)e[0-9a-f]-[0-9a-f]{2}-[0-9a-f]{2}(-|$)/.test(h)) {
+    const ascii = h.split("-").filter((p) => !/^[0-9a-f]{2}$/.test(p) && /[g-z]/.test(p)).join("-").slice(0, 40);
+    return ascii ? `${ascii}-${hash}` : `watch-${hash}`;
+  }
+  // A 3-byte UTF-8 character (e.g. CJK, Vietnamese) touching other text on either side.
+  if (ENCODED_CHAR.test(h)) {
+    const ascii = h.replace(new RegExp(ENCODED_CHAR.source, "g"), "-").split("-").filter((p) => /[a-z0-9]/.test(p)).join("-").slice(0, 40).replace(/-$/, "");
+    return ascii ? `${ascii}-${hash}` : `watch-${hash}`;
+  }
+  return h;
 }
+const ENCODED_CHAR = /(?<![0-9a-z])e[0-9a-f]-[89ab][0-9a-f]-[89ab][0-9a-f]/;
 
 function hasCoreSpec(s: Specs): boolean {
   return [s.caseDiameterMm, s.movementType, s.waterResistanceM, s.caliber, s.lugWidthMm, s.thicknessMm].some((v) => v != null);

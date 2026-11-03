@@ -23,7 +23,11 @@ describe("watches crawled from brand sites", async () => {
     expect(models.every((m) => m.variants.length > 0 && m.variants.every((v) => v.priceUsd > 0))).toBe(true);
   });
   it("shows photos only when allowed", () => {
-    expect(shown.models.filter((m) => m.origin === "site").every((m) => m.images!.length > 0)).toBe(true);
+    // Every watch whose crawl found photos shows them (some shop listings have none).
+    const withPhotos = new Set(site.flatMap((c) => c.watches.filter((w) => w.images.length || w.image).map((w) => w.url)));
+    const crawled = shown.models.filter((m) => m.origin === "site" && withPhotos.has(m.sourceUrl!));
+    expect(crawled.length).toBeGreaterThan(500);
+    expect(crawled.every((m) => m.images!.length > 0)).toBe(true);
     expect(hidden.models.some((m) => m.images?.length)).toBe(false);
     const dryden = shown.publishedBrands().find((b) => b.slug === "dryden")!;
     process.env.IMAGES_PUBLIC = "all";
@@ -70,12 +74,17 @@ describe("crawled watch names and URLs", async () => {
     expect(s).toMatch(/^watch-[0-9a-f]{8}$/);
     expect(watchSlug("e4-b8-8a-e4-b8-8b-e5-9d-a1-e6-96-b9-e5-bd-a2-e6-b0-b4-e6-b3-a5-e9-8c-b6-e6-b9-96")).toBe(s);
     expect(watchSlug("4d-horse-golden")).toBe("4d-horse-golden");
+    expect(watchSlug("e3-80-90outlet-e3-80-91the-watch-stand-single-white")).toMatch(/^outlet-the-watch-stand-single-white-[0-9a-f]{8}$/);
+    expect(watchSlug("d-e1-bb-a9c-eye-dial-made-to-order")).toMatch(/^d-c-eye-dial-made-to-order-[0-9a-f]{8}$/);
+    expect(watchSlug("ahrens-automatic-fireball-red-cd-1061-22")).toBe("ahrens-automatic-fireball-red-cd-1061-22");
   });
   it("drops upgrade and trade-in listings", async () => {
     const { snapshotCatalog } = await import("@/lib/data");
     const c = snapshotCatalog(await loadCatalogIndex(), await loadAllBrandCatalogs());
     expect(c.models.some((m) => /回娘家/.test(m.name))).toBe(false);
     expect(c.models.some((m) => /&#\d+;|&amp;/.test(m.name))).toBe(false);
-    expect(c.models.filter((m) => m.origin === "site").every((m) => !/e[0-9a-f]-[0-9a-f]{2}-[0-9a-f]{2}/.test(m.slug))).toBe(true);
-  });
+    // No percent-encoded UTF-8 left in a slug ("e3-80-90outlet", "d-e1-bb-a9c"); "red-cd-10" is fine.
+    const encoded = c.models.filter((m) => m.origin === "site" && /(?<![0-9a-z])e[0-9a-f]-[89ab][0-9a-f]-[89ab][0-9a-f]/.test(m.slug));
+    expect(encoded.map((m) => m.slug)).toEqual([]);
+  }, 60_000); // reads every crawled watch file
 });

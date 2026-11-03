@@ -115,7 +115,7 @@ describe("catalog", () => {
     const c = await getCatalog();
     expect(c.source).toBe("snapshot");
     expect(c.brands.length).toBe(1437);
-  });
+  }, 60_000); // reads every crawled watch file
 });
 
 describe("Google Sheets client", () => {

@@ -1,5 +1,6 @@
 // Only one process rebuilds the read model at a time (two at once ran the small database out of memory).
-import { beforeAll, describe, expect, it } from "vitest";
+import { afterAll, beforeAll, describe, expect, it } from "vitest";
+import { useSmallCatalog } from "./small-catalog";
 import { eq } from "drizzle-orm";
 import * as s from "@/db/schema";
 import { ensureReadModel, READ_MODEL_VERSION } from "@/lib/catalog/index-build";
@@ -14,8 +15,13 @@ const meta = async (key: string) => (await db.select().from(s.catalogMeta).where
 beforeAll(async () => {
   delete process.env.DATABASE_URL;
   delete process.env.POSTGRES_URL;
+  useSmallCatalog();
   db = await siteDb();
 }, 120_000);
+
+afterAll(() => {
+  delete process.env.CATALOG_DIR;
+});
 
 describe("ensureReadModel", () => {
   it("skips while another process holds a fresh lease", async () => {

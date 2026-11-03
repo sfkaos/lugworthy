@@ -4,11 +4,16 @@ import { loadAllBrandCatalogs, loadCatalogIndex } from "@/lib/brands/media";
 import { Catalog, snapshotCatalog } from "@/lib/data";
 import { apiSourceFromEnv, fetchCatalogParts } from "@/lib/catalog/from-api";
 import { parseBrandQuery, queryBrands, queryWatches } from "@/lib/brands/api";
+import { useSmallCatalog } from "./small-catalog";
 
 // The site built from API responses must match the site built straight from the database.
+// The API path only loads catalogs under maxApiWatches() (the full crawl reads the database), so
+// this runs on a slice of the crawl that fits.
 describe("lugworthy.com built from the API", async () => {
   process.env.IMAGES_PUBLIC = "all";
+  useSmallCatalog();
   const direct = snapshotCatalog(await loadCatalogIndex(), await loadAllBrandCatalogs());
+  delete process.env.CATALOG_DIR;
   const calls: string[] = [];
   // A fetch that answers like api.lugworthy.com, using the real query code.
   const fakeFetch = (async (input: string, init?: RequestInit) => {

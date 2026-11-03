@@ -1,6 +1,7 @@
 // The per-page database queries (lib/site-data.ts) against the in-memory catalog code they replace
 // (lib/filters.ts browse(), textScore(), Catalog), on the same snapshot data.
-import { beforeAll, describe, expect, it } from "vitest";
+import { afterAll, beforeAll, describe, expect, it } from "vitest";
+import { useSmallCatalog } from "./small-catalog";
 import { loadAllBrandCatalogs, loadCatalogIndex } from "@/lib/brands/media";
 import { snapshotCatalog, type Catalog } from "@/lib/data";
 import { browse, parseFilters, textScore, typoVariants, type Filters } from "@/lib/filters";
@@ -12,9 +13,14 @@ let old: Catalog;
 beforeAll(async () => {
   delete process.env.DATABASE_URL;
   delete process.env.POSTGRES_URL;
+  useSmallCatalog();
   old = snapshotCatalog(await loadCatalogIndex(), await loadAllBrandCatalogs());
   await siteDb();
 }, 120_000);
+
+afterAll(() => {
+  delete process.env.CATALOG_DIR;
+});
 
 const CASES: Record<string, string>[] = [
   {},

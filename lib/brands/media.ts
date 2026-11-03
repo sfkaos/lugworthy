@@ -94,7 +94,10 @@ export interface CatalogIndex {
   brands: CatalogIndexRow[];
 }
 
-const DIR = path.join(process.cwd(), "data", "catalog");
+/** The crawled catalog files: data/catalog, or CATALOG_DIR (tests point it at a smaller copy). */
+export function catalogDir(): string {
+  return process.env.CATALOG_DIR || path.join(process.cwd(), "data", "catalog");
+}
 const EMPTY: CatalogIndex = { generatedAt: null, brands: [] };
 
 async function readJson<T>(file: string): Promise<T | null> {
@@ -106,16 +109,16 @@ async function readJson<T>(file: string): Promise<T | null> {
   }
 }
 
-export async function loadCatalogIndex(dir = DIR): Promise<CatalogIndex> {
+export async function loadCatalogIndex(dir = catalogDir()): Promise<CatalogIndex> {
   return (await readJson<CatalogIndex>(path.join(dir, "index.json"))) ?? EMPTY;
 }
 
-export async function loadBrandCatalog(brandId: string, dir = DIR): Promise<BrandCatalog | null> {
+export async function loadBrandCatalog(brandId: string, dir = catalogDir()): Promise<BrandCatalog | null> {
   if (!/^BRD-\d+$/.test(brandId)) return null;
   return readJson<BrandCatalog>(path.join(dir, `${brandId}.json`));
 }
 
-export async function loadAllBrandCatalogs(dir = DIR): Promise<BrandCatalog[]> {
+export async function loadAllBrandCatalogs(dir = catalogDir()): Promise<BrandCatalog[]> {
   const index = await loadCatalogIndex(dir);
   const files = await Promise.all(index.brands.map((r) => loadBrandCatalog(r.brandId, dir)));
   return files.filter((f): f is BrandCatalog => f !== null);
