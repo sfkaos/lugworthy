@@ -12,6 +12,9 @@ const nextConfig: NextConfig = {
     "/**": ["./db/migrations/**/*", "./data/catalog/**/*.json"],
   },
   serverExternalPackages: ["@electric-sql/pglite"],
+  // The PostHog key lives in Vercel as NEXT_POSTHOG_KEY. Only NEXT_PUBLIC_ names reach the
+  // browser, so copy it in at build time. (A phc_ key is public by design.)
+  env: { NEXT_PUBLIC_POSTHOG_KEY: process.env.NEXT_PUBLIC_POSTHOG_KEY || process.env.NEXT_POSTHOG_KEY || "" },
   // PostHog goes through lugworthy.com/ingest so ad blockers don't drop events.
   // POSTHOG_REGION is "us" (default) or "eu", matching the PostHog project.
   async rewrites() {

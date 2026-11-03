@@ -1,5 +1,6 @@
 // PostHog analytics. Runs once in the browser before the app hydrates (Next.js 15.3+).
-// Without NEXT_PUBLIC_POSTHOG_KEY (local dev, previews) nothing loads.
+// The key comes from NEXT_POSTHOG_KEY (see next.config.ts). Without it (local dev, previews)
+// nothing loads.
 // posthog-js is imported lazily so it stays out of the first-load bundle.
 const key = process.env.NEXT_PUBLIC_POSTHOG_KEY;
 
