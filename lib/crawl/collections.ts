@@ -151,6 +151,8 @@ export function imageLinks($: ReturnType<typeof load>, base: string): string[] {
 }
 
 /** Reads a listing page as a collection: its name, description, image and the product links on it. */
+const PRODUCT_TILE = ".product-box, .product-miniature, .product-item, .product-card, .product-tile, li.product, a.product-name, a.product-image-link";
+
 export function parseListing(html: string, pageUrl: string, brandName: string, productPath: RegExp): { draft: CollectionDraft; links: string[] } {
   const $ = load(html);
   const rawName = htmlText($("h1").first().text() || $('meta[property="og:title"]').attr("content") || $("title").text() || "");
@@ -166,6 +168,18 @@ export function parseListing(html: string, pageUrl: string, brandName: string, p
     if (!u) return;
     const url = new URL(u);
     if (url.host.replace(/^www\./, "") === host && productPath.test(url.pathname)) { url.hash = ""; url.search = ""; links.add(url.toString()); }
+  });
+  // Shop themes mark each product tile (Shopware .product-box, PrestaShop .product-miniature, ...).
+  // Their links count even when the product URL has no /product/-style path.
+  $(PRODUCT_TILE).each((_, tile) => {
+    $(tile).find("a[href]").addBack("a[href]").each((_, el) => {
+      const u = absUrl($(el).attr("href"), pageUrl);
+      if (!u) return;
+      const url = new URL(u);
+      if (url.host.replace(/^www\./, "") !== host || url.pathname === "/") return;
+      url.hash = ""; url.search = "";
+      links.add(url.toString());
+    });
   });
   links.delete(pageUrl);
   return {

@@ -1,13 +1,5691 @@
 {
  "brandId": "BRD-0678",
  "brandName": "Archimede Watches",
- "website": "http://archimede.de",
- "crawledAt": "2026-11-01T06:27:35.947Z",
- "status": "no_catalog_found",
+ "website": "https://www.archimede-watches.com",
+ "crawledAt": "2026-11-03T23:13:43.898Z",
+ "status": "ok",
  "platform": "html",
- "brandImage": null,
- "attribution": "Images © Archimede Watches, from archimede.de",
+ "brandImage": {
+  "url": "https://www.archimede-watches.com/media/b9/bf/14/1752737109/archimede_logo_website_%281%29.jpg?ts=1752737109",
+  "width": null,
+  "height": null,
+  "kind": "logo",
+  "sourcePage": "https://www.archimede-watches.com/"
+ },
+ "attribution": "Images © Archimede Watches, from archimede-watches.com",
  "imageRights": "unknown",
- "watches": [],
+ "watches": [
+  {
+   "id": "BRD-0678/pilot-chronograph-ldb",
+   "name": "Pilot Chronograph . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-Chronograph-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/35/14/ac/1664896243/temp7939-c1-3-500_4olmoyl46hav4j.jpg?ts=1728389731",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/35/14/ac/1664896243/temp7939-c1-3-500_4olmoyl46hav4j.jpg?ts=1728389731",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 188000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot Chronograph . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7939-C1.3"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6dc7e6ebd474e9c8"
+  },
+  {
+   "id": "BRD-0678/pilot-chronograph-with-stainless-steel-bracelet",
+   "name": "Pilot Chronograph . S",
+   "url": "https://www.archimede-watches.com/Pilot-Chronograph-with-stainless-steel-bracelet",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/44/f7/8d/1664896237/temp7939b-c1-1-500_4xwapnacgte6ig.jpg?ts=1728389731",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/44/f7/8d/1664896237/temp7939b-c1-1-500_4xwapnacgte6ig.jpg?ts=1728389731",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 202000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot Chronograph . S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7939B-C1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "654313c6cc4d6191"
+  },
+  {
+   "id": "BRD-0678/pilot-chronograph-with-black-leather-strap",
+   "name": "Pilot Chronograph . LS",
+   "url": "https://www.archimede-watches.com/Pilot-Chronograph-with-black-leather-strap",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/36/35/f8/1664896238/temp7939-c1-1-500_1_2f6okuijtoxr1g.jpg?ts=1728389731",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/36/35/f8/1664896238/temp7939-c1-1-500_1_2f6okuijtoxr1g.jpg?ts=1728389731",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 188000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot Chronograph . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7939-C1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "725e96e1a435a9eb"
+  },
+  {
+   "id": "BRD-0678/pilot-chronograph-with-light-brown-strap",
+   "name": "Pilot Chronograph . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-Chronograph-with-light-brown-strap",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/76/b7/cf/1664896245/temp7939-c1-2-500_3xuhuhb1xxuyaj.jpg?ts=1728389732",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/76/b7/cf/1664896245/temp7939-c1-2-500_3xuhuhb1xxuyaj.jpg?ts=1728389732",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 188000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot Chronograph . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7939-C1.2"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8c31e690bf72fe0f"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-pvd-s-ls",
+   "name": "Pilot 42 H PVD . S . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-H-PVD-.-S-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/d7/49/30/1664896219/tempua7929-a7-1s-pvdlhjsvd4fqezzu.jpg?ts=1728389732",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/d7/49/30/1664896219/tempua7929-a7-1s-pvdlhjsvd4fqezzu.jpg?ts=1728389732",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 112000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H PVD . S . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7.1S-SW"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7643ef1128431489"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-s-titan-ls",
+   "name": "Pilot 42 H TITAN . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-H-.-S-TITAN-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/4f/a9/34/1664896217/tempua7929-a7-1s-titaneaxjzknkjm6q3.jpg?ts=1728389747",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/4f/a9/34/1664896217/tempua7929-a7-1s-titaneaxjzknkjm6q3.jpg?ts=1728389747",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 106000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H TITAN . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7.1S-TI"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b8ffd03bbe4edcb0"
+  },
+  {
+   "id": "BRD-0678/pilot-42-a-titan-ls",
+   "name": "Pilot 42 A TITAN . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-A-TITAN-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/42/24/0c/1664896222/tempua7929-a5-1-ti_2sqatraldlczsd.jpg?ts=1728389732",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/42/24/0c/1664896222/tempua7929-a5-1-ti_2sqatraldlczsd.jpg?ts=1728389732",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 106000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 A TITAN . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A5.1-TI"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b33512e168c07655"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sw-ls",
+   "name": "OutDoor 39 . SW.LS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-SW-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/03/9a/e6/1664896211/archimede-outdoor-protect-black-dial.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/03/9a/e6/1664896211/archimede-outdoor-protect-black-dial.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SW.LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239-A2.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "117d3c2d988f8ae8"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sw-s",
+   "name": "OutDoor 39 . SW.S",
+   "url": "https://www.archimede-watches.com/OutDoor-39-SW-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/97/98/75/1792485570/archimede-outdoor-protect-black-dial_white_hands.jpg?ts=1792485570",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/97/98/75/1792485570/archimede-outdoor-protect-black-dial_white_hands.jpg?ts=1792485570",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 132000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SW.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239B-A2.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "01beffcee00062b5"
+  },
+  {
+   "id": "BRD-0678/pilot-36-ls-s",
+   "name": "Pilot 36 . LS",
+   "url": "https://www.archimede-watches.com/Pilot-36-.-LS.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/32/62/95/1664896193/archimede-pilot-36-ls-s.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/32/62/95/1664896193/archimede-pilot-36-ls-s.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 36 . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA4929-A1.1S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4dea373e39d78006"
+  },
+  {
+   "id": "BRD-0678/pilot-39-h-s-ldb",
+   "name": "Pilot 39 H . S . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-39-H-.-S-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/6b/52/44/1664896234/temppilot39h-dbr-stzr9mzmmhhyir.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/6b/52/44/1664896234/temppilot39h-dbr-stzr9mzmmhhyir.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 H . S . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A4.3S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5af9e95b3d4aa8fe"
+  },
+  {
+   "id": "BRD-0678/pilot-39-h-s-lhb",
+   "name": "Pilot 39 H . S . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-39-H-.-S-.-LHB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/ec/73/d7/1664896235/temppilot39h-hbr-sp4odvvauymmns.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/ec/73/d7/1664896235/temppilot39h-hbr-sp4odvvauymmns.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 H . S . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A4.2S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "2ab0cbd28de8733d"
+  },
+  {
+   "id": "BRD-0678/klassik-39-sw-ls",
+   "name": "Klassik 39 . SW.LS",
+   "url": "https://www.archimede-watches.com/Klassik-39-SW-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/fc/db/55/1664896219/tempua7969-a3-1-jpeg_1pg5dveehccmiy.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/fc/db/55/1664896219/tempua7969-a3-1-jpeg_1pg5dveehccmiy.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 106000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 39 . SW.LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A3.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9be2e4701ba8ac5f"
+  },
+  {
+   "id": "BRD-0678/klassik-39-si-ls",
+   "name": "Klassik 39 . SI.LS",
+   "url": "https://www.archimede-watches.com/Klassik-39-SI-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/fe/d7/4c/1664896202/ua7969-a3-3.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/fe/d7/4c/1664896202/ua7969-a3-3.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 39 . SI.LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A3.3"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "da76247a0be5ec99"
+  },
+  {
+   "id": "BRD-0678/klassik-39-si-lb",
+   "name": "Klassik 39 . SI.LB",
+   "url": "https://www.archimede-watches.com/Klassik-39-SI-.-LB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/4c/e6/fe/1664896211/ua7969-a3-4.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/4c/e6/fe/1664896211/ua7969-a3-4.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 106000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 39 . SI.LB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A3.4"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "575cef694f852c79"
+  },
+  {
+   "id": "BRD-0678/klassik-39-si-s",
+   "name": "Klassik 39 . SI.S",
+   "url": "https://www.archimede-watches.com/Klassik-39-SI-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/35/9f/g0/1664896253/ua7969b-a3-3.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/35/9f/g0/1664896253/ua7969b-a3-3.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 110000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 39 . SI.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969B-A3.3"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ccc53f30fc7c2ead"
+  },
+  {
+   "id": "BRD-0678/klassik-39-br-lb",
+   "name": "Klassik 39 . BR.LB",
+   "url": "https://www.archimede-watches.com/Klassik-39-BR-.-LB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/dd/27/d4/1664896226/tempua7969-a3-10_4kc6zswxqxytr1.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/dd/27/d4/1664896226/tempua7969-a3-10_4kc6zswxqxytr1.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 106000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 39 . BR.LB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 39,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": 9.9,
+    "waterResistanceM": 50,
+    "caliber": "Sellita SW200-1",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A3.10"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4741469bfcfc4996"
+  },
+  {
+   "id": "BRD-0678/pilot-39-h-s",
+   "name": "Pilot 39 H . S",
+   "url": "https://www.archimede-watches.com/Pilot-39-H-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/32/a2/f5/1664896229/temppilot39h-es-s_1yha9ndoxadoku.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/32/a2/f5/1664896229/temppilot39h-es-s_1yha9ndoxadoku.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 110000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 H . S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969B-A4.1S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b46ec0a645fbeb79"
+  },
+  {
+   "id": "BRD-0678/pilot-chronograph-dlc-sw",
+   "name": "Pilot Chronograph PVD . LS",
+   "url": "https://www.archimede-watches.com/Pilot-Chronograph-DLC-SW",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/0f/c7/6c/1768919896/archimede_Pilot_Chrono_DLC_SW.jpg?ts=1768919896",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/0f/c7/6c/1768919896/archimede_Pilot_Chrono_DLC_SW.jpg?ts=1768919896",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 208000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot Chronograph PVD . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7939-C1.1-AZ"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ff61f43285c24478"
+  },
+  {
+   "id": "BRD-0678/pilot-39-a-l-ls",
+   "name": "Pilot 39 A - L . LS",
+   "url": "https://www.archimede-watches.com/Pilot-39-A-L-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/67/64/ab/1664896222/temp7969l-a5-1_2yxr0h1omemfbj.jpg?ts=1728389733",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/67/64/ab/1664896222/temp7969l-a5-1_2yxr0h1omemfbj.jpg?ts=1728389733",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 A - L . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-L-A5.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "25772c42d8df618a"
+  },
+  {
+   "id": "BRD-0678/pilot-42-a-ro-s",
+   "name": "Pilot 42 A . RO.S",
+   "url": "https://www.archimede-watches.com/Pilot-42-A-.-RO.S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/fd/71/8a/1664896231/tempua7929b-a4-r1oueqjfuxmbzr2.jpg?ts=1728389734",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/fd/71/8a/1664896231/tempua7929b-a4-r1oueqjfuxmbzr2.jpg?ts=1728389734",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 A . RO.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929B-A4.R1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1f42224562a9b16a"
+  },
+  {
+   "id": "BRD-0678/pilot-42-b-s-ls",
+   "name": "Pilot 42 B . S . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-B-.-S-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/3e/67/da/1664896223/temparchimede-pilot42b-s-ls_123isrhy0dapf5.jpg?ts=1728389743",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/3e/67/da/1664896223/temparchimede-pilot42b-s-ls_123isrhy0dapf5.jpg?ts=1728389743",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 B . S . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A9.1S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c4a88ce2e522496c"
+  },
+  {
+   "id": "BRD-0678/pilot-42-b-s-lhb",
+   "name": "Pilot 42 B . S . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-42-B-.-S-.-LHB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/49/9d/a3/1664896227/temparchimede-pilot42b-s-hbrbs9apaz04mkcv.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/49/9d/a3/1664896227/temparchimede-pilot42b-s-hbrbs9apaz04mkcv.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 B . S . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A9.2S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3c9695cd7d1a2d42"
+  },
+  {
+   "id": "BRD-0678/pilot-42-b-s-ldb",
+   "name": "Pilot 42 B . S . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-42-B-.-S-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/3a/65/e1/1664896226/temparchimede-pilot42b-s-dbrojacp9bsn7onq.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/3a/65/e1/1664896226/temparchimede-pilot42b-s-dbrojacp9bsn7onq.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 B . S . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A9.3S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c7843d2814a80e0e"
+  },
+  {
+   "id": "BRD-0678/pilot-42-b-l-s-ls",
+   "name": "Pilot 42 B-L . S . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-B-L-.-S-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/2e/56/fc/1664896223/temparchimede-pilot42b-s-ls-ligqgdblqoaudva.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/2e/56/fc/1664896223/temparchimede-pilot42b-s-ls-ligqgdblqoaudva.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 B-L . S . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A9.1-LS"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "90b14c550b253841"
+  },
+  {
+   "id": "BRD-0678/pilot-36-ls",
+   "name": "Pilot 36-L . LS",
+   "url": "https://www.archimede-watches.com/Pilot-36-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/03/f9/c4/1664896193/archimede-pilot-36-ls.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/03/f9/c4/1664896193/archimede-pilot-36-ls.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 36-L . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA4929-A1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9cd2837352f3d5d1"
+  },
+  {
+   "id": "BRD-0678/pilot-39-h-l-s-ls",
+   "name": "Pilot 39 H-L . S . LS",
+   "url": "https://www.archimede-watches.com/Pilot-39-H-L-.-S-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/5b/42/e9/1664896229/temppilot39h-sw-s-li5fznqyyr99f0u.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/5b/42/e9/1664896229/temppilot39h-sw-s-li5fznqyyr99f0u.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 H-L . S . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "ETA 2824-2",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A4.1-LS"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "019216f48914d43c"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-l-bronze-s-ldb",
+   "name": "Pilot 42 H-L Bronze . S . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-42-H-L-Bronze-.-S-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/82/93/73/1664896227/tempua7929-a7-3s-br-liovbkituykzyr8.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/82/93/73/1664896227/tempua7929-a7-3s-br-liovbkituykzyr8.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 117000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H-L Bronze . S . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7.3S-BR-L"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "0ee0a72a967be35a"
+  },
+  {
+   "id": "BRD-0678/pilot-42-b-s-s",
+   "name": "Pilot 42 B . S . S",
+   "url": "https://www.archimede-watches.com/Pilot-42-B-.-S-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/5e/5b/81/1664896219/temparchimede-pilot42b-s-essvh4nqdgfxnkbw.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/5e/5b/81/1664896219/temparchimede-pilot42b-s-essvh4nqdgfxnkbw.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 110000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 B . S . S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929B-A9.1S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "fb947d8a07d82c10"
+  },
+  {
+   "id": "BRD-0678/sporttaucher-a-sw-s",
+   "name": "SportTaucher A . SW.S",
+   "url": "https://www.archimede-watches.com/SportTaucher-A-.-SW.S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/1c/23/1f/1664896222/tempua8974b-ts-a1-1_1m0hlfpiptocfe.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/1c/23/1f/1664896222/tempua8974b-ts-a1-1_1m0hlfpiptocfe.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "SportTaucher A . SW.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8974B-TS-A1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8da379eeb2bd8bea"
+  },
+  {
+   "id": "BRD-0678/sporttaucher-k-sw-s",
+   "name": "SportTaucher K . SW.S",
+   "url": "https://www.archimede-watches.com/SportTaucher-K-.-SW.S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/2d/d1/ee/1664896221/tempua8974b-ks-a1-1_1rc69gffrle9qt.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/2d/d1/ee/1664896221/tempua8974b-ks-a1-1_1rc69gffrle9qt.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "SportTaucher K . SW.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8974B-KS-A1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "725625401eafcf33"
+  },
+  {
+   "id": "BRD-0678/sporttaucher-a-swor-s",
+   "name": "SportTaucher A . SWOR.S",
+   "url": "https://www.archimede-watches.com/SportTaucher-A-.-SWOR.S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/43/10/fa/1664896223/tempua8974b-ts-a4-1_16waw5pbimeayr.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/43/10/fa/1664896223/tempua8974b-ts-a4-1_16waw5pbimeayr.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "SportTaucher A . SWOR.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8974B-TS-A4.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8c0d1f34a261fdf3"
+  },
+  {
+   "id": "BRD-0678/sporttaucher-gmt-sw-s",
+   "name": "SportTaucher GMT . SW.S",
+   "url": "https://www.archimede-watches.com/SportTaucher-GMT-.-SW.S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/f9/75/57/1664896221/tempua8974b-gs-a1-1-neuvikw86hyfpgxe.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/f9/75/57/1664896221/tempua8974b-gs-a1-1-neuvikw86hyfpgxe.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 106000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "SportTaucher GMT . SW.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8974B-GS-A1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5fd2c6b569d698cd"
+  },
+  {
+   "id": "BRD-0678/pilot-39-h-bronze-s-lhb",
+   "name": "Pilot 39 H Bronze . S . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-39-H-Bronze-.-S-.-LHB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/48/51/05/1664896225/tempua7969-a4-2s-brpv6849h63n5bc.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/48/51/05/1664896225/tempua7969-a4-2s-brpv6849h63n5bc.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 H Bronze . S . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A4.2S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8f3a366948224e9c"
+  },
+  {
+   "id": "BRD-0678/pilot-39-h-bronze-s-ldb",
+   "name": "Pilot 39 H Bronze . S . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-39-H-Bronze-.-S-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/fa/1e/a1/1664896224/tempua7969-a4-3s-bre9halhobswitw.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/fa/1e/a1/1664896224/tempua7969-a4-3s-bre9halhobswitw.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 H Bronze . S . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A4.3S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a02f25868902db76"
+  },
+  {
+   "id": "BRD-0678/pilot-39-h-bronze-s-ls",
+   "name": "Pilot 39 H Bronze . S . LS",
+   "url": "https://www.archimede-watches.com/Pilot-39-H-Bronze-.-S-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/2b/4a/97/1664896221/tempua7969-a4-1s-brwosk4ytzyccgp.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/2b/4a/97/1664896221/tempua7969-a4-1s-brwosk4ytzyccgp.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 H Bronze . S . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A4.1S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "fd15bb54c30d7998"
+  },
+  {
+   "id": "BRD-0678/pilot-42-l-ls",
+   "name": "Pilot 42 L . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-L-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/63/8f/c2/1664896221/tempua7929-a5-1-lx9wuapogd6chy.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/63/8f/c2/1664896221/tempua7929-a5-1-lx9wuapogd6chy.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 L . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A5.1-L"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b400a61a12c1bbca"
+  },
+  {
+   "id": "BRD-0678/klassik-39-si-m",
+   "name": "Klassik 39 . SI.M",
+   "url": "https://www.archimede-watches.com/Klassik-39-SI-.-M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/0c/1c/1f/1664896212/ua7969bm-a3-3.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/0c/1c/1f/1664896212/ua7969bm-a3-3.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 114000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 39 . SI.M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969BM-A3.3"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b18756c8f16038b5"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sw-sil",
+   "name": "OutDoor 39 . SW.SILIKON",
+   "url": "https://www.archimede-watches.com/OutDoor-39-SW-.-SIL",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/63/b0/38/1792486336/archimede-outdoor-protect-black-dial-black_date-silicone_(1).jpg?ts=1792486336",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/63/b0/38/1792486336/archimede-outdoor-protect-black-dial-black_date-silicone_(1).jpg?ts=1792486336",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 122000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SW.SILIKON online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239S-A2.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "65eb2c76049e53ae"
+  },
+  {
+   "id": "BRD-0678/klassik-chronograph-si-m",
+   "name": "Klassik Chronograph . SI.M",
+   "url": "https://www.archimede-watches.com/Klassik-Chronograph-.-SI.M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/20/1f/e2/1664896241/temparachimede-klassik-chronograph-si-milanaisecophewsmstjiz.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/20/1f/e2/1664896241/temparachimede-klassik-chronograph-si-milanaisecophewsmstjiz.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 214000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik Chronograph . SI.M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7939BM-C2.41"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "0de3d9fac85ffd39"
+  },
+  {
+   "id": "BRD-0678/klassik-chronograph-sw-m",
+   "name": "Klassik Chronograph . SW.M",
+   "url": "https://www.archimede-watches.com/Klassik-Chronograph-.-SW.M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/ef/68/3c/1664896239/temparachimede-klassik-chronograph-sw-milanaise4fsc8ur2jbcdu.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/ef/68/3c/1664896239/temparachimede-klassik-chronograph-sw-milanaise4fsc8ur2jbcdu.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 214000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik Chronograph . SW.M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7939BM-C2.31"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1bf21b06e0b4a9e5"
+  },
+  {
+   "id": "BRD-0678/pilot-45-a-s-m",
+   "name": "Pilot 45 A . S.M",
+   "url": "https://www.archimede-watches.com/Pilot-45-A-.-S.M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/e5/56/66/1664896247/temparchimede-pilot45-aut-milanaise-sthi4h6andjb38.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/e5/56/66/1664896247/temparchimede-pilot45-aut-milanaise-sthi4h6andjb38.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 127000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 45 A . S.M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7949BM-AS1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9b77be584a9a5c4d"
+  },
+  {
+   "id": "BRD-0678/klassik-42-g-ls",
+   "name": "Klassik 42 G . LS",
+   "url": "https://www.archimede-watches.com/Klassik-42-G-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/e8/7d/9d/1664896234/tempua7929-a2-18_7gu9xkdk5aaekd.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/e8/7d/9d/1664896234/tempua7929-a2-18_7gu9xkdk5aaekd.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 42 G . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A2.18"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d3a9dc3f01808228"
+  },
+  {
+   "id": "BRD-0678/klassik-42-g-lbl",
+   "name": "Klassik 42 G . LBL",
+   "url": "https://www.archimede-watches.com/Klassik-42-G-.-LBL",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/0c/58/4b/1664896237/tempua7929-a2-20_2zjhj1jvpvonm3.jpg?ts=1728389736",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/0c/58/4b/1664896237/tempua7929-a2-20_2zjhj1jvpvonm3.jpg?ts=1728389736",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 42 G . LBL online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A2.20"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ad4658068d43d33b"
+  },
+  {
+   "id": "BRD-0678/klassik-42-g-m",
+   "name": "Klassik 42 G . M",
+   "url": "https://www.archimede-watches.com/Klassik-42-G-.-M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/99/d8/c5/1664896238/tempua7929bm-a2-18_1tfzfrfjwysrcm.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/99/d8/c5/1664896238/tempua7929bm-a2-18_1tfzfrfjwysrcm.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 90000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 42 G . M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929BM-A2.18"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a3b6e2b32a72056a"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-chronometer-ls",
+   "name": "Pilot 42 H Chronometer . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-H-Chronometer-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/49/fc/d8/1664896243/tempua7929-a7-1_1vksprilxvxny6.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/49/fc/d8/1664896243/tempua7929-a7-1_1vksprilxvxny6.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 110000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H Chronometer . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7.1-CM"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c3f7426679642f54"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-chronometer-ldb",
+   "name": "Pilot 42 H Chronometer . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-42-H-Chronometer-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/fd/7f/fe/1664896246/tempua7929-a7-3_1u1uzhkhdo3ydh.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/fd/7f/fe/1664896246/tempua7929-a7-3_1u1uzhkhdo3ydh.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 110000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H Chronometer . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7.3-CM"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d777f0bde887fe9d"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-chronometer-lhb",
+   "name": "Pilot 42 H Chronometer . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-42-H-Chronometer-.-LHB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/89/2b/c2/1664896252/tempua7929-a7-2_2vgvvpvzntp05f.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/89/2b/c2/1664896252/tempua7929-a7-2_2vgvvpvzntp05f.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 110000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H Chronometer . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7.2-CM"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9e2eb77dd923fefc"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-chronometer-s",
+   "name": "Pilot 42 H Chronometer . S",
+   "url": "https://www.archimede-watches.com/Pilot-42-H-Chronometer-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/99/4e/07/1664896247/tempua7929b-a7-1_1ccam2lmdb5wze.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/99/4e/07/1664896247/tempua7929b-a7-1_1ccam2lmdb5wze.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 122000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H Chronometer . S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929B-A7.1-CM"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1225e926cf64d713"
+  },
+  {
+   "id": "BRD-0678/pilot-42-chronometer-ls",
+   "name": "Pilot 42 Chronometer . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-Chronometer-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/11/ea/cc/1664896222/tempua7929-a5-1_1fxgqixumichsp.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/11/ea/cc/1664896222/tempua7929-a5-1_1fxgqixumichsp.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 106000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 Chronometer . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A5.1-CM"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a962ccabb6a19637"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-chronometer-m",
+   "name": "Pilot 42 H Chronometer . M",
+   "url": "https://www.archimede-watches.com/Pilot-42-H-Chronometer-.-M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/b8/c4/9e/1664896254/temp7929bm-a7-1-4zu1_1lqusj1glr13pl.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/b8/c4/9e/1664896254/temp7929bm-a7-1-4zu1_1lqusj1glr13pl.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 119500,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H Chronometer . M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929BM-A7.1-CM"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "8d9a28c3f52327c7"
+  },
+  {
+   "id": "BRD-0678/klassik-42-g-lb",
+   "name": "Klassik 42 G . LB",
+   "url": "https://www.archimede-watches.com/Klassik-42-G-.-LB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/55/5b/a3/1664896237/tempua7929-a2-19_2zgdfe72qb5mkz.jpg?ts=1728389737",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/55/5b/a3/1664896237/tempua7929-a2-19_2zgdfe72qb5mkz.jpg?ts=1728389737",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 42 G . LB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A2.19"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "df4ad80c8797ef38"
+  },
+  {
+   "id": "BRD-0678/pilot-42-a-pvd-ls",
+   "name": "Pilot 42 A PVD . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-A-PVD-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/1d/b1/d6/1664896226/tempua7929-a5-1-sw_1y59jl6vpf5o48.jpg?ts=1728389737",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/1d/b1/d6/1664896226/tempua7929-a5-1-sw_1y59jl6vpf5o48.jpg?ts=1728389737",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 112000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 A PVD . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A5.1-SW"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c205793b90521450"
+  },
+  {
+   "id": "BRD-0678/1950-1-si-s",
+   "name": "1950-1 . SI.S",
+   "url": "https://www.archimede-watches.com/1950-1-.-SI.S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/a5/2c/43/1664896225/tempua8069b-a1-1_2jk5kodtecopnb.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/a5/2c/43/1664896225/tempua8069b-a1-1_2jk5kodtecopnb.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "1950-1 . SI.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8069-A1.SI-B"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6c3fe35962db4fbc"
+  },
+  {
+   "id": "BRD-0678/1950-1-sw-s",
+   "name": "1950-1 . SW.S",
+   "url": "https://www.archimede-watches.com/1950-1-.-SW.S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/10/da/71/1664896224/tempua8069b-a2-1_1oyp9g3axzjtcx.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/10/da/71/1664896224/tempua8069b-a2-1_1oyp9g3axzjtcx.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 72000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "1950-1 . SW.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8069-A1.SW-B"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1f10b795e1845c58"
+  },
+  {
+   "id": "BRD-0678/pilot-39-h-bronze-s-v",
+   "name": "Pilot 39 H Bronze . S . V",
+   "url": "https://www.archimede-watches.com/Pilot-39-H-Bronze-.-S-.-V",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/91/fc/59/1664896226/tempua7969-a4-5s-brpulyqiofws0o8.jpg?ts=1728389737",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/91/fc/59/1664896226/tempua7969-a4-5s-brpulyqiofws0o8.jpg?ts=1728389737",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 H Bronze . S . V online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A4.5S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7771a889434ec31b"
+  },
+  {
+   "id": "BRD-0678/sporttaucher-a-bl-m",
+   "name": "SportTaucher A . BL.M",
+   "url": "https://www.archimede-watches.com/SportTaucher-A-.-BL.M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/b7/ae/8e/1664896234/temparchimede-sporttaucher-blau-60-milanaiseiyst1whva03ao.jpg?ts=1728389737",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/b7/ae/8e/1664896234/temparchimede-sporttaucher-blau-60-milanaiseiyst1whva03ao.jpg?ts=1728389737",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 120000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "SportTaucher A . BL.M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8974BM-TB-A5.5"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "5c49a3bd6cb85fbc"
+  },
+  {
+   "id": "BRD-0678/deckwatch-a-si-s",
+   "name": "DeckWatch A . SI.S",
+   "url": "https://www.archimede-watches.com/DeckWatch-A-.-SI.S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/b6/b0/b1/1664896238/tempua7952b-h5-1_3qr3ehhp8qqpge.jpg?ts=1722231460",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/b6/b0/b1/1664896238/tempua7952b-h5-1_3qr3ehhp8qqpge.jpg?ts=1722231460",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 110000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "DeckWatch A . SI.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929B-H1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9bbe69730e2898ea"
+  },
+  {
+   "id": "BRD-0678/pilot-42-b-bronze-s-ls",
+   "name": "Pilot 42 B Bronze . S. LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-B-Bronze-.-S.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/38/73/45/1664896226/temparchimede-pilot42b-s-ls-bronzeiny1ep0mev7mk.jpg?ts=1728389738",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/38/73/45/1664896226/temparchimede-pilot42b-s-ls-bronzeiny1ep0mev7mk.jpg?ts=1728389738",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 B Bronze . S. LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A9.1S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "a194d54d43f6f8b9"
+  },
+  {
+   "id": "BRD-0678/pilot-42-b-bronze-s-ldb",
+   "name": "Pilot 42 B Bronze . S . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-42-B-Bronze-.-S-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/fe/be/e5/1664896229/temparchimede-pilot42b-s-dbr-bronzey9psbt8dj1gc3.jpg?ts=1728389738",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/fe/be/e5/1664896229/temparchimede-pilot42b-s-dbr-bronzey9psbt8dj1gc3.jpg?ts=1728389738",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 B Bronze . S . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A9.3S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ca606d006dfe56b9"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-we-s",
+   "name": "OutDoor 39 . WE.S",
+   "url": "https://www.archimede-watches.com/OutDoor-39-WE-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/25/27/1c/1664896196/tempua8239b-a7-1-hvp7231ehiteyp.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/25/27/1c/1664896196/tempua8239b-a7-1-hvp7231ehiteyp.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . WE.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239B-A7.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "148b06fb8aede1aa"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-we-sil",
+   "name": "OutDoor 39 . WE.SILIKON",
+   "url": "https://www.archimede-watches.com/OutDoor-39-WE-.-SIL",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/92/ff/63/1664896195/tempua8239s-a7-1-hpxwl6vaesp7ot.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/92/ff/63/1664896195/tempua8239s-a7-1-hpxwl6vaesp7ot.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 98000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . WE.SILIKON online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239S-A7.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "dd3aebc89ed85ff0"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-we-ls",
+   "name": "OutDoor 39 . WE.LS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-WE-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/eb/g0/41/1664896200/tempua8239-a7-1-h4unqmmhcs9kc9.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/eb/g0/41/1664896200/tempua8239-a7-1-h4unqmmhcs9kc9.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . WE.LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239-A7.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b25162c98b6b64bd"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-ro-s",
+   "name": "OutDoor 39 . RO.S",
+   "url": "https://www.archimede-watches.com/OutDoor-39-RO-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/7b/11/e7/1664896206/tempua8239b-a6-1-hamarqbjuqamvp.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/7b/11/e7/1664896206/tempua8239b-a6-1-hamarqbjuqamvp.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 132000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . RO.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239B-A6.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6e669b52fe1b29ea"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-ro-sil",
+   "name": "OutDoor 39 . RO.SILIKON",
+   "url": "https://www.archimede-watches.com/OutDoor-39-RO-.-SIL",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/fe/28/31/1664896200/tempua8239s-a6-1-hwqpd26snzws7h.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/fe/28/31/1664896200/tempua8239s-a6-1-hwqpd26snzws7h.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 98000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . RO.SILIKON online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239S-A6.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ab89871f11ceff6c"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-ro-ls",
+   "name": "OutDoor 39 . RO.LS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-RO-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/aa/21/0d/1664896223/archimede-outdoor-protect-red-dial.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/aa/21/0d/1664896223/archimede-outdoor-protect-red-dial.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . RO.LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239-A6.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c059d1c241e1a79b"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sw-f",
+   "name": "OutDoor 39 . SW.F",
+   "url": "https://www.archimede-watches.com/OutDoor-39-SW-.-F",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/ca/5f/b8/1664896211/tempua8239f-a2-1-h_1tseqy0sbx5s1e.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/ca/5f/b8/1664896211/tempua8239f-a2-1-h_1tseqy0sbx5s1e.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 98000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SW.F online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239F-A2.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d044e90ce6b0719d"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-we-f",
+   "name": "OutDoor 39 . WE.F",
+   "url": "https://www.archimede-watches.com/OutDoor-39-WE-.-F",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/81/84/bb/1664896198/tempua8239f-a7-1-h99d5h2i0ju9zu.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/81/84/bb/1664896198/tempua8239f-a7-1-h99d5h2i0ju9zu.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 98000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . WE.F online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239F-A7.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1fba83e5856ce36f"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-ro-f",
+   "name": "OutDoor 39 . RO.F",
+   "url": "https://www.archimede-watches.com/OutDoor-39-RO-.-F",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/3c/f8/18/1664896206/tempua8239f-a6-1-htle3kkvaevjhk.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/3c/f8/18/1664896206/tempua8239f-a6-1-htle3kkvaevjhk.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 98000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . RO.F online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239F-A6.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "87c54f73810f7944"
+  },
+  {
+   "id": "BRD-0678/sporttaucher-bronze-trbr-sw-sk-zm",
+   "name": "SportTaucher Bronze . TRBR.SW.SK",
+   "url": "https://www.archimede-watches.com/SportTaucher-Bronze-.-TRBR.SW.SK-.-ZM",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/41/45/84/1664896224/ua8974-ts-a1-5-zm-bronze-60-zm.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/41/45/84/1664896224/ua8974-ts-a1-5-zm-bronze-60-zm.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 122000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "SportTaucher Bronze . TRBR.SW.SK online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8974-TBR-A1.2-BR-ZM"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "1d988c118a6b063f"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-schwarzwald-ls",
+   "name": "OutDoor 39 . OL.LS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-SchwarzWald-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/38/2d/4d/1664896216/archimede-outdoor-protect-green-dial.jpg?ts=1728389747",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/38/2d/4d/1664896216/archimede-outdoor-protect-green-dial.jpg?ts=1728389747",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . OL.LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239-A4.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "54b1bf6fdbf9f657"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-schwarzwald-s",
+   "name": "OutDoor 39 . OL.S",
+   "url": "https://www.archimede-watches.com/OutDoor-39-SchwarzWald-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/d9/21/a3/1664896210/tempua8239b-a-olive-ff_3qbuijo1jnyoa2.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/d9/21/a3/1664896210/tempua8239b-a-olive-ff_3qbuijo1jnyoa2.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . OL.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239B-A4.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7bc7b8a18efcebe5"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sahara-s",
+   "name": "OutDoor 39 . SA.S",
+   "url": "https://www.archimede-watches.com/OutDoor-39-Sahara-.-S",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/eb/a2/45/1664896220/tempua8239b-sand-ff_3uhz6intdaqilo.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/eb/a2/45/1664896220/tempua8239b-sand-ff_3uhz6intdaqilo.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SA.S online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239B-A5.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7b08a65f6b255945"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sahara-f",
+   "name": "OutDoor 39 . SA.F",
+   "url": "https://www.archimede-watches.com/OutDoor-39-Sahara-.-F",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/d8/cd/99/1664896219/tempua8239f-a-sand-ff_23vxrult2gqqcu.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/d8/cd/99/1664896219/tempua8239f-a-sand-ff_23vxrult2gqqcu.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 98000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SA.F online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239F-A5.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9bb452f0f836d0f1"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sahara-lb",
+   "name": "OutDoor 39 . SA.LS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-Sahara-.-LB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/d0/a9/90/1664896226/es-zbkal-lbbraun.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/d0/a9/90/1664896226/es-zbkal-lbbraun.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SA.LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239-A5.2-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "de86acd4599962c4"
+  },
+  {
+   "id": "BRD-0678/klassik-36-si-m",
+   "name": "Klassik 36 . SI.M",
+   "url": "https://www.archimede-watches.com/Klassik-36-.-SI.M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/a3/38/47/1664896208/tempua4929bm-a3-10xgw0mfufspwfx.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/a3/38/47/1664896208/tempua4929bm-a3-10xgw0mfufspwfx.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 90000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 36 . SI.M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA4929BM-A3.10"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7fd7ec4ef179a174"
+  },
+  {
+   "id": "BRD-0678/klassik-36-sw-m",
+   "name": "Klassik 36 . SW.M",
+   "url": "https://www.archimede-watches.com/Klassik-36-.-SW.M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/77/aa/69/1664896201/tempua4929bm-a3-165bhhbzey2g0z.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/77/aa/69/1664896201/tempua4929bm-a3-165bhhbzey2g0z.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 90000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 36 . SW.M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA4929BM-A3.20"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3de0279b5aefc228"
+  },
+  {
+   "id": "BRD-0678/pilot-42-a-ls",
+   "name": "Pilot 42 A . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-A-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/d2/26/64/1664896222/temparchimede-pilot42-datumhkhpmwjwqkuzw.jpg?ts=1728389743",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/d2/26/64/1664896222/temparchimede-pilot42-datumhkhpmwjwqkuzw.jpg?ts=1728389743",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 A . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A1.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6ce8f007ff90f9ad"
+  },
+  {
+   "id": "BRD-0678/pilot-42-a-lhb",
+   "name": "Pilot 42 A . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-42-A-.-LHB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/fd/3a/00/1664896224/temparchimede-pilot42-datum-braunes-band_2awktvb87by31v.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/fd/3a/00/1664896224/temparchimede-pilot42-datum-braunes-band_2awktvb87by31v.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 A . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A1.2"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "80bd76bd7dc1abcb"
+  },
+  {
+   "id": "BRD-0678/pilot-42-a-ldb",
+   "name": "Pilot 42 A . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-42-A-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/bf/a3/77/1664896223/temparchimede-pilot42-datum-dunkelbraunes-band_3z2vwyvdh0zj5h.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/bf/a3/77/1664896223/temparchimede-pilot42-datum-dunkelbraunes-band_3z2vwyvdh0zj5h.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 A . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A1.3"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "99617afbd5206818"
+  },
+  {
+   "id": "BRD-0678/pilot-42-a-bronze-ls",
+   "name": "Pilot 42 A Bronze . LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-A-Bronze-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/a5/c2/a9/1664896224/tempua7929-a1-1-br_1nohxyj7letk42.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/a5/c2/a9/1664896224/tempua7929-a1-1-br_1nohxyj7letk42.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 A Bronze . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A1.1-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3425101ad17ac22c"
+  },
+  {
+   "id": "BRD-0678/pilot-42-a-bronze-lhb",
+   "name": "Pilot 42 A Bronze . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-42-A-Bronze-.-LHB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/3f/b7/1c/1664896227/tempua7929-a1-2-br_2sljmzlraxsne8.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/3f/b7/1c/1664896227/tempua7929-a1-2-br_2sljmzlraxsne8.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 A Bronze . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A1.2-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "97889441ddee799a"
+  },
+  {
+   "id": "BRD-0678/pilot-39-a-ldb",
+   "name": "Pilot 39 A . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-39-A-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/b2/06/dc/1664896221/tempua7969-a13_2zyy8g06eniupa.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/b2/06/dc/1664896221/tempua7969-a13_2zyy8g06eniupa.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 A . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A1.3"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "627c3e1f9af1456b"
+  },
+  {
+   "id": "BRD-0678/pilot-39-a-bronze-ls",
+   "name": "Pilot 39 A Bronze . LS",
+   "url": "https://www.archimede-watches.com/Pilot-39-A-Bronze-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/5e/30/ae/1664896222/tempua7969-a1-1-br-sw_1t2jwluyuhbesf.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/5e/30/ae/1664896222/tempua7969-a1-1-br-sw_1t2jwluyuhbesf.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 A Bronze . LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A1.1-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d3c1c2c2d4b81365"
+  },
+  {
+   "id": "BRD-0678/pilot-39-a-bronze-lhb",
+   "name": "Pilot 39 A Bronze . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-39-A-Bronze-.-LHB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/a7/43/1c/1664896226/tempua7969-a1-2-br-hbr_1cmnexk98nen3k.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/a7/43/1c/1664896226/tempua7969-a1-2-br-hbr_1cmnexk98nen3k.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 116000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 39 A Bronze . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7969-A1.2-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "4d499a6c00c5d37c"
+  },
+  {
+   "id": "BRD-0678/pilot-42-hw-ks-s-ldb",
+   "name": "Pilot 42 HW . KS . S. LDB",
+   "url": "https://www.archimede-watches.com/Pilot-42-HW-.-KS-.-S-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/46/90/cd/1664896219/ua7929-h2-3-s.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/46/90/cd/1664896219/ua7929-h2-3-s.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 111000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 HW . KS . S. LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-H2.3-OB"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "06f45097631043f8"
+  },
+  {
+   "id": "BRD-0678/pilot-42-hw-ks-s-v",
+   "name": "Pilot 42 HW . KS . S. V",
+   "url": "https://www.archimede-watches.com/Pilot-42-HW-.-KS-.-S.-V",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/a3/7f/15/1664896223/ua7929-h2-5-s.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/a3/7f/15/1664896223/ua7929-h2-5-s.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 94000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 HW . KS . S. V online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-H2.5S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "ca46cc8632394a07"
+  },
+  {
+   "id": "BRD-0678/pilot-42-handaufzug-bronze-s-ldb",
+   "name": "Pilot 42 Handaufzug Bronze . S . LDB",
+   "url": "https://www.archimede-watches.com/Pilot-42-Handaufzug-Bronze-.-S-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/92/95/be/1664896226/ua7929-h2-3s-br.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/92/95/be/1664896226/ua7929-h2-3s-br.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 131000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 Handaufzug Bronze . S . LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-H2.3S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "827ba2072bb2d4a6"
+  },
+  {
+   "id": "BRD-0678/pilot-42-handaufzug-bronze-s-lhb",
+   "name": "Pilot 42 Handaufzug Bronze . S . LHB",
+   "url": "https://www.archimede-watches.com/Pilot-42-Handaufzug-Bronze-.-S-.-LHB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/b3/b3/e3/1664896227/ua7929-h2-2s-br.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/b3/b3/e3/1664896227/ua7929-h2-2s-br.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 139000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 Handaufzug Bronze . S . LHB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-H2.2S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b08147e29fec327a"
+  },
+  {
+   "id": "BRD-0678/pilot-42-handaufzug-bronze-s-v",
+   "name": "Pilot 42 Handaufzug Bronze . S.V",
+   "url": "https://www.archimede-watches.com/Pilot-42-Handaufzug-Bronze-.-S.V",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/30/f8/d5/1664896229/ua7929-h2-5s-br.jpg?ts=1722231461",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/30/f8/d5/1664896229/ua7929-h2-5s-br.jpg?ts=1722231461",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 114000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 Handaufzug Bronze . S.V online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Eta 6498",
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-H2.5S-BR"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "814efd396581ef1d"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-bl-f",
+   "name": "OutDoor 39 . BL.F",
+   "url": "https://www.archimede-watches.com/OutDoor-39-BL-.-F",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/72/50/a4/1664896218/tempua8239f-a3-1-h4vjutmuf0nnsn.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/72/50/a4/1664896218/tempua8239f-a3-1-h4vjutmuf0nnsn.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . BL.F online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239F-A3.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3d3058e224c4fc80"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-bl-sil",
+   "name": "OutDoor 39 . BL.SILIKON",
+   "url": "https://www.archimede-watches.com/OutDoor-39-BL-.-SIL",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/73/c6/42/1664896216/tempua8239s-a3-1-hddmzfnoezunpv.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/73/c6/42/1664896216/tempua8239s-a3-1-hddmzfnoezunpv.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . BL.SILIKON online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239S-A3.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b3f8d95c7e4d3e8a"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-bl-ls",
+   "name": "OutDoor 39 . BL.LS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-BL-.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/bd/90/a9/1664896223/archimede-outdoor-protect-blue-dial.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/bd/90/a9/1664896223/archimede-outdoor-protect-blue-dial.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . BL.LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239-A3.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "08af66f813c79777"
+  },
+  {
+   "id": "BRD-0678/pilot-42b-hw-s-ldb",
+   "name": "Pilot 42B . HW . S .LDB",
+   "url": "https://www.archimede-watches.com/Pilot-42B-.-HW-.-S-.-LDB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/dc/ce/13/1664896226/archimede-pilot42b-s-dbr.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/dc/ce/13/1664896226/archimede-pilot42b-s-dbr.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42B . HW . S .LDB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-H6.3S"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d9e61b14e3122f00"
+  },
+  {
+   "id": "BRD-0678/pilot-42b-hw-m",
+   "name": "Pilot 42B . HW . M",
+   "url": "https://www.archimede-watches.com/Pilot-42B-.-HW-.-M",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/b9/b3/84/1664896227/temppilot42b-milanaise_1fjaluieaieo7u.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/b9/b3/84/1664896227/temppilot42b-milanaise_1fjaluieaieo7u.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 114000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42B . HW . M online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929BM-H6.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "f76ed874cc3383cd"
+  },
+  {
+   "id": "BRD-0678/klassik-36-go-si-v",
+   "name": "Klassik 36 GO . SI.V",
+   "url": "https://www.archimede-watches.com/Klassik-36-GO-.-SI.V",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/f7/7b/9d/1664896217/tempgo-si-wllb-sand5swcmqcgqqbhz.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/f7/7b/9d/1664896217/tempgo-si-wllb-sand5swcmqcgqqbhz.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 106000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 36 GO . SI.V online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA4929-A3.37-G5"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c220445bff3f6871"
+  },
+  {
+   "id": "BRD-0678/klassik-36-go-sw-v",
+   "name": "Klassik 36 GO . SW.V",
+   "url": "https://www.archimede-watches.com/Klassik-36-GO-.-SW.V",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/f4/66/39/1664896218/tempgo-sw-wllb-sandbhcw90tuauhqv.jpg?ts=1728389739",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/f4/66/39/1664896218/tempgo-sw-wllb-sandbhcw90tuauhqv.jpg?ts=1728389739",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 36 GO . SW.V online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA4929-A3.47-G5"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "88f910a52c2f168a"
+  },
+  {
+   "id": "BRD-0678/klassik-36-si-v",
+   "name": "Klassik 36 . SI.V",
+   "url": "https://www.archimede-watches.com/Klassik-36-.-SI.V",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/b7/b9/dc/1664896205/tempes-si-wllb-sandlxddt1ifsaqbg.jpg?ts=1728389740",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/b7/b9/dc/1664896205/tempes-si-wllb-sandlxddt1ifsaqbg.jpg?ts=1728389740",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Klassik 36 . SI.V online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA4929-A3.37"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "3628342399e34a4d"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sahara-o",
+   "name": "OutDoor 39 . SA . CANVAS.O",
+   "url": "https://www.archimede-watches.com/OutDoor-39-Sahara-.-O",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/e8/3e/41/1664896223/tempoutdoor-olive-canvaskdlfrpt4cwooe.jpg?ts=1728389740",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/e8/3e/41/1664896223/tempoutdoor-olive-canvaskdlfrpt4cwooe.jpg?ts=1728389740",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SA . CANVAS.O online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239CA-A5.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6036325c11ebc692"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-we-lb-s-o",
+   "name": "OutDoor 39 . WE.LB",
+   "url": "https://www.archimede-watches.com/OutDoor-39-WE-.-LB-.-S-.O",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/f0/51/a5/1711527910/archimede-outdoor-protect-white-brown-leather-strap_orange.jpg?ts=1728389740",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/f0/51/a5/1711527910/archimede-outdoor-protect-white-brown-leather-strap_orange.jpg?ts=1728389740",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . WE.LB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239-A7.3-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c0b677a3b611489a"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-sw-can",
+   "name": "OutDoor 39 . SW . CANVAS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-SW-.-CAN",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/91/e9/d1/1664896216/tempes-zbsw-canvas-swfn9x38gvhggwu.jpg?ts=1728389740",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/91/e9/d1/1664896216/tempes-zbsw-canvas-swfn9x38gvhggwu.jpg?ts=1728389740",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . SW . CANVAS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239CA-A2.2-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "515646ff8a7f70a9"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-bl-can",
+   "name": "OutDoor 39 . BL . CANVAS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-BL-.-CAN",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/12/06/46/1664896223/tempes-zbdon-canvas-swwfy0zsfwg39ju.jpg?ts=1728389740",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/12/06/46/1664896223/tempes-zbdon-canvas-swwfy0zsfwg39ju.jpg?ts=1728389740",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . BL . CANVAS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239CA-A3.2-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "b9fc91e0a70c8a15"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-ro-can",
+   "name": "OutDoor 39 . RO . CANVAS",
+   "url": "https://www.archimede-watches.com/OutDoor-39-RO-.-CAN",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/79/a1/a3/1664896225/tempes-zbstromb-canvas-swmi4hrbctzoejg.jpg?ts=1728389740",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/79/a1/a3/1664896225/tempes-zbstromb-canvas-swmi4hrbctzoejg.jpg?ts=1728389740",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . RO . CANVAS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239CA-A6.2-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "df6216190d286f8b"
+  },
+  {
+   "id": "BRD-0678/outdoor-39-schwarzwald-o",
+   "name": "OutDoor 39 . OL . CANVAS.O",
+   "url": "https://www.archimede-watches.com/OutDoor-39-SchwarzWald-.-O",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/51/cb/e7/1664896219/tempes-zbol-canvas-olive5wedi258fwgbi.jpg?ts=1728389740",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/51/cb/e7/1664896219/tempes-zbol-canvas-olive5wedi258fwgbi.jpg?ts=1728389740",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 104000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "OutDoor 39 . OL . CANVAS.O online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA8239CA-A4.1-H"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "bd66f9e10639a351"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-bl-ls",
+   "name": "Pilot 42 H. BL. LS",
+   "url": "https://www.archimede-watches.com/Pilot-42-H.-BL.-LS",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/e1/ae/bd/1664896227/temp44hrt6tr4tpsapbw.jpg?ts=1728389740",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/e1/ae/bd/1664896227/temp44hrt6tr4tpsapbw.jpg?ts=1728389740",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H. BL. LS online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7B.1"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7b6a1b7567251437"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-bl-lsb",
+   "name": "Pilot 42 H. BL. LSB",
+   "url": "https://www.archimede-watches.com/Pilot-42-H.-BL.-LSB",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/4f/f6/e2/1664896229/temp33h9lyqlm4vo1cbq.jpg?ts=1728389741",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/4f/f6/e2/1664896229/temp33h9lyqlm4vo1cbq.jpg?ts=1728389741",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H. BL. LSB online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7B.7"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "98addf8f4c56bcc2"
+  },
+  {
+   "id": "BRD-0678/pilot-42-h-bl-b",
+   "name": "Pilot 42 H. BL. B",
+   "url": "https://www.archimede-watches.com/Pilot-42-H.-BL.-B",
+   "image": {
+    "url": "https://www.archimede-watches.com/media/99/12/a8/1664896227/temp55h2mt9xbai21j2v.jpg?ts=1728389741",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://www.archimede-watches.com/media/99/12/a8/1664896227/temp55h2mt9xbai21j2v.jpg?ts=1728389741",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 96000,
+   "currency": "EUR",
+   "availability": "unknown",
+   "description": "Pilot 42 H. BL. B online bestellen bei Archimede Uhren, der Uhrenmarke für anspruchsvolle Kunden weltweit - Deutsche Präzision seit 1924✓ Hochwertige Automatik- und Handaufzugsuhren✓",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "Product number": "UA7929-A7B.6"
+   },
+   "soldOut": null,
+   "available": null,
+   "availabilityCheckedAt": "2026-11-03T23:13:43.898Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:13:43.898Z",
+     "availability": "unknown"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "c22515d3605e1c7a"
+  }
+ ],
  "collections": []
 }

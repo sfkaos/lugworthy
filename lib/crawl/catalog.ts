@@ -3,6 +3,7 @@
 // through the sitemap / homepage. Every watch's detail page is then read for the
 // full spec list, description, variants and whether it is sold out.
 
+import { gunzipSync } from "node:zlib";
 import { createHash } from "node:crypto";
 import {
   caliberName, extractSpecsFromText, slugify, toCaseMaterial, toCrystal, toDialColor, toHours, toMinorUnits, toMovementType, toStrapType,
@@ -10,6 +11,7 @@ import {
 import { finishCollections, listingLinks, normUrl, parseListing, shopifyCollections, wooCollections, type Collection, type CollectionDraft, type WooCategoryRef } from "./collections";
 import { type Availability, extractDetail, schemaAvailability } from "./detail";
 import { allowedGet, getRobots, politeGet, robotsAllowsPath, type FetchResult } from "./fetch";
+import { fetchSquareProducts, isSquareSite, squareFields, squareIds, squareStorePages, type SquareProduct } from "./square";
 import { absUrl, contentImages, findBrandImage, htmlText, jsonLd, ldImageUrl, ldTypes, load, type BrandImage, type ImageRef } from "./html";
 
 export type { Availability } from "./detail";
@@ -73,7 +75,7 @@ export interface BrandCatalog {
   website: string | null;
   crawledAt: string;
   status: CrawlStatus;
-  platform: "shopify" | "woocommerce" | "html" | null;
+  platform: "shopify" | "woocommerce" | "square" | "html" | null;
   brandImage: BrandImage | null;
   attribution: string | null;
   imageRights: "unknown";
@@ -95,11 +97,15 @@ const MAX_MODEL_PAGES = Number(process.env.CRAWL_MAX_MODEL_PAGES ?? 40);
 // ---------- watch vs. accessory ----------
 
 const NOT_WATCH_TYPE = /strap|band|bracelet|accessor|apparel|clothing|merch|gift|tool|book|print|poster|service|warranty|insurance|shipping|deposit|spare|part|box|case only|winder|cleaning|sticker|shirt|hoodie|hat|cap|bag|wallet|pouch|roll|buckle|cufflink|jewel|ring|necklace/i;
-const NOT_WATCH_TITLE = /\b(strap|straps|band|nato|rubber strap|leather strap|bracelet only|extra link|links?|spring ?bars?|buckle|clasp|deployant|gift ?card|e-?gift|voucher|t-?shirt|tee|hoodie|sweatshirt|cap|hat|beanie|keychain|key ?ring|sticker|poster|print|book|pouch|watch roll|travel case|watch box|winder|cleaning|cloth|tool|screwdriver|service|servicing|repair|warranty|insurance|shipping|deposit|reservation fee|spare|replacement|crystal only|crown only|bezel insert|mug|socks|tote|lanyard|pin|patch|coaster|wallpaper|membership|subscription|donation|tip)\b|pens?|fountain pen|rollerball|ballpoint|錶帶|表带|錶扣|筆|回娘家|ストラップ|ベルト|バンド|armband|bracelet en cuir|correa|cinturino|pulseira/i;
+// German shop names: straps (Lederband, Silikonband, Edelstahlband ...), clasps, engravings,
+// spare crystals, rotors and casebacks.
+const NOT_WATCH_TITLE_DE = /\b\w*(leder|silikon|kautschuk|edelstahl|stahl|textil|canvas|nato|verlängerungs|uhren|arm|wechsel)band\b|\b\w*(stahl|gehäuse|glas)boden\b|\b\w*schlie(ß|ss)e\b|\bgravur\b|\b\w*saphirglas\b|\b(automatik )?rotor( \d+)?$|^\S+ rotor (chronograph|automatik|\d+)$/i;
+const NOT_WATCH_TITLE = /\b(strap|straps|band|nato|rubber strap|leather strap|bracelet only|extra link|links?|spring ?bars?|buckle|clasp|deployant|gift ?card|e-?gift|voucher|t-?shirt|tee|hoodie|sweatshirt|cap|hat|beanie|keychain|key ?ring|sticker|poster|print|book|pouch|watch roll|travel case|watch box|winder|cleaning|cloth|tool|screwdriver|service|servicing|repair|warranty|insurance|shipping|deposit|reservation fee|spare|replacement|display ?back|case ?back|crystal only|crown only|bezel insert|mug|socks|tote|lanyard|pin|patch|coaster|wallpaper|membership|subscription|donation|tip|sunglasses|eyewear|watch cuff)\b|pens?|fountain pen|rollerball|ballpoint|錶帶|表带|錶扣|筆|回娘家|ストラップ|ベルト|バンド|armband|bracelet en cuir|correa|cinturino|pulseira/i;
 
 export function looksLikeWatch(title: string, productType = "", tags: string[] = [], priceMinor: number | null = null): boolean {
   const t = title.toLowerCase();
-  if (NOT_WATCH_TITLE.test(t) && !/\bwatch\b|chronograph|automatic|diver/i.test(t.replace(/watch (box|roll|winder|strap|band)/g, ""))) return false;
+  if (NOT_WATCH_TITLE_DE.test(t) && !/\bmit\b/.test(t)) return false; // "Pilot 42 mit Stahlband" is a watch
+  if (NOT_WATCH_TITLE.test(t) && !/\bwatch\b|chronograph|automatic|diver/i.test(t.replace(/watch (box|roll|winder|strap|band|cuff)/g, ""))) return false;
   if (productType && NOT_WATCH_TYPE.test(productType) && !/watch|timepiece|montre|uhr|reloj/i.test(productType)) return false;
   if (tags.some((g) => /^(strap|straps|accessor(y|ies)|apparel|merch|gift ?card)$/i.test(g)) && !tags.some((g) => /^watch(es)?$/i.test(g))) return false;
   // Very cheap items are almost never watches from independent brands (straps, stickers, deposits).
@@ -306,6 +312,43 @@ export function mapWooProduct(p: WooProduct): DraftWatch | null {
   };
 }
 
+export function mapSquareProduct(p: SquareProduct, currency: string | null): DraftWatch | null {
+  const f = squareFields(p);
+  // Shops write stock notes into the name ("Barracuda Blue 200M SOLD OUT", "- Now Shipping").
+  f.name = f.name.replace(/\s*[-–]\s*now shipping.*$/i, "").replace(/\s*\bsold out\b\s*\*?/gi, " ").replace(/[\s.]+$/, "").replace(/\s+/g, " ").trim();
+  if (!f.name || !looksLikeWatch(f.name, "", [], f.priceMinor)) return null;
+  const specsRaw: Record<string, string> = { ...extractDetail(load(`<main>${f.descHtml}</main>`)).specsRaw };
+  return {
+    name: f.name,
+    url: f.url ?? "",
+    image: f.images[0] ?? null,
+    images: f.images,
+    priceMinor: f.priceMinor,
+    currency: f.priceMinor ? currency : null,
+    availability: f.availability,
+    description: htmlText(f.descHtml).slice(0, 4000) || null,
+    productType: null,
+    tags: [],
+    options: [],
+    variants: [],
+    specs: specsFrom(f.descHtml, specsRaw),
+    specsRaw,
+  };
+}
+
+/** Square Online / Weebly store: ids from the homepage, or from its linked shop or /store/ page. */
+async function trySquare(homeHtml: string, homeUrl: string): Promise<DraftWatch[] | null> {
+  let ids = squareIds(homeHtml);
+  for (const u of ids ? [] : squareStorePages(homeHtml, homeUrl)) {
+    const r = await allowedGet(u);
+    if (r?.ok && (ids = squareIds(r.text))) break;
+  }
+  if (!ids) return null;
+  const products = await fetchSquareProducts(ids);
+  if (!products) return null;
+  return products.map((p) => mapSquareProduct(p, ids!.currency)).filter((w): w is DraftWatch => !!w && !!w.url).slice(0, MAX_WATCHES);
+}
+
 async function tryWoo(origin: string): Promise<{ drafts: DraftWatch[]; raw: WooProduct[] } | null> {
   const first = await allowedGet(`${origin}/wp-json/wc/store/v1/products?per_page=100&page=1`, "application/json");
   if (!first || !first.ok || !first.contentType.includes("json")) return null;
@@ -333,7 +376,7 @@ const SKIP_PATH = /\/(cart|account|login|blog|news|journal|pages?|policies|searc
 // Small brands often give each model its own top-level page (/the-field-watch, /nimrod).
 // Those pages are only kept when they read like a spec sheet (see specEvidence).
 const INFO_PAGE = /^\/(?:[a-z]{2}(?:-[a-z]{2})?\/)?(home|index|about|about-us|our-story|story|heritage|history|philosophy|team|founder|contact|contact-us|enquire|faq|frequently-asked-questions|press|media|journal|journals?-new|news|blog|stories|terms|terms-and-conditions|privacy|privacy-policy|cookie|legal|imprint|impressum|shipping|returns|warranty|service|service-center|servicing|care|instructions|manuals?|gallery|events|careers|jobs|stockists|retailers|authori[sz]ed-retailers|dealers|subscribe|newsletter|sitemap|accessibility|account|cart|checkout|login|search|feed|author|tag|comments|wp-|xmlrpc|bespoke|custom|custom-pieces|special-offers|accessories|straps?|gift|sample-page|product-guide|colou?rs)\b/i;
-const NOT_A_MODEL_NAME = /^(home|watches|our watches|all watches|the watches|find your watch|timepieces|collections?|the collection|kollektion|collezione|colecci[oó]n|shop|store|models?|products?|catalog(ue)?|welcome|menu|reviews?|testimonials|press( room)?|blog|news|editor|examples|archive|uhren|montres|orologi|relojes|werke|movements?|calibers?|calibres?|sold out( pieces)?|garantie|warranty|\d+ jahre garantie|historical pieces|special projects|features|specifications|discover.*|all.*collections?)$/i;
+const NOT_A_MODEL_NAME = /^(home|watches|our watches|all watches|the watches|find your watch|timepieces|collections?|the collection|kollektion|collezione|colecci[oó]n|shop|store|models?|products?|catalog(ue)?|welcome|menu|reviews?|testimonials|press( room)?|blog|news|editor|examples|archives?|uhren|montres|orologi|relojes|werke|movements?|calibers?|calibres?|sold out( pieces)?|garantie|warranty|\d+ jahre garantie|historical pieces|special projects|features|specifications|discover.*|all.*collections?)$/i;
 const NOT_A_MODEL_WORDS = /\b(replica|super ?clone|clone|homepage|official website|we design|uhrmachermeister|watchmaker|watchmaking|horology|manufacture watches|order page|landing page|test(ing)? page|new model:)/i;
 
 /**
@@ -403,6 +446,23 @@ export function specEvidence(s: WatchSpecs, text = ""): number {
   return hits.size;
 }
 
+function gunzipText(bytes: Buffer): string {
+  try { return gunzipSync(bytes, { maxOutputLength: 20_000_000 }).toString("utf8"); } catch { return ""; }
+}
+
+/** Shopware product pages sit at the site root (/Pilot-42-H-PVD), so the usual product-path
+ *  test misses them. Its sitemap lists them as one-segment paths without a trailing slash. */
+export function shopwareProductUrls(urls: string[], host: string): string[] {
+  return urls.filter((u) => {
+    try {
+      const url = new URL(u);
+      if (url.host.replace(/^www\./, "") !== host || url.search) return false;
+      const parts = url.pathname.split("/").filter(Boolean);
+      return parts.length === 1 && !url.pathname.endsWith("/") && !/\.[a-z0-9]{2,4}$/i.test(parts[0]);
+    } catch { return false; }
+  });
+}
+
 async function sitemapUrls(origin: string, extra: string[]): Promise<string[]> {
   const queue = [...new Set([...extra, `${origin}/sitemap.xml`, `${origin}/sitemap_index.xml`])];
   const seenMaps = new Set<string>();
@@ -413,9 +473,12 @@ async function sitemapUrls(origin: string, extra: string[]): Promise<string[]> {
     seenMaps.add(sm);
     let r: FetchResult | null;
     try { r = await allowedGet(sm, "application/xml,text/xml"); } catch { continue; }
-    if (!r?.ok || !/<(urlset|sitemapindex)/i.test(r.text)) continue;
-    const locs = [...r.text.matchAll(/<loc>\s*(?:<!\[CDATA\[)?([^<\]]+)/gi)].map((m) => m[1].trim());
-    if (/<sitemapindex/i.test(r.text)) {
+    if (!r?.ok) continue;
+    // Some shops (Shopware) serve their sitemaps gzipped.
+    const text = r.bytes[0] === 0x1f && r.bytes[1] === 0x8b ? gunzipText(r.bytes) : r.text;
+    if (!/<(urlset|sitemapindex)/i.test(text)) continue;
+    const locs = [...text.matchAll(/<loc>\s*(?:<!\[CDATA\[)?([^<\]]+)/gi)].map((m) => m[1].trim());
+    if (/<sitemapindex/i.test(text)) {
       // Product sitemaps first, then anything that isn't obviously posts/images.
       const sorted = locs.filter((l) => !/post|blog|image|video|author|tag|category/i.test(l)).sort((a, b) => Number(/product/i.test(b)) - Number(/product/i.test(a)));
       queue.unshift(...sorted.slice(0, 5));
@@ -444,12 +507,13 @@ function productUrlsFromHome($: ReturnType<typeof load>, base: string, re = PROD
 /** "Mark III GMT — Höglund & Sons" -> "Mark III GMT" */
 export function stripSiteSuffix(name: string, siteName?: string): string {
   let n = name.replace(/\s+/g, " ").trim();
-  const parts = n.split(/\s+[|–—-]\s+/);
+  const parts = n.split(/\s+[|–—•·-]\s+/);
   if (parts.length > 1) {
     const last = parts[parts.length - 1].toLowerCase();
     if ((siteName && last.includes(siteName.toLowerCase().slice(0, 6))) || last.split(" ").length <= 4) n = parts.slice(0, -1).join(" - ");
   }
-  return n;
+  // Shop templates that append a call to action to the title ("Pilot 42 jetzt kaufen").
+  return n.replace(/\s+(jetzt|online)\s+(kaufen|bestellen)$|\s+(buy|order|shop) (it )?now$/i, "").trim() || n;
 }
 
 /** The page's own heading: the <h1> that also appears in the title (themes put modal or banner h1s first). */
@@ -568,7 +632,12 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
       out.push(detach(p));
     }
   };
-  const productLinks = [...mapUrls.filter(sameHost).filter(pick(PRODUCT_PATH)), ...productUrlsFromHome(homeDom, homeUrl)];
+  const isShopware = /shopware/i.test(homeHtml);
+  const productLinks = [
+    ...mapUrls.filter(sameHost).filter(pick(PRODUCT_PATH)),
+    ...(isShopware ? shopwareProductUrls(mapUrls, host) : []),
+    ...productUrlsFromHome(homeDom, homeUrl),
+  ];
   // Listing links that look like products first, then the rest (image links can also be banners).
   await run([...productLinks, ...fromListings.filter(pick(PRODUCT_PATH)), ...fromListings], false);
   if (!out.length) {
@@ -645,6 +714,12 @@ export async function crawlBrand(brand: BrandInput): Promise<BrandCatalog> {
   if (!robotsAllowsPath(robots, "/")) return { ...base, status: "robots_disallowed", note: "robots.txt disallows the homepage" };
   let home = await politeGet(origin + "/");
   if (!home.ok && !home.challenged && origin.startsWith("https://")) home = await politeGet(origin.replace("https://", "http://") + "/");
+  // Some sites only answer on www. (the bare domain 404s or doesn't resolve).
+  const wwwOrigin = origin.replace(/^(https?:\/\/)(?!www\.)/, "$1www.");
+  if (!home.ok && !home.challenged && wwwOrigin !== origin && robotsAllowsPath(await getRobots(wwwOrigin), "/")) {
+    const alt = await politeGet(wwwOrigin + "/");
+    if (alt.ok || alt.challenged) home = alt;
+  }
   if (home.challenged) return { ...base, status: "blocked_by_site", note: "site answered with a bot check (captcha); not bypassed" };
   if (!home.ok) return { ...base, status: "unreachable", note: `homepage returned ${home.status || home.text.slice(0, 80)}` };
   origin = new URL(home.url).origin;
@@ -673,6 +748,10 @@ export async function crawlBrand(brand: BrandInput): Promise<BrandCatalog> {
       drafts = woo.drafts;
       if (drafts.length) collectionDrafts = await wooCollections(origin, woo.raw);
     }
+  }
+  if (!drafts?.length && isSquareSite(home.text)) {
+    const sq = await trySquare(home.text, home.url);
+    if (sq?.length) { platform = "square"; drafts = sq; }
   }
   if (drafts?.length) {
     // Storefront APIs give the list; the detail pages add the full spec sheet.

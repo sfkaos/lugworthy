@@ -2,9 +2,9 @@
  "brandId": "BRD-1293",
  "brandName": "Shoreham",
  "website": "https://www.shorehamwatches.com",
- "crawledAt": "2026-11-01T08:30:28.709Z",
- "status": "no_catalog_found",
- "platform": "html",
+ "crawledAt": "2026-11-03T23:08:44.963Z",
+ "status": "ok",
+ "platform": "square",
  "brandImage": {
   "url": "https://www.shorehamwatches.com/uploads/1/3/2/1/132124803/published/highresshorehamandlogowhiteonblack.png?1616944058",
   "width": null,
@@ -14,6 +14,152 @@
  },
  "attribution": "Images © Shoreham, from shorehamwatches.com",
  "imageRights": "unknown",
- "watches": [],
+ "watches": [
+  {
+   "id": "BRD-1293/snowdon-html",
+   "name": "Snowdon",
+   "url": "https://www.shorehamwatches.com/store/p17/Snowdon.html",
+   "image": {
+    "url": "https://132124803.cdn6.editmysite.com/uploads/1/3/2/1/132124803/s830467052305022003_p17_i1_w3556.jpeg?width=2560",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://132124803.cdn6.editmysite.com/uploads/1/3/2/1/132124803/s830467052305022003_p17_i1_w3556.jpeg?width=2560",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://132124803.cdn6.editmysite.com/uploads/1/3/2/1/132124803/s830467052305022003_p17_i3_w3477.jpeg?width=2560",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://132124803.cdn6.editmysite.com/uploads/1/3/2/1/132124803/s830467052305022003_p17_i4_w1100.png",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "GBP",
+   "availability": "in_stock",
+   "description": "Three Straps Included: Stainless steel, cork suede and slate grey silicone. Case: 39mm premium grade 316L stainless steel. Automatic GMT Movement: NH34 GMT. Crystal: Single dome sapphire crystal with anti-reflective coating. Caseback: Sapphire crystal caseback engraved with unique serial number. Dial: Grained ice white dial. Hands: Mirror polished silver baton hands. GMT hand with admiral blue arrowhead. Swiss Super Lumi-Nova ® : BGW9. Crown: Screw down polished conical crown. Water Resistance: 200m/20ATM.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH34",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "steel_316l",
+    "crystal": "sapphire",
+    "dialColor": "white",
+    "strapType": "silicone"
+   },
+   "specsRaw": {
+    "Three Straps Included": "Stainless steel, cork suede and slate grey silicone.",
+    "Case": "39mm premium grade 316L stainless steel.",
+    "Automatic GMT Movement": "NH34 GMT.",
+    "Crystal": "Single dome sapphire crystal with anti-reflective coating.",
+    "Caseback": "Sapphire crystal caseback engraved with unique serial number.",
+    "Dial": "Grained ice white dial.",
+    "Hands": "Mirror polished silver baton hands. GMT hand with admiral blue arrowhead.",
+    "Swiss Super Lumi-Nova": "® : BGW9.",
+    "Crown": "Screw down polished conical crown.",
+    "Water Resistance": "200m/20ATM.",
+    "Companies House No": "13299936"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T23:08:44.963Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:08:44.963Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "635fe557a0e4544f"
+  },
+  {
+   "id": "BRD-1293/pembroke-3a-no-date-html",
+   "name": "PEMBROKE: NO DATE",
+   "url": "https://www.shorehamwatches.com/store/p18/PEMBROKE%3A_NO_DATE.html",
+   "image": {
+    "url": "https://132124803.cdn6.editmysite.com/uploads/1/3/2/1/132124803/s830467052305022003_p18_i1_w6184.jpeg?width=2560",
+    "width": null,
+    "height": null
+   },
+   "images": [
+    {
+     "url": "https://132124803.cdn6.editmysite.com/uploads/1/3/2/1/132124803/s830467052305022003_p18_i1_w6184.jpeg?width=2560",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://132124803.cdn6.editmysite.com/uploads/1/3/2/1/132124803/s830467052305022003_p18_i2_w5631.jpeg?width=2560",
+     "width": null,
+     "height": null
+    },
+    {
+     "url": "https://132124803.cdn6.editmysite.com/uploads/1/3/2/1/132124803/s830467052305022003_p18_i3_w6193.jpeg?width=2560",
+     "width": null,
+     "height": null
+    }
+   ],
+   "priceMinor": 34900,
+   "currency": "GBP",
+   "availability": "in_stock",
+   "description": "Back in Stock! Three Straps Included: Olive green leather, walnut brown silicone and sand canvas NATO. Case: 39mm premium grade CuSn8 bronze case. Automatic Movement: NH38. Crystal: Single dome sapphire crystal with anti-reflective coating. Caseback: Sapphire crystal caseback engraved with unique serial number. Dial: Chocolate brown California style dial. Swiss Super Lumi-Nova ® : Pigmented C3. Crown: Screw down onion crown. Water Resistance: 200m/20ATM.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": null,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": 200,
+    "caliber": "Seiko NH38",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": "bronze",
+    "crystal": "sapphire",
+    "dialColor": "brown",
+    "strapType": "silicone"
+   },
+   "specsRaw": {
+    "Three Straps Included": "Olive green leather, walnut brown silicone and sand canvas NATO.",
+    "Case": "39mm premium grade CuSn8 bronze case.",
+    "Automatic Movement": "NH38.",
+    "Crystal": "Single dome sapphire crystal with anti-reflective coating.",
+    "Caseback": "Sapphire crystal caseback engraved with unique serial number.",
+    "Dial": "Chocolate brown California style dial.",
+    "Swiss Super Lumi-Nova": "® : Pigmented C3.",
+    "Crown": "Screw down onion crown.",
+    "Water Resistance": "200m/20ATM.",
+    "Companies House No": "13299936"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T23:08:44.963Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:08:44.963Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "d524bb9754020214"
+  }
+ ],
  "collections": []
 }

@@ -2,9 +2,9 @@
  "brandId": "BRD-0259",
  "brandName": "Greg Stevens Design",
  "website": "https://www.gregstevensdesign.com",
- "crawledAt": "2026-11-01T07:20:56.652Z",
- "status": "no_catalog_found",
- "platform": "html",
+ "crawledAt": "2026-11-03T23:08:44.963Z",
+ "status": "ok",
+ "platform": "square",
  "brandImage": {
   "url": "https://www.gregstevensdesign.com/uploads/4/1/9/7/4197495/20221027-165717-2.jpg",
   "width": null,
@@ -14,6 +14,179 @@
  },
  "attribution": "Images © Greg Stevens Design, from gregstevensdesign.com",
  "imageRights": "unknown",
- "watches": [],
+ "watches": [
+  {
+   "id": "BRD-0259/gsd-6-series-diver-html",
+   "name": "GSD 6 Series Diver",
+   "url": "https://www.gregstevensdesign.com/store/p3/GSD_6_Series_Diver.html",
+   "image": null,
+   "images": [],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "GSD 6 Series Diver. Specs: 42mm case, 22mm lugs, 12.7mm thick, 300m WR, C3 Superluminova.",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": null,
+    "movementType": null,
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": null,
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "GSD 6 Series Diver. Specs": "42mm case, 22mm lugs, 12.7mm thick, 300m WR, C3 Superluminova."
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T23:08:44.963Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:08:44.963Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "6a470d591c08364e"
+  },
+  {
+   "id": "BRD-0259/gsd-6-series-diver-html-2",
+   "name": "GSD 6 Series Diver",
+   "url": "https://www.gregstevensdesign.com/store/p4/GSD_6_Series_Diver.html",
+   "image": null,
+   "images": [],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "GSD 6 Series Diver. Specs: Stainless, 42mm case, 22mm lugs, 12.7mm thick, Miyota 9015 Automatic Movement, Sapphire Crystal, C3 Superluminova, 300m WR",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "GSD 6 Series Diver. Specs": "Stainless, 42mm case, 22mm lugs, 12.7mm thick, Miyota 9015 Automatic Movement, Sapphire Crystal, C3 Superluminova, 300m WR"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T23:08:44.963Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:08:44.963Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "93519c23cf09d5ca"
+  },
+  {
+   "id": "BRD-0259/gsd-6-series-diver-2c-pvd-case-finish-html",
+   "name": "GSD 6 Series Diver, PVD case finish",
+   "url": "https://www.gregstevensdesign.com/store/p5/GSD_6_Series_Diver%2C_PVD_case_finish.html",
+   "image": null,
+   "images": [],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "GSD 6 Series Diver. Specs: PVD, 42mm case, 22mm lugs, 12.7mm thick, Miyota 9015 Automatic Movement, Sapphire Crystal, C3 Superluminova, 300m WR",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "GSD 6 Series Diver. Specs": "PVD, 42mm case, 22mm lugs, 12.7mm thick, Miyota 9015 Automatic Movement, Sapphire Crystal, C3 Superluminova, 300m WR"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T23:08:44.963Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:08:44.963Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "9730f93ae6406b4a"
+  },
+  {
+   "id": "BRD-0259/gsd-6-series-diver-2c-stainless-with-pvd-bezel-insert-html",
+   "name": "GSD 6 Series Diver, stainless with pvd bezel insert",
+   "url": "https://www.gregstevensdesign.com/store/p6/GSD_6_Series_Diver%2C_stainless_with_pvd_bezel_insert.html",
+   "image": null,
+   "images": [],
+   "priceMinor": 59500,
+   "currency": "USD",
+   "availability": "in_stock",
+   "description": "GSD 6 Series Diver. Specs: Stainless with pvd bezel insert, 42mm case, 22mm lugs, 12.7mm thick, Miyota 9015 Automatic Movement, Sapphire Crystal, C3 Superluminova, 300m WR",
+   "productType": null,
+   "tags": [],
+   "options": [],
+   "variants": [],
+   "specs": {
+    "caseDiameterMm": 42,
+    "lugWidthMm": null,
+    "lugToLugMm": null,
+    "thicknessMm": null,
+    "waterResistanceM": null,
+    "caliber": "Miyota 9015",
+    "movementType": "automatic",
+    "powerReserveH": null,
+    "caseMaterial": null,
+    "crystal": "sapphire",
+    "dialColor": null,
+    "strapType": null
+   },
+   "specsRaw": {
+    "GSD 6 Series Diver. Specs": "Stainless with pvd bezel insert, 42mm case, 22mm lugs, 12.7mm thick, Miyota 9015 Automatic Movement, Sapphire Crystal, C3 Superluminova, 300m WR"
+   },
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-03T23:08:44.963Z",
+   "availabilityHistory": [
+    {
+     "at": "2026-11-03T23:08:44.963Z",
+     "availability": "in_stock"
+    }
+   ],
+   "collectionIds": [],
+   "hash": "7c3460dfdb989d79"
+  }
+ ],
  "collections": []
 }

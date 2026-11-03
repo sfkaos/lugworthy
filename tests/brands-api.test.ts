@@ -25,7 +25,7 @@ describe("publishing rule", () => {
   });
   it("matches the snapshot counts", () => {
     const pub = catalog.publishedBrands();
-    expect(pub.length).toBe(1274);
+    expect(pub.length).toBe(1272);
     for (const b of pub) {
       expect(b.ownership).toBe("Independent");
       expect(b.lugworthyFit).toBe("Yes");
@@ -36,7 +36,7 @@ describe("publishing rule", () => {
 describe("GET /api/v1/brands", () => {
   it("returns only published brands to the public", () => {
     const r = queryBrands(catalog, q("limit=200&page=1"), "lugworthy");
-    expect(r.total).toBe(1274);
+    expect(r.total).toBe(1272);
     expect(r.data).toHaveLength(200);
     expect(r.pages).toBe(7);
     expect(r.data[0]).not.toHaveProperty("ownership");

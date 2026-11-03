@@ -1,6 +1,6 @@
 import { finishCollections, keepCollection, normUrl, parseListing } from "../lib/crawl/collections";
 import { describe, expect, it } from "vitest";
-import { looksLikeWatch, mapShopifyProduct, mergeWithPrevious, isModelName, parseProductPage, shallowPageUrls, specEvidence, specsFrom, stripSiteSuffix, type BrandCatalog } from "../lib/crawl/catalog";
+import { looksLikeWatch, mapShopifyProduct, mergeWithPrevious, isModelName, parseProductPage, shallowPageUrls, shopwareProductUrls, specEvidence, specsFrom, stripSiteSuffix, type BrandCatalog } from "../lib/crawl/catalog";
 import { extractDetail, extractSpecPairs } from "../lib/crawl/detail";
 import { parseRobots, robotsAllowsPath } from "../lib/crawl/fetch";
 import { findBrandImage, fullSizeImage, load } from "../lib/crawl/html";
@@ -161,5 +161,45 @@ describe("model pages on small brand sites", () => {
     expect(isModelName("OVSKY - We design watches in Poland", "Ovsky Watches")).toBe(false);
     expect(isModelName("F.P.Journe", "F.P. Journe")).toBe(false);
     for (const n of ["The Field Watch", "MING 37.09 Uni", "Snowdon", "DB27", "Lost Sea 41 M"]) expect(isModelName(n, "Brand"), n).toBe(true);
+  });
+});
+
+describe("Shopware and other shop themes", () => {
+  it("takes one-segment sitemap pages as Shopware products, not categories or files", () => {
+    const urls = [
+      "https://www.archimede-watches.com/Pilot-42-H-PVD-.-S-.-LS",
+      "https://www.archimede-watches.com/PILOT/PILOT-42/",
+      "https://www.archimede-watches.com/LADIES-WATCH/",
+      "https://www.archimede-watches.com/us/Pilot-42-H-PVD-.-S-.-LS",
+      "https://www.archimede-watches.com/agb.pdf",
+      "https://other.com/Pilot-42",
+    ];
+    expect(shopwareProductUrls(urls, "archimede-watches.com")).toEqual(["https://www.archimede-watches.com/Pilot-42-H-PVD-.-S-.-LS"]);
+  });
+
+  it("drops a shop's 'buy now' suffix from names", () => {
+    expect(stripSiteSuffix("Pilot 42 H PVD . S . LS jetzt kaufen")).toBe("Pilot 42 H PVD . S . LS");
+    expect(stripSiteSuffix("Field 38 - Buy now")).toBe("Field 38");
+    expect(stripSiteSuffix("Kaufen")).toBe("Kaufen");
+  });
+
+  it("skips German straps, clasps and spare parts", () => {
+    for (const n of ["Pilot Lederband - Schwarz", "OutDoor Silikonband - schwarz", "Edelstahlband", "Faltschließe - matt", "Gravur am Gehäuse", "Gewölbtes Saphirglas", "Massiver Stahlboden für Pilot 42 Bronze", "ARCHIMEDE Automatik Rotor", "ARCHIMEDE Rotor 7750"])
+      expect(looksLikeWatch(n, "", [], 12000), n).toBe(false);
+    for (const n of ["Pilot 42 H PVD . S . LS", "SportTaucher R 41", "DeckWatch Bronze", "Pilot 42 mit Stahlband"]) expect(looksLikeWatch(n, "", [], 112000), n).toBe(true);
+  });
+
+  it("reads product tile links on listing pages whatever the URL shape", () => {
+    const html = `<h1>Pilot 42</h1><div class="card product-box"><a class="product-name" href="/Pilot-42-A-.-LHB">Pilot 42 A</a></div><a href="/about">About</a>`;
+    const { links } = parseListing(html, "https://www.archimede-watches.com/PILOT/PILOT-42/", "Archimede", /\/products\//);
+    expect(links).toEqual(["https://www.archimede-watches.com/Pilot-42-A-.-LHB"]);
+  });
+});
+
+describe("review fixes", () => {
+  it("skips spare casebacks and archive pages", () => {
+    for (const n of ["Archimede SportTaucher display back", "OutDoor Glasboden", "SportTaucher Glasboden (Edelstahl)"]) expect(looksLikeWatch(n, "", [], 8500), n).toBe(false);
+    expect(isModelName(stripSiteSuffix("ARCHIVES • Berneron"), "Berneron")).toBe(false);
+    expect(stripSiteSuffix("MIRAGE • Berneron")).toBe("MIRAGE");
   });
 });

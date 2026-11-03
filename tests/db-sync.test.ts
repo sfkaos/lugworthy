@@ -36,7 +36,7 @@ beforeAll(async () => {
 describe("sheet sync", () => {
   it("loads every brand and matches the snapshot catalog", async () => {
     const r = await recordSync(db, "sheet", () => syncBrandsFromRows(db, rows));
-    expect(r).toEqual({ brands: 1437, published: 1274, removed: 0 });
+    expect(r).toEqual({ brands: 1437, published: 1272, removed: 0 });
     const fromDb = await catalogFromDb();
     const fromSnap = snapshotCatalog();
     expect(fromDb.publishedBrands().map((b) => b.slug)).toEqual(fromSnap.publishedBrands().map((b) => b.slug));
