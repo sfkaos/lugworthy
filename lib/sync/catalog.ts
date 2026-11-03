@@ -98,6 +98,6 @@ export async function importCatalogDir(db: Db, dir?: string): Promise<CatalogImp
  * price_minor is a 32-bit integer column. A few listings in yen or won go past it (BRD-0805 has a
  * ¥26,774,000.00 piece = 2,677,400,000 minor units), which made the whole import fail. Those keep no price.
  */
-function fitsInt(n: number | null | undefined): number | null {
+export function fitsInt(n: number | null | undefined): number | null {
   return n == null || !Number.isSafeInteger(n) || n > 2_147_483_647 || n < -2_147_483_648 ? null : n;
 }
