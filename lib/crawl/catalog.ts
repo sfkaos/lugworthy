@@ -10,7 +10,7 @@ import {
 import { finishCollections, listingLinks, normUrl, parseListing, shopifyCollections, wooCollections, type Collection, type CollectionDraft, type WooCategoryRef } from "./collections";
 import { type Availability, extractDetail, schemaAvailability } from "./detail";
 import { allowedGet, getRobots, politeGet, robotsAllowsPath, type FetchResult } from "./fetch";
-import { absUrl, findBrandImage, htmlText, jsonLd, ldImageUrl, ldTypes, load, type BrandImage, type ImageRef } from "./html";
+import { absUrl, contentImages, findBrandImage, htmlText, jsonLd, ldImageUrl, ldTypes, load, type BrandImage, type ImageRef } from "./html";
 
 export type { Availability } from "./detail";
 export type CrawlStatus = "ok" | "no_website" | "robots_disallowed" | "blocked_by_site" | "unreachable" | "no_catalog_found";
@@ -90,6 +90,7 @@ const MAX_WATCHES = Number(process.env.CRAWL_MAX_WATCHES ?? 400);
 const MAX_HTML_PAGES = Number(process.env.CRAWL_MAX_PAGES ?? 150);
 const MAX_LISTING_PAGES = Number(process.env.CRAWL_MAX_LISTINGS ?? 20);
 const MAX_DETAIL_PAGES = Number(process.env.CRAWL_MAX_DETAIL_PAGES ?? 250);
+const MAX_MODEL_PAGES = Number(process.env.CRAWL_MAX_MODEL_PAGES ?? 40);
 
 // ---------- watch vs. accessory ----------
 
@@ -324,10 +325,81 @@ async function tryWoo(origin: string): Promise<{ drafts: DraftWatch[]; raw: WooP
 
 // ---------- Generic HTML (sitemap + JSON-LD) ----------
 
-const PRODUCT_PATH = /\/(products?|produits?|produkte?|productos?|prodotti|prodotto|produtos?|artikel|shop|store|boutique|tienda|negozio|watch(es)?|timepieces?|collections\/[^/]+\/products|montres?|uhren|relojes|orologi|item|p|product-page)\/[^/?#]+\/?$|\/\d+-[a-z0-9-]+\.html$/i;
+const PRODUCT_PATH = /\/(products?|produits?|produkte?|productos?|prodotti|prodotto|produtos?|artikel|shop|store|boutique|tienda|negozio|watch(es)?|timepieces?|collections\/[^/]+\/products|montres?|uhren|relojes|orologi|item|p|product-page|featured-product)\/[^/?#]+\/?$|\/\d+-[a-z0-9-]+\.html$/i;
 // Brands without a shop often have one page per model: /watches/the-carter, /collections/architect.
 const MODEL_PATH = /\/(watches|watch|collections?|models?|timepieces?|montres?|uhren|relojes|orologi|series)\/[^/?#]+\/?$/i;
 const SKIP_PATH = /\/(cart|account|login|blog|news|journal|pages?|policies|search|tag|category|categories|collections?\/?$)/i;
+
+// Small brands often give each model its own top-level page (/the-field-watch, /nimrod).
+// Those pages are only kept when they read like a spec sheet (see specEvidence).
+const INFO_PAGE = /^\/(?:[a-z]{2}(?:-[a-z]{2})?\/)?(home|index|about|about-us|our-story|story|heritage|history|philosophy|team|founder|contact|contact-us|enquire|faq|frequently-asked-questions|press|media|journal|journals?-new|news|blog|stories|terms|terms-and-conditions|privacy|privacy-policy|cookie|legal|imprint|impressum|shipping|returns|warranty|service|service-center|servicing|care|instructions|manuals?|gallery|events|careers|jobs|stockists|retailers|authori[sz]ed-retailers|dealers|subscribe|newsletter|sitemap|accessibility|account|cart|checkout|login|search|feed|author|tag|comments|wp-|xmlrpc|bespoke|custom|custom-pieces|special-offers|accessories|straps?|gift|sample-page|product-guide|colou?rs)\b/i;
+const NOT_A_MODEL_NAME = /^(home|watches|our watches|all watches|the watches|find your watch|timepieces|collections?|the collection|kollektion|collezione|colecci[oó]n|shop|store|models?|products?|catalog(ue)?|welcome|menu|reviews?|testimonials|press( room)?|blog|news|editor|examples|archive|uhren|montres|orologi|relojes|werke|movements?|calibers?|calibres?|sold out( pieces)?|garantie|warranty|\d+ jahre garantie|historical pieces|special projects|features|specifications|discover.*|all.*collections?)$/i;
+const NOT_A_MODEL_WORDS = /\b(replica|super ?clone|clone|homepage|official website|we design|uhrmachermeister|watchmaker|watchmaking|horology|manufacture watches|order page|landing page|test(ing)? page|new model:)/i;
+
+/**
+ * Whether a page found without shop markup names one model, not a menu, story or home page.
+ * `siteTitle` is the homepage <title>: pages that just repeat it are site chrome.
+ */
+export function isModelName(name: string, brandName: string, siteTitle = ""): boolean {
+  const first = name.split(/\s+[|–—-]\s+/)[0].replace(/[.:!]+$/, "").trim();
+  if (!first || NOT_A_MODEL_NAME.test(first) || NOT_A_MODEL_WORDS.test(name)) return false;
+  // "Military Watches", "Taucheruhren", "Jetliner Collection" are categories.
+  if (/(watches|uhren|montres|collection|collections|kollektion)$/i.test(first)) return false;
+  const norm = (x: string) => x.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  const n = norm(first), b = norm(brandName), t = norm(siteTitle);
+  if (!n || n === b || (t && (n === t || t.startsWith(n)))) return false;
+  // "Parivas Watches", "Boschett Timepieces": the brand's name plus a generic word.
+  if (b && n.replace(b, "").replace(/\b(watch(es)?|timepieces?|uhren|montres|official|co|company)\b/g, "").trim() === "") return false;
+  return true;
+}
+
+/** Same-host pages at most two levels deep that aren't obviously info pages. */
+export function shallowPageUrls(urls: string[], host: string): string[] {
+  const out = new Set<string>();
+  for (const raw of urls) {
+    let u: URL;
+    try { u = new URL(raw); } catch { continue; }
+    if (u.host.replace(/^www\./, "") !== host) continue;
+    const path = u.pathname.replace(/\/+$/, "");
+    const segs = path.split("/").filter(Boolean);
+    if (!segs.length || segs.length > 2) continue;
+    if (/\.(?!html?$)[a-z0-9]{2,5}$/i.test(path) || INFO_PAGE.test(path) || SKIP_PATH.test(path)) continue;
+    if (/^\d{4}$/.test(segs[0]) || /[?=]/.test(path)) continue; // dated posts
+    u.hash = ""; u.search = "";
+    out.add(u.toString());
+  }
+  return [...out];
+}
+
+const SPEC_SIGNS: [string, RegExp][] = [
+  ["size", /\b(2[6-9]|[3-5]\d)(?:[.,]\d{1,2})?\s?mm\b/i],
+  ["water", /water[\s-]*(resistan\w*|proof)|\b\d{2,4}\s?(m|metres?|meters?|atm|bar)\b[^.]{0,20}(water|wr)\b|\b\d{1,3}\s?atm\b|étanch|wasserdicht/i],
+  ["movement", /\b(automatic|self[\s-]winding|hand[\s-]?wound|manual[\s-]winding|mechanical|quartz|calibre|caliber|kaliber|miyota|sellita|seiko\s?nh|nh3\d|eta\s?\d|unitas|la\s?joux|vaucher|soprod|mouvement|uhrwerk)\b/i],
+  ["crystal", /\bsapphire|saphir|zafiro|zaffiro|hesalite|mineral\s+(crystal|glass)/i],
+  ["material", /stainless\s+steel|\b316l\b|titanium|titane|bronze|edelstahl|acier|\bgold\b|platinum|ceramic/i],
+  ["lume", /super[\s-]?luminova|\blume\b|bgw9|\bc3\b|tritium/i],
+  ["strap", /lug\s*width|strap|bracelet|armband|bracelet/i],
+  ["power", /power\s+reserve|réserve\s+de\s+marche|gangreserve/i],
+];
+
+/**
+ * How much a page reads like one watch's spec sheet: parsed specs plus plain-text signs
+ * (case size, water resistance, movement, crystal, material, lume, strap, power reserve).
+ * A model page needs both a case size and a water resistance, and at least four signs in all.
+ */
+export function specEvidence(s: WatchSpecs, text = ""): number {
+  const hits = new Set(SPEC_SIGNS.filter(([, re]) => re.test(text)).map(([k]) => k));
+  if (s.caseDiameterMm != null || s.lugToLugMm != null || s.thicknessMm != null) hits.add("size");
+  if (s.waterResistanceM != null) hits.add("water");
+  if (s.caliber || s.movementType) hits.add("movement");
+  if (s.crystal) hits.add("crystal");
+  if (s.caseMaterial) hits.add("material");
+  if (s.lugWidthMm != null) hits.add("strap");
+  if (s.powerReserveH != null) hits.add("power");
+  // One watch's page gives its case size and water resistance; story pages rarely give both.
+  if (!hits.has("size") || !hits.has("water")) return 0;
+  return hits.size;
+}
 
 async function sitemapUrls(origin: string, extra: string[]): Promise<string[]> {
   const queue = [...new Set([...extra, `${origin}/sitemap.xml`, `${origin}/sitemap_index.xml`])];
@@ -378,12 +450,19 @@ export function stripSiteSuffix(name: string, siteName?: string): string {
   return n;
 }
 
+/** The page's own heading: the <h1> that also appears in the title (themes put modal or banner h1s first). */
+function modelPageHeading($: ReturnType<typeof load>): string {
+  const title = `${$("title").first().text()} ${$('meta[property="og:title"]').attr("content") ?? ""}`.toLowerCase();
+  const heads = $("h1").map((_, el) => htmlText($(el).text())).get().filter(Boolean);
+  return heads.find((h) => title.includes(h.toLowerCase())) ?? "";
+}
+
 export function parseProductPage(html: string, pageUrl: string, brandName: string, allowModelPage = false): DraftWatch | null {
   const $ = load(html);
   const ld = jsonLd($).find((o) => ldTypes(o).some((t) => /^(Product|ProductGroup|IndividualProduct)$/i.test(t)));
   const ogType = $('meta[property="og:type"]').attr("content") ?? "";
   if (!ld && !/product/i.test(ogType) && !allowModelPage) return null;
-  const rawName = htmlText(String(ld?.name ?? (allowModelPage ? $("h1").first().text() || $('meta[property="og:title"]').attr("content") : $('meta[property="og:title"]').attr("content") ?? $("h1").first().text()) ?? "")).trim();
+  const rawName = htmlText(String(ld?.name ?? (allowModelPage ? modelPageHeading($) || $('meta[property="og:title"]').attr("content") || $("title").first().text() || $("h1").first().text() : $('meta[property="og:title"]').attr("content") ?? $("h1").first().text()) ?? "")).trim();
   let name = stripSiteSuffix(rawName, $('meta[property="og:site_name"]').attr("content") ?? brandName);
   if (name.toLowerCase() === brandName.toLowerCase()) name = "";
   if (!name || name.length > 140) return null;
@@ -395,8 +474,10 @@ export function parseProductPage(html: string, pageUrl: string, brandName: strin
   }
   if (!imgs.length) {
     const og = absUrl($('meta[property="og:image:secure_url"]').attr("content") ?? $('meta[property="og:image"]').attr("content"), pageUrl);
-    if (og) imgs.push({ url: og, width: null, height: null });
+    // A model page's og:image is sometimes just the site logo; its photos are on the page.
+    if (og && !(allowModelPage && /logo/i.test(og))) imgs.push({ url: og, width: null, height: null });
   }
+  if (!imgs.length && allowModelPage) imgs.push(...contentImages($, pageUrl));
   if (!imgs.length) return null;
   const metaPrice = $('meta[property="product:price:amount"]').attr("content") ?? $('meta[property="og:price:amount"]').attr("content");
   const metaCurrency = $('meta[property="product:price:currency"]').attr("content") ?? $('meta[property="og:price:currency"]').attr("content");
@@ -434,6 +515,7 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
   // Prefer English pages when a site lists every locale.
   const foreign = (u: string) => Number(/\/(fr|de|es|it|ja|zh|nl|pt|ko)(-[a-z]{2})?\//i.test(u));
   const homeDom = load(homeHtml);
+  const siteTitle = homeDom("title").first().text().trim();
 
   // Collection / category listing pages: each is a collection, and its links lead to watches.
   const listings = [...new Set([...listingLinks(homeDom, homeUrl), ...mapUrls.filter(sameHost).filter((u) => /\/(collections?|categor|product-category|kollektion|collezion|coleccion|series)\//i.test(u))])]
@@ -463,7 +545,7 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
       const r = await allowedGet(u);
       if (!r?.ok || !/html/i.test(r.contentType)) continue;
       const p = parseProductPage(r.text, r.url, brand.name, allowModel);
-      if (!p || !looksLikeWatch(p.name, "", [], p.priceMinor)) continue;
+      if (!p || !looksLikeWatch(p.name, "", [], p.priceMinor) || (allowModel && !isModelName(p.name, brand.name, siteTitle))) continue;
       const key = p.name.toLowerCase();
       if (seenNames.has(key)) continue;
       seenNames.add(key);
@@ -478,6 +560,29 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
   if (!out.length) {
     // No shop pages: fall back to one page per model.
     await run([...productUrlsFromHome(homeDom, homeUrl, MODEL_PATH), ...mapUrls.filter(sameHost).filter(pick(MODEL_PATH)), ...fromListings], true);
+  }
+  if (!out.length) {
+    // Last resort: shallow pages from the sitemap and the homepage menu, kept only when they
+    // read like one watch's spec sheet. Pages linked from the homepage go first.
+    const homeLinks: string[] = [];
+    homeDom("a[href]").each((_, el) => { const u = absUrl(homeDom(el).attr("href"), homeUrl); if (u) homeLinks.push(u); });
+    const cands = shallowPageUrls([...homeLinks, ...mapUrls], host).filter((u) => !tried.has(normUrl(u))).slice(0, MAX_MODEL_PAGES);
+    for (const u of cands.sort((a, b) => foreign(a) - foreign(b))) {
+      const k = normUrl(u);
+      if (tried.has(k)) continue;
+      tried.add(k);
+      const r = await allowedGet(u);
+      if (!r?.ok || !/html/i.test(r.contentType)) continue;
+      const p = parseProductPage(r.text, r.url, brand.name, true);
+      if (!p || !isModelName(p.name, brand.name, siteTitle) || !looksLikeWatch(p.name, "", [], p.priceMinor)) continue;
+      const $p = load(r.text);
+      $p("header, nav, footer, script, style, noscript").remove();
+      if (specEvidence(p.specs, ($p("main").text() || $p("body").text()).replace(/\s+/g, " ").slice(0, 40_000)) < 4) continue;
+      const key = p.name.toLowerCase();
+      if (seenNames.has(key)) continue;
+      seenNames.add(key);
+      out.push(p);
+    }
   }
   for (const [draft, links] of linksByListing) for (const l of links) draft.memberUrls.add(normUrl(l));
   return { drafts: out, collections };

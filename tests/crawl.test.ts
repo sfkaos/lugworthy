@@ -1,6 +1,6 @@
 import { finishCollections, keepCollection, normUrl, parseListing } from "../lib/crawl/collections";
 import { describe, expect, it } from "vitest";
-import { looksLikeWatch, mapShopifyProduct, mergeWithPrevious, specsFrom, stripSiteSuffix, type BrandCatalog } from "../lib/crawl/catalog";
+import { looksLikeWatch, mapShopifyProduct, mergeWithPrevious, isModelName, parseProductPage, shallowPageUrls, specEvidence, specsFrom, stripSiteSuffix, type BrandCatalog } from "../lib/crawl/catalog";
 import { extractDetail, extractSpecPairs } from "../lib/crawl/detail";
 import { parseRobots, robotsAllowsPath } from "../lib/crawl/fetch";
 import { findBrandImage, fullSizeImage, load } from "../lib/crawl/html";
@@ -125,5 +125,41 @@ describe("collections", () => {
     expect(watches[0].collectionIds).toEqual(["BRD-0001/divers", "BRD-0001/field"]);
     expect(watches[1].collectionIds).toEqual(["BRD-0001/divers"]);
     expect(watches[2].collectionIds).toEqual([]);
+  });
+});
+
+describe("model pages on small brand sites", () => {
+  it("keeps shallow same-host pages and drops info pages", () => {
+    const urls = shallowPageUrls([
+      "https://www.brand.com/the-field-watch/", "https://brand.com/nimrod", "https://brand.com/en/tartaruga",
+      "https://brand.com/about", "https://brand.com/contact-us", "https://brand.com/journal", "https://brand.com/fr/heritage",
+      "https://brand.com/", "https://brand.com/a/b/c", "https://other.com/x", "https://brand.com/logo.png", "https://brand.com/2024/05",
+    ], "brand.com");
+    expect(urls).toEqual(["https://www.brand.com/the-field-watch/", "https://brand.com/nimrod", "https://brand.com/en/tartaruga"]);
+  });
+
+  const empty = specsFrom("");
+  it("needs a case size and a water resistance, plus other spec signs", () => {
+    const sheet = "Specifications: Movement Miyota 9015. 42mm stainless steel case. Water resistant 10ATM. Sapphire crystal. BGW9 lume.";
+    expect(specEvidence(empty, sheet)).toBeGreaterThanOrEqual(4);
+    // A story page that names sizes but no water resistance is not a model page.
+    expect(specEvidence(empty, "Our first watches were 36mm and 40mm, with automatic movements in steel.")).toBe(0);
+    expect(specEvidence(empty, "Water-resistant and made on the Riviera.")).toBe(0);
+  });
+
+  it("names a model page from the heading that matches its title, not a hidden modal heading", () => {
+    const html = `<html><head><title>MING 37.09 Uni | MING</title><meta property="og:title" content="MING 37.09 Uni"></head>
+      <body><div class="modal"><h1>Orders</h1></div><main><h1>MING 37.09 Uni</h1><img src="/w.jpg" width="1200"><p>38mm, 100m water resistance</p></main></body></html>`;
+    const p = parseProductPage(html, "https://www.ming.watch/featured-product/ming-37-09-uni", "MING", true);
+    expect(p?.name).toBe("MING 37.09 Uni");
+    expect(p?.images[0]?.url).toBe("https://www.ming.watch/w.jpg");
+  });
+
+  it("rejects menu, category, story and home-page names", () => {
+    for (const n of ["Reviews", "Press Room", "FIND YOUR WATCH", "Kollektion", "Taucheruhren", "Jetliner Collection", "Military Watches - Swiss Made Titanium", "Parivas Watches", "Complete Rolex Clone Collection Guide", "7 Jahre Garantie", "Marco Lang Uhrmachermeister Dresden", "Features", "order page for Sherpa Watches OPS", "NEW MODEL: Pro Aviator"])
+      expect(isModelName(n, n.includes("Parivas") ? "Parivas" : "Brand"), n).toBe(false);
+    expect(isModelName("OVSKY - We design watches in Poland", "Ovsky Watches")).toBe(false);
+    expect(isModelName("F.P.Journe", "F.P. Journe")).toBe(false);
+    for (const n of ["The Field Watch", "MING 37.09 Uni", "Snowdon", "DB27", "Lost Sea 41 M"]) expect(isModelName(n, "Brand"), n).toBe(true);
   });
 });
