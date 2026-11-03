@@ -11,6 +11,7 @@ import {
 import { finishCollections, listingLinks, normUrl, parseListing, shopifyCollections, wooCollections, type Collection, type CollectionDraft, type WooCategoryRef } from "./collections";
 import { type Availability, extractDetail, schemaAvailability } from "./detail";
 import { allowedGet, getRobots, politeGet, robotsAllowsPath, type FetchResult } from "./fetch";
+import { fetchSquareProducts, isSquareSite, squareFields, squareIds, squareStorePages, type SquareProduct } from "./square";
 import { absUrl, contentImages, findBrandImage, htmlText, jsonLd, ldImageUrl, ldTypes, load, type BrandImage, type ImageRef } from "./html";
 
 export type { Availability } from "./detail";
@@ -74,7 +75,7 @@ export interface BrandCatalog {
   website: string | null;
   crawledAt: string;
   status: CrawlStatus;
-  platform: "shopify" | "woocommerce" | "html" | null;
+  platform: "shopify" | "woocommerce" | "square" | "html" | null;
   brandImage: BrandImage | null;
   attribution: string | null;
   imageRights: "unknown";
@@ -99,12 +100,12 @@ const NOT_WATCH_TYPE = /strap|band|bracelet|accessor|apparel|clothing|merch|gift
 // German shop names: straps (Lederband, Silikonband, Edelstahlband ...), clasps, engravings,
 // spare crystals, rotors and casebacks.
 const NOT_WATCH_TITLE_DE = /\b\w*(leder|silikon|kautschuk|edelstahl|stahl|textil|canvas|nato|verlängerungs|uhren|arm|wechsel)band\b|\b\w*(stahl|gehäuse)boden\b|\b\w*schlie(ß|ss)e\b|\bgravur\b|\b\w*saphirglas\b|\b(automatik )?rotor( \d+)?$|^\S+ rotor (chronograph|automatik|\d+)$/i;
-const NOT_WATCH_TITLE = /\b(strap|straps|band|nato|rubber strap|leather strap|bracelet only|extra link|links?|spring ?bars?|buckle|clasp|deployant|gift ?card|e-?gift|voucher|t-?shirt|tee|hoodie|sweatshirt|cap|hat|beanie|keychain|key ?ring|sticker|poster|print|book|pouch|watch roll|travel case|watch box|winder|cleaning|cloth|tool|screwdriver|service|servicing|repair|warranty|insurance|shipping|deposit|reservation fee|spare|replacement|crystal only|crown only|bezel insert|mug|socks|tote|lanyard|pin|patch|coaster|wallpaper|membership|subscription|donation|tip)\b|pens?|fountain pen|rollerball|ballpoint|錶帶|表带|錶扣|筆|回娘家|ストラップ|ベルト|バンド|armband|bracelet en cuir|correa|cinturino|pulseira/i;
+const NOT_WATCH_TITLE = /\b(strap|straps|band|nato|rubber strap|leather strap|bracelet only|extra link|links?|spring ?bars?|buckle|clasp|deployant|gift ?card|e-?gift|voucher|t-?shirt|tee|hoodie|sweatshirt|cap|hat|beanie|keychain|key ?ring|sticker|poster|print|book|pouch|watch roll|travel case|watch box|winder|cleaning|cloth|tool|screwdriver|service|servicing|repair|warranty|insurance|shipping|deposit|reservation fee|spare|replacement|crystal only|crown only|bezel insert|mug|socks|tote|lanyard|pin|patch|coaster|wallpaper|membership|subscription|donation|tip|sunglasses|eyewear|watch cuff)\b|pens?|fountain pen|rollerball|ballpoint|錶帶|表带|錶扣|筆|回娘家|ストラップ|ベルト|バンド|armband|bracelet en cuir|correa|cinturino|pulseira/i;
 
 export function looksLikeWatch(title: string, productType = "", tags: string[] = [], priceMinor: number | null = null): boolean {
   const t = title.toLowerCase();
   if (NOT_WATCH_TITLE_DE.test(t) && !/\bmit\b/.test(t)) return false; // "Pilot 42 mit Stahlband" is a watch
-  if (NOT_WATCH_TITLE.test(t) && !/\bwatch\b|chronograph|automatic|diver/i.test(t.replace(/watch (box|roll|winder|strap|band)/g, ""))) return false;
+  if (NOT_WATCH_TITLE.test(t) && !/\bwatch\b|chronograph|automatic|diver/i.test(t.replace(/watch (box|roll|winder|strap|band|cuff)/g, ""))) return false;
   if (productType && NOT_WATCH_TYPE.test(productType) && !/watch|timepiece|montre|uhr|reloj/i.test(productType)) return false;
   if (tags.some((g) => /^(strap|straps|accessor(y|ies)|apparel|merch|gift ?card)$/i.test(g)) && !tags.some((g) => /^watch(es)?$/i.test(g))) return false;
   // Very cheap items are almost never watches from independent brands (straps, stickers, deposits).
@@ -309,6 +310,43 @@ export function mapWooProduct(p: WooProduct): DraftWatch | null {
     specs: specsFrom(descHtml, specsRaw, cats),
     specsRaw,
   };
+}
+
+export function mapSquareProduct(p: SquareProduct, currency: string | null): DraftWatch | null {
+  const f = squareFields(p);
+  // Shops write stock notes into the name ("Barracuda Blue 200M SOLD OUT", "- Now Shipping").
+  f.name = f.name.replace(/\s*[-–]\s*now shipping.*$/i, "").replace(/\s*\bsold out\b\s*\*?/gi, " ").replace(/[\s.]+$/, "").replace(/\s+/g, " ").trim();
+  if (!f.name || !looksLikeWatch(f.name, "", [], f.priceMinor)) return null;
+  const specsRaw: Record<string, string> = { ...extractDetail(load(`<main>${f.descHtml}</main>`)).specsRaw };
+  return {
+    name: f.name,
+    url: f.url ?? "",
+    image: f.images[0] ?? null,
+    images: f.images,
+    priceMinor: f.priceMinor,
+    currency: f.priceMinor ? currency : null,
+    availability: f.availability,
+    description: htmlText(f.descHtml).slice(0, 4000) || null,
+    productType: null,
+    tags: [],
+    options: [],
+    variants: [],
+    specs: specsFrom(f.descHtml, specsRaw),
+    specsRaw,
+  };
+}
+
+/** Square Online / Weebly store: ids from the homepage, or from its linked shop or /store/ page. */
+async function trySquare(homeHtml: string, homeUrl: string): Promise<DraftWatch[] | null> {
+  let ids = squareIds(homeHtml);
+  for (const u of ids ? [] : squareStorePages(homeHtml, homeUrl)) {
+    const r = await allowedGet(u);
+    if (r?.ok && (ids = squareIds(r.text))) break;
+  }
+  if (!ids) return null;
+  const products = await fetchSquareProducts(ids);
+  if (!products) return null;
+  return products.map((p) => mapSquareProduct(p, ids!.currency)).filter((w): w is DraftWatch => !!w && !!w.url).slice(0, MAX_WATCHES);
 }
 
 async function tryWoo(origin: string): Promise<{ drafts: DraftWatch[]; raw: WooProduct[] } | null> {
@@ -710,6 +748,10 @@ export async function crawlBrand(brand: BrandInput): Promise<BrandCatalog> {
       drafts = woo.drafts;
       if (drafts.length) collectionDrafts = await wooCollections(origin, woo.raw);
     }
+  }
+  if (!drafts?.length && isSquareSite(home.text)) {
+    const sq = await trySquare(home.text, home.url);
+    if (sq?.length) { platform = "square"; drafts = sq; }
   }
   if (drafts?.length) {
     // Storefront APIs give the list; the detail pages add the full spec sheet.
