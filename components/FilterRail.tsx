@@ -278,7 +278,8 @@ function RangeBox({ id, label, placeholder, unit, value, onChange, onCommit }: {
         onFocus={() => setEditing(true)}
         onChange={(e) => { setText(e.target.value); onChange(parse(e.target.value)); }}
         onBlur={() => { setEditing(false); onCommit(parse(text)); }}
-        onKeyDown={(e) => e.key === "Enter" && onCommit(parse(text))}
+        // Enter commits through blur, so the box leaves editing mode and shows the committed (maybe swapped) value.
+        onKeyDown={(e) => e.key === "Enter" && e.currentTarget.blur()}
       />
       {unit !== "$" && <span aria-hidden className="text-muted">{unit}</span>}
     </div>
