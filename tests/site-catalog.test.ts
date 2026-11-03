@@ -70,12 +70,14 @@ describe("crawled watch names and URLs", async () => {
     expect(s).toMatch(/^watch-[0-9a-f]{8}$/);
     expect(watchSlug("e4-b8-8a-e4-b8-8b-e5-9d-a1-e6-96-b9-e5-bd-a2-e6-b0-b4-e6-b3-a5-e9-8c-b6-e6-b9-96")).toBe(s);
     expect(watchSlug("4d-horse-golden")).toBe("4d-horse-golden");
+    expect(watchSlug("d-e1-bb-a9c-eye-dial-made-to-order")).toMatch(/^eye-dial-made-to-order-[0-9a-f]{8}$/);
+    expect(watchSlug("andoandoando-x-minimal-wear-ref-22-00")).toBe("andoandoando-x-minimal-wear-ref-22-00");
   });
   it("drops upgrade and trade-in listings", async () => {
     const { snapshotCatalog } = await import("@/lib/data");
     const c = snapshotCatalog(await loadCatalogIndex(), await loadAllBrandCatalogs());
     expect(c.models.some((m) => /回娘家/.test(m.name))).toBe(false);
     expect(c.models.some((m) => /&#\d+;|&amp;/.test(m.name))).toBe(false);
-    expect(c.models.filter((m) => m.origin === "site").every((m) => !/e[0-9a-f]-[0-9a-f]{2}-[0-9a-f]{2}/.test(m.slug))).toBe(true);
+    expect(c.models.filter((m) => m.origin === "site").every((m) => !/(^|-)e[0-9a-f]-[0-9a-f]{2}-[0-9a-f]{2}/.test(m.slug))).toBe(true);
   });
 });
