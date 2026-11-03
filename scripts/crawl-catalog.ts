@@ -75,14 +75,18 @@ if (maxAgeDays > 0 || skipSince) {
 // crashes it is skipped for this run, so one bad site can't stop the whole crawl.
 const inflightFile = path.join(outDir, ".inflight.log");
 const crashCounts = new Map<string, number>();
+const doneThisRun = new Set<string>();
 try {
   for (const line of fs.readFileSync(inflightFile, "utf8").split("\n")) {
     const [kind, id] = line.split(" ");
     if (kind === "start") crashCounts.set(id, (crashCounts.get(id) ?? 0) + 1);
-    if (kind === "done") crashCounts.delete(id);
+    if (kind === "done") { crashCounts.delete(id); doneThisRun.add(id); }
   }
 } catch { /* no earlier attempt */ }
 if (crashCounts.size) console.error(`In progress when the last attempt stopped: ${[...crashCounts].map(([id, n]) => `${id} (x${n})`).join(", ")}`);
+// Brands finished by an earlier attempt of this job are not crawled again, even when they kept
+// an older catalog (and so an older crawledAt) because their site was down.
+if (doneThisRun.size) brands = brands.filter((b) => !doneThisRun.has(b.brandId));
 const poisoned = [...crashCounts].filter(([, n]) => n >= 2).map(([id]) => id);
 if (poisoned.length) {
   console.error(`Skipping brands that were in progress during 2 crashes: ${poisoned.join(", ")}`);
