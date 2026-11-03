@@ -10,6 +10,11 @@ import type { Db } from "@/lib/db/client";
 
 const CHUNK = 500;
 
+// site_watches.price_minor is a 32-bit integer. A few shops list prices in units the crawler
+// over-scales (e.g. ¥26,774,000 read as 2,677,400,000); store no price rather than fail the import.
+const MAX_PRICE_MINOR = 2_147_483_647;
+const safePrice = (v: number | null | undefined) => (v != null && Number.isFinite(v) && v > 0 && v <= MAX_PRICE_MINOR ? Math.round(v) : null);
+
 export interface CatalogImportResult {
   brands: number;
   watches: number;
@@ -42,7 +47,7 @@ export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[], opts
       attribution: c.attribution, imageRights: c.imageRights ?? "unknown", importedAt: new Date(),
     };
     const watches = c.watches.map((w, i) => ({
-      id: w.id, brandId, name: w.name, url: w.url, priceMinor: w.priceMinor, currency: w.currency, available: w.available,
+      id: w.id, brandId, name: w.name, url: w.url, priceMinor: safePrice(w.priceMinor), currency: w.currency, available: w.available,
       specs: w.specs ?? {}, hash: w.hash ?? null, position: i, crawledAt,
       availability: w.availability ?? null,
       soldOut: w.soldOut ?? (w.available == null ? null : !w.available),

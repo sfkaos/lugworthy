@@ -94,7 +94,8 @@ export interface CatalogIndex {
   brands: CatalogIndexRow[];
 }
 
-const DIR = path.join(process.cwd(), "data", "catalog");
+// LUGWORTHY_CATALOG_DIR points tests at a small copy of the catalog (tests/catalog-subset.ts).
+const DIR = process.env.LUGWORTHY_CATALOG_DIR || path.join(process.cwd(), "data", "catalog");
 const EMPTY: CatalogIndex = { generatedAt: null, brands: [] };
 
 async function readJson<T>(file: string): Promise<T | null> {
