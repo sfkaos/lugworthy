@@ -18,7 +18,7 @@ export interface CatalogImportResult {
   skipped: string[]; // brand IDs with a file but no brand in the database
 }
 
-export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[]): Promise<CatalogImportResult> {
+export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[], opts: { reorder?: boolean } = {}): Promise<CatalogImportResult> {
   const result: CatalogImportResult = { brands: 0, watches: 0, images: 0, skipped: [] };
   if (!catalogs.length) return result;
   const known = await db
@@ -83,13 +83,27 @@ export async function importBrandCatalogs(db: Db, catalogs: BrandCatalog[]): Pro
     result.images += images.length;
     result.collections = (result.collections ?? 0) + collections.length;
   }
-  if (result.brands) await reorderBrands(db);
+  if (result.brands && opts.reorder !== false) await reorderBrands(db);
   return result;
 }
 
-/** Imports every brand listed in data/catalog/index.json. */
+/**
+ * Imports every brand listed in data/catalog/index.json. Files are read a few at a time:
+ * the full catalog is well over 100 MB of JSON, more than the 512 MB crawl job can hold at once.
+ */
 export async function importCatalogDir(db: Db, dir?: string): Promise<CatalogImportResult> {
   const index = await loadCatalogIndex(dir);
-  const files = await Promise.all(index.brands.map((r) => loadBrandCatalog(r.brandId, dir)));
-  return importBrandCatalogs(db, files.filter((f): f is BrandCatalog => f !== null));
+  const result: CatalogImportResult = { brands: 0, watches: 0, images: 0, collections: 0, skipped: [] };
+  const BATCH = 10;
+  for (let i = 0; i < index.brands.length; i += BATCH) {
+    const files = await Promise.all(index.brands.slice(i, i + BATCH).map((r) => loadBrandCatalog(r.brandId, dir)));
+    const r = await importBrandCatalogs(db, files.filter((f): f is BrandCatalog => f !== null), { reorder: false });
+    result.brands += r.brands;
+    result.watches += r.watches;
+    result.images += r.images;
+    result.collections = (result.collections ?? 0) + (r.collections ?? 0);
+    result.skipped.push(...r.skipped);
+  }
+  if (result.brands) await reorderBrands(db);
+  return result;
 }

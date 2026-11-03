@@ -506,6 +506,15 @@ export function parseProductPage(html: string, pageUrl: string, brandName: strin
   };
 }
 
+/**
+ * Copies a parsed result so it no longer points into the page it came from. Strings cut from a
+ * page (titles, prices, descriptions) can keep the whole page alive in V8; some shop pages are
+ * 2 MB+, so a few dozen of them filled the crawler's 256 MB heap.
+ */
+function detach<T>(value: T): T {
+  return structuredClone(value);
+}
+
 async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand: BrandInput): Promise<{ drafts: DraftWatch[]; collections: CollectionDraft[] }> {
   const robots = await getRobots(origin);
   const host = new URL(origin).host.replace(/^www\./, "");
@@ -527,7 +536,7 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
   for (const u of listings) {
     const r = await allowedGet(u);
     if (!r?.ok || !/html/i.test(r.contentType)) continue;
-    const { draft, links } = parseListing(r.text, r.url, brand.name, PRODUCT_PATH);
+    const { draft, links } = detach(parseListing(r.text, r.url, brand.name, PRODUCT_PATH));
     collections.push(draft);
     linksByListing.set(draft, links);
     fromListings.push(...links);
@@ -551,7 +560,7 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
       seenNames.add(key);
       // Listing links point at the requested URL; keep both forms for collection matching.
       if (normUrl(r.url) !== k) for (const links of linksByListing.values()) if (links.some((l) => normUrl(l) === k)) links.push(r.url);
-      out.push(p);
+      out.push(detach(p));
     }
   };
   const productLinks = [...mapUrls.filter(sameHost).filter(pick(PRODUCT_PATH)), ...productUrlsFromHome(homeDom, homeUrl)];

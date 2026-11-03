@@ -164,8 +164,17 @@ export function findBrandImage($: CheerioRoot, pageUrl: string, brandName: strin
 /** Plain text of an HTML fragment, for spec extraction. */
 export const htmlText = (html: string) => html.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
 
+/**
+ * Parses a page. Script and style blocks are dropped first (JSON-LD is kept, the crawler reads
+ * it): on some site builders (Wix) they are most of a 2–3 MB page, and parsing them took well
+ * over 100 MB, enough to overflow the crawl job's 256 MB heap. Nothing reads them from the DOM.
+ */
 export function load(html: string): CheerioRoot {
-  return cheerio.load(html);
+  return cheerio.load(
+    html
+      .replace(/<script\b(?![^>]*application\/ld\+json)[^>]*>[\s\S]*?<\/script\s*>/gi, "")
+      .replace(/<style\b[^>]*>[\s\S]*?<\/style\s*>/gi, ""),
+  );
 }
 
 /** First few content images on a page (outside header, nav and footer), for pages without og:image. */

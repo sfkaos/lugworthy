@@ -19,10 +19,16 @@ case "${1:-crawl}" in
     if [[ -n "${CRAWL_SKIP_SINCE:-}" && "$CRAWL_SKIP_SINCE" > "$since" ]]; then since="$CRAWL_SKIP_SINCE"; fi
     # If the crawler dies (e.g. out of memory on one heavy site), start it again: it skips
     # brands it already finished, so each attempt continues where the last one stopped.
-    crawl_ok=0
-    for attempt in 1 2 3 4 5 6 7 8 9 10; do
-      if run crawl-catalog --concurrency "${CRAWL_CONCURRENCY:-2}" --save-each --skip-since "$since"; then crawl_ok=1; break; fi
-      echo "crawl stopped (attempt $attempt); restarting" >&2
+    # Exit code 75 means the crawler stopped on purpose to free memory; that restart doesn't
+    # count as a failed attempt (capped at 200 so a bad loop still ends).
+    crawl_ok=0 attempt=0 restarts=0
+    while (( attempt < 10 && restarts < 200 )); do
+      code=0
+      run crawl-catalog --concurrency "${CRAWL_CONCURRENCY:-2}" --save-each --skip-since "$since" || code=$?
+      if (( code == 0 )); then crawl_ok=1; break; fi
+      if (( code == 75 )); then restarts=$((restarts + 1)); echo "crawl paused to free memory; restarting" >&2; continue; fi
+      attempt=$((attempt + 1))
+      echo "crawl stopped with code $code (attempt $attempt); restarting" >&2
     done ;;
   availability) run check-availability ;;
   *) echo "unknown job $1" >&2; exit 2 ;;
