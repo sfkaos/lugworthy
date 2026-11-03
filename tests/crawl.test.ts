@@ -156,7 +156,7 @@ describe("model pages on small brand sites", () => {
   });
 
   it("rejects menu, category, story and home-page names", () => {
-    for (const n of ["Reviews", "Press Room", "FIND YOUR WATCH", "Kollektion", "Taucheruhren", "Jetliner Collection", "Military Watches - Swiss Made Titanium", "Parivas Watches", "Complete Rolex Clone Collection Guide", "7 Jahre Garantie", "Marco Lang Uhrmachermeister Dresden", "Features", "order page for Sherpa Watches OPS", "NEW MODEL: Pro Aviator"])
+    for (const n of ["Reviews", "Press Room", "FIND YOUR WATCH", "Kollektion", "Taucheruhren", "Jetliner Collection", "Military Watches - Swiss Made Titanium", "Parivas Watches", "Complete Rolex Clone Collection Guide", "7 Jahre Garantie", "Marco Lang Uhrmachermeister Dresden", "Features", "order page for Sherpa Watches OPS", "NEW MODEL: Pro Aviator", "MING FKM Rubber Black", "20mm Bracelet", "MING Polymesh"])
       expect(isModelName(n, n.includes("Parivas") ? "Parivas" : "Brand"), n).toBe(false);
     expect(isModelName("OVSKY - We design watches in Poland", "Ovsky Watches")).toBe(false);
     expect(isModelName("F.P.Journe", "F.P. Journe")).toBe(false);

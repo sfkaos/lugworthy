@@ -327,7 +327,7 @@ async function tryWoo(origin: string): Promise<{ drafts: DraftWatch[]; raw: WooP
 
 const PRODUCT_PATH = /\/(products?|produits?|produkte?|productos?|prodotti|prodotto|produtos?|artikel|shop|store|boutique|tienda|negozio|watch(es)?|timepieces?|collections\/[^/]+\/products|montres?|uhren|relojes|orologi|item|p|product-page|featured-product)\/[^/?#]+\/?$|\/\d+-[a-z0-9-]+\.html$/i;
 // Brands without a shop often have one page per model: /watches/the-carter, /collections/architect.
-const MODEL_PATH = /\/(watches|watch|collections?|models?|timepieces?|montres?|uhren|relojes|orologi|series)\/[^/?#]+\/?$/i;
+const MODEL_PATH = /\/(watches|watch|collections?|models?|featured-product|timepieces?|montres?|uhren|relojes|orologi|series)\/[^/?#]+\/?$/i;
 const SKIP_PATH = /\/(cart|account|login|blog|news|journal|pages?|policies|search|tag|category|categories|collections?\/?$)/i;
 
 // Small brands often give each model its own top-level page (/the-field-watch, /nimrod).
@@ -345,6 +345,8 @@ export function isModelName(name: string, brandName: string, siteTitle = ""): bo
   if (!first || NOT_A_MODEL_NAME.test(first) || NOT_A_MODEL_WORDS.test(name)) return false;
   // "Military Watches", "Taucheruhren", "Jetliner Collection" are categories.
   if (/(watches|uhren|montres|collection|collections|kollektion)$/i.test(first)) return false;
+  // Straps and bracelets on brand sites without a shop ("MING FKM Rubber Black", "20mm Bracelet").
+  if (/\b(bracelets?|straps?|rubber|fkm|polymesh|mesh|nato|leather band)\b/i.test(first) && !/\bwatch\b/i.test(first)) return false;
   const norm = (x: string) => x.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
   const n = norm(first), b = norm(brandName), t = norm(siteTitle);
   if (!n || n === b || (t && (n === t || t.startsWith(n)))) return false;
@@ -545,15 +547,18 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
   const seenNames = new Set<string>();
   const out: DraftWatch[] = [];
   const tried = new Set<string>();
+  // Pages the strict (shop markup) pass fetched but rejected; the model-page passes may read them again.
+  const strictRejects = new Set<string>();
   const run = async (urls: string[], allowModel: boolean) => {
     for (const u of [...new Set(urls)].sort((a, b) => foreign(a) - foreign(b))) {
       if (tried.size >= MAX_HTML_PAGES) break;
       const k = normUrl(u);
-      if (tried.has(k)) continue;
+      if (tried.has(k) && !(allowModel && strictRejects.delete(k))) continue;
       tried.add(k);
       const r = await allowedGet(u);
       if (!r?.ok || !/html/i.test(r.contentType)) continue;
       const p = parseProductPage(r.text, r.url, brand.name, allowModel);
+      if (!p && !allowModel) strictRejects.add(k);
       if (!p || !looksLikeWatch(p.name, "", [], p.priceMinor) || (allowModel && !isModelName(p.name, brand.name, siteTitle))) continue;
       const key = p.name.toLowerCase();
       if (seenNames.has(key)) continue;
@@ -575,10 +580,11 @@ async function tryHtml(origin: string, homeHtml: string, homeUrl: string, brand:
     // read like one watch's spec sheet. Pages linked from the homepage go first.
     const homeLinks: string[] = [];
     homeDom("a[href]").each((_, el) => { const u = absUrl(homeDom(el).attr("href"), homeUrl); if (u) homeLinks.push(u); });
-    const cands = shallowPageUrls([...homeLinks, ...mapUrls], host).filter((u) => !tried.has(normUrl(u))).slice(0, MAX_MODEL_PAGES);
+    const fresh = (u: string) => !tried.has(normUrl(u)) || strictRejects.has(normUrl(u));
+    const cands = shallowPageUrls([...homeLinks, ...mapUrls], host).filter(fresh).slice(0, MAX_MODEL_PAGES);
     for (const u of cands.sort((a, b) => foreign(a) - foreign(b))) {
       const k = normUrl(u);
-      if (tried.has(k)) continue;
+      if (tried.has(k) && !strictRejects.delete(k)) continue;
       tried.add(k);
       const r = await allowedGet(u);
       if (!r?.ok || !/html/i.test(r.contentType)) continue;
