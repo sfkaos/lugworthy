@@ -60,7 +60,7 @@ export async function WatchesView({ search }: { search: WatchesSearch }) {
     <div className="mx-auto max-w-7xl px-4 py-8">
       <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
         <div>
-          <h1 className="text-3xl font-semibold">{t("browse.title")}</h1>
+          <h1 className="text-4xl md:text-5xl">{t("browse.title")}</h1>
           <p className="tabular mt-1 text-muted" aria-live="polite">{t("browse.count", { count: r.total })}</p>
         </div>
         <Form key={toSearchParams({ ...f, page: undefined }).toString()} action="/watches" role="search" className="flex w-full max-w-md gap-2">

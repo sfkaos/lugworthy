@@ -89,7 +89,7 @@ export default async function BrandPage({ params }: { params: P }) {
           <div className="flex flex-wrap items-center gap-4">
             <BrandLogo name={brand.name} url={logo} size="lg" />
             <div>
-              <h1 className="font-serif text-4xl font-semibold tracking-tight">{brand.name}</h1>
+              <h1 className="text-4xl md:text-5xl">{brand.name}</h1>
               <p className="mt-1 opacity-80">
                 {[place || null, priceMin != null ? `${money(priceMin)}${priceMax && priceMax !== priceMin ? `–${money(priceMax)}` : ""}` : brand.priceBand ? t(`enum.band.${brand.priceBand}`) : null].filter(Boolean).join(" · ")}
               </p>
@@ -107,7 +107,7 @@ export default async function BrandPage({ params }: { params: P }) {
         <div className="min-w-0">
           {brand.story && (
             <section className="mb-8 max-w-prose">
-              <h2 className="mb-2 text-xl font-semibold">{t("brand.story")}</h2>
+              <h2 className="mb-2 text-3xl">{t("brand.story")}</h2>
               <p className="text-lg leading-relaxed">{brand.story}</p>
               {brand.styleTags.length > 0 && (
                 <p className="mt-3 flex flex-wrap gap-1.5">
@@ -119,7 +119,7 @@ export default async function BrandPage({ params }: { params: P }) {
 
           <section aria-labelledby="models-h">
             <div className="mb-3 flex flex-wrap items-baseline justify-between gap-2">
-              <h2 id="models-h" className="text-xl font-semibold">{t("brand.models")} <span className="tabular text-base font-normal text-muted">({models.length})</span></h2>
+              <h2 id="models-h" className="text-3xl">{t("brand.models")} <span className="tabular text-base font-normal text-muted">({models.length})</span></h2>
               {brand.lastSyncedAt && (
                 <p className="text-xs text-muted">
                   {models.some((m) => m.origin === "site")
@@ -138,7 +138,7 @@ export default async function BrandPage({ params }: { params: P }) {
           </section>
 
           <section className="mt-10" aria-labelledby="videos-h">
-            <h2 id="videos-h" className="mb-2 text-xl font-semibold">{t("brand.videos")}</h2>
+            <h2 id="videos-h" className="mb-2 text-3xl">{t("brand.videos")}</h2>
             <p className="text-muted">{t("brand.noVideos")}</p>
           </section>
         </div>
