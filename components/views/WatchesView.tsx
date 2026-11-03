@@ -4,16 +4,14 @@ import { getTranslations } from "next-intl/server";
 import { FilterRail, type Bounds } from "@/components/FilterRail";
 import { ModelGrid } from "@/components/ModelCard";
 import { SortSelect } from "@/components/SortSelect";
-import { MULTI_FACETS, parseFilters, toSearchParams, type Filters } from "@/lib/filters";
+import { MULTI_FACETS, PRICE_STOPS, activeCount, formatRangeValue, linearStops, parseFilters, rangeText, toSearchParams, type Filters } from "@/lib/filters";
 import { facetLabels } from "@/lib/labels";
 import { browseBounds, browseWatches } from "@/lib/site-data";
 
 export type WatchesSearch = Record<string, string | string[] | undefined>;
 
-function bounds([lo, hi]: [number | null, number | null], step: number, unit: string): Bounds {
-  if (lo == null || hi == null) return { min: 0, max: 1, step, unit };
-  return { min: Math.floor(lo / step) * step, max: Math.ceil(hi / step) * step, step, unit };
-}
+/** Half-millimetre slider stops between the catalog's 0.5th and 99.5th percentiles. */
+const mm = (range: [number | null, number | null]): Bounds => ({ stops: linearStops(range[0], range[1], 0.5), unit: "mm" });
 
 /** The watch browser. /watches renders it unfiltered (cached); /browse/watches renders filtered views. */
 export async function WatchesView({ search }: { search: WatchesSearch }) {
@@ -23,23 +21,15 @@ export async function WatchesView({ search }: { search: WatchesSearch }) {
   const [r, range] = await Promise.all([browseWatches(f), browseBounds()]);
   const labels = await facetLabels(r.counts);
 
-  const b = {
-    price: bounds(range.price, 50, ""),
-    dia: bounds(range.dia, 0.5, "mm"),
-    l2l: bounds(range.l2l, 0.5, "mm"),
-    thk: bounds(range.thk, 0.5, "mm"),
-  };
+  const b = { price: { stops: PRICE_STOPS, unit: "$" }, dia: mm(range.dia), l2l: mm(range.l2l), thk: mm(range.thk) };
 
   // Active chips with a link that removes each one.
   const chips: { label: string; href: string }[] = [];
   const without = (patch: Partial<Filters>) => `/watches?${toSearchParams({ ...f, ...patch, page: undefined })}`;
   if (f.q) chips.push({ label: `“${f.q}”`, href: without({ q: undefined }) });
   const rangeLabel = (k: "price" | "dia" | "l2l" | "thk", unit: string) => {
-    const v = f[k];
-    if (!v) return;
-    const lo = v.min != null ? `${unit === "$" ? "$" : ""}${v.min}` : "";
-    const hi = v.max != null ? `${unit === "$" ? "$" : ""}${v.max}` : "";
-    chips.push({ label: `${t(`facet.${k}`)}: ${lo || "…"}–${hi || "…"}${unit !== "$" ? ` ${unit}` : ""}`, href: without({ [k]: undefined }) });
+    const text = rangeText(f[k], (n) => formatRangeValue(n, unit));
+    if (text) chips.push({ label: `${k === "price" ? t("browse.price") : t(`facet.${k}`)}: ${text}`, href: without({ [k]: undefined }) });
   };
   rangeLabel("price", "$");
   rangeLabel("dia", "mm");
@@ -58,28 +48,33 @@ export async function WatchesView({ search }: { search: WatchesSearch }) {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
-      <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
-        <div>
-          <h1 className="text-4xl md:text-5xl">{t("browse.title")}</h1>
-          <p className="tabular mt-1 text-muted" aria-live="polite">{t("browse.count", { count: r.total })}</p>
-        </div>
-        <Form key={toSearchParams({ ...f, page: undefined }).toString()} action="/watches" role="search" className="flex w-full max-w-md gap-2">
-          {Object.entries(Object.fromEntries(toSearchParams({ ...f, q: undefined, page: undefined }))).map(([k, v]) => (
-            <input key={k} type="hidden" name={k} value={v} />
-          ))}
-          <label htmlFor="browse-q" className="sr-only">{t("nav.search")}</label>
-          <input id="browse-q" name="q" type="search" defaultValue={f.q} className="input" placeholder={t("nav.searchPlaceholder")} />
-          <button className="btn">{t("nav.search")}</button>
-        </Form>
-      </div>
+      <header className="mb-6">
+        <h1 className="text-4xl md:text-5xl">{t("browse.title")}</h1>
+        <p className="tabular mt-1 text-muted" aria-live="polite">{t("browse.count", { count: r.total })}</p>
+      </header>
 
-      <div className="grid gap-6 lg:grid-cols-[260px_1fr]">
-        <aside aria-label={t("browse.filters")}>
+      <div className="grid gap-6 lg:grid-cols-[260px_minmax(0,1fr)] lg:gap-10">
+        <aside aria-label={t("browse.filters")} className="lg:sticky lg:top-24 lg:max-h-[calc(100dvh-7rem)] lg:self-start lg:overflow-y-auto lg:pr-3">
+          <div className="mb-1 hidden h-9 items-center justify-between lg:flex">
+            <h2 className="text-sm font-semibold uppercase tracking-wider">{t("browse.filters")}</h2>
+            {activeCount(f) > 0 && <Link href="/watches" className="link text-sm">{t("browse.clearAll")}</Link>}
+          </div>
           <FilterRail filters={f} counts={r.counts} wrCounts={r.wrCounts} bounds={b} labels={labels} total={r.total} />
         </aside>
         <div className="min-w-0">
-          <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-            <ul className="flex flex-wrap gap-2" aria-label="Active filters">
+          <div className="mb-4 flex flex-wrap items-center gap-3">
+            <Form key={toSearchParams({ ...f, page: undefined }).toString()} action="/watches" role="search" className="flex min-w-0 flex-1 basis-64 gap-2">
+              {Object.entries(Object.fromEntries(toSearchParams({ ...f, q: undefined, page: undefined }))).map(([k, v]) => (
+                <input key={k} type="hidden" name={k} value={v} />
+              ))}
+              <label htmlFor="browse-q" className="sr-only">{t("browse.searchWithin")}</label>
+              <input id="browse-q" name="q" type="search" defaultValue={f.q} className="input h-9 min-h-9 text-sm" placeholder={t("browse.searchWithin")} />
+              <button className="btn h-9 min-h-9">{t("nav.search")}</button>
+            </Form>
+            <SortSelect value={sort} query={toSearchParams({ ...f, page: undefined }).toString()} />
+          </div>
+          {chips.length > 0 && (
+            <ul className="mb-4 flex flex-wrap gap-2" aria-label="Active filters">
               {chips.map((c) => (
                 <li key={c.href + c.label}>
                   <Link href={c.href} scroll={false} className="chip" aria-label={t("browse.remove", { label: c.label })}>
@@ -91,8 +86,7 @@ export async function WatchesView({ search }: { search: WatchesSearch }) {
                 <li><Link href="/watches" className="chip text-muted">{t("browse.clearAll")}</Link></li>
               )}
             </ul>
-            <SortSelect value={sort} query={toSearchParams({ ...f, page: undefined }).toString()} />
-          </div>
+          )}
 
           {r.total === 0 ? (
             <div className="card p-8 text-center">

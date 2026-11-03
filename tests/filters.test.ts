@@ -4,7 +4,7 @@ import { snapshotCatalog } from "@/lib/data";
 const catalog = snapshotCatalog();
 const publishedBrands = () => catalog.publishedBrands();
 const publishedModels = () => catalog.publishedModels();
-import { browse, parseFilters, textScore, toSearchParams } from "@/lib/filters";
+import { PRICE_STOPS, browse, formatRangeValue, linearStops, parseFilters, rangeText, textScore, toSearchParams } from "@/lib/filters";
 
 const models = publishedModels();
 
@@ -52,5 +52,23 @@ describe("data hygiene", () => {
   });
   it("shows no brand images while no license exists (AC-3)", () => {
     expect(publishedBrands().every((b) => b.imageLicenseStatus !== "granted")).toBe(true);
+  });
+});
+
+describe("range slider helpers", () => {
+  it("builds half-millimetre stops rounded outward", () => {
+    expect(linearStops(25.6, 27.2, 0.5)).toEqual([25.5, 26, 26.5, 27, 27.5]);
+    expect(linearStops(null, 40, 0.5)).toEqual([]);
+  });
+  it("price stops start at zero and climb", () => {
+    expect(PRICE_STOPS[0]).toBe(0);
+    expect(PRICE_STOPS.every((v, i) => i === 0 || v > PRICE_STOPS[i - 1])).toBe(true);
+  });
+  it("describes open and closed ranges", () => {
+    const usd = (n: number) => formatRangeValue(n, "$");
+    expect(rangeText({ min: 200, max: 1000 }, usd)).toBe("$200 – $1,000");
+    expect(rangeText({ min: 5000 }, usd)).toBe("$5,000+");
+    expect(rangeText({ max: 40.5 }, (n) => formatRangeValue(n, "mm"))).toBe("Up to 40.5 mm");
+    expect(rangeText({}, usd)).toBeUndefined();
   });
 });

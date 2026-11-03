@@ -13,7 +13,7 @@ const CHUNK = 500;
 // site_watches.price_minor is a 32-bit integer. A few shops list prices in units the crawler
 // over-scales (e.g. ¥26,774,000 read as 2,677,400,000); store no price rather than fail the import.
 const MAX_PRICE_MINOR = 2_147_483_647;
-const safePrice = (v: number | null | undefined) => (v != null && Number.isFinite(v) && v > 0 && v <= MAX_PRICE_MINOR ? Math.round(v) : null);
+export const safePrice = (v: number | null | undefined) => (v != null && Number.isFinite(v) && v > 0 && v <= MAX_PRICE_MINOR ? Math.round(v) : null);
 
 export interface CatalogImportResult {
   brands: number;

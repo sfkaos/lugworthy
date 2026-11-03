@@ -5,9 +5,10 @@ import { useTranslations } from "next-intl";
 import { useEffect, useId, useOptimistic, useState, useTransition } from "react";
 import { startNavProgress } from "./NavProgress";
 import type { FacetCounts, Filters, Range } from "@/lib/filters";
-import { WR_STEPS, formatRange } from "@/lib/filters";
+import { WR_STEPS, formatRange, formatRangeValue, rangeText } from "@/lib/filters";
 
-export interface Bounds { min: number; max: number; step: number; unit: string }
+/** Slider positions in order; the first and last mean "no limit". unit is "$" or "mm". */
+export interface Bounds { stops: number[]; unit: string }
 
 interface Props {
   filters: Filters;
@@ -61,7 +62,7 @@ export function FilterRail({ filters: current, counts, wrCounts, bounds, labels,
 
   const body = (
     <div className="flex flex-col gap-1" aria-busy={pending}>
-      <RangeFacet title={t("facet.price")} bounds={bounds.price} value={filters.price} onCommit={(r) => push({ ...filters, price: r })} prefix="$" />
+      <RangeFacet title={t("facet.price")} bounds={bounds.price} value={filters.price} onCommit={(r) => push({ ...filters, price: r })} />
       <RangeFacet title={t("facet.dia")} bounds={bounds.dia} value={filters.dia} onCommit={(r) => push({ ...filters, dia: r })} />
       <RangeFacet title={t("facet.l2l")} bounds={bounds.l2l} value={filters.l2l} onCommit={(r) => push({ ...filters, l2l: r })} />
       <RangeFacet title={t("facet.thk")} bounds={bounds.thk} value={filters.thk} onCommit={(r) => push({ ...filters, thk: r })} />
@@ -129,10 +130,13 @@ export function FilterRail({ filters: current, counts, wrCounts, bounds, labels,
   );
 }
 
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
+function Section({ title, aside, children }: { title: string; aside?: React.ReactNode; children: React.ReactNode }) {
   return (
     <fieldset className="border-t border-line py-3 first:border-t-0">
-      <legend className="float-left mb-2 w-full text-sm font-semibold">{title}</legend>
+      <legend className="float-left mb-2 flex w-full items-baseline justify-between gap-2 text-sm font-semibold">
+        <span>{title}</span>
+        {aside}
+      </legend>
       <div className="clear-both">{children}</div>
     </fieldset>
   );
@@ -144,7 +148,10 @@ function MultiFacet({
   facet: string; title: string; counts: Record<string, number> | undefined; selected?: string[];
   labels?: Record<string, string>; onToggle: (v: string) => void; swatches?: boolean;
 }) {
-  const entries = Object.entries(counts ?? {}).sort((a, b) => b[1] - a[1] || (labels?.[a[0]] ?? a[0]).localeCompare(labels?.[b[0]] ?? b[0]));
+  // Most common first; "Other" is a catch-all, so it goes last even when it is the largest.
+  const entries = Object.entries(counts ?? {}).sort(
+    (a, b) => Number(a[0] === "other") - Number(b[0] === "other") || b[1] - a[1] || (labels?.[a[0]] ?? a[0]).localeCompare(labels?.[b[0]] ?? b[0]),
+  );
   const [showAll, setShowAll] = useState(false);
   if (!entries.length) return null;
   const visible = showAll ? entries : entries.slice(0, 8);
@@ -190,50 +197,91 @@ function MultiFacet({
   );
 }
 
-function RangeFacet({ title, bounds, value, onCommit, prefix = "" }: { title: string; bounds: Bounds; value?: Range; onCommit: (r: Range | undefined) => void; prefix?: string }) {
+function RangeFacet({ title, bounds, value, onCommit }: { title: string; bounds: Bounds; value?: Range; onCommit: (r: Range | undefined) => void }) {
+  const t = useTranslations();
   const id = useId();
-  const [lo, setLo] = useState(value?.min ?? bounds.min);
-  const [hi, setHi] = useState(value?.max ?? bounds.max);
+  const { stops, unit } = bounds;
+  const last = stops.length - 1;
+  // undefined = open end ("no minimum" / "no maximum").
+  const [lo, setLo] = useState<number | undefined>(value?.min);
+  const [hi, setHi] = useState<number | undefined>(value?.max);
   useEffect(() => {
-    setLo(value?.min ?? bounds.min);
-    setHi(value?.max ?? bounds.max);
-  }, [value?.min, value?.max, bounds.min, bounds.max]);
-  const commit = (a = lo, b = hi) => {
+    setLo(value?.min);
+    setHi(value?.max);
+  }, [value?.min, value?.max]);
+  if (last < 1) return null;
+
+  // Slider position for a typed value: the nearest stop at or below a minimum, at or above a maximum.
+  const loIdx = lo == null ? 0 : Math.max(0, stops.findLastIndex((s) => s <= lo));
+  const hiIdx = hi == null ? last : (() => { const i = stops.findIndex((s) => s >= hi); return i < 0 ? last : i; })();
+
+  const commit = (a: number | undefined, b: number | undefined) => {
+    if (a != null && b != null && a > b) [a, b] = [b, a];
+    if (a === value?.min && b === value?.max) return;
     const r: Range = {};
-    if (a > bounds.min) r.min = a;
-    if (b < bounds.max) r.max = b;
+    if (a != null) r.min = a;
+    if (b != null) r.max = b;
     onCommit(r.min == null && r.max == null ? undefined : r);
   };
-  const span = bounds.max - bounds.min || 1;
-  const left = ((lo - bounds.min) / span) * 100;
-  const right = ((hi - bounds.min) / span) * 100;
-  const fmt = (v: number) => `${prefix}${v.toLocaleString("en-US")}${bounds.unit ? ` ${bounds.unit}` : ""}`;
+  const keys = ["ArrowLeft", "ArrowRight", "ArrowUp", "ArrowDown", "Home", "End", "PageUp", "PageDown"];
+  const fmt = (v: number) => formatRangeValue(v, unit);
+  const pct = (i: number) => (i / last) * 100;
+  const summary = rangeText({ min: lo, max: hi }, fmt) ?? t("browse.any");
+
   return (
-    <Section title={title}>
-      <div className="range-dual" onPointerUp={() => commit()} onKeyUp={(e) => ["ArrowLeft", "ArrowRight", "ArrowUp", "ArrowDown", "Home", "End", "PageUp", "PageDown"].includes(e.key) && commit()}>
+    <Section title={title} aside={<span className="tabular text-xs font-normal text-muted">{summary}</span>}>
+      <div className="range-dual" style={{ ["--lo" as string]: pct(loIdx), ["--hi" as string]: pct(hiIdx) }}>
         <div className="track" />
-        <div className="fill" style={{ left: `${left}%`, width: `${Math.max(right - left, 0)}%` }} />
+        <div className="fill" />
         <input
-          type="range" aria-label={`${title} minimum`} min={bounds.min} max={bounds.max} step={bounds.step} value={lo}
-          aria-valuetext={fmt(lo)}
-          onChange={(e) => setLo(Math.min(Number(e.target.value), hi))}
+          type="range" className={loIdx === last ? "z-[3]" : undefined} aria-label={`${title} ${t("browse.min").toLowerCase()}`} min={0} max={last} step={1} value={loIdx}
+          aria-valuetext={lo == null ? t("browse.any") : fmt(lo)}
+          onChange={(e) => { const i = Math.min(Number(e.target.value), hiIdx); setLo(i === 0 ? undefined : stops[i]); }}
+          onPointerUp={() => commit(lo, hi)} onKeyUp={(e) => keys.includes(e.key) && commit(lo, hi)}
         />
         <input
-          type="range" aria-label={`${title} maximum`} min={bounds.min} max={bounds.max} step={bounds.step} value={hi}
-          aria-valuetext={fmt(hi)}
-          onChange={(e) => setHi(Math.max(Number(e.target.value), lo))}
+          type="range" aria-label={`${title} ${t("browse.max").toLowerCase()}`} min={0} max={last} step={1} value={hiIdx}
+          aria-valuetext={hi == null ? t("browse.any") : fmt(hi)}
+          onChange={(e) => { const i = Math.max(Number(e.target.value), loIdx); setHi(i === last ? undefined : stops[i]); }}
+          onPointerUp={() => commit(lo, hi)} onKeyUp={(e) => keys.includes(e.key) && commit(lo, hi)}
         />
       </div>
-      <div className="mt-1 flex items-center justify-between gap-2 text-sm">
-        <label className="sr-only" htmlFor={`${id}-lo`}>{title} minimum</label>
-        <input id={`${id}-lo`} className="input tabular h-8 min-h-8 w-24 px-2 text-sm" inputMode="decimal" value={lo}
-          onChange={(e) => setLo(Number(e.target.value) || bounds.min)} onBlur={() => commit()} onKeyDown={(e) => e.key === "Enter" && commit()} />
-        <span className="text-muted">–</span>
-        <label className="sr-only" htmlFor={`${id}-hi`}>{title} maximum</label>
-        <input id={`${id}-hi`} className="input tabular h-8 min-h-8 w-24 px-2 text-right text-sm" inputMode="decimal" value={hi}
-          onChange={(e) => setHi(Number(e.target.value) || bounds.max)} onBlur={() => commit()} onKeyDown={(e) => e.key === "Enter" && commit()} />
+      <div className="mt-2 flex items-center gap-2 text-sm">
+        <RangeBox id={`${id}-lo`} label={`${title} ${t("browse.min").toLowerCase()}`} placeholder={t("browse.min")} unit={unit} value={lo} onChange={setLo} onCommit={(v) => commit(v, hi)} />
+        <span aria-hidden className="text-muted">–</span>
+        <RangeBox id={`${id}-hi`} label={`${title} ${t("browse.max").toLowerCase()}`} placeholder={t("browse.max")} unit={unit} value={hi} onChange={setHi} onCommit={(v) => commit(lo, v)} />
       </div>
-      <p className="tabular mt-1 text-xs text-muted">{fmt(lo)} – {fmt(hi)}</p>
     </Section>
+  );
+}
+
+/** A typed minimum or maximum. Keeps the raw text while editing so "40." or an empty box work. */
+function RangeBox({ id, label, placeholder, unit, value, onChange, onCommit }: {
+  id: string; label: string; placeholder: string; unit: string; value?: number;
+  onChange: (v: number | undefined) => void; onCommit: (v: number | undefined) => void;
+}) {
+  const [text, setText] = useState(value == null ? "" : String(value));
+  const [editing, setEditing] = useState(false);
+  useEffect(() => {
+    if (!editing) setText(value == null ? "" : String(value));
+  }, [value, editing]);
+  const parse = (s: string) => {
+    const n = Number(s.replace(/[^0-9.]/g, ""));
+    return s.trim() === "" || !Number.isFinite(n) ? undefined : n;
+  };
+  return (
+    <div className="range-box">
+      <label className="sr-only" htmlFor={id}>{label}</label>
+      {unit === "$" && <span aria-hidden className="text-muted">$</span>}
+      <input
+        id={id} className="tabular" inputMode="decimal" autoComplete="off" placeholder={placeholder} value={text}
+        onFocus={() => setEditing(true)}
+        onChange={(e) => { setText(e.target.value); onChange(parse(e.target.value)); }}
+        onBlur={() => { setEditing(false); onCommit(parse(text)); }}
+        // Enter commits through blur, so the box leaves editing mode and shows the committed (maybe swapped) value.
+        onKeyDown={(e) => e.key === "Enter" && e.currentTarget.blur()}
+      />
+      {unit !== "$" && <span aria-hidden className="text-muted">{unit}</span>}
+    </div>
   );
 }
