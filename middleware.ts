@@ -20,7 +20,8 @@ export function middleware(req: NextRequest) {
   // next.config.ts turns off Next's trailing-slash redirect for the PostHog proxy, so do it here
   // for every other page: /brands/ → /brands.
   if (path.length > 1 && path.endsWith("/")) {
-    const url = req.nextUrl.clone();
+    // A plain URL: NextURL keeps the trailing slash when it formats, which loops.
+    const url = new URL(req.url);
     url.pathname = path.replace(/\/+$/, "") || "/";
     return NextResponse.redirect(url, 308);
   }
