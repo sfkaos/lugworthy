@@ -88,7 +88,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -180,7 +180,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -267,7 +267,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -369,7 +369,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -449,7 +449,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -527,7 +527,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -582,7 +582,7 @@
    ],
    "priceMinor": 36290,
    "currency": "EUR",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Order yourself a piece of history, created in the spirit of Estonia’s 108th anniversary . The AEGAON “Ilmarine” LTD is part of a limited series in which no more than 300 pieces are produced exclusively based on pre-orders. All watches are individually numbered 001–300. Your number will be assigned at random and cannot be selected. Each watch is accompanied by a hand-signed certificate of authenticity, confirming its originality and place within the limited edition. The “Ilmarine” LTD is based on the AEGAON “Genesis 2.0” model. Inside its carefully finished stainless-steel case operates a Seiko VH31 quartz movement , manufactured by the Japanese watchmaker Seiko. The watch is fitted with a custom-made , exceptionally comfortable and high-quality genuine leather strap , produced by our longest-standing German partner, Di-Modell. For optics, the watch features anti-reflective sapphire crystal – its hardness requires the sharpness of a diamond to scratch. With a water resistance rating of 5 ATM, the watch is more than capable of withstanding everyday conditions—even the rainiest day at the Song Festival. All watches are also available at the AEGAON shop in Tallinn, Rotermanni 7.",
    "productType": "watch",
    "tags": [],
@@ -603,13 +603,17 @@
     "strapType": null
    },
    "specsRaw": {},
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -661,7 +665,7 @@
    ],
    "priceMinor": 36290,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Order yourself a piece of history, created in the spirit of Estonia’s 108th anniversary . The AEGAON “Ilmarine” LTD is part of a limited series in which no more than 300 pieces are produced exclusively based on pre-orders. All watches are individually numbered 001–300. Your number will be assigned at random and cannot be selected. Each watch is accompanied by a hand-signed certificate of authenticity, confirming its originality and place within the limited edition. The “Ilmarine” LTD is based on the AEGAON “Genesis 2.0” model. Inside its carefully finished stainless-steel case operates a Seiko VH31 quartz movement , manufactured by the Japanese watchmaker Seiko. The watch is fitted with a custom-made , exceptionally comfortable and high-quality genuine leather strap , produced by our longest-standing German partner, Di-Modell. For optics, the watch features anti-reflective sapphire crystal – its hardness requires the sharpness of a diamond to scratch. With a water resistance rating of 5 ATM, the watch is more than capable of withstanding everyday conditions—even the rainiest day at the Song Festival. All watches are available for viewing and direct purchase at the AEGAON shop in Tallinn, Rotermanni 7. We also recommend reviewing the Inbank installment payment terms , which allow the order to be paid interest-free in three installments. The watch is now available for viewing and direct purchase at our shop in Tallinn, Rotermanni 7.",
    "productType": "watch",
    "tags": [],
@@ -682,13 +686,17 @@
     "strapType": null
    },
    "specsRaw": {},
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -780,7 +788,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -877,7 +885,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -973,7 +981,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1069,7 +1077,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1166,7 +1174,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1262,7 +1270,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1359,7 +1367,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1455,7 +1463,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1552,7 +1560,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1648,7 +1656,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1745,7 +1753,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1841,7 +1849,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -1938,7 +1946,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2035,7 +2043,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2131,7 +2139,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2228,7 +2236,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2313,7 +2321,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2398,7 +2406,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2483,7 +2491,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2564,7 +2572,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2645,7 +2653,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2736,7 +2744,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2863,7 +2871,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -2950,7 +2958,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3040,7 +3048,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3130,7 +3138,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3220,7 +3228,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3310,7 +3318,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3368,7 +3376,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3425,7 +3433,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3482,7 +3490,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3539,7 +3547,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3596,7 +3604,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3653,7 +3661,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3710,7 +3718,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3769,7 +3777,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3828,7 +3836,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3887,7 +3895,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -3954,7 +3962,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -4012,7 +4020,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -4101,7 +4109,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -4190,7 +4198,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -5381,7 +5389,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -5438,7 +5446,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -5483,7 +5491,7 @@
    ],
    "priceMinor": 23226,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "“Tabula Rasa 44” is designed for anyone who appreciates a slightly oversized watch with a 44mm diameter. Recognised for its very distinctive classic design full of character. You know it’s AEGAON when you see it. The latest version of “Tabula Rasa 44” comes with a 5 ATM water resistance. We have used only high quality components, such as the scratch proof sapphire crystal along with the well known Swiss quartz movement – “Ronda 715”. The casing is made of stainless steel 316L which is used by the world's most well known watch brands. AEGAON does not have hundreds of years of legacy, that’s exactly why we have to max out on the very best.",
    "productType": "watch",
    "tags": [
@@ -5521,13 +5529,17 @@
     "RETURNING THE E-STORE ORDER": "- It is extremely important that you let us know of your return intentions via our customer support e-mail hello(at)aegaon.com before you act. It's the only way you can be sure the refund process will also go quick and smooth.",
     "Returns are free ONLY": "with orders received via Omniva pick-up point service, within 14 days after receiving the order, using the return-code received in the notification SMS."
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -5614,7 +5626,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -5700,7 +5712,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -5776,7 +5788,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -5862,7 +5874,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -5953,7 +5965,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6044,7 +6056,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6135,7 +6147,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6226,7 +6238,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6286,7 +6298,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6351,7 +6363,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6413,7 +6425,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6498,7 +6510,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6589,7 +6601,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6685,7 +6697,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6750,7 +6762,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6830,7 +6842,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -6916,7 +6928,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7007,7 +7019,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7093,7 +7105,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7174,7 +7186,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7255,7 +7267,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7336,7 +7348,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7392,7 +7404,7 @@
    ],
    "priceMinor": 18710,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "“Tabula Rasa 38” is designed for anyone who appreciates a regular sized watch with a 38mm diameter. Recognised for its very distinctive classic design full of character. You know it’s AEGAON when you see it. The latest version of “Tabula Rasa 38” comes with a 5 ATM water resistance. We have used only high quality components, such as the scratch proof sapphire crystal along with the well known Swiss quartz movement – “Ronda 715”. The casing is made of stainless steel 316L which is used by the world's most well known watch brands. AEGAON does not have hundreds of years of legacy, that’s exactly why we have to max out on the very best.",
    "productType": "watch",
    "tags": [
@@ -7430,13 +7442,17 @@
     "RETURNING THE E-STORE ORDER": "- It is extremely important that you let us know of your return intentions via our customer support e-mail hello(at)aegaon.com before you act. It's the only way you can be sure the refund process will also go quick and smooth.",
     "Returns are free ONLY": "with orders received via Omniva pick-up point service, within 14 days after receiving the order, using the return-code received in the notification SMS."
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -7533,7 +7549,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7609,7 +7625,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7715,7 +7731,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7801,7 +7817,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7882,7 +7898,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -7963,7 +7979,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8049,7 +8065,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8130,7 +8146,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8216,7 +8232,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8322,7 +8338,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8418,7 +8434,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8478,7 +8494,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8537,7 +8553,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8627,7 +8643,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8713,7 +8729,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8794,7 +8810,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8875,7 +8891,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -8966,7 +8982,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9052,7 +9068,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9138,7 +9154,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9229,7 +9245,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9275,7 +9291,7 @@
    ],
    "priceMinor": 23226,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "“Tabula Rasa 44” is designed for anyone who appreciates a slightly oversized watch with a 44mm diameter. Recognised for its very distinctive classic design full of character. You know it’s AEGAON when you see it. The latest version of “Tabula Rasa 44” comes with a 5 ATM water resistance. We have used only high quality components, such as the scratch proof sapphire crystal along with the well known Swiss quartz movement – “Ronda 715”. The casing is made of stainless steel 316L which is used by the world's most well known watch brands. AEGAON does not have hundreds of years of legacy, that’s exactly why we have to max out on the very best.",
    "productType": "watch",
    "tags": [
@@ -9313,13 +9329,17 @@
     "RETURNING THE E-STORE ORDER": "- It is extremely important that you let us know of your return intentions via our customer support e-mail hello(at)aegaon.com before you act. It's the only way you can be sure the refund process will also go quick and smooth.",
     "Returns are free ONLY": "with orders received via Omniva pick-up point service, within 14 days after receiving the order, using the return-code received in the notification SMS."
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -9390,7 +9410,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9464,7 +9484,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9543,7 +9563,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9607,7 +9627,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9681,7 +9701,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9755,7 +9775,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9829,7 +9849,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9908,7 +9928,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -9987,7 +10007,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -10061,7 +10081,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -10156,7 +10176,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -10242,7 +10262,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -10323,7 +10343,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -10409,7 +10429,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -10505,7 +10525,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",
@@ -10601,7 +10621,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:19:57.987Z",

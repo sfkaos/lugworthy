@@ -68,7 +68,7 @@
    ],
    "priceMinor": 79700,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The RE-XHAUST collection represents more than just a product launch: it is a declaration of intent towards responsible production, durable design and materials with a real history. The goal is to create watches that don't just follow trends, but are designed to last and accompany the wearer, becoming part of their identity. The watch is MADE IN ITALY , assembled and produced in Italy with a case machined from solid using CNC technology . The project will be launched soon and promises to introduce a new way of thinking about materials in watchmaking, combining Italian engineering, sustainable innovation, and a passion for mechanics. Technical Specifications : Diameter: 38mm Tickness: 9,8mm (glass included) Lug to lug: 46 mm Movement: Miyota 9015 Automatic with laser processing Water Resistance: 100M Glass: Sapphire anti-reflective Dial: Sapphire smoked painted Lume: Superluminova BGW) Crown : Steel screw 316L Case: Steel 316L grade 1.4441 (Recycled Solar Steel) Case back: Steel screw 316L Strap: Delcro Nylon by DELUGS 2 YEAR WARRANTY * You are purchasing the pre-order, the product will ship in September 2026, you will be informed of the progress of the production",
    "productType": null,
    "tags": [
@@ -164,13 +164,17 @@
     "Case back": "Steel screw 316L",
     "Strap": "Delcro Nylon by DELUGS"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:54.543Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [],
@@ -396,7 +400,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:54.543Z",
@@ -654,7 +658,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:54.543Z",
@@ -1147,7 +1151,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:54.543Z",
@@ -1713,7 +1717,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:54.543Z",
@@ -2279,7 +2283,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:54.543Z",

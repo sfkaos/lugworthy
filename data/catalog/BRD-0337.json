@@ -76,7 +76,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -150,7 +150,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -181,7 +181,7 @@
    ],
    "priceMinor": 980000,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "A crisp dialogue of blue on warm white Grand Feu enamel. The Heritage Atelier Chronograph ‘Bleu sur Blanc’ (ref. 324.552) pairs a luminous, handcrafted enamel dial with deep blue registers and a vintage-inspired decimal scale for intuitive timing. A craft-forward chronograph defined by restraint, texture, and precision. Offered in limited numbers. A final opportunity to place an order may become available in Q4 2026, subject to availability. Register your interest below to be among the first to know if reservations reopen. Deliveries will be scheduled in the order in which confirmed orders are received. In Atelier, Lebois & Co explores the craft-forward side of the Heritage collection: smaller-batch creations where dial artistry leads the story. The Heritage Atelier Chronograph ‘Bleu sur Blanc’ (ref. 324.552) is built around a rare centerpiece: a Swiss Made Grand Feu enamel dial made Le Locle by Donzé Cadrans, fired at high temperature to achieve a surface that feels alive, subtly warm, never flat, and constantly shifting with the light. Executed in a three-piece construction with a gently domed enamel main surface, it adds depth that only reveals itself up close. The palette is deliberately pure. A soft off-white enamel base, positioned between the eggshell nuance of Coquille d’œuf and the brighter white character of earlier enamel executions, sets the stage for deep blue registers that bring contrast, depth, and legibility without breaking the calm. It is “blue on white” in the most literal sense, yet unmistakably Atelier: quiet refinement with collector-grade detail. Instead of a tachymeter or telemeter, the 324.552 features a decimal scale, a classic, functional choice rooted in mid-century tool chronographs and designed to translate time into decimals. The minute is divided into 100 units around the dial, allowing readings to the hundredth of a minute. It is timing made clear: precise, readable, and purpose-driven. The result is a chronograph that is not about loud reinvention, but about finish, proportion, and nuance, a watch that rewards a second look, and then a third. This is the Atelier philosophy distilled: traditional technique, modern discipline, and a dial that can only be made by hand.",
    "productType": "Atelier",
    "tags": [],
@@ -218,13 +218,17 @@
     "Strap": "Forstner Klip, Forstner Rivet, Hickory Brown Suede, Charcoal Black Suede, Midnight Navy Leather, Aegean Blue Suede",
     "The result": "a luminous, tension-free dial, deep in tone and rich in character. From copper to color, every step leaves its mark — even the invisible ones."
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -287,7 +291,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -351,7 +355,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -415,7 +419,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -469,7 +473,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -540,7 +544,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -614,7 +618,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -672,7 +676,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -748,7 +752,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -822,7 +826,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -896,7 +900,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -970,7 +974,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -1044,7 +1048,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -1117,7 +1121,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -1190,7 +1194,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -1266,7 +1270,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -1340,7 +1344,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",
@@ -1404,7 +1408,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:42:50.404Z",

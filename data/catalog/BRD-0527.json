@@ -130,7 +130,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -269,7 +269,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -408,7 +408,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -537,7 +537,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -694,7 +694,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -860,7 +860,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -1011,7 +1011,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -1162,7 +1162,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -1318,7 +1318,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -1469,7 +1469,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -1625,7 +1625,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -1781,7 +1781,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
@@ -1852,7 +1852,7 @@
    ],
    "priceMinor": 120000,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The Breslin in Liberty Mint is a fresh take on timeless New York iconography. Its refined linen-textured dial comes in a soft mint-sage hue—subtle, cool, and quietly bold. Inspired by the weathered patina of the Statue of Liberty, this unique shade could only come from a city where copper meets salt air, steel meets sky, and history meets hustle. It’s a color born of time and place—elegant, unexpected, and unmistakably New York.",
    "productType": null,
    "tags": [],
@@ -1935,13 +1935,17 @@
     "strapType": null
    },
    "specsRaw": {},
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:34:13.878Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [

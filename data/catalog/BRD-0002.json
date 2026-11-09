@@ -119,7 +119,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -390,7 +390,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -794,7 +794,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -1074,7 +1074,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -1254,7 +1254,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -1349,7 +1349,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -1855,7 +1855,7 @@
    ],
    "priceMinor": 220000,
    "currency": "TWD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "筆中的建築與時尚 菱格紋的極致演繹菱形造型設計呼應現代倫敦的知名地標「小黃瓜」。聖瑪莉艾克斯30號大樓（30 St Mary Axe）由知名建築師諾曼﹒福斯特設計，因獨特的渾圓外形，常被戲稱為小黃瓜或是宇宙飛船。玻璃幕牆組成的菱格紋結構，充滿科幻前衛感。同時，菱格也令人聯想到香奈兒經典不敗的菱格紋包。 筆桿的每一處細節都宛如一座微型建築，無聲地講述著時尚與結構之間的優雅對話。 梭型筆身：觸感渾圓、流線設計更好握獨特的曲面梭型（紡錘型）筆桿，仿如精心設計的建築體，既符合人體工學又擁有渾圓的握感，讓每一次書寫都充滿舒適感受。 水泥材質的筆桿隨著時間的流逝，與手部的溫度互動，表面會變得更加溫潤，讓觸感愈發柔和。這支鋼筆不僅是書寫工具，更完美融匯時尚與功能，為您的每一次創作帶來獨特的愉悅體驗。湖水藍 Celeste/櫻粉 Blossom Pink新色登場除了我們經典的水泥灰與深灰色，推出新色「湖水藍」Celeste和「櫻粉」 Blossom Pink，彩色水泥搭配316L不鏽鋼筆蓋，呈現現代都會獨有的繽紛彩色氣息，也非常適合贈送女性友人。材質規格：高密度水泥、316L 不鏽鋼 、0.6mm SCHMIDT P8126 黑色水性鋼珠筆芯尺寸：Ø 15.6, H115mm, 44.6g*水泥材質獨特的顏色不均以及氣泡均屬正常現象",
    "productType": null,
    "tags": [],
@@ -1880,13 +1880,17 @@
     "材質規格": "高密度水泥、316L 不鏽鋼 、0.6mm SCHMIDT P8126 黑色水性鋼珠筆芯 尺寸 ： Ø 15.6, H115mm, 44.6g",
     "尺寸": "Ø 15.6, H115mm, 44.6g"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "hash": "5761717562631de6"
@@ -3518,7 +3522,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -3603,7 +3607,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -3688,7 +3692,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -3773,7 +3777,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -3858,7 +3862,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",
@@ -3943,7 +3947,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-10-26T01:05:34.040Z",

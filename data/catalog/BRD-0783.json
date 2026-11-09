@@ -115,7 +115,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:03.064Z",
@@ -176,7 +176,7 @@
    ],
    "priceMinor": 53400,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Collaboration starts with mutual admiration. Together with our friends at Pierre Morlet, we created a unique limited reference inspired by their hillside vineyards and signature Brut. The deep green dial reflects the character of the vineyard landscape with a refined enamel finish. Powered by a Seiko VK64 mecha-quartz chronograph movement and individually numbered.",
    "productType": "Watches",
    "tags": [],
@@ -210,13 +210,17 @@
     "Water resistance": "50m (5ATM)",
     "Reference": "102.37"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:03.064Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -319,7 +323,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:03.064Z",

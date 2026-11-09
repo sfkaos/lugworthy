@@ -94,7 +94,7 @@
    ],
    "priceMinor": 99900,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The MARNAUT Seascape 200B — 40mm, 200m water resistance, Sellita SW200-1, black IP-plated case. A refined gentleman's diver with the signature sea urchin dial. €999.",
    "productType": null,
    "tags": [],
@@ -130,13 +130,17 @@
     "Strap": "FKM Rubber, hypoallergenic, heat-resistant, and built for active wear",
     "Warranty": "24 Months"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:51:47.421Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -639,7 +643,7 @@
    ],
    "priceMinor": 109900,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The blacked-out Dark Surge 300B — 41mm, 300m rated, Sellita SW200-1, matte black enamel dial with luminous sea urchin indexes. Croatian design, assembled in Pforzheim. €1,099.",
    "productType": null,
    "tags": [],
@@ -675,13 +679,17 @@
     "Strap": "FKM Rubber, hypoallergenic, heat-resistant, and built for active wear",
     "Warranty": "24 Months"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:51:47.421Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -843,7 +851,7 @@
    ],
    "priceMinor": 119900,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The Dark Surge 300A features MARNAUT's signature Adriatic blue dial — shifting from indigo to turquoise through the day. Sellita SW200-1, 300m, 41mm. Limited special edition. €1,199.",
    "productType": null,
    "tags": [],
@@ -879,13 +887,17 @@
     "Strap": "FKM Rubber, hypoallergenic, heat-resistant, and built for active wear",
     "Warranty": "24 Months"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:51:47.421Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [

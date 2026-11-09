@@ -166,7 +166,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -315,7 +315,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -490,7 +490,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -661,7 +661,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -738,7 +738,7 @@
    ],
    "priceMinor": 18999000,
    "currency": "ARS",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": ".collapse { border: 1px solid #e5e7eb; border-radius: 10px; max-width: 720px; overflow: hidden; font-family: 'Inter', sans-serif; background-color: #ffffff; margin: 0; box-shadow: 0 1px 3px rgba(0,0,0,0.04); transition: box-shadow 0.25s ease; } .collapse:hover { box-shadow: 0 4px 10px rgba(0,0,0,0.05); } .collapse-btn { width: 100%; background: white; border: none; padding: 16px 20px; text-align: left; font-weight: 500; font-size: 1rem; cursor: pointer; outline: none; transition: background-color 0.25s ease, color 0.25s ease; display: flex; align-items: center; justify-content: space-between; letter-spacing: 0.1px; } .collapse-btn:hover { background-color: #369D6514; color: #1a1a1a; } .collapse-btn[aria-expanded=\"true\"] { background-color: #369D651a; color: #111827; } .collapse-icon { width: 16px; height: 16px; transition: transform 0.3s ease, stroke 0.25s ease, opacity 0.25s ease; opacity: 0.8; } .collapse-btn:hover .collapse-icon { stroke: #369D65; opacity: 1; } .collapse-btn[aria-expanded=\"true\"] .collapse-icon { transform: rotate(180deg); stroke: #369D65; } .collapse-content { max-height: 0; overflow: hidden; transition: max-height 350ms ease, padding 350ms ease; padding: 0; margin: 0; background-color: #fcfcfc; } .collapse-content.open { max-height: 600px; padding: 12px 20px 20px 20px; } /* --- TABLA REFINADA --- */ .spec-table { font-size: 0.93rem; width: 100%; border-collapse: collapse; color: #111827; margin-top: 6px; } .spec-table td { padding: 10px 12px; vertical-align: middle; border-bottom: 1px solid #f1f5f9; } .spec-table tr:last-child td { border-bottom: none; } .spec-table td:first-child { font-weight: 600; text-align: left; color: #1f2937; padding-left: 6px; } /* ✅ Columna derecha centrada */ .spec-table td:last-child { text-align: center; color: #374151; padding-right: 6px; } @media (max-width: 480px) { .collapse-btn { padding: 14px 16px; } .spec-table td { font-size: 0.85rem; } } .collapse + * { margin-top: 0 !important; } ESPECIFICACIONES DEL RELOJ Diámetro 36 mm Espesor 6 mm Correa 18 mm (intercambiable) Resistencia al agua 5ATM - No sumergible Material de la caja Acero inoxidable 316L Material de la correa Cuero genuino Maquinaria Cuarzo - Miyota (Citizen) Material de la luna Cristal mineral endurecido Indicador de fecha No Colección Clásicos (function() { const btn = document.getElementById('spec-toggle'); const panel = document.getElementById('spec-panel'); btn.addEventListener('click', () => { const expanded = btn.getAttribute('aria-expanded') === 'true'; btn.setAttribute('aria-expanded', (!expanded).toString()); panel.classList.toggle('open'); }); })();",
    "productType": null,
    "tags": [],
@@ -824,13 +824,17 @@
     "Nosotros Nuestra historia En los medios Blog": "Hacemos Relojes Contacto",
     "Blog": "Hacemos Relojes"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -981,7 +985,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -1044,7 +1048,7 @@
    ],
    "priceMinor": 18999000,
    "currency": "ARS",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": ".collapse { border: 1px solid #e5e7eb; border-radius: 10px; max-width: 720px; overflow: hidden; font-family: 'Inter', sans-serif; background-color: #ffffff; margin: 0; box-shadow: 0 1px 3px rgba(0,0,0,0.04); transition: box-shadow 0.25s ease; } .collapse:hover { box-shadow: 0 4px 10px rgba(0,0,0,0.05); } .collapse-btn { width: 100%; background: white; border: none; padding: 16px 20px; text-align: left; font-weight: 500; font-size: 1rem; cursor: pointer; outline: none; transition: background-color 0.25s ease, color 0.25s ease; display: flex; align-items: center; justify-content: space-between; letter-spacing: 0.1px; } .collapse-btn:hover { background-color: #369D6514; color: #1a1a1a; } .collapse-btn[aria-expanded=\"true\"] { background-color: #369D651a; color: #111827; } .collapse-icon { width: 16px; height: 16px; transition: transform 0.3s ease, stroke 0.25s ease, opacity 0.25s ease; opacity: 0.8; } .collapse-btn:hover .collapse-icon { stroke: #369D65; opacity: 1; } .collapse-btn[aria-expanded=\"true\"] .collapse-icon { transform: rotate(180deg); stroke: #369D65; } .collapse-content { max-height: 0; overflow: hidden; transition: max-height 350ms ease, padding 350ms ease; padding: 0; margin: 0; background-color: #fcfcfc; } .collapse-content.open { max-height: 600px; padding: 12px 20px 20px 20px; } /* --- TABLA REFINADA --- */ .spec-table { font-size: 0.93rem; width: 100%; border-collapse: collapse; color: #111827; margin-top: 6px; } .spec-table td { padding: 10px 12px; vertical-align: middle; border-bottom: 1px solid #f1f5f9; } .spec-table tr:last-child td { border-bottom: none; } .spec-table td:first-child { font-weight: 600; text-align: left; color: #1f2937; padding-left: 6px; } /* ✅ Columna derecha centrada */ .spec-table td:last-child { text-align: center; color: #374151; padding-right: 6px; } @media (max-width: 480px) { .collapse-btn { padding: 14px 16px; } .spec-table td { font-size: 0.85rem; } } .collapse + * { margin-top: 0 !important; } ESPECIFICACIONES DEL RELOJ Diámetro 36 mm Espesor 6 mm Correa 18 mm (intercambiable) Resistencia al agua 5ATM - No sumergible Material de la caja Acero inoxidable 316L Material de la correa Cuero genuino Maquinaria Cuarzo - Miyota (Citizen) Material de la luna Cristal mineral endurecido Indicador de fecha No Colección Clásicos (function() { const btn = document.getElementById('spec-toggle'); const panel = document.getElementById('spec-panel'); btn.addEventListener('click', () => { const expanded = btn.getAttribute('aria-expanded') === 'true'; btn.setAttribute('aria-expanded', (!expanded).toString()); panel.classList.toggle('open'); }); })();",
    "productType": null,
    "tags": [],
@@ -1130,13 +1134,17 @@
     "Nosotros Nuestra historia En los medios Blog": "Hacemos Relojes Contacto",
     "Blog": "Hacemos Relojes"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -1308,7 +1316,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -1463,7 +1471,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -1526,7 +1534,7 @@
    ],
    "priceMinor": 18999000,
    "currency": "ARS",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": ".collapse { border: 1px solid #e5e7eb; border-radius: 10px; max-width: 720px; overflow: hidden; font-family: 'Inter', sans-serif; background-color: #ffffff; margin: 0; box-shadow: 0 1px 3px rgba(0,0,0,0.04); transition: box-shadow 0.25s ease; } .collapse:hover { box-shadow: 0 4px 10px rgba(0,0,0,0.05); } .collapse-btn { width: 100%; background: white; border: none; padding: 16px 20px; text-align: left; font-weight: 500; font-size: 1rem; cursor: pointer; outline: none; transition: background-color 0.25s ease, color 0.25s ease; display: flex; align-items: center; justify-content: space-between; letter-spacing: 0.1px; } .collapse-btn:hover { background-color: #369D6514; color: #1a1a1a; } .collapse-btn[aria-expanded=\"true\"] { background-color: #369D651a; color: #111827; } .collapse-icon { width: 16px; height: 16px; transition: transform 0.3s ease, stroke 0.25s ease, opacity 0.25s ease; opacity: 0.8; } .collapse-btn:hover .collapse-icon { stroke: #369D65; opacity: 1; } .collapse-btn[aria-expanded=\"true\"] .collapse-icon { transform: rotate(180deg); stroke: #369D65; } .collapse-content { max-height: 0; overflow: hidden; transition: max-height 350ms ease, padding 350ms ease; padding: 0; margin: 0; background-color: #fcfcfc; } .collapse-content.open { max-height: 600px; padding: 12px 20px 20px 20px; } /* --- TABLA REFINADA --- */ .spec-table { font-size: 0.93rem; width: 100%; border-collapse: collapse; color: #111827; margin-top: 6px; } .spec-table td { padding: 10px 12px; vertical-align: middle; border-bottom: 1px solid #f1f5f9; } .spec-table tr:last-child td { border-bottom: none; } .spec-table td:first-child { font-weight: 600; text-align: left; color: #1f2937; padding-left: 6px; } /* ✅ Columna derecha centrada */ .spec-table td:last-child { text-align: center; color: #374151; padding-right: 6px; } @media (max-width: 480px) { .collapse-btn { padding: 14px 16px; } .spec-table td { font-size: 0.85rem; } } .collapse + * { margin-top: 0 !important; } ESPECIFICACIONES DEL RELOJ Diámetro 36 mm Espesor 6 mm Correa 18 mm (intercambiable) Resistencia al agua 5ATM - No sumergible Material de la caja Acero inoxidable 316L Material de la correa Cuero genuino Maquinaria Cuarzo - Miyota (Citizen) Material de la luna Cristal mineral endurecido Indicador de fecha No Colección Clásicos (function() { const btn = document.getElementById('spec-toggle'); const panel = document.getElementById('spec-panel'); btn.addEventListener('click', () => { const expanded = btn.getAttribute('aria-expanded') === 'true'; btn.setAttribute('aria-expanded', (!expanded).toString()); panel.classList.toggle('open'); }); })();",
    "productType": null,
    "tags": [],
@@ -1601,13 +1609,17 @@
     "Nosotros Nuestra historia En los medios Blog": "Hacemos Relojes Contacto",
     "Blog": "Hacemos Relojes"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -1738,7 +1750,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -1878,7 +1890,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -2029,7 +2041,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -2200,7 +2212,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -2335,7 +2347,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -2489,7 +2501,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -2660,7 +2672,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -2806,7 +2818,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -2961,7 +2973,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -3096,7 +3108,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -3246,7 +3258,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -3390,7 +3402,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -3535,7 +3547,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -3675,7 +3687,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -3820,7 +3832,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -3970,7 +3982,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -4100,7 +4112,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -4250,7 +4262,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -4359,7 +4371,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -4473,7 +4485,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -4618,7 +4630,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -4763,7 +4775,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -4913,7 +4925,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -5058,7 +5070,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -5202,7 +5214,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -5341,7 +5353,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -5480,7 +5492,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -5552,7 +5564,7 @@
    ],
    "priceMinor": 19999000,
    "currency": "ARS",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": ".collapse { border: 1px solid #e5e7eb; border-radius: 10px; max-width: 720px; overflow: hidden; font-family: 'Inter', sans-serif; background-color: #ffffff; margin: 0; box-shadow: 0 1px 3px rgba(0,0,0,0.04); transition: box-shadow 0.25s ease; } .collapse:hover { box-shadow: 0 4px 10px rgba(0,0,0,0.05); } .collapse-btn { width: 100%; background: white; border: none; padding: 16px 20px; text-align: left; font-weight: 500; font-size: 1rem; cursor: pointer; outline: none; transition: background-color 0.25s ease, color 0.25s ease; display: flex; align-items: center; justify-content: space-between; letter-spacing: 0.1px; } .collapse-btn:hover { background-color: #369D6514; color: #1a1a1a; } .collapse-btn[aria-expanded=\"true\"] { background-color: #369D651a; color: #111827; } .collapse-icon { width: 16px; height: 16px; transition: transform 0.3s ease, stroke 0.25s ease, opacity 0.25s ease; opacity: 0.8; } .collapse-btn:hover .collapse-icon { stroke: #369D65; opacity: 1; } .collapse-btn[aria-expanded=\"true\"] .collapse-icon { transform: rotate(180deg); stroke: #369D65; } .collapse-content { max-height: 0; overflow: hidden; transition: max-height 350ms ease, padding 350ms ease; padding: 0; margin: 0; background-color: #fcfcfc; } .collapse-content.open { max-height: 600px; padding: 12px 20px 20px 20px; } /* --- TABLA REFINADA --- */ .spec-table { font-size: 0.93rem; width: 100%; border-collapse: collapse; color: #111827; margin-top: 6px; } .spec-table td { padding: 10px 12px; vertical-align: middle; border-bottom: 1px solid #f1f5f9; } .spec-table tr:last-child td { border-bottom: none; } .spec-table td:first-child { font-weight: 600; text-align: left; color: #1f2937; padding-left: 6px; } /* ✅ Columna derecha centrada */ .spec-table td:last-child { text-align: center; color: #374151; padding-right: 6px; } @media (max-width: 480px) { .collapse-btn { padding: 14px 16px; } .spec-table td { font-size: 0.85rem; } } .collapse + * { margin-top: 0 !important; } ESPECIFICACIONES DEL RELOJ Diámetro 43 mm Espesor 10 mm Correa 22 mm (intercambiable) Resistencia al agua 5ATM - No sumergible Material de la caja Acero inoxidable 316L Material de la correa Acero inoxidable Maquinaria Cuarzo - Miyota (Citizen) Material de la luna Cristal mineral endurecido Indicador de fecha Si Colección Zahlen (function() { const btn = document.getElementById('spec-toggle'); const panel = document.getElementById('spec-panel'); btn.addEventListener('click', () => { const expanded = btn.getAttribute('aria-expanded') === 'true'; btn.setAttribute('aria-expanded', (!expanded).toString()); panel.classList.toggle('open'); }); })();",
    "productType": null,
    "tags": [],
@@ -5627,13 +5639,17 @@
     "Nosotros Nuestra historia En los medios Blog": "Hacemos Relojes Contacto",
     "Blog": "Hacemos Relojes"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -5768,7 +5784,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -5907,7 +5923,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -5969,7 +5985,7 @@
    ],
    "priceMinor": 19999000,
    "currency": "ARS",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": ".collapse { border: 1px solid #e5e7eb; border-radius: 10px; max-width: 720px; overflow: hidden; font-family: 'Inter', sans-serif; background-color: #ffffff; margin: 0; box-shadow: 0 1px 3px rgba(0,0,0,0.04); transition: box-shadow 0.25s ease; } .collapse:hover { box-shadow: 0 4px 10px rgba(0,0,0,0.05); } .collapse-btn { width: 100%; background: white; border: none; padding: 16px 20px; text-align: left; font-weight: 500; font-size: 1rem; cursor: pointer; outline: none; transition: background-color 0.25s ease, color 0.25s ease; display: flex; align-items: center; justify-content: space-between; letter-spacing: 0.1px; } .collapse-btn:hover { background-color: #369D6514; color: #1a1a1a; } .collapse-btn[aria-expanded=\"true\"] { background-color: #369D651a; color: #111827; } .collapse-icon { width: 16px; height: 16px; transition: transform 0.3s ease, stroke 0.25s ease, opacity 0.25s ease; opacity: 0.8; } .collapse-btn:hover .collapse-icon { stroke: #369D65; opacity: 1; } .collapse-btn[aria-expanded=\"true\"] .collapse-icon { transform: rotate(180deg); stroke: #369D65; } .collapse-content { max-height: 0; overflow: hidden; transition: max-height 350ms ease, padding 350ms ease; padding: 0; margin: 0; background-color: #fcfcfc; } .collapse-content.open { max-height: 600px; padding: 12px 20px 20px 20px; } /* --- TABLA REFINADA --- */ .spec-table { font-size: 0.93rem; width: 100%; border-collapse: collapse; color: #111827; margin-top: 6px; } .spec-table td { padding: 10px 12px; vertical-align: middle; border-bottom: 1px solid #f1f5f9; } .spec-table tr:last-child td { border-bottom: none; } .spec-table td:first-child { font-weight: 600; text-align: left; color: #1f2937; padding-left: 6px; } /* ✅ Columna derecha centrada */ .spec-table td:last-child { text-align: center; color: #374151; padding-right: 6px; } @media (max-width: 480px) { .collapse-btn { padding: 14px 16px; } .spec-table td { font-size: 0.85rem; } } .collapse + * { margin-top: 0 !important; } ESPECIFICACIONES DEL RELOJ Diámetro 43 mm Espesor 10 mm Correa 22 mm (intercambiable) Resistencia al agua 5ATM - No sumergible Material de la caja Acero inoxidable 316L Material de la correa Nylon premium Maquinaria Cuarzo - Miyota (Citizen) Material de la luna Cristal mineral endurecido Indicador de fecha Si Colección Zahlen (function() { const btn = document.getElementById('spec-toggle'); const panel = document.getElementById('spec-panel'); btn.addEventListener('click', () => { const expanded = btn.getAttribute('aria-expanded') === 'true'; btn.setAttribute('aria-expanded', (!expanded).toString()); panel.classList.toggle('open'); }); })();",
    "productType": null,
    "tags": [],
@@ -6044,13 +6060,17 @@
     "Nosotros Nuestra historia En los medios Blog": "Hacemos Relojes Contacto",
     "Blog": "Hacemos Relojes"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -6150,7 +6170,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -6254,7 +6274,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -6353,7 +6373,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -6457,7 +6477,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -6551,7 +6571,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -6662,7 +6682,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -6761,7 +6781,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -6860,7 +6880,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -6969,7 +6989,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -7063,7 +7083,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -7172,7 +7192,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -7276,7 +7296,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -7375,7 +7395,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -7459,7 +7479,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -7533,7 +7553,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",
@@ -7637,7 +7657,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:45:59.766Z",

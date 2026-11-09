@@ -117,7 +117,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -215,7 +215,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -274,7 +274,7 @@
    ],
    "priceMinor": 27900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Sporty, Bold, Functional: The dial features an engraved, concentric structure with metallic effects, clear displays, and Superluminova for optimal readability—where function meets design. Precise Stopwatch Function: With the easy-to-use chronograph, time can be measured to the 1/10th of a second— a practical feature for sports, the office, or everyday life. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated mineral glass. Water-resistant up to 5 ATM. Unyielding Performance: Reliably powered by the VD57 quartz movement. With a 3-year warranty and a hassle-free return policy for maximum peace of mind.",
    "productType": "Chronograph LP",
    "tags": [],
@@ -307,13 +307,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -423,7 +427,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -520,7 +524,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -609,7 +613,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -696,7 +700,7 @@
    ],
    "priceMinor": 26910,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Exceptional Design: Featuring an octagonal case, engraved dial with Superluminova, and a leather strap, this watch stands out with a look that is clearly different from the crowd. Precision When It Matters: With its chronograph function, easy-to-read stopwatch display, 24-hour sub dial, and date window, this watch is all about essential functionality. Built to Withstand the Elements: 40mm case made of pure, hypoallergenic stainless steel, scratch-resistant sapphire-hardened mineral glass, and 5 ATM water resistance ensure the watch can handle any challenge. Unwavering Performance: Powered by the highly precise JS25 quartz movement from the Japanese manufacturer Miyota. With a 3-year warranty and a straightforward return policy for complete peace of mind.",
    "productType": "Octachrono",
    "tags": [
@@ -732,13 +736,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -809,7 +817,7 @@
    ],
    "priceMinor": 24900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Striking Design meet Functionality: Applied indices and hands with glow-in-the-dark Superluminova and a magnifying glass over the date window for excellent readability, and an easy-to-swap quick-change strap. A Bold Statement: The sand beige dial and the high-gloss polished finish of the 40mm case create a vibrant, modern touch while maintaining a refined and elegant aesthetic that suits any occasion. Premium Materials: Crafted from anti-allergic 316L surgical steel and scratch-resistant sapphire-hardened mineral glass. 5 ATM water resistance for lasting durability. Quality to Rely on: The Huxley II is powered by the precise Japanese quartz movement. We offer a 30-day hassle-free return policy, and a 3-year warranty for complete peace of mind.",
    "productType": "Huxley II",
    "tags": [],
@@ -842,13 +850,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water-resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -920,7 +932,7 @@
    ],
    "priceMinor": 22900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Striking Design meet Functionality: Applied indices and hands with glow-in-the-dark Superluminova and a magnifying glass over the date window for excellent readability, and an easy-to-swap quick-change strap. A Bold Statement: The sand beige dial and the high-gloss polished finish of the 40mm case create a vibrant, modern touch while maintaining a refined and elegant aesthetic that suits any occasion. Premium Materials: Crafted from anti-allergic 316L surgical steel and scratch-resistant sapphire-hardened mineral glass. 5 ATM water resistance for lasting durability. Quality to Rely on: The Huxley II is powered by the precise Japanese quartz movement. We offer a 30-day hassle-free return policy, and a 3-year warranty for complete peace of mind.",
    "productType": "Huxley II",
    "tags": [],
@@ -953,13 +965,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water-resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -1031,7 +1047,7 @@
    ],
    "priceMinor": 22410,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Striking Design meet Functionality: Applied indices and hands with glow-in-the-dark Superluminova and a magnifying glass over the date window for excellent readability, and an easy-to-swap quick-change strap. A Bold Statement: The pistachio green dial and the high-gloss polished finish of the 40mm case create a vibrant, modern touch while maintaining a refined and elegant aesthetic that suits any occasion. Premium Materials: Crafted from anti-allergic 316L surgical steel and scratch-resistant sapphire-hardened mineral glass. 5 ATM water resistance for lasting durability. Quality to Rely on: The Huxley II is powered by the precise Japanese VJ12 quartz movement. We offer a 30-day hassle-free return policy, and a 3-year warranty for complete peace of mind.",
    "productType": "Huxley II",
    "tags": [
@@ -1066,13 +1082,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water-resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -1175,7 +1195,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -1272,7 +1292,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -1339,7 +1359,7 @@
    ],
    "priceMinor": 20610,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Striking Design meet Functionality: Applied indices and hands with glow-in-the-dark Superluminova and a magnifying glass over the date window for excellent readability, and an easy-to-swap quick-change strap. A Bold Statement: The pistachio green dial and the high-gloss polished finish of the 40mm case create a vibrant, modern touch while maintaining a refined and elegant aesthetic that suits any occasion. Premium Materials: Crafted from anti-allergic 316L surgical steel and scratch-resistant sapphire-hardened mineral glass. 5 ATM water resistance for lasting durability. Quality to Rely on: The Huxley II is powered by the precise Japanese VJ12 quartz movement. We offer a 30-day hassle-free return policy, and a 3-year warranty for complete peace of mind.",
    "productType": "Huxley II",
    "tags": [
@@ -1374,13 +1394,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water-resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -1492,7 +1516,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -1581,7 +1605,7 @@
    ],
    "priceMinor": 23310,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Striking Signature Piece: The mix of gray tones and bright green, complemented by glow-in-the-dark Superluminova, the matte case with bold architecture, and the interchangeable strap make this watch an unmissable highlight. Precision Timing: The easy-to-use chronograph function measures time down to 1/10th of a second—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Reliable Performance: Powered by a precise Japanese quartz movement. Backed by a 3-year warranty and a hassle-free return policy for added peace of mind.",
    "productType": "Chronograph",
    "tags": [
@@ -1617,13 +1641,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -1739,7 +1767,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -1850,7 +1878,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -1976,7 +2004,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -2100,7 +2128,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -2225,7 +2253,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -2346,7 +2374,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -2473,7 +2501,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -2589,7 +2617,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -2714,7 +2742,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -2841,7 +2869,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -2956,7 +2984,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3071,7 +3099,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3196,7 +3224,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3299,7 +3327,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3400,7 +3428,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3503,7 +3531,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3618,7 +3646,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3725,7 +3753,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3838,7 +3866,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -3931,7 +3959,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4034,7 +4062,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4139,7 +4167,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4241,7 +4269,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4341,7 +4369,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4444,7 +4472,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4529,7 +4557,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4648,7 +4676,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4757,7 +4785,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4853,7 +4881,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -4953,7 +4981,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5053,7 +5081,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5138,7 +5166,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5223,7 +5251,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5315,7 +5343,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5410,7 +5438,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5513,7 +5541,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5625,7 +5653,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5735,7 +5763,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5858,7 +5886,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -5969,7 +5997,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -6080,7 +6108,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -6199,7 +6227,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -6309,7 +6337,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -6419,7 +6447,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -6532,7 +6560,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -6602,7 +6630,7 @@
    ],
    "priceMinor": 26910,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Design that Moves: With the mix of gray tones and signal yellow, glow-in-the-dark Superluminova, the case with bold architecture, and the interchangeable strap, this watch is a tribute to the iconic style of the Berlin subway. Precision Timing: The easy-to-use chronograph function measures time down to 1/10th of a second—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Reliable Performance: Reliably powered by the TMI VD57 quartz movement. With a 3-year warranty and a hassle-free return policy for maximum peace of mind.",
    "productType": "Chronograph",
    "tags": [
@@ -6638,13 +6666,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -6737,7 +6769,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -6843,7 +6875,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -6953,7 +6985,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -7054,7 +7086,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -7128,7 +7160,7 @@
    ],
    "priceMinor": 29900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Next Stop London: The Line 3 Chronograph adopts the iconic color scheme of the world's oldest subway system, the London Underground. Complete with Superluminova details, a distinctive case architecture, and a quick-release strap system, this timepiece is an elegant tribute to what truly connects the city. Precision Stop Function: Featuring an easy-to-use chronograph function, time can be measured with 1/10th-of-a-second accuracy—a practical feature for sports, the office, or everyday life. Premium Materials: Crafted from anti-allergenic 316L stainless steel and protected by scratch-resistant, sapphire-hardened mineral glass. Water resistant up to 5 ATM. Unwavering Performance: Powered by the VD57 quartz movement from Japanese manufacturer TMI. Backed by a 3-year guarantee and a hassle-free return policy for maximum peace of mind.",
    "productType": "Chronograph",
    "tags": [],
@@ -7162,13 +7194,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -7233,7 +7269,7 @@
    ],
    "priceMinor": 34900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Urban elegance with an extraterrestrial touch: A genuine piece of meteorite, the dial with golden details and Superluminova elements, the distinctive case, and the interchangeable strap make this watch a truly unique timepiece. Precision Timing: The easy-to-use chronograph function measures time down to 1/10th of a second—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Steady Performance: Powered by the TMI VD57 quartz movement. Backed by a 3-year warranty and a hassle-free return policy for added confidence.",
    "productType": "Chronograph Meteorite",
    "tags": [],
@@ -7266,13 +7302,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -7370,7 +7410,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -7432,7 +7472,7 @@
    ],
    "priceMinor": 29610,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Urban elegance with an extraterrestrial touch: A genuine piece of meteorite, the dial with golden details and Superluminova elements, the distinctive case, and the interchangeable strap make this watch a truly unique timepiece. Precision Timing: The easy-to-use chronograph function measures time down to 1/10th of a second—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Steady Performance: Powered by the TMI VD57 quartz movement. Backed by a 3-year warranty and a hassle-free return policy for added confidence.",
    "productType": "Chronograph Meteorite",
    "tags": [
@@ -7467,13 +7507,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -7534,7 +7578,7 @@
    ],
    "priceMinor": 29610,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Urban elegance with an extraterrestrial touch: A genuine piece of meteorite, the dial with golden details and Superluminova elements, the distinctive case, and the interchangeable strap make this watch a truly unique timepiece. Precision Timing: The easy-to-use chronograph function measures time down to 1/10th of a second—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Steady Performance: Powered by the TMI VD57 quartz movement. Backed by a 3-year warranty and a hassle-free return policy for added confidence.",
    "productType": "Chronograph Meteorite",
    "tags": [
@@ -7569,13 +7613,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -7640,7 +7688,7 @@
    ],
    "priceMinor": 34900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Deep blue design with an extraterrestrial element: A genuine piece of meteorite, the dial with Superluminova elements, the distinctive case, and the interchangeable strap make this watch a truly unique timepiece. Precision Timing: The easy-to-use chronograph function measures time down to 1/10th of a second—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Steady Performance: Powered by the TMI VD57 quartz movement. Backed by a 3-year warranty and a hassle-free return policy for added confidence.",
    "productType": "Chronograph Meteorite",
    "tags": [],
@@ -7672,13 +7720,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -7775,7 +7827,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -7869,7 +7921,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -7936,7 +7988,7 @@
    ],
    "priceMinor": 32900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Deep blue design with an extraterrestrial element: A genuine piece of meteorite, the dial with Superluminova elements, the distinctive case, and the interchangeable strap make this watch a truly unique timepiece. Precision Timing: The easy-to-use chronograph function measures time down to 1/10th of a second—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Steady Performance: Powered by the TMI VD57 quartz movement. Backed by a 3-year warranty and a hassle-free return policy for added confidence.",
    "productType": "Chronograph Meteorite",
    "tags": [],
@@ -7968,13 +8020,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -8028,7 +8084,7 @@
    ],
    "priceMinor": 31900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Rugged Design, Built for Adventure: The octagonal matte black case and olive-colored dial create a bold, utilitarian look. Superluminova-coated hands ensure visibility in any light, while the quick-change strap adapts effortlessly. Precision When It Matters: With its chronograph function, easy-to-read stopwatch display, 24-hour sub dial, and date window, this watch is all about essential functionality. Built to Withstand the Elements: 40mm case made of pure, hypoallergenic stainless steel, scratch-resistant sapphire-hardened mineral glass, and 5 ATM water resistance ensure the watch can handle any challenge. Unwavering Performance: Powered by the highly precise JS25 quartz movement from the Japanese manufacturer Miyota. With a 3-year warranty and a straightforward return policy for complete peace of mind.",
    "productType": "Octachrono",
    "tags": [],
@@ -8060,13 +8116,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -8154,7 +8214,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -8213,7 +8273,7 @@
    ],
    "priceMinor": 31900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Exceptional Design: Featuring an octagonal case, engraved dial with Superluminova, and a metal strap, this watch stands out with a look that is clearly different from the crowd. Precision When It Matters: With its chronograph function, easy-to-read stopwatch display, 24-hour sub dial, and date window, this watch is all about essential functionality. Built to Withstand the Elements: 40mm case made of pure, hypoallergenic stainless steel, scratch-resistant sapphire-hardened mineral glass, and 5 ATM water resistance ensure the watch can handle any challenge. Unwavering Performance: Powered by the highly precise JS25 quartz movement from the Japanese manufacturer Miyota. With a 3-year warranty and a straightforward return policy for complete peace of mind.",
    "productType": "Octachrono",
    "tags": [],
@@ -8246,13 +8306,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -8371,7 +8435,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -8486,7 +8550,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -8595,7 +8659,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -8679,7 +8743,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -8793,7 +8857,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -8903,7 +8967,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9015,7 +9079,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9121,7 +9185,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9224,7 +9288,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9326,7 +9390,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9430,7 +9494,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9531,7 +9595,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9634,7 +9698,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9738,7 +9802,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9815,7 +9879,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -9910,7 +9974,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10003,7 +10067,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10117,7 +10181,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10215,7 +10279,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10313,7 +10377,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10411,7 +10475,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10519,7 +10583,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10621,7 +10685,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10715,7 +10779,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10809,7 +10873,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10909,7 +10973,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -10991,7 +11055,7 @@
    ],
    "priceMinor": 31410,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Powerful Design: The carbon fiber-style dial with Superluminova for optimal readability, the bold stainless steel case, and the interchangeable strap combine style and functionality seamlessly! Sustainable Solar Power: This watch requires no battery—just light to keep running. Plus, it features a second-accurate stopwatch function—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Durable Performance: Powered by the solar quartz movement VR43 from the Japanese manufacturer Epson. Backed by a 3-year warranty and a hassle-free return policy for added peace of mind.",
    "productType": "Chronograph Solar",
    "tags": [
@@ -11027,13 +11091,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -11135,7 +11203,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -11215,7 +11283,7 @@
    ],
    "priceMinor": 29610,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Powerful Design: The carbon fiber-style dial with Superluminova for optimal readability, the bold stainless steel case, and the interchangeable strap combine style and functionality seamlessly! Sustainable Solar Power: This watch requires no battery—just light to keep running. Plus, it features a second-accurate stopwatch function—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Durable Performance: Powered by the solar quartz movement VR43 from the Japanese manufacturer Epson. Backed by a 3-year warranty and a hassle-free return policy for added peace of mind.",
    "productType": "Chronograph Solar",
    "tags": [
@@ -11251,13 +11319,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -11370,7 +11442,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -11475,7 +11547,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -11583,7 +11655,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -11699,7 +11771,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -11794,7 +11866,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -11888,7 +11960,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -12002,7 +12074,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -12108,7 +12180,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -12181,7 +12253,7 @@
    ],
    "priceMinor": 15900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Timeless Combination: The 30mm case and deep black dial, paired with gold accents, create an iconic color combination. Subtle Yet Bold: With its slim profile and balanced proportions, this watch exudes effortless elegance. A statement piece that complements any outfit without being overpowering. Built to Last: Featuring scratch-resistant, sapphire-hardened glass, pure 316L stainless steel, and 5 ATM water resistance, the Rosalux stands up to everyday challenges. Backed by a 3-year warranty and a hassle-free return policy for complete peace of mind.",
    "productType": "Rosalux",
    "tags": [],
@@ -12212,13 +12284,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -12311,7 +12387,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -12369,7 +12445,7 @@
    ],
    "priceMinor": 27900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Sporty, Bold, Functional: The dial features an engraved, concentric structure with metallic effects, clear displays, and Superluminova for optimal readability—where function meets design. Precise Stopwatch Function: With the easy-to-use chronograph, time can be measured to the 1/10th of a second— a practical feature for sports, the office, or everyday life. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated mineral glass. Water-resistant up to 5 ATM. Unyielding Performance: Reliably powered by the VD57 quartz movement. With a 3-year warranty and a hassle-free return policy for maximum peace of mind.",
    "productType": "Chronograph LP",
    "tags": [
@@ -12404,13 +12480,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -12500,7 +12580,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -12552,7 +12632,7 @@
    ],
    "priceMinor": 17910,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Focused and functional: Superluminova ensures clear readability. The white lacquered dial delivers a clean, minimalistic appeal. The 40 mm case provides the perfect fit, and the interchangeable strap allows for a customizable look. Refined design: Thoughtfully crafted surfaces and subtle details, such as the discreet date display, highlight its precision and elegance. Premium materials: Made from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated mineral glass. Water-resistant to 5 ATM. Reliable performance: Powered by a precise Japanese quartz movement. Includes a 30-day return policy and a 3-year warranty for your peace of mind.",
    "productType": "Huxley",
    "tags": [
@@ -12589,13 +12669,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -12687,7 +12771,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -12737,7 +12821,7 @@
    ],
    "priceMinor": 25110,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Sporty, Bold, Functional: The dial features an engraved, concentric structure with metallic effects, clear displays, and Superluminova for optimal readability—where function meets design. Precise Stopwatch Function: With the easy-to-use chronograph, time can be measured to the 1/10th of a second— a practical feature for sports, the office, or everyday life. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated mineral glass. Water-resistant up to 5 ATM. Unyielding Performance: Reliably powered by the VD57 quartz movement. With a 3-year warranty and a hassle-free return policy for maximum peace of mind.",
    "productType": "Chronograph LP",
    "tags": [
@@ -12772,13 +12856,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -12881,7 +12969,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -12988,7 +13076,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13080,7 +13168,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13166,7 +13254,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13253,7 +13341,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13344,7 +13432,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13434,7 +13522,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13534,7 +13622,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13621,7 +13709,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13721,7 +13809,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13811,7 +13899,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -13906,7 +13994,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -14014,7 +14102,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -14119,7 +14207,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -14177,7 +14265,7 @@
    ],
    "priceMinor": 55710,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "German Craftsmanship, Swiss Precision: Designed in Berlin, crafted in Germany, and powered by a Swiss movement, the Zeitgeist Automatic blends fine watchmaking with modern urban aesthetics—an award-winning design honored with the Red Dot Award. The Most Elegant Way to Keep Time: The Sellita SW200 automatic movement requires no battery, drawing energy from the natural motion of your wrist, with a 38-hour power reserve. Timeless Sophistication: A sunburst dial, Superluminova-coated hands and indices, and a 42.5mm case with an integrated crown, complemented by a metal strap—timeless in the best sense. Perfection in Every Detail: The screw-down glass case back reveals the intricate mechanics inside, while the pure sapphire crystal front ensures superior scratch resistance. Lasting Luxury: With 5 ATM water resistance, a 3-year warranty, and a 30-day return policy, this timepiece is built to be relied upon.",
    "productType": "Zeitgeist Automatik",
    "tags": [
@@ -14214,13 +14302,17 @@
     "Glass": "Sapphire glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -14278,7 +14370,7 @@
    ],
    "priceMinor": 53910,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "German Craftsmanship, Swiss Precision: Designed in Berlin, crafted in Germany, and powered by a Swiss movement, the Zeitgeist Automatic blends fine watchmaking with modern urban aesthetics—an award-winning design honored with the Red Dot Award. The Most Elegant Way to Keep Time: The Sellita SW200 automatic movement requires no battery, drawing energy from the natural motion of your wrist, with a 38-hour power reserve. Timeless Sophistication: A sunburst dial, Superluminova-coated hands and indices, and a 42.5mm case with an integrated crown, complemented by a flexible mesh strap—timeless in the best sense. Perfection in Every Detail: The screw-down glass case back reveals the intricate mechanics inside, while the pure sapphire crystal front ensures superior scratch resistance. Lasting Luxury: With 5 ATM water resistance, a 3-year warranty, and a 30-day return policy, this timepiece is built to be relied upon.",
    "productType": "Zeitgeist Automatik",
    "tags": [
@@ -14314,13 +14406,17 @@
     "Glass": "Sapphire glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -14418,7 +14514,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -14475,7 +14571,7 @@
    ],
    "priceMinor": 55710,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "German Craftsmanship, Swiss Precision: Designed in Berlin, crafted in Germany, and powered by a Swiss movement, the Zeitgeist Automatic blends fine watchmaking with modern urban aesthetics—an award-winning design honored with the Red Dot Award. The Most Elegant Way to Keep Time: The Sellita SW200 automatic movement requires no battery, drawing energy from the natural motion of your wrist, with a 38-hour power reserve. Timeless Sophistication: A sunburst dial, Superluminova-coated hands and indices, and a 42.5mm case with an integrated crown, complemented by a metal strap—timeless in the best sense. Perfection in Every Detail: The screw-down glass case back reveals the intricate mechanics inside, while the pure sapphire crystal front ensures superior scratch resistance. Lasting Luxury: With 5 ATM water resistance, a 3-year warranty, and a 30-day return policy, this timepiece is built to be relied upon.",
    "productType": "Zeitgeist Automatik",
    "tags": [
@@ -14511,13 +14607,17 @@
     "Glass": "Sapphire glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -14572,7 +14672,7 @@
    ],
    "priceMinor": 53910,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "German Craftsmanship, Swiss Precision: Designed in Berlin, crafted in Germany, and powered by a Swiss movement, the Zeitgeist Automatic blends fine watchmaking with modern urban aesthetics—an award-winning design honored with the Red Dot Award. The Most Elegant Way to Keep Time: The Sellita SW200 automatic movement requires no battery, drawing energy from the natural motion of your wrist, with a 38-hour power reserve. Timeless Sophistication: A sunburst dial, Superluminova-coated hands and indices, and a 42.5mm case with an integrated crown, complemented by a flexible mesh strap—timeless in the best sense. Perfection in Every Detail: The screw-down glass case back reveals the intricate mechanics inside, while the pure sapphire crystal front ensures superior scratch resistance. Lasting Luxury: With 5 ATM water resistance, a 3-year warranty, and a 30-day return policy, this timepiece is built to be relied upon.",
    "productType": "Zeitgeist Automatik",
    "tags": [
@@ -14609,13 +14709,17 @@
     "Glass": "Sapphire glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -14703,7 +14807,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -14788,7 +14892,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -14893,7 +14997,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -14979,7 +15083,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15073,7 +15177,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15145,7 +15249,7 @@
    ],
    "priceMinor": 19900,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Focused and Functional: Superluminova ensures clear readability. The sunburst dial adds a distinctive shine, while the 40mm case provides the ideal fit. The interchangeable strap offers a customizable look. Refined Structures: Distinct surface finishes and subtle details, such as the discreet date display, underscore the precise elegance. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated stainless steel. Water-resistant up to 5 ATM. Reliable Performance: Powered by a precise Japanese quartz movement. With a 30-day return policy and 3-year warranty for added security.",
    "productType": "Huxley",
    "tags": [
@@ -15181,13 +15285,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -15234,7 +15342,7 @@
    ],
    "priceMinor": 19900,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Focused and Functional: Superluminova ensures clear readability. The sunburst dial adds a distinctive shine, while the 40mm case provides the ideal fit. The interchangeable strap offers a customizable look. Refined Structures: Distinct surface finishes and subtle details, such as the discreet date display, underscore the precise elegance. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated stainless steel. Water-resistant up to 5 ATM. Reliable Performance: Powered by a precise Japanese quartz movement. With a 30-day return policy and 3-year warranty for added security.",
    "productType": "Huxley",
    "tags": [
@@ -15270,13 +15378,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -15359,7 +15471,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15450,7 +15562,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15555,7 +15667,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15654,7 +15766,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15765,7 +15877,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15868,7 +15980,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15936,7 +16048,7 @@
    ],
    "priceMinor": 17910,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Focused and Functional: Superluminova ensures clear readability. The sunburst dial adds a distinctive shine, while the 40mm case provides the ideal fit. The interchangeable strap offers a customizable look. Refined Structures: Distinct surface finishes and subtle details, such as the discreet date display, underscore the precise elegance. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated stainless steel. Water-resistant up to 5 ATM. Reliable Performance: Powered by a precise Japanese quartz movement. With a 30-day return policy and 3-year warranty for added security.",
    "productType": "Huxley",
    "tags": [
@@ -15972,9 +16084,9 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -15983,6 +16095,10 @@
     {
      "at": "2026-11-02T07:13:42.318Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -16071,7 +16187,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16178,7 +16294,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16269,7 +16385,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16353,7 +16469,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16439,7 +16555,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16531,7 +16647,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16617,7 +16733,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16664,7 +16780,7 @@
    ],
    "priceMinor": 16110,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Iconic Design: White lacquered dial, 42.5 mm silver case with an inset crown, and a leather interchangeable strap—where style meets functionality. Refined Twist: The off-center second hand is a clever horological detail—subtle, yet eye-catching. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated stainless steel. Water-resistant up to 5 ATM. Guaranteed Reliability: The Lilienthal 1 is powered by the reliable 1L45 quartz movement from the Japanese manufacturer Miyota. Includes a 30-day return policy and a 3-year warranty.",
    "productType": "Lilienthal 1",
    "tags": [
@@ -16699,13 +16815,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -16795,7 +16915,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16878,7 +16998,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -16991,7 +17111,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17075,7 +17195,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17159,7 +17279,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17249,7 +17369,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17335,7 +17455,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17421,7 +17541,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17504,7 +17624,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17596,7 +17716,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17691,7 +17811,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17798,7 +17918,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17908,7 +18028,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -17994,7 +18114,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18079,7 +18199,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18186,7 +18306,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18279,7 +18399,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18382,7 +18502,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18465,7 +18585,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18578,7 +18698,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18683,7 +18803,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18794,7 +18914,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -18899,7 +19019,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19004,7 +19124,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19087,7 +19207,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19181,7 +19301,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19273,7 +19393,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19369,7 +19489,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19464,7 +19584,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19556,7 +19676,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19647,7 +19767,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19740,7 +19860,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19837,7 +19957,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -19897,7 +20017,7 @@
    ],
    "priceMinor": 19900,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Focused and Functional: Superluminova for excellent readability. The blue sunburst dial with rose gold accents adds a special shine. The 40 mm case ensures a perfect fit, and the interchangeable strap allows for a personalized look. Refined Structures: Carefully crafted surfaces and details like the subtle date function highlight the precision elegance of the design. Premium Materials: Made from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened glass. Water-resistant up to 5 ATM. Guaranteed Reliability: Powered by a precise Japanese quartz movement. Includes a 30-day return policy and a 3-year warranty for peace of mind.",
    "productType": "Huxley",
    "tags": [
@@ -19933,13 +20053,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -20033,7 +20157,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20126,7 +20250,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20213,7 +20337,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20298,7 +20422,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20405,7 +20529,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20510,7 +20634,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20617,7 +20741,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20715,7 +20839,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20832,7 +20956,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -20945,7 +21069,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -21059,7 +21183,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -21175,7 +21299,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -21223,7 +21347,7 @@
    ],
    "priceMinor": 17910,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Focused and Functional: Superluminova ensures clear readability. The sunburst dial adds a distinctive shine, while the 40mm case provides the ideal fit. The interchangeable strap offers a customizable look. Refined Structures: Distinct surface finishes and subtle details, such as the discreet date display, underscore the precise elegance. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated stainless steel. Water-resistant up to 5 ATM. Reliable Performance: Powered by a precise Japanese quartz movement. With a 30-day return policy and 3-year warranty for added security.",
    "productType": "Huxley",
    "tags": [
@@ -21259,13 +21383,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -21373,7 +21501,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -21483,7 +21611,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -21554,7 +21682,7 @@
    ],
    "priceMinor": 19900,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Timeless Design: The polished case and dial are in a deep blue, with rose gold accents like the slim indices and the numerals at 12 and 6, offering a perfect blend of modern and timeless elegance. Fine Details, Lasting Impressions: The off-center second hand is a sophisticated horological touch. The interplay of brushed and polished surfaces adds depth to the design—subtle yet impactful. Premium Materials: The case is made from hypoallergenic 316L stainless steel and sapphire-coated mineral glass, providing excellent protection. The vegetable-tanned leather strap is highly comfortable and develops a fine patina over time. Built to Last: The Miyota 1L45 quartz movement with a separate second hand ensures precise timekeeping. The watch is water-resistant up to 5 ATM, and it comes with a 3-year warranty and a 30-day return policy.",
    "productType": "The Classic",
    "tags": [
@@ -21588,13 +21716,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -21697,7 +21829,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -21789,7 +21921,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -21888,7 +22020,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -21987,7 +22119,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22086,7 +22218,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22185,7 +22317,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22283,7 +22415,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22396,7 +22528,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22505,7 +22637,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22614,7 +22746,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22726,7 +22858,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22815,7 +22947,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22909,7 +23041,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -22995,7 +23127,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23107,7 +23239,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23213,7 +23345,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23333,7 +23465,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23451,7 +23583,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23543,7 +23675,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23626,7 +23758,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23711,7 +23843,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23805,7 +23937,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23899,7 +24031,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -23988,7 +24120,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24082,7 +24214,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24168,7 +24300,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24274,7 +24406,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24329,7 +24461,7 @@
    ],
    "priceMinor": 17910,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Iconic Design: Sunburst dial for extra shine, 42.5 mm case with inset crown for an optimal fit, and interchangeable strap for a customizable look—where style meets functionality. Refined Twist: The off-center second hand is a clever horological detail—subtle yet impactful. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-coated stainless steel. Water-resistant up to 5 ATM. Guaranteed Reliability: The Lilienthal 1 is powered by the trusted 1L45 quartz movement from Japanese manufacturer Miyota. Includes a 30-day return policy and a 3-year warranty.",
    "productType": "Lilienthal 1",
    "tags": [
@@ -24364,13 +24496,17 @@
     "Glass": "Sapphire-hardened mineral glass",
     "Water resistance": "Up to 5 ATM"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -24458,7 +24594,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24574,7 +24710,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24684,7 +24820,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24781,7 +24917,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24887,7 +25023,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -24990,7 +25126,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25106,7 +25242,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25221,7 +25357,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25336,7 +25472,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25449,7 +25585,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25544,7 +25680,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25652,7 +25788,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25760,7 +25896,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25856,7 +25992,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
@@ -25919,7 +26055,7 @@
    ],
    "priceMinor": 35010,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Powerful Design: The carbon fiber-style dial with Superluminova for optimal readability, the bold stainless steel case, and the interchangeable strap combine style and functionality seamlessly! Sustainable Solar Power: This watch requires no battery—just light to keep running. Plus, it features a second-accurate stopwatch function—ideal for sports, work, or everyday use. Premium Materials: Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM. Durable Performance: Powered by the solar quartz movement VR43 from the Japanese manufacturer Epson. Backed by a 3-year warranty and a hassle-free return policy for added peace of mind.",
    "productType": "Chronograph Solar",
    "tags": [
@@ -25948,13 +26084,17 @@
     "Premium Materials": "Crafted from hypoallergenic 316L stainless steel and scratch-resistant, sapphire-hardened mineral glass. Water-resistant up to 5 ATM.",
     "Durable Performance": "Powered by the solar quartz movement VR43 from the Japanese manufacturer Epson. Backed by a 3-year warranty and a hassle-free return policy for added peace of mind."
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:43:56.871Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [

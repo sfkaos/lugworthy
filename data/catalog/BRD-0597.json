@@ -91,7 +91,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:58.852Z",
@@ -200,7 +200,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:58.852Z",
@@ -309,7 +309,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:58.852Z",
@@ -407,7 +407,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:58.852Z",
@@ -484,7 +484,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:58.852Z",
@@ -561,7 +561,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:58.852Z",
@@ -601,7 +601,7 @@
    ],
    "priceMinor": 27900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "The Vector makes the typical concerns of owning a chronograph a thing of the past. Featuring 100M of water resistance, a screw down crown, and a sapphire crystal, it’s a reliable sports watch that isn’t too precious to scratch. Delivering all of the ‘jazz’ and none of the ‘jank’ of a vintage inspired bracelet, the links were precisely engineered to recreate the iconic industrial and automotive inspired designs of the past without the wristhair pulling or mullets.",
    "productType": null,
    "tags": [
@@ -638,13 +638,17 @@
     "Movement": "VK63 Meca-Quartz Movement",
     "Case Material": "316L Stainless Steel"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:58.852Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [

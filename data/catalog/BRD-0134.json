@@ -88,7 +88,7 @@
    ],
    "priceMinor": 47500,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Step onto the orbital command deck and sink into the plush, crushed velvet of the captain’s chair, surrounded by brushed-steel control panels flashing with the warm glow of analog telemetry... This, is the alternate reality where The Space Explorer truly belongs. Built for the retro-future pioneer, the first Signature release from Canuck features the robust, 1970s tonneau-style Mystery case, perfectly framing a futuristic two-piece dial that reimagines classic aviation aesthetics for the final frontier. Because there are no pilots in the vastness of space, only Explorers. The traditional 12 o'clock orientation triangle has been boldly replaced by a radiant Maple Leaf , grounding your interstellar ambitions with a proud touch of Canuck's heritage. Whether you are planning to explore uncharted quantum drifts or simply navigating your daily adventures, The Space Explorer, is your ultimate, analog instrument for the journey ahead.",
    "productType": null,
    "tags": [],
@@ -161,13 +161,17 @@
     "Strap": "Signed FKM Material with, digitalized texture",
     "Bracelet": "Elastic Metal Bracelet with, Easy Link Removal (no tools required!) , in collaboration with Vario ."
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:20.498Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [],
@@ -235,7 +239,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:20.498Z",
@@ -353,7 +357,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:20.498Z",
@@ -441,7 +445,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:20.498Z",
@@ -600,7 +604,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:20.498Z",
@@ -867,7 +871,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:20.498Z",
@@ -963,7 +967,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:20.498Z",
@@ -1058,7 +1062,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:46:20.498Z",

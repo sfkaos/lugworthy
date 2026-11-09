@@ -57,7 +57,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -109,7 +109,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -161,7 +161,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -241,7 +241,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -299,7 +299,7 @@
    ],
    "priceMinor": 94200,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "La montre officielle de l'Olympique de Marseille. Précommandes : du jeudi 3 septembre, 15h (heure de Marseille), au jeudi 24 septembre inclus. Jacques Bianchi Marseille et l'Olympique de Marseille signent leur première collaboration : l'OM200, une JB200 entièrement repensée aux couleurs du club. Chaque détail a été retravaillé pour rapprocher les codes du football de ceux de l'horlogerie mécanique : cadran émaillé au logo du club, lunette graduée sur le temps de jeu, aiguille des secondes en forme de ballon. Et sous le cadran, la première certification Chronomètre COSC de l'histoire de la maison. Pour rendre chaque OM200 encore plus personnelle, une gravure circulaire peut être réalisée sur le fond de boîte. Un nom, une date, une tribune, un souvenir : à vous d’inscrire ce qui vous lie à Marseille et à l’OM. Jusqu’à 24 caractères, espaces et ponctuation compris. La montre officielle de l'Olympique de Marseille est une série limitée. Les précommandes ouvriront le 3 septembre à 15h (CET) jusqu'au jeudi 24 septembre. Marseillais, c'est l'heure ! SPÉCIFICATIONS Boîtier — Acier brossé, 42 mm, chanfreins affirmés Verre — Saphir Étanchéité — 200 m / 660 ft Cadran — Bleu, émail multicouche 20 couches, logo OM embossé et émaillé, index usinés en applique Lunette — Unidirectionnelle 60 clics, insert bleu gradué sur 45 minutes + temps additionnel, repère luminescent à 12 h Aiguille des secondes — Type « lollipop », contrepoids en forme stylisée de ballon Luminescence — Super-LumiNova BGW9 haute intensité Mouvement — Soprod P024, automatique suisse, sans date Certification — Chronomètre COSC, -4/+6 s/jour, certificat nominatif fourni Fond — Gravé du logo de l'Olympique de Marseille, numéroté et personnalisable (24 caractères maximum) Bracelets — Fluoroélastomère FKM + élastique d'inspiration militaire bleu à liseré blanc Prix public France — 995 € TTC PRÉCOMMANDE Ouverture — 3 septembre 2026 à 15 h CET Durée — Jusqu'au 24 septembre 2026 Livraisons — Décembre 2026, puis début 2027 selon l'ordre des commandes Mesurer le temps, c'est aussi mesurer la passion.",
    "productType": null,
    "tags": [
@@ -354,13 +354,17 @@
     "Case": "— Brushed steel, 42 mm, pronounced chamfers",
     "Opening": "— September 3, 2026 at 3 PM CET"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -440,7 +444,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -532,7 +536,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -624,7 +628,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -708,7 +712,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -783,7 +787,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -818,7 +822,7 @@
    ],
    "priceMinor": 132500,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Jacques Bianchi Marseille JB200 AquaStrike. Le grand splash de couleurs. La JB200 se réinvente avec une collection inédite et vibrante : Aquastrike. Quatre montres, quatre teintes méditerranéennes — Bleu Cérulé, Jaune Orpiment, Orange Corail, Vert Pur — qui prolongent l'héritage de la maison tout en affirmant une esthétique solaire et assumée. Assemblées à 280 mètres du Vieux-Port de Marseille, ces nouvelles versions conservent l'ADN technique de la JB200 originelle, en y injectant une énergie nouvelle. Première Aquastrike de la maison à recevoir un bracelet acier brossé-satiné à flancs polis, développé exclusivement pour cette édition. Mouvement automatique suisse SoProd P024 · 200 m d'étanchéité · 42 mm · Verre saphir · Bracelet acier brossé-satiné de type Jubilé. Caractéristiques : Mouvement : Suisse SoProd P024 automatique Fonctions : Heures, minutes, secondes, date à 3 h Boîtier : Acier inoxydable - 42 mm - Couronne vissée à 3 h - Flancs polis Cadran : \"Maxi Dial\" - Index cerclés Super-LumiNova ® - Réhaut incliné poli-miroir - Quatre coloris : Bleu Cérulé, Jaune Orpiment, Orange Corail, Vert Pur Lunette : Unidirectionnelle grise 60 clics - Graduation et minuterie en Super-LumiNova ® Étanchéité : 200 m / 20 ATM Assemblage : Marseille, à 280 mètres du Vieux-Port",
    "productType": null,
    "tags": [],
@@ -856,13 +860,17 @@
     "Assembly": "Marseille, 280 meters from the Old Port",
     "Price": "€1,041.66 excl. VAT per model (automatically adjusted at checkout)."
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -934,7 +942,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1017,7 +1025,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1098,7 +1106,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1190,7 +1198,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1271,7 +1279,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1355,7 +1363,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1439,7 +1447,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1523,7 +1531,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1607,7 +1615,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1695,7 +1703,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1807,7 +1815,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1895,7 +1903,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -1979,7 +1987,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -2063,7 +2071,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -2098,7 +2106,7 @@
    ],
    "priceMinor": 132500,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Jacques Bianchi Marseille JB200 AquaStrike. Le grand splash de couleurs. La JB200 se réinvente avec une collection inédite et vibrante : Aquastrike. Quatre montres, quatre teintes méditerranéennes — Bleu Cérulé, Jaune Orpiment, Orange Corail, Vert Pur — qui prolongent l'héritage de la maison tout en affirmant une esthétique solaire et assumée. Assemblées à 280 mètres du Vieux-Port de Marseille, ces nouvelles versions conservent l'ADN technique de la JB200 originelle, en y injectant une énergie nouvelle. Première Aquastrike de la maison à recevoir un bracelet acier brossé-satiné à flancs polis, développé exclusivement pour cette édition. Mouvement automatique suisse SoProd P024 · 200 m d'étanchéité · 42 mm · Verre saphir · Bracelet acier brossé-satiné de type Jubilé. Caractéristiques : Mouvement : Suisse SoProd P024 automatique Fonctions : Heures, minutes, secondes, date à 3 h Boîtier : Acier inoxydable - 42 mm - Couronne vissée à 3 h - Flancs polis Cadran : \"Maxi Dial\" - Index cerclés Super-LumiNova ® - Réhaut incliné poli-miroir - Quatre coloris : Bleu Cérulé, Jaune Orpiment, Orange Corail, Vert Pur Lunette : Unidirectionnelle grise 60 clics - Graduation et minuterie en Super-LumiNova ® Étanchéité : 200 m / 20 ATM Assemblage : Marseille, à 280 mètres du Vieux-Port",
    "productType": null,
    "tags": [],
@@ -2136,13 +2144,17 @@
     "Assembly": "Marseille, 280 meters from the Old Port",
     "Price": "€1,041.66 excl. VAT per model (automatically adjusted at checkout)."
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -2227,7 +2239,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -2323,7 +2335,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -2410,7 +2422,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -2503,7 +2515,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",
@@ -2608,7 +2620,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:35:01.759Z",

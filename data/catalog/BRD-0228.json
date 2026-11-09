@@ -38,7 +38,7 @@
    ],
    "priceMinor": 52500,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Case: 42 mm Brushed Stainless Steel Rose Gold PVD Crystal: Sapphire (durable and scratch resistant) Lugs: 22 mm Lug to lug: 48 mm Date at 6 O'Clock Position Thickness including crystal: 14 mm Strap: Italian Leather with Stainless Steel Pin Buckle Movements: Swiss Ronda Quartz / Chronograph Water Resistance: 100 meter (10 BAR) Engraved logo on crown, buckle and back case",
    "productType": "Watch",
    "tags": [
@@ -81,13 +81,17 @@
     "Movements": "Swiss Ronda Quartz / Chronograph",
     "Water Resistance": "100 meter (10 BAR)"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -164,7 +168,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -242,7 +246,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -328,7 +332,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -412,7 +416,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -501,7 +505,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -589,7 +593,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -673,7 +677,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -749,7 +753,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -876,7 +880,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -993,7 +997,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1079,7 +1083,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1169,7 +1173,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1252,7 +1256,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1335,7 +1339,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1416,7 +1420,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1493,7 +1497,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1573,7 +1577,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1657,7 +1661,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1726,7 +1730,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1808,7 +1812,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -1852,7 +1856,7 @@
    ],
    "priceMinor": 52500,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Fits 6.5-8\" wrist 39 mm Brushed 316L Stainless Steel Case 45.2 mm Lug to Lug 13.15 MM Thick German Made Hesalite Box Domed Crystal Movement: Japan Made Chronograph Quartz Calibre OS21 7 mm Crown 5 ATM (50 meter Water Resistance) 316 L Stainless Steel Bracelet C3 Lume",
    "productType": null,
    "tags": [
@@ -1881,13 +1885,17 @@
     "EUROPE": "3-9 Business Days",
     "REST OF THE WORLD": "3-9 Business Days"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -1964,7 +1972,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2054,7 +2062,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2205,7 +2213,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2275,7 +2283,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2320,7 +2328,7 @@
    ],
    "priceMinor": 58500,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Fits 6.5-8\" wrist 39 mm Brushed 316L Stainless Steel Case 45.2 mm Lug to Lug 13.4 MM Thick German Made Hesalite Box Domed Crystal Movement: Japan Automatic Miyota 8217-24 Hour Display 7 mm Crown 5 ATM (50 meter Water Resistance) Soft Italian Racing Style Straps C3 Lume",
    "productType": null,
    "tags": [
@@ -2349,13 +2357,17 @@
     "REST OF THE WORLD": "3-9 Business Days",
     "Just like a professional racer's mindset": "Drive focused with zero fear and with one mission. To win. Nothing else matters."
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -2428,7 +2440,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2526,7 +2538,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2620,7 +2632,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2706,7 +2718,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2798,7 +2810,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2894,7 +2906,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2960,7 +2972,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -2993,7 +3005,7 @@
    ],
    "priceMinor": 74500,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Case: 42 mm Brushed Stainless Steel Rose Gold PVD Crystal: Double Domed Sapphire (durable and scratch resistant) Lugs: 22 mm Lug to lug: 48 mm Date at 6 O'Clock Position Thickness including crystal: 13.1 mm Strap: Italian Leather with Stainless Steel Pin Buckle Movements: Japan Automatic Miyota 9015 with Decorated Pendulum Water Resistance: 100 meter (10 BAR) Engraved logo on crown, buckle and back case",
    "productType": "Watches",
    "tags": [
@@ -3031,13 +3043,17 @@
     "Movements": "Japan Automatic Miyota 9015 with Decorated Pendulum",
     "Water Resistance": "100 meter (10 BAR)"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -3115,7 +3131,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -3201,7 +3217,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -3286,7 +3302,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -3333,7 +3349,7 @@
    ],
    "priceMinor": 64500,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "42 mm Polished Stainless Steel 316L CASE 48 mm Lug to Lug 13.1 mm Thickness Double Domed Sapphire Crystal with A/R Coating Movements: Japan Automatic Miyota 9015 with decorated rotor 8 mm screw down crown 10 ATM (100 meter Water Resistance) Soft Italian Racing Style Straps BGW9 Lume",
    "productType": "Watch",
    "tags": [
@@ -3372,13 +3388,17 @@
     "EUROPE": "3-9 Business Days",
     "REST OF THE WORLD": "3-9 Business Days"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -3463,7 +3483,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",
@@ -3552,7 +3572,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:12:31.281Z",

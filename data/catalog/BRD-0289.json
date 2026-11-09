@@ -43,7 +43,7 @@
    ],
    "priceMinor": 590000,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "preorder",
    "description": "The LAB Series 1.S features a Sub Second Patina Dial and is crafted from 3D printed titanium grade 5 with a blend of hand-finished and raw surfaces. This timepiece has a case diameter of 38.5 mm and a thickness of 9.85 mm. It features an in-house made domed copper-oxide patina dial and is powered by the Sellita SW360 movement with top-grade finishing. The strap is made from cognac Rooster feet leather. Limited to 100 pieces.",
    "productType": null,
    "tags": [],
@@ -72,13 +72,17 @@
     "Leadtime": "Completed in small batches until the end of 2026",
     "LAB Series 1.GMT": "Available"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:29:28.318Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "preorder"
     }
    ],
    "collectionIds": [
@@ -144,7 +148,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:29:28.318Z",
@@ -216,7 +220,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:29:28.318Z",

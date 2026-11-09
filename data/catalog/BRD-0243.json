@@ -270,7 +270,7 @@
    ],
    "priceMinor": 151600,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "Black Sector: Furlan Marri's first Swiss automatic watch, with a black sector dial and cornes-de-vache lugs. Now retired.",
    "productType": null,
    "tags": [],
@@ -291,13 +291,17 @@
     "strapType": null
    },
    "specsRaw": {},
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:15:24.392Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -383,7 +387,7 @@
    ],
    "priceMinor": 151600,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The Blue Sector: a 37.5mm stainless steel dress watch with cornes de vache lugs, powered by a Swiss automatic movement from La Joux-Perret. Geneva-designed",
    "productType": null,
    "tags": [],
@@ -409,13 +413,17 @@
     "Rest of the world": "All orders are shipped Delivery Duties Unpaid. Import duties, taxes and customs fees are not included and must be paid to the carrier upon delivery.",
     "All orders are shipped DDU": "(Delivery Duties Unpaid) except for Swiss and US orders."
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:15:24.392Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -832,7 +840,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:15:24.392Z",

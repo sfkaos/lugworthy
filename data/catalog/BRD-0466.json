@@ -98,7 +98,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:19:30.377Z",
@@ -161,7 +161,7 @@
    ],
    "priceMinor": 27500,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The Onward Future Field is our futuristic take on the classic military field watch. Sporting a matte stainless steel case with fixed lugs, recessed sapphire crystal and 200 meters of water resistance, it's ready for your next mission. We've paired it with an easy-wearing, single pass nylon strap. Twenty dollars for each watch sold go to a charity that supports scientific research and community programs that protect the health of veterans. Because of its unique case shape, the Onward wears like a 39mm watch on your wrist. Specifications Movement: Quartz, Ronda Calibre 513 Case Dimensions: 42mm left to right, 11.6mm thick, 47.5mm lug-to-lug Case Construction: Stainless steel, fixed bezel and lugs, screw down crown Water Resistance: 200m (660ft) Crystal: Sapphire Strap: 20mm single-piece pass through with pin-and-buckle fastener",
    "productType": null,
    "tags": [],
@@ -189,13 +189,17 @@
     "Crystal": "Sapphire",
     "Strap": "20mm single-piece pass through with pin-and-buckle fastener"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:19:30.377Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [],
@@ -284,7 +288,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:19:30.377Z",
@@ -377,7 +381,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:19:30.377Z",
@@ -470,7 +474,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:19:30.377Z",
@@ -563,7 +567,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:19:30.377Z",
@@ -656,7 +660,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:19:30.377Z",

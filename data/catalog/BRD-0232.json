@@ -776,7 +776,7 @@
    ],
    "priceMinor": 154500,
    "currency": "EUR",
-   "availability": "sold_out",
+   "availability": "preorder",
    "description": "BESCHREIBUNG Der neue NauticMaster Viator GMT verbindet die kompromisslose Robustheit einer echten Toolwatch mit der Vielseitigkeit einer mechanischen GMT-Uhr. Ihr bewährtes 41,5-mm-Gehäuse übernimmt exakt die charakteristische DNA der NauticMaster Reihe, während das minimal gewölbte Saphirglas der Uhr eine dezente Eleganz verleiht. Das sandfarbene Zifferblatt bildet eine harmonische Grundlage für das Zusammenspiel der arabischen Ziffern bei 12, 3 und 9 Uhr und den präzise gestalteten Indizes, die gemeinsam ein ausgewogenes und charakterstarkes Gesamtbild schaffen. Im Zentrum steht eine klare Funktionalität:Der Viator GMT ermöglicht die Anzeige von drei Zeitzonen gleichzeitig. Die lokale Hauptzeit wird klassisch über Stunden- und Minutenzeiger angezeigt. Der zusätzliche GMT-Zeiger gibt über den innenliegenden 24-Stunden-Rehaut die zweite Zeitzone an. Dieser ist wahlweise in Schwarz/Rot oder Schwarz/Weiß ausgeführt und lässt sich damit individuell an die gewünschte Gestaltung der Uhr anpassen. Die dritte Zeitzone wird über die unidirektional drehbare 24-Stunden-Lünette eingestellt. Dabei verfügt die Lünette über 96 Rastpositionen. Jeder einzelne Klick entspricht exakt 15 Minuten – eine außergewöhnliche Teilung, die eine präzise Einstellung der dritten Zeitzone ermöglicht. Dank der einseitig drehbaren Lünette bleibt der NauticMaster Viator GMT dem klassischen Taucheruhrenprinzip treu. Bei der hier gezeigten DLC-Version ist die 24-Stunden-Lünette zusätzlich mit einer besonderen Leuchtgestaltung versehen. Neben der blau leuchtenden 24-Stunden-Markierung leuchtet die Tauchmarkierung bis 3 Uhr grün. Die mit Leuchtmasse ausgelegten Markierungen auf dem Rehaut ermöglichen auch bei Dunkelheit eine klare Unterscheidung zwischen GMT- und Tauchfunktion. Der Viator GMT bleibt dabei der NauticMaster DNA treu: robust, funktional und für den Einsatz gemacht. Die markante 24-Stunden-Lünette verbindet die GMT-Funktion mit der charakteristischen Optik der NauticMaster Reihe und macht die Uhr zu einem vielseitigen Begleiter – auf Reisen, im Alltag oder überall dort, wo mehrere Zeitzonen eine Rolle spielen. Angetrieben wird die Uhr vom Schweizer Sellita SW330 Elaboré. Das bewährte Automatikwerk bietet eine Gangautonomie von mindestens 56 Stunden und verbindet Präzision, Robustheit und Langlebigkeit. Durch den Saphirglasboden lässt sich das mechanische Herzstück der Viator GMT jederzeit bei seiner Arbeit beobachten. Der speziell gestaltete Findeisen Rotor setzt dabei einen markanten optischen Akzent und macht auch die Rückseite der Uhr unverwechselbar. Für eine individuelle Ergonomie kann die Viator GMT wahlweise mit der Krone auf der rechten oder linken Gehäuseseite konfiguriert werden. Wählen Sie zwischen unserem fein perlgestrahlten Manufaktur-Edelstahlarmband mit der Findeisen IronLock-Schließe und integrierter Feinverstellung, einem passgenauen FKM-Kautschukarmband mit der bewährten Findeisen S.V.F.-Schließe inklusive ausklappbarer Tauchverlängerung oder einem robusten Cordura®-FKM-Hybridarmband mit Dornschließe. Alle Varianten verfügen über ein integriertes Schnellwechselsystem und lassen sich werkzeuglos wechseln.Bei Wahl des Edelstahl- oder Kautschukarmbands erhalten Sie das farblich passende Findeisen Cordura®-FKM-Hybridarmband ohne Aufpreis dazu. Alle Armbänder der bisherigen NauticMaster Reihe sind dabei 1:1 mit dem Viator GMT kompatibel. 3 JAHRE GARANTIE Jede Findeisen-Uhr wird mit höchster Sorgfalt gefertigt – und wir stehen dafür ein. Unsere 3-jährige Garantie sichert Ihnen im Falle von Material- oder Herstellungsfehlern eine fachgerechte Instandsetzung, damit Ihr Zeitmesser Sie zuverlässig über viele Jahre begleitet.",
    "productType": null,
    "tags": [],
@@ -815,13 +815,17 @@
     "Gehäuse": "Edelstahl, perlgestrahlt",
     "Uhrwerk": "Automatik"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:13:07.488Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "preorder"
     }
    ],
    "collectionIds": [

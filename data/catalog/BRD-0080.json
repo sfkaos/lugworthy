@@ -56,7 +56,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -107,7 +107,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -158,7 +158,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -209,7 +209,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -272,7 +272,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -334,7 +334,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -396,7 +396,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -458,7 +458,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -520,7 +520,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -613,7 +613,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -696,7 +696,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -747,7 +747,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -780,7 +780,7 @@
    ],
    "priceMinor": 185900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Built in Germany, this 40mm flieger draws its spirit from the remains of military machines — weathered, mechanical, purposeful. Each dial is individually manually scratched and galvanized by hand, giving it a unique, battle-worn texture that no machine could replicate. Powered by the Swiss Sellita SW200-1 B, and paired with a burgundy strap finished in accent blue stitching. Specifications 40mm stainless steel case 10.2mm thickness Large crown for easy grip Manually scratched and galvanized dial — each one unique Numbered Swiss Sellita SW200-1b automatic movement Handmade Burgundy leather strap with accent blue stitching, matching the hands Sapphire crystal with 6 layers of AR 5 ATM of water resistancy Manufactured in Germany Limited edition of 5 individually numbered pieces Permanently sold out — this was a one-time release.",
    "productType": null,
    "tags": [],
@@ -801,13 +801,17 @@
     "strapType": null
    },
    "specsRaw": {},
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -892,7 +896,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -987,7 +991,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -1045,7 +1049,7 @@
    ],
    "priceMinor": 219900,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "Born from German watchmaking, limited to 5 pieces, heritage and built for those who feel more at home beyond the pavement, this is a watch designed to collect stories, not sit untouched in a box. Its character begins with the dial. Each one is manually scratched, creating a raw industrial surface that can never be repeated exactly. No two dials are the same, giving every watch its own identity from the moment it is made. It is rugged by nature, refined where it matters, and designed to look even better as it becomes part of your adventures. A watch for the road, the water, the mountains, and everything in between. Specifications Case Diameter: 40mm Thickness: 11.8mm Lug-to-Lug: 48.2mm Movement: Top-grade Sellita SW200-1 (automatic) Date: Black date wheel at 6 o’clock Bezel: 120-click unidirectional Lume: Swiss BGW9 Super-LumiNova Water Resistance: 200 meters (20 ATM) Caseback: Closed, Personalized Engraving Dial: Galvanized and scratched dial Hands: Sword-style with red-tipped seconds hand Strap: Red FKM rubber strap Signature Detail: Canadian flag at 12 o’clock Assembled & regulated in Germany Each watch is individually prepared to order, with delivery approximately 35 days after preordering.",
    "productType": null,
    "tags": [],
@@ -1080,13 +1084,17 @@
     "Strap": "Red FKM rubber strap",
     "Signature Detail": "Canadian flag at 12 o’clock"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -1170,7 +1178,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -1246,7 +1254,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -1322,7 +1330,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -1400,7 +1408,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -1454,7 +1462,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -1547,7 +1555,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",
@@ -1623,7 +1631,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T06:35:13.838Z",

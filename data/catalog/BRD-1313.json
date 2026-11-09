@@ -163,7 +163,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:33:42.590Z",
@@ -236,7 +236,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:33:42.590Z",
@@ -321,7 +321,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:33:42.590Z",
@@ -406,7 +406,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:33:42.590Z",
@@ -492,7 +492,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:33:42.590Z",
@@ -544,7 +544,7 @@
    ],
    "priceMinor": 120000,
    "currency": "EUR",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "After two years of intensive development and many discussions among like-minded people, the first watch from our Manufactory saw the light of day. The Desk Diver holds up a mirror to the often so serious watch industry and alludes with a wink to the diver's watches that are usually worn at the desk. But this is where the adventure begins: the Desk Diver allows us to experience the stories that we later tell with pride. This is the last production batch of Desk Divers. 100 pieces produced in total!",
    "productType": null,
    "tags": [
@@ -572,13 +572,17 @@
     "Water Resistance": "100 Meters / 10 ATM",
     "Movement": "Swiss Made Automatic STP 1-21, 26 Jewels"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:33:42.590Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -655,7 +659,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:33:42.590Z",

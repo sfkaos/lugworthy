@@ -33,7 +33,7 @@
    ],
    "priceMinor": 83000,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "S31 Spitfire Anniversary edition – 100 Years of the Swedish Air Force SPECIFICATIONS Material: Stainless steel 316L Dial: Hand-painted, silver bullseye. Size: 38,5 mm (diameter), 9,5 mm height, 48 mm lug-to-lug, 20 mm between lugs Case: Heritage Movement: Sellita SW200-1 - Standard finish, freq./h 28.800 (4Hz), 26 jewels, 38h power reserve Crystal: Double domed acrylic Water resistance: 5 atm / 50 m / 164 ft Strap: Black Leather Strap Warranty: 5 years Art and paint by Mythic Scandinavian Watch Art. Product image is of concept art. Please note, each dial is painted by hand. Variations may occur from the concept art. About the Art S31 Spitfire Silver Swiss – Anniversary Edition Inspired by the iconic S31 Spitfire, this pilot watch pays tribute to Swedish aviation history and celebrates the 100th anniversary of the Swedish Air Force. Each watch features a hand-painted dial, designed and painted by Mythic Scandinavian Watch Art, depicting the legendary S31 Spitfire aircraft—Each dial is painted to order, making every piece unique. The design draws inspiration from pilot watches of the 1940s and 1950s, combined with details from the cockpit. Its slim 38.5 mm case reflects the smaller proportions of the era, offering a refined and versatile timepiece. The hands are inspired by cockpit gauges, while the classic bullseye dial with vertical brushing complements the flieger-style case with timeless balance and vintage design. The S31 was the Swedish designation for the British Supermarine Spitfire PR Mk XIX, the high-altitude reconnaissance version of the most famous fighter of the Second World War. Sweden purchased 50 aircraft from Britain in 1948, one of the largest export orders for the type. Unarmed and carrying cameras instead of guns, the S31 relied on speed and altitude. Its distinctive PRU Blue finish—a pale, sky-toned blue—was chosen to make the aircraft nearly invisible against the sky at high altitude. The S31 carried out reconnaissance missions during the early Cold War and photographed large parts of Sweden for civilian mapping. It remained in service until 1955, when it was replaced by the S 29C, the reconnaissance version of the J29 Tunnan.",
    "productType": "Watches",
    "tags": [
@@ -78,13 +78,17 @@
     "Strap": "Black Leather Strap",
     "Warranty": "5 years"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -198,7 +202,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -266,7 +270,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -400,7 +404,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -561,7 +565,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -750,7 +754,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -808,7 +812,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -925,7 +929,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1048,7 +1052,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1084,7 +1088,7 @@
    ],
    "priceMinor": 66400,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": null,
    "productType": null,
    "tags": [
@@ -1145,13 +1149,17 @@
     "Strap": "Black classic leather strap",
     "Warranty": "5 years"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -1274,7 +1282,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1400,7 +1408,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1534,7 +1542,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1656,7 +1664,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1734,7 +1742,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1812,7 +1820,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1868,7 +1876,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1923,7 +1931,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -1980,7 +1988,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2035,7 +2043,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2090,7 +2098,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2145,7 +2153,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2200,7 +2208,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2282,7 +2290,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2318,7 +2326,7 @@
    ],
    "priceMinor": 83000,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "J29 Tunnan Anniversary edition – 100 Years of the Swedish Air Force SPECIFICATIONS Material: Stainless steel 316L Dial: Hand-painted, silver bullseye. Size: 38,5 mm (diameter), 9,5 mm height, 48 mm lug-to-lug, 20 mm between lugs Case: Heritage Movement: Sellita SW200-1 - Standard finish, freq./h 28.800 (4Hz), 26 jewels, 38h power reserve Crystal: Double domed acrylic Water resistance: 5 atm / 50 m / 164 ft Strap: Black Leather Strap Warranty: 5 years Art and paint by Mythic Scandinavian Watch Art. Product image is of concept art. Please note, each dial is painted by hand. Variations may occur from the concept art. About the Art J29 Tunnan Silver Swiss – Anniversary Edition Inspired by the iconic J29 Tunnan, this pilot watch pays tribute to Swedish aviation history and celebrates the 100th anniversary of the Swedish Air Force. Each watch features a hand-painted dial, designed and painted by Mythic Scandinavian Watch Art, depicting the legendary J29 Tunnan aircraft—Each dial is painted to order, making every piece unique. The design draws inspiration from pilot watches of the 1940s and 1950s, combined with details from the cockpit. Its slim 38.5 mm case reflects the smaller proportions of the era, offering a refined and versatile timepiece. The hands are inspired by cockpit gauges, while the classic bullseye dial with vertical brushing complements the flieger-style case with timeless balance and vintage design. The J29 Tunnan—translated as “The Barrel” because of its shape—was Sweden’s first fighter jet and a major technological leap. Developed in the late 1940s, it became Europe’s first swept-wing aircraft and set world speed records on two occasions. In the early 1960s, the J29 was used in the UN mission during the Congo crisis, becoming Saab’s first combat-used aircraft. It remained in operation until 1976 and is today an important part of both Swedish and international aviation history.",
    "productType": "Watches",
    "tags": [
@@ -2363,13 +2371,17 @@
     "Strap": "Black Leather Strap",
     "Warranty": "5 years"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -2429,7 +2441,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2662,7 +2674,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2756,7 +2768,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2843,7 +2855,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2908,7 +2920,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -2962,7 +2974,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3023,7 +3035,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3126,7 +3138,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3227,7 +3239,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3288,7 +3300,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3349,7 +3361,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3400,7 +3412,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3474,7 +3486,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3534,7 +3546,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3695,7 +3707,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3764,7 +3776,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3838,7 +3850,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3909,7 +3921,7 @@
    "specsRaw": {},
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -3980,7 +3992,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -4052,7 +4064,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -4107,7 +4119,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -4166,7 +4178,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -4225,7 +4237,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -4297,7 +4309,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -4353,7 +4365,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",
@@ -4407,7 +4419,7 @@
    "specsRaw": {},
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:49:07.244Z",

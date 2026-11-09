@@ -110,7 +110,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
@@ -208,7 +208,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
@@ -316,7 +316,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
@@ -397,7 +397,7 @@
    ],
    "priceMinor": 102500,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The Q1-B Obsidian is a 1000m dive watch with a case of forged, pattern-welded Damascus Steel. Two steels are forge-welded, folded and etched in ferric chloride, so the pattern runs through the metal itself, never laser-etched onto its surface. No two cases are alike; each is numbered, one of 100 from each release. Specifications Case: forged Damascus Steel, 43.2mm, full Damascus caseback Movement: Sellita SW200-1 automatic Water resistance: 1000m (100 ATM), helium escape valve Bezel: unidirectional, 120-click Crystal: sapphire Lume: BGW9 Super-LumiNova Lug width: 22mm Strap: Hybrid nylon-rubber Warranty: 2 years Dial : black",
    "productType": "Watch",
    "tags": [
@@ -436,13 +436,17 @@
     "Weight": "118g (watch head only)",
     "Certified to 100ATM": "(1000 metres)"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -595,7 +599,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
@@ -676,7 +680,7 @@
    ],
    "priceMinor": 102500,
    "currency": "USD",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "The Q1-B Crimson is a 1000m dive watch with a case of forged, pattern-welded Damascus Steel. Two steels are forge-welded, folded and etched in ferric chloride, so the pattern runs through the metal itself, never laser-etched onto its surface. No two cases are alike; each is numbered, one of 100 from each release. Specifications Case: forged Damascus Steel, 43.2mm, full Damascus caseback Movement: Sellita SW200-1 automatic Water resistance: 1000m (100 ATM), helium escape valve Bezel: unidirectional, 120-click Crystal: sapphire Lume: BGW9 Super-LumiNova Lug width: 22mm Strap: Hybrid nylon-rubber Warranty: 2 years Dial : dark red",
    "productType": "Watch",
    "tags": [
@@ -716,13 +720,17 @@
     "Weight": "118g (watch head only)",
     "Certified to 100ATM": "(1000 metres)"
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -838,7 +846,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
@@ -991,7 +999,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
@@ -1144,7 +1152,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",
@@ -1297,7 +1305,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:54:12.263Z",

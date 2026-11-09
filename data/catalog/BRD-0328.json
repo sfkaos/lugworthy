@@ -1386,7 +1386,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:40:28.209Z",
@@ -2301,7 +2301,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:40:28.209Z",
@@ -5217,7 +5217,7 @@
    ],
    "priceMinor": 71900,
    "currency": "USD",
-   "availability": "sold_out",
+   "availability": "in_stock",
    "description": "The ROYAL SMITH 90-006 is a signature model within KUOE's premium ROYAL SMITH collection. The waffle texture adds character and depth to the design, while Swiss-made Super-LumiNova® coating on the hands and hour/minute markers absorbs light and emits a temporal strong, long-lasting glow in low-light conditions. Powering the watch is a premium Japanese automatic movement from the CITIZEN MIYOTA 9000 Series, Cal.90S5. Offering high-beat performance and proven reliability, it serves as the perfect foundation for a finely crafted mechanical watch. With a screw-down crown ensuring 10 BAR water resistance, the ROYAL SMITH 90-006 combines timeless elegance suitable for formal occasions with the practicality required for everyday wear.",
    "productType": null,
    "tags": [],
@@ -5248,13 +5248,17 @@
     "Band": "Italian leather",
     "Glass": "Sapphire crystal with AR coating"
    },
-   "soldOut": true,
-   "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": false,
+   "available": true,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:40:28.209Z",
      "availability": "sold_out"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "in_stock"
     }
    ],
    "collectionIds": [
@@ -7403,7 +7407,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T07:40:28.209Z",

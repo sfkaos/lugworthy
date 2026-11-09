@@ -122,7 +122,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -268,7 +268,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -416,7 +416,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -501,7 +501,7 @@
    ],
    "priceMinor": 33900,
    "currency": "EUR",
-   "availability": "in_stock",
+   "availability": "sold_out",
    "description": "A limited edition of 100 individually numbered pieces. The Prometeo Koi reveals a deep lacquered black dial where two koi emerge only when darkness falls. Minimal in daylight. Luminous in darkness. A quiet scene beneath the surface. The architecture of the Prometeo, with a presence entirely its own. The Prometeo, reimagined. Something bold, elegant, and unmistakably Italian continues to evolve. The Viqueria Prometeo has long represented the core of our collection. A model designed to balance proportion, presence, and everyday wearability in a compact 39.5 mm case with integrated bracelet. Its architecture remains unchanged — clean, structured, and versatile — built to move effortlessly between formal and casual settings without losing identity. Engineered for daily use and longevity, it retains the reliable Miyota 8215 automatic movement, sapphire crystal, 100 meters of water resistance, and generous BGW9 Super-LumiNova for clarity in low light. A modern mechanical watch, designed with Italian restraint and intention. This special edition begins from that foundation. But it moves somewhere quieter. The Koi Special Edition For this limited and numbered release, the Prometeo becomes a scene rather than a surface. The dial is finished in deep lacquered black, not as a simple color, but as depth. Beneath it, two koi move in a suspended moment. Leaves and details emerge only when light disappears. The composition remains still. Time moves across it. Unlike previous versions of the Prometeo, this edition is not defined by material variation or dial texture. Every piece shares the same dial. The same scene. The same quiet balance between light and darkness. In daylight, the watch appears minimal. Controlled. Almost restrained. In darkness, the composition reveals itself through Super-LumiNova, transforming the dial into a different environment entirely. Not brighter. Just more present. The architecture of the Prometeo remains. The mechanics remain. But the perception shifts. A familiar form, a different presence The integrated bracelet, brushed and polished surfaces, and compact proportions keep the watch wearable in any context. Yet the Koi edition introduces something less immediate. Something that rewards attention over time rather than impact at first glance. It is not a variation of color. It is a variation of atmosphere. A watch designed to be observed, not announced. The Prometeo spirit, quietly expressed The Prometeo has always drawn inspiration from the great integrated designs of modern watchmaking. From Italian design culture. From the idea that a watch should feel deliberate, not excessive. This special edition does not change that philosophy. It simply narrows the focus. The form remains familiar. The mechanics remain proven. The scene remains.",
    "productType": "Prometeo",
    "tags": [],
@@ -554,13 +554,17 @@
     "Opt-Out of Sale": "You have the right to opt out of certain cookie use, as described in the section headed “ How to control or delete cookies .”",
     "No discrimination": "If you choose to exercise any of your rights under the CCPA, youhave the right to not receive discriminatory treatment by us. This section is available in alternative formats upon request by contacting us as described in the section headed “ Contact Us ” below."
    },
-   "soldOut": false,
-   "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "soldOut": true,
+   "available": false,
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
      "availability": "in_stock"
+    },
+    {
+     "at": "2026-11-09T07:13:29.666Z",
+     "availability": "sold_out"
     }
    ],
    "collectionIds": [
@@ -677,7 +681,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -797,7 +801,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -917,7 +921,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -1042,7 +1046,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -1162,7 +1166,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -1300,7 +1304,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -1448,7 +1452,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -1591,7 +1595,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -1720,7 +1724,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -1869,7 +1873,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -2018,7 +2022,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -2157,7 +2161,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -2300,7 +2304,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -2443,7 +2447,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -2595,7 +2599,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -2747,7 +2751,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -2873,7 +2877,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -2980,7 +2984,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -3071,7 +3075,7 @@
    },
    "soldOut": false,
    "available": true,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -3185,7 +3189,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
@@ -3299,7 +3303,7 @@
    },
    "soldOut": true,
    "available": false,
-   "availabilityCheckedAt": "2026-11-02T07:13:42.318Z",
+   "availabilityCheckedAt": "2026-11-09T07:13:29.666Z",
    "availabilityHistory": [
     {
      "at": "2026-11-01T08:50:04.405Z",
